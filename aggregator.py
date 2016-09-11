@@ -14,7 +14,8 @@ def get_story_info_safe(story_id):
     return info
         
 
-#returns map {chapter descent string -> ChapterInfo object}
+''' yields a map of {chapter descent string -> ChapterInfo object} by downloading the chapters.
+    Note that it's a generator. '''
 def get_chapters(story_id,chapter_suffixes,threads_per_batch=5):
     total_num_chapterse = len(chapter_suffixes)
     chapter_prefix = "http://www.writing.com/main/interact/item_id/" + story_id + "/map/"
@@ -39,7 +40,7 @@ def get_chapters(story_id,chapter_suffixes,threads_per_batch=5):
                 chapter = get_chapter(chapter_prefix + self.chapter_suffix)
             except (requests.exceptions.ConnectionError, ServerRefusal) as e:
                 # Wait and we will try this chapter again later.
-                time.sleep(10)
+                time.sleep(5)
                 lock.acquire()
                 chapter_suffixes.append(self.chapter_suffix) #put the suffix back on the list
                 lock.release()
@@ -65,8 +66,7 @@ def get_chapters(story_id,chapter_suffixes,threads_per_batch=5):
         for i in range(len(threads)):
             threads[i].join()
 
-        print('# {}: {}/{}'.format(story_id,len(chapters),total_num_chapterse))
-
-    return chapters
+        for descent, chapter in chapters.items():
+            yield descent, chapter
         
-    
+        print('# {}: {}/{}'.format(story_id,len(chapters),total_num_chapterse))

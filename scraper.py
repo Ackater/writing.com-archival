@@ -117,6 +117,8 @@ def get_story_info(url,award_banner=False):
     story = get_page(url)
     data = StoryInfo()
 
+    assertNotServerRefusal(story)
+
     formatter = ""
     if award_banner:
         formatter = "1"
