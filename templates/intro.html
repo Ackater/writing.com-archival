@@ -1,0 +1,18 @@
+{# This is a jinja2 template for the intro page. #}
+<!DOCTYPE html>
+<html>
+  <title> {{ storyInfo.pretty_title }} </title>
+  <head>
+    <link rel="stylesheet" type="text/css" href="../../templates/style.css">
+  </head>
+  <body>
+    <div class="content">
+      <h1> {{ storyInfo.pretty_title }} </h1>
+      <p><i> {{ storyInfo.brief_description }} </i></p>
+      <p class="author"> By: <a href = "http://www.writing.com/main/view_item/action/show_chapters/user_id/{{ storyInfo.author_id }}"> {{storyInfo.author_id}} </a></p>
+      <p> {{ storyInfo.description }} </p>
+      <a href = "1.html">Enter the story</a><br/>
+      <a href = "outline.html">View all chapters</a>
+    </div>
+  </body>
+</html>

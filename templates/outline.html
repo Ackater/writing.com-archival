@@ -1,0 +1,18 @@
+{# This is a Jinja2 template for the outline page. #}
+<!DOCTYPE html>
+<html>
+  <title> {{ title }} </title>
+  <head>
+    <link rel="stylesheet" type="text/css" href="../../templates/style.css">
+  </head>
+  <body>
+    <div class="content">
+      <h1> {{ title }} </h1>
+      <ul>
+	{% for i in num %}
+	<li> <a href="{{ descents[i] + ".html"}}">{{ descents[i] + "# " + names[i]}}</a></li>
+	{% endfor %}
+      </ul>
+    </div>
+  </body>
+</html>

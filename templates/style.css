@@ -1,0 +1,13 @@
+/* lmao what is the internet */
+body {
+    background: black;
+}
+.content {
+    width: 60%;
+    margin: 0 auto;
+    padding: 10px 10px;
+    background: darkgray;
+}
+.content ul {
+    list-style: none;
+}

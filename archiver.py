@@ -1,7 +1,7 @@
 #Fucking mutable data I wish I was in Clojure
 from scraper import get_chapter_list
 from aggregator import get_chapters,get_story_info_safe
-from templates import formatChapter, formatIntro, formatOutline
+from htmlformat import formatChapter, formatIntro, formatOutline
 import os
 
 def barf(filepath, text):
@@ -38,8 +38,10 @@ def get_missing_chapters(canon_descents,directory,story_id):
 
     return [ x[:-5] for x in missing_chapters_connections ]
 
-def archive(story_id,archive_dir="archive"):
+def archive(story_id):
     #Directory
+    #Hard coded because the stylesheet in ./templates/style.css is referenced with a relative path
+    archive_dir="archive"
     story_root = archive_dir+"/"+story_id+"/"
     
     if not os.path.exists(story_root):
