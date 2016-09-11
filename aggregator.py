@@ -37,14 +37,15 @@ def get_chapters(story_id,chapter_suffixes,threads_per_batch=5):
         def run(self):
             try:
                 chapter = get_chapter(chapter_prefix + self.chapter_suffix)
-            except ServerRefusal:
-                print("Server refusal for " + self.chapter_suffix + ". Will retry.")
-                #Allow wait time
-                time.sleep(5)
+            except (requests.exceptions.ConnectionError, ServerRefusal) as e:
+                # Wait and we will try this chapter again later.
+                time.sleep(10)
+                lock.acquire()
                 chapter_suffixes.append(self.chapter_suffix) #put the suffix back on the list
+                lock.release()
                 return
             except Exception as e:
-                #Let caller deal with it
+                # Unknown error. Let the caller deal with it.
                 chapter = e
                
             lock.acquire()
