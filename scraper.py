@@ -6,6 +6,7 @@ import time
 
 #logs in or reloads cookies upon import
 from session import get_page
+from session import browser
 
 ###   XPATHS AND REGEXPS   ###
 #note that these return [] when a match fails
@@ -38,6 +39,10 @@ outline_links_element_xpath = ".//*[@id='Content_Column_Inner']/div[6]"
 #For the heavy server message
 refusal_text_substring = "Due to heavy server volume, Interactive Stories are temporarily unavailable".lower()
         
+#For a search page
+search_results_xp=".//*[@id='Content_Column_Inner']/div[6]/font/div/div"
+search_pages_dropdown_xp = ".//*[@id='pageVal1']"
+
 def assertNotServerRefusal(page):
     try:
         if page.text_content().lower().find(refusal_text_substring) >= 0:
@@ -149,3 +154,31 @@ def get_story_info(url,award_banner=False):
             return get_story_info(url,True)
 
     return data
+
+
+''' generator that yields the url of every page of the search, given the url for the first (or ith) page. '''
+def all_search_urls(search_url):
+    search = get_page(search_url)
+    dropdown = search.xpath(search_pages_dropdown_xp)[0]
+    for o in dropdown.value_options:
+        u = re.sub(r'&page=(\d+)','&page=' + o, search_url)
+        u= re.sub(r'&resort_page=(\d+)','&resort_page=' + str(int(o)-1),u)
+        yield u
+
+''' takes a search page element tree and returns all INTERACTIVE item_ids listed '''
+def get_search_page_interactive_ids(search):
+    assertNotServerRefusal(search)
+    listings = search.xpath(search_results_xp)[0]
+    items = []
+    for l in listings.iterchildren():
+        #I can only do interactive stories!
+        items.append(re.findall(r"interact/item_id/(.+?)'" , list(l.getchildren())[0].attrib['oncontextmenu'])[0])
+    return items
+
+''' returns a list of all interactive ids for every result in this search page and all subsequent ones. '''
+def get_search_ids(search_url):
+    for u in all_search_urls(search_url):
+        ids = get_search_page_interactive_ids(get_page(u))
+        for id in ids:
+            yield id
+    

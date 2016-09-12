@@ -1,4 +1,5 @@
-from scraper import get_chapter_list
+from scraper import get_chapter_list, get_search_ids
+from scraper import get_search_page_interactive_ids, all_search_urls
 from aggregator import get_chapters,get_story_info_safe
 from htmlformat import formatChapter, formatIntro, formatOutline
 import os
@@ -77,3 +78,15 @@ def archive(story_id):
         print('# {}: Finished!'.format(story_id))
 
     return error_chapters
+
+''' calls archive on every interactive listed in this search page and all subsequent pages. Does not thread each story b/c that would overload the server. 
+   !! NOTE!!: THIS ONLY WORKS IF YOU GIVE A URL WHERE THE PAGE NO. IS SPECIFIED IN THE URL.
+              NORMALLY THE PAGE IS SPECIFIED IN POST, OR SOMETHING.
+              TO ENSURE A USEABLE URL, GO TO A SEARCH PAGE, AND CLICK THE MAGNIFYING GLASS ICON ABOVE THE RESULT LIST, AND USE THE NEW URL
+'''
+def archive_search(search_url):
+    if search_url.find('&page=') < 0:
+        raise ValueError('Incorrect URL given to archive_search. Please see note in its source code.')
+        
+    for id in get_search_ids(search_url):
+        archive(id)
