@@ -87,6 +87,10 @@ def archive(story_id):
 def archive_search(search_url):
     if search_url.find('&page=') < 0:
         raise ValueError('Incorrect URL given to archive_search. Please see note in its source code.')
-        
-    for id in get_search_ids(search_url):
+
+    print('# Gathering item_ids of the search...')
+    ids = list(get_search_ids(search_url))
+    
+    for idx, id in enumerate(ids):
+        print('### Archiving item_id {}/{}'.format(idx+1,len(ids)))
         archive(id)

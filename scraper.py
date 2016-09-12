@@ -177,7 +177,9 @@ def get_search_page_interactive_ids(search):
 
 ''' returns a list of all interactive ids for every result in this search page and all subsequent ones. '''
 def get_search_ids(search_url):
-    for u in all_search_urls(search_url):
+    urls = list(all_search_urls(search_url))
+    for idx,u in enumerate(urls):
+        print('# Gathering ids from page {}/{}'.format(idx+1,len(urls)))
         ids = get_search_page_interactive_ids(get_page(u))
         for id in ids:
             yield id
