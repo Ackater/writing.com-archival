@@ -63,26 +63,10 @@ def __log_in():
 
     sn = ""
     pw = ""
-    if os.path.isfile('credentials'):
-        credentials = open("credentials")
-        sn,pw = credentials.readline().split()
-    else:
-        print("Enter your username and password to login.")
+    print("Enter your username and password for writing.com.")
 
-        sn = __prompt_ensure("Enter your username: ")
-        pw = __prompt_ensure("Enter your password: ")
-
-        print("Do you want to save your username and password to \"credentials\"?")
-        print("(If you delete it, you'll be asked to input your creds again if the session expires.)")
-
-        saves_credentials = __prompt_yn()
-        print("OK.")
-        
-        if saves_credentials:
-            creds = open('credentials','w')
-            creds.write(sn + " " + pw)
-            creds.flush()
-            creds.close()
+    sn = __prompt_ensure("Enter your username: ")
+    pw = __prompt_ensure("Enter your password: ")
     
     username_form['value'] = sn
     password_form['value'] = pw
