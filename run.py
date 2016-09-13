@@ -5,11 +5,11 @@ import argparse
 def update(args):
     update_archive()
 
-def search(args):
+def get_search(args):
     for url in args.urls:
         #unquote it
         url = url.replace('"','')
-        archive_search(args.search[0])
+        archive_search(url)
 
 def get(args):
     for id in args.ids:
@@ -31,10 +31,10 @@ parser_get = subparsers.add_parser('get', help=get_help)
 parser_get.add_argument('ids', nargs='+',help=get_help)
 parser_get.set_defaults(func=get)
 
-search_help='download/update every item_id in the search urls. Quote the URLs with "". See note in archiver.py/archive_search on proper URLs.'
-parser_search = subparsers.add_parser('search', help=search_help)
-parser_search.add_argument('urls',nargs='+',help=search_help)
-parser_search.set_defaults(func=search)
+get_search_help='download/update every item_id in the search urls. Quote the URLs with "". See note in archiver.py/archive_search on proper URLs.'
+parser_search = subparsers.add_parser('get_search', help=get_search_help)
+parser_search.add_argument('urls',nargs='+',help=get_search_help)
+parser_search.set_defaults(func=get_search)
 
 args = parser.parse_args()
 args.func(args)
