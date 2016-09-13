@@ -23,6 +23,7 @@ chapter_past_member_name_re     = "'(.*?)'"
 chapter_past_member_name_substr = "past member"
 chapter_nonexistent_member_name = "non-existent user"
 chapter_nonexistent_member_xp   = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[2]/text()[2]"
+chapter_unlinked_member_xp       = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[2]/i"
 
 #For a story page
 #....Note: if the story has an award banner, format with '1'. else, format with '0'.
@@ -76,20 +77,31 @@ def get_chapter(url):
     data.content = ''.join(xpath(chapter_content_xp))
 
     #Author ID
-    #(The html is different if the author is a past member.)
-    past_indicator = xpath(chapter_past_member_name_xp)[0].lower()
-    data.is_author_past = (past_indicator.find(chapter_past_member_name_substr) >= 0)
-    nonexistent = xpath(chapter_nonexistent_member_xp)
+    #(The html is different if the author is current or past or nonexistent or unlisted.)
+    #This amalgamation of kludges works for everything I've seen so far.
+    
+    unlisted = xpath(chapter_unlinked_member_xp)
 
-    if (nonexistent != [] and nonexistent[0].lower().find(chapter_nonexistent_member_name) >= 0):
-            data.author_id = "NON-EXISTENT"
-    else:
-        if data.is_author_past:
-            data.author_id = re.findall(chapter_past_member_name_re,past_indicator)[0]
+    if unlisted != []:
+        unlisted = unlisted[0].text_content()
+        if re.match('addition by: (.)+', unlisted):
+            data.author_id = unlisted[13:]
+            data.is_author_past = True
+            
+    if data.author_id == "":
+        past_indicator = xpath(chapter_past_member_name_xp)[0].lower()
+        data.is_author_past = (past_indicator.find(chapter_past_member_name_substr) >= 0)
+        nonexistent = xpath(chapter_nonexistent_member_xp)
+
+        if (nonexistent != [] and nonexistent[0].lower().find(chapter_nonexistent_member_name) >= 0):
+                data.author_id = "NON-EXISTENT"
         else:
-            author_url = xpath(chapter_current_member_name_xp)
-            author_url = author_url[0].attrib['href']
-            data.author_id = author_url[author_url.rfind('/')+1:]
+            if data.is_author_past:
+                data.author_id = re.findall(chapter_past_member_name_re,past_indicator)[0]
+            else:
+                author_url = xpath(chapter_current_member_name_xp)
+                author_url = author_url[0].attrib['href']
+                data.author_id = author_url[author_url.rfind('/')+1:]
 
     #Choices
     choices_root = xpath(chapter_choices_xp)
