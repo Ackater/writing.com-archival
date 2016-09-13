@@ -9,6 +9,12 @@ def barf(filepath, text):
     with open(filepath,'w') as o:
         o.write(text)
 
+def is_item_id(string):
+    if re.match('(\d)+-(.)+',string): #Returns None or match object
+        return True
+    else:
+        return False
+
 ''' Returns a list of descent strings [str1 str2 ... stri] s.t. the local archive is missing those chapters from the remote story.
     Will not return strictly the missing chapters. Will also return each's predecessor, because that one's choices will have to be updated.
     To accomplish that I have chosen the naive way of just removing and redownloading the chapters with newly existing choices. '''
@@ -48,7 +54,7 @@ def get_existing_archives():
     ls = os.listdir()
     os.chdir('..')
 
-    return filter(lambda x: re.match('(\d)+-(.)+',x),ls)
+    return filter(lambda x: is_item_id(x),ls)
 
 ''' Archives the story designated by its id (the 'item_id' in urls) and downloads missing chapters.
     Returns a map {descent : string -> error : Exception} describing any errors it encountered while downloading chapters.'''

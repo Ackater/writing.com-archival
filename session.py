@@ -20,7 +20,6 @@ def __save_session():
 '''Attempts to resume the session cookies from before. If no cookies exist, log in.'''
 def __reload_session():
     if os.path.isfile('session'):
-        print("Reloading session.")
         #Open session file
         f = open('session','r+')
         pmud = json.loads(f.readline())
