@@ -3,6 +3,7 @@ from scraper import get_search_page_interactive_ids, all_search_urls
 from aggregator import get_chapters,get_story_info_safe
 from htmlformat import formatChapter, formatIntro, formatOutline
 import os
+import re
 
 def barf(filepath, text):
     with open(filepath,'w') as o:
@@ -41,7 +42,16 @@ def get_missing_chapters(canon_descents,directory,story_id):
 
     return [ x[:-5] for x in missing_chapters_connections ]
 
-''' Archives the story designated by its id (the 'item_id' in urls) and downloads missing chapters.'''
+''' A list of all currently existing things in ./archive/ '''
+def get_existing_archives():
+    os.chdir('archive')
+    ls = os.listdir()
+    os.chdir('..')
+
+    return filter(lambda x: re.match('(\d)+-(.)+',x),ls)
+
+''' Archives the story designated by its id (the 'item_id' in urls) and downloads missing chapters.
+    Returns a map {descent : string -> error : Exception} describing any errors it encountered while downloading chapters.'''
 def archive(story_id):
     #Directory
     #Hard coded because the stylesheet in ./templates/style.css is referenced with a relative path
@@ -73,7 +83,7 @@ def archive(story_id):
             barf(story_root + descent + ".html", formatChapter(chapter,descent,canon_descents))
 
     if len(error_chapters) > 0:
-     print('# {}: Finished with {} errors. Try again. If problem persists contact the developer.'.format(story_id,len(error_chapters)))
+        print('# {}: Finished with {} errors. Try again. If problem persists contact the developer.'.format(story_id,len(error_chapters)))
     else:
         print('# {}: Finished!'.format(story_id))
 
@@ -83,6 +93,7 @@ def archive(story_id):
    !! NOTE!!: THIS ONLY WORKS IF YOU GIVE A URL WHERE THE PAGE NO. IS SPECIFIED IN THE URL.
               NORMALLY THE PAGE IS SPECIFIED IN POST, OR SOMETHING.
               TO ENSURE A USEABLE URL, GO TO A SEARCH PAGE, AND CLICK THE MAGNIFYING GLASS ICON ABOVE THE RESULT LIST, AND USE THE NEW URL
+    returns a mapping of item_id to error chapters map as described in the output of archive.
 '''
 def archive_search(search_url):
     if search_url.find('&page=') < 0:
@@ -90,7 +101,24 @@ def archive_search(search_url):
 
     print('# Gathering item_ids of the search...')
     ids = list(get_search_ids(search_url))
+
+    error_chapters = {}
     
     for idx, id in enumerate(ids):
         print('### Archiving item_id {}/{}'.format(idx+1,len(ids)))
-        archive(id)
+        error_chapters[id] = archive(id)
+
+    return error_chapters
+
+        
+''' Updates every existing archive 
+    returns a mapping of item_id to error chapters map as described in the output of archive.
+'''
+def update_archive():
+    ids = list(get_existing_archives())
+    error_chapters = {}
+    for i,id in enumerate(ids):
+        print('### Updating archive {}/{}'.format(i,len(ids)))
+        error_chapters[id] = archive(id)
+
+    return error_chapters
