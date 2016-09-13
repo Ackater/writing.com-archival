@@ -23,7 +23,7 @@ To get the proper URL, first perform a search on writing.com. Then click the mag
 
 ### Your first use
 
-You will be asked to enter your login credentials to writing.com on your first use. This is because writing.com requires a logged-in session to access interactive chapters. This doesn't have to keep a record of your password, but session cookies will be saved.
+You will be asked to enter your login credentials to writing.com on your first use. This is because writing.com requires a logged-in session to access interactive chapters. This won't your password, but session cookies will be saved in a file called `session`. 
 
 ### Dependencies
 
