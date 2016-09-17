@@ -3,7 +3,7 @@ This is a Python3 utility for archiving interactive stories from [writing.com](h
 
 Archiving a story will download every chapter from that story into `./archive/<story_id>/` as a set of browsable html files which you can open in your browser. Updating a story downloads any new chapters into the archive.
 
-Usage:
+Command line usage:
 
 ```
 $ cd <path-to-source> 
@@ -27,7 +27,7 @@ You will be asked to enter your login credentials to writing.com on your first u
 
 ### Dependencies
 
-Python3 and the packages `mechanicalsoup` and `jinja2`. You will need to `pip install` them.
+Python3 and the packages `mechanicalsoup`, `jinja2`, and `lxml`. You will need to `pip install` them.
 
 ### Troubleshooting
 
