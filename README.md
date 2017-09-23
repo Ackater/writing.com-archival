@@ -15,9 +15,9 @@ $ ./run.py update                          # Update existing archives
 
 # CAVEAT EMPTOR - BUYER BEWARE
 
-I am no longer actively maintaining this repository. You should be prepared to fix the code if you really want to get it to work. (Feel free to fork the repository.) I think it actually broke a while ago since the HTML layout of the chapter pages changed a bit.
+I am no longer actively maintaining this repository. You should be prepared to fix the code if you really want to get it to work. I think it actually broke a while ago when the HTML layout of the chapter pages changed a bit. So if you're not a programmer or at least familiar with running Python programs, turn back now. Feel free to fork the repository though.
 
-Also, I've only used this on Linux. Mac will probably work, but I doubt it will work out of the box on Windows.
+Also, I've only used this on Linux. It probably works on Mac, but I doubt it will work out of the box on Windows.
 
 ### Item_id?
 
