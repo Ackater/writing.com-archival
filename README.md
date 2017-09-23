@@ -13,6 +13,12 @@ $ ./run.py get_search "<url1>" "<url2>"... # Downloads every interactive in thes
 $ ./run.py update                          # Update existing archives
 ```
 
+# CAVEAT EMPTOR - BUYER BEWARE
+
+I am no longer actively maintaining this repository. You should be prepared to fix the code if you really want to get it to work. (Feel free to fork the repository.) I think it actually broke a while ago since the HTML layout of the chapter pages changed a bit.
+
+Also, I've only used this on Linux. Mac will probably work, but I doubt it will work out of the box on Windows.
+
 ### Item_id?
 
 The item_id for a story is in its url: `http://www.writing.com/main/interact/item_id/$(THIS_IS_THE_ITEM_ID)/map/14411122`
