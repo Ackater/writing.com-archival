@@ -56,8 +56,8 @@ def __prompt_ensure(str):
 '''Logs in to writing.com and saves the session cookies.'''
 def __log_in():
     print("Logging in...")
-    login_p = browser.get('http://www.writing.com/main/login.php')
-    login_form = login_p.soup.find("form",method="post",action="http://www.Writing.Com/main/login.php")
+    login_p = browser.get('https://www.writing.com/main/login.php')
+    login_form = login_p.soup.find("form",method="post",action="https://www.Writing.Com/main/login.php")
     username_form = login_form.find("input",type="text")
     password_form = login_form.find("input",type="password")
 
