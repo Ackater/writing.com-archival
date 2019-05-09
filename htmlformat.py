@@ -8,7 +8,6 @@ import sys
 env = Environment(loader=PackageLoader(__name__,'templates'))
 
 def formatChapter(chapterInfo, descent,existingdescents):
-    chapterInfo.content = re.sub('\r\n','<br>',chapterInfo.content)
     previouschapter = descent[:-1]
 
     #Jinja doesn't support 'in' in if statements

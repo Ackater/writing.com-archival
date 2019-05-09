@@ -4,6 +4,9 @@ from datetime import datetime
 from defs import ChapterInfo, StoryInfo, ServerRefusal
 import time
 
+import lxml
+from lxml import html
+
 #logs in or reloads cookies upon import
 from session import get_page
 from session import browser
@@ -14,31 +17,30 @@ from session import browser
 #For a chapter page
 #   Really important note here. If the chapter's descent is '1' or '0' (it is the first chapter), you must format these chapter xpaths with '1'. else, format them with '0'.
 #   This is because the first chapter doesn't have the additional div element before all content announcing which choice you just took.
-chapter_title_xp                = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[2-{}]/span[1]/big/big/b/text()"
-chapter_content_xp              = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[3-{}]/div/text()"
-chapter_past_member_name_xp     = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[2-{}]/text()[2]"
-chapter_current_member_name_xp  = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[2-{}]/a[1]"
-chapter_choices_xp              = ".//*[@id='myChoices']"
+
+chapter_title_xp                = ".//*[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div[2-{}]/span[1]/big/big/b/text()"
+chapter_content_xp              = ".//div[@class='KonaBody']"
+chapter_past_member_name_xp     = ".//*[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div[2-{}]/text()[2]" #TODO
+chapter_current_member_name_xp  = ".//*[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div[2-{}]/span[2]/a" #TODO
+chapter_choices_xp              = ".//div[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div/table/tr/td[@class='norm']/div/div[1]//a"
 chapter_past_member_name_re     = "'(.*?)'"
 chapter_past_member_name_substr = "past member"
 chapter_nonexistent_member_name = "non-existent user"
-chapter_nonexistent_member_xp   = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[2]/text()[2]"
-chapter_unlinked_member_xp       = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[2]/i"
+chapter_nonexistent_member_xp   = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[2]/text()[2]" #TODO
+chapter_unlinked_member_xp       = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[2]/i"   #TODO
 
 #For a story page
 #....Note: if the story has an award banner, format with '1'. else, format with '0'.
 story_title_xp             = ".//*[@id='Content_Column_Inner']/div[4]/table/tr/td[2]/div[2+{}]/a/text()"
 story_author_id_xp         = ".//*[@id='Content_Column_Inner']/div[4]/table/tr/td[2]/div[4+{}]/a[1]"
-story_description_xp       = ".//*[@id='Content_Column_Inner']/div[6]/div[2]/table/tr/td/text()"
+story_description_xp       = ".//*[@id='Content_Column_Inner']/div[6]/div[2]//td"
 story_brief_description_xp = ".//*[@id='Content_Column_Inner']/div[4]/table/tr/td[2]/div[6+{}]/big/text()"
 
 #For an outline
-outline_chapters_xpath = ".//*[@id='Content_Column_Inner']/div[6]/div[2]/pre/text()"
-outline_line_separator = "\n\xa0\xa0"
-outline_links_element_xpath = ".//*[@id='Content_Column_Inner']/div[6]"
+outline_chapters_xpath = ".//*[@id='Content_Column_Inner']/div[6]/div[2]/pre//a"
 
 #For the heavy server message
-refusal_text_substring = "Due to heavy server volume, Interactive Stories are temporarily unavailable".lower()
+refusal_text_substring = "Please try again in a few minutes".lower()
         
 #For a search page
 search_results_xp=".//*[@id='Content_Column_Inner']/div[6]/font/div/div"
@@ -74,41 +76,41 @@ def get_chapter(url):
     data.title = xpath(chapter_title_xp)[0]
 
     #Chapter content
-    data.content = ''.join(xpath(chapter_content_xp))
+    data.content = html.tostring(xpath(chapter_content_xp)[0], "unicode", "html")
+
+    #TODO 
 
     #Author ID
     #(The html is different if the author is current or past or nonexistent or unlisted.)
     #This amalgamation of kludges works for everything I've seen so far.
     
-    unlisted = xpath(chapter_unlinked_member_xp)
+    #unlisted = xpath(chapter_unlinked_member_xp)
 
-    if unlisted != []:
-        unlisted = unlisted[0].text_content()
-        if re.match('addition by: (.)+', unlisted):
-            data.author_id = unlisted[13:]
-            data.is_author_past = True
-            
-    if data.author_id == "":
-        past_indicator = xpath(chapter_past_member_name_xp)[0].lower()
-        data.is_author_past = (past_indicator.find(chapter_past_member_name_substr) >= 0)
-        nonexistent = xpath(chapter_nonexistent_member_xp)
+    #if unlisted != []:
+    #    unlisted = unlisted[0].text_content()
+    #    if re.match('addition by: (.)+', unlisted):
+    #        data.author_id = unlisted[13:]
+    #        data.is_author_past = True
+    
+    #if data.author_id == "":
+    #    past_indicator = xpath(chapter_past_member_name_xp)[0].lower()
+    #    data.is_author_past = (past_indicator.find(chapter_past_member_name_substr) >= 0)
+    #    nonexistent = xpath(chapter_nonexistent_member_xp)
 
-        if (nonexistent != [] and nonexistent[0].lower().find(chapter_nonexistent_member_name) >= 0):
-                data.author_id = "NON-EXISTENT"
-        else:
-            if data.is_author_past:
-                data.author_id = re.findall(chapter_past_member_name_re,past_indicator)[0]
-            else:
-                author_url = xpath(chapter_current_member_name_xp)
-                author_url = author_url[0].attrib['href']
-                data.author_id = author_url[author_url.rfind('/')+1:]
+    #    if (nonexistent != [] and nonexistent[0].lower().find(chapter_nonexistent_member_name) >= 0):
+    #            data.author_id = "NON-EXISTENT"
+    #    else:
+    #        if data.is_author_past:
+    #            data.author_id = re.findall(chapter_past_member_name_re,past_indicator)[0]
+    #        else:
+    #            author_url = xpath(chapter_current_member_name_xp)
+    #            author_url = author_url[0].attrib['href']
+    #            data.author_id = author_url[author_url.rfind('/')+1:]
 
     #Choices
-    choices_root = xpath(chapter_choices_xp)
-    if choices_root != []:
-        choices = list(choices_root[0].iterlinks())
-        for choice in choices:
-            data.choices.append(choice[0].text_content())
+    choices = xpath(chapter_choices_xp)
+    for choice in choices:
+        data.choices.append(choice.text_content())
 
     return data
 
@@ -120,13 +122,20 @@ def get_chapter_list(story_id):
     #Did we hit a "heavy server volume" error?
     assertNotServerRefusal(outline)
 
-    descents = ''.join(outline.xpath(outline_chapters_xpath)).split(outline_line_separator)[1:]
+    #Decided to re-write this because I had no clue what it was doing before.
+    descents = []
+    names = []
+    outline_links = outline.xpath(outline_chapters_xpath)
 
-    for i, descent in enumerate(descents):
-        descents[i] = descents[i].strip().translate({ord('-'): None})
 
-    names = [ e[0].text_content() for e in outline.xpath(outline_links_element_xpath)[0].iterlinks() ]
-        
+    #Links default to https now, but I'm too lazy to change it everywhere, so gonna pull the URL and find the last / to cut off the
+    url_cutoff = outline_links[0].attrib['href'].rfind("/") + 1
+    
+    for a_element in outline_links:
+        link = a_element.attrib['href'][url_cutoff:]
+        descents.append(link)
+        names.append(a_element.text_content())
+
     return descents, names
 
 ''' takes a link to a story landing page and returns a StoryInfo. '''
@@ -154,7 +163,7 @@ def get_story_info(url,award_banner=False):
         data.author_id = authorlink[authorlink.rfind('/')+1:]
 
         #description
-        data.description = xpath(story_description_xp)[0]
+        data.description = html.tostring(xpath(story_description_xp)[0], encoding="unicode", with_tail=False)
 
         #brief description
         data.brief_description = xpath(story_brief_description_xp)[0]
