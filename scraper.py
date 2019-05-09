@@ -76,7 +76,7 @@ def get_chapter(url):
     data.title = xpath(chapter_title_xp)[0]
 
     #Chapter content
-    data.content = html.tostring(xpath(chapter_content_xp)[0], "unicode", "html")
+    data.content = html.tostring(xpath(chapter_content_xp)[0], encoding = "unicode", method="html")
 
     #TODO 
 
