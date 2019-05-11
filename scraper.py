@@ -20,18 +20,13 @@ from session import browser
 
 chapter_title_xp                = ".//*[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div[2-{}]/span[1]/big/big/b/text()"
 chapter_content_xp              = ".//div[@class='KonaBody']"
-chapter_past_member_name_xp     = ".//*[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div[2-{}]/text()[2]" #TODO
-chapter_current_member_name_xp  = ".//*[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div[2-{}]/span[2]/a" #TODO
+chapter_member_name_xp          = "//a[starts-with(@title, 'Username:')]"
 chapter_choices_xp              = ".//div[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div/table/tr/td[@class='norm']/div/div[1]//a"
-chapter_past_member_name_re     = "'(.*?)'"
-chapter_past_member_name_substr = "past member"
-chapter_nonexistent_member_name = "non-existent user"
-chapter_nonexistent_member_xp   = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[2]/text()[2]" #TODO
-chapter_unlinked_member_xp       = ".//*[@id='chapterContent']/table/tr[1]/td/table/tr/td[1]/div[2]/div[2]/i"   #TODO
 
 #For a story page
 #....Note: if the story has an award banner, format with '1'. else, format with '0'.
 story_title_xp             = ".//*[@id='Content_Column_Inner']/div[4]/table/tr/td[2]/div[2+{}]/a/text()"
+story_author_name_xp       = "//a[starts-with(@title, 'Username:')]/text()"
 story_author_id_xp         = ".//*[@id='Content_Column_Inner']/div[4]/table/tr/td[2]/div[4+{}]/a[1]"
 story_description_xp       = ".//*[@id='Content_Column_Inner']/div[6]/div[2]//td"
 story_brief_description_xp = ".//*[@id='Content_Column_Inner']/div[4]/table/tr/td[2]/div[6+{}]/big/text()"
@@ -78,34 +73,19 @@ def get_chapter(url):
     #Chapter content
     data.content = html.tostring(xpath(chapter_content_xp)[0], encoding = "unicode", method="html")
 
-    #TODO 
 
-    #Author ID
-    #(The html is different if the author is current or past or nonexistent or unlisted.)
-    #This amalgamation of kludges works for everything I've seen so far.
+    #Gives 3 results if member isn't deleted, else 1
+    #First one is interactive's creator
+    #Second is the chapter's author
+    #3rd is the chapter's author again but in the copyright link
+    author_name = xpath(chapter_member_name_xp)
     
-    #unlisted = xpath(chapter_unlinked_member_xp)
-
-    #if unlisted != []:
-    #    unlisted = unlisted[0].text_content()
-    #    if re.match('addition by: (.)+', unlisted):
-    #        data.author_id = unlisted[13:]
-    #        data.is_author_past = True
-    
-    #if data.author_id == "":
-    #    past_indicator = xpath(chapter_past_member_name_xp)[0].lower()
-    #    data.is_author_past = (past_indicator.find(chapter_past_member_name_substr) >= 0)
-    #    nonexistent = xpath(chapter_nonexistent_member_xp)
-
-    #    if (nonexistent != [] and nonexistent[0].lower().find(chapter_nonexistent_member_name) >= 0):
-    #            data.author_id = "NON-EXISTENT"
-    #    else:
-    #        if data.is_author_past:
-    #            data.author_id = re.findall(chapter_past_member_name_re,past_indicator)[0]
-    #        else:
-    #            author_url = xpath(chapter_current_member_name_xp)
-    #            author_url = author_url[0].attrib['href']
-    #            data.author_id = author_url[author_url.rfind('/')+1:]
+    if (len(author_name) is 1):
+        data.is_author_past = True
+    else:
+        data.author_name = author_name[1].text_content()
+        #Grab the title, split by new line, and cut off 'Username: ' which is 10 characters
+        data.author_id = author_name[1].attrib['title'].split("\n")[0][10:]
 
     #Choices
     choices = xpath(chapter_choices_xp)
@@ -162,11 +142,16 @@ def get_story_info(url,award_banner=False):
         authorlink = xpath(story_author_id_xp)[0].attrib['href']
         data.author_id = authorlink[authorlink.rfind('/')+1:]
 
+        data.author_name = xpath(story_author_name_xp)[0]
+
         #description
         data.description = html.tostring(xpath(story_description_xp)[0], encoding="unicode", with_tail=False)
 
         #brief description
         data.brief_description = xpath(story_brief_description_xp)[0]
+
+        #image url
+        data.image_url = xpath('//meta[@property="og:image"]')[0].attrib["content"]
 
     except Exception as e:
         if award_banner:
