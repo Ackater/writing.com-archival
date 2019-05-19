@@ -6,7 +6,7 @@ import os
 import re
 
 def barf(filepath, text):
-    with open(filepath,'w') as o:
+    with open(filepath,'w',encoding='utf-8') as o:
         o.write(text)
 
 def is_item_id(string):
