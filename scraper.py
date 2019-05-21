@@ -49,6 +49,12 @@ def assertNotServerRefusal(page):
         #If we have a unicode decoding error assume it's not a refusal page :P
         return False
         
+#A less nuclear option than above. Not sure if the UnicodeDecodeError was necessary
+def hasServerRefusal(page):
+    if page.text_content().lower().find(refusal_text_substring) >= 0:
+        return True
+    return False
+
 ''' takes a chapter page url and returns a ChapterInfo. '''
 def get_chapter(url):
     chapter = get_page(url)
@@ -97,16 +103,17 @@ def get_chapter(url):
 ''' takes a story id and returns two lists [str1 str2 ...] where stri of the first list is an existing chapter descent in the story and stri of the second list is that chapter's title. sorry this is inconsistent with the other funcs...'''
 def get_chapter_list(story_id):
     url = "http://www.writing.com/main/interact/item_id/" + story_id + "/action/outline"
-    outline = get_page(url)
+    while True:
+        outline = get_page(url)
 
-    #Did we hit a "heavy server volume" error?
-    assertNotServerRefusal(outline)
+        #Did we hit a "heavy server volume" error?
+        if hasServerRefusal(outline) is False:
+            break
 
     #Decided to re-write this because I had no clue what it was doing before.
     descents = []
     names = []
     outline_links = outline.xpath(outline_chapters_xpath)
-
 
     #Links default to https now, but I'm too lazy to change it everywhere, so gonna pull the URL and find the last / to cut off the
     url_cutoff = outline_links[0].attrib['href'].rfind("/") + 1
