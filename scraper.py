@@ -55,6 +55,31 @@ def hasServerRefusal(page):
         return True
     return False
 
+# Example of the terrible encoding writing.com does
+# https://www.writing.com/main/interact/item_id/1924673-Acquiring-Powers-2/map/114331111
+# Who did this
+def encodingBruteForce(text):
+    #Check if it's a byte string instead of byte string, assume it's latin-1 and decode if it is
+    try:
+        if isinstance(text, str):
+            text = text.encode('latin-1')
+    except UnicodeEncodeError:
+        #It's somehow already not latin-1????
+        return text
+
+    try:
+        return text.decode('utf-8')
+    except UnicodeDecodeError:
+        #Not UTF-8, go Next
+        pass
+    try:
+        return text.decode('windows-1252')
+    except UnicodeDecodeError:
+        #Not UTF-8, go Next
+        pass
+    return text.decode('latin-1')
+    #If this errors, we have a real problem
+
 ''' takes a chapter page url and returns a ChapterInfo. '''
 def get_chapter(url):
     chapter = get_page(url)
@@ -74,10 +99,16 @@ def get_chapter(url):
         return chapter.xpath(path.format(xpathformat))
 
     #Title
-    data.title = xpath(chapter_title_xp)[0]
+    data.title = encodingBruteForce(xpath(chapter_title_xp)[0])
 
     #Chapter content
-    data.content = html.tostring(xpath(chapter_content_xp)[0], encoding = "unicode", method="html")
+    
+    #Example chapter https://www.writing.com/main/interact/item_id/1924673-Acquiring-Powers-2/map/114331111
+    #Hack to convert take the latin-1 string, convert it back to bytes, and decode it as unicode
+    chapterText = html.tostring(xpath(chapter_content_xp)[0], encoding="unicode")
+    chapterText = encodingBruteForce(chapterText)
+
+    data.content = chapterText
 
 
     #Gives 3 results if member isn't deleted, else 1
@@ -96,7 +127,7 @@ def get_chapter(url):
     #Choices
     choices = xpath(chapter_choices_xp)
     for choice in choices:
-        data.choices.append(choice.text_content())
+        data.choices.append(encodingBruteForce(choice.text_content()))
 
     return data
 
@@ -121,7 +152,7 @@ def get_chapter_list(story_id):
     for a_element in outline_links:
         link = a_element.attrib['href'][url_cutoff:]
         descents.append(link)
-        names.append(a_element.text_content())
+        names.append(encodingBruteForce(a_element.text_content().encode('latin-1')))
 
     return descents, names
 

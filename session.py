@@ -85,12 +85,5 @@ __reload_session()
 ''' Uses the soup browser with logged-in session to return an xpathable tree.'''
 def get_page(url):
     response = browser.get(url)
-
-    # I'm 12 and what is encoding
-    try:
-        tree = html.fromstring(response.content.decode('utf-8'))
-    except:
-        tree = html.fromstring(response.content.decode('latin-1'))
-        
+    tree = html.fromstring(response.content.decode('latin-1'))
     return tree
-    
