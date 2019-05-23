@@ -19,7 +19,7 @@ from session import browser
 #   This is because the first chapter doesn't have the additional div element before all content announcing which choice you just took.
 
 chapter_title_xp                = ".//*[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div[2-{}]/span[1]/big/big/b/text()"
-chapter_content_xp              = ".//div[@class='KonaBody']"
+chapter_content_xp              = ".//div[@style='padding:25px 5px 20px 10px;min-width:480px;']/div"
 chapter_member_name_xp          = "//a[starts-with(@title, 'Username:')]"
 chapter_choices_xp              = ".//div[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div/table/tr/td[@class='norm']/div/div[1]//a"
 
@@ -66,7 +66,6 @@ def encodingBruteForce(text):
     except UnicodeEncodeError:
         #It's somehow already not latin-1????
         return text
-
     try:
         return text.decode('utf-8')
     except UnicodeDecodeError:
@@ -152,7 +151,7 @@ def get_chapter_list(story_id):
     for a_element in outline_links:
         link = a_element.attrib['href'][url_cutoff:]
         descents.append(link)
-        names.append(encodingBruteForce(a_element.text_content().encode('latin-1')))
+        names.append(encodingBruteForce(a_element.text_content()))
 
     return descents, names
 
