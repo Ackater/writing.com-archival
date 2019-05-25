@@ -34,6 +34,6 @@ class _GetchWindows:
 
     def __call__(self):
         import msvcrt
-        return msvcrt.getch()
+        return msvcrt.getch().decode("utf-8")
 
 getch = _Getch()

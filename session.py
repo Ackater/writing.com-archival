@@ -36,13 +36,12 @@ def __prompt_yn():
     while response is '':
         print("[y/n]:")
         key = getch()
-        if key is 'y' or key is 'n' or key is b'y' or key is b'n':
+        if key is 'y' or key is 'n':
             response = key
         else:
             print("You must type either y or n.")
-            print(key)
             
-    return response is 'y' or response is b'y'
+    return response is 'y'
     
 '''Gives a prompt and repeats the answer back.'''
 def __prompt_ensure(str):
