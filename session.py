@@ -4,6 +4,8 @@ from datetime import datetime
 from getch import getch
 import lxml
 from lxml import html
+import requests
+from defs import ServerRefusal
 
 __logged_in__ = False
 browser = mechanicalsoup.Browser(soup_config={"features":"lxml"})
@@ -83,6 +85,16 @@ __reload_session()
 
 ''' Uses the soup browser with logged-in session to return an xpathable tree.'''
 def get_page(url):
-    response = browser.get(url)
+    #Try 5 times, the requests can fail with requests.exceptions.ConnectionError sometimes
+    for tries in range(5):
+        try:
+            response = browser.get(url)
+            break
+        except requests.exceptions.ConnectionError as e:
+            pass
+    
+    if (tries == 4):
+        raise ServerRefusal('Could not connect to server after 5 attempts')
+
     tree = html.fromstring(response.content.decode('latin-1'))
     return tree
