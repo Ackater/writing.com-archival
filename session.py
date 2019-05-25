@@ -33,15 +33,15 @@ def __reload_session():
 '''prompts y/n. returns bool of == y'''
 def __prompt_yn():
     response = ''
-    while response is '':
+    while response == '':
         print("[y/n]:")
         key = getch()
-        if key is 'y' or key is 'n':
+        if key == 'y' or key == 'n':
             response = key
         else:
             print("You must type either y or n.")
             
-    return response is 'y'
+    return response == 'y'
     
 '''Gives a prompt and repeats the answer back.'''
 def __prompt_ensure(str):
