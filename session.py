@@ -8,7 +8,10 @@ import requests
 from defs import ServerRefusal
 
 __logged_in__ = False
-browser = mechanicalsoup.Browser(soup_config={"features":"lxml"})
+browser = mechanicalsoup.Browser(
+    soup_config={"features":"lxml"},
+    user_agent="Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+)
 
 '''Saves session cookies (run once you have a logged-in account)'''
 def __save_session():
