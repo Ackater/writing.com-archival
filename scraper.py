@@ -19,7 +19,7 @@ from session import browser
 #   This is because the first chapter doesn't have the additional div element before all content announcing which choice you just took.
 
 chapter_title_xp                = ".//*[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div[2-{}]/span[1]/big/big/b/text()"
-chapter_content_xp              = ".//div[@style='padding:25px 5px 20px 10px;min-width:480px;']/div"
+chapter_content_xp              = ".//div[@style='padding:25px 6px 20px 11px;min-width:480px;']/div"
 chapter_member_name_xp          = "//a[starts-with(@title, 'Username:')]"
 chapter_choices_xp              = ".//div[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div/table/tr/td[@class='norm']/div/div[1]//a"
 
@@ -43,6 +43,8 @@ search_pages_dropdown_xp = ".//*[@id='pageVal1']"
 
 def assertNotServerRefusal(page):
     try:
+        if page.text_content().lower().find("was not found within Writing.Com's system.") >= 0:
+            raise Exception("broke")
         if page.text_content().lower().find(refusal_text_substring) >= 0:
             raise ServerRefusal('Heavy Server Volume')
     except UnicodeDecodeError:
@@ -127,7 +129,6 @@ def get_chapter(url):
     choices = xpath(chapter_choices_xp)
     for choice in choices:
         data.choices.append(encodingBruteForce(choice.text_content()))
-
     return data
 
 ''' takes a story id and returns two lists [str1 str2 ...] where stri of the first list is an existing chapter descent in the story and stri of the second list is that chapter's title. sorry this is inconsistent with the other funcs...'''
