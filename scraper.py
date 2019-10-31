@@ -18,10 +18,10 @@ from session import browser
 #   Really important note here. If the chapter's descent is '1' or '0' (it is the first chapter), you must format these chapter xpaths with '1'. else, format them with '0'.
 #   This is because the first chapter doesn't have the additional div element before all content announcing which choice you just took.
 
-chapter_title_xp                = ".//*[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div[2-{}]/span[1]/big/big/b/text()"
+chapter_title_xp                = "//span[starts-with(@title, 'Created')]/span/text()"
 chapter_content_xp              = ".//div[@style='padding:25px 6px 20px 11px;min-width:480px;']/div"
 chapter_member_name_xp          = "//a[starts-with(@title, 'Username:')]"
-chapter_choices_xp              = ".//div[@class='shadowBox']/table/tr[1]/td[@class='norm']/table/tr/td[@class='norm']/div[2]/div/table/tr/td[@class='norm']/div/div[1]//a"
+chapter_choices_xp              = ".//div[@id='end_of_choices']/parent::*//a"
 
 #For a story page
 #....Note: if the story has an award banner, format with '1'. else, format with '0'.
