@@ -20,13 +20,13 @@ from session import browser
 
 chapter_title_xp                = "//span[starts-with(@title, '_Created')]/span/text()"
 chapter_content_xp              = ".//div[@style='padding:25px 6px 20px 11px;min-width:482px;']/div"
-chapter_member_name_xp          = "//a[starts-with(@title, ' Username:')]"
+chapter_member_name_xp          = "//a[starts-with(@title, '  Username:')]"
 chapter_choices_xp              = ".//div[@id='end_of_choices']/parent::*//a"
 
 #For a story page
 #....Note: if the story has an award banner, format with '1'. else, format with '0'.
 story_title_xp             = "//a[contains(@class, 'proll')]/text()"
-story_author_name_xp       = "//a[starts-with(@title, ' Username:')]/text()"
+story_author_name_xp       = "//a[starts-with(@title, '  Username:')]/text()"
 story_author_id_xp         = ".//*[@id='Content_Column_Inner']/div[4]/table/tr/td[2]/div[4+{}]/a[1]"
 story_description_xp       = ".//*[@id='Content_Column_Inner']/div[6]/div[2]//td"
 story_brief_description_xp = "//big/text()"
