@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  scraper:
+    container_name: scraper
+    build:
+      context: .
+    command: /bin/bash
+    volumes:
+     - ./archive:/code/archive/

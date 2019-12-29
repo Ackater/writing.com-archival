@@ -34,3 +34,13 @@ Python3 and the packages `mechanicalsoup`, `jinja2`, and `lxml`. You will need t
 You may encounter errors while trying to download stories. If the error does not crash the utility, I suggest trying to download it again, as some of the errors are transient. But let me know what story/chapter you had trouble with and I'll see what I can do.
 
 If the error does crash the utility, I suggest logging in again. Best case scenario either your login was unsuccesful or writing.com has decided to stop serving your session. Delete `session` (not `session.py`!) and you'll be asked for your credentials again. Note that it won't tell you if the login was successful or not. If it still fails, let me know.
+
+# writing.com-archival with Docker
+## Requirements
+### Windows
+- 
+
+### Linux
+- Docker CE
+
+## How to Use this Image
