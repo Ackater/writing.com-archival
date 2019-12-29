@@ -10,7 +10,7 @@ from defs import ServerRefusal
 __logged_in__ = False
 browser = mechanicalsoup.Browser(
     soup_config={"features":"lxml"},
-    user_agent="Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+    user_agent="Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0"
 )
 
 '''Saves session cookies (run once you have a logged-in account)'''
