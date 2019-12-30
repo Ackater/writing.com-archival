@@ -1,8 +1,9 @@
 version: '3.7'
 
 services:
-  scraper:
-    container_name: scraper
+  writing.com-archival:
+    container_name: writing.com-archival
+    hostname: writing-com-archival
     build:
       context: .
     command: /bin/bash

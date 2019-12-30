@@ -8,6 +8,7 @@ Command line usage:
 
 ```
 $ cd <path-to-source> 
+$ pip install -r requirements.txt          # Install dependencies
 $ chmod +x run.py                          # If the following commands do not work
 $ ./run.py get <id1> <id2>...              # Downloads or updates interactives with item_ids <id1>, <id2>...
 $ ./run.py get_search "<url1>" "<url2>"... # Downloads every interactive in these search results. See note below.
@@ -28,7 +29,7 @@ You will be asked to enter your login credentials to writing.com on your first u
 
 ### Dependencies
 
-Python3 and the packages `mechanicalsoup`, `jinja2`, and `lxml`. You will need to `pip install` them.
+Python3 and the packages in `requirements.txt` are required.
 
 ### Troubleshooting
 
@@ -59,12 +60,12 @@ This utility can also be run in a container. The container handles installing al
 ```bash
 $ cd <path-to-source>
 $ docker-compose build
-$ docker-compose run scraper
+$ docker-compose run writing.com-archival
 # After running the above commands, the command line arguments stay the same.
-root@<container-hostname>:/code# ./run.py get <id1> <id2>...              # Downloads or updates interactives with item_ids <id1>, <id2>...
-root@<container-hostname>:/code# ./run.py get_search "<url1>" "<url2>"... # Downloads every interactive in these search results. See note below.
-root@<container-hostname>:/code# ./run.py update                          # Update existing archives
+root@writing-com-archival:/code# ./run.py get <id1> <id2>...              # Downloads or updates interactives with item_ids <id1>, <id2>...
+root@writing-com-archival:/code# ./run.py get_search "<url1>" "<url2>"... # Downloads every interactive in these search results. See note below.
+root@writing-com-archival:/code# ./run.py update                          # Update existing archives
 ```
 ### Command Explanations
 `docker-compose build` - This command will use the docker-compose.yml file to build the container defined inside the Dockerfile.
-`docker-compose run scraper` - This command will use the docker-compose.yml file to run the scraper container interactively in the current shell session.  
+`docker-compose run writing.com-archival` - This command will use the docker-compose.yml file to run the writing.com-archival container interactively in the current shell session. Do not use git for bash to run this command.
