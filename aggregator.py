@@ -3,10 +3,11 @@ from defs import ServerRefusal,  StoryInfo
 import threading
 import time
 import requests
+import traceback
 
 def get_story_info_safe(story_id):
     try:
-        info = get_story_info("http://www.writing.com/main/interact/item_id/" + story_id)
+        info = get_story_info("https://www.writing.com/main/interact/item_id/" + story_id)
     except ServerRefusal:
         #Just try again after a bit.
         time.sleep(5)
@@ -18,7 +19,7 @@ def get_story_info_safe(story_id):
     Note that it's a generator. '''
 def get_chapters(story_id,chapter_suffixes,threads_per_batch=5):
     total_num_chapterse = len(chapter_suffixes)
-    chapter_prefix = "http://www.writing.com/main/interact/item_id/" + story_id + "/map/"
+    chapter_prefix = "https://www.writing.com/main/interact/item_id/" + story_id + "/map/"
     
     chapters = {} # map of {chapter descent : string -> ChapterInfo} for chapters we've downloaded.
 
@@ -46,6 +47,7 @@ def get_chapters(story_id,chapter_suffixes,threads_per_batch=5):
                 lock.release()
                 return
             except Exception as e:
+                print(traceback.format_exc())
                 # Unknown error. Let the caller deal with it.
                 chapter = e
                
@@ -68,5 +70,6 @@ def get_chapters(story_id,chapter_suffixes,threads_per_batch=5):
 
         for descent, chapter in chapters.items():
             yield descent, chapter
-        
-        print('# {}: {}/{}'.format(story_id,len(chapters),total_num_chapterse))
+
+        chapters = {}
+        print('# {}: {}/{}'.format(story_id, total_num_chapterse - len(chapter_suffixes),total_num_chapterse))
