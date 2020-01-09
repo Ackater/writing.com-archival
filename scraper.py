@@ -35,8 +35,8 @@ story_brief_description_xp = "//big/text()"
 outline_chapters_xpath = ".//*[@id='Content_Column_Inner']/div[6]/div[2]/pre//a"
 
 #For the heavy server message
-refusal_text_substring = "Please try again in a few minutes".lower()
-        
+refusal_text_substring = "or try again in a few minutes".lower()
+ 
 #For a search page
 search_results_xp=".//*[@id='Content_Column_Inner']/div[6]/font/div/div"
 search_pages_dropdown_xp = ".//*[@id='pageVal1']"
