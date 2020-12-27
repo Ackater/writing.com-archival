@@ -27,12 +27,12 @@ chapter_choices_xp              = ".//div[@id='end_choices']/parent::*//a"
 #....Note: if the story has an award banner, format with '1'. else, format with '0'.
 story_title_xp             = "//a[contains(@class, 'proll')]/text()"
 story_author_name_xp       = "//a[starts-with(@title, 'Username:')]/text()"
-story_author_id_xp         = ".//*[@id='Content_Column_Inner']/div[4]/table/tr/td[2]/div[4+{}]/a[1]"
-story_description_xp       = ".//*[@id='Content_Column_Inner']/div[6]/div[2]//td"
+story_author_id_xp         = ".//*[@id='Content_Column_Inside']/div[4]/table/tr/td[2]/div[4+{}]/a[1]"
+story_description_xp       = ".//*[@id='Content_Column_Inside']/div[6]/div[2]//td"
 story_brief_description_xp = "//big/text()"
 
 #For an outline
-outline_chapters_xpath = ".//*[@id='Content_Column_Inner']/div[6]/div[2]/pre//a"
+outline_chapters_xpath = ".//*[@id='Content_Column_Inside']/div[6]/div[2]/pre//a"
 
 #For the heavy server message
 refusal_text_substring = "or try again in just a few minutes".lower()
