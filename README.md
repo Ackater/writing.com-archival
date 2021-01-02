@@ -21,7 +21,7 @@ The item_id for a story is in its url: `http://www.writing.com/main/interact/ite
 
 ### get_search
 
-To get the proper URL, first perform a search on writing.com. Then click the magnifying glass icon just above the results to redo the search. Now your URL is in the correct form for get_search. Don't forget to quote it with "".
+To get the proper URL, first enter in your search term into the text box in the upper left of the page and hit enter (or click the magnifying glass). You will be taken to the search results page. On this page, you will see your search term at the top center. To the right of that is a dropdown that by default says "Things to Read". On that dropdown, select "Interactives" and then click the "Go" button right below it. All results should now only be interactives. Finally, click the magnifying glass icon just above the results to redo the search. Now your URL is in the correct form for get_search. Don't forget to quote it with "".
 
 ### Your first use
 
