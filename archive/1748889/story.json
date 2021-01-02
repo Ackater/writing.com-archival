@@ -1,0 +1,219 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Ikazuchi no Senshi Raidi/Lightning Warrior Raidy",
+                "Ikazuchi no Senshi Raidi II/Lightning Warrior Raidy 2",
+                "Ikazuchi no Senshi Raidi III/Lightning Warrior Raidy 3"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, where do you want to start?</span></div></span></div>",
+            "created":1296968400,
+            "id":1048531,
+            "title":"Press Start"
+        },
+        "11":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Monster",
+                "Human",
+                "Boss",
+                "Other",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what do you want to fight in the first Raidy game?</span></div></span></div>",
+            "created":1296982560,
+            "id":1048532,
+            "title":"Ikazuchi no Senshi Raidi/Lightning Warrior Raidy"
+        },
+        "113":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Fonfon",
+                "Sorceress",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which boss?</span></div></span></div>",
+            "created":1296982740,
+            "id":1048533,
+            "title":"Boss"
+        },
+        "1133":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Tiss",
+                "Foless",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, you want more choices? Who?</span></div></span></div>",
+            "created":1296982860,
+            "id":1048534,
+            "title":"Someone else"
+        },
+        "11333":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Knight Errant",
+                "Sex Demon Cubust"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We,ve almost run out of the bosses for the game. Who is it this time?</span></div></span></div>",
+            "created":1296982980,
+            "id":1048536,
+            "title":"Someone else"
+        },
+        "12":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Monster",
+                "Boss",
+                "Human",
+                "Other",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so what do you want to fight in the second Raidy game?</span></div></span></div>",
+            "created":1296983160,
+            "id":1048537,
+            "title":"Ikazuchi no Senshi Raidi II/Lightning Warrior R..."
+        },
+        "122":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Sudia",
+                "Shura",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so which boss do you want Raidy to fight?</span></div></span></div>",
+            "created":1296984000,
+            "id":1048541,
+            "title":"Boss"
+        },
+        "1223":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Jammy",
+                "Morpha",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, not Sudia or Shura? Who then?</span></div></span></div>",
+            "created":1296984120,
+            "id":1048542,
+            "title":"More"
+        },
+        "12233":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Shai",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Not Jammy or Morpha? Someone else?</span></div></span></div>",
+            "created":1296984300,
+            "id":1048545,
+            "title":"Someone else"
+        },
+        "122332":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Adiram",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Not Shai, are you?</span></div></span></div>",
+            "created":1296984360,
+            "id":1048546,
+            "title":"More"
+        },
+        "1223322":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Camille",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Not Adiram?</span></div></span></div>",
+            "created":1296984420,
+            "id":1048547,
+            "title":"More"
+        },
+        "12233222":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Chamus and her Golem",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, who?</span></div></span></div>",
+            "created":1296984600,
+            "id":1048549,
+            "title":"Someone else"
+        },
+        "122332222":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Lecille",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Still more, eh?</span></div></span></div>",
+            "created":1296984660,
+            "id":1048552,
+            "title":"More"
+        },
+        "1223322222":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Shizuku",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do you want to fight, now?</span></div></span></div>",
+            "created":1296984720,
+            "id":1048554,
+            "title":"More"
+        },
+        "12233222222":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Replicant",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Even more?</span></div></span></div>",
+            "created":1296984840,
+            "id":1048555,
+            "title":"More"
+        },
+        "122332222222":{
+            "author_id":"raptor1",
+            "author_name":"Raptor1",
+            "choices":[
+                "Mariel",
+                "Gav"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Finally the last two bosses.</span></div></span></div>",
+            "created":1296984900,
+            "id":1048556,
+            "title":"Someone else"
+        }
+    },
+    "info":{
+        "author_id":"raptor1",
+        "author_name":"Raptor1",
+        "brief_description":"Lightning Warrior Raidy fights anyone! Will she win......or lose?",
+        "created":1296982080,
+        "description":"<td align=\"left\" class=\"norm\">Raidy can fight anyone and everyone. When you make a new chapter, have Raidy fight someone or something, DON'T have her just wander aimlessly around. Raidy can fight the monsters and bosses from each one of her games, or she can fight normal humans, too.<br>\r\n<br>\r\nAlso, Raidy can fight things from other series if you wish to add that. For instance, she might find herself up against the duel monster Yubel from the Yu-Gi-Oh GX! anime series. Or, Raidy might fight a completely original character.<br>\r\n<br>\r\nRULES:<br>\r\n<br>\r\n1. If you want to copy/paste the dialogue straight from the games, go ahead, but try to add something new to it. <br>\r\n<br>\r\n2. Raidy does not have to fight an opponent in EVERY chapter, but try to keep the chapters about either a fight, or a punishment for the loser.<br>\r\n<br>\r\n3. At the end of the fight, the loser must face some sort of sexual/fetish-related punishment. (that's what made the games great, after all.)<br>\r\n<br>\r\n4. After the punishment has been dished out at the end of the fight, Raidy can move on. Her previously defeated opponents can join her in future fights to help Raidy (or they can help Raidy's opponent.)</td>",
+        "id":1748889,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1296985080,
+        "modified":1296985080,
+        "pretty_title":"Lightning Warrior Raidy battles......"
+    }
+}

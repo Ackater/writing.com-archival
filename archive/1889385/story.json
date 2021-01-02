@@ -1,0 +1,467 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"jgp1492",
+            "author_name":"jgp1492",
+            "choices":[
+                "Student",
+                "Tiny",
+                "Server",
+                "Supplier",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>The invention fo a shrinking gun has reduced hunger and population, but the government has considered these tiny people as pests and are openly sold in stores and served in food outlets. Now they are being sold to schools to feed their students. This has given rise to the popular event of school lunches, which is now a regular part of the students lives. At an all boys school, like Garth Boys, (the school in the story) the students are now learning better after eating smaller people.<br>\r\n<br>\r\nWho will you follow?<br>\r\nA student<br>\r\nA tiny<br>\r\nThe cafeteria server <br>\r\nor the supplier<br>\r\n</span></div></div>",
+            "created":1346734800,
+            "id":1420601,
+            "title":"Schools in"
+        },
+        "11":{
+            "author_id":"jgp1492",
+            "author_name":"jgp1492",
+            "choices":[
+                "Pre-school",
+                "Primary School ",
+                "Middle School",
+                "High School",
+                "College"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a student at Garth Boys school, what grade are you in?</span></div></span></div>",
+            "created":1346734800,
+            "id":1420604,
+            "title":"Student"
+        },
+        "111":{
+            "author_id":"jgp1492",
+            "author_name":"jgp1492",
+            "choices":[
+                "Starters\".",
+                "Seconds\"",
+                "Mains or Desserts\""
+            ],
+            "content":"<div class=\"\"><div> <span>You are a student who attends the Pre-school at Garth Boys school, you arrive at school in the morning after walking to school. You open the doors and see the cafeteria, which was full of students from the many pre-school classes. You walked in and sat with a group of your friends as they all chatted and laughed you got up and went to the server and started to order your food. The server is very happy to show you the menu, you glanced at it and smiled as you read it<br>\r\n<br>\r\nStarters<br>\r\nBoys in a bowl: A bowl full of boys, naked and 3 inches tall, served raw and alive with your choice of BBQ, chili or satay sauce<br>\r\nToasted boys: Small, naked 10 inch boys are toasted to your liking served with peanut butter, jam and butter<br>\r\nDipped boys: Live, 6 inch boys are served on the side of a bowl of onion dip<br>\r\nTiny snacks: A bowl full of tiny 1 inch boys, served with potato chips<br>\r\n<br>\r\nSeconds<br>\r\nGrilled girls: A pair of girls, 8 inches tall are grill to perfection and served with a side of live, 1 inch boys<br>\r\nMixed Pot: A small pot filled to the brim with 2 inch boys and girls, all alive and served with your choice of BBQ, chili, or satay sause<br>\r\nMixed Pie: A perfectly made pie, filled with vegetables and small, cooked boys and girls<br>\r\n<br>\r\nMains<br>\r\nStuffed Roasted boy: A naked, 10 year old boy, 2 feet tall, stuffed with many smaller boys inside him, done right in front of you, all alive and squirming as he goes into the oven, served on a bed of roasted potatoes and smaller boys<br>\r\nBoiled Girl: A girl, 9 inches tall is boiled alive before your eyes, she is served on a bed of rice with a bloody gravy, made from blended boys<br>\r\nMeaty dinner: A dozen 10 inch boys are prepared in a bloody baste and then slowly either boiled or roasted alive and served next to a small group of raw girls<br>\r\n<br>\r\nDesserts<br>\r\nWhipped boys: A dozen 4 inch boys mixed in with a bowl of pure whipped cream with cherries and chocolate swirls<br>\r\nCaramel Delight: 20, 3 inch boys mixed into a swirl of rich caramel<br>\r\nChocolate surprise: A delightfully rich chocolate puddling, filled with a thick chocolate and girl center<br>\r\n<br>\r\nYou looked at it and smiled as you approached the server and said \"May I please have.............</span></div></div>",
+            "created":1346994000,
+            "id":1422716,
+            "title":"Pre-school"
+        },
+        "1112":{
+            "author_id":"halothecool",
+            "author_name":"Halothecool",
+            "choices":[
+                "Grilled girls ",
+                "Mixed pie ",
+                "Mixed pot"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I choose one of the seconds </span></div></span></div>",
+            "created":1453623060,
+            "id":2093473,
+            "title":"Seconds\""
+        },
+        "1113":{
+            "choices":[
+                "Mains",
+                "Desserts"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one do you choose? You have main courses, or you can just skip straight to the desserts. Either way, the server is happy to prepare you morsel-icious meal.</span></div></span></div>",
+            "created":1422770160,
+            "id":1926389,
+            "title":"Mains or Desserts"
+        },
+        "11131":{
+            "choices":[
+                "Stuffed and Roasted Boy",
+                "Boiled Girl or Meaty Dinner"
+            ],
+            "content":"<div class=\"\"><div> <span>You have three options for the main courses, pick one.<br>\r\n<br>\r\nTo refresh your memory from the previous chapters:<br>\r\n<br>\r\n<b>Stuffed and Roasted Boy:</b> A naked 10-year-old boy, two feet tall, stuffed with many smaller boys inside him. All done right in front of you, all alive and squirming as he goes into the oven, served on a bed of roasted potatoes and smaller boys.<br>\r\n<b>Boiled Girl:</b> A girl that is nine inches tall is boiled alive right before your eyes and served on a bed of rice with a bloody gravy, made from blended boys.<br>\r\n<b>Meaty Dinner:</b> A dozen ten inch boys are prepared in a bloody baste and then, slowly, either boiled or roasted alive and served next to a small group of raw girls.<br>\r\n<br>\r\nDecisions, decisions!</span></div></div>",
+            "created":1422770520,
+            "id":1926392,
+            "title":"Mains"
+        },
+        "111312":{
+            "choices":[
+                "Boiled Girl",
+                "Meaty Dinner"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Boiled Girl or Meaty Dinner, which one do you want to eat?</span></div></span></div>",
+            "created":1422770580,
+            "id":1926394,
+            "title":"Boiled Girl or Meaty Dinner"
+        },
+        "1113121":{
+            "choices":[
+                "Chew her up.",
+                "Swallow her whole and let her suffer in your belly."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hm, I think I will have the boiled girl,\" you say, smiling.<br>\r\n<br>\r\n\"Good choice!\" The server responded enthusiastically.<br>\r\n<br>\r\nYou watch as the server reaches down under the counter where all of the tiny people are kept, and pulls out a screaming, nine inch tall female. She looks to  be like she would be in high school if she was normal sized. There is a boiling pot of water on the stove behind the server. He hums to himself as her screams are silenced as she is plopped into the boiling water. The lid is placed on top of the pot, further muffling her gurgling screams.<br>\r\n<br>\r\nYou lick your lips in anticipation.<br>\r\n<br>\r\nNext, the server reaches back underneath the counter once more and pulls out a handful of screaming boys. These look like they would be in middle school, maybe a few in high school. Your enthusiasm for your upcoming meal increases as you know that your life will continue while theirs will end by someone who still has to where Pull-Ups at bedtime. You watch as the server pulls the top off of a blender sitting next to a stove and dumps the handful of morsels inside. Their screams increase as they realize where they have been placed. One the lid is placed back on, the blender is turned on and it roars to life, instantly silencing all of the screams within and returning a bloody paste. After a few more seconds, the blender is taken off of the base and placed on the counter. It was now time for the boiled girl to come out. The server uses a wooden spoon to reach in and lift the girl out and onto the bed of rice. She is still alive, you can see that. She is just paralyzed and in a great amount of pain.<br>\r\n<br>\r\nYou smile.<br>\r\n<br>\r\nThen the bloody gravy is dumped on top of her and her rice bed. The server places the plate with your meal on it onto your tray. You move along and find your best friend, Anthony. Sitting down next to him, you smile and watch as he feasts on his meal. There is a person on his plate with the lower half of their body missing. You know that he <i>must</i> be hungry.<br>\r\n<br>\r\n\"Well, looks like this is it for you, little one,\" you say, smiling down at the girl on your plate. <br>\r\n<br>\r\nShe wishes she can scream, but she can barley move in general.<br>\r\n<br>\r\nHow do you eat her?</span></div></div>",
+            "created":1422771720,
+            "id":1926403,
+            "title":"Boiled Girl"
+        },
+        "11131211":{
+            "author_id":"halothecool",
+            "author_name":"Halothecool",
+            "choices":[
+                "continue"
+            ],
+            "content":"<div class=\"\"><div> <span>As he stare at her eyes full of shock and fear his stomach grumble well it was nice knowing you but I'm hungry as he proceed to pick up a knife and a fork and lower it to the girls arm I always like to eat the arms and legs first he said with joy the girl couldn't believe this was happening to her she was  sophomore student at a prestigious highscool now she was nothing more than food for a pre school boy Well thanks for the food the boy said as he dug the fork into the girls arm and cut it off with the knife the girl could only scream mentally as her arm was cut off and lifted to the kids mouth mmmm this is delicious  said the boy as he chewd on her arm the sauce always adds the best favor I think I have a leg next as he move the fork on top of the girls thigh soon he also cut off her leg this time he also grab some rice and started chewing it after 10 minutes he had  finish the other arm and leg the girl was already psychology broken  by the time he eat her arms and legs the boy was drinking juice when he heard his teacher voice 10 minutes kids all the kids started to finish there meals he pick up a knife and cut the girl into three easy to eat pieces and stuffed them into his mouth as he got up to leave and go to class</span></div></div>",
+            "created":1463620740,
+            "id":2150310,
+            "title":"Chew her up."
+        },
+        "113":{
+            "choices":[
+                "The soup?",
+                "The lo-main noodles?",
+                "The pudding? "
+            ],
+            "content":"<div class=\"\"><div> <span> You are an eleven-year-old boy who is now in the seventh grade. You attend Garth Boys School, an exceptional all boys academy concentrating on the sciences. You are waiting in line to eat at the cafeteria. Unlike public school cafeterias, this school\u2019s cafeteria allows you to pick, and choose your own meal. However, that is where the choices end. After you pick your meal, you are required to sit in a designated area with your fellow classmates. Mr. Wilcox, your science teacher will be sitting in your section as well. He will be monitoring all of you to make sure you, and your classmates follow the rules. On the other hand, Mr. Wilcox is a cool teacher, and will overlook most anything a student does, unless it is something bad like fighting, or disrupting class.<br>\r\n<br>\r\n As you get closer to the cafeteria, you get ready to choose your lunch. You read the menu on the wall and smile as you read it. You see chicken soup with several living, two-inch tall completely naked couples swimming in the broth. You also see lo-main noodles that contain several naked living girls who are all between the ages of eight to fourteen-years-old. They are all around two inches tall. You also see another dish, family pudding. The pudding contains naked living mothers, sons, and daughters in it, who are all around two inches tall. As you look the menu over, you decide to get\u2026<br>\r\n</span></div></div>",
+            "created":1350018000,
+            "id":1445397,
+            "title":"Middle School! "
+        },
+        "114":{
+            "author_id":"elrohyr",
+            "author_name":"elrohyr",
+            "choices":[
+                "Starter",
+                "Main course",
+                "Desert"
+            ],
+            "content":"<div class=\"\"><div> <span>Brian was an athletic young guy in his early 16th, he watched his watch : 11:55. <br>\r\n<br>\r\n\"Oh yay !\" he thought, in five minutes he would be heading to the school cafeteria. He loved that moment, and he especially loved the food that was served there. He was now wondering what he would be served today. He mouth was watering thinking about the little tinies he soon would eat, whether they were raw in some delicious syrup or mixed with a some chocolate pudding or cooked in mouth watering dishes. <br>\r\n<br>\r\nThe bell rang and all the teens hurried to the cafeteria. At last he arrived in front of the shelves. \"So\u2026 what would it be today ?\" he wondered. As usual, he took his time before he chose a three course meal :<br>\r\n-\tA little bowl with spicy sauce and three little boys dipped in it<br>\r\n-\tSome spagetthis covered with warm tomato sauce and with a help of three other tiny boys writhing in the hot sauce.<br>\r\n-\tA nice slice of carrot cake where Brian spotted some tiny flailing legs sticking out.<br>\r\n<br>\r\nHe went to the nearest table and sat, joined by some mates. <br>\r\nHe still hadn't decided what meal he would start with\u2026 <br>\r\n<br>\r\n\"Hmmm, decisions, decisions\u2026 \"<br>\r\n</span></div></div>",
+            "created":1373000400,
+            "id":1622851,
+            "title":"Brian the 16 years old boy"
+        },
+        "1141":{
+            "author_id":"jgp149",
+            "author_name":"Jack Grey",
+            "choices":[
+                "Tinies POV"
+            ],
+            "content":"<div class=\"\"><div> <span>Brian decided to have the starter, and went up to the counter and said \"I'd like the dipping starter please\". The man behind the counter just grinned as he served up the dipping sauces in a bowl and then went into a container and took out some naked tiny boys about 10 years old and he winked at Brain \"Hey since your the first here, how many tinies do you want to dip in the sauce?\"<br>\r\n<br>\r\nThinking about it, Brian grinned and said \"5 i'll have 5 tinies in my meal\". The man grinned and put 5 naked boys inside another bowl on the tray and Brian paid for it as he went back to his seat with his tray eager to start his meal.</span></div></div>",
+            "created":1410493740,
+            "id":1855784,
+            "title":"Starter"
+        },
+        "11411":{
+            "author_id":"smallry22",
+            "author_name":"smallry22",
+            "choices":[
+                "Mercy",
+                "Lunch time!"
+            ],
+            "content":"<div class=\"\"><div> <span>My name is Ryan and I scream in horror as I watch four other small guys get dumped into a bowl of spicy sauce and handed over to a hungry student. The four other guys are screaming and fighting on top of each other trying to escape as the teen sat down and looked at with hunger at his meal, which undoubtedly included me! Naked and pretty much alone in a spicy sauce that stings my skin I yell for mercy from the giant teen.</span></div></div>",
+            "created":1410494100,
+            "id":1855786,
+            "title":"Tinies POV"
+        },
+        "12":{
+            "author_id":"jgp1492",
+            "author_name":"jgp1492",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What gender are you?</span></div></span></div>",
+            "created":1346734800,
+            "id":1420607,
+            "title":"Tiny"
+        },
+        "121":{
+            "author_id":"jgp1492",
+            "author_name":"jgp1492",
+            "choices":[
+                "5-10",
+                "10-15",
+                "15+"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are a boy, how old are you?</span></div></span></div>",
+            "created":1346734800,
+            "id":1420608,
+            "title":"Boy"
+        },
+        "1211":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "continue"
+            ],
+            "content":"<div class=\"\"><div> <span>I am a 7 year old boy named Luke. <br>\r\n<br>\r\nI sit in what looks like metal jaws. I see a boy of about the same age walking along the food serving table. I notice many horrifying sights of other humans being served in various ways, like human kabobs-humans on sticks. And I observe other items involving tiny humans; humans in woks, for having human stir-fry; humans impaled on the bottom of waffle irons, and humans hanging on the edge of fondue pots. <br>\r\n<br>\r\nThe boy looks over all the stimulating food/human items. Evidently, he's not interested in fondues or stir-fry's or even kabobs. By the look in his eyes, he want to be really nasty; and nothing is quite as nasty as impaling someone, pouring batter over them close the waffle iron like jaws, on the poor guy, and then fry him into the batter, making for one very unique waffle! The idea of \"mummifying\" someone in an excruciatingly hot waffle iron is awful!\u2003<br>\r\n<br>\r\nI scramble to get off when I realize that it's me! </span></div></div>",
+            "created":1347771600,
+            "id":1429302,
+            "title":"5-10"
+        },
+        "12111":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Crunch!",
+                "The boy separates you, and then swallows you whole"
+            ],
+            "content":"<div class=\"\"><div> <span>Oh no! the boy looks like he's going to condemn me to a sizzling fate in these metal jaws! I scramble to get off, but am unable to. My eye twitches as I look up in horror at the boy standing over me with a squeeze bottle of waffle batter.The sticky substance makes its slow decent as he squeezes. <br>\r\n<br>\r\nThe substance lands on me, pinning me down, and covering me like a comforter. God! It's so sticky!<br>\r\n<br>\r\nThe boy turns on the waffle iron.<br>\r\n<br>\r\nImmediately my front is engulfed with pain, and not even my shabby clothes can provide any protection whatsoever. The heat is so intense that it gives third degree burns to my nipples, turning them black. I can't help but laugh through the pain at my thought that breast-feeding is out of the question! <br>\r\n<br>\r\nThe boy flips the top part down.<br>\r\n<br>\r\nAAAAAAHHHHHHHHHHHHHH! Nobody ever is in this amount of pain! Worse still, the batter is bubbling up! One bubble pops in my eye, burning it. <br>\r\n<br>\r\nThe boy turns the waffle iron off, and takes me, waffle-me away. Nobody can survive that kind of treatment! I`m utterly amazed that I`m still alive-though not for much longer! He takes me to one of the tables, lifts me up to eye level so I can see his face, and licks his lips with a smack. The thought of being chewed by those teeth gives me horrors.   </span></div></div>",
+            "created":1348117200,
+            "id":1432011,
+            "title":"continue"
+        },
+        "121112":{
+            "choices":[
+                "start to digest",
+                "realize you aren't digesting - are you going to survive this trip?!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, well. It looks like you survived the waffle iron, huh, food?\" The boy taunts. \"Too bad, 'cause you're still food!\" <br>\r\nThe giant preteen pulls out his knife and dissects the waffle your badly burned body is trapped in. He pries you from the fried confection and sets you aside. \"I hope you don't mind, but I'm saving you for later.\"<br>\r\n<br>\r\nThe giant boy douses his whole plate with maple syrup - including you. The sticky sweet syrup soothes your poor skin as you watch the giant kid shovel giant mouthfuls of waffle into his mouth. \"Ya know, I could be doing this to you right now, aren't you happy?\" the kid says, his mouth stuffed. He regards you playfully and sticks out his tongue full of mashed food - what was once a waffle is now a repulsively masticated mush of sugary-sweet pastry destined for digestion. With a loud gulp, the boy swallows the last of his lunch and then eyes you wickedly. <br>\r\n<br>\r\n\"It's time for you to go from here\" He points inside his opened mouth. \"To here!\" He lifts his shirt and points to his flat stomach gurgling away at his lunch. He pours more syrup on you and scoops you up with his fork careful not to impale you. You're too weak to resist as he brings you up to his mouth. \"MMM... HaHa! look at you - all sticky and brown. Haha - you'll be sticky and brown when it's time to come out later - but you won't smell so delicious!\" Your cruel killer licks his lips and opens wide tossing you uncerimoniously inside.<br>\r\n<br>\r\nHis ample tongue huge to you - even though he's just a kid - sloshes you around as his saliva starts to water down the syrupy coating you've been treated to. Terror washes over you as does his saliva. From all around you comes a booming voice \"HEY, MATT!! DO YOU LIKE SEAFOOD?!\" <br>\r\n<br>\r\n\"Sure, I guess, Damien,\" says the sheepish boy sitting next to your cruel giant.<br>\r\n<br>\r\n\"WELL THEN, HERE! SEE IT!\" The giant mouth opens up around you and you're extended on the tongue outside of Damien's hot mouth. Blessed with some final fresh air you get a last look at the world around you. \"WAVE GOODBYE TO HIM! HE'S GOING TO MY STOMACH NOW.\"<br>\r\n<br>\r\nMatt rolls his eyes at his friend's childishness, but obliges. With a sheepish grin, Matt waves goodbye to you as Damien's tongue scoops you back into his deadly mouth. Now he wastes no time to send your well-lubricated body to the back of his mouth and with a gigantic GULP, sends you to the gurgling stomach waiting below.<br>\r\n<br>\r\nScreaming in terror on the way down to your gastric demise, you are roughly dragged by Damien's strong esophagus down, down, down. You splash down into the stomach seconds later amid floating chunks of mushy waffle goop. Fresh terror and humiliation washes over you, and you let out a bloodcurdling scream. Hearing your terror, Damien lifts up his shirt, grabs Matt's head pulls his ear up to his belly and says \"Hey - listen to him screaming!\" Matt indeed can hear your shouts for mercy and shudders as he imagines the hell that awaits you. \"I'd hate to be him,\" says Matt. \"So would I, said Damien. He then lets out a raucous BURRRP right in his friend's face.<br>\r\n<br>\r\n\"Ew, grow up, Damien!\"<br>\r\n<br>\r\nAlone in the slimy stomach, you</span></div></div>",
+            "created":1349499600,
+            "id":1441349,
+            "title":"The boy separates you, and then swallows you whole"
+        },
+        "1211121":{
+            "choices":[
+                "keep moving - the trip isn't over",
+                "The end?"
+            ],
+            "content":"<div class=\"\"><div> <span>The pain you felt from the waffle iron is nothing compared to the fresh agony of little Damien's hydrochloric acid rubbing aggressively into your skin, which already burned, starts to slough off. Again, shrieking in terror, and now pain, you try to swim to a floating chunk of chewed up waffle. Grabbing a nearby bolus, you realize it too has been permeated with acid and provides no respite from the digestion going on all around you. You lose hope as you lose air, and giving up your struggle to survive - to live past this horrible fate and you resign to the digestive doom you're destined for. You remember Damien's taunt and realize this won't be your permanent home. Sick at the realization at what you're about to go through, you seize violently and sink beneath the surface.<br>\r\n<br>\r\nMeanwhile, Damien has returned to class with Matt and the rest of the boys. Today, in health class, he's learning about the digestive system, appropriately enough. His teacher lets Damien demonstrate for the class by tracing outside of his body the path that his food takes as it is digested. Fascinated by what you're now going through, Damien listens up. He always knew that food went into the stomach and that it eventually became poop, but he never knew all that was involved. What a long trip! For homework, Damien's teacher has him write a first-person account of a trip through the digestive system from the point-of-view of his lunch.  Up to the task, Damien writes later that night as you're gurgling through the coils of his small intestine:<br>\r\n<br>\r\nI am a small man. I am Damien's lunch. Normally, I would be chewed up. But Damien swallowed me whole. His tongue pushes me to his throat which swallows. I move down his esophagus to his stomach. The muscle moves are called peristalsis. His stomach breaks me down in a process called digestion. Damien's stomach produces acid and churns me into a liquid called chyme. Now, I move into his small intestine. The liver and pancreas make juices to make my nutrients easier to absorb. Villi absorb my nutrients and take them to Damien's blood. My leftovers are dumped into his large intestine. Bacteria break me down further. His colon wall absorbs water. I am moved to his rectum. I am now feces. Damien will poop me out later. The end.<br>\r\n<br>\r\nNot bad, and not too far off. Now, much to his knowledge and delight, you are squirted into his large intestine making all sorts of gloopy and gurgly sounds.</span></div></div>",
+            "created":1349499600,
+            "id":1441353,
+            "title":"start to digest"
+        },
+        "12111211":{
+            "choices":[
+                "..."
+            ],
+            "content":"<div class=\"\"><div> <span>You continue to move through the boy's bowels as he sleeps - indeed - as he now knows being formed into feces. The next day at school, your journey comes to an end.<br>\r\n<br>\r\nDamien goofs off through his morning classes and can't wait until lunch time. Finally, he makes his way to the cafeteria to enjoy another wriggling and fully alive prey he swallows whole and alive to suffer the same fate you have. This poor guy was dunked in sweet and sour sauce before making the long slimy trip to Damien's stomach. <br>\r\n<br>\r\nAfter lunch was recess - Damien's favorite. Feeling pressure in his guts knowing it's time to let you go for good, he calls over to Matt. \"Hey, Matt! Come over here - check this out!\" He lifts up his shirt and holds Matt's head to his belly. His unsuspecting friend is expecting more screams, and isn't prepared for the massive FART that Damien looses. Your smell wafts up through the playground. Matt is of course not amused by Damien's childishness, and their teacher is not impressed by the smell. He sends the reluctant Damien to the restroom and responsible Matt to keep an eye on him and keep him out of trouble.<br>\r\n<br>\r\nAs Damien heads to a stall to shit you out, Matt hangs out by the mirror. Damien know this won't take long. He pulls down his shorts and underwear, sits down on the toilet and relaxes. It doesn't take long before your remains start snaking out his butthole and coil up in a thick brown rope in the bowl. Damien sighs in relief. Matt rolls his eyes as he hears the sound of his friend's poop hitting the water and his farts filling the air. Finally, Damien senses that he is done shitting you out, and anxious to return to his dodgeball game doesn't even wipe before he stands up, pulls up his pants and runs past Matt back toward the playground leaving you behind for the first time. <br>\r\n<br>\r\nDamien playfully remembering his immature joke with Matt yesterday at lunch calls out to his friend. \"Wave goodbye to him! He's going to the sewers now!\" and leaves the bathroom. Matt rolls his eyes and heads back to the stall to flush you away.</span></div></div>",
+            "created":1349499600,
+            "id":1441358,
+            "title":"keep moving - the trip isn't over (END)"
+        },
+        "121112111":{
+            "choices":[
+                "At lunch tomorrow..."
+            ],
+            "content":"<div class=\"\"><div> <span>Matt peers into the toilet bowl at the rank sight of your digested remains floating gently in the water. He's never seen Damien's crap before. Man! that kid can fill a toilet! Just before he reaches over to the handle, he scans the poop before him and sees it! Your skull! Matt gasps and reels in horror for a second, but then stops. He looks at your skull and then the rest of the turds you've given your life to be turned into. He thinks, \"How disgusting! But still - all these little guys they give us to eat - this happens to all of them. Turned into our poop. Our slimy, warm, brown poop. Unsure of what he is doing, he reaches his hand into the toilet bowl and scoops a couple of turds out of the water. Up close, he can see more of your bones in the mess, and he can surely smell your offensive odor much better!  He carefully extracts your skull out of his friend's excrement and drops the rest of the crap back into the toilet. <br>\r\n<br>\r\nA souvenir - something to remember you by. He heads over to the next stall and takes a dump as well - pushing out the digested remains of the poor guy he ate for lunch yesterday. And, like with Damien's poop, he searched it for the shrunken skull of a poor guy digested alive and turned into poop. Picking it out carefully, Matt wipes and turns to flush the toilet - \"No - not today - someone else should see this!\" He wipes and leaves the bathroom without washing his hands - just wiping them real good on some toilet paper. He intends to get back at Damien by covering his mouth and nose with his gross smelling hand.<br>\r\n<br>\r\nHours later, at the end of the day, Mr. Fitzgibbons, the janitor comes in to clean the bathroom. Frustrated with 2 bowls full of unflushed crap he curses \"Damn kids! Don't they know how to flush?\"</span></div></div>",
+            "created":1349499600,
+            "id":1441363,
+            "title":"..."
+        },
+        "1212":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "chewed",
+                "swallowed whole"
+            ],
+            "content":"<div class=\"\"><div> <span>You're a 13 year old boy named Jeff.<br>\r\n<br>\r\nYou're struggling in a bowl filled with other tiny people. A (to you) giant boy who looks to be about 9 walks along with a metal tray. He looks over the bowl. You think 'please not me, please not me, please not me!\" It was a fact that the younger people are, the crueler they are. <br>\r\n<br>\r\nThe boy keeps looking over the bowl. He licks his lips, and then reaches a hand into the bowl. Fortunately, he didn't grab you, but unfortunately, the poor soul he did grab gave you a preview of the utter terror you'll feel when you do get chosen. The boy grabs the doomed guy by the leg, and carries him away.<br>\r\n<br>\r\nAnother boy walks by with a tray; he looks to be about 7. 'please not me, please not me, please not me!' Unfortunately, the 7 year old grabs you and carries you away.<br>\r\n<br>\r\nYou will be eaten raw, that much is clear. Will you be chewed or swallowed whole, though?</span></div></div>",
+            "created":1347166800,
+            "id":1424152,
+            "title":"10-15"
+        },
+        "12121":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "The boy goes back for more boys",
+                "He's full"
+            ],
+            "content":"<div class=\"\"><div> <span>The boy walks to some plastic cafeteria chairs, sits down, and opens his palm to tell you your fate. \"So... sucks to be you, eh? Tell ya what; I'll chew you, so you won't be alive to feel the pain of digestion! Time to go!\" <br>\r\n<br>\r\nThe 7 year old opens his scary looking mouth, and brings you to just above his sharp front incisor, and drops you. The incisor cuts right through your right lung. Blood is going everywhere inside his mouth.<br>\r\n<br>\r\nThe boy loves the taste of your blood; kind of bitter, kinda copper-like. But he can't enjoy it; he has a service to complete.<br>\r\n<br>\r\nYou are fading fast. <br>\r\n<br>\r\nThe boy rolls you over onto his molar, and brings it down.<br>\r\n<br>\r\nThat was the last thing you felt. </span></div></div>",
+            "created":1350622800,
+            "id":1450018,
+            "title":"chewed"
+        },
+        "12122":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "the stomach-the experience"
+            ],
+            "content":"<div class=\"\"><div> <span>7 grabs me and brings me to his salivating mouth; his drool making little \"rivers\" in his already chapped lips. <br>\r\n<br>\r\nI'm scared as I'm held in front of this boy's face, the fact that he was at least 5 years younger than me, and therefore more likely to be impulsive in his decisions, filled me with terror. These are my last moments, and it is no longer a question as to whether I get eaten, but rather a question of whether 7 will let me keep my dignity; will he end my life quickly by chewing me up, or leave me alive-swallow me whole, to experience the anguish of being torn apart by his digestive enzymes. I hope he spares me that!<br>\r\n<br>\r\nBut evidently, he wanted me to suffer, as I was jostled around his mouth for a while, to lubricate my body for its trip down the narrow throat. I could feel the muscles in the mouth working me to the back. With a powerful swallow, I fell down the tunnel, which would lead to my final conscious destination.</span></div></div>",
+            "created":1348808400,
+            "id":1436639,
+            "title":"swallowed whole"
+        },
+        "121221":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "content":"<div class=\"\"><div> <span>As I tumbled down to the stomach, visions of my \"few\" years passed before my eyes. I remember when I was given a bath by my mum when I was 3 or 4; she pointed out that I had a mole on my ankle, and I said it wasn't a mole; I was having a party, and I had spilled gravy on my ankle. <br>\r\n<br>\r\nI was given no more time to reminisce before I landed in the stomach. Well, this is it, I thought, the room that will kill me. I have, maybe, five minutes before the acids come.<br>\r\n<br>\r\nThe movement outside has long since stopped, the boy's likely sitting. <br>\r\n<br>\r\nI feel some of the remaining air rush past me and up the throat, leaving me a little dizzy. The ground beneath me starts to shake. What's happening? <br>\r\n<br>\r\nOutside, the boy could feel an enormous pressure building up inside, which culminated into a loud belch; so loud, in fact, that the other students in the cafeteria looked at you, some with legs flailing out their mouths. He could feel the judgmental stares of all the boys in the cafeteria, so, in order to break the tension, the boy gave a bow. Everyone in the cafeteria started cheering and applauding. The boy settled down in his seat again, comforted that he was, as of this moment, inflicting killing someone slowly, inside his stomach.<br>\r\n<br>\r\nInside the stomach the acid was quickly filling up, and I was screaming and pounding on the walls frantically. My end came as I slipped on the floor and sunk to the bottom of the acid.<br>\r\n<br>\r\n                                                         <br>\r\n<br>\r\n                                                                                                                  ***<br>\r\n A day and a half later my body had made the rest of the journey through the digestive system.<br>\r\n<br>\r\nThe boy was in math class when he felt the need to go. So after excusing himself, he went to the washroom. It didn't take long after sitting down that the crap came. After wiping, he stood up to see if he could see any traces of you; a few bones were in the crap as well as some pieces of clothing. The boy flushed the toilet, and headed back to class.</span></div></div>",
+            "created":1349413200,
+            "id":1441206,
+            "title":"the stomach-the experience"
+        },
+        "1213":{
+            "author_id":"jgp1492",
+            "author_name":"jgp1492",
+            "choices":[
+                "20-30",
+                "30-40",
+                "40+"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How much older than 15 are you?</span></div></span></div>",
+            "created":1346734800,
+            "id":1420609,
+            "title":"15+"
+        },
+        "122":{
+            "author_id":"jgp1492",
+            "author_name":"jgp1492",
+            "choices":[
+                "5-10",
+                "10-15",
+                "15+"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're a girl, how old are you?</span></div></span></div>",
+            "created":1346734800,
+            "id":1420612,
+            "title":"Girl"
+        },
+        "1222":{
+            "author_id":"meeper15",
+            "author_name":"meeper15",
+            "choices":[
+                "no .ok back to work.",
+                "OH CRAP!!! HELP!!!",
+                "HOW HUNGRY IS THIS GUY!? THIERS LIKE 5 OF US BEING GRABED!!!"
+            ],
+            "content":"<div class=\"\"><div> <span>I am a 15 year old girl named Sarah hears a few things about me before we begin.<br>\r\nhair:brown kept in a ponytail but has some in the front covering the forehead.<br>\r\neyes:icy blue<br>\r\nskin:(if this offends you i am sorry I not trying to be raceist i just describing the caricature.) wight.<br>\r\nhighth: I am 5 ft.tall or at least I used to be current:1 in.<br>\r\nmisc:nice c-cup boobs and plump butt and no i am not fat i am 130 Lbs.<br>\r\n<br>\r\nThe begining.<br>\r\nI was traped in a serving contaner on a serving table at the lunch room with at least a few 100 other tinys.<br>\r\nI had olny one thing on my mind. I need to get out of here, my thoughts were interurpted when a boy's hand came into the bin.<br>\r\n\"OH NO PLEASE DON'T PICK ME NOT ME NOT NOW!\" I yelled.<br>\r\n<br>\r\n<br>\r\nIs she picked?</span></div></div>",
+            "created":1387342800,
+            "id":1709914,
+            "title":"Sarah"
+        },
+        "12222":{
+            "author_id":"meeper15",
+            "author_name":"meeper15",
+            "choices":[
+                "Fine sigh... I'll be your slave",
+                "ARE YOU NUTS I'd RATHER DIE THEN LOSE MY FREEDOM... oh my."
+            ],
+            "content":"<div class=\"\"><div> <span>The downright HUGE hand comes straight at you ang grabs you.<br>\r\n\"AH NO I DON'T WANT TO BE LUNCH!\" you say as you tremble in terror in the palm of the giant boy. So whats up short stuff, look I'm hungry, your food, but my mom packed a lunch for me already.<br>\r\n\"So you arn't going to nom me?\" you say wiping tears off eyes as you smile hopefully.<br>\r\n\"Well you know what I'll make you a deal. I won't eat you, if you agree to by my personnel slave... that dosen't sound to... FOREVER. And if i don't?<br>\r\nThen I'll have a healthy serving of tiny girl in my lunch.<br>\r\n<br>\r\nyou gulp uaa... thats a nice offer but what kind of slave?<br>\r\n<br>\r\nThe boy thinks for a moulment well... uaa... you know I haven't actually thought that far, i'll tell you when we get home that is if you say yes.<br>\r\nyou say shakingly \"So it's that or be lunch, isn't there a theird choise.\"<br>\r\nThe boy says bluntly \"No\"<br>\r\nyou gulp and say too yourself \"so it's either slavery or digestion I don't know whats wrose.\"</span></div></div>",
+            "created":1387406340,
+            "id":1709946,
+            "title":"OH CRAP!!! HELP!!!"
+        },
+        "122222":{
+            "author_id":"meeper15",
+            "author_name":"meeper15",
+            "choices":[
+                "IT'S PEANUT BUTTER JELLY TIME!!!",
+                "A meal of yourself"
+            ],
+            "content":"<div class=\"\"><div> <span>HOW DIRE YOU... YOU *BLEEP*. You'll pay for your defience.<br>\r\nIts lunch time twerp! but first will I just swallow you or put you in my PB&amp;J.<br>\r\nYou gasp in terror at the very thought of being digested \"No please I'll be your slave just don't eat me!<br>\r\nTo late for that twerp I am having You for lunch weather you like it or not.<br>\r\n<br>\r\nYou drop to your knees and start crying, knowing that you'll be eaten.</span></div></div>",
+            "created":1387408680,
+            "id":1709962,
+            "title":"Lunch time... and your it!"
+        },
+        "1222222":{
+            "choices":[
+                "More tinies!!",
+                "Scarf down that PB&J (maybe add a tiny this time?)"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ha ha ha! You better cry! My stomach's gonna digest you so fast!\" The boy's giant hand drops you into his mouth. You see it has been salivating at the thought of eating you this whole time, and you are covered in the warm liquid. The boy swishes you around a bit in his mouth, tasting you.<br>\r\n<br>\r\n\"Not bad.\" He comments with you snug in his cheek. Then, his tongue slides you to the back of his mouth, and he swallows hard, downing you whole.<br>\r\n<br>\r\nYou slide down his throat, and, before long, drop into his stomach. It's completely empty, but smells odd, like food was here not too long ago. An enormous rumbling shakes your cavernous prison, and sends you to the floor, face-first. Instantly, your skin begins to tingle and burn. Almost on cue, acid begins to flow into the boy's belly, knowing that some food is in here, the food being you, of course. You scream as the acid washes over you, sending the same burning sensation to your whole body. You are 15 years old, not even an adult, and now you are doomed to die in the stomach of some boy as a pitiful snack.<br>\r\n<br>\r\n\"Ahh...\" The boy sighs with contentment as he pats and rubs his growling tummy, with you digesting inside. *BUUUUUUUUUURRRRRRRRRPPP* He belches deeply, an obnoxious, boyish burp that feels good to let out.<br>\r\n<br>\r\nAnother boy with a tray comes over. \"Hey, Hayden, was that you?\" He heard the boy burp.<br>\r\n<br>\r\n\"Yeah!\" Hayden replies proudly.<br>\r\n<br>\r\n\"Awesome burp, dude!\" The other boy compliments. Hayden looks down, as his stomach gurgles loudly again, and looks back up to the other boy, drawing closer.<br>\r\n<br>\r\n\"Why don't you experience one up close?\" Before the other boy can respond, Hayden lets out a huge *BBBRRRRAAAAAAAAAAAAAAPPPP* right in his face. It smells like a gassy stomach and your half-digested body.<br>\r\n<br>\r\n\"Oh god, I wouldn't ever want to be in there!\" The boy comments playfully in slight disgust. The two then laugh, and the boy walks off.<br>\r\n<br>\r\nAbout 10 minutes later, your body is completely digested, much to Hayden's delight. He's now hungry again. What does he go for?</span></div></div>",
+            "created":1400035980,
+            "id":1796060,
+            "title":"A meal of yourself"
+        },
+        "12222222":{
+            "author_id":"meeper15",
+            "author_name":"meeper15",
+            "choices":[
+                "alive inside",
+                "time to move on.."
+            ],
+            "content":"<div class=\"\"><div> <span>Man she was good,but she isn't exactly filling I'm still hungry. <br>\r\nI think I'll have that PB&amp;J now. Said Hayden. I have a extra tiny if you want said the boy. Naw said hayden, besides olny one tiny per bay remember. Oh right I forgot said the boy.<br>\r\n<br>\r\n\"So is that tiny still in ya?\" Said the boy. I don't know she's probably just a mushy blob by now allthou it's not unheard of tinys actually surviving being digested and come out as self conscious poo, its odd really even then all they can do like that is hear see and feel as well as think to themselves but you can't really tell. Said Hayden as he unwapped his sandwich. <br>\r\n<br>\r\nFascinating said the boy, well got to go Hayden, bye.<br>\r\nBye said Hayden as he took a bite of his sandwich.<br>\r\n<br>\r\nMeanwhile in Hayden's stomach, all that remains of the poor little girl Sarah is mushy pile of goo, but the question remains is she still conscious? Or is she realy dead?</span></div></div>",
+            "created":1400102520,
+            "id":1796408,
+            "title":"Scarf down that PB&J (maybe add a tiny this time?)"
+        },
+        "12223":{
+            "author_id":"meeper15",
+            "author_name":"meeper15",
+            "choices":[
+                "Bread bakeing",
+                "misc."
+            ],
+            "content":"<div class=\"\"><div> <span>As the huge hand comes down you knew that it was set on you and the two behind you, and poor Sarah screemed in terror when she was grabbed so did the others.<br>\r\n<br>\r\n But the giant didn't seem to care as he took the unfortunate trio to the preparation table to be made into all diferent foods using thies large machines like the doe press where Sarah saw other tinys being flattened into pizza crusts,pancakes,pattys for burgers,and cookies.<br>\r\n<br>\r\non the other side she saw the bread making path started with the deboners take the bones out of tinys so the tinys can be made into bread dow or be left alone to be reserved for hamburger patty meat.<br>\r\nafter deboneing the tinys are put in the press or taken to the doe kneeder machines to be made into burger buns, loaf of sandwich bread,doenuts,and biscuts.<br>\r\n<br>\r\ntorture path #2 is the more complacted part that makes the other stuff.<br>\r\n<br>\r\nSarah shudders atr the thought of going throu either one.<br>\r\n<br>\r\nso will Sarah be baked into bread or be made into the other pats of the foods.<br>\r\noh and the tinys are vary resilient so they can survive the preparations of ANY kind.</span></div></div>",
+            "created":1387415820,
+            "id":1710006,
+            "title":"HOW HUNGRY IS THIS GUY!? THIERS LIKE 3 OF US BE..."
+        },
+        "1223":{
+            "author_id":"jgp1492",
+            "author_name":"jgp1492",
+            "choices":[
+                "20-30",
+                "30-40",
+                "40+"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How much older are you?</span></div></span></div>",
+            "created":1346734800,
+            "id":1420613,
+            "title":"15+"
+        },
+        "12232":{
+            "choices":[
+                "Your son",
+                "Your daughter's friend"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a 35 year old woman with blond hair and green eyes. You had lived with one of your children, and were hardworking. However, apparently society didn't think that was enough. A group of men came and shrunk both you and your teenage daughter. You had been taken to an all males school to be served for the hungry students.<br>\r\n<br>\r\nFor a while, you and your daughter sat in a bottle, scared of what was to come. A male cook came to get the two of you prepared. If he wasn't planning to hurt you, you might have thought he was cute. You hugged your daughter one last time, before the giant grabbed you. They were currently selling breakfast to the kids. You were forced to watch the cook prepare your daughter by heating her up. She screamed really loud, causing you to cry a little. She was set on a piece of toast. Jelly was spread over her. You begged for her to be let go, but the man ignored you. You yelled as a giant child grabbed the plate and took her away forever.<br>\r\n<br>\r\nIt was now your turn to be prepared. The man warmed you up. It hurt a little, but it wasn't too bad. You waited to be set on toast, however, apparently he had a different idea for you. He dropped you on top of a waffle, poured syrup on your belly, then dropped another waffle on top of you. To finish it, he dropped a couple of blue berries on top. You were quickly grabbed by someone. You struggled, even though you knew you couldn't escape. When you looked up, you were shocked to see that the giant who grabbed you was . . . </span></div></div>",
+            "created":1496806140,
+            "id":2332328,
+            "title":"Waffles and toast"
+        },
+        "122322":{
+            "author_id":"snack54",
+            "author_name":"Snack44",
+            "choices":[
+                "Slave",
+                "Lunch"
+            ],
+            "content":"<div class=\"\"><div> <span>Matt sat down at a table and prepared to enjoy eating his waffle. However, he had the habit of taking a close look at his food, especially the small women. When he had released you from your waffle prison and looked at you closer, he recognized you immediately. A little shocked, he asked, \"Ms. Johnson, why are you a tiny one and why were you in my lunch?\"<br>\r\n\"They shrunk me and my daughter and then brought us here. My daughter, your girlfriend was given to the boy in front of you. You have to save her before she is eaten.\" you say to Matt.<br>\r\n<br>\r\nMatt looked around. He saw the boy who was in front of him and he saw his girlfriend disappearing into the boy's mouth.<br>\r\n\"Excuse me, Ms. Johnson, but your daughter has just been swallowed.\" said Matt.<br>\r\n\"Then go and help her, she's your girlfriend after all,\" you say, but Matt just looks at you and says:<br>\r\n\"Nope, no fancy. Actually, I was only with your daughter to see you more often, Ms. Johnson.\"<br>\r\nYou are a little appalled when you hear that.<br>\r\n\"What do you mean Matt?\"<br>\r\n\"I just find you extremely sexy and I always get really horny when I see you. That's why I was with your daughter. I don't really care if your daughter was now eaten by this boy. I would have preferred to have done it myself to dispose of this stupid piece the right way. \" said Matt.<br>\r\nYou were stunned. Your daughter's friend really just said that.<br>\r\n\"You would really eat my daughter, your friend, if she lands on your plate?\" you ask.<br>\r\n\"I would eat her! I would swallow her in one piece, enjoying her agony in my stomach as she slowly digested it, and I would enjoy making her disappear the next day as my poop.\" Matt replied.<br>\r\n<br>\r\nYou realize how wrong you were in Him.<br>\r\n\"Now I have a question for you, Ms. Johnson.\" says Matt. \"I'll give you the choice. Do you want to be my slave and live or should I swallow you like lunch what you are?\"</span></div></div>",
+            "created":1585951680,
+            "id":2812887,
+            "title":"Your daughter's friend"
+        },
+        "13":{
+            "author_id":"jgp1492",
+            "author_name":"jgp1492",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are the server at Garth Boys School, you serve the boys their feed of tines each day, what gender are you?</span></div></span></div>",
+            "created":1346734800,
+            "id":1420615,
+            "title":"Server"
+        },
+        "131":{
+            "author_id":"jgp1492",
+            "author_name":"jgp1492",
+            "choices":[
+                "16-25",
+                "25-45"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a boy, how old are you?</span></div></span></div>",
+            "created":1346734800,
+            "id":1420617,
+            "title":"Boy"
+        },
+        "132":{
+            "author_id":"jgp1492",
+            "author_name":"jgp1492",
+            "choices":[
+                "16-25",
+                "25-40"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're a girl, how old are you?</span></div></span></div>",
+            "created":1346734800,
+            "id":1420618,
+            "title":"Girl"
+        }
+    },
+    "info":{
+        "author_id":"jgp1492",
+        "author_name":"jgp1492",
+        "brief_description":"At a school that provides lunch for their students, this one serves tines",
+        "created":1346756460,
+        "description":"<td align=\"left\" class=\"norm\">In a world where schools always feed their students with breakfast, lunch and dinner, and the invention fo a shrinking gun has reduced hunger and population, but the government has considered these tiny people as pests and are openly sold in stores and served in food outlets. Now they are being sold to schools to feed their students.<br>\r\nYou are either a student, tiny, cafeteria server or the supplier<br>\r\n <br>\r\nRULES<br>\r\nOnly tines can be female, NO normal sized GIRLS!!!!!!<br>\r\nOnly oral vore, tines can be alive or cooked<br>\r\nAll boys school, so keep it as such<br>\r\nTines can be taken home with the students<br>\r\nAlways, there are classes between the meals, add those in please<br>\r\n<br>\r\nAny questions feel free to email me<br>\r\nHAVE FUN</td>",
+        "id":1889385,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1585951680,
+        "modified":1585951680,
+        "pretty_title":"School Cafeteria "
+    }
+}

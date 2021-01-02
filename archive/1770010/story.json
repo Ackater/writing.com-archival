@@ -1,0 +1,700 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"guilhermehank",
+            "author_name":"hank",
+            "choices":[
+                "Pokemon Mystery Dungeon Blue/Red",
+                "Pokemon Mystery Dungeon Explorers of Sky/ Time/ Darkness",
+                "Make your destiny...",
+                "Make your destiny...",
+                "Make your destiny ..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choise your course... or MAKE your course</span></div></span></div>",
+            "created":1303448400,
+            "id":1092658,
+            "title":"choose your course..."
+        },
+        "11":{
+            "author_id":"guilhermehank",
+            "author_name":"hank",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Welcome !<br>\r\nThis is a portal that leads to the world of pok\u00e9mon.<br>\r\nBut before i can let you through, i have several for you.<br>\r\nI want you to answer them sincerely.<br>\r\nAre you ready ?<br>\r\nOk... let the interview begin !<br>\r\n<br>\r\nDo you like pranks ?</span></div></div>",
+            "created":1303448400,
+            "id":1092666,
+            "title":"Pokemon Mystery Dungeon Blue/Red"
+        },
+        "112":{
+            "author_id":"guilhermehank",
+            "author_name":"hank",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do the others tell you to watch what you say ?</span></div></span></div>",
+            "created":1303448400,
+            "id":1092667,
+            "title":"No"
+        },
+        "12":{
+            "choices":[
+                "Begin!"
+            ],
+            "content":"<div class=\"\"><div> <span>Welcome!<br>\r\nThis is a portal that leads to the world only inhabited by Pok\u00e9mon.<br>\r\nBeyond this gateway, many new adventures and fresh experiences await your arrival!<br>\r\nBefore you depart for adventure, you must answer some questions.<br>\r\nBe truthful when you answer them!<br>\r\nNow, are you ready?<br>\r\nThen...let the questions begin!<br>\r\n<br>\r\n</span></div></div>",
+            "created":1305522000,
+            "id":1107102,
+            "title":"Pokemon Mystery Dungeon Explorers of Sky/ Time/..."
+        },
+        "121":{
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Once you've decided something, do you see it through to the end?</span></div></span></div>",
+            "created":1305522000,
+            "id":1107105,
+            "title":"Question 1"
+        },
+        "1211":{
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When you see a switch, do you get the overwhelming urge to flip it?</span></div></span></div>",
+            "created":1305522000,
+            "id":1107107,
+            "title":"Question 2"
+        },
+        "12111":{
+            "choices":[
+                "Certainly!",
+                "Well, not really..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Have you ever looked at your reflection in a mirror and thought, \"What a cool person\"?</span></div></span></div>",
+            "created":1305522000,
+            "id":1107109,
+            "title":"Question 3"
+        },
+        "121111":{
+            "choices":[
+                "Open it!",
+                "Get help opening it."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You discover a beat-up-looking treasure chest in some ruins. What do you do?</span></div></span></div>",
+            "created":1305522000,
+            "id":1107112,
+            "title":"Question 4"
+        },
+        "1211111":{
+            "choices":[
+                "An action movie.",
+                "A drama."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're at a movie theater. What are you there to see?</span></div></span></div>",
+            "created":1305522000,
+            "id":1107116,
+            "title":"Question 5"
+        },
+        "12111111":{
+            "choices":[
+                "Aaaargh!",
+                "Bad timing, I guess..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You notice that toy you bought for full price yesterday is marked down to half price today! How do you feel?</span></div></span></div>",
+            "created":1305522000,
+            "id":1107119,
+            "title":"Question 6"
+        },
+        "121111111":{
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you think you have good study habits?</span></div></span></div>",
+            "created":1305522000,
+            "id":1107122,
+            "title":"Question 7"
+        },
+        "1211111111":{
+            "choices":[
+                "All the time!",
+                "Never."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you think know matter what, life goes on?</span></div></span></div>",
+            "created":1305522000,
+            "id":1107123,
+            "title":"Question 8"
+        },
+        "12111111111":{
+            "choices":[
+                "Male.",
+                "Female."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you male or female?</span></div></span></div>",
+            "created":1305522000,
+            "id":1107125,
+            "title":"Question 9"
+        },
+        "121111111111":{
+            "choices":[
+                "Torchic",
+                "Skitty"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You appear to be the Hasty type.<br>\r\nAnd so a Hasty type like you should be...</span></div></span></div>",
+            "created":1306126800,
+            "id":1111282,
+            "title":"Results"
+        },
+        "12111111112":{
+            "choices":[
+                "Male.",
+                "Female."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you male or female?</span></div></span></div>",
+            "created":1305522000,
+            "id":1107127,
+            "title":"Question 9"
+        },
+        "13":{
+            "author_id":"lovezoo",
+            "author_name":"ray",
+            "choices":[
+                "I would ask my friend what he or she want me to do",
+                "I would ask my friend what kind of favor",
+                "I would ask what in it for me",
+                "I would told my friend, I do favor but he or she have own me back",
+                "I would tell my friend can't do favor "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hello there Welcome to Pokemon Mystery Dungeon Remaker! and I guess you are here to find out what kind of Pokemon you are? Well then let begin the question!<br>\r\n<br>\r\n(If your friend ask you for favor, What would you do or say?) </span></div></span></div>",
+            "created":1469509200,
+            "id":2186289,
+            "title":"Make your destiny..."
+        },
+        "133":{
+            "author_id":"pintoarcade",
+            "author_name":"PintoArcade",
+            "choices":[
+                "Male",
+                "Female",
+                "1960s Coca Cola Bottle"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a Snivy! \ud83d\ude09 The question remains... what gender are you?</span></div></span></div>",
+            "created":1529307240,
+            "id":2508796,
+            "title":"I would ask what in it for me"
+        },
+        "14":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Begin.",
+                "....is something wrong?"
+            ],
+            "content":"<div class=\"\"><div> <span>Hello?<br>\r\nCan you hear me?<br>\r\n.....it looks like you can.<br>\r\nI am glad. You are awake.<br>\r\nWelcome, to the world of Pok\u00e9mon.<br>\r\nThis is a place where Pokemon, and only Pokemon, exist.<br>\r\nHumans are extinct here. But their legacy has not vanished.<br>\r\n....you ask why you only see changing colour?<br>\r\nBefore you enter, you must answer a series of questions.<br>\r\nThis will determine what Pok\u00e9mon you become in the world of Pok\u00e9mon. <br>\r\nAre you ready?<br>\r\nGood, let us begin.</span></div></div>",
+            "created":1606748760,
+            "id":2948565,
+            "title":"PMD: Glitch in Reality Quiz"
+        },
+        "142":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "*\u201cLuxray.\u201d",
+                "\u201cCharizard.\u201d",
+                "You think hard.....you don\u2019t want to remember, but you must."
+            ],
+            "content":"<div class=\"\"><div> <span>(The following path is my story of this. If you want to add to this.....I\u2019ll add multiple choices, and mark the pathway I\u2019ll go down with a asterisk. Feel free to use the other paths. Thanks.)<br>\r\n<span class=\"cteal\">Wait.</span><br>\r\n.....is something wrong? <br>\r\n<span class=\"cteal\">This....is not the first time we\u2019ve had this exchange.</span><br>\r\nYes, I see now. I summoned you before. You didn\u2019t succeed, did you?<br>\r\n<span class=\"cteal\">We.....I...couldn\u2019t prevent \u2018it\u2019 from wiping the force we amassed to stop it right out, even with the help of some Legendaries.........it was strong. Far too strong, but I was given a second chance by Celibi, as a last resort. I was sent back in time before....this, and before this whole \u2018adventure\u2019 even started.</span><br>\r\nA shame, no doubt. But you were given a chance to try again, and this time, you can succeed. Do you remember what Pok\u00e9mon you were before you were sent back?<br>\r\n<span class=\"clteal\">I do. It was a......</span></span></div></div>",
+            "created":1606750320,
+            "id":2948582,
+            "title":"Takashi Story P1- Something Is wrong."
+        },
+        "15":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Have an adventure!",
+                "Nap.",
+                "Hang out with friends.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>(Author's note: I have a plan that I want this path to generally follow. If you would like to add, please discuss your idea with me first. I'm only going to say no if it really messes with the plot, but it's good to check anyway. Thanks for understanding! - 10\u00a5)<br>\r\n<br>\r\nHello! It's very nice to meet you. Unfortunately, we don't have time for idle chit chat. The world is in peril, and only you can stop it! I'm going to ask you a few quick questions, they will determine what Pokemon you will become. Are you ready? Begin!<br>\r\n<br>\r\nFirst question: what do you like to do to relax?</span></div></div>",
+            "created":1484542800,
+            "id":2264641,
+            "title":"Welcome to the world of Pokemon!"
+        },
+        "151":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "An island, looking for pirate treasure!",
+                "A place no one has gone before.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Adventure is fun and all, but where would you adventure to?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264642,
+            "title":"Have an adventure!"
+        },
+        "1511":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "So I can get rich!",
+                "Because I want it to go to a museum."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why do you want pirate treasure?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264645,
+            "title":"An island, looking for pirate treasure!"
+        },
+        "15111":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Boy.",
+                "Girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, that about wraps it up! You will become a Charmander! Now, are you a boy Charmander or a girl Charmander?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264647,
+            "title":"So I can get rich!"
+        },
+        "151111":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Treecko.",
+                "Oschawott."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, Mr. Charmander. Who will be your partner?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264649,
+            "title":"Boy."
+        },
+        "1511111":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Defend the Treecko.",
+                "Tell him to give it back."
+            ],
+            "content":"<div class=\"\"><div> <span>Alright, it's time to send you to the world of Pokemon! I will send you someone to help soon, but watch out! There will be others who want to stop you from completing your mission. Good luck!<br>\r\n<br>\r\n<br>\r\n<i>Uhh, where am I? How did I get here?</i> You slowly sit up and look around. You seem to be on the side of... a mountain? What's going on? Your whole body feels strange...<br>\r\n<br>\r\n\"Hey, you, come back here!\" You here a shout from behind. You turn to see a green lizard being chased by a large yellow creature. <i>Those look like... Pokemon? What's going on?</i><br>\r\n<br>\r\nThe green lizard jumps behind you and cries out. \"Please! You gotta help me! This guy wants to hurt me!\" Was this Pokemon talking to you? You can see him better up close, and recognize him as a Treecko.<br>\r\n<br>\r\nThe big yellow one, who you can now see is an Electabuzz, snorts in contempt. \"Don't listen to him. This punk stole something from me. All I want is for him to give it back.\"<br>\r\n<br>\r\nThe Treecko yelps. \"No I didn't! He's a bandit! He wants to take it from me!\" The Electabuzz laughs. \"As if, now hand it over. I'm getting impatient.\"<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1484542800,
+            "id":2264671,
+            "title":"Treecko."
+        },
+        "15111111":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Of course!",
+                "Not really..."
+            ],
+            "content":"<div class=\"\"><div> <span>You look at the Electabuzz and say, \"Bullying the weak is wrong. Leave him alone.\" He growls at you. \"You gonna stick up for this punk?\" He shifts stance, as though ready for a fight.<br>\r\n<br>\r\nThe Treecko stops hiding, and also gets ready. \"It's two on one, we can beat you. Leave us alone or you'll get hurt.\" He glances over at you. \"You do know how to fight, don't you?\"</span></div></div>",
+            "created":1484542800,
+            "id":2264674,
+            "title":"Defend the Treecko."
+        },
+        "151111111":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Join Treecko's team.",
+                "Refuse."
+            ],
+            "content":"<div class=\"\"><div> <span>The Electabuzz eyes the two of you before dropping his ready stance. \"Bah, you brats aren't worth the trouble. Keep it.\" He starts to walk away. \"But I don't want to see you coming round my shop, you hear?\"<br>\r\n<br>\r\nYou look at the Treecko. \"Store? You said he was a bandit.\" He laughs nervously. \"Yeah, I kind of lied about that.\" You glare at him. \"Hey, no need to be mad! Look, it's for a good cause, ok? I promise I'll pay him back as soon as I can.\" You keep staring. \"A-and I owe you one, too!\"<br>\r\n<br>\r\nYou sigh. \"What exactly did you steal?\" His eyes light up. \"Follow me, I'll show you!\" He runs off down a path on the mountainside, leaving you to follow.<br>\r\n<br>\r\nYou arrive in a small cave, with holes in the wall acting like windows and giving a view of the land below. A small balcony-like rock formation jutted out to one side had a bucket full of rainwater sitting on it and a small mailbox. A pile of straw in the corner was made up like a bed. <i>Is this where he lives? Poor guy, no wonder he had to steal.</i><br>\r\n<br>\r\nThe Treecko walks out onto the balcony. \"This,\" he says, pulling out a small flag, \"is what I stole.\" He plants it on the mailbox. \"It's an Adventure Banner.\" The flag looks like it has a Pelipper on the side. \"What does it do?\" <br>\r\n<br>\r\nHe laughs. \"Man, you don't get out much do you? These things tell the Pelipper Mail Service that this is the mailbox of an official Adventure Team!\" He grins at you, but seeing the blank look on your face, sighs. \"Adventure Teams help citizens with requests in return for rewards. I couldn't afford an Adventure Banner before, but now I can earn some money. Although...\" His face falls. \"Adventure Teams need at least two members. I got the badges, I just need a second member.\" He looks at you with puppy dog eyes. \"Would you join my team? I haven't seen you around here before. If you join, you can live here! We'll split the rewards 50/50! Please?\"</span></div></div>",
+            "created":1484542800,
+            "id":2264692,
+            "title":"Of course!"
+        },
+        "1511111111":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "The truth.",
+                "A lie."
+            ],
+            "content":"<div class=\"\"><div> <span><i>I suppose joining his team wouldn't be too bad. It'll at least give me a place to stay while I try to figure out what's going on...</i> You make up your mind and nod. Treecko jumps with joy. \"Yes! I'm in an Adventure Team! Woohoo!\" He stops suddenly, looking at you suspiciously. \"Hey, where are you from anyway? I don't think you're from here.\"<br>\r\n<br>\r\n<i>What do I tell him? I don't know anything about this place, but I doubt he'd believe that I'm a human.</i><br>\r\n<br>\r\nWhat do you tell him?</span></div></div>",
+            "created":1484542800,
+            "id":2264697,
+            "title":"Join Treecko's team."
+        },
+        "15111111111":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "He eventually believes you.",
+                "He demands proof."
+            ],
+            "content":"<div class=\"\"><div> <span><i>Well, maybe he'll know something about it. Might as well tell him, he seems friendly enough.</i> \"Well, I'm actually from the human world.\" He jumps back in shock. \"Whaaaat?! The human world?!\" He shakes his head. \"That's not possible. Everyone knows that humans are just myths.\" <br>\r\n<br>\r\nHis expression changes, and he starts laughing. \"Oh man, I totally fell for that. Good one. But really, where are you from?\" You continue insisting you're a human.</span></div></div>",
+            "created":1484542800,
+            "id":2264704,
+            "title":"The truth."
+        },
+        "151111111112":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Your first job has arrived!",
+                "Electabuzz is back, and brought buddies."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Look, there's no way you can be a human. You're a Charmander!\" You look down and see that it's true. <i>How did I not notice that?</i> \"Look, you have to believe me. I-I...\"<br>\r\n<br>\r\nYou trail off, realizing that you can't remember what being human was like. \"I lost my memories. I just woke up on the cliff as a Charmander, and I know that I'm a human, but I can't remember anything!\" Tears of frustration well up in your eyes, and Treecko's expression softens.<br>\r\n<br>\r\n\"Well, if you were trying to lie to me, I guess you would make up something more believable.\" He smiles. \"Alright, since I still owe you for helping me out with Electabuzz, I'll help you find out what happened to you.\"<br>\r\n<br>\r\nJust then, you both hear a <i>thump!</i></span></div></div>",
+            "created":1484542800,
+            "id":2264708,
+            "title":"He demands proof."
+        },
+        "1511111111121":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Mission 1: Bandit Battle, begin!",
+                "Mission 1: Toddler Tracking, begin!"
+            ],
+            "content":"<div class=\"\"><div> <span>You run out to the balcony just in time to see a Pelipper lifting off from the mailbox and flying away. Treecko hurriedly opens the mailbox and reads the letters within.<br>\r\n<br>\r\n<i>\"Dear Adventurers,<br>\r\nMy name is Gligar. I live in Tantu Valley. Recently, a bandit has been stealing from this area. I'm sick of it. Please, get our possessions back, would you?\"<br>\r\n<br>\r\n\"Dear Adventurers,<br>\r\nPlease help me! I am Bonsly. My friend Mime Jr. and I got lost in the Murky Forest. We're scared. Please, help us!'</i><br>\r\n<br>\r\nHe turns back to you. \"Which one do we take? Adventure Teams are only allowed to keep a request for one day, and it will take us all day just to do one of these jobs. Which one do you want to do?\"</span></div></div>",
+            "created":1484542800,
+            "id":2264826,
+            "title":"Your first job has arrived!"
+        },
+        "15111111111211":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Pretty easy!",
+                "Pretty tough..."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Alright, I guess we'll take the first one. Hopefully a big job like this will earn us enough money to pay back Electabuzz.\" You look pointedly at Treecko. \"You DID promise to pay him back, after all.\"<br>\r\n<br>\r\n\"Yeah, I know. Alright, we're off to Tantu Valley!\" He grows serious. \"You sure you want this one? It's gonna be dangerous. We have to fight bandits, and you've only just become a Pokemon. You sure you're ready?\"<br>\r\n<br>\r\nYou nod. \"I've got to test my skills. Besides, maybe something out there will help me figure out who I am. Why I'm here. How to get back.\" Treecko sighs.<br>\r\n<br>\r\n\"Fine, fine. Let's get going. I'll put the other one back in the mailbox.\"<br>\r\n<br>\r\nUpon arriving in Tantu Valley, you are greeted by a small purple Pokemon who introduces herself as Gligar. \"The bandit should be at around B7F. Good luck, and thanks for helping!\" You and Treecko prepare to enter the Dungeon.<br>\r\n<br>\r\nHow difficult is the Dungeon?</span></div></div>",
+            "created":1484542800,
+            "id":2264859,
+            "title":"Mission 1: Bandit Battle, begin!"
+        },
+        "151111111112111":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "A giant boulder!",
+                "A hail of needles!"
+            ],
+            "content":"<div class=\"\"><div> <span>The Dungeon itself isn't too bad. It was mainly Ground and Rock Pokemon, which Treecko beat pretty easily using Absorb. The occasional Grass type cactus Pokemon would show up, but your Ember sent them running.<br>\r\n<br>\r\nFinally, you reach a clearing, B7F. But there's no bandit to be seen. However, there is a small pile of objects on the far side of the clearing. Those must be the stolen items!<br>\r\n<br>\r\nAs you walk to pick up the objects, a large shadow surrounds you and Treecko. You look up to see...</span></div></div>",
+            "created":1484542800,
+            "id":2264865,
+            "title":"Pretty easy!"
+        },
+        "1511111111121111":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Gouge his face with Metal Claw!",
+                "Bounce off harmlessly with Scratch."
+            ],
+            "content":"<div class=\"\"><div> <span>You leap out of the way just in time as the huge stone crashes to the earth where you stood. A rough cackling is heard from above, and you look up to see a Rhydon standing at the top of the rock face. He jumps down, landing with tremendous force.<br>\r\n<br>\r\n\"So, you're the squirts they sent to stop me? Pathetic!\" He throws his head back and laughs. It's like nails on a chalkboard, painful to listen to.<br>\r\n<br>\r\nTreecko shouts back, \"Stealing is wrong! Why would you take from people who can't defend themselves?\" Rhydon's eyes narrow. \"Because I can, punk.\"<br>\r\n<br>\r\nEnraged, Treecko charges at Rhydon, assaulting him with Pound, to little effect. Rhydon simply swats him aside, barely making an effort and yet still knocking Treecko back some 50 feet.<br>\r\n<br>\r\nYou try an Ember, but it doesn't do much more than Treecko did. Rhydon picks up another large rock and hurls it at you, and you barely dodge it.<br>\r\n<br>\r\nSuddenly, Rhydon cries out in shock and pain as he is enveloped in a harsh green light. Treecko's Overgrow ability has activated, making his Absorb much more powerful.<br>\r\n<br>\r\n\"Grrrr, that hurt!\" He growls, swinging a fist at Treecko, who leaps back nimbly. However, Rhydon I'd ready for this, using Earthquake to knock Treecko off balance before slamming him with Take Down. Treecko goes flying, crashing into a rock and crumpling to the ground.<br>\r\n<br>\r\nRhydon lumbers toward your friend, ready to strike the finishing blow. You can't let that happen. You run towards them and leap into the air. Rhydon turns just in time for you to...</span></div></div>",
+            "created":1484542800,
+            "id":2264872,
+            "title":"A giant boulder!"
+        },
+        "15111111111211111":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Arc 2 begin!"
+            ],
+            "content":"<div class=\"\"><div> <span>Your claws shine in the sunlight as they dig into the rocky surface of his face. Rhydon reels back, clutching his eye, and glares at you. \"Grrr, you punks aren't worth the trouble. Go, take my prizes and leave.\" He storms off down the canyon.<br>\r\n<br>\r\nYou rush over to Treecko. He seems to be ok, just a bit dazed from the pummeling he took. He groans. \"Ugh, my head... What happened?\" He looks up at you. \"Did you beat him?\"<br>\r\n<br>\r\nYou nod. \"Yep. He won't be troubling anyone for quite a while. Although, speaking of thieves,\" you grin, \"wasn't that whole 'stealing is wrong' thing a little rich coming from you?\"<br>\r\n<br>\r\nHe smiles sheepishly. \"Yeah I guess. Oh well, the important thing is that we completed the mission. Let's go back and collect our rewards, eh?\"<br>\r\n<br>\r\nAfter returning the stolen items and ensuring that everything was there, you were awarded $500. Treecko's a little disappointed, since it's not enough to pay Electabuzz back, but is greatful nonetheless. You head home as the sun sets, knowing that tomorrow will be a busy day indeed.<br>\r\n<br>\r\n<i>M/Arc 1 complete! Congratulations, adventurer! Let's check out what results you achieved with this path:<br>\r\n<br>\r\n+Treecko partner<br>\r\n+$500<br>\r\n+Adventure Banner<br>\r\n+Completed Bandit Battle<br>\r\n-Electabuzz Adventure Store access<br>\r\n<br>\r\nStay tuned for Arc 2, or go  back to the start and try for a different outcome! -10\u00a5</i></span></div></div>",
+            "created":1484629200,
+            "id":2265107,
+            "title":"Gouge his face with Metal Claw!"
+        },
+        "151111111112111111":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Let a stronger team take on this foe. Just help the kids.",
+                "Try to save the Adventure Team too. You need the cash."
+            ],
+            "content":"<div class=\"\"><div> <span><i>Oh man, is it morning already? I feel like I haven't slept at all.</i> You yawn and stretch. Looking around, you don't appear to be in your bedroom. <i>Oh, that's right. So then it wasn't a dream...</i><br>\r\n<br>\r\nJust then, the door swings open and Treecko enters the room, a large sack swung over his shoulder. \"Good morning sleepy head! Do you humans always wake up this late?\" You shoot him a tired look. \"And where were you? What's in the bag? You didn't steal again, did you?\"<br>\r\n<br>\r\nTreecko laughs. \"For your information, I was out buying supplies.\" He holds up a hand to stop your protests. \"I know. We should be paying back Electabuzz. But there wasn't enough money to do that. We're going to need to take bigger jobs. And to take bigger jobs...\" He hefts the bag onto a low table, \"We need to be better equipped. So I got us some supplies.\" He dumps the contents of the sack on the table.<br>\r\n<br>\r\n\"First up,\" he holds up a handful of fruits, \"these blue ones are Oran Berries. They restore your health in times of need. They're an Adventure Team's best friend. These red berries are Cheri Berries. They cure paralysis. Very useful against Electric types. The pink ones heal poison. They're known as Pecha Berries.\"<br>\r\n<br>\r\n\"Next, these are Gravelrocks.\" He holds up a pile of stones. \"You wasted our money on rocks? We're surrounded by stone!\" Treecko just waggles a finger. \"These rocks are special. Once thrown at an enemy, they lock on to the target. They're very difficult to dodge.\"<br>\r\n<br>\r\n\"Finally,\" he holds up a seed, \"this is a Reviver Seed. They can bring back a fainted Pokemon. We were lucky last time. If a single member of an Adventure Team is knocked out in a Dungeon, the whole team is sent back to their base. So be careful. This thing is our backup.\"<br>\r\n<br>\r\nJust as he finishes his explanations, the familiar clunk of Pelipper delivering your mail is heard from outside. Treecko brings the jobs in. \"Ok, let's see what we've got here...\"<br>\r\n<br>\r\nHe frowns a little. \"The first job is the one we didn't do yesterday. It seems no one helped those poor kids. The next one...\" His face pales. He looks up at you, visibly shaken. \"The other one is from another Adventure Team. They got wiped out in a Dungeon.\"<br>\r\n<br>\r\n<i>\"Dear Adventurers,<br>\r\nMy name is Ledyba, and I am the leader of Team Star. We got beaten in a Dungeon yesterday trying to rescue some lost children, but for some reason we are stuck here. There was an extremely tough for waiting for us, and we suspect he is the reason we can't leave. We are willing to offer good money to whoever frees us from this Dungeon.\"</i><br>\r\n<br>\r\nTreecko looks back to you. \"What should we do? Either way we have to save those kids. But what about that difficult enemy? If we accept that job too, we have to fight it. But with the reward they offer, we could pay back Electabuzz and still have money to spare!\"</span></div></div>",
+            "created":1488495660,
+            "id":2284328,
+            "title":"Arc 2 begin!"
+        },
+        "1511111111121111112":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Try to bum rush the Murkrow.",
+                "Throw the seed and hope it gets to him."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, the right thing to do is help anyone we can. Besides, that reward is too good to pass up!\" You take both job offers and grab a handful of items. \"We should leave as soon as we can.\"<br>\r\n<br>\r\nTreecko grabs the rest of the items and puts them back in the sack before slinging it over his shoulder. \"Right, ready when you are! Just lead the way!\" You give him a dirty look and he laughs. \"Oh right, you're not from around here. Alright, to Murky Forest!\" He marches out the door.<br>\r\n<br>\r\n\"Wow,\" you say as you arrive, \"I can see why they call it Murky Forest.\" The woods ahead of you are shrouded in a dark mist, limiting visibility significantly. You light off an Ember, but it does little to ease the darkness. \"I guess we'll have to deal with it then. Unless we find some way to dissipate the fog.\"<br>\r\n<br>\r\nUpon entering the Dungeon that is Murky Forest, you realize that you have no way to mark where you have already been. You look to Treecko, who just shrugs. \"I guess we'll have to keep our hands on the trees until we find the stairs. It's an old trick someone taught me once.\"<br>\r\n<br>\r\nThe two of you stumble along blindly, encountering very few Pokemon. Finally, you get to the end of the Dungeon, a clearing in the trees where the mist lifts just a little. In center, you see five Pokemon: the children and Ledyba, along with a Cleffa and a Staryu. \"Those must be the other members of Team Star!\" Treecko shouts before running towards them.<br>\r\n<br>\r\n<i>Yeah, but... where is this tough enemy Ledyba said they encountered?</i> You look up. \"Treecko, stop!\"<br>\r\n<br>\r\nTreecko skids to a stop just in time. In the space he would have been a moment later, a clear object smashes into the ground. You look up to see a Honchkrow descend from the sky.<br>\r\n<br>\r\n\"<b>Caw!</b> You're pretty quick, to dodge my Air Slash. And you,\" he turns his attention to you, \"You're quite clever, recognizing that as a trap. And you both look to be rookies!\" He caws in laughter. \"You'll make a fine ransom. Get 'em boys!\"<br>\r\n<br>\r\nA loud flapping sound draws your attention to several Murkrow flying out of the trees to surround you. \"You got it, boss!\" They crow, launching several Peck attacks. You barely manage to dodge them in time.<br>\r\n<br>\r\nYou fire off a few Embers to buy yourself some time. You look over to see Treecko trying to take down Honchkrow by himself! He's doing well, until he takes an Air Slash to the face, launching him across the clearing. With a type disadvantage and level difference, there's no way he survived that.<br>\r\n<br>\r\nThen you remember the Reviver Seed. If you can just get it to him, he'll be fine! Unfortunately, there are just too many Murkrow in the way. What should you do? If you don't get it to him quickly, you'll both be forced out of the Dungeon!</span></div></div>",
+            "created":1490561700,
+            "id":2295171,
+            "title":"Mission 2: Toddler Tracking + Risky Rescue, begin!"
+        },
+        "15111111111211111122":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Take the stone and throw it at the kidnappers.",
+                "Refuse. You got their boss, so they won't cause much trouble now."
+            ],
+            "content":"<div class=\"\"><div> <span>You chuck the seed as hard as you can, but an oncoming Murkrow prevents you from seeing if you were successful or not. You dodge its beak before raking your claws across its face with a Scratch. The dark bird reels backwards into its fellows, screeching in pain.<br>\r\n<br>\r\nJust as you are about to fire off a few more Embers, the wind whips up around you, forcing you to cover your eyes. Once the sudden gale dies down, you look to see that Honchkrow has joined the fray once again.<br>\r\n<br>\r\n\"<b>Caw!</b>\" He laughs maliciously, the Murkrow around him taking up the cry. The sound of raucous laughter fills the clearing, before being silenced by a loud thud as Treecko Pounds his tail into the back of Honchkrow's head.<br>\r\n<br>\r\nIt worked! Your Reviver Seed got to him in time! Honchkrow cries out in pain as he falls to the ground. His Murkrow lackeys look at each other nervously before taking to the skies,  cawing in panic.<br>\r\n<br>\r\nTreecko grins as he reaches into the item pouch, pulling out a smooth stone. \"You remember what I told you about Gravelrocks, right?\" He chucks one towards the flock of fleeing Murkrow, fist pumping when one tumbles from the sky. He then looks back to you, and his grin widens. \"Care to join me?\" He holds out a stone for you.</span></div></div>",
+            "created":1492977240,
+            "id":2309626,
+            "title":"Throw the seed and hope it gets to him."
+        },
+        "151111112":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Tell him.",
+                "Keep quiet for now."
+            ],
+            "content":"<div class=\"\"><div> <span>Electabuzz grins menacingly. \"Two brats who can't fight? This'll be a piece of cake.\" He charges at you, fist crackling with electricity. <i>Thunder Punch!</i> You roll to the side, dodging the punch, but he sweeps your leg out from under you with Low Kick.<br>\r\n<br>\r\nTreecko hops up on his back, using Pound on the back of his head to distract him. You get back to your feet and run straight at Electabuzz, claws raised high. Scratch! Right across his calf, causing him to topple, yelling in pain.<br>\r\n<br>\r\n\"I yield, I yield! Two on one is no fair.\" He shoots you a dirty look. \"You said you didn't know how to fight. \"I didn't.\" You reply. Electabuzz throws back his head and laughs. \"Just winging it, eh? I must be out of practice.\" He stands up and dusts himself off.<br>\r\n<br>\r\n\"Tell ya what. Keep it. But you owe me one later. Got it?\" Treecko nods eagerly. \"Yes sir! Thank you!\" Electabuzz laughs as he walks away. \"I'll hold you to it!\"<br>\r\n<br>\r\nTreecko turns to you. \"Thanks for the help. I don't think I've seen you around here before. What's your name?\" You try to remember, but you can't. \"Amnesia, huh? Didn't know that Charmanders could learn that.\" You look down and realize that you are indeed a Charmander. How did you not notice before?<br>\r\n<br>\r\n\"Alright, well, to thank you for helping me, I'll try to help you figure out who you are. Deal?\" You nod, but stay quiet. You don't know if you should tell him you're a human or not.</span></div></div>",
+            "created":1484693220,
+            "id":2265189,
+            "title":"Not really..."
+        },
+        "1511111122":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Follow Treecko.",
+                "Refuse the offer."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide not to mention your origin for now. You don't know if you can really trust Treecko, or if he'll believe you, but at least since he believes your memory loss, he's not likely to ask where you're from, and you have a convenient excuse if he does.<br>\r\n<br>\r\nTreecko takes the silence as acceptance. \"Say, if you don't remember anything, you probably don't have a place to stay, right? Why don't you come with me? I've got enough room for you.\"<br>\r\n<br>\r\nWell, he did offer to help you find out who you are. But you don't really know him, and he seems to be a petty criminal. Do you really want to take the chance?</span></div></div>",
+            "created":1484709480,
+            "id":2265352,
+            "title":"Keep quiet for now."
+        },
+        "15111112":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Escort Treecko.",
+                "Help him escape."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Stealing is wrong.\" You tell the Treecko. \"Give whatever it is back.\" Knowing he's alone and with nowhere to run, the Treecko hangs his head and hands a small flag to the Electabuzz.<br>\r\n<br>\r\nElectabuzz smiles at you. \"Thanks for the help, stranger. Now, you wouldn't mind helping me get this guy back to town, would you? You know, make sure he doesn't run away. He needs to face punishment.\"<br>\r\n<br>\r\n<i>What do I do here? I don't know what's going on, and I don't know what kind of punishment would await this poor guy, but he clearly did steal something. So what now?</i></span></div></div>",
+            "created":1484629200,
+            "id":2265180,
+            "title":"Tell him to give it back."
+        },
+        "151112":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Chickorita.",
+                "Popplio."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A female Charmander, eh? So who's on your team?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264665,
+            "title":"Girl."
+        },
+        "15112":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Boy.",
+                "Girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you want to be a Cyndaquil! Are you a boy or a girl?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264656,
+            "title":"Because I want it to go to a museum."
+        },
+        "1512":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "The top of a tall mountain!",
+                "Deep in the heart of a jungle"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of place is this?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264653,
+            "title":"A place no one has gone before."
+        },
+        "15121":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Boy.",
+                "Girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, it looks to me that you will be a Torchic. But are you a boy or a girl?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264654,
+            "title":"The top of a tall mountain!"
+        },
+        "15122":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Boy.",
+                "Girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chimchar it is, then! Now, what kind of Chimchar are you? A boy or girl?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264657,
+            "title":"Deep in the heart of a jungle"
+        },
+        "1513":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Outer space!",
+                "An ancient temple.",
+                "I'll make my own adventure."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where would you want to go?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264658,
+            "title":"Other."
+        },
+        "15131":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Boy.",
+                "Girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Into the void, eh? You must be a Tepig! But what kind?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264659,
+            "title":"Outer space!"
+        },
+        "15132":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Boy.",
+                "Girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>That sounds like a place that a Fennekin would enjoy. But are you a boy or a girl?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264661,
+            "title":"An ancient temple."
+        },
+        "15133":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Boy.",
+                "Girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How creative! Just like a Litten! Are you a male or female Litten?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264664,
+            "title":"I'll make my own adventure."
+        },
+        "152":{
+            "author_id":"normerican2",
+            "author_name":"10\u00a5",
+            "choices":[
+                "Under a tree.",
+                "In my bed.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where is your favorite place to nap?</span></div></span></div>",
+            "created":1484542800,
+            "id":2264650,
+            "title":"Nap."
+        },
+        "1522":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Realistic things, slightly warped.",
+                "Absurd oddities.",
+                "Feverish dreams."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What do you dream of?</span></div></span></div>",
+            "created":1606749000,
+            "id":2948568,
+            "title":"In my bed."
+        },
+        "15221":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "My family.",
+                "My experiences."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What are exactly are these things?</span></div></span></div>",
+            "created":1606825920,
+            "id":2949030,
+            "title":"Realistic things, slightly warped."
+        },
+        "152211":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>That\u2019s enough questions. You are a Chespin. Now, are you a boy or a girl?</span></div></span></div>",
+            "created":1606826160,
+            "id":2949032,
+            "title":"My family."
+        },
+        "152212":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A person like you.....is a Snivy. Now, are you a boy or a girl?</span></div></span></div>",
+            "created":1606825980,
+            "id":2949031,
+            "title":"My experiences."
+        },
+        "15223":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Twisted People",
+                "Twisted Landscapes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What features most in these fever dreams?</span></div></span></div>",
+            "created":1606823940,
+            "id":2949011,
+            "title":"Feverish dreams."
+        },
+        "152231":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I\u2019ve heard enough. It seems you are......a Sobble. Now, are you a boy or a girl?</span></div></span></div>",
+            "created":1606825440,
+            "id":2949022,
+            "title":"Twisted People"
+        },
+        "152232":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>That is enough. So.......you seem to be a Turtwig. Now....are you a boy, or a girl?</span></div></span></div>",
+            "created":1606824960,
+            "id":2949018,
+            "title":"Twisted Landscapes"
+        }
+    },
+    "info":{
+        "author_id":"guilhermehank",
+        "author_name":"hank",
+        "brief_description":"make the test, discovery your inner pokemon and save the world from danger. Add, please.",
+        "created":1303510800,
+        "description":"<td align=\"left\" class=\"norm\">Hello, and welcome to Pokemon Mystery Dungeon Remaker! Why remake? Because you can not only control a human transformed into a pokemon, but could also take the test to decide which pokemon you are!  <img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/starstruck.png\" alt=\"*StarStruck*\" title=\"StarStruck\" border=\"0\" width=\"15\" height=\"15\"> <br>\r\n<br>\r\n Take the quiz, turn in the pokemon, know your partner and discover the mystery of Nintales, who you are and why you Become a pokemon.<br>\r\n This is the story of Pokemon Mystery Dungeon Blue / Red. But You Can Opit by the history of Pokemon Mystery Dungeon Explorers of Sky / Darkness / Time. <img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/delight.png\" alt=\"*Delight*\" title=\"Delight\" border=\"0\" width=\"15\" height=\"15\"> <br>\r\n<br>\r\n Send Reviews, criticism, reviews, etc. for this item comes in large and very popular.<br>\r\n What are you waiting for? A Gengar? Enter and read, create and admire. <img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/cool.png\" alt=\"*Cool*\" title=\"Cool\" border=\"0\" width=\"15\" height=\"15\"> <br>\r\n<br>\r\n In tribute to all who love Pokemon Mystery Dungeon series as much as the original. <img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/wink.png\" alt=\"*Wink*\" title=\"Wink\" border=\"0\" width=\"15\" height=\"15\"></td>",
+        "id":1770010,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1606826160,
+        "modified":1606826160,
+        "pretty_title":"Pokemon Mystery Dungeon Remaker"
+    }
+}

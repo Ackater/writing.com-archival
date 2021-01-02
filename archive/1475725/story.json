@@ -1,0 +1,392 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "\"I'm a Wanderer.\"",
+                "\"I'm a Noble.\"",
+                "\"I'm a Peasant.\"",
+                "\"I'm a Warrior.\"",
+                "\"I'm new here.  What's your name, Miss?\""
+            ],
+            "content":"<div class=\"\"><div> <span>You open your eyes and stare at the clouds drifting lazily overhead.  A young woman is staring at you from the road.  You finally realize that you're lying down, and get up.  The woman continues staring.  Then she shakes her head as if to clear it.  Then she asks, very politely, <br>\r\n\"Hello, stranger.  What Class are you?\"  You are confused by this for a moment before remembering that there are specific social Classes in this world.  This is something the man showing you the area and explaining the basics of everyday life here talked about.  You think you're something of an expert about this kind of thing, so you clear your throat, look directly at the woman, and say:<br>\r\n<br>\r\n</span></div></div>",
+            "created":1221800400,
+            "id":584516,
+            "title":"Opening"
+        },
+        "11":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "Into the Forest!",
+                "Run back to town.  I'm not ready for this!"
+            ],
+            "content":"<div class=\"\"><div> <span>She looks at you with slight surprise.  \"Here?  No Wanderer has ever been found alive outside a Village.  You're looking for the Book?\"  You nod.  The Book was a valuable artifact, and one which you had been searching for for a long time.  \"Well listen and listen good.  What you're looking for is guarded by a terrible beast that resides deep in the Forest.  To claim the book, you must find a way to defeat the beast.  Got it?\"<br>\r\nYou say yes, and she points the way to the Forest.  \"Good luck, Wanderer.  You'll need it!\"<br>\r\nYou stare after her as she walks away.  Then you look at the menacing Forest.</span></div></div>",
+            "created":1221800400,
+            "id":584536,
+            "title":"\"I'm a Wanderer.\""
+        },
+        "111":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "Yes!  It could be the beast!",
+                "No, I'm staying put."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're walking carefully through the darkness.  Suddenly, you come across a very, very large paw print.  Far ahead, you can hear a faint rustling noise.  Do you go to it?</span></div></span></div>",
+            "created":1221800400,
+            "id":584538,
+            "title":"Into the Forest!"
+        },
+        "1111":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "Now what?"
+            ],
+            "content":"<div class=\"\"><div> <span>A little too eager, weren't you?  From in front of you, a huge monster leaps from the bushes.  As it lands in front of you, the earth shakes under the force of the creature's landing.  You stare up at the towering monster and think to yourself, \"I KNEW I should've packed a sword instead of a set of maps!\"<br>\r\n</span></div></div>",
+            "created":1221800400,
+            "id":584540,
+            "title":"Yes!  It could be the beast!"
+        },
+        "11111":{
+            "choices":[
+                "Runaway",
+                "try and outsmart the creature"
+            ],
+            "content":"<div class=\"\"><div> <span>Looking up at the terrible beast, you knew you had to think quickly.  The beast had a look of intelligence in its eyes, and you knew it would guess why you were there.  Having no weapons, it was very unlikely you could defeat it in battle.  You could try outsmarting it.  You were a wanderer after all, and in many situations had to use your own cleverness to figure out where your next meal was coming from, or how to convince a ship captain to grant you passage without legitimate currency.  Yes, you could outsmart the creature.  Although. . .a wise man did once tell you, if ever in doubt, run!</span></div></div>",
+            "created":1221957240,
+            "id":584970,
+            "title":"How to handle it"
+        },
+        "111111":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "Keeping staring at the beast.",
+                "ATTACK!"
+            ],
+            "content":"<div class=\"\"><div> <span>You turned and began running.  Almost instantly, the ground started shaking.  Glancing over your shoulder, you see the beast chasing after you.  And it was gaining fast.  You happen to recall that the same wise man had taught you something about animal nature, and that many animals would chase you if you ran from them.  Too late to change your mind now.  And speaking of your mind, while you were thinking, you overlooked a tree root directly in your path.  You trip, falling to the ground.  Knowing that this is a matter of life or death, you jump to your feet.  However, the beast had jumped over you while you were horizontal and was now blocking the path.  It was a wide path, but there were thick bushes on either side.  Escape was impossible.  The beast was regarding you with slight interest.  It didn't seem to be quite as threatening as one would think, but why take a chance?  Glancing around frantically, you notice a sword on the ground behind you.  It was old and somewhat rusty, but it was your only defence.  You reach down and grab it, then whirl around to face the beast again.  <br>\r\nIt didn't seem the slightest bit alarmed by the weapon.  You stare at it, looking for weak spots.  You didn't see any.<br>\r\nNow what do you do?</span></div></div>",
+            "created":1221972720,
+            "id":585071,
+            "title":"Runaway"
+        },
+        "1111111":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "\"No way!\"  You stink at riddles.",
+                "\"I'll take you on!\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"Are you done staring yet?\"  You jump back slightly.  Did the beast just speak english?  \"If you want to live, you could attempt to answer my question.  If you get it wrong, you die.  If you somehow get it right, which I highly doubt you will, I move and you're free to keep looking for that silly Book, at least until the next time our paths cross.  So, how about it?  You want to try?\"  <br>\r\nYou carefully consider.  Hmm.... what to do?</span></div></div>",
+            "created":1221973680,
+            "id":585077,
+            "title":"Keeping staring at the beast."
+        },
+        "11111111":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "Continue your search for the Book.",
+                "Abandon the whole idea.  This is too dangerous!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"No way, you beast!\"  The beast abruptly tosses something at you.  You dodge it.  It turns out to be a large rock.  You felt lucky that you managed to dodge it.  However, while you were examining it, the beast apparently throws something else at you, because a heavy weight hits you in the back, causing you to fall over.  From your view from ground level, you see the beast's paws getting closer.  You close your eyes and await death.  It doesn't come.  In the distance, someone is yelling.  You see the beast's paws turning and leaving.  You manage to pull yourself up.  What next, Wanderer?</span></div></div>",
+            "created":1221975420,
+            "id":585088,
+            "title":"\"No way!\"  You stink at riddles."
+        },
+        "11111112":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "\"A photograph!\"  It's so obvious, it's silly!",
+                "\"A memory?\"  You aren't sure.  Doesn't seem likely...."
+            ],
+            "content":"<div class=\"\"><div> <span>The beast grunted.  \"I think you'll regret this, human!  All right, here is the question:<br>\r\n'I'm a symbol of the past.  An image of days long past.  No one can fully destroy me.  I am a reminder of places visited, friends met, life's travels.  I am both good and bad.  I can be carried easily.  What am I?'\"  The beast somehow looks smug.  You silently consider your answer.  Only one thing it could be.  You clear your throat and say:</span></div></div>",
+            "created":1221974400,
+            "id":585082,
+            "title":"\"I'll take you on!\""
+        },
+        "111111121":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "content":"<div class=\"\"><div> <span>The beast stares at you.  \"A WHAT?  What in the world are you speaking of, human?\"  You stammer that it is the correct answer, but the beast has already raised a paw high above your head.  \"There is no such thing, human!\"  That is the last thing you hear before the paw connects with your head and everything goes black.</span></div></div>",
+            "created":1221974580,
+            "id":585085,
+            "title":"\"A photograph!\"  It's so obvious, i..."
+        },
+        "111111122":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "A light up ahead.  That's the only thing clearly visible."
+            ],
+            "content":"<div class=\"\"><div> <span>The beast stares at you in disbelief.  You hold your breath.  \"How... how could you have guessed that?  No human has ever gotten that right before!\"  You clear your throat loudly.  The beast glares at you.  \"Fine!  Go!  Get out of my sight before I lose my temper!\"  The beast steps aside.  You walk slowly past it, then pick up speed.  You don't look back until you've reached a small clearing.  The beast had vanished.  You look forward again and survey your surroundings.</span></div></div>",
+            "created":1221974940,
+            "id":585086,
+            "title":"\"A memory?\"  You aren't sure.  Does..."
+        },
+        "1111112":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "Attack once more, hoping you can somehow hurt it.",
+                "Drop the sword.  You know when you've been beaten."
+            ],
+            "content":"<div class=\"\"><div> <span>You lunge at the beast with a battle cry you picked up somewhere.  To your alarm, the sword glances off the beast's fur.  It regards you with interest and possibly amusement.  It raises an gigantic paw, and swipes you aside, slamming you into a tree.  You bounce off, and try to stand up.  The beast stays where it is, still looking down at you with dark blue eyes.  You manage to stand, and look at your sword.  It was very rusty, but a diamond sparkled on the hilt.  If you survived, you could sell it for quite a lot.  The beast growled quietly, snapping you back to the present.  You have to make a descision quickly, if you have any hope of surviving.<br>\r\n</span></div></div>",
+            "created":1221973260,
+            "id":585075,
+            "title":"ATTACK!"
+        },
+        "1112":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The hesitation cost you a great price.  From the overhanging trees, a feline creature leaps down at you, knocking you over.  You hit your head on a rock, and the last thing you see is a pair of deep green eyes staring at you....</span></div></span></div>",
+            "created":1221800400,
+            "id":584542,
+            "title":"No, I'm staying put."
+        },
+        "112":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You enter the town and head to the nearest inn for a rest.  Maybe tomorrow you can go looking for the Book.  You go to your room, lie down on the straw bed, and fall asleep almost at once.  Walking for days and days really makes one tired.</span></div></span></div>",
+            "created":1221800400,
+            "id":584537,
+            "title":"Run back to town.  I'm not ready for this!"
+        },
+        "12":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "In the Forest...."
+            ],
+            "content":"<div class=\"\"><div> <span>She stares at you.  \"Oh, really?  Where do you plan on going, so far from your safe home?\"  You explain that you wanted a change of scenery, and thought you'd pay a visit to the famous Forest.  \"I don't know why anyone would actually come here on a vacation,\" she says.  \"But if you want directions, just go right in.  No safe place to enter, you know.\"<br>\r\nYou thank her, and start heading into the dark shadows of the trees.</span></div></div>",
+            "created":1221800400,
+            "id":584543,
+            "title":"\"I'm a Noble.\""
+        },
+        "121":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "A wooden hut",
+                "A child sitting on the ground"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's very dark and hard to tell where you're going.  Suddenly, out from the darkness, you see....</span></div></span></div>",
+            "created":1221800400,
+            "id":584544,
+            "title":"In the Forest...."
+        },
+        "1211":{
+            "choices":[
+                "Suddenly a werewolf attacks you",
+                "You start feeling dizzy and lightheaded",
+                "Something else happens"
+            ],
+            "content":"<div class=\"\"><div> <span>A wooden hut. You slowly walk up to the door and knock. After five minutes of dead silence you make your way inside. The interior of the hut was lightly furnished and felt almost abandoned.<br>\r\n<br>\r\nYou notice a sword laying on the table. Judging by the cobwebs the original owner of the sword was long gone by now. As you walk towards the sword the floor begins to creak with your every move.<br>\r\n<br>\r\nYou blow off the cobwebs and gently pick up the sword. As you unsheath the sword you notice that the blade still looks as good as new. As a trained swordsman/swordswoman you knew it was impossible for such a sword like this to have survived the way it has for a long time.<br>\r\n<br>\r\nAs you admire the sword you hear wolves howling at the moon.</span></div></div>",
+            "created":1530997080,
+            "id":2516272,
+            "title":"A wooden hut"
+        },
+        "13":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "Go into the forest, and turn left."
+            ],
+            "content":"<div class=\"\"><div> <span>She looks at you with surprise.  \"And what are you doing so far from the fields?\"<br>\r\nYou explain.  \"Is that so?  Looking for a treasure map for your lord?  You want him to favor you and protect you for the rest of your life?\"  You nod.  \"And you want directions?\"  You nod again.  She sighed.  \"It's your funeral.  Go into the Forest and turn left.  Keep going straight after that.  If all goes well, you should see a wooden chest.  Open it, and inside should be a map or two.  I hope you impress your lord.\"  She turns and walks away.  You look up at the Forest.  Only one way to go.</span></div></div>",
+            "created":1221800400,
+            "id":584545,
+            "title":"\"I'm a Peasant.\""
+        },
+        "131":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "\"Yes!  I've got it!  Take that, you other low-borns!\"",
+                "That was too easy.  I'd better watch my step."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After walking a while, you see a circle of light ahead of you.  You hurry forward.  Inside the circle is a wooden chest, like the woman said.  You open it.  Inside is a faded map.  You pick it up, grinning.  You stand up and turn to leave.</span></div></span></div>",
+            "created":1221800400,
+            "id":584547,
+            "title":"Go into the forest, and turn left."
+        },
+        "1311":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "content":"<div class=\"\"><div> <span>Looks like you celebrated too early.  From the darkness, you hear a faint growl.  You stop jumping up and down.  A large creature comes running out of the darkness.  You avoid the charge it makes at you, only to be hit with some sort of dart in your neck.  You collapse.  You see a pair of feet approaching as your vision begins to blur.<br>\r\n\"I'll take THAT, thank you very much!\"  Someone pulls the map out of your hand.  You half reach for it, only to have your hand stepped on by someone's foot.  You hear a snicker.<br>\r\nYour vision goes completely black, and the last thing you hear is, \"Enjoy the Afterlife, sucker!\"  </span></div></div>",
+            "created":1221800400,
+            "id":584551,
+            "title":"\"Yes!  I've got it!  Take that, you oth..."
+        },
+        "1312":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "You place the map on the ground.",
+                "You demand what the voice means."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You were right.  Several beasts trot out of the darkness.  A voice says loudly, \"Hand over the map, or suffer the consequences, you fool!\"  What do you do?</span></div></span></div>",
+            "created":1221800400,
+            "id":584552,
+            "title":"That was too easy.  I'd better watch my step."
+        },
+        "13121":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "content":"<div class=\"\"><div> <span>You place the map on the ground.  The voice calls out, \"Good.  Very good.  Okay kids, let this foolish mortal through!\"  The beasts step aside.  You see a path out of the Forest, and follow it, scowling.  Great.  You promised Lord Byon that you would find the map.  A while later, you reach the outside world again.  The young woman you saw earlier is picking flowers.  She looks up as you approach.  She smiles and says \"Hey there!  Did you find the map?\"  You complain that you did, but it was stolen.  No way you would admit that you gave in to the demands of an unknown enemy.  \"Well, have a safe trip home!\"  She smiles and waves as you pass by her.  As you walked to the main road, you could've sworn she said something.  But it was probably just your imagination.  <br>\r\nYou continued moving to recieve your punishment, but you did think you heard her say something.<br>\r\n<br>\r\nWhat you thought you heard her say was \"Sucker.\"</span></div></div>",
+            "created":1221875820,
+            "id":584598,
+            "title":"You place the map on the ground."
+        },
+        "13122":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "content":"<div class=\"\"><div> <span>\"What do I mean?  Did you know that you're that first mortal to ask me that?\"  You reply no.  \"Well, then, listen.  All you must do is answer my question.  Then you may keep the map, and leave the Forest unharmed.  One last chance to quit.  Will you accept my challenge?\"  You think for a moment, and then say, <br>\r\n\"Absolutely.\"  <br>\r\nThe voice laughed coldly.  \"You'll never figure it out.  Here it is: <br>\r\n'I float through the skies, a passenger inside a changing shape.  I swim in the oceans, one part of a whole.  I sit on the land, waiting for the sun.  I nourish as well as destroy.  What am I?\"  The unseen voice sounded smug.  You stand, puzzled.  Then you have it.  You answer the question without hesitation.  The voice is silent for a long moment.  Finally it speaks.  \"Argh!  You... you got it!  Fine!  Take the dumb map!  Get out of here!\"  Several of the beasts stepped aside.  You were silent as you passed through the Forest, heading for the outside world.  Finally, you broke through the trees, and out into the sun.  The young woman was still there, picking flowers.  She looked up as you approach.  She smiled slightly.  \"Did you get what you were looking for?\"  You nodded, thrilled.  \"Well, then, best not to keep your lord waiting, right?  Off you go!\"  You turned and began heading down the dusty road, smiling broadly.  Lord Byon would reward you well for your trouble.  <br>\r\n<br>\r\nAs you approached your village, the answer to the voice's question began to show itself in the open world.  You smiled even more broadly.  Your corn crops would do well this season.  And you would always be protected, thanks to the map.  </span></div></div>",
+            "created":1221877500,
+            "id":584854,
+            "title":"You demand what the voice means."
+        },
+        "14":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "To your left is an old house.",
+                "To your right is the road.",
+                "Ahead of you is the Forest."
+            ],
+            "content":"<div class=\"\"><div> <span>She regards you without surprise.  <br>\r\n\"Another one?  Are you here to fight that Beast in the Forest?\"<br>\r\nYou inquire what kind of beast she is talking about.  You have slain fearsome beasts before, after all.  Is it a dragon?  A were-creature?  A Chupacabra?  She shakes her head at each type of creature you mention.  You keep listing monsters, but finally you give up and say, \"Well, what is it then?\"<br>\r\nShe clears her throat.  Then she motions for you to come closer.  You do so, and she says in a very soft voice<br>\r\n\"No one knows what it is exactly.  Old man Kris claims he saw it, but it turns out it was just an overgrown Coy-dog.  They live around here, but they generally avoid us.  A young boy claims he saw it at the edge of the forest, but no one believed him.  His last claim was that his cousin--he doesn't like her--was a witch.  She's practically a saint here, so no one believes a word he says now.<br>\r\n\"Foolish people travelling alone at night have disappeared, their bodies never found.  Some claim it's an ancient creature, disturbed by the recent human activity.  And some say--\"<br>\r\nShe stops talking as you yawn.  \"Nice sword, by the way.  It'll probably be completely useless.  If you're going after it, head right into the Forest.  Once you find any unusual tracks or something, keep following them.  You'll find it eventually.  Or maybe it will find you first.  Good luck.  You're going to need it.\"  She turned and walked away.  You noted that her tone had seemed somewhat annoyed.  You glance around.  You have a few different choices as to where you can go next.  Where to?</span></div></div>",
+            "created":1221800400,
+            "id":584519,
+            "title":"\"I'm a Warrior.\""
+        },
+        "141":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "On one side is the dusty road.",
+                "On another side is the Forest.."
+            ],
+            "content":"<div class=\"\"><div> <span>You approach the old house.  Once you are near the door, you are able to hear faint sounds from inside.  You pull your sword out and slowly push the rotting door open.  <br>\r\nAlmost at once, a thin blade appears next to your throat.  It seems to belong to a sword.<br>\r\n\"Don't move.\"  The female voice is cold, and you decide it would be a wise idea to obey.  \"Are you gonna leave?\"  You shake your head, carefully avoiding the swordblade near your neck.  After all, there could be something here to help you on your journey.  The woman in the darkness sighs.  \"Will you leave if I give you what I think you're looking for?\"  You nod slowly.  Another sigh, then a rustling noise.  \"Here.  Take it.\"  The woman holds out a delicate hand.  Cupped in her palm is an Amulet of Discord.  \"It's not real,\" she says, noticing your dismay.  \"It's a replica.  But it's still useful.  Take it and leave.\"  The swordblade had vanished from the area around your throat, and you took the Amulet carefully, as though it would suddenly become alive.  You turn and walk out the door into the bright sunlight.  The door creaks shut behind you.  You shrug and walk back to your original spot.  You tie the Amulet around your neck.  For the slightest instant, you're sure you can feel it twitch, but nothing else happens.  You turn around halfway and survey your options. Your sense of direction is somehow misleading, so you can only guess which way is which.</span></div></div>",
+            "created":1221800400,
+            "id":584525,
+            "title":"To your left is an old house."
+        },
+        "1411":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "Ahead of you is the Forest."
+            ],
+            "content":"<div class=\"\"><div> <span>After walking for a few minutes, you start to get a very bad feeling about the road.  It seems somehow darker than the fields around it.  Your warrior instincts warn you that something bad will happen if you keep going.  You obey your instincts, turn, and set off at a run for your original spot.<br>\r\n<br>\r\nGood move, since moments later a group of hunters ride by on proud black stallions.  The ominous feeling disappears after they pass, but they stop a short way down the road, so you should probably keep moving.</span></div></div>",
+            "created":1221800400,
+            "id":584527,
+            "title":"On one side is the dusty road."
+        },
+        "14111":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "You head for the light."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You enter the darkness of the Forest.  Ahead of you is a faint light, shining like a beacon in the dark.  You glance around.  Everything is dark except for that one spot of light.</span></div></span></div>",
+            "created":1221800400,
+            "id":584529,
+            "title":"Ahead of you is the Forest."
+        },
+        "1412":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "You reach the light."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Forest is dark and quiet.  Ahead of you, you thought you saw something move, but a second look revealed nothing.  On your far right, in the distance, a light is shining.  You go to it.</span></div></span></div>",
+            "created":1221800400,
+            "id":584530,
+            "title":"On another side is the Forest.."
+        },
+        "14121":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "On the path...."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's a lantern, glowing in the darkness.  You pick it up.  It glows brighter, shining.  Ahead of you is a path.  You look behind you and find no trace of the way you came.  Slightly shaken, you go on the path. </span></div></span></div>",
+            "created":1221800400,
+            "id":584532,
+            "title":"You reach the light."
+        },
+        "15":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "You go straight without looking around.",
+                "You walk ahead slowly, taking in the surroundings."
+            ],
+            "content":"<div class=\"\"><div> <span>She blinks at you in surprise.  \"You certainly ARE new here, aren't you?  No one has ever asked me my name before.\"  You ask her why no one does.  \"Because I am a simple Commoner.  My life is based around waiting by the Forest and helping people who pass.  If and when they come out, it is part of my job to act as though I was not expecting them.\"  You ask her what her name is, again.  \"Oh, yes.  My name is Emli.  Now I ask the questions.  Why are you here?\"  You tell her, in that very soft voice you've developed.  \"Let me get this straight,\"  Emli said when you had finished speaking.  \"You're on a quest of self-discovery.\"  You nod.  \"And the focus of your quest is to find a cure for whatever curse you have.\"  You nod again.  Emli sighed heavily.  \"Well, go on in.  If you keep going straight, you might find what you're looking for.  I notice that you have a sword.\"  You glance at your sword.  \"You may need it.  Well, I wish you the best of luck.\"  Emli turned and walked slowly down the road.  You turn and walk right into the Forest.</span></div></div>",
+            "created":1221800400,
+            "id":584565,
+            "title":"\"I'm new here.  What's your name, M..."
+        },
+        "151":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "Take out your sword."
+            ],
+            "content":"<div class=\"\"><div> <span>Eventually, you come across a large burrow in the side of a hill.  You can hear faint growling inside.  Like something snoring.  You pick up a rock and examine it.  If you threw it hard enough....  You pulled your arm back and hurled the rock into the cave.  A terrible snarl answered the rock.  Seconds later, a large beast was standing in front of you.  It was snarling fiercely.  What do you do?</span></div></div>",
+            "created":1221800400,
+            "id":584566,
+            "title":"You go straight without looking around."
+        },
+        "1511":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "content":"<div class=\"\"><div> <span>This was a good plan in theory, but you were not quite a master of the blade. With just one swing of a gigantic paw, it hurled you against a tree.  You fell to the ground dazed and about to black out, when you heard someone yelling, and you saw the beast getting closer.  You hoped that death wouldn't hurt much as you completely lost consciousness.</span></div></div>",
+            "created":1221879840,
+            "id":584575,
+            "title":"Take out your sword."
+        },
+        "152":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "choices":[
+                "You lunge at the beast with your sword.",
+                "You toss the sword away and bow to the beast."
+            ],
+            "content":"<div class=\"\"><div> <span>It's a good thing you did, because you almost ran right into a sleeping beast of some sort.  It snored quietly.  Or quietly for such a large creature, that is.  A young man was lying nearby, unable to move, apparently.  You went over to him.  He looked at you with tired grey eyes.  \"Hello there,\"  he said quietly.  You say hello in response, then ask him who he is.  \"My name is Leo.  I'm a prince who became lost in the Forest here.  A terrible monster captured me.  Now I cannot return home until the monster is defeated.  Please help me!\"  You glance at the huge slumbering creature.  Then your curious nature got the better of you.  Completely disregarding the skeletons everywhere, you march right up to the beast and tap it lightly.  Its fur was very soft, but it woke up the instant you touched it, and jumped to its feet, snarling.  You pull out your sword.  This may be difficult.  <br>\r\n<br>\r\nAfter several minutes of avoiding the swipes the beast made at you with its claws, you saw an opening in its defence strategy that would kill it.  Do you aim for the lack of defence?</span></div></div>",
+            "created":1221879360,
+            "id":584570,
+            "title":"You walk ahead slowly, taking in the surroundings."
+        },
+        "1521":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "content":"<div class=\"\"><div> <span>This was a bad move, because humans can't move as fast as it could.  It knocked you off balance with one wave of its paw.  Now you were certainly doomed.  Horribly, for some twisted reason, Leo was smiling as the beast raised its paw above you for the killing blow.  You saw the beast's paw swing down at you.... and then.... nothing.</span></div></div>",
+            "created":1221879480,
+            "id":584573,
+            "title":"You lunge at the beast with your sword."
+        },
+        "1522":{
+            "author_id":"aliceo",
+            "author_name":"Alpha Eta",
+            "content":"<div class=\"\"><div> <span>Most humans would call you insane for doing something this stupid, but who cared what they thought.  This was more your style.  You stayed in the \"Bow\" position.  The ground shook slightly, and you heard Leo's voice.  <br>\r\n\"You can stand up!  It's all right!\"  You do as he says.  The beast is sitting in front of you, staring with two dark blue eyes.  You turn your head and see Leo approaching you.  He was smiling.  \"Congratulations!  You defeated the beast without killing it.\"  You asked him if that happened often.  He just laughed lightly.  \"You deserve a reward.  Emli?\"  You whirl around.  The beast had apparently wandered off because standing there now was Emli.  She was smiling, too.  <br>\r\n\"One 'Respect Special', coming right up!\"  She turned and whistled.  A rustle in the bushes gave way to a very small, more dog-like version of the beast you had just fought.  It ran up to you, a pink tongue hanging out of its mouth.  It sat down at your feet, looking up at you with its head tilted.  \"This little guy is now yours.  He's a good traveling companion, you know.  Oh, and before I forget....\"  Leo reached into a pocket and pulled out an Amulet of Discord.  He sprinkled something on it, and then handed it to you.  Without thinking, you put it on.  It seems to twitch slightly, but other than that, nothing happened.  \"You can visit anytime you like.  It's getting into the afternoon in the outside world, so you should probably go if you want to make it to the village before dark.\"  You nod, still too surprised to really say anything.  You began walking away, picking up your sword as you did so.  You put it back in its sheath, and continued on the path you came in from.  You walked the rest of the way almost as if in a trance, and was soon in the sunlight.  Emli was out there, picking flowers.  You approached her.  She looked up and smiled.  <br>\r\n\"Hello again!  Did you find what you were looking for?\"  You nodded.  Emli showed no signs of having been in the Forest recently.  The main reason for the theory was the fact that her flower basket was almost full, flowers were everywhere, and Emli seemed to have very high standards; only the prettiest flowers were in her basket.  You said your goodbyes, and began heading down the road to the village.  Was it just a dream?  A hallucination brought on by the heat?  A small yip made you look down.  Trotting beside you was the beast-puppy.  <br>\r\nSo it wasn't a dream, then.  That meant the quest had barely started.  You had much to look forward to.</span></div></div>",
+            "created":1221881160,
+            "id":584606,
+            "title":"You toss the sword away and bow to the beast."
+        }
+    },
+    "info":{
+        "author_id":"aliceo",
+        "author_name":"Alpha Eta",
+        "brief_description":"Does it live up to its name?  Take on the role of someone else and see what happens next!",
+        "created":1221868440,
+        "description":"<td align=\"left\" class=\"norm\">This is the story of a typical person in a world that seems harmless.  But be sure to keep away from the Forest, and NEVER venture out alone at night.<br>\r\n<br>\r\nThere are different options for the different people you can choose.  Guide them along the way, imagine yourself in this person's position.  If you aren't satisfied with the choices given, you can try your hand at writing the next part.  Most parts are completed, but there are still some that you may have to use your great and powerful brain to write the next segment.  Be aware that I may have to delete anything that I think is inappropriate or doesn't fit the plot.  <br>\r\nWell, what are you waiting for?  Go right on in and take a look!</td>",
+        "id":1475725,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1530997080,
+        "modified":1530997080,
+        "pretty_title":"The Darkest Forest"
+    }
+}

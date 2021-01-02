@@ -1,0 +1,988 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Kaiju",
+                "Aliens",
+                "Humans",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select a catagory</span></div></span></div>",
+            "created":1599195600,
+            "id":2897751,
+            "title":"Start"
+        },
+        "11":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Godzilla",
+                "Mothra",
+                "Rodan",
+                "Angirus",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select your monster.</span></div></span></div>",
+            "created":1599195600,
+            "id":2897755,
+            "title":"Kaiju"
+        },
+        "111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Legendary",
+                "Millennium ",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which era of Godzilla?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897756,
+            "title":"Godzilla"
+        },
+        "1111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "2014",
+                "King of the monsters ",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What film?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897769,
+            "title":"Legendary"
+        },
+        "11111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Species tf",
+                "Age Regression",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of transformations?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897770,
+            "title":"2014"
+        },
+        "111111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "The Muto",
+                "The military",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Before get specific with the transformation, how does it happen?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897777,
+            "title":"Species tf"
+        },
+        "1111111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Muto?</span></div></span></div>",
+            "created":1599195600,
+            "id":2897789,
+            "title":"The Muto"
+        },
+        "11111111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "another kaiju",
+                "a reptile",
+                "More"
+            ],
+            "content":"<div class=\"\"><div> <span>As the Male Muto was rampaging through the Honolulu airport he suddenly felt a wave of dred wash over him. Turning around he caught sight of his species natural predator, Godzilla.<br>\r\n<br>\r\nThe Muto reeled back in horror as Godzilla released a deafening roar then charged across the runway directly towards it's prey. The Muto quickly took to the skies narrowly avoiding getting grabbed by his predator. While high above his foe, the Muto began charging up his emp attack unaware that the nuclear warhead he devoured a short while ago had just given him a new ability, one that would give him a edge in the battle.<br>\r\n<br>\r\n(What does he transform into?)</span></div></div>",
+            "created":1599282000,
+            "id":2897793,
+            "title":"Male"
+        },
+        "111111111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "a Muto",
+                "one of Mothra's species",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other kaiju does the king of the monsters become?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909973,
+            "title":"another kaiju"
+        },
+        "111111112":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "A gecko",
+                "A komodo dragon ",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So he becomes another reptile, which one?</span></div></span></div>",
+            "created":1599282000,
+            "id":2898097,
+            "title":"a reptile"
+        },
+        "111111113":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Insects",
+                "Dinosaurs",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other species?</span></div></span></div>",
+            "created":1599282000,
+            "id":2898085,
+            "title":"More"
+        },
+        "1111112":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "a laser",
+                "A bomb",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do they change him?</span></div></span></div>",
+            "created":1599714000,
+            "id":2900592,
+            "title":"The military"
+        },
+        "111112":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "The Muto",
+                "The military",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does it happen?</span></div></span></div>",
+            "created":1599282000,
+            "id":2897795,
+            "title":"Age Regression"
+        },
+        "1111121":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Muto </span></div></span></div>",
+            "created":1599282000,
+            "id":2897796,
+            "title":"The Muto"
+        },
+        "11111211":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "a juvenile ",
+                "a hatchling ",
+                "an egg"
+            ],
+            "content":"<div class=\"\"><div> <span>As the Male Muto was rampaging through the Honolulu airport he suddenly felt a wave of dred wash over him. Turning around he caught sight of his species natural predator, Godzilla.<br>\r\n<br>\r\nThe Muto reeled back in horror as Godzilla released a deafening roar then charged across the runway directly towards it's prey. The Muto quickly took to the skies narrowly avoiding getting grabbed by his predator. While high above his foe, the Muto began charging up his emp attack unaware that the nuclear warhead he devoured a short while ago had just given him a new ability, one that would give him a edge in the battle.<br>\r\n<br>\r\n(What age does he become?)</span></div></div>",
+            "created":1599282000,
+            "id":2897797,
+            "title":"Male"
+        },
+        "111112111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Slow",
+                "Instant"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Male Muto dove toward Godzilla, smashing his claw atop the predator's head, discharging a greenish glow from his claw through out Godzilla's body.<br>\r\n<br>\r\n(Are the changes slow or instant)</span></div></span></div>",
+            "created":1599714000,
+            "id":2900937,
+            "title":"a juvenile "
+        },
+        "1111121112":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "escape",
+                "get younger"
+            ],
+            "content":"<div class=\"\"><div> <span>As soon as the glow faded the Muto flew back and landed further down the runway, as Godzilla started to give chase.<br>\r\n<br>\r\nAs Godzilla lumbered towards his prey he slowly began to shrink in size, his spines were also dwindling and taking on a smoother texture. With each step his massive legs became thinner and thinner, giving him a lankey appearance.<br>\r\n<br>\r\nHe continued his charge towards his prey, but suddenly stopped only a few feet away as he noticed he could now stare the Muto directly in the eyes. <br>\r\n<br>\r\nThe Muto was thrilled with the out come of his new power as he watched the little predator examined his now younger form, when suddenly the Muto realized that now the predator had become the prey<br>\r\n<br>\r\nGodzilla was beyond stunned at what had just occured, so stunned in fact he didn't notice his oppenet leaping towards him as he let loose a undignified squeal as he was knocked to the ground, regaining his composure the little titan noticed the Muto was now charging up another attack<br>\r\n<br>\r\n(Does he escape or get younger?)<br>\r\n<br>\r\n</span></div></div>",
+            "created":1599800400,
+            "id":2900950,
+            "title":"Instant"
+        },
+        "11111211122":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "a hatchling",
+                "a egg",
+                "more?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How much this time?</span></div></span></div>",
+            "created":1601355600,
+            "id":2912078,
+            "title":"get younger"
+        },
+        "111112113":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Slow",
+                "Instant"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How long does it take?</span></div></span></div>",
+            "created":1599714000,
+            "id":2900630,
+            "title":"an egg"
+        },
+        "111113":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Shrinking",
+                "Growth",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other transformations.</span></div></span></div>",
+            "created":1599368400,
+            "id":2898457,
+            "title":"More"
+        },
+        "1111131":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "the Mutos",
+                "The military",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does it happen?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909909,
+            "title":"Shrinking"
+        },
+        "1111133":{
+            "author_id":"gite",
+            "author_name":"Jackie",
+            "choices":[
+                "Weight gain?",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other changes?</span></div></span></div>",
+            "created":1607521200,
+            "id":2954272,
+            "title":"more"
+        },
+        "11111332":{
+            "author_id":"gite",
+            "author_name":"Jackie",
+            "choices":[
+                "Age progression?",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other changes?</span></div></span></div>",
+            "created":1607521380,
+            "id":2954273,
+            "title":"More"
+        },
+        "11112":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Species tf",
+                "age regression",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of transformations.</span></div></span></div>",
+            "created":1599368400,
+            "id":2898470,
+            "title":"King of the monsters "
+        },
+        "111121":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Another Titan",
+                "Reptile",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What species?</span></div></span></div>",
+            "created":1599454800,
+            "id":2898788,
+            "title":"Species tf"
+        },
+        "1111211":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Mothra",
+                "Muto",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So he becomes another Titan, what species?</span></div></span></div>",
+            "created":1601355600,
+            "id":2912380,
+            "title":"Another Titan"
+        },
+        "11112111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Moth",
+                "Caterpillar"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does he become a Moth or Caterpillar.</span></div></span></div>",
+            "created":1601403180,
+            "id":2912384,
+            "title":"Mothra"
+        },
+        "11112113":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Rodan",
+                "Behemoth ",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options</span></div></span></div>",
+            "created":1601402820,
+            "id":2912383,
+            "title":"more"
+        },
+        "1111212":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Gecko",
+                "Chameleon ",
+                "more "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type?</span></div></span></div>",
+            "created":1599454800,
+            "id":2898837,
+            "title":"Reptile"
+        },
+        "11112121":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Another Titan ",
+                "The military ",
+                "more "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does the King of the monsters end up as a little Gecko?</span></div></span></div>",
+            "created":1599454800,
+            "id":2898840,
+            "title":"Gecko"
+        },
+        "111121211":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "King Ghidorah ",
+                "Mothra ",
+                "more "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Titan causes this?</span></div></span></div>",
+            "created":1599454800,
+            "id":2898843,
+            "title":"Another Titan "
+        },
+        "1111212112":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "It was by mistake",
+                "She wants to dethorne him",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes her to turn on him?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909979,
+            "title":"Mothra "
+        },
+        "11112121121":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "During her sacrafice",
+                "During the battle",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When does it happen?</span></div></span></div>",
+            "created":1601418720,
+            "id":2912515,
+            "title":"It was by mistake"
+        },
+        "111121211212":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "quick ",
+                "slow "
+            ],
+            "content":"<div class=\"\"><div> <span>Mothra was currently engaged in a fierce dogfight with the mighty Rodan, realizing that Godzilla would not last long against the three headed tyrant she decided to use one of her lesser known abilities to get rid of her current opponent.<br>\r\n<br>\r\nAs she flew threw the thunderous clouds she began to conjure up pollen in her wings, building it up large enough that once released became a big cloud, large enough to wash over her attacker.<br>\r\n<br>\r\nUnfortunately, the red titan saw the attack coming as he used his powerful wings to blow the pollen away, right on top of Godzilla.<br>\r\n<br>\r\n(Are the changes quick or slow?)</span></div></div>",
+            "created":1601422680,
+            "id":2912542,
+            "title":"During the battle"
+        },
+        "1111212112121":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span>Godzilla and Ghidorah were trapped in a massive battle with one another, when suddenly without warning the golden dragon launched himself away from the engagment.<br>\r\n<br>\r\nGodzilla was stunned at first wondering why his opponent would retreat, until he noticed a cloud of glowing pollen that began to cover him and then he realized why.<br>\r\n<br>\r\nThe King of the monsters' eyes shot open as his pupils shrank as he remembered just exactly what her pollen could do. His body began to glow a bright yellow as he let loose a high pitch whine knowing that something horrible was about to occur. <br>\r\n<br>\r\nAt this point the glow enveloped his body allowing the only thing to be seen was his luminous silhouette, but suddenly his form started to shrink down until he completely disappeared from the other Titan's views.<br>\r\n<br>\r\nOnce the changes subsided it appeared that Godzilla had vanished unbeknownst to all that were watching tho, inside of the footprint where he had been standing mere moments before, a tiny black Gecko now lay atop a piece of broken rubble.<br>\r\n<br>\r\n(Does he still have his memories?)<br>\r\n</span></div></div>",
+            "created":1601430720,
+            "id":2912614,
+            "title":"quick "
+        },
+        "11112121121211":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "in fear",
+                "in anger"
+            ],
+            "content":"<div class=\"\"><div> <span>Godzilla stared in shock at his surroundings, for where his foot sat mere moments before now his entire body lay in what now looked like a vast canyon. He blinked multiple times hoping to wake up from this terrible dream, alas this was the reality that he was now faced with, the King of the monsters reduced to one of lowest creatures on the food chain.<br>\r\n<br>\r\nHe tried to stand up but found that he could not support his weight on his new legs. Turning his tiny head to get a better look at his new form he found that his scales were now all flat and smooth, his legs were uselessly thin, and his back no longer contained his signature dorsal plates.<br>\r\n<br>\r\nAs he examined his new body he heard a cackle from his foe whose heads looked down into the footprint canyon trying to see if they could spot their rival.<br>\r\n<br>\r\n(How does godzilla react)</span></div></div>",
+            "created":1601438220,
+            "id":2912684,
+            "title":"yes"
+        },
+        "111121211212111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Leaves the can ",
+                "Stays inside ",
+                "something else "
+            ],
+            "content":"<div class=\"\"><div> <span>Whether it be from his new form's self-preservation or just the difference in height, once Godzilla locked eyes with the golden serpent he immediately scurried off like the prey he now was. <br>\r\n<br>\r\nHe climbed over what felt like mountains of debris that were merely only small piles to a human or just a speck of dust to a Titan, until he took  refuge within a small crushed soda can that to him could now serve as a cave.<br>\r\n<br>\r\n(Does he come out or stay in his can?)</span></div></div>",
+            "created":1601451360,
+            "id":2912755,
+            "title":"in fear"
+        },
+        "1111212112121112":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "a bird",
+                "King Ghidorah ",
+                "more"
+            ],
+            "content":"<div class=\"\"><div> <span>He remained within his domain for what felt like days, laying there unmoving while his thin little tail stayed submerged in what little remained of the can's original contents. <br>\r\n<br>\r\nDuring that time he pondered on how he could return to normal and what he would do once he was, however his thoughts soon were interrupted by his urge to eat which he realized that in order to claim food he would need to leave his new home.<br>\r\n<br>\r\nSlowly but surely the little lizard began to exit his aluminum home taking great care to make sure that his golden adversary was not nearby. After crawling for what felt like miles, but were actually only a few feet, he found a lone ant that must have been separated from it's colony during the battle.<br>\r\n<br>\r\nReacting purely on his new found instincts he launched forward catching the ant in his mouth and quickly swallowing it whole. For the first time since his transformation Godzilla felt power again, no matter how small it was. Unfortunately while Godzilla basked in triumph of slaying an ant he failed to notice the large shadow approaching him.<br>\r\n<br>\r\n(Who's shadow is it)</span></div></div>",
+            "created":1601461200,
+            "id":2912775,
+            "title":"Stays inside "
+        },
+        "11112121121211121":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does it catch him?</span></div></span></div>",
+            "created":1601461320,
+            "id":2912777,
+            "title":"a bird"
+        },
+        "111121211212111211":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Being to caught up in the moment Godzilla threw his head back in an attempt to let loose a roar but before he could even open his Jaws he suddenly snatched off the ground and was flying through the air.<br>\r\n<br>\r\nFor a moment he thought it could have been Rodan but quickly realized unlike the fiery titan this creature possessed black feathers. Godzilla began thrashing about within the predators talons trying his best to get free.<br>\r\n<br>\r\nDoes he succeed?</span></div></div>",
+            "created":1601461920,
+            "id":2912780,
+            "title":"yes"
+        },
+        "1111212112121112112":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "content":"<div class=\"\"><div> <span>Squirming with all of his might Godzilla tried his absolute hardest to get free, and for a moment he believed he did as the crow dropped him on the roof of a destroyed building. <br>\r\n<br>\r\nQuickly Godzilla tried to scurry off but was suddenly picked up again but this time by the Crow's beak. Realizing his demise was imminent Godzilla thrashed as hard as he could to save himself, but the bird paid no mind to his meal as he used it's futile struggles to reposition it making easier to swallow.<br>\r\n<br>\r\nThe Crow tilted it's head back and began to swallow the Gecko, by now the lower half of Godzilla's body stuck out from the bird's beak as his legs and tail squirmed profusely. Godzilla was now looking down the throat of his predator making him wish he still possessed his atomic breath.<br>\r\n<br>\r\nAgain the Crow threw his head back swallowing more of the Titan turned Gecko<br>\r\nLeaving only his thin little tail sticking out of the side of the birds beak. With one last effort Godzilla was gone as the Crow swallowed him whole<br>\r\n<br>\r\nGodzilla felt pain like nothing he had ever experienced as his body rested in the stomach acids of the bird breaking him down into a paste of nutritions for his predator, within a few minutes Godzilla was no more as all that remained was th juices within the Crow.<br>\r\n<br>\r\nAfter he finished digesting his food the Crow took back off unknown to him and everyone else that he had just defeated the King of the monsters.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1601464320,
+            "id":2912790,
+            "title":"The circle of life"
+        },
+        "1111212112121113":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "someone finds him",
+                "Switch to Mothra's perspective",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could happen?</span></div></span></div>",
+            "created":1601499600,
+            "id":2913135,
+            "title":"something else "
+        },
+        "1111212113":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Rodan",
+                "the Alpha Muto",
+                "more "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other Titans?</span></div></span></div>",
+            "created":1599454800,
+            "id":2898845,
+            "title":"more "
+        },
+        "11112121132":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "before the film ",
+                "during a battle ",
+                "Near the end "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The last remaining Muto.<br>\r\nWhen does this happen?</span></div></span></div>",
+            "created":1599454800,
+            "id":2898849,
+            "title":"the Alpha Muto"
+        },
+        "111122":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Juvenile ",
+                "Hatchling ",
+                "Egg"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How young will he get.</span></div></span></div>",
+            "created":1599627600,
+            "id":2899856,
+            "title":"age regression"
+        },
+        "1111222":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Titans",
+                "Monarch",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will this happen.</span></div></span></div>",
+            "created":1599714000,
+            "id":2900634,
+            "title":"Hatchling "
+        },
+        "11112221":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "King Ghidorah",
+                "Mothra",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Titan.</span></div></span></div>",
+            "created":1599714000,
+            "id":2900636,
+            "title":"Titans"
+        },
+        "111122212":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "By accident",
+                "Readers Choice ",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why would she do it?</span></div></span></div>",
+            "created":1599714000,
+            "id":2900637,
+            "title":"Mothra"
+        },
+        "1111222121":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "During her sacrifice ",
+                "During the middle of the battle ",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When does it happen?</span></div></span></div>",
+            "created":1601355600,
+            "id":2912070,
+            "title":"By accident"
+        },
+        "111122213":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Rodan",
+                "Muto ",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other Titans?</span></div></span></div>",
+            "created":1600491600,
+            "id":2906583,
+            "title":"more"
+        },
+        "111123":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Size",
+                "TG",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other changes?</span></div></span></div>",
+            "created":1600146000,
+            "id":2903436,
+            "title":"more"
+        },
+        "1111231":{
+            "author_id":"idnno",
+            "author_name":"Someone",
+            "choices":[
+                "Upwards",
+                "Downwards"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Allright, but in what direction does the size change?</span></div></span></div>",
+            "created":1600491600,
+            "id":2905777,
+            "title":"Size"
+        },
+        "11112311":{
+            "author_id":"idnno",
+            "author_name":"Someone",
+            "choices":[
+                "Toward 400 feet",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>His original movie height is 393 feet tall.<br>\r\nWhere do we go with this</span></div></span></div>",
+            "created":1600491600,
+            "id":2905780,
+            "title":"Upwards"
+        },
+        "11112312":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "another Titan",
+                "Monarch",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does it happen?</span></div></span></div>",
+            "created":1600923600,
+            "id":2909499,
+            "title":"Downwards"
+        },
+        "1113":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Heisei",
+                "Showa ",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Still more </span></div></span></div>",
+            "created":1599195600,
+            "id":2897766,
+            "title":"More"
+        },
+        "11131":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "1984",
+                "vs Biollante",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which film?</span></div></span></div>",
+            "created":1599368400,
+            "id":2898540,
+            "title":"Heisei"
+        },
+        "111313":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "vs King Ghidorah",
+                "vs Mothra the Battle for Earth",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>which film.</span></div></span></div>",
+            "created":1599368400,
+            "id":2898542,
+            "title":"More"
+        },
+        "1113132":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "age regression",
+                "Species tf",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens to him?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909653,
+            "title":"vs Mothra the Battle for Earth"
+        },
+        "11131321":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Mothra or Battra",
+                "the military",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes it?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909654,
+            "title":"age regression"
+        },
+        "111313211":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Mothra",
+                "Battra",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Kaiju?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909807,
+            "title":"Mothra or Battra"
+        },
+        "1113132111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "during their first battle",
+                "During the final battle"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When does it occur?</span></div></span></div>",
+            "created":1601010000,
+            "id":2910079,
+            "title":"Mothra"
+        },
+        "1113133":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "vs Mechagodzilla 2",
+                "vs Spacegodzilla",
+                "vs Destroyah"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>which film?</span></div></span></div>",
+            "created":1599368400,
+            "id":2898546,
+            "title":"More"
+        },
+        "11131332":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "age regression",
+                "shrinking",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens to him?</span></div></span></div>",
+            "created":1600923600,
+            "id":2909568,
+            "title":"vs Spacegodzilla"
+        },
+        "111313321":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "G-Force",
+                "Spacegodzilla",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes it?</span></div></span></div>",
+            "created":1601010000,
+            "id":2909652,
+            "title":"age regression"
+        },
+        "1113133211":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Option 1",
+                "other options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Instead of using telepathy to control Godzilla they instead use a new weapon to bring him down to a more harmless state.</span></div></span></div>",
+            "created":1601010000,
+            "id":2910097,
+            "title":"G-Force"
+        },
+        "113":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Showa",
+                "Heisei",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which incarnation?</span></div></span></div>",
+            "created":1599368400,
+            "id":2898663,
+            "title":"Rodan"
+        },
+        "1133":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Final Wars",
+                "legendary",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>which era?</span></div></span></div>",
+            "created":1599368400,
+            "id":2898664,
+            "title":"More"
+        },
+        "115":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "King Kong.",
+                "King Ghidorah.",
+                "Ebirah.",
+                "Open choice chapter.",
+                "Open choice chapter."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some more monsters to choose from.</span></div></span></div>",
+            "created":1599368400,
+            "id":2898484,
+            "title":"More."
+        },
+        "13":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Monsterverse",
+                "Millennium",
+                "Heisei",
+                "Showa",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>From which era?</span></div></span></div>",
+            "created":1601010000,
+            "id":2910085,
+            "title":"Humans"
+        },
+        "131":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "2014",
+                "Kong Skull Island",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which film?</span></div></span></div>",
+            "created":1601010000,
+            "id":2910090,
+            "title":"Monsterverse"
+        },
+        "1313":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "King of the Monsters",
+                "GvK"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>other films?</span></div></span></div>",
+            "created":1601010000,
+            "id":2910091,
+            "title":"More"
+        },
+        "13131":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Emma Russel",
+                "Mark Russel",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character.</span></div></span></div>",
+            "created":1601010000,
+            "id":2910092,
+            "title":"King of the Monsters"
+        },
+        "131311":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Age Regression",
+                "Species tf",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What changes happens to her?</span></div></span></div>",
+            "created":1601010000,
+            "id":2910095,
+            "title":"Emma Russel"
+        },
+        "1313111":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "A Titan",
+                "A accident at Monarch",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does it happen?</span></div></span></div>",
+            "created":1601433300,
+            "id":2912655,
+            "title":"Age Regression"
+        },
+        "13131112":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "Some experimental technology ",
+                "something in Mothra's temple ",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes the accident?</span></div></span></div>",
+            "created":1605125820,
+            "id":2938522,
+            "title":"A accident at Monarch"
+        },
+        "13131113":{
+            "author_id":"kilokhan",
+            "author_name":"Kilokhan",
+            "choices":[
+                "the Eco-terrorist",
+                "Magic",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what else causes it?</span></div></span></div>",
+            "created":1601439180,
+            "id":2912687,
+            "title":"more"
+        }
+    },
+    "info":{
+        "author_id":"kilokhan",
+        "author_name":"Kilokhan",
+        "brief_description":"Change Godzilla anyway you want.",
+        "created":1599274680,
+        "description":"<td align=\"left\" class=\"norm\">Any transformation and any character from any Godzilla related media. <br>\r\nPlease be detailed with transformations.<br>\r\n<br>\r\nFor human transformations<br>\r\nNo graphic descriptions of nudity or anything sexual.</td>",
+        "id":2231386,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1607521380,
+        "modified":1607521380,
+        "pretty_title":"Godzilla interactive"
+    }
+}

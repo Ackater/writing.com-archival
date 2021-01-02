@@ -1,0 +1,118 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"diamond32",
+            "author_name":"Diamond32",
+            "choices":[
+                "Bulbasaur",
+                "Charmander",
+                "Squirtle",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The day has finally arrived, the day you will start your journey to become a master, a master of Pokemon and it starts here with the choice of your own starter Pokemon. Who will you pick?</span></div></span></div>",
+            "created":1226160360,
+            "id":605344,
+            "title":"Starter Pokemon"
+        },
+        "12":{
+            "author_id":"diamond32",
+            "author_name":"Diamond32",
+            "choices":[
+                "Throw a PokeBall",
+                "Send out Charmander to fight the Bulbasaur",
+                "Don't try and capture Bulbasaur"
+            ],
+            "content":"<div class=\"\"><div> <span>Professor Oak stands over the 9 PokeBalls infront of you each with their own special symbol in front of them. You pick up a PokeBall with with a symbol of a flame on it. You don't know what it is but something is drawing you to this ball, like you were meant to pick whatever Pokemon was in this PokeBall.<br>\r\n<br>\r\n'I Choose you.......' you shout<br>\r\n<br>\r\nThe PokeBall opens and out comes an orange coloured Pokemon which had a flame on the end of it's tail. It was a Charmander. Professor Oak passed you a PokeDex and 5 PokeBalls and wished you good luck.<br>\r\n<br>\r\n'Thanks, Professor. Where's the nearest gym to here?'<br>\r\n<br>\r\n'Pewter City, Brock is the gym leader there and is a Rock specialist. I advise getting a water Pokemon in your Arsenal before you take him on. Rock pokemon are weak against Water and Grass Pokemon.<br>\r\n<br>\r\n'Thanks.'<br>\r\n<br>\r\nYou leave the lab and head off towards the Forrest in hope of capturing your first Pokemon. As you walk through the Forrest you could hear all different types of Pokemon, but none of them seemed to want to come near you. Suddenly the bushes in front of your rustled and a Bulbasaur walked out.<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1226162400,
+            "id":605364,
+            "title":"Charmander"
+        },
+        "122":{
+            "author_id":"diamond32",
+            "author_name":"Diamond32",
+            "choices":[
+                "The Lake",
+                "Viridian City"
+            ],
+            "content":"<div class=\"\"><div> <span>'Charmander, I choose you!' You throw the PokeBall containing Charmander towards the direction of Bulbasaur.  and Charmander pops out in a blinding white light.<br>\r\n<br>\r\nStraight away a pair of vines come out of the bulb on Bulbasaurs back and sent Charmander flying.<br>\r\n<br>\r\n'Charmander flamethrower!' you order your Chamander to do. Straight away Charmander composes itself and sends a powerful flamethrower right back at Bulbasaur. Bulbasaur half jumps out of the way but still gets hit by the flamethrower and collapses to the floor. <br>\r\n<br>\r\n'Charmander, finish it. Tackle attack!' Charamder runs at Bulbasaur and knocks Bulbasaur out. 'PokeBall Go! You send one of your 5 PokeBalls given to you by Oak at Bulbasaur and wait as the PokeBall rolls about and shakes as Bulbasaur tries to escape. Eventually Bulbasaur was captured.<br>\r\n<br>\r\n'Yes!' You shout to yourself.<br>\r\n<br>\r\nPicking up the PokeBall you decide where to head to next. There's the Lake, which would be a detour on the way to Pewter City but you'd have a chance of capturing a Water Pokemon, or you can take a short cut through Viridian City and battle trainers to improve Bulbasaurs and Charamnders powers.</span></div></div>",
+            "created":1226163660,
+            "id":605370,
+            "title":"Send out Charmander to fight the Bulbasaur"
+        },
+        "14":{
+            "author_id":"diamond32",
+            "author_name":"Diamond32",
+            "choices":[
+                "Chikorita",
+                "Cyndaquil",
+                "Totodile",
+                "Other Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Other Choices</span></div></span></div>",
+            "created":1226160420,
+            "id":605345,
+            "title":"Other choices"
+        },
+        "144":{
+            "author_id":"diamond32",
+            "author_name":"Diamond32",
+            "choices":[
+                "Treecko/Turtwig",
+                "Torchic/Chimchar",
+                "Mudkip/Piplup"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hoenn/Sinnoh Starters</span></div></span></div>",
+            "created":1226160540,
+            "id":605346,
+            "title":"Other Choices"
+        },
+        "1441":{
+            "author_id":"diamond32",
+            "author_name":"Diamond32",
+            "choices":[
+                "Treecko",
+                "Turtwig"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Grass Pokemon starter</span></div></span></div>",
+            "created":1226160600,
+            "id":605347,
+            "title":"Treecko/Turtwig"
+        },
+        "1442":{
+            "author_id":"diamond32",
+            "author_name":"Diamond32",
+            "choices":[
+                "Torchic",
+                "Chimchar"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Fire Pokemon Starter</span></div></span></div>",
+            "created":1226160600,
+            "id":605348,
+            "title":"Torchic/Chimchar"
+        },
+        "1443":{
+            "author_id":"diamond32",
+            "author_name":"Diamond32",
+            "choices":[
+                "Mudkip",
+                "Piplup"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Water Pokemon Starters</span></div></span></div>",
+            "created":1226160660,
+            "id":605349,
+            "title":"Mudkip/Piplup"
+        }
+    },
+    "info":{
+        "author_id":"diamond32",
+        "author_name":"Diamond32",
+        "brief_description":"You are about to start your very own Pokemon journey.",
+        "created":1226160120,
+        "description":"<td align=\"left\" class=\"norm\">Your own Pokemon Journey is able to begin pick a starter from Kanto, Sinnoh, Johto or Hoenn</td>",
+        "id":1493438,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1246194780,
+        "modified":1246194780,
+        "pretty_title":"Pokemon Journey"
+    }
+}

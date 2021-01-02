@@ -1,0 +1,959 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"tintrue",
+            "author_name":"tintrue",
+            "choices":[
+                "Dangan Ronpa",
+                "Super Dangan Ronpa 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Make your choice on what game your boy of choice is from.</span></div></span></div>",
+            "created":1395378000,
+            "id":1764223,
+            "title":"Start things off"
+        },
+        "11":{
+            "author_id":"tintrue",
+            "author_name":"tintrue",
+            "choices":[
+                "Makoto Naegi",
+                "Byakuya Togami",
+                "Yasuhiro Hagakure",
+                "Kiyotaka Ishimaru",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Go ahead and make your choice.</span></div></span></div>",
+            "created":1395378000,
+            "id":1764226,
+            "title":"Choose your first game male"
+        },
+        "111":{
+            "author_id":"ragethief007",
+            "author_name":"ThievingRage",
+            "choices":[
+                "Comfort eating/stress eating",
+                "Monokuma's new motive",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Makoto is the lucky student to be fattened up! So, how will the luckster pack on the pounds?</span></div></span></div>",
+            "created":1465362000,
+            "id":2161131,
+            "title":"(Weight) Gaining Luck"
+        },
+        "1111":{
+            "author_id":"dleagueman",
+            "author_name":"DLM",
+            "choices":[
+                "comfort eating",
+                "Stress eating"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Makoto get fat from getting lazy from Comfort eating or does he get fat from stress?</span></div></span></div>",
+            "created":1521079740,
+            "id":2464642,
+            "title":"Comfort eating/stress eating"
+        },
+        "1112":{
+            "author_id":"chubby22",
+            "author_name":"Chubby22",
+            "choices":[
+                "Kyoko Kirigiri",
+                "Aoi Asahina",
+                "Other "
+            ],
+            "content":"<div class=\"\"><div> <span>Makoto wako up he then started to put his clothes on. When he got to his belt he noticed he had to wear it looser than he usually did. \"Guess I put on a little weight.\" He thought to himself. Just then Monokuma told everyone to meet up in the lunch room. <br>\r\nEveryone gathered in Makoto noticed everyone's clothes looked tighter. \"So I not if you noticed the food been getting kinda fattten lately this is the next motive.\" Monokuma said he then left. <br>\r\nMakoto's stomach growled and then decided to grab some food and eat with someone...</span></div></div>",
+            "created":1578753660,
+            "id":2772241,
+            "title":"Monokuma's new motive"
+        },
+        "11122":{
+            "author_id":"chubby22",
+            "author_name":"Chubby22",
+            "choices":[
+                "Find one to hangout",
+                "Go to his room"
+            ],
+            "content":"<div class=\"\"><div> <span>As Makoto sat down with Asahina she was eat a ton of donuts and she already had a chubby gut. \"Hina are you do okay?\" Makoto ask her has he bit into his burger. <br>\r\n\"Over I don't like the new but these new donuts have been getting better and better every day!\" She said excitedly. \"After done eat go get some.\" <br>\r\nAfter his fourth plate was done he felt like he was going to explode. He unzipped his hoodie and lossen his belt again <br>\r\nHe then decided to...</span></div></div>",
+            "created":1578754740,
+            "id":2772247,
+            "title":"Aoi Asahina"
+        },
+        "113":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Feeding/Stuffing/Being Fed",
+                "It's Monokuma's Motive",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will he gain?</span></div></span></div>",
+            "created":1395723600,
+            "id":1767749,
+            "title":"Yasuhiro Hagakure"
+        },
+        "1131":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will he be fattened by someone else?</span></div></span></div>",
+            "created":1395723600,
+            "id":1767752,
+            "title":"Feeding/Stuffing/Being Fed"
+        },
+        "11311":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Naegi",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will fatten him?</span></div></span></div>",
+            "created":1395723600,
+            "id":1767753,
+            "title":"Yes"
+        },
+        "113111":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Mutual Killing Version",
+                "School Life Version"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is this during the school life of mutual killing or in the pre-despair school life</span></div></span></div>",
+            "created":1395723600,
+            "id":1767754,
+            "title":"Naegi"
+        },
+        "1131111":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Chapter 1/Prologue",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which chapter does this take place in?</span></div></span></div>",
+            "created":1395723600,
+            "id":1767755,
+            "title":"Mutual Killing Version"
+        },
+        "11311112":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Chapter 2",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chapter 2?</span></div></span></div>",
+            "created":1395723600,
+            "id":1767756,
+            "title":"Next"
+        },
+        "113111122":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Chapter 3",
+                "Chapter 3"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chapter 3?</span></div></span></div>",
+            "created":1395723600,
+            "id":1767758,
+            "title":"Next"
+        },
+        "1131111221":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "At the sauna...",
+                "Let's watch Hagakure eat more!"
+            ],
+            "content":"<div class=\"\"><div> <span>As the second trial came to a close, the students filed out of the execution room, except for Ishimaru who remained on the ground crying out in agony. Most of the students headed towards their rooms, hardly looking into each others' eyes, lest they remember how one of their own had once again committed murder. As Yasuhiro Hagakure walked away, he heard his stomach rumble. He realized that with all the investigating going on throughout the day he had forgotten to eat his second lunch. Yes, his second lunch.<br>\r\n<br>\r\nSince arriving at the school Hagakure had more access to food than he did most days, since he spent all his savings on \"supernatural\" trinkets. All this new food was beyond tempting to the \"student,\" and he had gone out of his way to gorge as much as possible. Sadly, by the time he came to the cafeteria he remembered the rule about the room being closed at night. As if he believed his prayers would be answered, Hagakure groaned out loud \"Monokuma... please just open the door... I'm staaaarviiiiing, man!\" As if on queue the bear popped out.<br>\r\n<br>\r\n\"Well if you're gonna whine like that I might as well give you an answer. Nope!\" Monokuma posed as if he was smirking.<br>\r\n<br>\r\n\"Pleeeeaaaase, man! Think of it this way! No way I can commit murder on an empty stomach! That doesn't mean I will, but really!\" Monokuma's head turned.<br>\r\n<br>\r\n\"Well when you put it that way...\" Monokuma bounces around a corner. Hagakure followed after him in pursuit.<br>\r\n<br>\r\n\"Hey, come back you little...\" When the young adult turned the corner he saw that there was no trace of the bear to be found. Instead, he heard the creak of the door to the cafeteria behind him. Monokuma strolled out clad in an apron and chef's hat, holding a platter of steaming burgers and fries. The smell called for Hagakure like a siren's song.<br>\r\n<br>\r\n\"Here's your extra snack, fatso. Chef sends his regards.\" Monokuma handed the platter to Hagakure and returned into the cafeteria. Hagakure heard the click of the door closing and locking behind him.<br>\r\n<br>\r\n\"Fatso, huh...\" the boy pondered. He shook off the comment and went into his room to stuff himself. Each bite into the juicy burgers was beyond perfection. They were laden with grease, but it didn't matter to the hungry boy who within minutes had cleared almost all of the stack of food big enough to feed several. As he neared the end of his feast Hagakure felt his belt tightening. He looked down and saw his swollen belly straining against it. He undid his belt and tossed it to the floor, and his gut surged out, forcing a sigh of relief out of him. With renewed vigor, Hagakure downed the last of the burgers.<br>\r\n<br>\r\nNow thoroughly stuffed, Hagakure tossed the tray next to the belt and laid down on his bed. Looking up, he saw his belly rise above him, perhaps more than it ever had before. The student massaged his gut with greasy fingers, moaning softly from the relief of pressure. To his surprise, he found that his fingers sunk into a soft layer of chub that had formed around him. He examined it, finding that the flab wrapped around his sides as well. \"Well, I guess this is what happens when you get enough to eat\" Hagakure thought to himself. \"It's no biggie. It will be gone tomorrow, and if not, who cares...\" And on that note, Hagakure changed into his (tighter than before) pyjamas and went to bed.<br>\r\n<br>\r\nThe next day he woke up, as usual, hungry. Hagakure was quick to dress and make his way to the cafeteria. On the way there, he noticed his belly hadn't gotten much smaller and his belt was still a little tight, but that wasn't important. What was important was finding some food to get in his stomach before he passes out from malnourishment! Pushing open the doors with haste, Hagakure found that the only person in the room was Naegi, quietly eating a bowl of cereal. Hagakure grabbed a few sandwiches and a slice of pizza and sat down next to the boy, who looked at him nervously.<br>\r\n<br>\r\n\"Yo, Naegi-kun! What's up?\" Hagakure wrapped an arm around the boy, who blushed lightly and eyed the size of his plate.<br>\r\n<br>\r\n\"Not much... I'm just a little stressed after last night... but it can't be as bad as what Ishimaru-kun is going through.\" Naegi sighed.<br>\r\n<br>\r\n\"Come on, man. You're one of the few guys around here who thinks positive! Can't let you lose your head now, right?\" Hagakure said with concern, or at least that's what he meant. Understanding him wasn't easy when half a sandwich was in his mouth.<br>\r\n<br>\r\n\"Um.. thanks, Hagakure-kun...\" Naegi's eyes stayed low, as if he was fixated on something. In fact, he was. The strain of Hagakure's belly against his belt was... interesting. Naegi couldn't describe it, but it was indeed interesting. He felt compelled to stare longer, but forced himself to look away. Naegi wondered what Hagakure's belly was like. It was clear he was getting one... then an idea rose in his head. \"You know, you're right! We should go to the sauna after breakfast and unwind.\"<br>\r\n<br>\r\n\"That sounds sweet, man! Just don't count on going too soon, I'm about to go back for seconds. I haven't eaten since last night!\" Hagakure left Naegi sitting in his seat, awkwardly trying to cover up an arousal that he did not understand. Why was Hagakure's paunch so... captivating?!?</span></div></div>",
+            "created":1395723600,
+            "id":1767845,
+            "title":"Chapter 3"
+        },
+        "11311112211":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Naegi feeds Hagakure",
+                "Hagakure feeds Naegi"
+            ],
+            "content":"<div class=\"\"><div> <span>A few hours and maybe an extra small meal or two later Hagakure made his way to the sauna. It was a little solemn because of it's connection to the last murder, but the tall boy's mind was a little too dim to fully process that. Bag of goodies in hand (just in case), Hagakure entered the sauna clad in a towel, leaving his upper body exposed. Naegi was inside waiting.<br>\r\n<br>\r\n\"Yo Naegi-kun! I'm here!\" Hagakure waved at Naegi who gestured for him to sit down. As Hagakure sat, his belly folded into small rolls.<br>\r\n<br>\r\n\"Oh wow,\" Naegi thought as a shade of pink rose to his cheeks. \"Did he actually get bigger from this morning?\" As if to answer his question Hagakure's belly rumbled.<br>\r\n<br>\r\n\"Sorry, man. This thing won't shut up today! Good thing the cafeteria's loaded!\" He reached into a bad and pulled out a cookie to munch on. Naegi's face darkened further.<br>\r\n<br>\r\n\"A-are you s-sure that's allowed?\" Naegi stammered, pressing down on the towel covering his privates.<br>\r\n<br>\r\n\"Yeah, I asked the bear. It seems to be fine with me eating anywhere lately. As much as I want too! Good to know it's got at least part of a heart, or at least knows what it's like to have a stomach.\" He patted his belly and it jiggled a little.<br>\r\n<br>\r\n\"Y-yeah...\" So the two sat there and relaxed quietly as Hagakure munched on a cookie or two out of his (rather full) bag of snacks....</span></div></div>",
+            "created":1397106000,
+            "id":1776745,
+            "title":"At the sauna..."
+        },
+        "113111122111":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "In Hagakure's room...",
+                "...other..."
+            ],
+            "content":"<div class=\"\"><div> <span>For a good five minute period, Naegi bore witness to a miracle. Hagakure stopped eating. Honestly it seemed less a miracle to him and more a punishment from on high for the lust he was feeling about it. Regardless, Naegi was surprised that he had gone so long without feeding his soft gut, which by now stuck out a good few inches in front of him. Naegi observed Hagakure's tan body, noting that his chest had gotten puffier too. He didn't have \"moobs\" but he wasn't too far off. His butt looked wider too. Naegi wondered what it looked like under the towel... He let his mind wonder until it was interrupted by a sound that he swore was going to be the death of him if nothing else in this school.<br>\r\n<br>\r\n*GRRRRRR* Hagakure let out a complaining whine. \"Damn, I'm still hungry? I don't wanna moooove.....\" He was thoroughly relaxed in his position and did not want to move a muscle. Naegi, as guilty as he felt, wanted to see him feed himself again. Watching this bloated boy, older than he was, stuff himself so greedily was by now a full turn on and Naegi could not avoid it no matter how his mind put it.<br>\r\n<br>\r\n\"You're not gonna move just to eat? Are you that lazy?\" He said, hoping he could motivate the other to continue snacking.<br>\r\n<br>\r\n\"Yep... too lazy...\" As if in agreement with Naegi, Hagakure's stomach growled again. \"Shut uuuuup! I'm not feeding you...\" He said out loud to his belly. Naegi heard hope dying in every word of that phrase, and he would not stand for it. He would make his own hope! He grabbed the bag for himself.<br>\r\n<br>\r\n\"Well if you won't feed it maybe I should then!\" He said teasingly, holding a buttery cookie up to Hagakure's lips. He smiled and nibbled on the end. Naegi took this as a queue to gently shove it into his mouth, giving him time to chew and swallow before presenting the next cookie. In between cookies Hagakure spoke to him.<br>\r\n<br>\r\n\"Thanks Naegi-kun.... *chew chew* ...you're a real pal, you know that? *chew chew chew* I mean, someone's gotta support my vices! *chew*\"<br>\r\n<br>\r\n\"I wouldn't call it a vice. It's just food, right?\" Naegi patted Hagakure's belly and for the first time felt how soft it was. The way it jiggled under his touch was heavenly. Naegi rested his hand on the belly and began rubbing gently in circles, pressing the fat between his fingers.<br>\r\n<br>\r\n\"Yo Naegi-kun, what are ya doing there?\" Hagakure asked, more in a friendly way than anything else.<br>\r\n<br>\r\n\"I just figured, if you're eating so much you must be pretty stuffed. This helps right? I heard it does.\" Naegi put that forward as his excuse and Hagakure bought it.<br>\r\n<br>\r\n\"Oh, thanks man. But if you're gonna do that let's head to my room. Don't want anyone getting any wrong ideas!\" His smile was innocent, but the blush on his face alluded to something more. But maybe it was just the heat. They were in a sauna after all.</span></div></div>",
+            "created":1397106000,
+            "id":1776750,
+            "title":"Naegi feeds Hagakure"
+        },
+        "1131111221111":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Naegi starts his new job, right then and there!",
+                "Monokuma makes an announcement!"
+            ],
+            "content":"<div class=\"\"><div> <span>The two boys stepped out of the sauna and put back on their clothes before heading back to Hagakure's room. Naegi had never been in the room before. There were some scrolls on the wall and a table with a purple cloth covering it, upon which sat some cards with obscure, melodramatic drawings. As Naegi closed the door behind him, his foot brushed against something on the ground. He looked down to find a half-eaten burger just lying there.<br>\r\n<br>\r\n\"Sweet! I was wondering where that baby went!\" Hagakure scooped it up off the ground and shoved it down his gullet.<br>\r\n<br>\r\n\"Uh, Hagakure-kun, do you know how long that was on the ground for?\" Naegi scratched his head, a little grossed out despite enjoying Hagakure's continued gluttony.<br>\r\n<br>\r\n\"Nope. Noooooooow...\" Hagakure strolled over to a closet door and opened it up. The closet was practically stuffed to the brim with burgers, pizza, buckets of fries, sandwiches, bowls of pasta, cookies, cakes and everything else the cafeteria served.<br>\r\n<br>\r\n\"Holy f-\" Naegi cut himself off. \"Hagakure-kun, why is there so much food in your closet!\"<br>\r\n<br>\r\n\"What can I say? I kept waking up in the middle of the night with hunger pangs so I smuggled a few snacks in here to help with the cravings. Don't worry, I've got a microwave in here too. You're welcome to use it, dude! Just don't tell anyone. Ishimaru-kun'll probs find some way to call it a hazard.\" Hagakure popped a slice of pizza in the microwave and grabbed another bag of cookies. He sat down on his bed and reclined, letting his paunch rise into the air as he tossed the snacks into his mouth.<br>\r\n<br>\r\n\"This may be... a little overboard.\" Naegi said as he approached Hagakure. \"Don't you think it's a little abnormal for you to eat so much?\"<br>\r\n<br>\r\n\"Who cares? It's great!\" Hagakure mumbled through a stuffed mouth. He swallowed and reiterated. \"It's fine. The bear doesn't care and it helps deal with the stress, ya know?\"<br>\r\n<br>\r\n\"Even so, this is just-\" Naegi was about to bring up just how strange Hagakure's eating habits were, but he was cut off as a cookie was shoved in his mouth.<br>\r\n<br>\r\n\"Oh, don't be a bummer, man! You need to eat more, ya know? You're skinny as hell!\"<br>\r\n<br>\r\nNaegi chewed the cookie and swallowed it, smiling and going along with it. \"Or maybe you're just getting fat!\" He poked at Hagakure's pudge.<br>\r\n<br>\r\n\"Fat? You really think so?\" Hagakure lifted up is shirt and played with his belly, jiggling it and poking it. Naegi felt his face heat up again. Hagakure shrugged. \"Eh, I guess so. Whatever.\" He went back to munching.<br>\r\n<br>\r\n\"Whatever? You aren't concerned?\"<br>\r\n<br>\r\n\"Nah, man. There are worse things in the world. 'Sides, the extra weight might help with my image. A big gut would make me look all mystical and stuff, you know?\" Hagakure patted his belly.<br>\r\n<br>\r\n\"Oh...\" Naegi sat down and stared at the older boy's belly. The microwave buzzed. \"Well, if that's how you feel...\" He got up and retrieved the slice of pizza from the microwave in the closet. \"Then I guess you should eat up!\" He held the slice of pizza over Hagakure's head as he lied down on his bed. Hagakure grinned and opened in mouth up wide as Naegi lowered the pizza bite by bite into his mouth.<br>\r\n<br>\r\n\"Thanks Naegs. You're a true bro, ya know that?\"<br>\r\n<br>\r\nNaegi laughed, his face still blushing. \"Thanks, Hagakure-kun. If you ever need help with that, I guess I can do that!\"<br>\r\n<br>\r\nHagakure's eyes flashed as he grinned. \"That's a great idea, dude! You can be my personal feeder! You can follow me around and feed me stuff whenever I'm hungry. I get food, maybe a nice mystical belly, and you get to spend time with yours truly!\"<br>\r\n<br>\r\nNaegi couldn't believe what he was hearing. \"That kind of sounds like being your slave!\" He said with hesitation, but then thought about the idea. \"...but I'll do it. You're my friend, Hagakure-kun!\" He rested his hand on Hagakure's belly. \"I'll do my best to feed you as much as I can!\" As strange as the situation was, Naegi could feel a strong bond forming between Hagakure and himself.</span></div></div>",
+            "created":1421125200,
+            "id":1917641,
+            "title":"Becoming the Ultimate Feeder"
+        },
+        "1131111222":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Chapter 4",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Whoops, typo. Chapter 4?</span></div></span></div>",
+            "created":1395723600,
+            "id":1767760,
+            "title":"Next"
+        },
+        "11311112222":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Chapter 5",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chapter 5?</span></div></span></div>",
+            "created":1395723600,
+            "id":1767761,
+            "title":"Next"
+        },
+        "113111122222":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Chapter 6",
+                "Epilogue/After the Game"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chapter 6, or epilogue/some time past the events of the first game?</span></div></span></div>",
+            "created":1395723600,
+            "id":1767762,
+            "title":"Next"
+        },
+        "114":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Weight Gain",
+                "Inflation",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will the SHSL Hall Monitor gain?</span></div></span></div>",
+            "created":1401771600,
+            "id":1806897,
+            "title":"Kiyotaka Ishimaru"
+        },
+        "1141":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Other stories"
+            ],
+            "content":"<div class=\"\"><div> <span>Let's put some options on the table:<br>\r\n<br>\r\nStory 1:Mondo likes his guys on the bigger side... He may or may not be dating Ishimaru but he wants to see Ishi pack on the pounds!<br>\r\n<br>\r\nStory 2: The motive for one of the murders is weight gain! Until someone gets murdered everyone gets fatter. Although everyone would gain the story would focus on Ishimaru.</span></div></div>",
+            "created":1401771600,
+            "id":1806900,
+            "title":"Weight Gain"
+        },
+        "11413":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Story 3",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Story 3: Ishimaru believes that real men have big bellies (as well as muscles possibly). In order to be a true man he must grow fatter! Will his bro Mondo help him along the way?</span></div></span></div>",
+            "created":1401771600,
+            "id":1806902,
+            "title":"Other stories"
+        },
+        "114131":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "\"Meet me after school today. I know a great buffet!\"",
+                "\"Tomorrow. I've got an idea for lunch...\""
+            ],
+            "content":"<div class=\"\"><div> <span>Lunchtime at Kibogamine Academy. All the Super High School Level students gathered in the cafeteria, outside, in various classrooms or wherever their talent called them to eat lunch. One such student, Mondo Oowada, the SHSL Biker Gang Leader, leaned against the wall and waited outside the doors to the cafeteria. He was was waiting for his brother, Kiyotaka Ishimaru, or Taka to his friends. Well, they weren't brothers, and in many ways they didn't even resemble each other, but they were as close as two friends could be. Kiyotaka was off doing his quick rounds, checking the halls for delinquency, before heading off to the cafeteria to eat his own lunch. Meanwhile, Mondo was perfectly positioned to throw some intimidating glances at the punier students, who may at times happen to \"give\" him their lunch money to \"ensure their safety.\" Kiyotaka of course was not aware, but what he didn't know wouldn't hurt him.<br>\r\n<br>\r\nIt had been a pretty good day for Mondo. He had gym class, which was always a breeze for him so long as he didn't give any kids a concussion in dodgeball. Art class he managed to skip... again... and math class he had with his bro so he was at least able to get some help understanding why an X is also a number. He even managed to get a full five dollars out of that pink haired mechanic! Of course, watching the kid's reaction to Mondo glowering at him was worth at least twice that. <br>\r\n<br>\r\nIndeed, today had been a fruitful day, or at least it had been until he saw Kiyotaka sulk his way, bagged lunch in hand. Mondo shrugged it off, assuming it had been a rough round of monitoring and he usually didn't want to hear about his fellow delinquents and his bro butting heads again. The two walked off to a table that held their places. They were joined by some of their other classmates, Makoto Naegi and Hifumi Yamada being two of them. Naegi, being the nice guy he was, noticed right off the bat that something was troubling Kiyotaka. \"Hey Taka, what's wrong? Hard day of monitoring?\" He asked in his genuine way. Mondo winced, knowing better than to ask.<br>\r\n<br>\r\nTo Mondo's surprise, Kiyotaka just sighed. \"No, it's nothing. I would not trouble you with my meager problems.\" Naegi shrugged and continued nibbling on his sandwich as Ishimaru unpacked his own. Mondo knew this meant trouble. If his bro wasn't willing to talk about it then it was probably weighing heavily on him. Despite his concern, Mondo eyed Kiyotaka's lunch to see if there was anything to mooch on. Of course there wasn't much. Just a sandwich, a granola bar and a bottle of water. Mondo on the other hand had protein, protein, protein. Sakura had given him tips on the right ones to choose to maximize muscle health and growth.<br>\r\n<br>\r\nKiyotaka tore a bite out of his sandwich angrily and chewed with spite. Mondo felt uncomfortable sitting next to him when he was like this. His bro wouldn't be consolable until they could be alone, but this angry eating had been going on for a few weeks and Mondo was not naturally patient. \"Uh, hey bro... something wrong with that sandwich? You look like you want it deader than it is.\"<br>\r\n<br>\r\n\"Of course it's trash!\" Yamada chimed in. \"It looks dry and flavorless and it lacks color!\" <br>\r\n<br>\r\nMondo snatched a Pocky stick out of the doujin writer's hand and smacked him on the head with it. \"Yeah and I'm sure your pizza slice and cheeseburger are so much healthier, fat ass! At least bro doesn't weigh more than... uh... something fat!\"<br>\r\n<br>\r\nKiyotaka winced and put a hand on Oowada's shoulder. \"Brother, please. You should not point out people's flaws...\" He sat up, having finished his meager meal. \"If you'll excuse me, I have to go.\" He hurried off. Mondo followed, but not before splashing Yamada's soda in his face.<br>\r\n<br>\r\n\"Bro, wait up!\" Mondo yelled as he chased after his friend. Kiyotaka increased his pace, walking swiftly in the other direction, head down in shame. Mondo, who was not concerned with running in the halls, caught up to him and grabbed him. Kiyotaka turned around. Tears were streaming down his face. \"Bro...\" Mondo was not surprised. It was not the first time his bro cried in the halls. Mondo pulled Kiyotaka into a hug, letting the shorter boy sob into his shirt. After a few minutes nobody had passed and Kiyotaka's erratic sobs slowed into heavy breathing. Mondo wrapped an arm around him and the two started walking outside. \"Come on, bro. Now you're gonna tell me what's wrong and I'll punch it in the nuts.\"<br>\r\n<br>\r\nKiyotaka laughed softly. \"I would suggest against punching my family history in it's genitalia, metaphorical or physical.\"<br>\r\n<br>\r\nMondo sat them down under a shady tree away from the other students. \"Family history? Is this about your grandpa? Cuz I thought you weren't gonna let that get you down.\"<br>\r\n<br>\r\n\"Well, I suppose it does have to do with him... Brother, I don't believe you've ever seen my father. Have you seen a picture of my grandfather?\" Kiyotaka said. \"What do you remember him being like?\"<br>\r\n<br>\r\n\"Uh, well you told me he was a genius and he let that get the best of him and-\" Mondo started but Kiyotaka cut him off.<br>\r\n<br>\r\n\"No, what did he LOOK like.\"<br>\r\n<br>\r\n\"Black hair... red eyes... I guess he was on the bigger side.\"<br>\r\n<br>\r\n\"Precisely.\" Kiyotaka gave a nod. \"My grandfather was a big man. In fact he was very big during his time. As was his father, and his father before him, and so on. And so is my father. For generations the Ishimaru family has consisted of big men with large, round, powerful stomachs. It is believed we are descended from a line of champion sumo wrestlers from the feudal era.\"<br>\r\n<br>\r\n\"But you're better than that! You're studly and could kick half the school's ass, probably three fourths at any other school!\"<br>\r\n<br>\r\n\"No, I am a disgrace... For generations my family's men were able to fund their size due to a sizable pool of wealth. I am the first of my line too poor to grow to a reasonable size...\" Kiyotaka put a hand on his stomach and sighed.<br>\r\n<br>\r\n\"So you're saying you wanna get fat? Isn't it better to be in shape?\"<br>\r\n<br>\r\n\"Nonsense! Do you know nothing of tradition? And there are plenty of ways to be fatter and healthy. I would never sacrifice my muscle for fat, otherwise the fat would be more harmful to my body! None of my ancestors have let that happen and neither would I... not that it matters. Fat requires excess calories and excess calories require excess food, something my family lacks...\" The look on Kiyotaka's face was unfamiliar to Mondo. It was despair. Helplessness. His bro was confronted with a problem he did not believe he could overcome.<br>\r\n<br>\r\nMondo couldn't let his bro be in that dark of a place. \"Ya know what? If you wanna get big so bad then I might as well help you!\"<br>\r\n<br>\r\nKiyotaka looked up. \"Are you sure? You'd do that for me? How?\"<br>\r\n<br>\r\n\"I dunno, you need good grub, I can help ya get it! I'll help ya get good and fat! Even if it's kinda weird...\" Mondo gave Kiyotaka a thumbs up. Kiyotaka threw his arms around Mondo in an embrace.<br>\r\n<br>\r\n\"Thank you so much! Thank you!\" He started crying again. \"Thank you...\" Mondo just returned the hug. He enjoyed these moments where he could experience affection, pure human contact, away from prying eyes. As stupid as it sounded, Mondo felt safe with Kiyotaka in his arms, like the world's problems were tiny. He'd do anything for his bro and he was sure the feeling were mutual, so long as that \"anything\" abides by the rules. After a minute or so, Kiyotaka broke the hug. \"So when do we start?\"</span></div></div>",
+            "created":1406178000,
+            "id":1833184,
+            "title":"The Plight of a Fit Hall Monitor"
+        },
+        "1141312":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "At the restaurant..."
+            ],
+            "content":"<div class=\"\"><div> <span>Lunchtime at Kibogamine Academy. Mondo once again found himself waiting outside the doors to the cafeteria, collecting \"kind gifts\" from the students \"lucky\" enough to be under his gaze. Of course, anyone who were to question the rough and tough biker would have pointed out that he did not appear to need any more lunch money. After all, he carried two lunch bags with him...<br>\r\n<br>\r\nKiyotaka bounded around the corner, smiling at Mondo. Mondo could have sworn it was the fastest he had ever seen the kid move in the halls. It wasn't running though. Never run in the halls. Never.<br>\r\n<br>\r\n\"It is good to see you, bro! Are you ready to help be grow plump?\" Kiyotaka said out loud.<br>\r\n<br>\r\nMondo just as loudly shushed him. \"Bro, don't talk about that stuff out loud! People will think it's weird...\"<br>\r\n<br>\r\nKiyotaka cocked his head. \"I do not understand. What is there to judge?\"<br>\r\n<br>\r\nMondo was perplexed. He was perplexed that Kiyotaka was perplexed. \"Uh, don't you know that most people kinda avoid... ya know... fat? Of all kinds? Just cuz you and your family thinks it's good doesn't mean everyone does.\"<br>\r\n<br>\r\nKiyotaka sighed and looked down, smirking. \"Oh, brother... I am flattered that you show concern for me, but any judgement that could be sent my way could only come from those too immature to accept differences! Sticks and stones, brother.\"<br>\r\n<br>\r\nMondo grabbed Kiyotaka by the collar. \"HEY, I COULD GET IT ROUGH FOR THIS TOO, YA KNOW?!?\" A few students turned their heads.<br>\r\n<br>\r\nKiyotaka simply put his hand on Mondo's face and lightly pushed him away. \"If you're so concerned you do not have to help me.\"<br>\r\n<br>\r\nMondo took a deep breath and relaxed. \"No, no. I'll be honest, I don't really get this whole \"family tradition\" stuff but it means a lot to ya... So if it's important to you it's important to me. Now come on, I picked you up a little something!\" he said, gesturing to one of his lunch bags. The two boys walked into the lunchroom and resumed their previous seats. Hifumi slid his soda out of Mondo's reach in case he wanted to splash him again.<br>\r\n<br>\r\nMondo pulled his own regular lunch out of his bag. Kiyotaka did the same, giving a nervous look to Mondo. It was the same dry, low calorie morsel as yesterday and the day before. Mondo just looked at him. \"Well? Eat up!\" Kiyotaka nodded and dug in with determination. It wasn't much so by the time Mondo was half done he had finished.<br>\r\n<br>\r\nKiyotaka sighed. \"So what now?\"<br>\r\n<br>\r\nMondo chuckled and dumped the contents of the second bag in front of Kiyotaka. Out fell a small pile of some kind of bar wrapped in plastic. The hall monitor picked one up and read the label out loud. \"Healthy Choice Nourishment Bar. Energy rich meal substitute. What?\"<br>\r\n<br>\r\n\"That's your ticket to getting bigger!\" Mondo said, leaning in to quiet the conversation. \"Those things are packed full of calories. Carbs, sugars, fats, proteins, vitamins, all of it. They're meant to replace full meals for really poor people that can't feed themselves or sick people or something. Too bad they always sell 'em for crack, damn fuckheads... Anyways, they practically give them away in some of the run down neighborhoods my boys are from, so I had them pick me up some. Hell, they were happy to get them off their hands. Complaining they were gonna get fat n' shit. So it should work for you too! I've got some more in my locker and I can always get you more.\"<br>\r\n<br>\r\nKiyotaka flipped over the bar. \"Serving size, one bar. Calories per serving... 600 calories?!?\"<br>\r\n<br>\r\n\"They're not bad either. I tried one. Fills ya up fast though, so it'll be good training for pushing yourself to eat more. We'll work on that later tonight though.\"<br>\r\n<br>\r\n\"Tonight?\"<br>\r\n<br>\r\n\"Yeah, we're going to that place on the corner near the park. You know, with the pet store?\"<br>\r\n<br>\r\n\"The one with the baby husky you played with for an hour?\"<br>\r\n<br>\r\nMondo blushed and slammed his fist on the table. \"W-well he was a tough little guy! And it wasn't an hour! Anyways, we'll meet there at six thirty. That gives you time for studying so don't get your panties in a bunch about that. Until then, snack on those things.\"<br>\r\n<br>\r\n\"I will! Thank you for this gift!\" Kiyotaka beamed up at Mondo. \"And I will see you there!\"</span></div></div>",
+            "created":1406437200,
+            "id":1834430,
+            "title":"Mondo's Plan"
+        },
+        "11413121":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "A week passes and Kiyotaka's diet starts to show...",
+                "A week passes and Kiyotaka's yet to gain anything!"
+            ],
+            "content":"<div class=\"\"><div> <span>Kiyotaka checked his watch as he waited outside of the restaurant at he agreed to meet Mondo at. 6:32. Mondo was late. Kiyotaka was used to this by now, but it still unnerved him. He looked up and heard a screeching sound as a motorcycle wove between some cars and spun into the parking lot. Mondo stepped off and headed towards Taka, who after angrily lecturing him on proper safety and the importance of using helmets, joined him inside.<br>\r\n<br>\r\nThe restaurant Mondo picked wasn't anything fancy. Cheap was good, he explained, because you can get more on a budget. Also this place had some classic American greasy foods like pizza, burgers and such. \"Bro, are you sure this is the best place? I could get a stain on my uniform...\" Kiyotaka said.<br>\r\n<br>\r\n\"Yeah, I thought you'd say that, so I got you this.\" Mondo pulled out a black t-shirt made of a stretchy material. \"Now before you say anything about accessorizing or representing your school and learning and stuff, hear me out.\" Kiyotaka pouted at the idea but let Mondo continue. \"Black doesn't stain easily so you don't have to worry 'bout that. It's stretchy so if you get all bloated it won't get too tight. Your uniform's got all those buttons and it'd be a pain in the ass to work with those if you get too full. Also, you'll look hot for the babes!\" Mondo grinned.<br>\r\n<br>\r\nTaka snatched the shirt out of Mondo's hand. \"You know the latter of that means little to me, but I'll wear it... For practicality's sake.\" He walked off to the bathroom to change. Meanwhile Mondo ordered a large pizza and a cheeseburger with two large and one medium drinks. The service was fast so by the time Kiyotaka has unbuttoned his shirt, removed it, rebuttoned it, folded it and put on the shirt Mondo got for him, the food was already there.<br>\r\n<br>\r\nKiyotaka glanced around nervously as he peeked out of the bathroom door. There weren't many people there, but he felt embarrassed. It was like one of those dreams where you're naked in public. He took a deep breath and strode down to the booth Mondo picked out for him. Two girls giggled as he passed by. He wanted to die. This was SO not appropriate.<br>\r\n<br>\r\nHe slid into the seat across from Mondo. \"See, bro? It looks fine on ya! The girls over there love it too!\" Mondo wasn't wrong. The shirt wasn't tight but it still showed off his muscle pretty well. One could see where his pecs were, make out the definition of abs under the cloth and clearly see the strength of his well toned arms. Not everyone got to see that under his uniform Kiyotaka Ishimaru was in fact a ripped stud. The shirt also matched his jet black hair, which brought out the piercing red of his eyes.<br>\r\n<br>\r\n\"I told you I don't care if girls like me that way. In fact I'd rather they not.\" Taka said through gritted teeth. He turned his attention to the food. \"So we're eating all this then?\"<br>\r\n<br>\r\n\"You never were a ladies' man... Well I've got my food.\" Mondo said, holding up his burger and medium soda. \"The rest is yours.\"<br>\r\n<br>\r\nThe hall monitor was dumbstruck. \"All this? I've never eaten this much! And I'm still feeling a little bloated from those bars, and I only ate two...\"<br>\r\n<br>\r\n\"Well that's why we're here. Go on, now, don't keep me waiting. We aren't leaving till it's all down and I swear to God if you throw up on me...\"<br>\r\n<br>\r\nThe exasperated boy sighed and stared at his large pizza and two drinks. Then he remembered, he's Kiyotaka Ishimaru! With hard work and effort he can conquer any challenge, no matter the pain! He can work through any bloating he's given because it will better him in the long run! That is who he is, and so he picked up the first slice and began devouring it. All the while his brain calculated. The faster he ate the more he could get down before his brain registers the fullness in his stomach. To speed up the eating occasional drinks would be helpful, but bloating from the drink could slow him down. With the proper angling he could finish a slice in four large bites. It was all down to a science for him, even if he was new to it.<br>\r\n<br>\r\nMondo meanwhile was taking his time. He was kinda caught up in watching Taka just go at it. The kid could eat, that's for sure. Must be a genetic thing. Mondo sipped at his drink as he watched his bro finish off the eighth slice. He stopped and clenched his stomach, making a funny face. \"Oh no...\" Mondo thought. \"Did he overdo it? Damnit, the kid always tries to hard.\" Instead, Kiyotaka buried his face into the back of the seat to muffle the burp he let out. He turned back and apologized before going back to gorging. \"Fuck, he's always got to go and get all embarrassed and shit... It's kinda cute, like a little kind, but damn it gets annoying.\" Mondo thought.<br>\r\n<br>\r\nMeanwhile in Kiyotaka's mind, all hands were on deck to distract from the pain in his abdomen. He could feel the strain of his stomach stretching but he knew it was a good hurt, like the pain of a quality workout. If he could think about deep philosophical topics he could ignore the pain. He reached down for the next slice but his hand his the platter. He looked down to find the pizza was gone. He did it? Wait, of course he did! He used effort and hard work to overcome adversity, as he always had! He leaned back, hands on his distended stomach, and sighed. Compared to before, his belly stuck out two more inches from pure stuffing. Taka smiled, because soon it would always stick out that far from fat. <br>\r\n<br>\r\nHis moment of bliss was interrupted by Mondo, who had finished his food a few minutes before. \"You're not done yet.\"<br>\r\n<br>\r\n\"Huh?\"<br>\r\n<br>\r\n\"You're not done. You're got a bunch of soda left.\"<br>\r\n<br>\r\n\"Yes... I suppose I do.\" He sat up and grabbed the cup. He took a deep breath and started chugging it down. Mondo stared, surprised that Kiyotaka was able to keep going. Honestly he thought he'd tap out. Maybe he'd give up this weird fat thing. But no, the kid was determined. With each gulp Taka's belly swelled up the tiniest bit. Mondo's eyes were drawn to it. It was kinda impressive and kinda cool...<br>\r\n<br>\r\nKiyotaka put down the empty cup. \"Done.\" He said confidently.<br>\r\n<br>\r\n\"Damn... You actually did it! Doesn't it hurt?\"<br>\r\n<br>\r\n\"Yes, it does feel like my stomach is about to burst, but pain is in the mind. Progress is real!\"<br>\r\n<br>\r\n\"Well with an attitude like that you're gonna be a fatass in no time!\"<br>\r\n<br>\r\n\"Thank you, bro! I look forward to it!\"<br>\r\n<br>\r\nMondo shook his head in disbelief. Kiyotaka never failed to surprise him. He wondered if this hall monitor was actually gonna get fat... At this rate he was. What would it be like? Will he still be a stud? And why does he care? Mondo didn't know. He never did.</span></div></div>",
+            "created":1406523600,
+            "id":1834466,
+            "title":"What I Learned In Binging School Is..."
+        },
+        "114131211":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Mondo starts snacking on the meal bars...",
+                "Kiyotaka's gain really takes off!"
+            ],
+            "content":"<div class=\"\"><div> <span>One week after the first stuffing Mondo and Kiyotaka had been continuing to meet up after school to train the hall monitor in the art of pigging out. Mondo came mostly because he was paying for it (those dweebs' lunch money had to go somewhere), because as it turned out, Taka didn't need much encouragement. He could gorge on end until whatever was put in front of him was done, purely driven by that damn effort he puts into everything.<br>\r\n<br>\r\n'If it wasn't so weird it'd be inspiring.\" Mondo thought as he opened up his locker to retrieve a math textbook.\"Huh, what's this?\" Poking out of his textbook was a neatly folded note. Mondo pulled out the textbook and slipped the note out.<br>\r\n<br>\r\n\"Mondo,\" It read, \"This is a precautionary note to ensure you get this message should I not see you. Please meet me directly after school in the nurse's office. Also, feel free to disregard the note I left on your motorcycle in case you unfortunately decided to skip math class, thus ignoring this textbook. Sincerely, Taka.\"<br>\r\n<br>\r\n\"Nurse's office, huh? What does he plan on getting sick or something?\" Mondo thought. He shrugged and trudged off to math class. I mean, if Kiyotaka was gonna be so thorough about it he might as well...<br>\r\n<br>\r\n---------------------------------------------------------------------------- -------------------------------------------------------------------------------- ---------------------------------------------------------------------<br>\r\n<br>\r\nLater, the bell for final period rang. Mondo started heading out when he heard a yelp and a crash. He whipped around to find, in the middle of the crowd, the school's SHSL Nurse on the ground, tangled in a few backpacks, covered in the remnants of a baking project and skirt around the ankles. Mondo looked away, bringing his hand to his forehead in disbelief. That kind of stuff never really appealed to him. Maybe it was because she wasn't consenting, maybe it's because she's covered in a tacky colored yellow frosting, or maybe it's because she always spends time around sick people in the...<br>\r\n<br>\r\nThe nurse's office! He had almost forgotten to meet Kiyotaka there! He broke through the crowd and started running in that direction. A certain scream indicated that he may have accidentally knocked that nurse down again, and a lewd chef's laughing indicated that it probably wasn't pretty.<br>\r\n<br>\r\nMondo skidded to a halt in front of the nurse's office. He brushed himself off, because that kid could sniff out running in the halls even AFTER you did it and he was not in the mood for a lecture. He walked in and to his surprise Kiyotaka was there waiting... with his shirt off. \"Bro, w-what's goin' on here...\" Mondo said, stammering a little. Taka didn't usually like taking his shirt off, and Mondo had to admit the circumstances could have been misinterpreted if someone saw them.<br>\r\n<br>\r\n\"Well, bro,\" Kiyotaka said, not put off at all by the situation, \"It's been about a week since you agreed to help me grow larger, so I figured you should be here for my first weigh in!\"<br>\r\n<br>\r\n\"So... that's why you're shirtless?\" Mondo's head started to clear.<br>\r\n<br>\r\n\"Of course!\" The hall monitor responded. \"My jacket is heavy, and the changes I am undergoing are both recordable and visible.\" He looked down at his stomach.<br>\r\n<br>\r\n\"I don't really see much... Still looks like abs to me!\" Mondo said, not really looking at his bro's stomach.<br>\r\n<br>\r\n\"No, I can tell there's a change! Look!\" Kiyotaka reached out and grabbed Mondo's hand and placed it against his stomach. There were abs, definitely, but there was some softness Mondo didn't expect. It wasn't enough to sink his fingers into, but it was... nice? <br>\r\n<br>\r\nMondo withdrew his hand. He felt hot in the fact. \"WELL WHY DON'T YA ASK BEFORE DOING THAT AND FUCKING GRABBING MY HAND AND STUFF!\" He yelled. He looked pretty pissed, and he was pretty sure he was.<br>\r\n<br>\r\nTaka had seen it before. He smiled softly, and actually giggled. \"So... That's a thing then...\" He thought to himself.<br>\r\n<br>\r\nMondo, having taken a few breaths, mumbled an apology and looked away, gesturing for Kiyotaka to step on the scale. \"So... what were ya at before?\"<br>\r\n<br>\r\n\"146 pounds.\"<br>\r\n<br>\r\n\"And now?\"<br>\r\n<br>\r\n\"The scale says... 152 pounds! Six pounds in a week!\" Kiyotaka bounced off. He was ecstatic! He poked at his stomach, feeling the soft layer of flab, and couldn't stop smiling. Mondo looked away again. Seeing Taka like this always just made him want to throw something... He wasn't sure why.<br>\r\n<br>\r\n---------------------------------------------------------------------------- -------------------------------------------------------------------------------- ---------------------------------------------------------------------<br>\r\n<br>\r\nMondo contemplated his frustration on the ride home. It wasn't really like him to get pissed by his bro so easily... But feeling his bare skin just had a weird effect on him. Was he jealous? Nah, he could probably take Kiyotaka in a fight, he thought. Was he offended? Not really... <br>\r\n<br>\r\nMondo opened the door to his apartment. His brother (biologically, not metaphotically) Daiya was lounging on the couch, beer in one hand, meal bar in the other. \"Daiya, bro, I told ya not to eat those things! They're for Taka.\"<br>\r\n<br>\r\n\"You told me not to, so I did. That's how things go, little bro.\" Daiya sighed. \"Now, what's got you so worked up?\"<br>\r\n<br>\r\nMondo grumbled. Of course Daiya would be able to tell something was off. \"I just got pissed at someone today and I don't know why... I wasn't jealous, I really didn't have a reason to hate them or wanna punch their face in...\"<br>\r\n<br>\r\n\"Well,\" Daiya said with a smirk, \"You usually get all bitchy for no reason whenever you talk to a girl you like...\" He turned over to him with a grin. \"So tell me, is she cute?\"<br>\r\n<br>\r\nOh shit.</span></div></div>",
+            "created":1406696400,
+            "id":1835317,
+            "title":"Taka's First Weigh In! (Yes Daiya is Alive)"
+        },
+        "1141312111":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Another week passes and Kiyotaka's getting chubby!",
+                "Another week passes and everybody's chubbing up!"
+            ],
+            "content":"<div class=\"\"><div> <span>Mondo slammed the door to his room and flopped onto his bed. WHAT. THE. FUCK. Did he... LIKE Kiyotaka? His bro?!? No! Hell no! He likes girls! He had a girlfriend once, in, like, the sixth grade. And he respects girls, cuz, you know, he likes them! That's why he doesn't stare at their boobs... ever... And that's why he didn't look at that Tsumiki girl when she fell down in the halls, skirt over her head... And that's why he never really thought about putting his junk in a girl... Yeah... he's straight.<br>\r\n<br>\r\nMondo sat up, feeling more confident. Yeah! He's really straight! I mean, what's so hot about dudes anyways? Especially dudes like Taka, who are always so stuck up, even though it's kinda cute sometimes... And what's so hot about all his rock hard muscles? Mondo wouldn't enjoy touching his pecs one bit! Nope! And that whole \"getting fat\" thing is just weird. Not hot at all! There was nothing sexy about touching that thin layer of chub on his stomach and he was NOT getting a boner thinking about it! Definitely not! Furthermore, there is nothing cute about seeing Kiyotaka all stuffed and bloated with that semi uncomfortable look on his face and his stomach pushing out and Mondo would never gently rub that belly and lean into Taka's face and softly... FUCK!<br>\r\n<br>\r\nFUCKING. DAMNIT.<br>\r\n<br>\r\nMondo punched a wall. Then he punched a pillow. Then the wall again. He got up to angrily knock some things off a shelf when his foot brushed against a box full of those meal bars. That box wasn't there before... His boys must really be bringing them in! Mondo glared at the box. That box... Those things in them... He hated them so much right now! He unleashed some more fury by kicked the box over, spilling the contents. He picked a bar up, \"What's so fucking great about these things, anyways?\" He thought. He tore it open and violently gnashed off a bite of it. He was a tiger and the bar was a small critter, now missing a head. He demolished it and grabbed another. \"Fuck these things.\" He mumbled as he ripped them apart with his teeth. \"Fuck them!\" In his rage, Mondo downed six of the bars before his stomach flipped. 600 calories a piece, those bars packed a punch!<br>\r\n<br>\r\n\"Oooooh.... fuck...\" He stumbled back onto his bed and clutched his stomach. He felt like he could barf... \"Uuuuugh...\"<br>\r\n<br>\r\nDaiya peeked his head in the door. \"You alright in there, little bro?\"<br>\r\n<br>\r\n\"Uuuuuuuuuuugh...\" Was Mondo's response.<br>\r\n<br>\r\nDaiya opened the door and saw the mess of wrappers strewn about the ground. \"Shit, bro, I knew you were an angry eater and all but this?\" Mondo shot him an angry glare. That's all he could do right now. \"Aw, don't be mad at me. I'm not the one who went and lose his temper cuz of a girl.\" Mondo scowled more. Daiya sighed and sat next to him. \"C'mere\" He said, although Mondo wasn't capable of moving at the moment, so Daiya scooted over and lifted his brother's shirt. Mondo's stomach was completely bloated, and legitimately looked like he swallowed a small watermelon. \"Damn, you can't just binge on those things!\" He said as he started to massage small circles into Mondo's belly.<br>\r\n<br>\r\nMondo sighed in relief. Daiya's hands took off some of the pressure. \"Pfft... says-\" *UUUUUUUURP* \"Ugh... says you... You ate 'em too...\"<br>\r\n<br>\r\n\"Yeah, but I didn't wreck a box full of them... Besides, I can handle it. The feeling of a full gut is... kinda good... just not when ya overdo it. Those things are pretty good too!\" Daiya chuckled.<br>\r\n<br>\r\nMondo grunted in begrudging agreement. \"They ain't half bad... But ya better watch yourself. Don't wanna become a fat ass...\" His mind flashed to Kiyotaka again and he winced.<br>\r\n<br>\r\nDaiya shrugged. \"Eh, who cares? Hehe, so long I can still punch their face in! A little pudge ain't all bad, right?\"<br>\r\n<br>\r\n\"N-no... I guess not...\" His mind then flashed to imagining a chubby Daiya, lounging in a chair and patting his small paunch. His cheeks tinted a shade of red and he felt heat flow into his pants. Thankfully, Daiya (probably) didn't notice...</span></div></div>",
+            "created":1406782800,
+            "id":1835938,
+            "title":"Mondo starts snacking on the meal bars..."
+        },
+        "11413121112":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Saturday"
+            ],
+            "content":"<div class=\"\"><div> <span>Slits of sun poured through Mondo's window, hitting the biker on the face. He mumbled a curse as he pulled himself up. As he did so, his stomach folded into two small rolls of fat. Mondo looked down at his belly. There was definitely some fat that wasn't there before. He probably gained at least ten pounds, and most of that can be attributed to having all those meal bars in the house. No matter how many he gave to Kiyotaka his boys seemed to bring them in truckloads... or, rather, bike-loads. But hey, it could be worse. You could still see his abs when he stood up, his pecs and arms were still firm and his face retained it's chiseled quality. Besides, who's gonna notice if he gains a few pounds, especially when Kiyotaka's blowing up?<br>\r\n<br>\r\nAh, Kiyotaka. The past week and a half Mondo's been keeping his distance. Of course they had to sit together for some classes, but during those times it has been hard for Mondo to concentrate. It could be just because he knows Taka's gaining but he could tell his pants were getting tight... his butt was becoming more prominent, and he always thought Kiyotaka already had a nice butt... Mondo was still getting used to the idea that he could be attracted to his bro like that. He tried to keep cool, but that stupid grin on the kid's face whenever Mondo handed him a bag or box of those high calorie bars was just... adorable!<br>\r\n<br>\r\nMondo threw on his usual wear. It was a little tight around the middle but not else. \"All this weight must be going to this gut...\" he thought. He left his room and headed to the kitchen. Daiya was there, still in his boxers. He has also put on a few pounds, distributed between his stomach and butt. Mondo tried not to look, because he was slowly learning if he did he would enjoy it a bit too much... \"Fuck, I'm a mess...\" he thought as he rummaged through the fridge. \"Hey Daiya, where's my protein stuff?\" He asked, not finding his usual lunch materials.<br>\r\n<br>\r\n\"I got hungry last night, so I ate it. It was only gonna last you one more day.\" Daiya responded as he grabbed a box of cereal. He leaned across in front of Mondo and grabbed the milk and proceeded to pour two bowls of cereal.<br>\r\n<br>\r\n\"You've been hungry a lot lately...\" Mondo scowled. \"Don't wanna go soft on the boys now!\"<br>\r\n<br>\r\n\"I told ya, I don't give a fuck. I'm still tough, and you ain't doin' any better, tubs.\" Daiya poked Mondo's small belly, jiggling it the tiniest bit. Mondo's face turned red and he mumbled a few more curses before grabbing his bowl of cereal.<br>\r\n<br>\r\n\"Well what the hell am I gonna do for lunch?\" Mondo said with a mouth half full of cereal.<br>\r\n<br>\r\n\"I dunno, buy some? Take some from a nerd? Get creative, for fuck's sake!\" Daiya said, swatting an invisible geek with his spoon for emphasis. Mondo mumbled again. He had a feeling he'd be doing a lot of that today.<br>\r\n<br>\r\n---------------------------------------------------------------------------- -------------------------------------------------------------------------------- - <br>\r\n<br>\r\nLunch time again at Kibogamine Academy. Mondo did his part and rustled a small fortune out of the local geeks, those SHSL mathematicians, accountants, and of course that pink haired mechanic kid. He went ahead to the lunch line to grab his food, two cheeseburgers and some fries. Mondo never really looked before, but he could have sworn the school lunches today were a lot... greasier than usual. There wasn't even a salad option.<br>\r\n<br>\r\nMondo took his normal seat with his classmates. \"Yo, is it just me or does the lunch today different? No health food shit.\" He said before taking a bite out of a burger.<br>\r\n<br>\r\n\"Yeah, it's been like that for a while now. You just noticed?\" Makoto said. \"Must be budget cuts or something. I balance it out by bringing some stuff from home!\" Makoto got a drink and some chips from the lunch line. He pulled a sandwich out of his lunchbox and... is that a granola bar? Mondo took a closer look. The snack item Makoto was unwrapping was one of those meal bars he had been giving to Kiyotaka! \"Yo Makoto, where'd you get that?\"<br>\r\n<br>\r\n\"This? I dunno, my mom just got some. They're getting popular. Half the school's trying them! Want a bite?\" Makoto said, holding it out.<br>\r\n<br>\r\n\"Nah, I got a bunch at home, I just didn't know they were a thing.\" Mondo shrugged. He looked around and found the SHSL Luckster was right. Several other students had the high calorie meal bars. Leon even had two. Was his belt looking a little tight...? \"Aren't you guys worried? I mean, they've got a bunch of calories.\" Mondo tried to sound concerned. If all the guys in the schools started getting fatter it would cover up his gain and the thought made Mondo cross his legs.<br>\r\n<br>\r\n\"Well, it can't be that bad! The athletes love them! Besides, Taka's been eating a lot of them lately and he's got good judgement. Oh, speaking of, here he is!\"<br>\r\n<br>\r\nKiyotaka sat down next to Mondo. \"Hello, friends! How have your days been?\" Mondo's eyes were drawn to the strain on Kiyotaka's shirt. The buttons looked a little taut. Mondo wondered how they were staying on for much longer. Since starting to gain, Taka had put on at least 25 pounds. Most of it had gone to his belly and butt, although some had gone to his face, rounding it out a little. It was hard to tell under the uniform, but Mondo knew that soon his bro was gonna move up a size. The idea of Taka outgrowing his uniform made Mondo smile. Damnit, why was it so cute?<br>\r\n<br>\r\n\"Bro?\" Mondo snapped back to reality when Kiyotaka addressed him. \"Admiring what we've been working on?\" Mondo's head snapped up. His first instinct was to make sure nobody else heard that. No, Makoto was off in the bathroom, Hifumi was listening to the soundtrack to some anime, and everyone else was in a conversation.<br>\r\n<br>\r\n\"Uh... yeah, sorry.\" Mondo said in a hushed voice.<br>\r\n<br>\r\n\"It's fine! I have been growing nicely thanks to your contributions!\" Mondo's cheeks burned. They were doing that a lot around Taka lately. \"Speaking of, I was hoping we could hang out some time soon!\" He continued.<br>\r\n<br>\r\n\"If it's a study session count me out.\" Mondo said, taking the opportunity to turn away.<br>\r\n<br>\r\n\"No, I was hoping you could help me binge again.\" Taka said. Mondo's ears perked up.<br>\r\n<br>\r\n\"We... we could go to my place... ya know, since I've got all those extra bars.\" Mondo said. On the inside he was freaking out. Oh, god, oh god. This was the first time they were gonna do this ever since Mondo learned about his... feelings... for his bro.<br>\r\n<br>\r\n\"Sounds like an excellent idea! I am free this Saturday. I was thinking we could start around late morning to noon and finish in the evening, not too late of course, to give us plenty of time for...\" Kiyotaka started to ramble. Mondo just stared at him with a dumb grin.<br>\r\n<br>\r\n\"He really does get so cute.\" He thought. \"Saturday night... Shit, there's that meeting with the gang... Daiya can handle it for me. And I can have Taka in my house... with Daiya alone... No, don't go there, Mondo. Nothing's gonna happen. You're just gonna make sure he stays nice and stuffed so he can plump up... and if his clothes happen to become too tight, then I guess they'll have to come off!\"</span></div></div>",
+            "created":1406869200,
+            "id":1836020,
+            "title":"The Start of Something Big..."
+        },
+        "114131211121":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Surprise! Daiya IS home!",
+                "Daiya isn't home, just as expected."
+            ],
+            "content":"<div class=\"\"><div> <span>Saturday afternoon had rolled around. Mondo Oowada pulled up to his apartment complex on his motorcycle, Kiyotaka Ishimaru in tow. It took a lot of convincing to get the hall monitor to actually ride the bike with him. Convincing, a safety helmet, shin pads, ankle pads, and driving a mile under the speed limit. It was not the most exciting ride Mondo had ever taken.<br>\r\n<br>\r\nThe two boys dismounted and headed to Mondo's room. \"So, what do we have planned for today again?\" Kiyotaka asked as Mondo fished for his key out of his pocket.<br>\r\n<br>\r\n\"Well my big bro Daiya isn't home so I figured we'd just unwrap a bunch of those meal bars and let you stuff with 'em all day.\" Mondo said. He opened the door and welcomed Kiyotaka inside...</span></div></div>",
+            "created":1406869200,
+            "id":1836317,
+            "title":"Saturday"
+        },
+        "1141312111211":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Another week passes and everyone is STILL getting fatter!",
+                "Continue with stuffing Taka."
+            ],
+            "content":"<div class=\"\"><div> <span>Mondo opened the door and turned to Taka. \"Well, this is it. Don't expect much 'cause it ain't much.\"<br>\r\n<br>\r\nTaka peeked his head in. \"Uh, I thought you said your brother would not be home.\"<br>\r\n<br>\r\nMondo turned his head. \"Huh? B-bro?!?\"<br>\r\n<br>\r\nDaiya Oowada was there, in the corner of the living room with the boys' weights, lifting a heavy looking weight... shirtless. \"Hey guys, what's up?\" He said in a cheery tone.<br>\r\n<br>\r\n\"BRO?!?\" Mondo yelled. \"I told ya to go run the meeting with the boys!\"<br>\r\n<br>\r\nDaiya shrugged. \"Meetin' was canceled.\"<br>\r\n<br>\r\n\"Well go put a fuckin' shirt on!\" Mondo looked ready to pop. This was supposed to be his time alone with Kiyotaka, and now his brother had ruined it!<br>\r\n<br>\r\nAt this point Taka chimed in. \"It's fine! He has nothing to hide!\" He walked over and extended a hand. \"I do not believe we've met. My name is Kiyotaka Ishimaru. I am good friends with your brother. I hope we can become well acquainted!\"<br>\r\n<br>\r\n\"Hmph.\" Daiya dropped a weight with a resounding CLUNK. He grabbed Taka's hand in a firm handshake. \"So yer the hall monitor my bro's been helpin' chub up? Well it's good ta finally meet ya! I'll tell you though, keeping those snacks around the house for you hasn't been easy on my gut.\" He chuckled and gave his belly a pat.<br>\r\n<br>\r\n\"Haha, well if it means anything it looks quite handsome on you!\" Taka grinned. Mondo blinked. That was the first time he ever saw his bro compliment the appearance of another. Normally he criticizes them for being distracting.<br>\r\n<br>\r\n\"Good to hear!\" Daiya returned the smile. \"At least someone can appreciate it! Mondo keeps pickin' on me for it, even though it's just as bad on him!\" Taka's face drooped a little when he heard that. Daiya wrapped an arm around the younger boy's shoulder and faced Mondo. \"I like this kid!\"<br>\r\n<br>\r\n\"Yeah, yeah, sure. Now can ya seriously go put a shirt on?\" Mondo said.<br>\r\n<br>\r\n\"Hell no, this is liberating! A man needs his freedom, right, Kiyotaka?\" Daiya said, winking at the hall monitor whose face held a quivering smile.<br>\r\n<br>\r\n\"C-certainly! Especially men with well sculpted bodies such as ours! And you may call me Taka.\" Mondo winced when Taka said that. It took him a few weeks to earn the \"right\" to refer to Taka by that name! And did his voice break a little when he was so quick to agree with Daiya? He shook his head. He was probably just being paranoid. Besides, who could blame him when his brother was all shiny with sweat covering his masculine body. It made Mondo kind of uncomfortable.<br>\r\n<br>\r\n\"So,\" Daiya said as he plopped onto the armrest of a chair, \"When do we begin?\"<br>\r\n<br>\r\n\"W-we? I never said you were part of this!\" Mondo's temper started to raise again.<br>\r\n<br>\r\n\"I think it's a great idea!\" Said Kiyotaka.<br>\r\n<br>\r\n\"So then it's official!\" Daiya cheered. He jumped up and opened the door to Mondo's room to grab the box of meal bars.<br>\r\n<br>\r\n\"I like your brother!\" Kiyotaka said to Mondo.<br>\r\n<br>\r\n\"Yeah, I can tell, you two flirting with each other n' shit...\" Mondo grumbled.<br>\r\n<br>\r\nKiyotaka's face burned a deep red. \"W-was I that obvious? And he-\" He was cut off by Daiya reentering the room, carrying the box.<br>\r\n<br>\r\n\"Sit back and relax, Taka. Mondo and I here will do all the hard work for you!\"<br>\r\n<br>\r\n\"I'm not adverse to hard work, but I will comply!\" Kiyotaka sat down on Daiya's recliner. Daiya unwrapped the first bar and moved it towards the hall monitor's face. He reached to take it but Daiya retracted it.<br>\r\n<br>\r\n\"Uh, uh, uh! You're letting us do the work!\" He shoved the bar in Taka's face, forcing him to take a bite.<br>\r\n<br>\r\n\"Bro, what the hell are you doing? He can feed himself!\" Mondo said. At this point Mondo was going to get a headache if he didn't punch something.<br>\r\n<br>\r\n\"I like this idea, Mondo!\" Kiyotaka said. \"It's a good team building exercise!\" <br>\r\n<br>\r\nMondo was dumbstruck at how willing Taka was to agree to everything Daiya said. He supposed there was no changing his mind, so he let Daiya feed Taka the meal bar. Then he came in with the second. There was something satisfying about the control he had. He had the power to made Taka eat as slow or fast as he wanted, and he was inclined to make him eat fast. He and Daiya traded off shoving the meal bars into Taka's mouth, and Taka just relaxed, chewed and swallowed. Four down. Then five. Then six. Mondo remembered that he had eaten six when he went on his rampage and it made him want to barf but Taka was still going for it. Seven down. Then eight. After the ninth he made a painful face.<br>\r\n<br>\r\n\"See bro, you pushed him too far! Those things bloat like hell!\" Mondo said, happy to push the blame on his brother but also concerned his friend was about to puke all over the floor.<br>\r\n<br>\r\n\"No, no, he can handle it. He's a tough guy, aren't you? Maybe if we just... loosen this up...\" Daiya said, reaching for the buttons on Taka's jacket. Mondo rolled his eyes. Daiya was talking to Taka like he was a baby. He might as well have been though, seeing as he was reduced to muttered moans from the bloating. One by one the buttons came undone, and if Taka was against it he was too uncomfortable to say so. As the last two buttons came undone Taka's belly plopped out. It was the first time Mondo had seen it since Taka's first weigh in and he could feel like face heating up. The belly looked softer and stuck out several inches. Sitting down and bloated it was harder to make out Taka's once well defined abs but they were surely still there. His pecs also appeared to have a thin layer of fat covering them. The added chub gave Taka a teddy bear like quality.<br>\r\n<br>\r\nDaiya interrupted Mondo's staring by nudging him. \"See, now he can try a few more.\" He held up another bar. Taka took a breath of meditation before baring down to chomp on it.<br>\r\n<br>\r\n\"I'm telling you, bro, his stomach can't take much more.\" said Mondo.<br>\r\n<br>\r\n\"Well I'll ease it for him if it makes ya calm down, fer christ's sake...\" Daiya put his hands on Taka's belly and started to rub it in small circles. \"I'll handle this while you feed him, ok?\" Daiya said with a smirk. Mondo was certain now that Daiya was trying to piss him off because there was nothing Mondo wanted more than to put his hands on that soft mound. He resigned to feeding him, and with their combined efforts Taka was miraculously still able to eat, albeit slowly.<br>\r\n<br>\r\nAs he ate Daiya would say encouraging words to him. Things like \"That's it, keep going!\" or \"You're gonna get so big...\" He even remarked on his size saying \"You're belly is so soft... It must feel good, huh?\" Taka nodded his head since he couldn't talk with a mouth full of juicy calories. Every word Daiya said Mondo wanted to shoot down. He didn't bring Taka here just to let his brother seduce him. Hell, he didn't even think his brother was into dudes! Then again, he didn't think Taka was either but... <br>\r\n<br>\r\nHe just couldn't keep up anymore. Mondo got up. \"He's had enough. I need to go lie down.\" He staggered off to his room.<br>\r\n<br>\r\nDaiya gave Taka's belly a good pat, causing him to let out a belch and a faint, fatigue drenched \"Excuse me.\" \"I'm gonna let ya sleep now. We'll keep going once you wake up. Gotta let those calories sit, right?\" He went off into Mondo's room.<br>\r\n<br>\r\nIn the poorly lit, small room, Mondo laid face down, clenching the sheets. \"Taka's sleeping. You gonna tell me what's up?\"<br>\r\n<br>\r\n\"Yeah, I'll tell you what's up!\" Mondo sat up and shot daggers at Daiya with his eyes. \"I invite my friend over, expecting you to be off with the gang, and instead you're here and you act like you're fuckin' flirting with him!\"<br>\r\n<br>\r\n\"That's probably 'cause I am, bro.\"<br>\r\n<br>\r\nMondo looked at Daiya with bewilderment. Daiya shrugged. \"I put my dick in whatever I feel like. And I ain't gonna lie, your friend is cute. The whole chubby thing isn't too bad!\"<br>\r\n<br>\r\n\"But... but...\"<br>\r\n<br>\r\n\"Oh, I get it. You've got a crush on him! Eh, you always did take after me, heh. Well too bad. I call dibs.\"<br>\r\n<br>\r\n\"I knew him first!\" Mondo threw his pillow at Daiya, who just caught it and tossed it back.<br>\r\n<br>\r\n\"Yeah but I'm older. Plus, he wants me more. Just watch. But I'll tell ya what, I'll give ya a chance and leave it up to the kid. Whoever he wants more gets him.\"<br>\r\n<br>\r\nAnger that welled up in Mondo hardened into resolve. \"Then I'll make sure he wants me! Yer gonna look like a piece of trash next ta me! But... how do we even know he likes guys? I think he's straight.\"<br>\r\n<br>\r\n\"Straight? Him? Nah, he likes the D.\"<br>\r\n<br>\r\n\"...\"<br>\r\n<br>\r\n\"Have you ever seen him flirt with a girl?\"<br>\r\n<br>\r\n\"...no?\"<br>\r\n<br>\r\n\"Well there's your reason why. He likes guys. He likes guys who are tough, masculine and on the thicker side, and that's why he's gonna like me.\" Daiya said with confidence.<br>\r\n<br>\r\n\"Whaddya mean by that?\" Mondo growled<br>\r\n<br>\r\n\"I mean I don't give a shit if I get a gut, and hell, at this rate I'm only gettin' bigger. He clearly thinks guys look good like that. On the other hand, you're too afraid of lookin' like a softie, like lookin' weak. Do ya think he can like ya if all you do is complain about gettin' fat?\"<br>\r\n<br>\r\nMondo gritted his teeth. \"Well if bein' a fat ass means making sure he's mine then I ain't gonna let that stop me!\"<br>\r\n<br>\r\n\"Well let's see about that, ya little twig!\"<br>\r\n<br>\r\n\"You'll eat those words when I've got a giant gut AND Taka!\"<br>\r\n<br>\r\n\"Not if I get him first!\"<br>\r\n<br>\r\nAnd so began a race between the two Oowadas. A race to win the attention of Taka and a race to get fat.</span></div></div>",
+            "created":1406869200,
+            "id":1836359,
+            "title":"Surprise! Daiya IS home!"
+        },
+        "11413121112111":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Taka and Daiya's Date",
+                "Skip to Saturday, Mondo and Taka hang out"
+            ],
+            "content":"<div class=\"\"><div> <span>The bell announcing the end of fourth period rang out, eliciting sighs of relief and the beginnings of chatter. Mondo slid out of his chair and yawned and stretched his back, causing his pot belly to poke out from underneath his shirt. A few girls giggled as they passed by him and he pulled his shirt down, although the light cotton wife beater beneath his jacket still clung tightly to his frame, showing a new roundness. Love handles formed over the rim of his pants and a dent in the shirt indicated where his belly button rested amidst the softness.<br>\r\n     <br>\r\nMondo picked up his books and made his way to his locker, tossing an empty chip bag he finished off during class at some nerd. At his locker Mondo pulled out his lunch, which today consisted of a particularly greasy meaty sandwich he whipped up that morning, two of the meal bars, a soda and some chips. Since accepting his brother's challenge to win over Taka, Mondo had been going on overdrive with his binging. To some extent it had taken effect. He had put on a few more pounds in the past week. The thought of it gave him dread, but any bad feelings were washed away when he thought about holding Taka's plushness in his arms.<br>\r\n     <br>\r\nOf course, Mondo's quick gain was not to say that he was, in a sense, doing well in the race. His brother had also gained about as much. Worse yet, every other guy in the school had been gaining weight as well due to the new meal plans. Even the slim, proud Byakuya Togami's clothes were looking a bit strained. With other guys in the school plumping up, did Mondo stand a chance of being noticed? He needed to try something drastic.<br>\r\n     <br>\r\nMondo took his usual spot by the doorway to the lunchroom, helping \"alleviate\" some of the \"athletically challenged\" students of the \"burden\" of carrying extra lunch money, chip bags, or anything that could help the cause. As it was every day, Taka turned the corner, lunch bag in hand, and when he did Mondo nearly let the mouthful of snack food in his mouth fall out. There was no mistake, Taka's uniform was looking strained. The buttons were taut so that it could be noticed from a distance. The sleeves looked constricting and the white undershirt the hall monitor wore could be seen where the uniform failed to be pulled down to the pants. Mondo's face grew redder and redder with each step Taka took towards him. Despite his new size, which Mondo could see had rounded out his face and given him a small second chin, he remained uninhibited by the weight as someone like Hifumi might have been.<br>\r\n     <br>\r\nMondo remembered the reason he specifically wanted to talk to Taka and began to sputter out words. \"Uh, so, um, Taka...\"<br>\r\n<br>\r\n\"Yes?\" Taka asked with his usual cheery demeanor. Mondo wanted to die and vomit a rainbow simultaneously.<br>\r\n<br>\r\n\"I was wondering, ya' know, if you were cool with... uh, hanging out... and stuff... tomorrow... There's kinda a, um, uh, thing... that I need to tell you about...\"<br>\r\n<br>\r\n\"Oh... well that sounds great but I already have made plans with your brother. He's taking me to a buffet and we're both going to eat until it hurts!\" Taka grinned. \"Perhaps another time. Saturday?\"<br>\r\n<br>\r\n\"Oh...\" Color drained from Mondo's face. \"Y-yeah... sure.\" He staggered off to the lunchroom and took his usual seat. Taka followed him and began his lunch, but was too enveloped in it to notice that Mondo had lost his appetite.</span></div></div>",
+            "created":1409893200,
+            "id":1852577,
+            "title":"Another week passes and everyone is STILL getti..."
+        },
+        "114131211121111":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "At the Oowada's..."
+            ],
+            "content":"<div class=\"\"><div> <span>Kiyotaka was dropped off by his parents at the buffet. He wore the black shirt that Mondo had given him on his first binging session, only now it was much tighter around his pudgy waist. At this point he definitely had a belly, but it wasn't much to talk about. It stuck out about 2 inches in front of him and he was beginning to grow love handles but that may have just been because he was yet to accept the next size up of uniform. Slightly embarrassed (not because of his belly but because he was out of his uniform), he walked in and his eyes were drawn to Daiya, waiting at a booth and waving to him. Taka sat down across from him and greeted him. Daiya told Taka that he had already paid for the meal so they both walked to the buffet.<br>\r\n<br>\r\nThe buffet had different food every day, Daiya explained, but today it was filled to the brim with Italian food. Various pastas filled tubs lined up on the counter. Taka started with a plate piled high with plump ravioli and a tall glass of milk. Daiya got the same. The two sat down at the table and began to eat, Daiya at a leisurely pace and Taka with gusto. \"Whoa, man, slow down.\" Daiya said between bites. \"Take some time to taste it or something!\" Taka swallowed a large lump of ravioli. He nodded and took a smaller bite, chewing and letting the flavor fill his mouth. The warm cheese was not the fanciest or highest quality but it satisfied. With no trouble at all he finished the plate. \"Let me handle that.\" Daiya took their plates and returned, both filled with thick lasagna.<br>\r\n<br>\r\nAfter the lasagna was in their bellies Daiya got them both some spaghetti with garlic bread. \"I see you aren't slowing down. How much can you eat in one sitting?\"<br>\r\n<br>\r\n\"I dunno, I'm just gonna eat 'till I'm stuffed, but that won't be for a while!\" Daiya mumbled, mouth half full of pasta.<br>\r\n<br>\r\nTaka ignored Daiya's poor table manners. He had come to expect and accept this from the Oowadas. \"I hope that is the case because it would be rude of me to leave you waiting while I finish, and this is only the beginning!\"<br>\r\n<br>\r\n\"Pfft, don't underestimate me, kid. I can eat circles around you and still want more!\" Daiya observed the effect his words had on Taka. The hall monitor's cheeks flared up slightly and for a split second his breathing quickened. \"So he likes that kind of talk, huh...\" Daiya thought to himself. \"But I'll tell you what,\" he said, flashing a grin. \"You wanna prove yourself? Starting now, you have to eat two plates fer' every one I down. Deal?\" He stuck out his hand in agreement. Taka, of course, accepted the terms on his man's honor.<br>\r\n<br>\r\nDaiya shifted his stomach into overdrive. In truth, he knew he probably couldn't eat nearly as much as the kid in front of him could, he just needed to have him stuffed. Regardless of his limits, Daiya shoveled down his plate and went for more. He brought back three plates this time, each one holding a few slices of pizza. \"This should be easy, right?\" He said. Taka nodded in agreement but was already focused on whipping through the first plate. Holding to his promise, he had finished his first plate by the time Daiya was half done. \"Fuck, this kid's like lightning!\" Daiya thought. \"If he can eat pizza that fast, imagine how fast he can swallow a.... no, don't get a boner now, Daiya. Just eat.\" The fourth and final slice slid down into his stomach and tightness built up. Daiya let out a belch and Taka crossed his legs, gripping the table. Daiya took advantage of the moment of weakness. \"Damn, I'm starting to feel full... I could use more thought, right Taka?\" The younger boy nodded. \"Yeah, a man's gotta eat....\" He slapped his belly and gave it a small jiggle.<br>\r\n<br>\r\n\"Th-that's true...\" Taka's eyes were drawn to the taut belly. Daiya's recent weight gain was concentrated in his belly, like Mondo's. He was bigger than Mondo around the waist and his belly drooped slightly over the sweatpants. A line of skin showed where his t-shirt rode up, showing the light skin on his stomach. If Taka's belly stuck out 2 inches (now more 2.5 given the stuffing) Daiya wasn't far behind, but Taka's fat was more evenly distributed so it was clear that he was still fatter. Taka stood from the table. \"I will get us the next course.\" He said quickly as he excused himself.<br>\r\n<br>\r\n\"Hehe...\" Daiya chuckled, admiring the plump ass that walked away from him. He pulled out his phone and in a flash took a pic of it and sent it to Mondo with the message \"See this? Mine now.\" Kiyotaka returned with the plates, this time each holding a large slice of rich chocolate cake, more resembling a large slice of fudge.<br>\r\n<br>\r\nTaka resumed eating, seemingly uninhibited by the strain of his stomach. Daiya was so caught up in keeping up that he didn't even notice when Taka unbuttoned his pants. \"Do you hear that?\" Taka's ears perked up.<br>\r\n<br>\r\n\"Hear what?\" Daiya lied, although in his discomfort his words weren't very articulate. Mondo had been texting him angrily nonstop for the past few minutes. A few more minutes came and went. Daiya did not expect the cake to be so thick, and now he was clutching his belly, moaning slightly. Taka stood up to get more but Daiya grabbed his arm. \"Ugh... fuck, I tap out... I'm done.\"<br>\r\n<br>\r\nTaka was both pleased and disappointed. \"Alright, then I suppose we should leave?\"<br>\r\n<br>\r\n\"Nah, if you want more go for it...\"<br>\r\n<br>\r\nTaka could have had more. His stomach hurt past the point of discomfort but he knew he could have more. Still, good manners were important! \"I'd rather not keep you waiting. Like I said, it would be rude.\"<br>\r\n<br>\r\nA thought popped into Daiya's mind. \"Well how about we go back to my place? I'll get some R&amp;R and fix ya up some more. We've always got more of those meal bars...\" Daiya knew Mondo wouldn't be home. He had pissed him off enough that he was probably out riding somewhere and would be until later that night.<br>\r\n<br>\r\nTaka's eyes flashed. Daiya wasn't sure if it was excitement, fear, worry or a mix. He thought for a moment. \"...I accept. Are you in a state to drive?\"<br>\r\n<br>\r\n\"Pfffft. I could ride blindfolded.\" His dirty mind then flashed to an image of himself... \"riding\" blindfolded. \"Of course I won't this time. Come on, I've got a spare helmet and jacket.\" Taka let out an audible sigh of relief at that.</span></div></div>",
+            "created":1411102800,
+            "id":1859076,
+            "title":"Dinner with Daiya"
+        },
+        "1141312111211111":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "aaaaaaaaaaaaaaaaaaaaaaaaand Mondo comes home.",
+                "Taka wakes up"
+            ],
+            "content":"<div class=\"\"><div> <span>The ride to the Oowadas' place was short. The lack of traffic gave Daiya the freedom to go faster than Taka was necessarily comfortable. The two stuffed boys lumbered up the stairs to the apartment. \"Yo, Mon-chan, ya home?\" No response. \"Guess we're alone.\" The Oowada residence smelled of grease, sweat and a hint of alcohol. It wasn't that bad, since overall it just smelled of man, a scent both boys could bear well. \"Mon-chan is probably off at the gym or taking some laps around the block.\" Daiya shrugged. This was a half lie (They're easier to tell sometimes than full lies). Mondo could have been at the gym. He probably wasn't, but it's not like Daiya kept a tracker on the kid.<br>\r\n<br>\r\nTaka smiled as he entered. The apartment may not have been clean or orderly, which he would have preferred, but it was a place of manliness. He eyed a pile of pizza boxes in the corner. \"Ah, sorry 'bout the mess. I've been pretty hungry lately, haha!\" Daiya patted his paunch.<br>\r\n<br>\r\n\"You ate all that?\" Taka grinned.<br>\r\n<br>\r\n\"Eh, most of it. I offered some to Mondo but he turned it down...\" Another half lie. He had eaten more than half of it, but only because in the past few pizza binging contests the brothers had been having he won fair and square. Better to let Taka think Mondo wasn't trying like he was. Daiya tossed Taka a meal bar that was left on a table which was full of wrappers. \"And sorry for eatin' all yer' snacks. I just can't get enough of the stuff...\" Daiya chuckled.<br>\r\n<br>\r\n\"No, it's fine. I insist you have as much as you want! I have plenty.\" Taka gave his own, larger paunch a pat.<br>\r\n<br>\r\n\"I can see that! Yer' getting kinda fat there, Taka.\"<br>\r\n<br>\r\n\"Thank you! May I return the compliment?\"<br>\r\n<br>\r\nDaiya shrugged with a sly grin. \"Sure.\"<br>\r\n<br>\r\n\"Well you have also gained some considerable weight!\" Taka grinned. <br>\r\n<br>\r\n\"Thanks? I think?\" Daiya said. \"I dunno, I think it's kinda interestin'. What do you think, Taka?\" He stretched back, letting his shirt ride up exposing the lower half of his belly.<br>\r\n<br>\r\n\"I think... I think it's rather... nice.\" Taka said. He took a bite out of the meal bar and chewed it. \"It's too bad Mondo cannot appreciate it.\" He sighed. The thought of Mondo secretly rejecting his weight gain wore heavily on his heart. And worse yet, what if he also resented Taka's weight gain? He thought that when Mondo got angry in the nurse's office that one time that it was because of Mondo's habit of yelling when he's flustered and that perhaps Mondo held feelings he did not comprehend. That was probably a fantasy Taka conjured in his subconscious, a far fetched hope. In all likelihood that was a lie. Was he... a burden to Mondo? Yet here was his brother, a man who was stronger, wiser and just as handsome, who embraced his size. He was older but it only made him exude more masculinity. Taka's heart fluttered looking at him. He started getting teary eyed.<br>\r\n<br>\r\n\"Hey, hey...\" Daiya said softly as he sat Taka down on the couch. \"Mondo warned me you get worked up,\" he chuckled, but mentioning Mondo made things only harder for Taka. \"What's wrong?\"<br>\r\n<br>\r\n\"Mondo... Why is he helping me? Ever since I've started all this he's had to suffer through it. I've inadvertently caused him to gain weight assuming he would enjoy is but it's caused him pain... I fear I may be a bother to him, but I cannot simply turn back now!\" The wetness in his eyes overflowed, sending droplets down his cheeks. Daiya pulled him closer, wrapping an arm around his shoulders and resting his other hand on his belly, rubbing it gently.<br>\r\n<br>\r\n\"He's just bein' your friend. And who cares if he likes it or not. He's missin' out on this!\" Daiya gave his own belly a small jiggle. Taka smiled through his tears. \"Look, you can't please everyone in this world, so ya just gotta do what feels right for you, and if it means anything...\" He leaned in the slightest bit. \"I think what yer doin' is pretty awesome.\"<br>\r\n<br>\r\nTaka stared into Daiya's lavender eyes, not with intensity, but almost a curiosity. He placed a hand on Daiya's stomach. It was still taut from the stuffing but there was also softness. \"Even when I am fatter, will you feel the same?\" He leaned closer as well.<br>\r\n<br>\r\n\"Hey, it's just more to love...\" Daiya closed the gap between the two, laying a gentle kiss on Taka's lips. The room became warm as the two held their lips together. Daiya brought his hand up from Taka's belly to hold his face. He parted his lips and kissed him again, not thinking, not rushing but simply feeling.<br>\r\n<br>\r\nTaka broke the kiss. \"Is... this right? I feel like I should know but... I don't.\"<br>\r\n<br>\r\n\"It doesn't matter. Just relax.\" Daiya cooed. He pressed against Taka, laying him down. He gently groped Taka's belly as they kissed, causing Taka to squirm a little and let out a tiny gasp. Daiya took advantage of the moment and slipped his tongue in Taka's mouth. just past the lips to meet Taka's tongue. The two deepened the kiss, advancing it from just the touching of lips to the sucking motions that are associated with making out. Daiya pressed harder against Taka's belly. Taka let out a belch loud enough to be heard in the next room.<br>\r\n<br>\r\n\"I APOLOGIZE, DAIYA!\" Taka's face flushed a deep red and he shut his eyes. Daiya just laughed.<br>\r\n<br>\r\n\"Hehe, yer so cute...\" He kissed Taka again. \"But maybe this <i>is</i> a little tight... He reached down to unbutton Taka's pants. Taka's hand stopped him. \"Relax, babe. I'm just taking pressure off yer gut...\" Daiya's hands did not move past the button as he said. Instead, they slid under Taka's skin tight shirt. \"Mmm, maybe you need the next size up...\" He felt up Taka's softened body, pulling his shirt up with him. Daiya sat up and took off his own shirt as Taka removed his. <br>\r\n<br>\r\nNow with his belly exposed Kiyotaka looked simply irresistible. Lying down his belly lifted at least 2 inches into the air, rising and falling as he breathed. his pecs were still firm with muscle but the fat had caused them to begin to droop into moobs. The faint line under them suggested so. Daiya sat up on Taka's lap and rubbed his belly, sinking his fingers into the soft flab that covered what used to be abs. Muscle was still there but it was barely visible. Daiya's hands traveled up to squeeze at the boy's chest. He rubbed a thumb around his nipple and Taka gasped lightly. The pulsing beneath Taka's pants (which Daiya was purposefully sitting on) indicated his enjoyment. \"You like this, don't you, Taka?\" Daiya said, fully intent on seduction. \"You like being a big boy... gettin' fatter...\" The pulsing beneath him hardened.<br>\r\n<br>\r\n\"Nnnngggh... y-yes...\" Taka cried out softly. He weakly reached out to rub Daiya's belly.<br>\r\n<br>\r\n\"Hehe, you like my belly too? Maybe some day I'll be as fat as you... but you'll probably be bigger...\" Taka gasped again, his moaning increasing. Daiya started shifting back and forth on Taka's crotch as he rubbed his chest with one hand and grasped his firm bicep with the other.<br>\r\n<br>\r\n\"Y-yes, sir...\"<br>\r\n<br>\r\n\"And hey, if I'm gonna get fatter either way... might as well speed it up. You want that? You wanna make me <i>fatter</i>?\" Taka bucked his hips at the last word and let out a louder moan. Then a cry. Then he laid back, panting. Daiya dismounted and looked down. \"Dude, did you just jizz yourself?\"<br>\r\n<br>\r\nTaka would have apologetically responded with more than short breaths but he was well on his way to the world of sleep. Daiya lifted him up and brought him to his room where he laid him down on his bed, climbed in with him, cuddling with his pudgy hall monitor until sleep overtook him as well.</span></div></div>",
+            "created":1411189200,
+            "id":1859106,
+            "title":"Dinner with Daiya pt. 2"
+        },
+        "11413121112111112":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "The next day in school...",
+                "A week later..."
+            ],
+            "content":"<div class=\"\"><div> <span>Kiyotaka's eye opened softly as shafts of sunlight sifted through the air to lang on his face. A serene smile spread across his cheeks. He tilted his head over to observe the clock on his nightstand. It wasn't there. There was not nightstand. This wasn't his room. Kiyotaka jolted up, causing his head to go numb with vertigo. When sight returned, he got out of the bed and cautiously looked around. This was still the Oowada residence. He realized he was still in his clothes from the previous night.<br>\r\n<br>\r\nLast night...<br>\r\n<br>\r\nThe last thing Kiyotaka remembered was a fiery sensation in his loins, the likes of which he'd never experienced before, and then void. He reached into his pants and felt his underwear sticking to his skin, glued by dried semen. It was his first time touching the substance but he knew what it was. He was inexperienced, but not unintelligent. Face flushed red, he peered around the open doorway. There was a crackling sound, and whistling. Kiyotaka didn't want to have to encounter anyone, not while his drawers were stained. He needed to freshen up. But as he crept around the corner, the floorboards groaned. \"Curse my weight....\" he thought to himself.<br>\r\n<br>\r\n\"Taka! You're up.\" Daiya called from the adjacent kitchen. \"I'm making breakfast. Why dont'cha sit down?\"<br>\r\n<br>\r\n\"Y-yes, I will be there soon! Thank you!\" Kiyotaka sighed. Now that he wasn't worried about stealth, he looked around. There was the couch. That same couch he passed out on last night, where.... oh goodness, did he do that? What does that mean for him and Daiya? What about Mondo? Mondo... he wasn't home, it seemed. <br>\r\n<br>\r\nTaka slipped into the bathroom. It was a cringe-worthy room, moreso than the rest of the house. There wasn't any mold lining the yellowed tiles, but whatever was caked within the cracks there sure did look like it. The mirror had cracks as if it was punched (a strong likelihood) and the sink's faucet was rusty. Kiyotaka refrained from examining the shower, which was concealed by a stained curtain, and not just because he felt it would be rude. The hall monitor wiped down his groin with some paper towels. He brushed his hair to the best of his ability with a comb someone dropped on the floor. He very much wanted to shower.<br>\r\n<br>\r\nFeeling presentable...ish, Kiyotaka exited the bathroom and made his was towards the kitchen. Instantly a waft of scent reached his nose and his stomach grumbled. He succumbed to his hunger and slid with haste into a chair in front of which was a plate full of breakfast.<br>\r\n<br>\r\n\"Good morning, sunshine!\" Daiya said as he faced the stove, managing the contents of a frying pan. He was wearing only his boxers and an apron which read \"Kiss the Cook's Ass\".<br>\r\n<br>\r\nKiyotaka quietly acknowledged Daiya and thanked him for his cooking before digging into the bacon on his plate. Daiya plopped something else onto the plate. It looked brown and rectangular... \"Check these out, Taka. I fried some meal bars in the bacon grease and some seasoning. Adds some fat to 'em and, well, as much as I love those things a guy can only eat so many. Kiyotaka cut into one with his fork and chewed on it. It... wasn't very good. Over seasoned and burnt. He finished it to be polite, and because it was a good source of fat. After they had both eaten a sizable breakfast, The two sat in silence for a moment. Kiyotaka broke the silence.<br>\r\n<br>\r\n\"So what happened last night...\"<br>\r\n<br>\r\n\"What about it?\"<br>\r\n<br>\r\n\"I'm sorry. I should not have escalated things so quickly. I apologize.\" Kiyotaka bowed his head.<br>\r\n<br>\r\n\"Why?\" Daiya leaned back in his chair, kicking his feet onto the table and resting his beefy arm on his swollen gut. \"It was damn good. I didn't finish, but we can fix that if ya want.\" He smirked.<br>\r\n<br>\r\n\"No, no I mean that perhaps we shouldn't have done that. I feel we have rushed past the point of friendship too quickly. Especially while I still have conflicting feelings...\"<br>\r\n<br>\r\n\"With my bro?\" Daiya was blunt. Taka was silent. \"Look, I can't make you decide between us, but I can tell you this. You're fucking awesome. You're a sweet kid who knows a man's honor. You're hot, too, and judging by the way you eat you're only getting more and more handsome.\" Kiyotaka's sullen face broke into a small smile and a chuckle at this. \"If you gave me a change, I'd make you happy.\" Daiya kicked back from the table and stood up. \"Listen, I get that you need some time. I agree. We moved a bit fast. How about I drive you home?\" Kiyotaka nodded. Daiya escorted him out the door. The ride home was quiet, but Kiyotaka had to admit, it was a comforting silence.</span></div></div>",
+            "created":1451538000,
+            "id":2081821,
+            "title":"The Morning After"
+        },
+        "114132":{
+            "author_id":"writing.net",
+            "author_name":"AGTDAT",
+            "choices":[
+                "Story 4",
+                "Come up with a FIFTH story."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Story 4: Kiyotaka is in full on despair after his bro Mondo is executed, causing him to turn to food for comfort. (This also alters the story so that Celeste can't find a way to trick Hifumi into killing Taka, and so he survives.)</span></div></span></div>",
+            "created":1477875480,
+            "id":2230658,
+            "title":"Story 4"
+        },
+        "1141321":{
+            "author_id":"writing.net",
+            "author_name":"AGTDAT",
+            "choices":[
+                "\"What happened to you, Kiyotaka??\"",
+                "\u201cHow did you gain weight without any food in your room??\""
+            ],
+            "content":"<div class=\"\"><div> <span>Kiyotaka Ishimaru was crushed as he saw his once best friend, Mondo, turned into butter right in front of both him and his classmates eyes. Everyone was in shock, but nobody could even get a word out of poor Kiyotaka. After a while, everyone left him alone, and soon enough he too got up. He went to Mondo's room to try to find something to keep as a memory of him, and ended up finding a certain something that Mondo used to use. Without thinking, he took them all, bunched them up, and held them close to his chest with the tightest grip he could after locking himself in his room.<br>\r\n<br>\r\nA few days had passed, and nobody had seen Kiyotaka. People were getting worried, thinking that someone had pulled another murder on the extremely vulnerable Taka. Soon enough, they had spotted alter-ego, and asked him for any aid in the search, but to no avail. Soon enough, people heard a faint whining, or sobbing. It sounded a bit like a \u201cBuhuhuh... Buhuh...\u201d It seemed to be coming from Taka's very room. And so, Makoto, with Kyoko, Aoi and Sakura alongside him, decided to try and talk to him. Makoto started with a knock on the door, and asked \u201cKiyotaka..? Is that you..?\u201d. No answer. Kyoko then said \u201cIt would be a surprise if he had the emotional willpower after being alone for days, without any food or water.\u201d Aoi just shrugged her off, and said \u201cC'mon Kiyotaka! Get up! It was just a dream, Mondo's right out here!\u201d. A soft \u201cBuh... Yuh... You're lying...\u201d Aoi then nudged Sakura and whispered \u201cTry and do your impression of Mondo, it'll get him to come out!\u201d Kyoko sighed, not believing Kiyotaka would even come out, but Makoto was truly  excited, believing they were getting somewhere. Sakura attempted to do an impression, and it was actually pretty good! \u201cOkay, Kiyotaka. Come on out now. I'm here.\u201d She said, and Kiyotaka bought it! \u201cBuh... Bro..? Is that..? Really you..?? B-Bro! I-I'm coming!!\u201d and within seconds, Kiyotaka opened the door!<br>\r\n<br>\r\n...But there was something different about him. He looked a bit 'larger' than usual... \u201cWhere's bro?!\u201d He asked, impatiently. \u201cGrab him.\u201d demanded Kyoko, and so Sakura and Aoi grabbed ahold of his arms before he could shut and lock the door again. Kyoko began to examine him, while they were taking him to the cafeteria to sit him down and talk to him. \u201cHmm... Mental state... low. Reasoning... low. BMI... raised.\u201d Kyoko said before Makoto cut her off. \u201cWhat? How can you tell?\u201d he asked. Kyoko didn't even dignify him with a response, but instead just said \u201cHis BMI has raised by around 0,8. He's gained around 5 or so pounds, despite being locked in his room with no access to food or water.\u201d Kyoko said, unknowing of what Kiyotaka had actually done in there. After a bit more walking, they had arrived at the cafeteria, where they sat him down. \u201cAoi, Sakura... keep Kiyotaka from escaping back to his room. Makoto, find some answers. I'll alert the others.\u201d And before even hearing agreement from any of them, Kyoko was already gone. Makoto, confused as ever, decided to ask Kiyotaka...</span></div></div>",
+            "created":1477875720,
+            "id":2230660,
+            "title":"Kiyotaka's Coping"
+        },
+        "115":{
+            "author_id":"tintrue",
+            "author_name":"tintrue",
+            "choices":[
+                "Mondo Owada",
+                "Leon Kuwata",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More boys to choose from</span></div></span></div>",
+            "created":1395378000,
+            "id":1764227,
+            "title":"The list continues"
+        },
+        "1152":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "He wants an excuse to quit baseball",
+                "It's Monokuma's motive!",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How/Why does he gain?</span></div></span></div>",
+            "created":1397106000,
+            "id":1776730,
+            "title":"Leon Kuwata"
+        },
+        "11521":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "...he came up with an idea!",
+                "...he hurt himself trying to hard."
+            ],
+            "content":"<div class=\"\"><div> <span>//A.N. : This plotline will take place BEFORE the events of the first game! That means characters from both games and the novels and such are welcome!<br>\r\n<br>\r\nLeon Kuwata was a man with a plan. He got into Hope's Peak academy, a school guaranteed to give it's students success in all they do. How he got there was not a matter of grades. Paying attention in class was, after all, for wusses and nerds according to the boy. No, this heartthrob athlete got in because of his skills in baseball, a sport that came naturally to Kuwata yet bored him. That's right, the SHSL Baseball Star hated baseball. He would do anything to get out of that world and pursue the life of a musician.<br>\r\n<br>\r\nLeon often wondered what he could do to become a musician, or more importantly become NOT a baseball star. He was expected to be at all the games and he couldn't suck if he tried. So Leon started to think about things musicians can be that baseball stars can't. Perhaps a clue would lie in there. Leon thought. And pondered. And wondered. He wracked his mind until...</span></div></div>",
+            "created":1397106000,
+            "id":1776738,
+            "title":"Punk Rock is Better with a Belly"
+        },
+        "115212":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "At the Cafeteria..."
+            ],
+            "content":"<div class=\"\"><div> <span>Leon was never the best thinker. In fact, in trying to come up with an idea of getting out of baseball he hurt his head. Ah well, perhaps when this \"mutual killing\" whatever had ended and he actually started going to school he could figure something out. Until then he could just relax, or so he hoped. The screen on the wall of Leon's room lit up, showing that weird teddy bear who then made an announcement. \"All students please report to the cafeteria! All students to the cafeteria immediately, upupup....\" The screen shut off and Leon sighed. Totally lame. Well, he'd head there and grab a snack while listening to whatever bogus story this bear had to tell.</span></div></div>",
+            "created":1397797200,
+            "id":1781551,
+            "title":"...he hurt himself trying to hard."
+        },
+        "1152121":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Just eat up and bet on Monokuma lying.",
+                "Someone needs to be fattened... and they chose Leon?!?"
+            ],
+            "content":"<div class=\"\"><div> <span>Leon trudged to the cafeteria, not particularly excited to hear whatever this bear had to say. When he arrived everyone else had shown up. Ishimaru looked impatient so he sat down promptly. No need to piss of that guy. On top of the table was a surprisingly large feast, ranging from pastas to steaks to seafood to desserts. Monokuma was dancing about on top of the table, hoping from plate to plate. When Leon sat down he began to speak.<br>\r\n<br>\r\n\"Upupupu... alright you bastards, it's been a few days now and nobody has chosen to attempt to graduate yet!\" He said.<br>\r\n<br>\r\n\"That's because nobody here wants to ki-\" Mondo started yelling but was interrupted by a slab of meat thrown at his face by the bear.<br>\r\n<br>\r\n\"Anyways,\" the bear continued, \"I've decided to provide a little incentive. You teenagers these days are so superficial, caring so much about appearances and looks... well, almost all of you.\" A few glances were shot at Yamada, who's pants looked ready to give at any moment. \"So I've come up with a solution so you kids can learn not to be so shallow! I went through a lot of trouble to prepare this food for you, so be thankful!\"<br>\r\n<br>\r\nLeon was confused. \"Wait,\" he said. \"So you're trying to get us to kill each other by giving us grub?\"<br>\r\n<br>\r\nMonokuma chuckled. \"This is no mere \"grub\"! This stuff is loaded with as many calories as I could stuff in! Just one plate should pack on at least five pounds! And this is all you'll be getting to eat until one of you offs somebody! Upupupu....\"<br>\r\n<br>\r\nThere were murmurs across the room. Could he be serious? How is this possible? 5 pounds from one plate? Monokuma continued. \"However there is one way out! If one of you gains, lets say, 50 pounds more than anyone else gains, I'll let you eat the regular boring stuff again... unless of course you want to keep growing! You kids these days need to eat after all!\" With that, he jumped behind a counter and was gone. The students were stiff confused as to how this could happen, but the general consensus was agreed: </span></div></div>",
+            "created":1401858000,
+            "id":1806913,
+            "title":"At the Cafeteria..."
+        },
+        "1153":{
+            "author_id":"tintrue",
+            "author_name":"tintrue",
+            "choices":[
+                "Chihiro Fujisaki",
+                "Hifumi Yamada",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Yet more to choose</span></div></span></div>",
+            "created":1395378000,
+            "id":1764228,
+            "title":"The list goes on"
+        },
+        "11531":{
+            "author_id":"ragethief007",
+            "author_name":"ThievingRage",
+            "choices":[
+                "Chihiro bulks up his weight a little before training with Mondo",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You've chosen to go with Chihiro, good choice! So, how will he put on weight?</span></div></span></div>",
+            "created":1465275600,
+            "id":2160653,
+            "title":"Programmer Puts on Weight"
+        },
+        "11532":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Fattened by and or alongside another student",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does he gain?</span></div></span></div>",
+            "created":1395637200,
+            "id":1767197,
+            "title":"Hifumi Yamada"
+        },
+        "115321":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Leon!",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who in the school is capable of making this fat boy even fatter?</span></div></span></div>",
+            "created":1395637200,
+            "id":1767199,
+            "title":"Fattened by and or alongside another student"
+        },
+        "1153211":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Post Despair School Life",
+                "School Life of Mutual Killing (Or School Mode)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Post despair or during the game?</span></div></span></div>",
+            "created":1395637200,
+            "id":1767200,
+            "title":"Leon!"
+        },
+        "12":{
+            "author_id":"tintrue",
+            "author_name":"tintrue",
+            "choices":[
+                "Hajime Hinata",
+                "Nagito Komaeda",
+                "Kazuichi Souda",
+                "Gundam Tanaka",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your boys here</span></div></span></div>",
+            "created":1395378000,
+            "id":1764236,
+            "title":"Get choosing"
+        },
+        "123":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Just your average case of overeating",
+                "He wants to impress Ms. Sonia",
+                "It's Monokuma's Motive"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why does Souda gain?</span></div></span></div>",
+            "created":1421211600,
+            "id":1917800,
+            "title":"Kazuichi Souda"
+        },
+        "1232":{
+            "author_id":"chubby22",
+            "author_name":"Chubby22",
+            "choices":[
+                "Continue do what he is doing ",
+                "Talk to Teruteru",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kazuichi Soda woke after a whole day of stuffing himself for Ms. Sonia. He had been stuffing for a whold week now. He walked over to his scale to check his weight. He had to look over his tiny gut to see he was, 170 pounds. He feet he needed to...</span></div></span></div>",
+            "created":1579606920,
+            "id":2776543,
+            "title":"He wants to impress Ms. Sonia"
+        },
+        "125":{
+            "author_id":"tintrue",
+            "author_name":"tintrue",
+            "choices":[
+                "Nekomaru Nidai",
+                "Fuyuhiko Kuzuryuu",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Get picking your man of choice</span></div></span></div>",
+            "created":1395378000,
+            "id":1764243,
+            "title":"More to pick"
+        },
+        "1251":{
+            "author_id":"threecyou",
+            "author_name":"OctoBear",
+            "choices":[
+                "New training routine?",
+                "Someone secretly starts feeding him as a \"prank\".",
+                "Other options?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will he gain weight?</span></div></span></div>",
+            "created":1477112400,
+            "id":2227108,
+            "title":"Nekomaru Nidai"
+        },
+        "12511":{
+            "author_id":"threecyou",
+            "author_name":"OctoBear",
+            "choices":[
+                "He's trying to bulk up for something.",
+                "He's gaining with someone else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it for himself or someone else?</span></div></span></div>",
+            "created":1477171920,
+            "id":2227120,
+            "title":"Sumo Training?"
+        },
+        "125112":{
+            "author_id":"threecyou",
+            "author_name":"OctoBear",
+            "choices":[
+                "Souda",
+                "Someone else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's he gaining with? (Or for?)</span></div></span></div>",
+            "created":1477172040,
+            "id":2227121,
+            "title":"He's gaining with someone else?"
+        },
+        "1251122":{
+            "author_id":"shadowreader",
+            "author_name":"Shadow",
+            "choices":[
+                "Akane Owari",
+                "someone else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about for Akane Owari?<br>\r\n</span></div></span></div>",
+            "created":1578784680,
+            "id":2772427,
+            "title":"Someone else?"
+        },
+        "12512":{
+            "author_id":"threecyou",
+            "author_name":"OctoBear",
+            "choices":[
+                "Teruteru Hanamura",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who wants to fatten him up?</span></div></span></div>",
+            "created":1477171680,
+            "id":2227110,
+            "title":"Someone secretly starts feeding him as a \"p..."
+        },
+        "12513":{
+            "author_id":"threecyou",
+            "author_name":"OctoBear",
+            "choices":[
+                "Monokuma has something to do with it?",
+                "Pre-Despair or Non-Despair AU?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these additional options?</span></div></span></div>",
+            "created":1477171800,
+            "id":2227115,
+            "title":"Other options?"
+        },
+        "1252":{
+            "author_id":"threecyou",
+            "author_name":"OctoBear",
+            "choices":[
+                "Just a typical food addiction.",
+                "Peko secretly starts feeding him.",
+                "More choices? "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does he gain? </span></div></span></div>",
+            "created":1477026000,
+            "id":2226756,
+            "title":"Fuyuhiko Kuzuryuu"
+        },
+        "12521":{
+            "author_id":"threecyou",
+            "author_name":"OctoBear",
+            "choices":[
+                "Someone is feeding him.",
+                "He doesn't notice how much he's eating."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is somebody trying to feed him or is he gaining on his own by accident?</span></div></span></div>",
+            "created":1477172280,
+            "id":2227123,
+            "title":"Just your average food addiction?"
+        },
+        "125211":{
+            "author_id":"threecyou",
+            "author_name":"OctoBear",
+            "choices":[
+                "Teruteru",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's trying to make him bigger?</span></div></span></div>",
+            "created":1477172340,
+            "id":2227124,
+            "title":"Who?"
+        },
+        "1252112":{
+            "author_id":"threecyou",
+            "author_name":"OctoBear",
+            "choices":[
+                "Monokuma",
+                "Other options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about...</span></div></span></div>",
+            "created":1477172400,
+            "id":2227125,
+            "title":"More"
+        },
+        "12521122":{
+            "author_id":"threecyou",
+            "author_name":"OctoBear",
+            "choices":[
+                "Nidai",
+                "More choices."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?</span></div></span></div>",
+            "created":1477172460,
+            "id":2227126,
+            "title":"Again more."
+        },
+        "12523":{
+            "author_id":"threecyou",
+            "author_name":"OctoBear",
+            "choices":[
+                "He wants to get bigger.",
+                "Pre-Despair or Non-Despair AU?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these?</span></div></span></div>",
+            "created":1477112400,
+            "id":2227105,
+            "title":"More choices? "
+        },
+        "1253":{
+            "author_id":"tintrue",
+            "author_name":"tintrue",
+            "choices":[
+                "Teruteru Hanamura",
+                "Byakuya Togami",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Get choosing already</span></div></span></div>",
+            "created":1395378000,
+            "id":1764244,
+            "title":"Even more"
+        },
+        "12531":{
+            "author_id":"ragethief007",
+            "author_name":"ThievingRage",
+            "choices":[
+                "Taste testing his creations gets a bit out of hand",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You've picked the Ultimate Chef. Marvelous! Now, how will he pack on the pounds? </span></div></span></div>",
+            "created":1467349200,
+            "id":2173851,
+            "title":"Ultimate Chef Gains Weight"
+        },
+        "12532":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "He is actually SHSL Gainer!",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do we want the fattest guy in the second game to get fatter?</span></div></span></div>",
+            "created":1395637200,
+            "id":1767094,
+            "title":"Byakuya T(w)ogami"
+        },
+        "125321":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "School Mode",
+                "Mutual Killing"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>For clarification's sake, do we want this to be in school mode where Monokuma's been defeated, or regular despair inducing mutual killing?</span></div></span></div>",
+            "created":1395637200,
+            "id":1767097,
+            "title":"He is actually SHSL Gainer!"
+        },
+        "1253211":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Inside the cabin...",
+                "Later encounters with the other guys"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hinata-kun... what is your BMI?\"<br>\r\n<br>\r\nHinata stared awkwardly at the massive boy in front of him for a moment. \"My what?\"<br>\r\n<br>\r\n\"You heard me. Your BMI. Body Mass Index. Or if you know your body fat percentage, that works too.\"<br>\r\n<br>\r\n\"N-no, I don't know either of those. Why would I?\"<br>\r\n<br>\r\n\"You... don't?\" Togami loomed over his skinny inferior. \"How else are you supposed to measure your worth?\"<br>\r\n<br>\r\n\"But isn't being bigger... bad for you?\" Hinata gave Togami a questioning look.<br>\r\n<br>\r\n\"Nonsense. With proper care one can be much larger than I and function perfectly, not that I care to go through all that optional effort. Being of large stature is a reflection on oneself. It reflects their leadership, their self esteem, in every bit their worth. Anyone of high rank like me would know that. I wouldn't expect a commoner like you to get it at first, but it will become apparent as we acquaint ourselves that my size shows my superiority over you.\" Togami looked very serious.<br>\r\n<br>\r\n\"Really...? Well I never thought of it that way...\" Just then Hinata's stomach grumbled. \"Oh, speaking of, I should go get lunch.Later, Togami-kun.\" Hinata ran off towards the mess hall, trying to shake the other's works out of his head... although the thought stuck with him.<br>\r\n<br>\r\nMeanwhile Togami, or the boy pretending to be him, lumbered off towards his cabin, rather pleased with himself. You see, the boy (and it is a boy now) pretending to be Byakuya Togami was accepted into Hope's Peak Academy as the SHSL Imposter, although he had another self granted title: The SHSL Gainer/Encourager. Many times before the boy had slipped in and out of society assuming the role of a powerful individual and many times before he had shows off his flowing girth with pride. Each time, he planted the thought in the heads of those he encountered that gaining weight and being fat was not only acceptable, but a rewarding experience to strive for. He saw it as opening their eyes to the truth.<br>\r\n<br>\r\nNow with this new opportunity, the boy knew that his greatest triumph was about to come. To open the eyes of the other boys on the island would be a truly gratifying experience. Of course, along the way he could stand to gain a few more pounds himself. \"No sense letting this big boy starve,\" he thought to himself as he entered his cabin, squeezing a handful of flab pouring over his belt.</span></div></div>",
+            "created":1395637200,
+            "id":1767111,
+            "title":"School Mode"
+        },
+        "12532112":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Hanamura it is!",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does he meet? Teruteru Hanamura could be useful...</span></div></span></div>",
+            "created":1395637200,
+            "id":1767187,
+            "title":"Later encounters with the other guys"
+        },
+        "125321121":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "...asked Komaeda where to find Hanamura",
+                "...decided to spend time with Komaeda"
+            ],
+            "content":"<div class=\"\"><div> <span>After spending some alone time in his cabin, Togami set out to find the boy most useful to his cause on the island, SHSL Cook (or chef, so he says) Teruteru Hanamura. Knowing the boy's love of the culinary arts he was more than likely in the kitchen, but at the same time he might be at the beach flirting with anything moving with sexual parts. Togami sighed in contempt. He hated having to walk more than he had to. It wasted calories that should be sitting idly by waiting to contribute to his regal stomach.<br>\r\n<br>\r\n Fortunately for him, on the way to the hotel he encountered a boy with white fluffy hair. Nagito Komaeda was pacing the grounds, muttering to himself about something Togami couldn't quite make out, and somehow was unnerved by but it was probably just him. Komaeda saw Togami across the way and beckoned him over. Togami...</span></div></div>",
+            "created":1395637200,
+            "id":1767191,
+            "title":"Hanamura it is!"
+        },
+        "1253211211":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Sure, help me find Hanamura-kun!",
+                "No, that is alright. You may go now."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Togami-kun! How are you?\" Komaeda shouted at him to get his attention. Wearily, Togami trudged over to him.<br>\r\n<br>\r\n\"I am well, not that it is of your concern. Have you seen Hanamura-kun? I have important matters to discuss with him.\" Togami was curt, seeing little reason to talk with this boy as of yet. With a body like his it's doubtful that his metabolism is anything but fast, fast, fast and Togami would rather be working with the boys he could shape more easily. The rest would follow.<br>\r\n<br>\r\n\"Hmm...\" Komaeda wondered as if he had been asked a complex question. Then he looked up at Togami with a smile and replied \"First, I have a question.\" Togami scowled.<br>\r\n<br>\r\n\"Fine... make it quick. I don't have all day.\"<br>\r\n<br>\r\n\"What is it that you hope to gain from this experience?\" Komaeda asked. Togami couldn't help but smirk at the irony of his question. There was indeed a lot for him to \"gain,\" and a more for the others to \"gain\" then they knew. Togami thought for a moment and answered truthfully.<br>\r\n<br>\r\n\"I hope to shape the people here and to make them better off. I hope to create a lasting impact on their lives that they will be thankful for together. I hope to help them,\" he responded.<br>\r\n<br>\r\n\"What an amazing hope. Surely someone with your talent will be able to do so with ease! As for Hanamura-kun, I have not seen him, but I suspect he may be by the beach or in the kitchen,\" Komaeda said honestly. Togami rolled his eyes, seeing that this had gotten him absolutely nowhere. \"I can help you search for him though! It would be an honor to help you on the path of achieving your hope.\" Togami pondered this for a moment. It didn't seem like all lights were on upstairs for the boy, although only enough that someone like him could notice. And the thought of an assistant was enticing. Still, it would be risky to reach out to the boy so soon. Maybe it would be smarter to dismiss him.</span></div></div>",
+            "created":1395637200,
+            "id":1767195,
+            "title":"...asked Komaeda where to find Hanamura"
+        },
+        "12532112111":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "...turn the corner and confront the two heavy boys",
+                "...watch from afar... for now"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I suppose you may help. Go search for him at the beach. If you find him there direct him towards the kitchen. I'll look there and if he's not there I suppose I'll grab something to eat. I'm feeling peckish.\" Togami said. Komaeda grinned eerily and ran off in the direction of the beach. Something was not right about that boy... Anyways, Togami entered the hotel and trudged up the stairs. Oh, how he hated stairs. Once his ideals rule the world stairs will be the first to go. He climbed up to the cafe and entered the kitchen adjacent to it. Inside he found Hanamura facing away from the door, one hand in his pants and the other searching through cabinets for ingredients.<br>\r\n<br>\r\n\"Hanamura-kun.\" Twogami announced his presence. The chubby chef pulled his hand out and turned to him, blushing a little.<br>\r\n<br>\r\n\"Y-yes? Can't you see I'm busy? A chef must know the environment he works in!\" He said, a little hostile. Then he warmed up a little. \"Unless there was something... that you needed?\"<br>\r\n<br>\r\nTogami rolled his eyes. Perhaps this would be too easy. \"It would appear you were getting to know your \"environment\" quite well, but the kitchen remains half explored. Anyways, I have a question for you. This may seem personal but it's for the good of all of us I assure you.\"<br>\r\n<br>\r\n\"Ask away, I'm open to anything!\" The chef responded, lewd as always.<br>\r\n<br>\r\n\"What are your sexual preferences? It would appear as if you like both men and women.\"<br>\r\n<br>\r\nHanamura could feel his prick bounce when Togami said that. \"Yes, Togami-kun I am bisexual. My services are open to all who seek them!\"<br>\r\n<br>\r\n\"I see... and what types of people are you attracted to?\"<br>\r\n<br>\r\nNow Hanamura began to sweat as he was getting worked up. \"Oh, all kinds! Tall, short, skinny, muscular, fat, feminine, masculine, anyone who seeks shall be rewarded!\" Togami smiled.<br>\r\n<br>\r\n\"It is good... to see that a man with your talent can appreciate fat... Especially when your talent is what helps create it.\" He patted his belly, sinking his fingers in as Hanamura watched, mouth watering...<br>\r\n<br>\r\n\"Y-yes, it is...\" He reached out a hand and grabbed Togami's love handle, kneading it gently. \"It is good to see a man who can appreciate being larger... I wish more men could! Women too!\" He chuckled.<br>\r\n<br>\r\n\"So then you are attracted to seeing people gain weight then?\" Togami said, letting him feel his belly. Ironically, Hanamura was like putty in his hand when he was in Hanamura's hand.<br>\r\n<br>\r\n\"Don't tell anyone, but between you and me, it's my favorite part of being a chef...\" He grabbed Togami's belly with both hands, squishing it gleefully like a small child with a new toy. \"I remember seeing these burly truck drivers come in and gorge on food, leaving with swollen bellies, and when they would come back a few weeks later they'd have gained quite a lot, even to the point of their bellies pressing against their wheels! And seeing them get fat off of my food... it is sublime!\" Hanamura could feel his heart and cock leaping, loving that he is able to tell this boy about his fantasies.<br>\r\n<br>\r\nThis was confirmation enough for Togami. He told Hanamura his plans to fatten everyone on the island, including himself and Hanamura signed on immediately. However, what they didn't know was that just around the corner, Komaeda was listening in on their lusty scheming. Komaeda chose to...</span></div></div>",
+            "created":1401858000,
+            "id":1806922,
+            "title":"Sure, help me find Hanamura-kun!"
+        },
+        "125321121112":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Byakuya finds someone to convert",
+                "Hanamura gets to work fattening someone up",
+                "Komaeda hatches a plan to fatten up the boys."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Amazing...\" Komaeda murmured to himself as he peered from around a corner. He listened in for a few more moments to hear the rest of the two plump boys' discussion.<br>\r\n<br>\r\n\"Fatten up all of them? Really?\" Hanamura's voice cracked, and Komaeda could practically hear his cock dripping despite not being able to see<br>\r\n<br>\r\n\"Yes. Well mostly the men, the girls I could care less about.\"<br>\r\n<br>\r\n\"Oh, so the mighty Byakuya Togami plays for the other team?\"<br>\r\n<br>\r\n\"D-don't touch me like that, you greasy insect! It's not like that. Even someone like you could not understand the intricacies and refinements of pure obesity in a man.\"<br>\r\n<br>\r\n\"Well you could always show me...\"<br>\r\n<br>\r\n\"I said do not touch me! Just follow my lead and you'll have plenty other bellies on this island to torment, not that I'd let you have your way if this is how you'll act.\"<br>\r\n<br>\r\n*sigh* \"I suppose I'll just have to do so. Just leave the cooking to me. And you?\"<br>\r\n<br>\r\n\"I will bring the minds of the others here into the light and educate them properly. They will understand what they are all lacking as people, both in mannerisms and size, and thus our world will benefit from the influence which will be spread through them.\"<br>\r\n<br>\r\n*yawn* \"Did you say something? Well, I've got more cooking to do than I thought! So if you'd be so kind to leave me to my work, unless you DO have something else you need from me-\"<br>\r\n<br>\r\n\"No that will be quite alright. Goodbye, Hanamura-kun.\"<br>\r\n<br>\r\nKomaeda giggled as he slipped away quietly. He wished he could have seen exactly what was going on between the two... The pale boy began to shake with excitement as he ran off into his room, staggering through the door. Once he was in he locked the door, sunk to the ground and let out a screeching laugh. His eyes grew wide and crazed as he wheezed, clutching his sides and grinning maniacally. After a moment of this he calmed down enough to speak to himself. \"So... that's it, huh? It all makes sense now... The great Byakuya Togami, truly a name that could foster an ultimate hope, and such a beautiful hope it is! Enlightening the world! A new age of peace and understanding! So beautiful!\" Tears began to stream down his bloodshot eyes and he clutched at his concave stomach, feeling his ribs. \"And of course, such a beautiful hope is something that is far from a wretch like me. So thin and frail, utterly useless to this cause of hope. Still, I must do my part! Mark my words, Byakuya Togami, your beautiful hope will come into fruition!\"</span></div></div>",
+            "created":1465534800,
+            "id":2161905,
+            "title":"Beloved Hope in Obesity"
+        },
+        "1253211211121":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Kazuichi Souda",
+                "Nekomaru Nidai",
+                "Gundam Tanaka"
+            ],
+            "content":"<div class=\"\"><div> <span>Munching on a piece of fried chicken Hanamura insisted on making for him last minute (he said it was helping the cause, and Togami smiled in agreement), Togami's heavy footsteps thundered downstairs from the restaurant to the poolside. That is where he saw one of his classmates lounging in a chair, soaking up some rays. \"Pathetic...\" Togami thought to himself as he analyzed the boy. So little fat content. Togami thought he would continue his campaign with this one.<br>\r\n<br>\r\n\"Would you mind if I joined you?\"<br>\r\n<br>\r\n\"Huh?\"<br>\r\n<br>\r\n\"I said, would you mind if I joined you? We should learn to get along if we're stuck here.\"<br>\r\n<br>\r\n\"Oh, alright...\" The boy eyed him warily. Togami laid himself down upon a chair next to his classmate. The chair creaked and threatened to snap beneath his girth. Togami felt sick to his stomach seeing a boy with so little fat to him, but it was his duty to show him the error of his ways.<br>\r\n<br>\r\n\"So then...\" Togami thought to himself. \"What is the best way to convert...\"</span></div></div>",
+            "created":1465534800,
+            "id":2161907,
+            "title":"Byakuya finds someone to convert"
+        },
+        "12532112111213":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "A week later, Togami selects a new target",
+                "Hanamura gets to work on Tanaka",
+                "Komaeda does a thing"
+            ],
+            "content":"<div class=\"\"><div> <span>\"What is the best way to convert Gundam Tanaka?\" Togami thought to himself. \"Let's see...\" His mind categorically went through everything he knew about the boy. Before he could open his mouth to initiate conversation, however, he spotted something.<br>\r\n<br>\r\nA large ball of fluff crawled out from Tanaka's scarf, which was still wrapped around his chin and neck. \"Is that a rodent?\"<br>\r\n<br>\r\nTanaka's eyes flared up, but his body remained still. \"You dare... you dare refer to the mighty Cham-P as a mere rodent?!? Mortal, count your many blessings that his wrath has not already undone your pitiful existence.\" Tanaka then went on to introduce his four hamsters, the \"Dark Devas of Destruction\".<br>\r\n<br>\r\n\"Oh, I see. My apologies.\" Togami said bluntly. \"And why are your hamsters sunbathing?\"<br>\r\n<br>\r\nTanaka closed his eyes and smirked. \"So, you wish to know of their arcane arts? I shall tell you this. The Devas, as Dark as they are, must be allowed to duel against the accursed sun for enough time to keep it from descending upon this plane, wreaking fiery destruction upon your souls. My body shall be their battlefield as they harvest it's fell energies to use against it's very being. You are welcome.\"<br>\r\n<br>\r\n\"Oh...\" Togami was able to translate most of that. \"So you believe you wield power?\"<br>\r\n<br>\r\n\"Power beyond your comprehension.\" The breeder nodded. \"Again, count your blessings that you have withstood my energies for this long. Most would have fled in terror by now.\"<br>\r\n<br>\r\n\"It's a game to him, the poor fool.\" Togami thought. \"He's created a delusion to cover his insecurities and inability to make friends. Well if you can't beat him, join him.\" He then, for the first time, tilted his flabby head to face Tanaka, who winced away, darting his eyes towards his hamsters. \"Perhaps,\" he said, \"it is because my power rivals yours?\"<br>\r\n<br>\r\n\"You...\" Tanaka gripped the handles of his chair fiercely. \"Who are you to challenge the mighty wizard Gundam Tanaka? Speak, knave, where do you find this illusion which leads you to blackened doom?!?\"<br>\r\n<br>\r\n\"He's cornered, he won't move while his hamsters are resting on him.\" Togami thought. He then continued to speak. \"No, no that's silly. My power is beyond yours. Watch.\" He held out a hand, lightly stained with the breading of the fried chicken, and Cham-P leapt off of Tanaka onto Togami's round body and scurried into his hand to nibble the crumb before Tanaka could see it.<br>\r\n<br>\r\n\"I-impossible!\" Color drained from Tanaka's already drained face<br>\r\n<br>\r\n\"If it were impossible it would not be happening.\" Togami then took a breath to say one of the more ridiculous sentences he'd have to say in his life. \"You see, the humanoid form you have taken upon yourself cannot hold as much power as mine. Any common spellslinger should know that a larger body means a greater conduit for magic, holy or dark. At the end of the day, you could never match me because you, my friend, are small and I am large. Even the mighty Cham-P finds himself attracted to the power in my bosom.\" It was true, Cham-P had nuzzed under one of Togami's moobs.<br>\r\n<br>\r\n\"Im... impossible.... Cham-P... you...\" Tanaka took a gulp. Clutching his scarf and scooping up his other hamsters, he sat up in his chair. \"Please, teach me this power.\" The look in his eyes was fearful. \"Teach is to me or I will burn you from within!\"<br>\r\n<br>\r\n\"There'll be no need for immolation of any kind.\" Togami waved a dismissive, plump hand at Tanaka. \"Just consume more calories than you burn every day and your... humanoid form... will expand, allowing for more power. Do you think that someone like me, Byakuya Togami, would have anything but the most powerful body?\"<br>\r\n<br>\r\n\"I-I must go. The lecherous one will be of use to me!\" Tanaka ran off towards the restaurant.<br>\r\n<br>\r\n\"Well that wasn't so hard.\" Togami thought. \"One down, five to go. But there will be time for that. Let Tanaka plump up, set an example. Perhaps Hinata will also have learned from our previous discussion. Of course, I always have room for growth...\" Togami smirked to himself as he absentmindedly fondled his gelatinous underbelly. \"Just gotta stay mobile... for now...\"</span></div></div>",
+            "created":1465534800,
+            "id":2161924,
+            "title":"Target for fattening: Gundam Tanaka"
+        },
+        "125321121112133":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Togami selects a new target",
+                "Togami decides to play catch up with his own weight"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I've got an idea!\" Nagito Komaeda said as he grabbed Hajime Hinata's hand. \"Let's explore that island with the amusement park!\" And with a stupid grin, Komaeda began dragging Hinata in that direction.<br>\r\n<br>\r\n\"W-wait up, Komaeda, my stomach hurts!\" Hinata moaned. He had just eaten a hefty breakfast of bacon, sausage, buttered toast, eggs, more bacon and more sausage, all courtesy of Hanamura. While the restaurant was mysteriously stocked with food every mealtime, everyone agreed the ultimate chef's cooking could not be beaten, and the chef seemed to believe in LARGE portions. Hinata also noticed that he had been snacking more recently. It's like food always made it's way towards him. His pants had been feeling tighter, and being the cynical guy he was, Hinata just knew it wasn't because they shrunk. But then again, Togami told him that there are worse things than putting on a few pounds. No, Togami told him there are few things better. But does that really mean so much?<br>\r\n<br>\r\nAnyways, back to being dragged. Hinata staggered behind Komaeda who was giggling strangely. Komaeda was one of the few people Hinata could really stand on the island. Everyone was so bizarre, and it seemed the luckster was the only sane one at times. Plus, Komaeda always seemed to be happy to share whatever snack he had with him, not that Hinata noticed that he ALWAYS had a snack to share...<br>\r\n<br>\r\nKomaeda let Hinata catch up and the two walked along the central isle. \"This'll be great! An amusement park! I haven't been yet, but I bet there'll be tons of rides and games!\" Komaeda sighed with his hands behind his back. \"I'm glad I could spend this day with you.\" He smiled at Hinata.<br>\r\n<br>\r\n\"Oh, yeah.\" Hinata smiled back. He hadn't noticed until they locked eyes that he had been staring at Komaeda. \"Do you think they've got fried dough?\" He asked. \"Wait, why am I thinking of food? I just ate!\" He laughed.<br>\r\n<br>\r\n\"I'm sure they have plenty. And cotton candy, and popcorn!\" Komaeda grinned.<br>\r\n<br>\r\nThe friends were about to step onto the bridge to the amusement park when a whiny voice yelled from behind. \"HEEEEY!\" Both boys winced as Kazuichi Souda ran up behind them. \"Hey guys, what's up? Where 'ya going?\" Souda wrapped an arm around each of them.<br>\r\n<br>\r\n\"To the dentist.\" Hinata rolled his eyes to emphasize his sarcasm. \"I dunno, what's in this direction?\"<br>\r\n<br>\r\n\"Oh, wow! We're going to the amusement park! Cool! Well hurry up, guys! Don't leave me waiting!\" And with that, Souda grabbed both of them and ran across the bridge.<br>\r\n<br>\r\n\"Haven't I been dragged enough today?\" Hinata internally groaned. \"Wait, was he waiting for us as an excuse to go here? Doesn't he have friends?\"<br>\r\n<br>\r\nThe amusement park was grand, and the lack of lines made it even moreso. Hinata and Komaeda learned they could get away from Souda by getting onto a roller coaster or anything with motion, as it would make the mechanic violently sick. But the longer he tagged along Hinata honestly wished more illness on him. The three did have fun together competing in some games. It turned out Souda's understanding of the rigged mechanics of the games helped them win some great prizes.<br>\r\n<br>\r\n\"Oh, cool!\" Komaeda said, waving some tickets in the air. \"Free ice cream! Let's go get some.\"<br>\r\n<br>\r\n\"Eh, I'm not super hungry.\" Souda said.<br>\r\n<br>\r\n\"But if we wait, it'll melt!\" Komaeda wandered off towards the ice cream stand, and Hinata followed. Of course, Souda had to follow as well.<br>\r\n<br>\r\n\"Wait, wouldn't the ice cream be free here anyways?\" Hinata pondered. Any doubts in his mind were ignored once he saw the menu though. There was every flavor imaginable, and sizes ranging from small to large to gallon! <br>\r\n<br>\r\nKomaeda slipped behind the counter. \"Ice cream! Get your ice cream here!\" He called out, jokingly. Hinata thought this was stupid, but laughed involuntarily. \"Oh, you there! Ice cream for the lovely customer?\" Komaeda leaned towards Hinata.<br>\r\n<br>\r\n\"L-lovely?\" Hinata's face reddened.<br>\r\n<br>\r\n\"Oh, s-sorry.\" The comic grin slid off Komaeda's face. \"Should I not have said that?\"<br>\r\n<br>\r\nThe two averted eyes for a moment of awkward silence. \"Strawberry.\" Hinata said.<br>\r\n<br>\r\n\"Huh?\"<br>\r\n<br>\r\n\"The lovely customer wants strawberry.\" Hinata rolled his eyes, this time playfully.<br>\r\n<br>\r\n\"Y'all make a cute couple.\" Souda grinned.<br>\r\n<br>\r\n\"Sh-shut up!\" Hinata felt like smacking the mechanic, who he'd actually forgotten was present. What blissful ignorance.<br>\r\n<br>\r\nMoments later Komaeda emerged from the back of the stand with a large tub of strawberry ice cream. \"One gallon jug of strawberry ice cream for the lovely customer!\"<br>\r\n<br>\r\n\"Gallon jug?\" Hinata was startled by the amount of ice cream brought before him.<br>\r\n<br>\r\n\"Yeah, you didn't say what size, and I figured all our supplies here seem to be unlimited, so why not? We could eat ice cream all day every day if we wanted!\" Komaeda's eyes flashed mischievously, but Hinata did not notice.<br>\r\n<br>\r\n\"True, but I still can't eat all this.\" Hinata shook his head.<br>\r\n<br>\r\n\"Oh, sure you can! I have faith in you.\" Komaeda tossed him a spoon. \"Wanna make a bet?\"<br>\r\n<br>\r\n\"If we do you'll win.\" Hinata narrowed his eyes, spoon in hand.<br>\r\n<br>\r\n\"And you'll win too, since there'll be a ton of ice cream in your tummy!\" Komaeda winked.<br>\r\n<br>\r\nHinata sighed in defeat and began to dig into the ice cream. It was remarkably sweet and creamy. Very high quality. Hinata perked up and began to dig in with greater gusto. Meanwhile, Komaeda watched happily as he absentmindedly licked on a pistachio cone and Souda rummaged for his own gallon jug.<br>\r\n<br>\r\n\"This is beautiful.\" Komaeda thought to himself. \"Hinata's making so much progress! Oh, Togami will be proud! And Souda's coming along for the ride too. I can see their hopes growing with their waistlines!\" Komaeda kept himself entertained with an internal monologue until, remarkably, Hinata finished all of his ice cream.<br>\r\n<br>\r\n\"Ooooohhhh...\" Hinata leaned back. \"I don't feel very good...\" He winced in pain and clutched at his stomach. \"I think... I think I'm gonna...\"<br>\r\n<br>\r\n*POP*<br>\r\n<br>\r\nThe button from Hinata's pants flew off, bouncing off Souda's forehead with an audible *PING*. \"Oh, shit! My pants!\"<br>\r\n<br>\r\nKomaeda took a breath to contain his excitement. He then responded to the situation as he had planned all along. \"Good job!\"<br>\r\n<br>\r\n\"Good job? I just popped my fucking pants! This island's making me fat, damnit.\" Hinata poked at his swollen gut, really feeling for the first time some layer of fat on it.<br>\r\n<br>\r\n\"Good for you.\" Komaeda patted Hinata on the back.<br>\r\n<br>\r\n\"How is this a good thing?\" Hinata was visibly annoyed, his brow furrowed and his ahoge rigid.<br>\r\n<br>\r\n\"Well, I've always thought of fat as a symbol of success. I mean, look at Togami.\" Komaeda said. Hinata's mind flashed to what Togami had told him. Komaeda continued, \"And to be honest, I've struggled with my weight for many years, being so underweight. So you should really be thankful you're able to put on weight at all,\" He said bluntly.<br>\r\n<br>\r\n\"I've never... thought of it like that.\" Hinata looked Komaeda in the eye. These moments when Komaeda was solemn, Hinata thought he could see a little deeper into him. There was some beauty to it. \"But what if people don't like it? And make fun of me or something?\"<br>\r\n<br>\r\n\"Don't be silly, Hinata, there's just more of you to appreciate.\" Komaeda smiled, looking him back in the eye and poking playfully at his stomach, causing Hinata to belch.<br>\r\n<br>\r\n\"Er, sorry.\"<br>\r\n<br>\r\n\"Don't be! Togami'll be proud to hear.\"<br>\r\n<br>\r\n\"Yeah, I suppose he will be!\" Hinata leaned back again, letting the sun shine on his face and his panic adrenaline ease out of his system. Komaeda's hand rested on his gut, but the pressure felt nice. Hinata loved this moment, so simple.<br>\r\n<br>\r\nSouda then wrecked the moment. \"Hey guys, I finished ice cream too!\" The mechanic's gut looked tight under his jumpsuit as he jumped up. \"Oh... crap... shouldn't have done that!\" A noxious Souda ran off towards a bush, giving Hinata and Komaeda time to slip away and enjoy each other's company alone for a few more hours before returning for a greasy, carb filled dinner courtesy of the ultimate chef. Togami noticed Hinata's pants during that meal, and Hinata relented, laughing it off and admitting to having pigged out. Togami approved. </span></div></div>",
+            "created":1465534800,
+            "id":2161943,
+            "title":"Because why not Komahina?"
+        },
+        "1253211211121332":{
+            "author_id":"averageguy85",
+            "author_name":"Idontknowwhattoputhere",
+            "choices":[
+                "Togami sends him off, blue balled as ever.",
+                "Togami \"rewards\" Hanamura's good work."
+            ],
+            "content":"<div class=\"\"><div> <span>Teruteru Hanamura was beyond his average level of excitement when he found a letter in his mailbox addressed to him from his co-conspirator Togami. The chef was getting admittedly impatient with their progress on fattening up the island's men. So far, Hinata was sporting an adorable muffin top, looking about 20-30lbs heavier than when he first came to the island, and Gundam Tanaka had been eating quite a lot more than usual, but it was hard to tell if he had gained anything under his heavy clothes. Hanamura was glad to hear he was actively trying to grow now but his vegan diet provided him with an added challenge. Ah, well, more olive oil, a high emphasis on carbs and sugars, and of course larger portion sizes. Hanamura was able to set him up with a meal plan sure to increase his \"power level\". Souda was beginning to show the first signs of weight gain, simply by tagging along Hinata enough, but that was simply collateral \"damage\". Togami said he had greater plans for that one.<br>\r\n<br>\r\nBut in the mean time, the chef was getting Super High School Level blue-balled! None of the girls on the island would put out for him and the guys... it was hard to tell who among them would even be into men. None? Some? ALL? Eh, he'd try for them anyways, but to no avail. So when the letter he picked up read \"10:00 pm. Restaurant. Be prepared and make more food than you think you will need.\" Hanamura felt ready to cream his pants. But no, he would save his libido. Someone was going to need his services tonight, and he had a feeling he knew who.<br>\r\n<br>\r\nHanamura started cooking that day in the early afternoon. He spent most of his days cooking, which he did not mind, although he did revel in his break times when he'd get to spend time on the beach or in his room relieving himself of his... tension... He had to keep up the flow of food to make sure there was ALWAYS an abundance. Togami told him specifically that if there's too much food, people won't be shy about eating too much. And there's no way of knowing the exact calorie count of the food the restaurant stocked itself with, so it's best to be armed with meals he knows are oozing with juicy oils and carbs.<br>\r\n<br>\r\nAs the sun set and the night air cooled the heated space, Hanamura leaned back and surveyed his work, proudly. There were several roast pigs, a few bowls of different buttery pasta, a large bucket of homestyle fried chicken next to a pile of mashed potatoes (with thick gravy and butter), a few cakes, a light salad (for aesthetic), and a few jugs of whole milk. There was some more stored away but the chef picked out what he could arrange tastefully, and of course the meal would be more complete in separate courses.<br>\r\n<br>\r\nAt 10:00 pm exactly, Togami lumbered up the stairs, to find himself greeted by wafts of greasy cooked flesh, candle light and Tertuteru Hanamura, casually leaning against a table with a rose in his mouth. Togami internally sighed. \"I knew he'd do this. But if he didn't have the hope, he wouldn't put in half the effort,\" he thought.<br>\r\n<br>\r\nHanamura plucke the rose out of his mouth and bowed, handing it to Togami. \"Ah, my good friend Togami. How lovely to see you this evening! May I say you look dashingly bloated?\"<br>\r\n<br>\r\n\"You may because it is true, but let's not get distracted from the task at hand. I've called you here to address something that's been of dire concern to me... my own weight.\"<br>\r\n<br>\r\n\"Yeah, you're still fat as a pig on a farm, so what?\" Hanamura eyes him up, imagining the obese young man rolling in mud and eating out of a trough.<br>\r\n<br>\r\n\"Of course I am, but I must not be complacent as I lead our friends into decency. During the past few weeks since we've started I've gained four pounds. Four.\"<br>\r\n<br>\r\n\"Congratulations! Each one adds to your grandeur...\" Hanamura winked and reached over to give Togami's underbelly a jiggle, but his hand was slapped away.<br>\r\n<br>\r\n\"No, you fool, given our circumstances with seemingly unlimited food and little restriction, I should be able to gain fifty pounds in this time! I've been too focused on leading the others. So now we're going to take some time to focus on my own heft. I assume you've prepared more than this snack?\" He skeptically eyed the feast before him.<br>\r\n<br>\r\n\"Yes, of course, but what's one meal to a belly like that?\" Hanamura asked.<br>\r\n<br>\r\n\"Trust me.\" Togami looked Hanamura in the eye seriously. \"I've gained ten pounds of fat from one sitting before. And that was without the aid of the ultimate chef. I'll dispose of this first course, you go get the rest. Don't worry about presentation, just try to keep up. And if you were an idiot and failed to make enough, keep preparing more things for me to consume. Can you do that?\"<br>\r\n<br>\r\nHanamura nodded eagerly and dashed over to pick up a cart full of baked goods, not once taking his eye off Togami. In one second flat he snatched the salad and expertly downed it all in one gulp, not bothering to chew. He ferociously grabbed a spoon and lifted up a bowl of pasta bigger than his head and began shoveling in down his throat, clearing it fast enough to make Owari's head spin. He then lifted an entire roast pig and bit into it, ignoring utensils entirely. His teeth tore into the crispy flesh, letting the juices spill out onto his greedy, puffy face. With the knowledge of a biology expert, he ripped through all the parts of the pig with edible meats in three minutes, all the while Hanamura gently massaged his own crotch.<br>\r\n<br>\r\n\"I've never seen such hunger, sexual or otherwise. No, hs hunger... it is sexual. More than that, it's primal. He needs to eat. He needs to grow fatter...\" Hanamura's knees shook as Togami tossed aside the stripped carcass and grabbed the mashed potatoes, disposing of them like he did the salad, and then moving on to the fried chicken. Suddenly realizing that he'd have to step up his game, Hanamura ran off to fetch his third cart, filled to the brim with fresh crab, lobster, baked fish, and other seafoods, many of them combined into thick, buttery casseroles. Hanamura planned on saving this dish for last, as the smell of fish always made him think of the stink of unwashed genitalia (a plus in his book). He then leapt into the kitchen to improvise another course, but by the time he had finished it Togami was nearly done with the seafood.<br>\r\n<br>\r\nHanamura nearly fainted when he saw Togami. His stomach had doubled in size to accommodate all the food he had eaten. It shredded through his already tight shirt and his pants were splitting at every seam. Roll after roll of bouncing blubber flowed forward, filling his lab and oozing both under the table and onto it as his gut took up more and more space in front of him. Hanamura shakily delivered the last course to Togami, who didn't even acknowledge him. He then sat down across from Togami and watched. The kitchen was out of food, so he'd have to end after this.<br>\r\n<br>\r\nIt was amazing how with every bite, Hanamura could see Togami's flesh shake. The moobs, each one the size of his head, rippled up and down with each labored breath. Stretch marks ran along every piece of his skin, each one a trophy for another pound. Hanamura wanted to lick each and every one of them. He wanted to sink his finders into that belly and drown in it. Hanamura reached a hand under his own shirt to grab his paunch and knead it between his fingers, imagining how much softer and flabbier Togami's must be.<br>\r\n<br>\r\nTwenty more minutes past, and Togami licked the last platter clean. He leaned back, his stomach surging in front of him like putty, even flopping onto the ground! With a sigh, Togami's face returned to it's normal calm. \"So,\" he said. \"That meal was satisfactory. I assume you enjoyed the show?\"<br>\r\n<br>\r\nHanamura could barely bring himself to nod, he was practically shaking. \"H-how... how do you eat so much? Your stomach... it's on the floor! What are you?\" There was fear in his voice, but also unbridled excitement.<br>\r\n<br>\r\n\"Thank you, I've trained long and hard and done many experiments to acquire a stomach that can expand the way mine does. Sadly it will not stay this way, the food will digest and become fat.\" Togami slapped his exposed thigh, which wobbled gleefully.The young man was now fully nude, each article of clothing having shred off at some point.<br>\r\n<br>\r\n\"C-can you walk?\"<br>\r\n<br>\r\n\"Perhaps, but I will require your help. Carry my stomach while we return to my room.\"\"<br>\r\n<br>\r\n\"What?\"<br>\r\n<br>\r\n\"I said-\"<br>\r\n<br>\r\n\"No I heard you... Yes sir!\" Hanamura crawled under the table and grabbed onto Togami's belly, pressing himself into it and eliciting a belch from the heir. \"So soft...\" he moaned as Togami used all his strength to kick back from the table. With carefuly coordination, the two brought Togami's freakishly round form to a standing position. Hanamura slid under his sweating stomach, letting it crush him as he struggled to stand. And that's where he saw it.<br>\r\n<br>\r\nTogami's cock was actually fully erect, but he could only see the tip poking out from the fat pad. It was a beautiful trifecta of blubber, his fat pad and each thigh coming together to squeeze around the penis. Hanamura knew if he went in to lick that beautiful head he might never want to return. He almost did, but he heard a stern \"Don't you dare, I WILL crush you!\" from above. So he resigned to turning around, for now, and laboriously taking step by step, supporting Togami's belly. Togami had to guide Hanamura, as his stomach completely overtook the boy, blocking his vision. Thankfully because it was late in the evening, nobody was out to see the spectacle.<br>\r\n<br>\r\nIt took a full half hour to waddle Togami back to his quarters and settle him down on his reinforced steel bed. Laying down, his bloated stomach reached his toes and lifted up five feet. Hanamura wished it would stay that way in the morning and only grow. He wanted to make Togami immobile, a fat pig for his own pleasure. He knew Togami would enjoy it too, if only he didn't have his mission. But for now...<br>\r\n<br>\r\n\"So then, now that we're comfortable together...\" Hanamura purred and began to rub into Togami's stomach. \"Shall I sate your other needs?\"</span></div></div>",
+            "created":1465707600,
+            "id":2163104,
+            "title":"Togami decides to play catch up with his own we..."
+        }
+    },
+    "info":{
+        "author_id":"tintrue",
+        "author_name":"tintrue",
+        "brief_description":"Spoilers will be here",
+        "created":1395422400,
+        "description":"<td align=\"left\" class=\"norm\">Spoilers will be here</td>",
+        "id":1982851,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1579606920,
+        "modified":1579606920,
+        "pretty_title":"Dangan Ronpa Male Weight Gain"
+    }
+}

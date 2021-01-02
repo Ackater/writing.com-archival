@@ -1,0 +1,854 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Angestellter",
+                "Ein 18-j\u00e4hriger Kunde",
+                "Ein 35-j\u00e4hriger Kunde",
+                "Ein 25-j\u00e4hriger Kunde mit einigen Freunden"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Jemand steht vor dem Etablissement und wird es gleich betreten. Dieser jemand ist... <br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nJemand anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327048,
+            "title":"Vor dem Etablissement"
+        },
+        "11":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "M\u00e4nnlich",
+                "Weiblich"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ist dieser jemand m\u00e4nnlich oder weiblich?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327050,
+            "title":"Angestellter"
+        },
+        "111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Transformatrix",
+                "Gehilfe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was ist seine Aufgabe?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327063,
+            "title":"M\u00e4nnlich"
+        },
+        "1111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ist sie erfahren, oder ist das ihr erster Arbeitstag?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nErfahren<br>\r\n<br>\r\nErster Arbeitstag</span></div></span></div>",
+            "created":1336164180,
+            "id":1329540,
+            "title":"Transformatrix"
+        },
+        "1112":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ist das heute sein erster Arbeitstag?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nDer erste Arbeitstag<br>\r\n<br>\r\nEr ist schon erfahrener Gehilfe</span></div></span></div>",
+            "created":1335848400,
+            "id":1327068,
+            "title":"Gehilfe"
+        },
+        "112":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Transformatrix",
+                "Gehilfin"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was ist ihre Aufgabe?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327061,
+            "title":"Weiblich"
+        },
+        "1121":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ist sie erfahren, oder ist das ihr erster Arbeitstag?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nErfahren<br>\r\n<br>\r\nErster Arbeitstag</span></div></span></div>",
+            "created":1336164180,
+            "id":1329539,
+            "title":"Transformatrix"
+        },
+        "1122":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Der erste Arbeitstag"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ist das heute ihr erster Arbeitstag?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nSie ist schon erfahrene Gefhilfin</span></div></span></div>",
+            "created":1335848400,
+            "id":1327067,
+            "title":"Gehilfe"
+        },
+        "11221":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ein junger Mann in den sp\u00e4ten zwanzigern und eine Frau in den F\u00fcnfzigern"
+            ],
+            "content":"<div class=\"\"><div> <span>Stefanie steht nerv\u00f6s vor dem Etablissement. Heute ist ihr erster Arbeitstag als Gehilfin einer Transformatrix, oder auch - williges Verwandlungssubjekt. Sie machst den Job auf 400-Euro-Basis - jedes Wochenende \u00fcbernimmt sie immer sonntags eine zw\u00f6lf-Stunden-Schicht. Gefunden hat sie das Angebot am Schwarzen Brett der Uni an der sie studiert. Als Studentin ist sie notorisch knapp bei Kasse und kannt daher etwas Zusatzeinkommen gut gebrauchen. <br>\r\nAls Erstsemester hat sie noch keine guten Chancen auf einen HiWi-Job, zudem ist sie zierlich gebaut, deswegen ist k\u00f6rperliche Arbeit nichts f\u00fcr sie. Der Job als Gehilfin hier scheint ihr am besten geeignet, auch wenn sie schon viele \"Horrorstories\" dar\u00fcber geh\u00f6rt hat, in was f\u00fcr... Dinge die Gehilfen standardm\u00e4\u00dfig verwandelt werden. Ihre Freundinnen waren partout dagegen und fanden die blo\u00dfe Idee, als Spielball f\u00fcr andere Menschen herzuhalten, noch dazu noch f\u00fcr Menschen mit derart komischen Vorlieben, einfach nur eklig. <br>\r\nSie musste ihnen teilweise zustimmen, ist aber trotzdem fest entschlossen, den Job zumindest auszuprobieren. Wenn es zu verr\u00fcckt wird, kann man ja immer noch k\u00fcndigen. <br>\r\nAlso betrittt sie das Geb\u00e4ude und meldet sich mit fester Stimme bei der Dame am Empfang an. <br>\r\nDiese schenkt ihr ein freundliches L\u00e4cheln und bittet sie, ihr in den Mitarbeiter-Aufenthaltsraum zu folgen. Nachdem sie diesen Raum betreten hat, sieht sie, dass schon Leute hier sind. Und zwar...<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nJemand anderes</span></div></div>",
+            "created":1335848400,
+            "id":1327080,
+            "title":"Der erste Arbeitstag"
+        },
+        "112211":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Sie h\u00f6rt sich die Erkl\u00e4rung an"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ich bin Stefanie und die neue Gehilfin.\" sagt sie etwas nerv\u00f6s. <br>\r\nBeide blicken auf und begr\u00fc\u00dfen sie freundlich. <br>\r\n\"Hallo, ich bin Eloise und werde heute deine Operatorin sein.\" sagt die \u00e4ltere Frau in einer angenehmen Stimme, w\u00e4hrend sie ihr die Hand sch\u00fcttelt. Dann zeigt sie auf den jungen Mann \"Und das hier ist Tom, er ist neben dir der andere Gehilfe, der mir heute zur Seite steht.\" <br>\r\nStefanie sch\u00fcttelt auch Tom die Hand. Beide haben eine freundliche Aura, das kann dir am ersten Tag sicher n\u00fctzlich sein. Eines wundert sie allerdings. Die \u00e4ltere Frau hat sich selbst als \"Operator\" bezeichnet, das bedeutet, dass sie heute die Transformatrix spielen wird, und Tom den anderen Gehilfen. Allerdings Stefanie immer gedacht, eine Transformatrix w\u00e4re eine Art Domina. Und wie eine Domina sieht diese leicht untersetzte, etwas dickliche Dame mit dem unterschenkellangen Rock und dem runden Gesicht \u00fcberhaupt nicht aus. Noch dazu sollen Gehilfen eigentlich immer gut aussehende Frauen sein - und auch wenn Tom durchaus nicht schlecht aussieht, er ist ein <i>Mann</i>. <br>\r\nDie Verwunderung hat sich wohl auf ihrem Gesicht verraten, denn Eloise l\u00e4chelt sie fr\u00f6hlich an und fragt sie dann. \"Du fragst dich jetzt garantiert, wie wir beiden,\" sie zeigt auf Tom und sich \"eine Transformatrix und eine Gehilfin sein k\u00f6nnen, stimmt's?\" <br>\r\nStefanie sp\u00fcrt, wie sie rot im Gesicht wird, denn schlie\u00dflich hat sie ihre Gedanken so leicht verraten. Trotzdem nickt sie zustimmend. <br>\r\nEloise l\u00e4chelt weiter. \"Also entweder kann ich dir das jetzt erkl\u00e4ren... oder aber, wir zeigen es einfach direkt beim n\u00e4chsten und deinem ersten Kunden. Er h\u00e4tte eigentlich erst in einer halben Stunde seinen Termin, aber er ist wohl extrem vorfreudig. Also, was w\u00e4re dir lieber?\" <br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nLearning by Doing hat ihr schon immer besser gefallen</span></div></div>",
+            "created":1335848400,
+            "id":1327083,
+            "title":"Ein junger Mann in den sp\u00e4ten zwanzigern und ei..."
+        },
+        "1122111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Direkt mit arbeiten anfangen",
+                "Vorher \u00dcben"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Es w\u00e4re sch\u00f6n, wenn du mir das erkl\u00e4rst.\" sagt Stefanie erleichtert f\u00fcr das Gl\u00fcck, dass ihr Eloise diese Gelegenheit bietet. <br>\r\nDiese nickt verst\u00e4ndnisvoll. \"Gut, dann werde ich das mal tun. Und wenn ich schon dabei bin, kann ich direkt auch noch einmal deine Arbeitsumst\u00e4nde erl\u00e4utern. Das wurde dir zwar vermutlich schon bei der Vertragsunterschreibung mitgeteilt, aber es kann nicht schaden, wenn noch mal eine von uns Feldarbeitern all den Quatsch richtig stellt, den dir die Heinis aus dem Management h\u00f6chstwahrscheinlich verklickert haben.\" <br>\r\nDies bringt Tom und auch Stefanie zum Lachen, und Eloise ist merklich erfreut, dass sie ihre Nervosit\u00e4t etwas auflockern konnte. <br>\r\n\"Also... wie du ja wei\u00dft, sind wir ein Etablissement, welches sich auf Verwandlungen spezialisiert. Daher k\u00f6nnen wir auch jeden anstellen, der einigerma\u00dfen alle Tassen im Schrank hat. Egal wie h\u00e4sslich jemand ist - wir k\u00f6nnen ihn oder sie ja in eine optisch ansprechende Schale verpacken. Und das werden wir auch nachher direkt tun, bevor wir den Kunden treffen. Jetzt fragst du dich sicher, warum dir diese einfache Antwort nicht selbst gekommen ist-\" f\u00e4hrt Eloise weiter fort und betrachtet s\u00fcffisant Steffanies Gesicht, welches wieder die Farbe einer \u00fcberreifen Tomate annimmt. \"-aber aus irgendeinem Grund kommt diese Idee kaum einem. Das ist wohl eines der ungel\u00f6sten R\u00e4tsel der Menschheitsgeschichte.\" <br>\r\n\"Daher k\u00f6nnen auch so Menschen wie ich-\" sie zeigt auf ihren leicht f\u00fclligen K\u00f6rper \"-die Rolle einer Transformatrix \u00fcbernehmen. M\u00fcssen sogar, denn es gibt nicht wirklich viele Menschen, die das n\u00f6tige Knowhow besitzen.\" <br>\r\nStefanie zieht die Augenbrauen hoch. Eigentlich hat sie gedacht, dass jeder ein Verwandlungsger\u00e4t bedienen kann. Sonst w\u00e4re es ja all diesen Million\u00e4ren auch nicht m\u00f6glich, sich ein privates zuzulegen!\" <br>\r\n\"Ich wei\u00df, was du jetzt denkst.\" f\u00e4hrt Eloise fort. \"Privat darf jeder Depp ein Verwandlungsger\u00e4t benutzen. Aber was wir tun, ist gewerblich. Und da gelten, so verr\u00fcckt das sein mag, andere Regeln. Deswegen bin ich auch hier angestellt. Eine treue Hausfrau, die rein zuf\u00e4llig einen Master in Hochenergiephysik besitzt.\" <br>\r\nStefanie schaut sie fassungslos an. Mit so einem Abschluss sollte sie in der Industrie doch Unmengen verdienen k\u00f6nnen! \"Warum arbeitest du dann hier, wenn du so hochqualifiziert bist?\" platzt es ihr heraus, und sofort will sie sich f\u00fcr diese Frage selbst Ohrfeigen. Aber Eloise ist offensichtlich nicht beleidigt. <br>\r\n\"Nun ja, ich k\u00f6nnte, wenn ich wollte... einerseits werde ich hier auch nicht wirklich schlecht bezahlt. Mein Stundenlohn ist durchaus mit dem eines Ingenieurs mit mehrj\u00e4hriger Berufserfahrung vergleichbar. Aber ich m\u00f6chte mich halt um meine Familie k\u00fcmmern und nebenbei noch etwas Geld verdienen. Als Physikerin h\u00e4tte ich kaum Zeit daf\u00fcr, deshalb habe ich hier angeheuert.\" <br>\r\nEigentlich dachte Steffanie, dass sie in so einem Etablissement von den Angestellten beneidet wird, da man als Studentin sicherlich einen h\u00f6heren Bildungsstandard hat als diese. Aber offensichtlich ist es genau umgekehrt. Sie blickst Tom an. Wenn Eloise einen Master besitzt, was ist dann er? Er hat offensichtlich ihren Blick bemerkt, denn freundlich meint er: <br>\r\n\"Falls du dich wunderst, was ich mache, ich arbeite auch auf 400-Euro Basis hier. Ich bin auch Student wie du, nehme ich an, oder?\" als du nickst f\u00e4hrt er fort. \"Ich mache gerade meinen Master in Psychologie, da ist sowas der perfekte Ort, um mein Wissen ein bisschen zu vertiefen. Ich krieg hier ja alle m\u00f6glichen Fetische zu sehen!\" grinst er. \"Und was studierst du?\" <br>\r\n\"Maschinenbau, im ersten Semester.\" antwortest Stefanie. <br>\r\nEloise r\u00e4uspert sich. \"So, nachdem die Vorstellungen gekl\u00e4rt sind, noch einiges zur Arbeit an sich. Wie bereits erw\u00e4hnt, verwandeln wir uns in ansprechende Damen, bevor wir den Kunden treffen. Die Arbeit selbst ist recht einfach. Ich werde so gut wie s\u00e4mtliche Kommunikation mit dem Kunden abwickeln. Ihr beide seid lediglich eine Art Diener und redet nur, wenn ihr angesprochen werdet. Und wenn, dann macht deutlich, dass ihr lediglich eine Art <i>Objekt</i> seid, das der Kunde verwandeln kann, wie er will. Illusion ist bei uns alles. Es SIND technische Ger\u00e4tschaften, die diese Verwandlungen m\u00f6glich machen, aber wir werden die Illusion erzeugen, dass es sich um Magie handelt. Daher ist das Ger\u00e4t auch wie ein Zauberstab geformt.\"<br>\r\nTom kennt das offensichtlich schon, denn er schaut gelangweilt an die Decke. Aber Stefanie h\u00f6rt Eloise gebannt zu. <br>\r\n\"Es kann sein, dass euch der Kunde fragt, ob ihr mit der Verwandlung, die er vorgeschlagen hat, einverstanden seid. Ihr werdet IMMER zustimmen. Betrachtet es als rhetorische Frage. Am besten \u00fcberlegt ihr euch eine Standardantwort wie 'Ich bin hier, um Ihnen zu dienen, werter Kunde.' Die Verwandlungen m\u00f6gen manchmal komisch oder sogar komplett eklig sein, aber das geh\u00f6rt dazu. Egal was, euch wird nichts passieren, darauf passe ich schon auf. Wenn ihr damit nicht klarkommt, solltet ihr am besten gehen. Wie sieht es aus?\" sie betrachtet Stefanie durchdringend. <br>\r\nDiese schluckt, nickt dann aber. \"Ja, darauf bin ich verbereitet.\" <br>\r\n\"Gut.\" macht Eloise befriedigt. \"Praktisch sieht es so aus, dass ich einen von euch in die Dienerin Silber und den anderen in die Dienerin Gold verwandel. Warum diese Namen wirst du nachher sehen. Eine der beiden, Silber oder Gold, je nachdem, wird dann immer den Kunden abholen und in den Verwandlungsraum bringen, wo ich warten werde. Die andere wird derzeit auf einem kleinen Podest neben dem Eingang stehen und in eine Goldstatue verwandelt sein. Und die Abholerin wird sich, wenn sie den Kunden zu mir gebracht hat, zu ihr gesellen.\" <br>\r\nStefanie schluckt. In eine Statue! Wie das wohl sein wird. Etwas mulmig wird ihr schon, aber sie nickt um Eloise zu signalisieren, dass sie die Ank\u00fcndigung kommentarlos verdaut hat. <br>\r\nZufrieden macht Eloise weiter. \"Dort werdet ihr beiden als Statuen warten, w\u00e4hrend ich die W\u00fcnsche des Kunden abkl\u00e4re. Vielleicht m\u00f6chte nur er verwandelt werden. In dem Fall werdet ihr beiden nicht ben\u00f6tigt und ich werde euch nachdem der Kunde befriedigt gegangen ist wieder zur\u00fcckverwandeln. Wenn doch, m\u00fcsst ihr seine W\u00fcnsche erf\u00fcllen.\" <br>\r\n\"Und was ist, wenn er mehr als zwei Diener ben\u00f6tigt?\" m\u00f6chte Stefanie wissen. <br>\r\n\"Oh, daf\u00fcr gibt es eine einfache L\u00f6sung.\" schaltet sich auf einmal Tom wieder ein. \"Nennt sich Quantenmechanische Korrelation... oder, Frau Physikerin?\" <br>\r\nStefanie schaut Eloise planlos an. <br>\r\n\"Auch Quantenverschr\u00e4nkung genannt, ja. Das Verwandlungsger\u00e4t kann eine k\u00fcnstliche Quantenverschr\u00e4nkung erzeugen. Das bedeutet, dass man einen Menschen in mehrere verschiedene Formen verwandeln kann, welche er dann alle kontrolliert. Ich habe es selber noch nicht ausprobiert, aber es soll... interessant sein. Stimmt's, Tom?\"<br>\r\n\"Ohhhh ja...\" grinst dieser nur und Stefanie schluckt wieder. Aber egal was kommt, sie ist entschlossen, diese Arbeit wenigstens auszuprobieren. <br>\r\n\"So, das w\u00e4ren die Grundz\u00fcge.\" beendet Eloise ihre kleine Erkl\u00e4rung. \"Wie es jetzt weiter geht, liegt an dir. Normalerweise gehen wir erst mal mit Neulingen einen Tag lang \u00fcben.\" <br>\r\nStefanie schaut Eloise etwas verst\u00e4ndnislos an. \"\u00dcben? Inwiefern denn \u00fcben? Was \u00fcben?\" <br>\r\nEloise schmunzelt. \"Also erstmal nat\u00fcrlich die Gru\u00dfformeln und Verhaltensregeln als Dienerin. Aber haupts\u00e4chlich geht es darum, dass sich der oder die Neue an die Verwandlungen gew\u00f6hnt.\" <br>\r\n\"Wie... Verwandlungen? In was denn zum Beispiel?\" fragt Stefanie etwas nerv\u00f6s. <br>\r\n\"Also da gibt es Einiges... zuerst einmal nat\u00fcrlich die Verwandlung in die Dienerin. Die Statuenverwandlung auch. Dann noch einigerma\u00dfen Normales Zeugs, S\u00e4ugetiere wie Hunde, Katzen, Pferde. Aber nat\u00fcrlich auch verr\u00fccktere Sachen. Fische, Insekten, Monster. Gegenst\u00e4nde. Kleidung. Und so weiter...\" <br>\r\nEloise betrachtet Stefanies leicht geschocktes Gesicht. \"Ich sage es gleich, so etwas, auch der letzte Teil, ist hier in diesem Beruf <i>Standard</i>. Wenn du nicht darauf vorbereitet bist, lass. Noch kannst du k\u00fcndigen. Aber diese \u00dcbungen haben ihren Grund. Wir haben da schlechte Erfahrungen gemacht...\"<br>\r\n\"Oh ja!\" mischt sich jetzt Tom fr\u00f6hlich ein. An eine kann ich mich noch gut erinnern. Ich sag nur 'Qualle'. <br>\r\nEloise bedenkt ihn mit einem b\u00f6sen Blick, schaut dann aber wieder Stefanie an. <br>\r\n\"Wie sieht es aus, traust du es dir zu?\" <br>\r\nStefanie nickt. \"Ja... ich denke schon. Sonst h\u00e4tte ich mich ja auch nicht beworben. Nur... mir f\u00e4llt gerade auf, du hast vorhin 'Normalerweise' gesagt. Was ist denn heute nicht normal?\" <br>\r\n\"Ah ja, darauf wollte ich hinaus.\" meint Eloise. \"Praktisch gesehen hast du heute die Wahl. Es hat sich da ein kleiner Fehlerteufel im Terminplan eingeschlichen. Eigentlich sind heute wegen dir keine Sessions geplant, aber einem Kunden wurde versehentlich ein falscher Termin gesagt, n\u00e4mlich heute. Also entweder \u00fcben wir mit dir und sagen ihm ab. Oder aber, wenn du wirklich der Meinung bist, mit <i>jeder</i> noch so ekligen oder verst\u00f6renden Verwandlung klar zu kommen, dann kannst du auch direkt in den Job einsteigen. Learning by Doing quasi. F\u00fcr letzteres w\u00fcrden wir dir dann auch einen Zuschlag auszahlen, weil du ins kalte Wasser geschmissen wirst. Also, was sagst du?\" <br>\r\nStefanie \u00fcberlegt. Erst \u00fcben...? Oder gleich anfangen zu arbeiten? Als Studentin kann sie den Zuschlag eigentlich gut gebrauchen...<br>\r\nDann atmet sie tief ein. <br>\r\n\"Also ich w\u00fcrde gerne...\"</span></div></div>",
+            "created":1335848400,
+            "id":1327101,
+            "title":"Sie h\u00f6rt sich die Erkl\u00e4rung an"
+        },
+        "11221111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "ein neuer Kunde, der noch nie in so einem Etablissement war"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Das freut mich.\" strahlt Eloise. \"Diese Verwandlungs\u00fcbungen sind auch immer etwas langweilig. Zumindest f\u00fcr uns Alteingesessene. Die Neuen-\" sie funkelt Stefanie s\u00fcffisant an \"finden das immer extrem aufregend.\"<br>\r\n\"Und manchmal auch f\u00fcrchterlich eklig.\" mischt sich Tom ein. \"Kann ich \u00fcberhaupt nicht verstehen.\" f\u00fcgt er noch unschuldig hinzu.<br>\r\n\"Nachdem alles gesagt ist-\" macht Eloise weiter und holt einen mit Gold, Silber und Edelsteinen verzierten Stab, offensichtlich das Verwandlungsger\u00e4t, aus einem gepolsterten Etui \"k\u00f6nnen wir ja nun mit der Verwandlung beginnen. Oder?\"<br>\r\n\"Dann zuerst ich.\" meint Eloise fr\u00f6hlich und richtet den \"Zauberstab\" auf sich. Es gibt einen Blitz und im n\u00e4chsten Moment ist die leicht f\u00fcllige Hausfrau verschwunden. An ihrer Stelle steht eine vielleicht drei\u00dfigj\u00e4hre... Granate. Besser kann Stefanie es nicht beschreiben. Sie hat gro\u00dfe, allerdings nicht riesige Titten. Mindestens D oder vielleicht sogar Doppel D. Gekleidet ist sie in eine schwarze Lederkluft und oberschenkelhohe Stiefel mit mindestens sieben Zentimeter Absatz. Ihr Gesicht hat nichts mehr mit der Hausfrau von vorhin gemein, stattdessen scharf geschnittene und strenge Z\u00fcge und autorit\u00e4re, gr\u00fcne Augen. Doch am Auffallendsten ist ihre knallrote M\u00e4ne. <br>\r\n\"Schon etwas anders zu vorhin, was?\" fragt Eloise in einer befehlsgewohnten Stimme, die etwas tigerartiges an sich hat. \"So, jetzt du, Tom.\" sie richtet den Stab auf Tom und am n\u00e4chsten Moment steht an seiner Stelle ein leicht bekleidetes, aber absolut gro\u00dfartig aussehendes M\u00e4dchen. Sie tr\u00e4gt eine Art silbernen Sari und steht auf ebenfalls mindestens sieben Zentimeter hohen Sandalen-Heels. Ihre Haut ist mokkafarben und ihr wundersch\u00f6nes Gesicht ist eine Art Mischung aus kaukasischen und afrikanischen Merkmalen. Doch wie bei Eloise ist das Auffallendste an Toms neuer Gestalt sein Haar - die Farbe ist das reinste Silber und wie ein Wasserfall f\u00e4llt es bis zu ihrer H\u00fcfte. <br>\r\n\"Das mag ich immer am meisten!\" sagt sie in einer unglaublich melodischen Stimme, w\u00e4hrend sie grazil zum Spiegel in der Ecke des Raumes l\u00e4uft und ihren K\u00f6rper betrachtet. Stefanie kann gar nicht glauben, dass dieser Engel gerade noch ein Mann war. Aber viel Zeit zum Nachdenken bleibt ihr nicht. Eloise wendet sich ihr zu. <br>\r\n\"Bereit.\" <br>\r\n\"Ja.\" kr\u00e4chzt Stefanie etwas nerv\u00f6s, aber da blitzt es schon - und ihr K\u00f6rper hat sich ver\u00e4ndert. Zuerst einmal f\u00e4llt ihr auf, dass ihre Kleidung anders ist. Vorher hatte sie Sneakers an, auf einmal steht sie aber auf High Heels. Und ihre Bluse und Jeans sind ebenfalls verschwunden und haben einem goldenen Sari Platz gemacht. Schnell geht sie zum Spiegel und betrachtest sich. Was sie sieht, l\u00e4sst ihr fast die Kinnlade herunterfallen. Wie Tom ist sie... wundersch\u00f6n. Sie hat praktisch dieselbe Kleidung und denselben Haarschnitt wie er. Nur dass ihre Kleidung und Haare golden, statt silbrig sind. Zudem sind ihre Gesichtsz\u00fcge vollkommen anders. Im Gegensatz zu Toms afrikanischer Hautfarbe und Gesichtsz\u00fcgen hat sie asiatische! Ihr blickt ein perfektes Gesicht mit mandelf\u00f6rmigen Augen entgegen! Vorher war Stefanie durchaus keine h\u00e4ssliche Frau, man konnte sie als h\u00fcbsch, wenn auch nicht als sch\u00f6n bezeichnen. Aber gegen <i>das hier</i> h\u00e4tte sie genau so gut abgrundtief h\u00e4sslich sein k\u00f6nnen. Der Unterschied w\u00e4re nur marginal gr\u00f6\u00dfer gewesen.<br>\r\n\"Ach ja, eins noch.\" r\u00e4uspert sich Eloise in ihrer nun dominanten Stimme. \"Du bist von jetzt an Gold. Tom ist Silber. Und mich redest du mit \"Madam\" an, klar?\" <br>\r\n\"Sehr wohl, Madam.\" antwortet Stefanie, ehe sie sich versieht. Dieser Frau kann man ohnehin nicht wirklich anders antworten denkt sich Stefanie, w\u00e4hrend sie, gemeinsam mit Silber, Madam in das Verwandlungszimmer folgt. <br>\r\n\"So, bevor wir anfangen, noch etwas zu unserem Kunden. Er ist...\" <br>\r\n<br>\r\n<br>\r\nChoices: <br>\r\n<br>\r\nEin Stammkunde</span></div></div>",
+            "created":1335848400,
+            "id":1327114,
+            "title":"Ja"
+        },
+        "112211111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "du die Dienerinnen verwandelst",
+                "du mich verwandelst. "
+            ],
+            "content":"<div class=\"\"><div> <span>\"Von daher wird es f\u00fcr dich etwas einfacher. So kann ich quasi gleichzeitig dem Kunden und dir gleichzeitig alles zeigen.\" meint die Transformatrix. <br>\r\nStefanie schaut sich staunend in dem Verwandlungsraum um. Raum ist etwas kurz gegriffen. Das ist schon fast eine Turnhalle, mit festem Betonboden, allerdings mit mehreren T\u00fcren. Und am anderen Ende der Wand steht ein gewaltiger Thron auf einem hohen, marmornen Podest. Die Transformatrix bemerkt ihren Blick. <br>\r\n\"Wir brauchen die Gr\u00f6\u00dfe. Zum Beispiel sind Verwandlungen in Pferde sehr beliebt. In einem kleineren Raum w\u00e4re das problematisch. Und die T\u00fcren f\u00fchren noch in verschiedene andere R\u00e4ume... zum Beispiel eine Garderobe, falls der Verwandelte \"Dress-Up\" ohne den Zauberstab spielen will, oder ein Bett f\u00fcr Sex, oder aber auch einen gr\u00f6\u00dferen Pool, sofern er etwas werden m\u00f6chte, was nur im Meer vorkommt.\" <br>\r\nStefanie nickt, aber dies scheint der Transformatrix nicht zu gefallen. <br>\r\n\"Wie verh\u00e4ltst du dich deiner Meisterin gegen\u00fcber, <u>Gold</u>?\" fragt sie scharf. <br>\r\n\"Vielen Dank, Madam!\" sagt sie reflexartig und unterw\u00fcrfig und verbeugt sich. <br>\r\n\"Schon besser.\" ihre Stimme ist zwar immer noch dominant, hat aber ihre Sch\u00e4rfe verloren. \"Es ist wichtig, dass so etwas nicht beim Kunden passiert.\" <br>\r\n\"Jawohl, Madam.\" antwortet Stefanie und nun l\u00e4chelt Madam sie sogar ermutigend an. <br>\r\n\"Nun denn... Silber, hol den Kunden.\" <br>\r\n\"Jawohl, Madam.\" entgegnet diese und verschwindet nach einer Verbeugung sofort. <br>\r\n\"Gold, stell dich auf dieses Podest neben der T\u00fcr.\" wendet sie sich an Stefanie und zeigt auf einen kleinen, etwa zwanzig Zentimeter hohen Marmorblock rechts neben der T\u00fcr. <br>\r\n\"Jawohl, Madam.\" erwiderst diese und gehorcht. Sie erinnert sich daran, was Eloise ihr vorhin gesagt hat. Gleich wird Madam sie in eine Goldstatue verwandeln. Stefanies Herz schl\u00e4gt etwas schneller, aber sie versucht, sich nichts anmerken zu lassen. \"Soll ich eine bestimmte Pose einnehmen, Madam?\" fragt sie. <br>\r\n\"Stell dich einfach gerade hin, die Arme an die Seite, dein Kopf meinem Thron zugewandt.\"<br>\r\nStefanie nickt und die Transformatrix hebt den Zauberstab. Im n\u00e4chsten Moment blitzt es und dann - kannst Stefanie sich nicht mehr bewegen. Ihr K\u00f6rper ist auf einmal kalt... wie Metall... ihr K\u00f6rper ist Metall, aber es f\u00fchlt sich nicht unangenehm an. Sie atmet nicht mehr, aber irgendwie macht es ihr ebenfalls nichts aus. <i>Ich bin tats\u00e4chlich eine Statue aus purem Gold geworden!</i> denkt Stefanie ungl\u00e4ubig. Sie probiert, einen Muskel zu bewegen, irgendeinen. Aber es passiert nichts. Irgendwie kannst Stefanie allerdings dennoch sehen. <br>\r\nSie sieht, wie die Transformatrix ihr Werk, die goldene Statue Stefanie/Gold, wohlwollend betrachtet. Sie tritt n\u00e4her, l\u00e4sst eine Hand \u00fcber ihre goldene Oberfl\u00e4che fahren, nickt dann zufrieden und zieht sich auf ihren Thron zur\u00fcck. <br>\r\n<a rel=\"nofollow\" href=\"http://anonym.to/?http://fc06.deviantart.net/fs71/i/2012/050/7/0/almudena_38_by_jadenova-d4qazz5.jpg\" target=\"_blank\">http://anonym.to/?http://fc06.deviantart...</a><br>\r\nNach einigen Minuten, die Stefanie regungslos als Statue verbracht hat, kommt Silber mit dem Kunden zur\u00fcck. Er wirkt noch nerv\u00f6ser als Stefanie es vorhin war. Beim Eintreten betrachtet er sie, dann f\u00e4llt sein Blick jedoch auf die Transformatrix in ihrem Thron. Hinter ihm steigt Silber grazil auf das Podest und im n\u00e4chsten Moment ist auch sie eine Statue - nur aus Silber. <br>\r\nDer Kunde dreht sich um und betrachtet mit gro\u00dfen Augen erst Silber, und dann wieder Stefanie. Offensichtlich wird ihm jetzt erst klar, dass die goldene Statue die andere Gehilfin ist. <i>Oder fragt er sich etwa das Gegenteil, dass die Gehilfinnen Statuen sind?</i> denkt Stefanie sich. <br>\r\nDoch so oder so kann sie keinen Einfluss nehmen. Sie ist ja momentan nur ein Haufen immobiles Gold, wenn auch wohlgeformt. <br>\r\nNun erhebt zum ersten Mal die Transformatrix ihre Stimme. <br>\r\n\"Willkommen in meinem Reich, Sterblicher. Ich bin die Transformatrix und es liegt in meiner Macht, all deine W\u00fcnsche zu erf\u00fcllen. Was auch immer du begehren m\u00f6gest, ich werde es f\u00fcr dich erf\u00fcllen.\" <br>\r\nDer Kunde nickt nur nerv\u00f6s, und unbeirrt f\u00e4hrt die Transformatrix fort. Sie zeigt auf Silber und Stefanie/Gold am Eingang. <br>\r\n\"Dies sind meine Dienerinnen Silber-\" wieder blitzt es, und auf einmal steht Silber wieder in ihrer fleischlichen Form auf dem Podest und verbeugt sich vor dem Kunden. \"Meine Aufgabe ist es, Euch zu dienen, werter Sterblicher.\" <br>\r\nStefanie ahnt schon, was als n\u00e4chstes passiert. <br>\r\n\"-und Gold.\" beendet die Transformatrix ihren Satz und im n\u00e4chsten Moment ist auch sie wieder aus Fleisch und Blut. Wie vorhin Silber verbeugt sie sich und sagt laut \"Meine Aufgabe ist es, Euch zu dienen, werter Sterblicher.\" <br>\r\nStefanie ist froh, dass sie sich nicht verhaspelt hast und bem\u00fcht sich, eine m\u00f6glichst ausdruckslose Miene, genau wie Silber, aufzusetzen. Und das obwohl es sehr irritierend ist, pl\u00f6tzlich wieder zu atmen und einen <i>weichen, beweglichen</i> K\u00f6rper zu haben. Offensichtlich gelingt es ihr, denn der Kunde bringt nur ein gestottertes \"H-H-Hallo.\" hervor. <br>\r\nDie Transformatrix l\u00e4chelt ihn beruhigend an. <br>\r\n\"Ich habe besitze die ultimative Macht \u00fcber den K\u00f6rper. Ich kann dich oder meine Dienerinnen in alles verwandeln, was dir beliebt. In andere Menschen, M\u00e4nner, Frauen, Kinder, Ber\u00fchmtheiten, ungew\u00f6hnliche K\u00f6rper mit so vielen Armen oder Beinen wie einem Insekt - was dir beliebt. Oder aber auch in Tiere aller Art; S\u00e4ugetiere, Reptilien, Amphibien, V\u00f6gel, Insekten, Fische, Pflanzen, Fabelwesen. Ich besitze sogar die Macht, sie und dich in Gegenst\u00e4nde zu verwandeln. Statuen, wie sie meine beiden Dienerinnen waren. Kleidung, Gebrauchsgegenst\u00e4nde, Fahrzeuge. Trag mir deinen Wunsch auf, und ich werde ihn erf\u00fcllen!\" <br>\r\nDer Kunde schluckt angesichts der Myriaden von M\u00f6glichkeiten, die sich ihm bieten. <br>\r\n\"Du nimmst heute das erste Mal meine Gnade in Anspruch-\" f\u00e4hrt die Transformatrix fort. \"Wenn dir bei dem Gedanken an eine Verwandlung unwohl ist, kannst du mich auch bitten, meine Dienerinnen zu deinem Vergn\u00fcgen zu verwandeln. Was soll es sein? <br>\r\nDer Kunde schluckt, scheint sich aber entschieden zu haben. \"Ich m\u00f6chte, dass...\" <br>\r\n</span></div></div>",
+            "created":1335848400,
+            "id":1327130,
+            "title":"ein neuer Kunde, der noch nie in so einem Etabl..."
+        },
+        "1122111111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Tiere",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><div> <span>Stefanies Atem wird etwas schneller und ihre Pupillen weiten sich angesichts des Wunsches des Kunden. In was w\u00fcrde er sie verwandeln lassen? <br>\r\n\"Wie du w\u00fcnschst, Sterblicher.\" entgegnet die Transformatrix zufrieden. <br>\r\n\"In was soll ich sie verwandeln?\"</span></div></div>",
+            "created":1335848400,
+            "id":1327133,
+            "title":"du die Dienerinnen verwandelst"
+        },
+        "11221111111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sollen beide Dienerinnen verwandelt werden?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nJa<br>\r\n<br>\r\nNein</span></div></span></div>",
+            "created":1336164060,
+            "id":1329538,
+            "title":"Tiere"
+        },
+        "11221111112":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Gegenst\u00e4nde",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Keine Tiere, in was dann?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327135,
+            "title":"Etwas anderes"
+        },
+        "112211111121":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ja",
+                "Nein"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sollen beide Dienerinnen verwandelt werden?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327253,
+            "title":"Gegenst\u00e4nde"
+        },
+        "1122111111211":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In was f\u00fcr Gegenst\u00e4nde sollen sie verwandelt werden?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nKleidung<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1336164000,
+            "id":1329537,
+            "title":"Ja"
+        },
+        "1122111111212":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Silber",
+                "Gold"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welche Dienerin soll verwandelt werden?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327254,
+            "title":"Nein"
+        },
+        "11221111112121":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In was f\u00fcr einen Gegenstand soll Silber verwandelt werden?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nKleidung<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1336163940,
+            "id":1329534,
+            "title":"Silber"
+        },
+        "11221111112122":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Kleidung"
+            ],
+            "content":"<div class=\"\"><div> <span>\"K\u00f6nntest du Gold in Kleidung verwandeln?\" fragt der Kunde die Transformatrix. \"Nat\u00fcrlich nur, wenn sie nichts dagegen hat...\" f\u00fcgt er noch etwas kleinlauter hinzu, als ob er nicht glaubt, dass du so etwas zustimmen w\u00fcrdest. <br>\r\nStefanie wird ein bisschen flau im Magen angesichts der Tatsache, gleich ein Gegenstand zu sein. Andererseits war sie schon eine Statue, und es war nicht sonderlich schlimm.<br>\r\n\"Gold hat nichts zu m\u00f6gen oder nicht zu m\u00f6gen.\" entgegnet die Transformatrix. Sie ist lediglich eine Dienerin, ein Werkzeug, um deine W\u00fcnsche zu erf\u00fcllen. Sie wird alles tun, was du ihr befiehlst.\" <br>\r\nUm die Transformatrix zu best\u00e4tigen, verbeugt sich Stefanie mit emotionslose Miene:<br>\r\n\"Meine Aufgabe ist es, Euch zu dienen, werter Sterblicher.\" <br>\r\nDies scheint den Kunden zu \u00fcberzeugen. \"Dann verwandel sie bitte in... \"<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></div>",
+            "created":1335848400,
+            "id":1327257,
+            "title":"Gold"
+        },
+        "112211111121221":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Silber",
+                "Jemand anderen"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kleidung f\u00fcr wen?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327258,
+            "title":"Kleidung"
+        },
+        "1122111111212211":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ein Kleid",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was f\u00fcr Kleidung</span></div></span></div>",
+            "created":1335848400,
+            "id":1327263,
+            "title":"Silber"
+        },
+        "11221111112122111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In ein Cocktailkleid?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nJa, ein Cocktailkleid<br>\r\n<br>\r\nNein, etwas anderes</span></div></span></div>",
+            "created":1336107600,
+            "id":1329533,
+            "title":"Ein Kleid"
+        },
+        "11221111112122112":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was f\u00fcr Kleidung?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nSchuhe<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327264,
+            "title":"Etwas anderes"
+        },
+        "1122111111212212":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Wen dann...?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nDie Transformatrix<br>\r\n<br>\r\nJemand anderen</span></div></span></div>",
+            "created":1335848400,
+            "id":1327261,
+            "title":"Jemand anderen"
+        },
+        "112211111122":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Silber und Gold sollen zu einem neuen M\u00e4dchen verschmelzen",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Weder in Tiere, noch in Gegenst\u00e4nde, aber in was dann? </span></div></span></div>",
+            "created":1335848400,
+            "id":1327137,
+            "title":"Etwas anderes"
+        },
+        "1122111111221":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><div> <span>\"Ich m\u00f6chte, dass Silber und Gold zu einem neuen M\u00e4dchen verschmelzen. W\u00e4re das m\u00f6glich. W\u00e4rt ihr... beiden damit okay?\" fragt der Kunde in Stefanie/Golds und Silbers Richtung. <br>\r\nDer Vorschlag ist zum Gl\u00fcck so verr\u00fcckt, dass Stefanie praktisch einfriert. So kommt es dem Kunden vor, als ob sie, genau wie Silber, keine Reaktion gezeigt h\u00e4tte. <br>\r\n\"Meine Dienerinnen haben keine Entscheidungsgewalt.\" sagt da die Transformatrix. \"Sie sind nur dazu da, deine W\u00fcnsche zu erf\u00fcllen. Sie werden tun, was du oder ich ihnen vorschreiben. Nicht wahr, Silber, Gold?\" <br>\r\nSilber verbeugt sich und Stefanie folgt ihr schnell, hoffend, dass der Kunde ihre kurze Unentschlossenheit nicht bemerkt hat. \"Jawohl, Madam.\" sagen beide fast unisono und richten sich wieder auf. Zufrieden hebt die Transformatrix den Zauberstab. Doch in Steffanies Kopf rasen noch die Gedanken: <i>Zwei K\u00f6rper verschmelzen - wie soll das gehen? Sind dann Silber und ich gemeinsam in einem K\u00f6rper? Kontrollieren wir ihn abwechselnd? Werden wir eine ganz neue Person und unsere alten Pers\u00f6nlichkeiten verschwinden?</i><br>\r\nDoch w\u00e4hrend sie noch fieberhaft \u00fcberlegt, blitzt es auf - und dann stoppen ihre Gedanken abrupt. <br>\r\n<br>\r\nUm sofort wieder neu zu beginnen... nur... anders. <i>Gold hatte teilweise recht.</i> denkt sie sich, w\u00e4hrend du sie sich in ihrem neuen K\u00f6rper vor der Transformatrix und dem staunenden Kunden verbeugt. Die Verschmelzung hat tats\u00e4chlich eine neue Pers\u00f6nlichkeit hervorgebracht - nur besteht diese aus BEIDEN Pers\u00f6nlichkeiten von Silber UND Gold. <i>Und Silber hatte ebenso recht. Genau DAR\u00dcBER hat sich Gold den Kopf zerbrochen.</i> denkt sie leicht am\u00fcsiert weiter. Sie besitzt nun die Erinnerungen von beiden M\u00e4dchen, na ja, bzw. von Tom und Stefanie. <i>Mein Name w\u00e4r dann wohl Silbergold. Klingt... nett.</i> gr\u00fcbelt das neue M\u00e4dchen. Was an sich eine interessante Mischung ist. Denn einerseits wei\u00df sie durch ihre Tom-Komponente, wie solche Verwandlungs-Sessions ablaufen. Andererseits ist sie aber dennoch durch die Stefanie-Komponente <i>aufgeregt</i> auf das, was jetzt noch kommt. Nicht nerv\u00f6s aufgeregt, wie sie es vorhin war. Sondern begeisternd erwartend durch den Einfluss der Tom-Komponente. <br>\r\n<i>Also einerseits wei\u00df ich, wie alles abl\u00e4uft.</i> denkst sie sich. <i>Aber andererseits freue ich mich auch unglaublich auf das, was jetzt noch kommt. In was ich wohl noch verwandelt werde. Das k\u00f6nnte echt noch hochinteressant werden. Hoffentlich will der Kunde \"uns\" nicht wieder trennen.</i><br>\r\n\"Meine Aufgabe ist es, Euch zu dienen, werter Sterblicher.\" sagt Silbergold also zu dem Kunden, der scheinbar immer noch nicht fassen kann, dass sein Wunsch erf\u00fcllt wurde. Oder aber seine Fassungslosigkeit basiert auf ihrem Aussehen. Sie kann sich in einem Spiegel an der Wand sehen. Silbergolds Hautfarbe ist weder dunkelbraun, noch wei\u00df, sondern ein mattes, helles braun. Ihr Haar ist zweigeteilt, links hat sie silbernes Haar wie Silber, rechts goldenes Haar wie Gold. Ihre Kleidung ist ebenso aufgeteilt. Aber ihr Gesicht ist unglaublich. Wenn das Gesicht von Silber und Gold vorher das eines Engels war, dann ist Silbergolds nun das einer G\u00f6ttin, Sie besitzt Golds mandelf\u00f6rmige Augen und Silbers volle Lippen, in ihrem Gesicht mixen sich afrikanische und asiatische Z\u00fcge auf unglaubliche Art und Weise. <br>\r\n\"Ihr habt meine Macht gesehen, Sterblicher. Was w\u00fcnscht ihr, dass ich nun tue?\" fragt jetzt die Transformatrix. <br>\r\nDer Kunde dreht sich zu ihr um und \u00fcberlegt. Dann sagt er...<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nKannst du sie wieder trennen?<br>\r\n<br>\r\nEtwas anderes.</span></div></div>",
+            "created":1335848400,
+            "id":1327153,
+            "title":"Silber und Gold sollen zu einem neuen M\u00e4dchen v..."
+        },
+        "1122111111222":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Monster"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Etwa in... <br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327233,
+            "title":"Etwas anderes"
+        },
+        "11221111112221":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ja",
+                "Nein"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Soll die Transformatrix beide Dienerinnen in Monster verwandeln?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327234,
+            "title":"Monster"
+        },
+        "112211111122211":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sollen beide in dasselbe Monster verwandelt werden?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nJa <br>\r\n<br>\r\nNein</span></div></span></div>",
+            "created":1336107600,
+            "id":1329532,
+            "title":"Ja"
+        },
+        "112211111122212":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Silber",
+                "Gold"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welche Dienerin soll verwandelt werden?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327236,
+            "title":"Nein"
+        },
+        "1122111111222121":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Soll Silber in einen Xenomorph verwandelt werden?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nJa, Xenomorph<br>\r\n<br>\r\nNein, etwas anderes</span></div></span></div>",
+            "created":1336107600,
+            "id":1329530,
+            "title":"Silber"
+        },
+        "1122111111222122":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Das f\u00fcrchterlichste und ekligste Monster, das sich Madam vorstellen kann"
+            ],
+            "content":"<div class=\"\"><div> <span>\"K\u00f6nntest du Gold in ein Monster verwandeln?\" fragt der Kunde die Transformatrix. \"Nat\u00fcrlich nur, wenn sie nichts dagegen hat...\" f\u00fcgt er noch etwas kleinlauter hinzu, als ob er nicht glaubt, dass sie so etwas zustimmen w\u00fcrdest. <br>\r\nUnd innerlich ist Stefanie auch entsetzt. <i>Ein Monster? ICH? Aber ich hab fr\u00fcher bei Horrorfilmen immer schon Angst gehabt. Und ekle mich sogar schon vor Regenw\u00fcrmern!</i><br>\r\nAber sie gibt dein M\u00f6glichstes, ruhig zu bleiben. <br>\r\n\"Gold hat nichts zu m\u00f6gen oder nicht zu m\u00f6gen.\" entgegnet die Transformatrix. Sie ist lediglich eine Dienerin, ein Werkzeug, um deine W\u00fcnsche zu erf\u00fcllen. Sie wird alles tun, was du ihr befiehlst.\" <br>\r\nStefanie kratzt all ihr Selbstbewusstsein zusammen um ihre emotionslose Miene zu halten und verbeugt sich. <br>\r\n\"Meine Aufgabe ist es, Euch zu dienen, werter Sterblicher.\" best\u00e4tigt sie die Aussage der Transformatrix, ist sich innerlich aber \u00fcberhaupt nicht sicher. <br>\r\nAber der Kunde scheint \u00fcberzeugt. \"Dann verwandel sie bitte in... \"<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></div>",
+            "created":1335848400,
+            "id":1327241,
+            "title":"Gold"
+        },
+        "11221111112221221":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><div> <span>\"Dann verwandel sie bitte in das f\u00fcrchterlichste und ekligste Monster, das du kennst.\" sagt der Kunde zur Transformatrix. <br>\r\nWAS? kreischst Stefanie innerlich fast. Nicht nur ein Monster, sondern auch noch das schlimmste, das man sich vorstellen kann? Das sich MADAM vorstellen kann, die garantiert schon alle m\u00f6glichen krassen Viecher gesehen hat?<br>\r\nDoch trotz ihres Entsetzens zwingt sie sich, ruhig zu bleiben. Vielleicht wird es ja gar nicht so schlimm, redet sich Stefanie ein. Aber eigentlich glaubt sie nicht daran. Und zu allem Ungl\u00fcck scheint Madam den Vorschlag auch noch zu m\u00f6gen!<br>\r\n\"Oh, immer diese Sterblichen!\" ruft sie am\u00fcsiert. \"Du stellst mir eine Aufgabe. Nun denn. Dann werde ich diese Aufgabe erf\u00fcllen. Und zwar so, wie sie kein Sterblicher erf\u00fcllen k\u00f6nnte. Mit einer Kreatur, die du dir nicht mal in deinen schlimmsten Alptr\u00e4umen vorstellen k\u00f6nntest.\"<br>\r\nEs blitzt auf und pl\u00f6tzlich ist f\u00fcr Stefanie alles einfach nur noch anders. <br>\r\nAuf einmal h\u00f6rt sie unglaublich viele Laute um sich herum. T\u00fcren \u00f6ffnen und schlie\u00dfen im Foyer. M\u00e4use, die sich durch die W\u00e4nde fressen. Kr\u00e4hen, die auf dem Dach nisten. Angesichts dieser vielen tierischen Ger\u00e4usch streckt sich ihr Wurmk\u00f6rper, ihe Zahnkranz und die Maultentakel \u00f6ffnen sich unwillk\u00fcrlich, ihre Facetten-Tentakelaugen sondieren den Raum, jedes Auge einen Teil, sodass sie eine perfekte 360\u00b0-Grad Sicht besitzt... Moment! durchf\u00e4hrt es Stefanie pl\u00f6tzlich. Wurmk\u00f6rper? Zahnkranz? Maultentakel? Facetten-Tentakelaugen? Mein Gott. Ich bin ein... Monster. Eine Bestie. entsetzt versucht sie, mit diesen Tentakelaugen, ihren K\u00f6rper zu erfassen. Was Stefanie sieht, schockiert sie v\u00f6llig. Sie ist jetzt eine Art schleimiger Wurm mit einer zahnbewehrten Maul\u00f6ffnung am einen Ende. Oberhalb dieser Maul\u00f6ffnung sitzen drei gro\u00dfe Maultentakel, mit welcher Beute wohl in diesen Rachen geschoben wird. Doch entlang des Wurmk\u00f6rpers sprie\u00dfen noch einige Extremit\u00e4ten. Vier gigantische Knochenklauen mit rasiermesserscharfen Klingen. Vier primitive, dreigliedrige Greifh\u00e4nde. Und f\u00fcnf saugnapfbesetzte Tentakel mit je einem Facettenauge am Ende. <br>\r\n<a rel=\"nofollow\" href=\"http://anonym.to/?http://img809.imageshack.us/img809/5153/choice71.jpg\" target=\"_blank\">http://anonym.to/?http://img809.imagesha...</a><br>\r\nDie Transformatrix hatte recht. denkt Stefanie schockiert, w\u00e4hrend sie versuchst, mit der Tatsache ihrer neuen Gestalt klarzukommen. Dieses Monstrum h\u00e4tte sich kein Sterblicher auch nur in seinen Alptr\u00e4umen ausdenken k\u00f6nnen. Gerade war ich noch ein wundersch\u00f6nes M\u00e4dchen. Und jetzt - das f\u00fcrchterlichste und vermutlich auch t\u00f6dlichste Wesen, das die Welt je gesehen hat.<br>\r\n\"Mein Gott.\" echot es auf einmal vom Thron her Stefanies eigenen Gedanken, und fast automatisch richtet sich eines ihrer Tentakelaugen auf die Transformatrix und den Kunden, w\u00e4hrend der Rest weiter ihren K\u00f6rper in Augenschein nimmt. <br>\r\n\"Das... das ist... unglaublich. Und das... das da war wirklich mal ein Mensch?\" fragte der Kunde ungl\u00e4ubig. <br>\r\n\"Nat\u00fcrlich. Zwar nur ein Werkzeug, aber ein menschliches Werkzeug. Diese Kreatur dort ist immer noch meine Dienerin Gold. Kreatur Gold!\" ruft sie so laut, dass es Stefanie aus ihrem Schockzustand rei\u00dft. Sofort richtet sie alle f\u00fcnf Augen auf die Transformatrix und bemerkt, wie der Kunde angesichts Stefanies Reaktion erschrocken zur\u00fcckweicht. Und sich sein Herzschlag beschleunigte. Seine K\u00f6rpertemperatur erh\u00f6ht. Er anf\u00e4ngt zu schwitzen. Nicht nur, dass Stefanie nun ein unglaubliches Geh\u00f6r in dieser Form hat. Auch ihre Augen sind ungleich besser als ihre menschlichen, k\u00f6nnen sowohl Ultraviolett wie auch Infrarot sehen. Und ihr Geruchssinn nimmt feinste Nuancen auf. <br>\r\nNichts und niemand k\u00f6nnte mir in diesem K\u00f6rper entkommen! wird es ihr klar. Stefanies aktuelle Form ist nicht die eines J\u00e4gers. Sondern die eines Killers. <br>\r\n\"Komm her, Kreatur Gold.\" sagt sie wieder, dieses Mal nicht so laut. Sofort gehorcht Stefanie, kr\u00fcmmt ihren K\u00f6rper und springt in einem gewaltigen Satz direkt vor die Transformatrix. Noch im Flug \u00fcberlegt sie benommen woher sie wei\u00df, dass ihr neuer K\u00f6rper so etwas kann. Vielleicht hab ich ja bei der Verwandlung automatisch eine Art \"Gebrauchsanweisung\" f\u00fcr mein unbewusstes Denken mitgeliefert gekriegt? denkt sie sich w\u00e4hrend sie geschmeidig landet und ihr Maul auf die Transformatrix richtet.<br>\r\n\"Kreatur Gold, \u00f6ffne dein Maul.\" Stefanie gehorcht und \u00f6ffnet ihren gewaltigen Zahnkranz. Die Transformatrix nickt zufrieden. \"Und nun schlie\u00df es wieder. Zum Kunden gewand: \"\u00dcberzeuge dich selbst, dass dies noch meine Dienerin Gold ist.\" Dem hat Stefanies Satz wohl den Schreck seines Lebens eingebracht. Stefanie richtet sofort zwei Augententakel auf ihn, was den Kunden sichtlich unwohl lassen wird. <br>\r\n\"\u00c4hm, also... wie viel ist zwei plus eins?\" <br>\r\nStefanie wei\u00df zuerst nicht, was sie machen soll. Doch dann hat sie eine Idee. Mit einem ihrer Augententakel tippt sie drei Mal auf den Boden. Wieder rei\u00dft der Kunde die Augen weit auf.<br>\r\n\"Da... da ist ja tats\u00e4chlich ein Mensch drin!\" stammelt er und starrt Stefanie in ihrem Horrork\u00f6rper an. Dann fragt er die Transformatrix:<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nKannst du sie wieder zur\u00fcck verwandeln?<br>\r\n<br>\r\nEtwas anderes</span></div></div>",
+            "created":1336164420,
+            "id":1329542,
+            "title":"Das f\u00fcrchterlichste und ekligste Monster, das s..."
+        },
+        "1122111112":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ein Tier",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In was soll sie ihn verwandeln?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327138,
+            "title":"du mich verwandelst. "
+        },
+        "11221111121":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Und zwar in...<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEine Kuh<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335934800,
+            "id":1327937,
+            "title":"Ein Tier"
+        },
+        "11221111122":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Einen Gegenstand",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Nein, kein Tier. Aber in was dann?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327139,
+            "title":"Etwas anderes"
+        },
+        "112211111221":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Etwa in Kleidung?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nJa, Kleidung<br>\r\n<br>\r\nNein, etwas anderes<br>\r\n</span></div></span></div>",
+            "created":1336107600,
+            "id":1329529,
+            "title":"Einen Gegenstand"
+        },
+        "112211111222":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Er m\u00f6chte mit einer der Dienerinnen verschmelzen",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Auch nicht in einen Gegenstand. Was bleibt da noch \u00fcbrig?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327142,
+            "title":"Etwas anderes"
+        },
+        "1122111112221":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ich m\u00f6chte mit Gold verschmelzen"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ich...\" er schluckt und bricht ab. <br>\r\n\"Du brauchst keine Angst zu haben, Sterblicher.\" antwortet die Transformatrix sanft. \"Dein Wunsch ist mir Befehl. ALLES ist m\u00f6glich.\" <br>\r\n\"Dann... ich habe schon immer Fantasien gehabt, mit einem anderen Menschen zu verschmelzen. Einen komplett neuen Menschen zu bilden. Geht das?\" <br>\r\nDer Vorschlag ist zum Gl\u00fcck so verr\u00fcckt, dass Stefanie praktisch einfriert. So kommt es dem Kunden vor, als ob sie, genau wie Silber, keine Reaktion gezeigt h\u00e4tte. <br>\r\n\"Nat\u00fcrlich, Sterblicher. Soll deine neue Form weiblich oder m\u00e4nnlich sein, oder Attribute von beidem besitzen? Du bist gerade ein Mann, meine Dienerinnen Frauen.\"<br>\r\nDer Kunde schluckt. \"Weiblich... wenn es geht.\" <br>\r\n\"So soll es denn sein. Mit welcher meiner Dienerinnen w\u00fcnschst du zu verschmelzen?\" fragt die Transformatrix weiter. <br>\r\nStefanie h\u00e4ltt den Atem an. Was, wenn er mit dir verschmelzen will? <br>\r\nEr atmet tief ein und sagt dann:  <br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nIch m\u00f6chte mit Silber verschmelzen<br>\r\n<br>\r\n</span></div></div>",
+            "created":1335848400,
+            "id":1327156,
+            "title":"Er m\u00f6chte mit einer der Dienerinnen verschmelzen"
+        },
+        "11221111122211":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Silber verwandeln?",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><div> <span>Er will mit Stefanie verschmelzen! Deren Gedanken rasen! <i>Zwei K\u00f6rper verschmelzen - wie soll das gehen? Sind dann Silber und ich gemeinsam in einem K\u00f6rper? Kontrollieren wir ihn abwechselnd? Werden wir eine ganz neue Person und unsere alten Pers\u00f6nlichkeiten verschwinden?</i><br>\r\nW\u00e4hrend sie noch fieberhaft \u00fcberlegt hebt die Transformatrix bereits ihren Zauberstab und fragt den Kunden: \"Bist du bereit?\" dieser nickt, und im n\u00e4chsten Moment werden Stefanies Gedanken abrupt unterbrochen. <br>\r\n<br>\r\nUm gleich wieder neu zu beginnen. Nur anders. <i>Interessant...</i> denktsie sich erstaunt aber auch ein bisschen zittrig. <i>Die Verschmelzung hat wirklich eine neue Pers\u00f6nlichkeit hervorgebracht... mich. Auch wenn zu gleichen Teilen aus der Pers\u00f6nlichkeit des Kunden und der Pers\u00f6nlichkeit von Stefanie bestehe. Und noch interessanter, dass beide Neulinge sind. Der Kunde, beziehungsweise Michael, zum ersten Mal in so einem Etablissement und Stefanie beim ersten Arbeitstag.</i><br>\r\n\"War die Verwandlung zu deiner Zufriedenheit, Sterblicher?\" fragt die Transformatrix. <i>Oder eher gesagt Eloise.</i> schie\u00dft es Stefaniemichael durch den Kopf. <br>\r\n\"Jawohl, Madam.\" entf\u00e4hrt es ihr zusammen mit einer Verbeugung. <i>Hoppla.</i> denkt sie sich. <i>Das ist wohl deine Stefanie-Komponente. Sie hat ja eingeh\u00e4mmert bekommen, die Transformatrix so anszusprechen. Und Michael war zu nerv\u00f6s, um sich dar\u00fcber Gedanken zu machen.</i><br>\r\n\"Ich meine...\" spricht Stefaniemichael weiter. \"Durchaus. Aber... wie geht es denn jetzt weiter? Ich bin gleichzeitig der Kunde UND die Dienerin.\"<br>\r\nDie Transformatrix l\u00e4chelt sie nur an. <br>\r\n\"Du bist eine Verschmelzung meiner Dienerin Gold und des Sterblichen, welchem ich meine Macht versprochen habe. Zugegeben, das macht die Dinge leicht kompliziert. Aber letztendlich z\u00e4hlt f\u00fcr mich nur, dass du der verwandelte Kunde bist. Und meine Dienerin hilft dir lediglich bei dieser Verwandlung. Also, was w\u00fcnschst du nun, Sterblicher?\" <br>\r\nStefaniemichael ist etwas baff angesichts dieser Erkl\u00e4rung. Aber irgendwie ist das das beste, was ihr passieren konnte. Was gibt es besseres, als als Kunde zu lernen, wie man sich als Dienerin verh\u00e4lt? <i>Auch wenn ich gerade weder der Kunde, noch die Dienerin bin. Allerdings wird Stefanie ja nachher meine Erinnerungen haben.</i> denkt sie sich. <i>Nur, was mach ich nun?</i>. Pl\u00f6tzlich kommt ihr eine Idee. <br>\r\n\"Darf ich mich im Spiegel betrachten, Madam?\" fragst Stefaniemichael die Transformatrix. <br>\r\n\"Nat\u00fcrlich. Nur zu.\" <br>\r\nSofort bewegt sie sich zum Spiegel. Es ist ein komisches Gef\u00fchl. Einerseits ist ihre eine H\u00e4lfte eine Frau, daher sind Kleider, Br\u00fcste und High Heels mehr oder weniger nichts Besonderes f\u00fcr Stefaniemichael. Aber ihre andere H\u00e4lfte ist ein Mann, f\u00fcr welchen es unglaublich ist, als Frau in so einem Aufzug zu laufen. <br>\r\nAls sie dsch dann vor dem Spiegel siehst, atmet sie tief ein. Ihr K\u00f6rper besitzt immer noch einen Gro\u00dfteil der Attribute von Gold. Allerdings sind sehr subtil Attribute des Kunden Michael hinzugekommen. Stefaniemichaels Haare sind nicht mehr golden, sondern br\u00fcnett, eine Mischung aus Golds und des Kunden vorheriger Haarfarbe. Ihr Gesicht ist immer noch das eines Engels, hat aber Eigenheiten von Michael. <br>\r\nUnd das ist ihr K\u00f6rper! Ein Teil von Stefaniemichael war vorher ein Mann, deshalb greift sie sich mit ihren H\u00e4nden an die Br\u00fcste wie um sich zu vergewissern, ob sie wirklich da sind. Ein Teil von Stefaniemichael findet darin nichts Ungew\u00f6hnliches, w\u00e4hrend der andere, der Mann, einfach nur fassungslos ist, dass sie nun Br\u00fcste hat. <br>\r\nSie kichert. <i>Also diese Mischung ist definitiv nicht schlecht. Wenn auch komisch. Und verr\u00fcckt. Aber irgendwie hat sich die Nervosit\u00e4t, die beide Komponenten von mir vorher hatten, gegenseitig ausgel\u00f6scht. Also... bleib ich am besten so, denke ich mal.</i><br>\r\nAlso gebt Stefaniemichael wieder zu der wartenden Transformatrix zur\u00fcck und durchforstest ihr verschmolzenes Ged\u00e4chtnis nach Verwandlungsfantasien, welche der Kunde Michael hatte. <i>An sich bin ich ja jetzt eine eigenst\u00e4ndige Entit\u00e4t und sollte deshalb als Gesamtheit entscheiden. Aber irgendwie... w\u00e4r das nicht fair. Michael hat schlie\u00dflich bezahlt, nicht Stefanie. Von daher werde ich jetzt auch nur Verwandlungsphantasien von ihm ausprobieren. Und dass diese Phantasien den einen Teil von mir richtig anmachen, aber den anderen Teil von mir einfach nur noch anekeln macht die Sache noch viel, viel -wie oft hab ich das jetzt eigentlich schon gesagt- interessante!.</i><br>\r\nL\u00e4chelnd geht Stefaniemichael zur Transformatrix. \"Ich habe mich entschieden, Madam. K\u00f6nntet Ihr bitte...\"</span></div></div>",
+            "created":1335848400,
+            "id":1327183,
+            "title":"Ich m\u00f6chte mit Gold verschmelzen"
+        },
+        "112211111222111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ein Kleidungsst\u00fcck f\u00fcr Stefaniemichael",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In was soll Silber verwandelt werden?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327196,
+            "title":"Silber verwandeln?"
+        },
+        "1122111112221111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In was f\u00fcr ein Kleidungsst\u00fcck?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nSchuhe<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327197,
+            "title":"Ein Kleidungsst\u00fcck f\u00fcr den Kunden/Gold"
+        },
+        "1122111112221112":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Monster"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Und zwar in ein...<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327223,
+            "title":"Etwas anderes"
+        },
+        "11221111122211121":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Und zwar in einen Xenomorph?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nNein, etwas anderes<br>\r\n<br>\r\nJa, Xenomorph</span></div></span></div>",
+            "created":1335848400,
+            "id":1327224,
+            "title":"Monster"
+        },
+        "112211111222112":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Mich verwandeln?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"K\u00f6nntet Ihr bitte....\" <br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327195,
+            "title":"Etwas anderes"
+        },
+        "1122111112221121":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ein Monster",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In was soll sie Stefaniemichael verwandeln?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327198,
+            "title":"Mich verwandeln?"
+        },
+        "11221111122211211":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Und zwar in einen Xenomorph?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nNein, etwas anderes<br>\r\n<br>\r\nJa, Xenomorph</span></div></span></div>",
+            "created":1335848400,
+            "id":1327219,
+            "title":"Ein Monster"
+        },
+        "11221111122211212":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ein Kleidungsst\u00fcck?",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Etwa in... </span></div></span></div>",
+            "created":1335848400,
+            "id":1327199,
+            "title":"Etwas anderes"
+        },
+        "112211111222112121":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "F\u00fcr die Transformatrix",
+                "F\u00fcr Silber"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>F\u00fcr die Transformatrix oder f\u00fcr Silber?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327201,
+            "title":"Ein Kleidungsst\u00fcck?"
+        },
+        "1122111112221121211":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Kleid",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Und zwar in ein...</span></div></span></div>",
+            "created":1335848400,
+            "id":1327203,
+            "title":"F\u00fcr die Transformatrix"
+        },
+        "11221111122211212111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was f\u00fcr ein Kleid?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes<br>\r\n<br>\r\nCocktailkleid<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1336107600,
+            "id":1329526,
+            "title":"Kleid"
+        },
+        "11221111122211212112":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>N\u00e4mlich in...<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nSchuhe<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327204,
+            "title":"Etwas anderes"
+        },
+        "1122111112221121212":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ein Kleid",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Und zwar in... </span></div></span></div>",
+            "created":1335848400,
+            "id":1327202,
+            "title":"F\u00fcr Silber"
+        },
+        "11221111122211212121":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was f\u00fcr ein Kleid?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nCocktailkleid<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1336107600,
+            "id":1329525,
+            "title":"Ein Kleid"
+        },
+        "11221111122211212122":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Schuhe",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>N\u00e4mlich in...</span></div></span></div>",
+            "created":1335848400,
+            "id":1327205,
+            "title":"Etwas anderes"
+        },
+        "112211111222112121221":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was f\u00fcr Schuhe?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nHigh Heeled Boots<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1336107600,
+            "id":1329524,
+            "title":"Schuhe"
+        },
+        "112211111222112121222":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Einen Badeanzug"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>N\u00e4mlich in... <br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327376,
+            "title":"Etwas anderes"
+        },
+        "1122111112221121212221":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "eine Toilette"
+            ],
+            "content":"<div class=\"\"><div> <span>\"K\u00f6nntet ihr mich bitte in einen Badeanzug f\u00fcr Silber verwandeln, Madam?\" fragt Stefaniemichael l\u00e4chelnd die Transformatrix. <br>\r\n<i>Ich denke, ich sollte langsam anfangen.</i> denkt sich Stefaniemichael. <i>Und ein Badeanzug scheint da gerade richtig zu sein. Meine Michael-Komponente ist euphorisch angesichts so einer Verwandlung und auch meine Stefanie-Komponente scheint neugierig zu sein. Auf jeden Fall neugieriger, als auf die anderen, fieseren Verwandlungen, die Michael im Hinterkopf hatte...</i><br>\r\n\"Eine interessante Wahl, Sterblicher.\" erwidert die Transformatrix l\u00e4chelnd und l\u00e4sst Silbers Kleidung verschwinden, sodass diese nackt vor den beiden steht. \"Soll meine Dienerin dich auch im Pool nebenan benutzen?\" <br>\r\n\"Nat\u00fcrlich, wenn ihr das recht ist.\" zwinkert Stefaniemichael Silber zu. Diese reagiert nat\u00fcrlich wie erwartet, verbeugt sich und sagt emotionslos ihr Spr\u00fcchlein auf.<br>\r\n\"Meine Aufgabe ist es, Euch zu dienen, werter Sterblicher.\" <br>\r\nAllerdings kommt es Stefaniemichael dennoch so vor, als h\u00e4tte sie ein schelmisches Funkeln in Silbers/Toms Augen gesehen. <br>\r\n\"Und wie lange soll die Verwandlung dauern?\" will die Transformatrix jetzt noch wissen. <br>\r\n\"Hm... ich sage mal, Silber soll mich dann anziehen, mit mir zehn Runden im Pool schwimmen, anschlie\u00dfend zur\u00fcckkommen und dann verwandelt Ihr mich wieder zur\u00fcck, Madam. W\u00e4re das in Ordnung, Madam?\" <br>\r\n\"Nat\u00fcrlich, Sterblicher.\" erwidert diese. \"Seid ihr bereit?\" <br>\r\nStefaniemichael nickt und dann kommt der Blitz und Stefaniemichael flattert zu Boden. Es ist irgendwie anders, als vorhin, als Stefanie eine Statue war. Sie kann sich zwar auch nicht bewegen und auch nicht atmen, aber ihr K\u00f6rper f\u00fchlt sich im Gegensatz dazu weich und beweglich an. <br>\r\n<i>Hm, so f\u00fchlt es sich also an ein Badeanzug zu sein.</i> gr\u00fcbelt Stefaniemichael am\u00fcsiert. Da h\u00f6rt sie auch schon Madams Stimme. <br>\r\n\"Silber!\" sagt sie und zeigt auf Stefaniemichael am Boden. \"Zieh diesen Badeanzug an, betrachte dich eine Minute lang im Spiegel und schwimm dann zehn Runden im Pool.\" <br>\r\n\"Jawohl, Madam.\" entgegnet Silber und nimmt Stefaniemichael auf. Dann zieht Silber sie an. <br>\r\n<i>Das f\u00fchlt sich... nett an.</i> denkt Stefaniemichael, als Silber fertig ist. <i>Wie ihr K\u00f6rper mich ausf\u00fcllt... wie ihre Haut beim Laufen meinen Stoff dehnt... es ist, als w\u00fcrde ich Silber ganz eng umarmen... </i><br>\r\nDoch da erreicht Silber schon den Spiegel und beginnt zu posieren. H\u00e4tte ein Badeanzug Spucke gehabt, so w\u00fcrde sie Stefaniemichael jetzt wegbleiben. Im Spiegel ist die engelsgleiche Silber zu sehen - mit einem blauen Badeanzug, welche jede ihrer grandiosen Rundungen perfekt betont. <br>\r\n<i>Nicht zu fassen-</i> denkt sich Stefaniemichael. <i>Dieser Badeanzug bin tats\u00e4chlich ich. Ich bin ein Badeanzug, den gerade eine Frau angezogen hat!</i><br>\r\nNoch w\u00e4hrend Stefaniemichael diese Gedanken hat, dreht sich Silber um und geht zielstrebig in einen Nebenraum. Dort befindet sich ein gro\u00dfer Pool. Silber nimmt Anlauf und macht einen Kopfsprung in den Pool. <br>\r\n<i>Was zum-</i> macht Stefaniemichael, als Silbers K\u00f6rper mit ihr als Badeanzug das Wasser trifft. Dann jedoch beginnt das Wasser ihre Stoffform zu durchsetzen und an ihrer Oberfl\u00e4che entlangzuflie\u00dfen, als Silber mit dem Schwimmen beginnt. <br>\r\nVon diesem Moment an f\u00fchlt sich Stefaniemichael wie im Himmel. Sie wei\u00df nicht wieso, aber irgendwie war das, wof\u00fcr ihre aktuelle Form gemacht war - sie war ein Badeanzug, der von einer Frau im Wasser getragen wurde. Mehr brauchte sie im Moment nicht, um gl\u00fccklich zu sein. <br>\r\nUnd so ist sie immer noch in einer Art Trance, als Silber ihre zehn Runden beendet und die Transformatrix Stefaniemichael zur\u00fcckverwandelt. Heftig atmend kniet sie auf dem Boden, w\u00e4hrend sie ihre Erfahrungen verarbeitet. <br>\r\n\"Also das war... definitiv geil, Madam.\" meint sie strahlend.<br>\r\n\"Es freut mich, dass es dir gefallen hat, Sterblicher.\" erwidert die Transformatrix. \"Was kann ich nun f\u00fcr dich tun...\" <br>\r\n\"Hm, nun...\" \u00fcberlegt Stefaniemichael und sch\u00fcttelt sich, als ihr ein Gedanke kommt, den sie gleichzeitig unglaublich eklig und unglaublich anmachend empfindet. <i>Da streiten sich meine Stefanie- und meine Michael-Komponente wohl, was es nun wirklich ist.</i> denkt sie sich am\u00fcsiert. <i>Aber irgendwie macht es das noch geiler.</i><br>\r\nStefaniemichael atmet tief durch. <br>\r\n\"Madame, k\u00f6nntet Ihr mich jetzt bitte noch einmal verwandeln, und zwar in...\" <br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes.</span></div></div>",
+            "created":1335848400,
+            "id":1327394,
+            "title":"Einen Badeanzug"
+        },
+        "11221111122211212122211":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><div> <span>\"K\u00f6nntet Ihr mich dieses Mal in eine... Toilette verwandeln?\" fragt Stefaniemichael die Transformatrix und genie\u00dft das seltsame Gef\u00fchl aus Vorfreude und Ekel, welches sie wieder durchstr\u00f6mt. <br>\r\n\"Nat\u00fcrlich, Sterblicher.\" antwortet die Transformatrix. \"Folge mir.\" <br>\r\nDie Transformatrix geht zu einer T\u00fcr in einer Ecke des Raumes und Stefaniemichael folgt ihr mit klopfendem Herzen. Hinter der T\u00fcr verbirgt sich ein gekachelter Raum mit Wasseranschluss und Abfluss, welcher einem Toilettenraum \u00e4hnlich sieht, sogar Klopapier und einen Kloschrubber gibt es  - nur die Toilette fehlt. <br>\r\n\"Solche W\u00fcnsche bekomme ich h\u00e4ufig von euch Sterblichen. Daher haben wir einen Raum, in welchem sich Sterbliche in eine Toilette verwandeln und benutzen lassen k\u00f6nnen. Ich nehme an, du m\u00f6chtest dann auch benutzt werden?\" <br>\r\n\"Ja.\" sagt Stefaniemichael fasziniert. \"Wenn es m\u00f6glich w\u00e4re, m\u00f6chte ich in eine Toilette verwandelt werden und 10 Minuten alleine gelassen werden. Dann m\u00f6chte ich, dass Ihr kommt und auf mir Euer kleines Gesch\u00e4ft verrichtet, Madam. Danach sollen wieder 10 Minuten vergehen und Silber soll auf mir ein gro\u00dfes Gesch\u00e4ft verrichten. Ich w\u00fcrde es-\" f\u00fchrt Stefaniemichael fort und ihre Stimme schwankt dabei zwischen Begeisterung und Ekel. \"toll finden, wenn Silber dann eine Art D\u00fcnnschiss h\u00e4tte. Und 10 Minuten danach m\u00f6chte ich wieder zur\u00fcck verwandelt werden.\" <br>\r\n\"Dem kann entsprochen werden.\" best\u00e4tigt die Transformatrix. \"Stell dich bitte mit dem R\u00fccken zur Wand \u00fcber den Abfluss.\" <br>\r\nMit wild klopfendem Herzen gehorcht sie. Wellen von Begeisterung und Ekel durchflie\u00dfen sie. Wenn sie das doch nicht will, muss sie es nun sagen. <br>\r\n\"Bist du bereit?\" fragt die Transformatrix. Stefaniemichael nickt, und um n\u00e4chsten Moment kommt der Blitz. <br>\r\nDie Transformatrix betrachtet zufrieden ihr Werk, eine normale Toilette, welche nun den Raum ausf\u00fcllt, verl\u00e4sst ihn und schlie\u00dft die T\u00fcr.<br>\r\nStefaniemichael, jetzt in eine Toilette verwandelt, brauchte ihren Ekel nicht mehr in Schach zu halten. F\u00fcr die n\u00e4chsten 40 Minuten wird sie jetzt ein Toilette sein, in sie wird reingepisst und reingeschissen werden und nichts wird das \u00e4ndern. Denn eine Toilette kann sich ja bekanntlich nicht mitteilen. <br>\r\nAber w\u00e4hrend sich die Stefanie-Komponente angesichts dessen ekelt, scheint sich die Michael-Komponente richtig gehend daran aufzugeilen. <br>\r\n<i>Hm, ich hab Michael f\u00fcr einen netten Kerl gehalten, aber das ist tats\u00e4chlich extrem eklig. Ach was sag ich. Ich bin ja auch zu einem Teil Michael. Und irgendwie ist es geil.</i> w\u00e4hrend Stefaniemichael noch dar\u00fcber gr\u00fcbelt, wie sie jetzt tats\u00e4chlich f\u00fchlt, geht die T\u00fcr auf und die Transformatrix betritt den Raum. Abrupt bricht Stefaniemichaels Gedankengang ab. <br>\r\nWortlos hebt die Transformatrix den Toilettendeckel ab, zieht ihren Slip und Minirock aus und setzt sich auf die Toilette Stefaniemichael. Es dauert nur wenige Sekunden, und ein kr\u00e4ftiger Strahl rauscht in's Porzellan. Stefaniemichael kann genau sp\u00fcren, wie die Pisse an ihrer Innenwand hinunter l\u00e4uft, wie sie sich mit ihrem Wasser vermischt. EIn Teil von ihr genie\u00dft es richtiggehend, w\u00e4hrend ein anderer unglaublichen Ekel empfindet und am liebsten Kotzen w\u00fcrde - wenn Toiletten kotzen k\u00f6nnten. <br>\r\nNach einer halben Minute ist die Transformatrix fertig, steht auf, wischt sich ihren Schritt ab, wirft das benutzte Toilettenpapier in die Sch\u00fcssel und sp\u00fclt ihre Pisse durch Stefaniemichael den Abfluss hinunter. Dann verl\u00e4sst sie den Raum. <br>\r\nStefaniemichael hat jetzt ausnahmsweise mal nur ein Gef\u00fchl und nicht zwei konkurrierende - sie f\u00fchlt sich benutzt. Nur hat sie gleichzeitig zwei verschiedene Assoziationen damit. Ein Teil findet es toll. Ein anderer... nicht wirklich. <br>\r\nSie sch\u00fcttelt sich noch innerlich angesichts des Gedankens, dass sie soeben als stinknormale Toilette benutzt wurde, als die Toilettent\u00fcr wieder aufgeht und dieses Mal Silber den Raum betrifft. <br>\r\nSofort durchstr\u00f6mt sie unfassbares Grauen angesichts dessen, was jetzt noch kommen wird - gleichzeitig aber auch wieder riesige Vorfreude. Wie vorher die Transformatrix, streift Silber wortlos ihren Slip ab und setzt sich auf Stefaniemichaels Toilettensitz. Und im n\u00e4chsten Moment schie\u00dft eine braune Masse an d\u00fcnnfl\u00fcssiger Schei\u00df aus ihrem Arschloch und verteilt sich in Stefaniemichaels Sch\u00fcssel. Sie konnte f\u00fchlen, wie die Schei\u00dfe an ihrem Porzellan kleben bleibt, sich \u00fcberall verteilt, das Wasser durchsetzt. Und am liebsten will sie jetzt einfach nur noch kotzen, w\u00e4hrend sie gleichzeitig etwas \u00c4hnliches wie einen Orgasmus erlebt. <br>\r\nDerweil presst Silber die letzten Reste Schei\u00dfe aus ihrem Darm, wischt die Sauerei so gut es geht von ihrem Arschloch ab, schmei\u00dft das Toilettenpapier hinterher, sp\u00fclt ab und verl\u00e4sst den Raum. Ein Teil von Stefaniemichael w\u00fcrde jetzt w\u00fcrgen, sofern Toiletten das k\u00f6nnten. Denn Silbers gesamte Schei\u00dfe flie\u00dft nun durch das Mund\u00e4quivalent einer Toilette ab. <br>\r\nAllerdings kleben immer noch Reste von Silbers Schei\u00dfe in Stefaniemichael. Und die n\u00e4chsten zehn Minuten bringt sie damit zu, sich wieder nur noch zu ekeln. <br>\r\n<i>Mein Gott! Ich bin eine gottverdammte Toilette. In mich wurde reingepisst und reingeschissen. Das ist... unglaublich.</i><br>\r\nDoch dann \u00f6ffnet sich die T\u00fcr wieder und die Transformatrix betritt den Raum. Sie hebt den Zauberstab und im n\u00e4chsten Moment hat Stefaniemichael ihren K\u00f6rper wieder. Und \u00fcbergibt sich direkt, w\u00e4hrend sie gleichzeitig einen unglaublichen Orgasmus erlebt. <br>\r\nHeftig atmend wischt sie sich ihren Mund ab und betrachtet mit einem verzerrten L\u00e4cheln die Transformatrix. \"Also das war... interessant. Wenn Ihr uns nachher wieder trennt, Madam, dann wird eine von meinen beiden Komponenten das unglaublich geil gefunden haben. Und die andere wird vermutlich tagelang den Mund aussp\u00fclen.\" <br>\r\n\"Das ist nicht von Belang, Sterblicher.\" erwidert die Transformatrix l\u00e4chelnd. \"Gold ist meine Dienerin und Werkzeug und nur dazu da, deine W\u00fcnsche zu erf\u00fcllen. Wenn sie das ekelt - so sei es.\" <br>\r\n\"Stimmt. Dachte ich mir schon fast, dass Ihr das sagt, Madam.\" entgegnet Stefaniemichael. \"Aber dass Gold gerade ein Teil von mir ist, macht die Tatsache f\u00fcr mich nicht besser. Nun ja egal... ich habe ja noch Zeit, oder?\" <br>\r\n\"Das hast du in der Tat, Sterblicher.\" best\u00e4tigt die Transformatrix. <br>\r\n\"Gut.\" mein Stefaniemichael. Dann w\u00fcrde es mich freuen, wenn Ihr mich jetzt...\" <br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nIn ein Auto verwandeln k\u00f6nntet<br>\r\n<br>\r\nEtwas anderes</span></div></div>",
+            "created":1335848400,
+            "id":1327425,
+            "title":"eine Toilette"
+        },
+        "112211111222112122":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Tier?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Etwa in ein...<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327206,
+            "title":"Etwas anderes"
+        },
+        "1122111112221121221":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ein Tier mit mehr als vier Beinen",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was f\u00fcr ein Tier...?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327207,
+            "title":"Tier?"
+        },
+        "11221111122211212211":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Also eine...<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nKakerlake<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327214,
+            "title":"Ein Tier mit mehr als vier Beinen"
+        },
+        "11221111122211212212":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was dann...?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEin Tier mit gar keinen Beinen<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335848400,
+            "id":1327208,
+            "title":"Etwas anderes"
+        },
+        "1122111112222":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Eine Frau"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sie soll ihn verwandeln in...<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></span></div>",
+            "created":1335934800,
+            "id":1327824,
+            "title":"Etwas anderes"
+        },
+        "11221111122221":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Porn Star"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was f\u00fcr eine Frau?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nJemand anderes</span></div></span></div>",
+            "created":1335934800,
+            "id":1327828,
+            "title":"Eine Frau"
+        },
+        "112211111222211":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Gold"
+            ],
+            "content":"<div class=\"\"><div> <span>\"K\u00f6nntest du mich in... die Pornodarstellerin Charlie Lain verwandeln?\" fragt der Kunde nerv\u00f6s. \"W\u00fcrde das gehen...?\" <br>\r\nDie Transformatrix l\u00e4chelt ihn beruhigend an. \"Nat\u00fcrlich. Nichts leichter als das. Bist du bereit?\" <br>\r\nDer Kunde nickt, und dann kommt der bereits bekannte Blitz. Und an seiner Stelle steht eine, nur mit Unterw\u00e4sche und High Heels bekleidete, br\u00fcnette Kanone. <br>\r\n<a rel=\"nofollow\" href=\"http://www.dumparump.com/view.php?id=21BAeoG\" target=\"_blank\">http://www.dumparump.com/view.php?id=21B...</a><br>\r\n\"Oh, wow.\" macht \"der\" Kunde in einer unglaublich sexy Stimme und beginnt, seinen verwandelten K\u00f6rper zu begutachten. \"Es hat geklappt... ich bin tats\u00e4chlich eine Frau!\" <br>\r\n\"Nur zu, betrachtet euch im Spiegel.\" schl\u00e4gt die Transformatrix vor. Benommen gehorcht der Kunde und l\u00e4uft, so schnell es nun auf seinen High Heels geht zum Spiegel. Dort bleibt ihm offensichtlich die Spucke. <br>\r\n\"Das gibt's nicht...\" haucht er in seiner melodischen Stimme und befasst sein Gesicht. \"Ich bin wirklich sie... ich bin wirklich Charlie Lain. Und... ich hab Titten!\" Mit diesen Worten beginnt er, seine Unterw\u00e4sche abzustreifen. <br>\r\n<a rel=\"nofollow\" href=\"http://www.dumparump.com/view.php?id=CdbjTwu\" target=\"_blank\">http://www.dumparump.com/view.php?id=Cdb...</a><br>\r\nSilber und Gold betrachten derweil emotionslos, wie der nun nackte Kunde an seinem Frauenk\u00f6rper herumzuspielen beginnt. <br>\r\n<a rel=\"nofollow\" href=\"http://www.dumparump.com/view.php?id=l31GZW9\" target=\"_blank\">http://www.dumparump.com/view.php?id=l31...</a><br>\r\nEs dauert nicht lange, und er f\u00e4ngt an, an seiner Pussy rumzuspielen. <br>\r\n<a rel=\"nofollow\" href=\"http://www.dumparump.com/view.php?id=jY54Gu4\" target=\"_blank\">http://www.dumparump.com/view.php?id=jY5...</a><br>\r\nStefanie f\u00e4llt es schwer, ihre emotionslose Miene zu halten, w\u00e4hrend die Lustschreie des Kunden immer lauter werden und er, seine Pussy befingernd, zu Boden rutschst. <br>\r\n<a rel=\"nofollow\" href=\"http://www.dumparump.com/view.php?id=o281uXn\" target=\"_blank\">http://www.dumparump.com/view.php?id=o28...</a><br>\r\nEr schafft es offenbar, seinen neuen K\u00f6rper zu drei Orgasmen zu bringen, ehe er ersch\u00f6pft aufh\u00f6rt. Einige minutenlang liegt er heftig atmend am Boden, ehe er sich wieder aufrappelt. <br>\r\n\"Also das war... definitiv... geil...\" meint der Kunde und betrachtet noch einmal seine nackten Rundungen im Spiegel. \"Ein Orgasmus als Frau ist definitiv eine tolle Sache...\" <br>\r\n\"War alles zu deiner Zufriedenheit, Sterblicher?\" m\u00f6chte die Transformatrix wissen, und der Kunde schaut in ihre Richtung. <br>\r\n\"Oh ja...\" erwidert er. \"Und zwar so was von. Ich meine... ich bin gerade eine Frau... ich bin gerade die Pornodarstellerin Charlie Lain. Das ist... einfach nur unglaublich.\"<br>\r\n\"Das freut mich.\" meint die Transformatrix zufrieden. \"Was ist nun dein Wunsch?\" <br>\r\nDer Kunde \u00fcberlegt. Doch dann bekommt er scheinbar eine Idee, denn er beginnt zu grinsen - und schaut in die Richtung von Silber und Gold.\" <br>\r\n<a rel=\"nofollow\" href=\"http://www.dumparump.com/view.php?id=dqP0nj8\" target=\"_blank\">http://www.dumparump.com/view.php?id=dqP...</a><br>\r\n\"Hm... ich bin jetzt eine Pornodarstellerin. Oder habe zumindest den K\u00f6rper einer Pornodarstellerin. Dann sollte ich auch etwas damit tun, wof\u00fcr so ein K\u00f6rper da ist. Ich wollte immer schon einmal wissen, wie sich ein Blowjob f\u00fcr eine Frau anf\u00fchlt.\" \u00fcberlegt er. Dann wendet er sich zur Transformatrix. <br>\r\n\"Ich w\u00fcrde gerne in diesem K\u00f6rper einen Blowjob geben. Kannst du eines deiner M\u00e4dchen in einen Mann verwandeln? Mit einem ordentlich gro\u00dfen Schwanz?\" <br>\r\nDie Transformatrix l\u00e4chelt. \"Nat\u00fcrlich, Sterblicher. Welche meiner Dienerinnen soll ich zu deiner Befriedigung in einen Mann verwandeln?\" <br>\r\nDer Kunde \u00fcberlegt. \"Verwandel...<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nSilber</span></div></div>",
+            "created":1335934800,
+            "id":1327843,
+            "title":"Porn Star"
+        },
+        "1122111112222111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Gold in ein Kondom verwandeln"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Verwandel bitte Gold.\" sagt der Kunde, und Stefanie schreckt innerlich auf. <i>Was, ich werde gleich ein Mann sein? Und auch noch einen geblasen kriegen? Von einem Mann, der nur gerade eine Frau ist? Wie verr\u00fcckt ist das denn?</i><br>\r\nDoch da blitzt es schon auf und statt in ihrem wundersch\u00f6nen Gold-K\u00f6rper findet sich Stefanie auf einmal in dem eines muskul\u00f6sen Mannes wieder. Eines <i>nackten</i> Mannes, wie sie mulmig feststellt. Mit einem nicht gerade kleinen Schwanz. <br>\r\n\"Ist Golds neuer K\u00f6rper zu deiner Zufriedenheit, Sterblicher?\" fragt die Transformatrix den Kunden, welcher auf Stefanies Glied starrt. <br>\r\n\"Oh ja, das ist er...\" meint er und schreitet auf seinen Heels schnell zu ihr. <br>\r\nAngesichts dieser nackten Sch\u00f6nheit, die da auf Stefanie zugelaufen kommt, beginnt ihr Schwanz leicht steif zu werden. <i>Oh, so f\u00fchlt sich das also an... aber Moment, warum erregt es mich, eine nackte Frau zu sehen? Ich bin mir ziemlich sicher, hetero zu sein... sind das vielleicht die Hormone des M\u00e4nnerk\u00f6rpers?</i> doch da unterbricht der Kunde schon ihre Gedankeng\u00e4nge. <br>\r\n\"Gold, ich werde jetzt deinen Schwanz lutschen. Ich m\u00f6chte, dass du dabei meinen Kopf mit deinen H\u00e4nden nimmst und so bewegst, wie es sich f\u00fcr dich am Besten anf\u00fchlt. Und dann m\u00f6chte ich, dass du dein Sperma in meinen Mund schie\u00dft, okay?\" <br>\r\n\"Meine Aufgabe ist es, Euch zu dienen, werter Sterblicher.\" best\u00e4tigt Stefanie mit tiefer, fester Stimme. <i>Also ich bin immerhin noch ein Mensch, wenn auch des anderen Geschlechts... angesichts dessen, in was hier sonst noch so verwandelt wird, ist das ja absolut nichts. Und noch dazu werd ich daf\u00fcr bezahlt, mir einen Blasen zu lassen!</i><br>\r\nDer Kunde nickt zufrieden, geht auf die Knie, be\u00e4ugt noch kurz Stefanies Schwanz und schiebt ihn dann in seinen sch\u00f6nen Mund. <br>\r\nSofort packt Stefanie den Kopf des Kunden und beginnt, seinen Mund auf ihrem Schwanz hin und herzuschieben. Anfangs ist der Kunde noch ungeschickt, aber schnell merkt er, worauf es beim Blasen ankommt. Nicht lange und Stefanie grunzt vor Vergn\u00fcgen, als der Kunde an ihrem Schwanz saugt, mit seiner Zunge ihre Eichel umspielt und mit seinen H\u00e4nden ihre Hoden knetet. <br>\r\nNach ungef\u00e4hr zwei Minuten entl\u00e4dt sich auf einmal die gesamte sexuelle Spannung, welche sich in Stefanie aufgebaut hat und instinktiv schiebt sie ihren Schwanz so weit in den Mund des Kunden hinein, wie es nur geht, w\u00e4hrend sie ihre Ladung und seinen Hals und Mund schie\u00dft. Es ist soviel, dass dem Kunden keine andere Wahl bleibt, als das meiste davon runterzuschlucken. <br>\r\n\"Buah!\" macht er, als Stefanie ihn endlich losl\u00e4sst, und ein Teil des Spermas landet auf dem Boden und seinen Titten. <br>\r\n\"Also gut schmeckt das Zeugs definitiv nicht. Kein Wunder, dass Frauen das so selten schlucken wollen.\" Er wischt sich den Mund ab und schaut Stefanie an. <br>\r\n\"Na, wie war ich? Hab ich gut geblasen?\" <br>\r\n<i>Wie soll ich jetzt darauf antworten?</i> fragt sich Stefanie innerlich und rettet sich mit \"Wenn Ihr zufrieden seid, bin ich auch zufrieden, werter Sterblicher.\" <br>\r\nDer lacht. \"Das fasse ich jetzt als 'Ja, du bist eine perfekte Schlampe' auf.\" er streicht noch einmal \u00fcber Stefanies Schwanz und wendet sich dann wieder der Transformatrix zu. <br>\r\n\"Ich hab den K\u00f6rper einer Pornodarstellerin und hab gerade einem Mann einen geblasen. Ich denke, wenn ich das getan hab, kann ich auch direkt das volle Programm wahrnehmen. K\u00f6nntest du Silber bitte auch in einen Mann verwandeln?\" <br>\r\n\"Wie du w\u00fcnscht.\" meint die Transformatrix, und im n\u00e4chsten Moment besitzt Silber einen \u00e4hnlich muskul\u00f6sen M\u00e4nnerk\u00f6rper wie Gold. <br>\r\n\"Sehr gut... jetzt h\u00e4tte ich gerne, dass Silber mich fickt. Und zwar richtig durchnudelt. Wie so eine Pornodarstellerin wie ich sie gerade bin in Schmuddelvideos nun mal vernascht wird. Ein Bett brauchen wir nicht, so ein muskul\u00f6ser Kerl wie Silber hat sicherlich keine Probleme, eine Schlampe wie mich im Stehen zu v\u00f6geln.\" <br>\r\n\"Meine Aufgabe ist es, Euch zu dienen, werter Sterblicher.\" sagt Silber und sofort bekommt sie eine Erektion. <br>\r\n<i>Da freut sich Tom wohl.</i> denkt sich Stefanie. <i>Jetzt wird er daf\u00fcr bezahlt, eine Pornodarstellerin zu ficken, also irgendwie ist dieser Beruf bis jetzt echt geil...</i><br>\r\nDoch der Kunde ist noch nicht fertig und dreht sich mit einem fiesen Grinsen zu Stefanie um. <br>\r\n<i>Uh, oh...</i> denkt sie sich... <i>Ich glaube, der hat etwas vor, was ich nicht m\u00f6gen werde...</i><br>\r\n\"Transformatrix, k\u00f6nntest du...\"<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></div>",
+            "created":1336164780,
+            "id":1329543,
+            "title":"Gold"
+        },
+        "11221111122221111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><div> <span>\"K\u00f6nntest du bitte Gold in ein Kondom f\u00fcr Silber verwandeln?<br>\r\n<i>WAS?</i> entf\u00e4hrt es Stefanie innerlich. <i>Ein Kondom? Eine kleine Latexh\u00fclle, die dann \u00fcber Silbers Schwanz gest\u00fclpt und in die Vagina des Kunden geschoben wird? Und in die Silber dann ihr Sperma spritzt? Wer kommt denn auf so eine...</i><br>\r\nDoch da ist es auch schon zu sp\u00e4t. <br>\r\n\"Wie du w\u00fcnschst, Sterblicher.\" best\u00e4tigt die Transformatrix seine Bitte und im n\u00e4chsten Moment findet sich Stefanie bewegungslos am Boden wieder. Als kleines, dehnbares Material. <br>\r\nGeschockt sieht Stefanie den nun riesenhaften Kunden auf sich zust\u00f6ckeln. Er hebt ihre Latex-Gestalt auf und betrachtet das kleine Kondom in seiner Hand. <br>\r\n<a rel=\"nofollow\" href=\"http://anonym.to/?http://bossip.files.wordpress.com/2011/07/woman_holding_condom.jpg\" target=\"_blank\">http://anonym.to/?http://bossip.files.wo...</a><br>\r\n\"Sieh mal einer an... gerade noch ein absoluter Hengst von einem Mann. Und jetzt... nur noch ein kleines Kondom.\" er schaut zu Silber, die mittlerweile einen v\u00f6llig erigierten Penis hat. <br>\r\n\"Ich glaube, du brauchst ein Kondom, mein Gro\u00dfer. Gut, dass ich gerade eines dabei habe.\" <br>\r\nAngeekelt, aber hilflos muss Stefanie zusehen, wie der Kunde ihren K\u00f6rper \u00fcber Silbers Schwanz streift. Sie kann es nicht fassen. <i>Das darf doch nicht war sein. Ich bin jetzt nur noch ein Kondom, ein Pr\u00e4servativ, das benutzt wird!</i><br>\r\n<a rel=\"nofollow\" href=\"http://anonym.to/?http://upload.wikimedia.org/wikipedia/commons/8/84/Penis_condom.JPG\" target=\"_blank\">http://anonym.to/?http://upload.wikimedi...</a><br>\r\nDer Kunde streicht mit seiner Hand \u00fcber den latexumwickelten Schwanz Silbers und presst seinen nackten K\u00f6rper an ihren. <br>\r\n\"Na dann, du gro\u00dfer Hengst - fick mich!\" <br>\r\n\"Wie Ihr befiehlt, werter Sterblicher.\" antwortet Silber, packt mit ihren H\u00e4nden die beiden Arschbacken des Kunden, hebt ihn hoch und presst ihren Schwanz zusammen mit Stefanie in seine Vagina. Der Kunde jappst \u00fcberrascht, als ein Schwanz in ein eindringt, und fast automatisch verschr\u00e4nkt sie ihre Beine hinter Silbers R\u00fccken und h\u00e4lt sich mit seinen Armen an ihrem muskul\u00f6sen Oberk\u00f6rper fest.<br>\r\nStefanie h\u00e4tte auch gejappst, angesichts des Gef\u00fchls, IN sich einen Penis und UM sich herum eine Vagina zu haben. Aber ein Kondom kann sich weder bewegen, noch sprechen, und so ist sie zum Zuschauen verdammt, w\u00e4hrend Silber immer wieder ihren Schwanz in das Lustloch des Kunden rammt. Der schwebt offensichtlich auf Wolke 7, denn er l\u00e4sst immer exstatischere Schreie h\u00f6ren. <br>\r\n<a rel=\"nofollow\" href=\"http://anonym.to/?http://www.thaivixen.com/wp-content/uploads/2010/09/thai-sex-condom.jpg\" target=\"_blank\">http://anonym.to/?http://www.thaivixen.c...</a><br>\r\n\"Ja, ja... gib's mir, fick mich, fick mich, wie die Schlampe, die ich bin!\" <br>\r\nF\u00fcr Stefanie ist es ebenfalls ein unglaubliches Erlebnis. <i>Okay, es ist irgendwie leicht eklig, aber andererseits auch erregend. Wenn ich das meinen Freundinnen erz\u00e4hle, dass ich an meinem ersten Arbeitstag bereits als Kondom benutzt wurde...</i><br>\r\nDoch pl\u00f6tzlich \u00e4ndert sich etwas, und Silbers Penis beginnt komisch an zu zucken. <br>\r\n<i>Was zum... Oh nein, stimmt ja, das musste ja auch noch kommen.</i> zieht Stefanie innerlich eine Grimasse und erwartet das unermeidliche. Und im n\u00e4chsten Moment f\u00fcllt sich ihr K\u00f6rper mit Silbers Samen. <br>\r\n\"Ohhh ja...\" ert\u00f6nt gleichzeitig das St\u00f6hnen des Kunden. Heftig atmend l\u00e4sst er Silber los und ihr Penis rutscht aus seiner Pussy. \"Das war... echt geil. Sex als Frau ist der Hammer.\" <br>\r\nDoch dann hat sie offensichtlich eine Idee, denn sie greift in Silbers Schritt und zieht ihr das Kondom Stefanie vom Schwanz. <br>\r\n<i>Was soll das denn jetzt -</i> fragt diese sich, doch dann unterbricht sie ihren Gedankengang abrupt. Der Kunde steht grinsend vor dem Spiegel und h\u00e4lt in seinen H\u00e4nden ein... ausgeleiertes, mit Sperma gef\u00fclltes Kondom. Sie. <br>\r\n<a rel=\"nofollow\" href=\"http://anonym.to/?http://farm1.static.flickr.com/100/265165503_d56d8d4600.jpg\" target=\"_blank\">http://anonym.to/?http://farm1.static.fl...</a><br>\r\n\"Na, Gold, wie f\u00fchlt es sich so an, ein benutztes Kondom zu sein? Ich wollte dir nur mal zeigen, wie du jetzt aussiehst, nachdem du so brav Silber und mich beim Sex unterst\u00fctzt hast.\" <br>\r\nStefanie ist fassungslos. <i>Ihh, das bin ich...? Sowas? Das ist ja doch megaeklig... Oh Mann.</i><br>\r\nDer Kunde lacht und geht wieder zur Transformatrix zur\u00fcck. Dort l\u00e4sst er Stefanie achtlos fallen.<br>\r\n\"Kann ich...\"<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\ndas benutzte Kondom (Stefanie) in der Toilette runtersp\u00fclen?<br>\r\n<br>\r\nEtwas anderes</span></div></div>",
+            "created":1336164780,
+            "id":1329544,
+            "title":"Gold in ein Kondom verwandeln"
+        },
+        "11221112":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Ja, los geht's"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Also es w\u00e4re nicht schlecht, wenn ich mich vorher mit dem Prozedere und den Verwandlungen vertraut machen k\u00f6nnte...\" meint Stefanie. \"Aber wenn ihr dann dem Kunden absagen m\u00fcsst, dann kann ich auch...\" <br>\r\n\"Nein, nein. Das ist schon okay.\" unterbricht sie Eloise freundlich. \"Es ist mir ohnehin lieber, wenn du etwas Erfahrung mit Verwandlungen sammelst, bevor es ernst wird. Nun denn... fangen wir an.\" <br>\r\nSie holt einen mit Gold, Silber und Edelsteinen verzierten Stab, offensichtlich das Verwandlungsger\u00e4t, aus einem gepolsterten Etui. <br>\r\n\"Das hier ist das Verwandlungsger\u00e4t. Es funktioniert telepathisch, also ich denke, und es verwandelt. Zum Beispiel so!\" Es gibt einen Blitz und im n\u00e4chsten Moment ist die leicht f\u00fcllige Hausfrau verschwunden. An ihrer Stelle steht eine vielleicht drei\u00dfigj\u00e4hre... Granate. Besser kann Stefanie es nicht beschreiben. Sie hat gro\u00dfe, allerdings nicht riesige Titten. Mindestens D oder vielleicht sogar Doppel D. Gekleidet ist sie in eine schwarze Lederkluft und oberschenkelhohe Stiefel mit mindestens sieben Zentimeter Absatz. Ihr Gesicht hat nichts mehr mit der Hausfrau von vorhin gemein, stattdessen scharf geschnittene und strenge Z\u00fcge und autorit\u00e4re, gr\u00fcne Augen. Doch am Auffallendsten ist ihre knallrote M\u00e4ne. <br>\r\n\"Schon etwas anders zu vorhin, was?\" fragt Eloise in einer befehlsgewohnten Stimme, die etwas tigerartiges an sich hat. \"Das ist meine 'Arbeitskleidung', macht schon einiges mehr her, als die gr\u00e4uliche Hausfrau, die ich sonst bin, oder?\" <br>\r\nStefanie kann nur nicken. <br>\r\n\"Okay... aber ich bin ja nicht die einzige, die sich verwandelt. Tom, bereit?\" der nickt grinsend und im n\u00e4chsten Moment steht an seiner Stelle ein leicht bekleidetes, aber absolut gro\u00dfartig aussehendes M\u00e4dchen. Sie tr\u00e4gt eine Art silbernen Sari und steht auf ebenfalls mindestens sieben Zentimeter hohen Sandalen-Heels. Ihre Haut ist mokkafarben und ihr wundersch\u00f6nes Gesicht ist eine Art Mischung aus kaukasischen und afrikanischen Merkmalen. Doch wie bei Eloise ist das Auffallendste an Toms neuer Gestalt sein Haar - die Farbe ist das reinste Silber und wie ein Wasserfall f\u00e4llt es bis zu ihrer H\u00fcfte. <br>\r\n\"Gestatten, mein Name ist Silber. Ich bin deine Kollegin.\" sagt \"sie\" zu Stefanie. Stefanie kann gar nicht glauben, dass dieser Engel gerade noch ein Mann war. <br>\r\n\"Wow... du bist... ja...\" stammelt sie und Tom schenkt ihr ein strahlendes L\u00e4cheln. \"Wundersch\u00f6n? So w\u00fcrde ich mich auch bezeichnen. Und was wirst DU auch gleich sein. Stimmt's, Eloise?\" <br>\r\nDiese nickt. \"Ja. Stefanie, bist du bereit f\u00fcr deine erste Verwandlung?\" <br>\r\nStefanie nickt, woraufhin es wieder aufblitzt und ihr K\u00f6rper hat sich ver\u00e4ndert. Zuerst einmal f\u00e4llt ihr auf, dass ihre Kleidung anders ist. Vorher hatte sie Sneakers an, auf einmal steht sie aber auf High Heels. Und ihre Bluse und Jeans sind ebenfalls verschwunden und haben einem goldenen Sari Platz gemacht. Schnell geht sie zum Spiegel und betrachtest sich. Was sie sieht, l\u00e4sst ihr fast die Kinnlade herunterfallen. Wie Tom ist sie... wundersch\u00f6n. Sie hat praktisch dieselbe Kleidung und denselben Haarschnitt wie er. Nur dass ihre Kleidung und Haare golden, statt silbrig sind. Zudem sind ihre Gesichtsz\u00fcge vollkommen anders. Im Gegensatz zu Toms afrikanischer Hautfarbe und Gesichtsz\u00fcgen hat sie asiatische! Ihr blickt ein perfektes Gesicht mit mandelf\u00f6rmigen Augen entgegen! Vorher war Stefanie durchaus keine h\u00e4ssliche Frau, man konnte sie als h\u00fcbsch, wenn auch nicht als sch\u00f6n bezeichnen. Aber gegen das hier h\u00e4tte sie genau so gut abgrundtief h\u00e4sslich sein k\u00f6nnen. Der Unterschied w\u00e4re nur marginal gr\u00f6\u00dfer gewesen.<br>\r\nSie betrachtet ihre neue Figur noch erstaunt, da h\u00f6rt sie, wie Tom die T\u00fcr \u00f6ffnet. <br>\r\n\"Also an deiner Stelle w\u00fcrd ich mich nicht so darma\u00dfen bewundern.\" meint der grinsend. \"Du wirst diese Figur nicht lange haben...\" <br>\r\n\"Das ist mir auch klar.\" meint Stefanie etwas beleidigt - aber in einer extrem melodischen, etwas beleidigten Stimme, wie sie feststellt. \"Aber wo willst du denn hin?\" <br>\r\n\"Zum Verwandlungsraum vermutlich. Die \u00dcbungsstunden halten wir doch nicht hier im Aufenthaltsraum ab.\" <br>\r\nEloise nickt. \"Im Verwandlungsraum haben wir viel mehr M\u00f6glichkeiten. Komm mit.\" <br>\r\nSie und Tom verlassen den Raum und Stefanie folgt ihnen. <i>Wow, nicht zu glauben... diese Tigerin von einer Frau im Dominakost\u00fcm ist eigentlich eine pummelige Hausfrau. Und dieser silberhaarige, nubische Engel, der ihr so grazi\u00f6s hinterherst\u00f6ckelt, ist ein m\u00e4nnlicher Student.</i><br>\r\nAls ob Tom ihr Gedanken geh\u00f6rt h\u00e4tte, dreht er sich um. <br>\r\n\"Wir haben \u00fcbrigens Gl\u00fcck, dass du Original eine Frau bist. M\u00e4nner machen beim ersten Mal immer eine Riesenszene...\" meint er und rollt mit seinen Augen. <br>\r\n\"Wieso das denn?\" will Stefanie irritiert wissen. <br>\r\n\"Och... ganz einfach...\" Tom packt sich mit beiden H\u00e4nden an seine prominenten Titten. Ihre erste Verwandlung, und dann gleich in <i>diese</i> ansprechende H\u00fclle. Einige haben noch im Aufenthaltsraum ihren ersten Orgasmus.\" <br>\r\nEloise lacht. \"Und bei dir war das ganz anders, oder wie jetzt, Tom?\" <br>\r\n\"Nat\u00fcrlich nicht.\" spielt Tom die Unschuld vom Lande. \"Meinen ersten Orgasmus in dieser Packung hatte ich NICHT im Aufenthaltsraum.\" <br>\r\n\"Und der Flur z\u00e4hlt nicht, was?\" <br>\r\n\"Wie gesagt, nicht im Aufenthaltsraum.\" fl\u00f6tet Tom fr\u00f6hlich und Stefanie muss lachen. Irgendwie hat ihr das geholfen, denn jetzt ist sie nicht mehr so nerv\u00f6s wie vorher. Und mittlerweile sind sie offensichtlich auch an ihrem Ziel angekommen. <br>\r\nStefanie schaut sich staunend in dem Verwandlungsraum um. Raum ist etwas kurz gegriffen. Das ist schon fast eine Turnhalle, mit festem Betonboden, allerdings mit mehreren T\u00fcren. Und am anderen Ende der Wand steht ein gewaltiger Thron auf einem hohen, marmornen Podest. Die Transformatrix bemerkt ihren Blick. <br>\r\n\"Wir brauchen die Gr\u00f6\u00dfe. Zum Beispiel sind Verwandlungen in Pferde sehr beliebt. In einem kleineren Raum w\u00e4re das problematisch. Und die T\u00fcren f\u00fchren noch in verschiedene andere R\u00e4ume... zum Beispiel eine Garderobe, falls der Verwandelte \"Dress-Up\" ohne den Zauberstab spielen will, oder ein Bett f\u00fcr Sex, oder aber auch einen gr\u00f6\u00dferen Pool, sofern er etwas werden m\u00f6chte, was nur im Meer vorkommt.\" <br>\r\n\"Und noch diverse andere Sachen, die du noch kennenlernen wirst, aber von denen du lieber nichts wissen willst.\" f\u00fcgt Tom hinzu. <br>\r\n\"Jetzt mach sie doch nicht wieder nerv\u00f6s.\" meint Eloise. \"So, aber jetzt wo wir da sind, k\u00f6nnen wir anfangen. Wie bereits vorhin erw\u00e4hnt ist es in unserem Haus Standard, dass die Dienerinnen von einer silbernen und einer goldenen Statue verk\u00f6rpert werden. Die Illusion f\u00fcr den Kunden soll sein, dass es sich um kurzzeitig in Menschen verwandelte Statuen handelt, nicht um kurzzeitig in Statuen verwandelte Menschen. Soweit klar?\" <br>\r\nStefanie nickt, hat dann aber doch eine Frage. \"Wie ist es denn in anderen H\u00e4usern?\" <br>\r\n\"Also da gibt es verschiedene M\u00f6glichkeiten. Jeder hat seinen eigenen Touch. Nur um mal ein paar Beispiele zu sammeln: Die Dienerinnen k\u00f6nnten Schlangen sein, welche sich auf den Schultern der Transformatrix ausruhen, sie k\u00f6nnten zwei Pflanzen sein, die neben dem Thron stehen. Zwei Tiger, quasi als Haustiere. Oder zwei seidene oder lederne Handschuhe, welche die Transformatrix anhat und je nach Bedarf auszieht und verwandelt. Tom, hast du noch mehr Beispiele parat?\"<br>\r\n\"Aber sicher doch.\" grinst der. \"Ich hab fr\u00fcher, als ich noch in der Hauptstadt studiert hab, in einem gr\u00f6\u00dferen Etablissement gearbeitet. Dort hatten wir zum Beispiel zwei Haie in einem Bassin unterhalb der Transformatrix. Oder zwei Zierschwerter. Oder auch mein pers\u00f6nlicher Favorit: Eine Transformatrix hatte sich einmal am Vortrag 'Die Mumie' angeschaut. Es brauchte etwas Justierung des Verwandlungsger\u00e4ts und des Raumes, aber die Idee, die sie dann umsetzte, war klasse.\"<br>\r\n\"Jetzt bin ich aber gespannt.\" meinte Eloise und auch Stefanie wollte wissen, was nun kam. Was konnte denn komischer sein, als zwei Handschuhe? <br>\r\n\"Also... sie wusste, dass ein Kunde kam, der besondere Vorlieben f\u00fcr... Insekten hatte.\" fuhr Tom fort. \"Und als er den Raum betrat, verwandelte sie nicht, wie sonst immer, die Dienerinnen direkt sondern rief sie einfach herbei. Und dann...\" er f\u00fcgte eine Kunstpause ein. \"Krabbelten einmal aus allen ritzen <i>zehntausende</i> von Skarab\u00e4enk\u00e4fern und begannen, zwei gro\u00dfe Haufen zu bilden. Und dann bet\u00e4tigte sie das Verwandlungsger\u00e4t und die beiden Haufen verschmolzen langsam zu den Dienerinnen. Das Gesicht des Kunden h\u00e4ttet ihr sehen sollen. Er war begeistert!\"<br>\r\n\"Interessant...\" lie\u00df sich Eloise vernehmen. \"Er hat euch jeweils in zehntausende K\u00e4fer verwandelt und ihr habt euch im Raum versteckt, bis sie euch gerufen hat. Das klingt... interessant. Willst du das nachher noch mal ausprobieren? Ich kenn da auch einige Kandidaten, die so etwas m\u00f6gen w\u00fcrden...\" <br>\r\nTom grinste. \"Sicherlich.\" dann schaute er zu Stefanie. \"Was? Du guckst so komisch?\" <br>\r\n\"Also... ein K\u00e4fer zu sein, okay... aber zehntausende? Wie soll denn <i>das</i> gehen?\" Tom zuckte mit den Schultern. \"Keine Ahnung. Es funktioniert. Du musst dir das einfach so vorstellen, als ob du zehntausend H\u00e4nde auf einmal hast. Nur alle noch mit Augen und Beinen. Es ist sehr... krass, aber es geht. F\u00fcr weitere Details, frag die Physikerin.\"<br>\r\nEloise r\u00e4usperte sich. \"Also ein Physikvorlesung sollte das jetzt nicht werden. Kommen wir lieber zum Thema zur\u00fcck. Tom, ich will dich in eine Statue verwandeln, damit Stefanie wei\u00df, worauf sie sich gefasst machen muss, wenn ich das gleich darauf bei ihr tue. Bist du bereit?\"<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nNein, er will noch was sagen.</span></div></div>",
+            "created":1336274580,
+            "id":1330410,
+            "title":"Vorher \u00dcben"
+        },
+        "112211121":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "ein Pferd zu sein"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Jaja, du willst mich doch nur ruhig stellen.\" motzte Tom, stellt sich dann aber doch in Pose. \"Ich bin bereit.\" <br>\r\nEs blitzt auf und im n\u00e4chsten Moment steht da, wo Tom gerade noch stand... immer noch Tom. Oder zumindest eine silberne Statue von ihm. <br>\r\n\"Wow.\" meint Stefanie und geht n\u00e4her. \"Das ist immer noch Tom?\"<br>\r\n\"Ja.\" meint Eloise l\u00e4chelnd. Allerdings vollst\u00e4ndig aus purem Silber. Wie zur Best\u00e4tigung klopft sie auf Toms Statuenk\u00f6rper und ein metallisches Ger\u00e4usch ert\u00f6nt. \"So werdet ihr dann immer auf den Kunden warten - oder abwarten, bis der Kunde eure Dienste in Anspruch nehmen m\u00f6chte.\"<br>\r\nStefanie fuhr mit ihren H\u00e4nden \u00fcber Toms metallische Oberfl\u00e4che. \"Kalt und glatt... wie Silber... ist er bei Bewusstsein?\" <br>\r\n\"Ja.\" antwortet Eloise. \"Wenn man in einen Gegenstand verwandelt ist, beh\u00e4lt man sein Bewusstsein. Tom bekommt gerade alles mit. Er kann sich halt nur nicht bewegen - weil sich Statuen aus Silber nun mal nicht bewegen k\u00f6nnen. Es gibt aber Ausnahmen. Manchmal will der Kunde nicht, dass die Dienerinnen bei Bewusstsein sind. Aber das passiert selten.\"<br>\r\nStefanie nickt. \"Und jetzt wirst du mich also in eine Statue verwandeln...?\" <br>\r\n\"Ja. Aber erst mal-\" es blitzt auf \"verwandel ich Tom zur\u00fcck.\" <br>\r\nDer grinst. \"Und ich bin dann mal gespannt, was du f\u00fcr eine sch\u00f6ne Statue machst. Gold nehm ich doch an, oder?\"<br>\r\nEloise nickt. \"So, bist du bereit, Stefanie?\" <br>\r\nDiese nickt. <br>\r\n\"Gut, dann... viel Spa\u00df!\" <br>\r\nIm n\u00e4chsten Moment blitzt es und dann - kann Stefanie sich nicht mehr bewegen. Ihr K\u00f6rper ist auf einmal kalt... wie Metall... ihr K\u00f6rper ist Metall, aber es f\u00fchlt sich nicht unangenehm an. Sie atmet nicht mehr, aber irgendwie macht es ihr ebenfalls nichts aus. <i>Ich bin tats\u00e4chlich eine Statue aus purem Gold geworden!</i> denkt Stefanie ungl\u00e4ubig. Sie probiert, einen Muskel zu bewegen, irgendeinen. Aber es passiert nichts. <br>\r\nTom schlendert auf ihren eingefrorenen K\u00f6rper zu. \"Ach ja...\" meint er, w\u00e4hrend er mit beiden H\u00e4nden \u00fcber Stefanies harte, glatte Oberfl\u00e4che f\u00e4hrt \"als Statue f\u00fchlt es sich extrem toll an, wenn man ber\u00fchrt wird. Wenn warme H\u00e4nde deine kalten, metallenen Br\u00fcste ber\u00fchren...\" <br>\r\nInnerlich jappst Stefanie auf angesichts der Sensationen, die ihren Metallk\u00f6rper nun durchfahren. Aber sie kann nichts dagegen machen, ist zum Zuschauen verdammt. <br>\r\n\"Jetzt \u00e4rger die arme Stefanie doch nicht so.\" tadelt Eloise Tom, hat aber ein leichtes L\u00e4cheln auf den Lippen. \"Ich w\u00fcrde vorschlagen, wir lassen sie jetzt erst mal so... damit sie sich dran gew\u00f6hnen kann, eine Statue zu sein. Ich hab heute noch nichts gegessen, willst du mir im Aufenthaltsraum Gesellschaft leisten?\"<br>\r\n\"Aber sicher doch!\" meint Tom, und gemeinsam verlassen sie den Raum. <br>\r\n<i>Na toll... ich bin eine Statue... eine unbewegliche, metallene Statue... und was mache ich jetzt?</i> denkt sich Stefanie. <i>Genau, gar nichts... seit wann k\u00f6nnen Statuen irgendwas machen... au\u00dfer rumstehen?</i><br>\r\nSo vergeht die Zeit, und auch wenn es wider erwarten nicht unangenehm ist, eine Statue zu sein, so wird Stefanie nach einiger Zeit langweilig. Nach einer halben Stunde, die sie als Statue verbracht hat, kommen dann Tom und Eloise endlich wieder. <br>\r\n\"Hat sich keinen Zentimeter vom Fleck bewegt. Brav.\" stellt Tom zufrieden fest. \"Nicht, dass ich was anderes erwartet h\u00e4tte...\"<br>\r\nEloise schmunzelt, z\u00fcckt dann jedoch das Verwandlungsger\u00e4t und im n\u00e4chsten Moment ist Stefanie wieder sie selbst. Oder zumindest in ihrem Dienerinnenk\u00f6rper. <br>\r\n\"Und, wie war's?\" will Eloise wissen.<br>\r\n\"Oh... also... interessant. Und irgendwie aufregend. Ich war jetzt tats\u00e4chlich eine halbe Stunde lang nichts weiter als ein Haufen wohl geformtes Gold?\" <br>\r\nTom nickt. \"Jepp... und bei den aktuellen Goldpreisen mussten Eloise und ich uns am Riemen rei\u00dfen, dich nicht einfach einzuschmelzen und zu verkaufen. Aber so gemein sind wir dann doch nicht...\" <br>\r\nStefanie lacht. \"Und was kommt jetzt...?\" <br>\r\n\"Jetzt kommt eine Standardgeschichte.\" erkl\u00e4rt Eloise. \"Verwandlungen in Tiere werden h\u00e4ufig gew\u00fcnscht. Wir fangen erst mal mit normalen S\u00e4ugetieren an. Also ich verwandel zuerst Tom, damit du siehst, wie es ist. Und dann dich. Wie eben bei der Statue halt.\"<br>\r\nStefanie nickt, auch wenn ihr etwas flau im Magen wird. <br>\r\n\"Was f\u00fcr ein Tier h\u00e4ttest du denn gerne? Aber wie gesagt, erst mal etwas Harmloses... zum Beispiel Haustiere, oder Nutztiere...\" will Eloise wissen. <br>\r\nStefanie \u00fcberlegt. \"Also ich hab mich immer schon mal gewundert, wie es denn so w\u00e4re ein...\"<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes </span></div></div>",
+            "created":1336319220,
+            "id":1330715,
+            "title":"Ja, los geht's"
+        },
+        "1122111211":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Tiger"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ich war als Kind immer schon etwas pferdeverr\u00fcckt.\" meint Stefanie etwas scheu. \"Aber echt mal f\u00fcr kurze Zeit ein Pferd zu <i>sein</i>, das klingt schon spannend.\" <br>\r\nEloise nickt. \"Ja, so denken viele Leute. Die Verwandlung in ein Pferd ist eine der h\u00e4ufigsten, die wir hier machen. Dann werde ich erst mal Tom verwandeln. Bereit?\" .<br>\r\n\"Klar, wie immer.\" meint dieser und im n\u00e4chsten Moment steht nicht mehr das silberhaarige M\u00e4dchen, sondern ein gro\u00dfes, braunes Pferd mit schwarzer M\u00e4hne vor Eloise und Stefanie.<br>\r\nTom wiehert und t\u00e4nzelt dann einmal um die eigene Achse. <br>\r\n\"Wie du siehst, ist Tom jetzt ein richtiges, hundertprozentiges Pferd. Tom, zeig ihr mal, was du so drauf hast.\" sagt Eloise zu Stefanie gewand. Der schnauft einmal kurz und sprintet schnell durch den Raum, um dann wieder auf Stefanie zuzutrotten. <br>\r\nDiese geht auf ihn zu, und betrachtet das Pferd, das vorhin ein Mensch war, genauer. <br>\r\n\"Das ist ja unglaublich...\" meint sie, w\u00e4hrend sie mit der Hand durch seine M\u00e4hne streift. \"Er ist wirklich ein Pferd. Mir war schon klar, was ihr hier macht... aber das noch mal direkt so zu sehen...\" <br>\r\nEloise l\u00e4chelt sie nur an. \"Ja, das ist schon etwas komisch. Aber Tom holen wir jetzt erst mal zur\u00fcck. Es geht ja heute um dich, nicht um ihn.\" <br>\r\n\"Och!\" macht dieser und zieht eine Schnute, als er wieder in menschlicher Gestalt vor ihnen steht. \"Es hat sich gerade so toll angef\u00fchlt, gekrault zu werden.\" <br>\r\n\"Du bist zum Arbeiten hier und nicht zum Spa\u00df haben!\" tadelt Eloise ihn und wendet sich dann wieder Stefanie zu. <br>\r\n\"Bist du bereit?\" <br>\r\nStefanie nickt, und im n\u00e4chsten Moment ver\u00e4ndert sich auf einmal die Welt um sich herum. Die Farben sind... anders. R\u00f6tliche Farben waren irgendwie leuchtender, br\u00e4unliche hingegen blasser und verschwimmen ineinander. Zudem kann sie auf einmal fast alles um sich herum sehen - nur nichts direkt vor oder hinter sich. <br>\r\nUnd dann ihr K\u00f6rper. Sie steht auf einmal auf allen vieren, aber mit dicken, unbeweglichen Enden an den F\u00fc\u00dfen. Sie streckt ihren langen Sch\u00e4del an ihrem biegsamen Hals und betrachtet ihren neuen K\u00f6rper. Ein gro\u00dfer, brauner K\u00f6rper mit vier langen Beinen. Und einem Schwanz. <br>\r\n<i>Es stimmt.</i> denkt sie sich. <i>Ich bin ein Pferd. Ich bin tats\u00e4chlich ein Pferd!</i><br>\r\nTestweise bewegt sie alle vier Beine nacheinander, hebt sie mal in die Luft in setzt sie dann wieder ab. <br>\r\n\"Na, gef\u00e4llt es dir, ein Pferd zu sein?\" will Eloise l\u00e4chelnd wissen. Stefanie will etwas sagen, aber nur eine Art Wiehern kommt aus ihrem Mund... nein, Maul. Konsterniert schlie\u00dft sie es wieder und betrachtet Eloise und Tom fragend. <br>\r\nBeide lachen. \"Pferde k\u00f6nnen nicht sprechen. Kratz einfach mit einer Vorderhufe am Boden, einmal ist ja, zwei Mal ist nein.\" <br>\r\nSofort kratzt Stefanie einmal mit ihrer Hufe. \"Das freut mich.\" meint Eloise und Tom nickt. \"Willst du nicht mal deinen neuen K\u00f6rper ausprobieren? Ein bisschen durch den Raum sprinten und so?\" <br>\r\nDas l\u00e4sst sich Stefanie nicht zwei Mal sagen und beginnt, langsam durch den riesigen Raum zu trotten. Doch es dauert nicht lange, und sie katapultiert quasi ihren Pferdek\u00f6rper im Galopp \u00fcber den Boden. Tom schaut dem umhertollenden Pferd grinsend zu, w\u00e4hrend Eloise zu einer der vielen T\u00fcren geht. <br>\r\n<i>Das ist unglaublich, wie sich das anf\u00fchlt!</i> denkt sich Stefanie derweil euphorisch. <i>Pferde haben so viel Energie! Und es macht so einen Spa\u00df, zu galoppieren. Und das knallen, wenn meine Hufe auf den Boden schlagen - nicht zu fassen, dass ich tats\u00e4chlich ein Pferd bin!</i><br>\r\nAber dann lenkt etwas anderes ihre Aufmerksamkeit auf sich. Eloise kommt wieder, und in ihren Armen h\u00e4lt sie... <br>\r\n<i>Zaumzeug?</i> denkt sich Stefanie etwas perplex und bleibt abrupt stehen. <i>Und ein Sattel? Was wird das denn? Will sie mich etwa...?</i><br>\r\n\"Ich glaube, du fragst dich gerade, was Eloise mit dem Sattel vorhat, nicht wahr?\" will Tom wissen und Stefanie scharrt einmal mit ihrem Vorderhuf. <br>\r\n\"Das ist ganz einfach... es passiert h\u00e4ufig, dass Kunden auf den in Pferden verwandelten Dienerinnen reiten m\u00f6chten. Und genau das werden wir jetzt auch tun. Oder hast du was dagegen?\" <br>\r\n<i>Wie jetzt, reiten? Mich reiten? Wie ein Pferd? Wobei... ich bin ja ein Pferd. Aber... hm... andererseits, das k\u00f6nnte interessant werden.</i> <br>\r\nAlso scharrt Stefanie einmal mit ihrer Vorderhufe und Eloise geht auf sie zu. <br>\r\n\"So, erst mal das Zaumzeug...\" <br>\r\nEs f\u00fchlt sich extrem komisch an, so eine Ansammlung an Lederriemen um den Kopf gebunden zu bekommen, insbesondere das metallische Gebiss im Maul, aber sie gibt sich M\u00fche, ruhig zu bleiben. Dann setzen ihr Eloise und Tom gemeinsam den Sattel auf und zurren ihn fest. <br>\r\nStefanie f\u00fchlt sich nun irgendwie eingeengt, ist aber gespannt, wie sie nun aussehen w\u00fcrde.<br>\r\nTom deutet ihren Blick zum Spiegel richtig. <br>\r\n\"Ja, schau dir ruhig mal an, wie du gez\u00e4umt und gesattelt aussiehst.\" Stefanie trabt zum Spiegel und betrachtet sich dort. Ihr l\u00e4uft ein kleiner Schauer \u00fcber den R\u00fccken, als ihr statt ihrer normalen, menschlichen Gestalt ein Pferd mit Sattel und Zaumzeug entgegen starrt. Doch dann f\u00e4llt ihr etwas auf. <br>\r\n<i>Moment mal... was ist denn da...</i> schnell dreht sie ihren K\u00f6rper um und spreizt ihre Hinterbeine so weit es geht. <i>Tats\u00e4chlich! Was soll denn...</i> verwundert dreht sie sich zu Tom und Eloise um, die die ganze Aktion mit Fragezeichen in ihren Augen beobachtet haben. Doch dann scheint etwas in Tom zu klicken und er beginnt laut zu lachen. Auch Eloise scheint jetzt zu kapieren und lacht ebenfalls schallend. <br>\r\nWas Stefanie nicht daran hindert, auf sie zu zu trotten und sie weiterhin anklagend aus ihren gro\u00dfen, Pferdeaugen anzustarren. <i>Echt mal, was lachen die sich tot? Und was soll das \u00fcberhaupt...?</i><br>\r\n\"Du fragst dich sicherlich...\" jappst Tom \"warum du einen PENIS zwischen deinen Beinen hast, nicht wahr?\" und Stefanie scharrt best\u00e4tigend mit einem Vorderhuf. \"Tja, das musst du Eloise fragen... die sagt es dir sicher.\" <br>\r\nDie hat sich mittlerweile auch eingekriegt, in ihren Augen funkelt es aber noch. \"Ganz genau... du bist keine Stute, sondern ein Hengst. Ich dachte mir, ich geb dir einen sehr, \u00e4h, energetischen Pferdek\u00f6rper, also war es nur logisch, dich zu einem Hengst zu machen. Ich hoffe, das st\u00f6rt dich nicht.\"<br>\r\nEtwas perplex starrt Stefanie noch die beiden an, scharrt dann aber zwei Mal mit einem Huf. <i>Na gut, da hat sie recht. Wenn das Mama sehen k\u00f6nnte. Ihr kleines Baby ist nicht nur ein mehrere hundert Kilo schweres Pferd, sondern auch noch ein Hengst...</i><br>\r\n\"Aber ich glaube, es wird Zeit, dass du mal ausgeritten wirst.\" meint Tom, schaut dann aber Eloise an. \"Aber du m\u00fcsstest mir noch eine General\u00fcberholung verpassen. Mit diesen Schuhen-\" er deutet auf seine High Heels \"komm ich doch in keine Steigb\u00fcgel.\"<br>\r\n\"Oh, ganz vergessen.\" macht diese, und im n\u00e4chsten Moment hat Tom normale Reitsachen an, ist allerdings immer noch in seinem Dienerinnenk\u00f6rper. Diese kurvigen Rundungen in knallenger Reithose sind durchaus eine spektakul\u00e4re Sicht, denkt sich Stefanie. <br>\r\n\"Dann wollen wir mal.\" meint er, geht mit einem Stiefel in einen Steigb\u00fcgel und schwingt sich im n\u00e4chsten Moment auf Stefanies Sattel. Aufgeschreckt \u00fcber das pl\u00f6tzliche Gewicht stolpert sie einige Schritte vorw\u00e4rts, aber Tom beruhigt sie sofort wieder, indem er ihre Z\u00fcgel in die Hand nimmt und ihren Hals t\u00e4tschelt. <br>\r\n\"Shh, geh's ruhig an. Ich bin jetzt der Reiter, du bist das Pferd. Du denkst einfach gar nicht daran, wo du hinwillst. Du l\u00e4sst dich einfach von mir f\u00fchren, okay?\" <br>\r\nSie scharrt wieder mit ihrer Hufe einmal auf dem Boden. \"Sehr gut, dann, los geht's.\" meint Tom und Stefanie trottet los. <br>\r\n<i>Irgendwie hat es etwas entspannendes, sich lenken zu lassen.</i> denkt sie sich nach einiger Zeit. <i>Schon ein komisches Gef\u00fchl. Ich bin jetzt einfach nur noch ein Reittier. Aber es f\u00fchlt sich richtig an, was ich mache...</i><br>\r\nEloise betrachtet zufrieden, wie Tom auf Stefanie reitet, sie galoppieren und springen l\u00e4sst. Nach etwas mehr als 15 Minuten ruft sie beide zur\u00fcck.<br>\r\n\"So, erst mal machen wir deinen Sattel ab und dann dein Zaumzeug. Und dann verwandeln wir dich zur\u00fcck.\"<br>\r\nStefanie ist etwas entt\u00e4uscht, dass es schon vorbei ist, aber diese Verwandlung hat ihr jetzt irgendwie Lust auf mehr gemacht. <i>Also das mit dem Pferd sein muss ich jetzt \u00f6fters mal probieren... vielleicht sogar mal drau\u00dfen, in der freien Natur. Mein Freund k\u00f6nnte mich ja reiten, das w\u00e4re doch mal eine Idee!</i><br>\r\nSchlie\u00dflich ist alles abgenommen und Eloise verwandelt Stefanie wieder in die Figur der Dienerin Gold. <br>\r\nSie braucht einige Sekunden, um wieder damit klar zu kommen, nur noch zwei Beine, daf\u00fcr aber zwei H\u00e4nde zu haben. Doch dann sprudelt es aus ihr heraus. <br>\r\n<i>Oh, wow! Das war unglaublich! Ich war ein Pferd! Ich war ein richtiges Pferd, einfach nur der Hammer!</i><br>\r\n\"Hm, es scheint ihr zu gefallen. Wir haben einen neuen Fan.\" grinst Tom und auch Eloise muss l\u00e4cheln.<br>\r\n\"Freut mich... dann ist das ja der richtige Job f\u00fcr dich. Aber erst mal... weitere Verwandlungen, wie w\u00e4r's?\" <br>\r\n\"Aber dann ohne mich als vorherige Testperson, ja? Nachher kannst du mich wieder nehmen, aber jetzt kommen ja eh nur S\u00e4ugetiere, das ist ja kein gro\u00dfer Unterschied zu einem Pferd.\" mosert Tom.<br>\r\nStefanie nickt. Was w\u00fcrde jetzt wohl kommen? <br>\r\n\"Also...\" \u00fcberlegt sich Eloise \"was nun... mal sehen... ah, ich hab's! Dann verwandeln wir dich jetzt in einen...<br>\r\n<br>\r\n <br>\r\nChoices:<br>\r\n<br>\r\nEtwas anderes</span></div></div>",
+            "created":1336337640,
+            "id":1330878,
+            "title":"ein Pferd zu sein"
+        },
+        "11221112111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Eine Strumpfhose",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><div> <span>Und im n\u00e4chsten Moment ist Stefanie schon wieder ein Tier. Mit gelb gestreiftem Fell. <br>\r\n<i>Hmm, ein Tiger zu sein f\u00fchlt sich anders an, als ein Pferd zu sein. Irgendwie majest\u00e4tischer... gef\u00e4hrlicher... geschmeidiger.</i> <br>\r\nSchnell und lautlos huscht sie zum Spiegel und bestaunt die Raubkatze, die ihr entgegen blickt. Sie rei\u00dft ihren Rachen auf und betrachtet ihre gewaltigen Rei\u00dfz\u00e4hne. <br>\r\n<i>Hm, das ist schon komisch...</i> denkt sie mulmig. <i>Ich k\u00f6nnte jederzeit Tom und Eloise fressen. Ich bin ja jetzt ein ausgewachsener Tiger, gegen so ein Gesch\u00f6pf kann sich kein Mensch wehren...</i><br>\r\nSie streift noch ein bisschen durch den Raum, bis Eloise sie wieder zur\u00fcck ruft und erneut verwandelt. <br>\r\n\"Um das ganze ein bisschen zu beschleunigen, verwandel ich dich jetzt jetzt einfach immer direkt.\" meint sie. \"Dann machst du dich kurz mit deiner neuen Form vertraut, und daraufhin kommt die n\u00e4chste, okay?\" <br>\r\nStefanie nickt, und in der n\u00e4chsten Stunde wird sie von Eloise in alle m\u00f6glichen S\u00e4ugetiere verwandelt: Nashorn, Giraffe, Hirsch, Antilope, B\u00fcffel, L\u00f6we, Elefant, Bison, Elch, Kuh... <br>\r\nAls sie schlie\u00dflich am Ende wieder zu einem Menschen verwandelt wird, ist ihr richtiggehend schwindelig. <br>\r\n\"Also das...\" stellt sie trocken fest \"war definitiv Zoologie im Schnelldurchlauf. Ihr solltet Vorlesungen geben.\" <br>\r\n\"Oh, die gibt's in der Tat.\" best\u00e4tigt Eloise fr\u00f6hlich. \"Die Verwandlungsger\u00e4te werden f\u00fcr sowas auch benutzt. Es macht Zoologie-Vorlesungen erheblich einfacher, wenn man den Stoff direkt am Beispiel erkl\u00e4ren kann. Also ziehen die Studenten Strohhalme, und der Verlierer ist dann die Vorlesung \u00fcber ein oder mehrere Tiere, \u00fcber welche gerade vorgetragen wird.\" <br>\r\nJetzt mischt sich auch Tom ein. \"Die Insektenforscher haben so etwas mal versucht... aber schnell aufgegeben. Angeblich war es zu kostspielig, und die meisten Insekten sind auch ohne menschlichen Verstand recht zug\u00e4nglich f\u00fcr Vorlesungen. Aber unter Studenten ging das Ger\u00fccht um, dass die Vorlesungen immer komisch leer waren, wenn ausgelost wurde, wer denn heute die Spinne sein durfte.\" Tom grinst. \"Alles Ger\u00fcchte nat\u00fcrlich, versteht sich.\" <br>\r\n\"Aber...\" f\u00e4llt Eloise jetzt wieder ein. \"Zeit ist knapp und das ist nicht das Thema. Zu Zoologie kommen wir sp\u00e4ter noch einmal. Aber jetzt interessiert uns erst mal etwas anderes... die Modewelt.\" <br>\r\n\"Also... werdet ihr mich jetzt in Kleidung verwandeln?\" will Stefanie nerv\u00f6s wissen. Ihr war das von anfang an klar, dass es auch solche Verwandlungen geben w\u00fcrde. Und immerhin war sie ja jetzt auch schon alle m\u00f6glichen Tiere gewesen. Aber in Kleidung verwandelt und getragen werden ist trotzdem ein... beunruhigender Gedanke.<br>\r\n\"So halb.\" best\u00e4tigt Eloise. Zuerst einmal verwandel ich Tom hier. Und du wirst ihn anziehen. Das passiert oft, dass die Dienerinnen jemand Verwandeltes anziehen m\u00fcssen. Also, Tom... irgendwelche W\u00fcnsche?\" <br>\r\n\"Aber sicher doch. Verwandel mich in...\" <br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\n</span></div></div>",
+            "created":1336346280,
+            "id":1331047,
+            "title":"Tiger"
+        },
+        "112211121111":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><div> <span>\"Eine normale, schwarze Nylon-Strumpfhose. Das ist immer recht spa\u00dfig. Und vor allem-\" Tom wirft Stefanie einen s\u00fcffisanten Blick zu \"kann ich so ihre Beine so viel antatschen, wie ich will...\" <br>\r\nEloise rollt nur mit den Augen und verwandelt Tom. An seiner Stelle flattert nun nur noch ein schwarzes etwas - eine Strumpfhose - zu Boden. Z\u00f6gerlich hebt Stefanie Tom, jetzt nur noch ein St\u00fcck lebloser Stoff, auf. <br>\r\n\"Wow... unglaublich, dass das ein Mensch ist. F\u00fchlt sich an wie meine anderen Strumpfhosen Zuhause auch.\" <br>\r\n\"Kein Wunder, das ist ja auch kein Mensch, sondern eben eine Strumpfhose.\" korrigiert Eloise. \"Wenn auch eine Strumpfhose, die sehen, h\u00f6ren und f\u00fchlen kann. Und jetzt, zieh ihn mal an.\" <br>\r\nStefanie nickt, streift ihre High Heels und ihren Minirock ab und zieht sich sorgf\u00e4ltig und vorsichtig Tom \u00fcber die Beine. Dann steht sie auf und l\u00e4uft etwas mit Tom durch den Raum. <br>\r\n\"Das ist irgendwie krass...\" meint sie zu Eloise. \"Ich trage gerade einen Menschen als Kleidung... also irgendwie... verr\u00fcckt...\" <br>\r\nEloise nickt. \"Ja... aber so ist das in diesem Job. Ich glaub das war genug, oder? Zieh ihn wieder aus, damit ich ihn wieder zur\u00fcck verwandeln kann.\" <br>\r\nStefanie nickt und eine Minute sp\u00e4ter steht wieder ein grinsender Tom (allerdings in seiner Silber-Gestalt) vor ihnen. <br>\r\n\"Das war nice. Und ich zeig dir jetzt, wie nice es ist, von jemandem als Kleidung getragen zu werden. Bist du bereit?\" <br>\r\nStefanie nickt und Tom schaut Eloise an. \"K\u00f6nntest du sie bitte in...\"<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nHigh Heeled Boots verwandeln<br>\r\n<br>\r\nEtwas anderes</span></div></div>",
+            "created":1337200560,
+            "id":1338761,
+            "title":"Eine Strumpfhose"
+        },
+        "112211121112":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "Nein, weiter mit Toms Entscheidung in was er verwandelt werden will",
+                "Ja, Stefanie ist noch zu nerv\u00f6s f\u00fcr Kleidungsverwandlungen"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Verwandel mich in...\" <br>\r\n<br>\r\nW\u00e4hrend Tom noch \u00fcberlegt, kaut Stefanie an ihrer Lippe rum. Sieht sie etwas unentschlossen aus? </span></div></span></div>",
+            "created":1346185080,
+            "id":1415690,
+            "title":"Etwas anderes"
+        },
+        "1122111211122":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><div> <span>\"Stopp!\" ruft da Stefanie dazwischen, und Tom und Eloise schauen sie fragend an. <br>\r\n\"Also... tut mir leid...\" stammelt sie leicht nerv\u00f6s \"aber... in Kleidung zu verwandeln... das ist mir gerade noch etwas zu krass. K\u00f6nnen wir nicht mit Tieren weiter machen? Damit ich mich an die ganze Sache gew\u00f6hne...?\"<br>\r\nEloise schaut sie an und zuckt mit den Achseln. \"Das geht schon. Aber wir haben ja schon fast alles \"normale\" durch. Dir ist klar, dass dann jetzt h\u00e4rtere Sachen kommen w\u00fcrden...?\" <br>\r\n\"Und das hei\u00dft...?\" will Stefanie wissen und Tom beantwortet ihr diese Frage nur allzu gerne. Mit einem ekligen Grinsen versteht sich. <br>\r\n\"Nat\u00fcrlich Viehzeugs. Kakerlaken. Spinnen. Regenw\u00fcrmer.\" <br>\r\nStefanie sch\u00fcttelt sich, w\u00e4hrend Eloise tadelnd Tom anschaut. <br>\r\n\"Na na, jetzt mach sie mal nicht so scheu.\" sie wendet sich wieder Stefanie zu. \"Aber im Grunde genommen hat er recht. Wenn wir jetzt nicht mit, oder eher gesagt als Kleidung \u00fcben, dann w\u00fcrden wir jetzt mit den nicht so sch\u00f6nen Lebewesen weitermachen. Nat\u00fcrlich nicht direkt mit Insekten, es sei denn du willst das. Ich w\u00fcrde dann wahrscheinlich mit etwas Harmlosem wie einer Schlange anfangen, dich dann in Fische verwandeln und von da an dann langsam zu den Insekten, Arachniden und und und vorgehen.\" <br>\r\nStefanie nickt nerv\u00f6s. \"Ja, schon klar... aber das ist halt alles noch so... komisch. Gibt's erst mal nicht was etwas Harmloseres?\" <br>\r\nEloise runzelt die Stirn und \u00fcberlegt, aber Tom scheint eine Idee zu haben. \"Hm... wie w\u00e4r's denn mit den Multibreasted-Fetischen?\" und sofort leuchtet Eloises Gesicht auf. \"Ah ja, das w\u00e4re noch eine M\u00f6glichkeit. Und das w\u00fcrde sie recht gut auf die Insekten vorbereiten...\" <br>\r\n\"Multibreasted... Fetische...?\" fragt Stefanie und schaut die beiden fragend an. <br>\r\n\"Also \"multibreasted\" ist eigentlich irref\u00fchrend.\" beginnt Eloise \"oder beschreibt zumindest den Themenkomplex nicht komplett. Wir kriegen immer mal Kunden, die besonderes Interesse an Frauen mit mehr als zwei Br\u00fcsten haben. Oder auch mehr von... anderen K\u00f6rperteilen.\" <br>\r\n\"Andere K\u00f6rperteile?\" echot Stefanie und Tom nickt wieder grinsend. \"Jawoll. Sowas wie dreibeinige Frauen. Vierarmige Sch\u00f6nheiten. Zweik\u00f6pfige Amazonen.\" <br>\r\n\"Zwei K\u00f6pfe?\" will Stefanie wissen. \"Wie geht das denn... w\u00fcrdest du bei sowas Tom und mich... verschmelzen?\" <br>\r\n\"Das geht auch.\" best\u00e4tigt Eloise. \"Aber meistens \"zaubere\" ich einfach der Dienerin einen zweiten Kopf herbei. Ist einfacher.\" <br>\r\n\"Ja aber... dann w\u00e4re man ja zwei... Personen... oder?\" zaudert Stefanie immer noch mit dem Konzept. <br>\r\n\"Nein, nein, du stellst dir das falsch vor.\" berichtigt sie Tom. \"Du bist dann immer noch du. Nur halt mit zwei K\u00f6pfchen. Quasi ultimatives Multitasking. Recht interessant...\" <br>\r\n\"Das w\u00e4re also die andere M\u00f6glichkeit.\" stellt Eloise klar und schaut Stefanie an. \"Also, was soll es sein? Insekten? Oder multibreasted?\" <br>\r\nStefanie \u00fcberlegt und entscheidet sich schlie\u00dflich. <br>\r\n<br>\r\n\"Also gut, dann... <br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nKrabbeldinger sind Krabbeldinger, alles ist besser als das, also multibreasted<br>\r\n<br>\r\nSie sind zwar eklig, aber lieber irgendwelche Insekten als eine Freak-Frau</span></div></div>",
+            "created":1346185140,
+            "id":1415693,
+            "title":"Ja, Stefanie ist noch zu nerv\u00f6s f\u00fcr Kleidungsve..."
+        },
+        "12":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ist dieser 18-j\u00e4hrige Kunde m\u00e4nnlich oder weiblich?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nM\u00e4nnlich<br>\r\n<br>\r\nWeiblich</span></div></span></div>",
+            "created":1335848400,
+            "id":1327052,
+            "title":"Ein 18-j\u00e4hriger Kunde"
+        },
+        "13":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ist der 35-j\u00e4hrige Kunde m\u00e4nnlich oder weiblich?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nM\u00e4nnlich<br>\r\n<br>\r\nWeiblich</span></div></span></div>",
+            "created":1335848400,
+            "id":1327053,
+            "title":"Ein 35-j\u00e4hriger Kunde"
+        },
+        "14":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "choices":[
+                "M\u00e4nnlich",
+                "Weiblich"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ist der 25-j\u00e4hrige Kunde m\u00e4nnlich oder weiblich?</span></div></span></div>",
+            "created":1335848400,
+            "id":1327054,
+            "title":"Ein 25-j\u00e4hriger Kunde mit einigen Freunden"
+        },
+        "141":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sind seine Freunde m\u00e4nnlich oder weiblich?<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nM\u00e4nnlich<br>\r\n<br>\r\nWeiblich <br>\r\n<br>\r\nGemischt</span></div></span></div>",
+            "created":1335848400,
+            "id":1327055,
+            "title":"M\u00e4nnlich"
+        },
+        "142":{
+            "author_id":"tf-fanatic",
+            "author_name":"tf-fanatic",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sind seine Freunde m\u00e4nnlich oder weiblich?<br>\r\n<br>\r\n<br>\r\nChoices:<br>\r\n<br>\r\nM\u00e4nnlich<br>\r\n<br>\r\nWeiblich<br>\r\n<br>\r\nGemischt</span></div></span></div>",
+            "created":1335848400,
+            "id":1327057,
+            "title":"Weiblich"
+        }
+    },
+    "info":{
+        "author_id":"tf-fanatic",
+        "author_name":"tf-fanatic",
+        "brief_description":"Ein Etablissement, welches Kunden einen besonderen Service bietet - Verwandlungen. ",
+        "created":1335895440,
+        "description":"<td align=\"left\" class=\"norm\">Vorweg: Die Idee zu dieser Interactive Story kam nicht von mir. Ich habe sie mehr oder weniger aus der englischen \"Transformations - When TF technology becomes your plaything.\" Story \"geborgt\". Dort hat der User Bankaimorph mehrere Kapitel \u00fcber die Transformatrix geschrieben und ich fand die Idee derma\u00dfen ansprechend, dass ich sie leicht abgewandelt f\u00fcr eine deutsche Version \u00fcbernommen hab. Hier das Original:<br>\r\n<br>\r\n<a class=\"blue2roll\" rel=\"nofollow\" href=\"http://www.writing.com/main/interact/item_id/1630274-Transformations/map/135\" target=\"_blank\">http://www.writing.com/main/interact/item_id/1630274-Transformations/map/135</a><br>\r\n<br>\r\n---------------------------------------------------------------------------<br>\r\n<br>\r\nSeit einigen Jahren gibt es kompakte, portable Verwandlungsger\u00e4te. Sie funktionieren zuverl\u00e4ssig und gefahrlos, und bieten so gut wie keine Grenze beim Verwandeln von Menschen. Doch obwohl sie mittlerweile sehr verbreitet sind, ist die Technologie unglaublich teuer. Die Ger\u00e4te ben\u00f6tigen ultrakleine Quantencomputer und superdichte Energiespeicher, dazu noch supraleitende Leiterbahnen. Die Rechenpower, welche zum Umstrukturieren eines K\u00f6rper n\u00f6tig ist - praktisch jedes Atom muss neu angeordnet oder sogar umgewandelt werden - ist so gigantisch, dass normale Halbleitertechnik bei weitem nicht ausreicht. Selbiges gilt f\u00fcr die ben\u00f6tigte Energie - eine einfache Batterie k\u00f6nnte niemals die Power aufbringen, all diese Atome gleichzeitig zu beeinflussen. Und normale Leiterbahnen aus Kupfer w\u00fcrden angesichts der dadurch entstehenden, gewaltigen Str\u00f6me und Spannungen einfach vergl\u00fchen. Ein handels\u00fcbliches Verwandlungsger\u00e4t ist preislich daher mit einem PKW der gehobenen Mittelklasse gleichzusetzen - in Vollausstattung! <br>\r\n<br>\r\nEinige spleenige Million\u00e4re mit dem n\u00f6tigen Kleingeld h\u00e4lt dies nat\u00fcrlich nicht auf, mit diesen s\u00fcndhaft teuren Ger\u00e4ten Spa\u00df zu haben. Doch dem Gro\u00dfteil der Menschheit bleiben sie leider verwehrt, sehr zum Leidwesen derjenigen, die schon seit jeher Fantasien besa\u00dfen, welche mit Verwandlungen zu tun hatten. <br>\r\nDoch einige windige Gesch\u00e4ftsleute erkannten die Marktl\u00fccke, die sich ihnen auftat - und so er\u00f6ffneten \u00fcberall auf der Welt neue Etablissements in den \u00f6rtlichene Rotlicht-Vierteln. Nur war das Expertise dieser Lokalit\u00e4ten nicht Sex, oder eher gesagt nicht <i>nur</i> Sex - nein, hier war es Menschen m\u00f6glich, f\u00fcr kurze Zeit ein Verwandlungsger\u00e4t mitsamt Operator (und, sofern gew\u00fcnscht, willigen Subjekten) zu mieten und seinen Fantasien freien Lauf zu lassen. <br>\r\nDiese Dienste waren schon f\u00fcr Betr\u00e4ge um die 100 Euro pro Stunde zu erhalten, daher erfreuen sie sich seit einiger Zeit wachsender Beliebtheit. <br>\r\n<br>\r\nAuch in der hiesigen Stadt gibt es seit einiger Zeit so ein Etablissement. Es ist ein gro\u00dfes Geb\u00e4ude mit gro\u00dfen, r\u00f6tlich leuchtenden Buchstaben \u00fcber dem Eingang: <br>\r\n<br>\r\n<u><b>Die Transformatrix</b></u><br>\r\n<br>\r\nDort drin erf\u00fcllt die Transformatrix mit ihren willigen Gehilfen jeden Wunsch, den ein zahlender Kunde nur vorbringt. Die einzige Bedingung ist, dass der Wunsch mit Verwandlungen zu tun haben muss. <br>\r\n<br>\r\n---------------------------------------------------------------------------<br>\r\n<br>\r\n<b>ACHTUNG:</b> <u>Die Story ist voller Enden und hat keine unbenutzten Pfade. Das ist <b>Absicht</b> von mir, f\u00fcr's erste m\u00f6chte ich mich da alleine austoben... ^^ <br>\r\nEinen \"read only\" mode gibt's n\u00e4mlich leider nicht, also bleibt mir nur dieser umst\u00e4ndliche Weg um sicher zu gehen, dass da keiner sonst dran rumfummelt. Wann immer ich eine neue Idee hab, geh ich einfach das vorherige Chapter editen und einen neuen Pfad einf\u00fcgen. ;)<br>\r\nVielleicht mach ich's irgendwann mal public wenn mir die Idee ausgehen, wer wei\u00df... ^^<br>\r\n<br>\r\n(Und falls wer doch eine Stelle findet, an der er was machen kann - pls nix tun. ;___; )<br>\r\n</u></td>",
+        "id":1864976,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1346185140,
+        "modified":1346185140,
+        "pretty_title":"Die Transformatrix"
+    }
+}

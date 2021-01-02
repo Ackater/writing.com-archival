@@ -1,0 +1,78 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"zevjimmu",
+            "author_name":"Blade Singer",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you Male or Female?</span></div></span></div>",
+            "created":1230136440,
+            "id":624308,
+            "title":"Gender"
+        },
+        "11":{
+            "author_id":"zevjimmu",
+            "author_name":"Blade Singer",
+            "choices":[
+                "Genetics",
+                "Sociological",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you here for Genetic or Sociological research?</span></div></span></div>",
+            "created":1230136560,
+            "id":624311,
+            "title":"Male"
+        },
+        "111":{
+            "author_id":"arbie2",
+            "author_name":"Arbie2",
+            "choices":[
+                "Breeding",
+                "Anthro Production"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In what way, human/animal breeding or hybrid/anthro production in itself?</span></div></span></div>",
+            "created":1445609580,
+            "id":2051227,
+            "title":"Genetics"
+        },
+        "12":{
+            "author_id":"zevjimmu",
+            "author_name":"Blade Singer",
+            "choices":[
+                "Genetics",
+                "Sociological",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you here for Genetic research or Sociological Research?</span></div></span></div>",
+            "created":1230136500,
+            "id":624310,
+            "title":"Female"
+        },
+        "121":{
+            "author_id":"arbie2",
+            "author_name":"Arbie2",
+            "choices":[
+                "Breeding",
+                "Anthro Production"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In what way, human/animal breeding or hybrid/anthro production in itself?</span></div></span></div>",
+            "created":1445610120,
+            "id":2051229,
+            "title":"Genetics"
+        }
+    },
+    "info":{
+        "author_id":"zevjimmu",
+        "author_name":"Blade Singer",
+        "brief_description":"You have been accepted to the Tellran Institute of Genetic and Sociological research.",
+        "created":1230136440,
+        "description":"<td align=\"left\" class=\"norm\">Do not name the main character, you're the main character. Also do not post any one-choice chapters. I am the only one who may end the story. If you can't think of anything put a y/n choice. Maintain some semblance of continuity, and don't post a new chapter without reading the outline first so we don't have 12 chapters of the same thing.</td>",
+        "id":1508625,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1445610120,
+        "modified":1445610120,
+        "pretty_title":"Tellran Institute"
+    }
+}

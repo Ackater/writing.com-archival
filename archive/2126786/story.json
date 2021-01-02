@@ -1,0 +1,519 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "Male",
+                "Female",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is your gender?</span></div></span></div>",
+            "created":1498798800,
+            "id":2345171,
+            "title":"Beginning"
+        },
+        "11":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "Male",
+                "Female",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What genies do you prefer?</span></div></span></div>",
+            "created":1498798800,
+            "id":2345172,
+            "title":"Male"
+        },
+        "111":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Alvin and The Chipmunks",
+                "Danny Phantom",
+                "Other Universes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Universes Best Boy will be Lucky?</span></div></span></div>",
+            "created":1552187880,
+            "id":2628266,
+            "title":"Male"
+        },
+        "1111":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Alvin ",
+                "Simon",
+                "Theodore "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Alvin And The Chipmunks.<br>\r\n<br>\r\nWhich Chipmunk will be rubbing the Artifact?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1552188180,
+            "id":2628269,
+            "title":"Alvin and The Chipmunks"
+        },
+        "1112":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Danny Fenton ",
+                "Tucker Foley",
+                "Other Danny phantom Boys"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have Selected Danny Phantom.<br>\r\n<br>\r\nWhich boy will be chosen?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1552187940,
+            "id":2628267,
+            "title":"Danny Phantom"
+        },
+        "11123":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Dash ",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How About This Boy?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1552188060,
+            "id":2628268,
+            "title":"Other Danny phantom Boys"
+        },
+        "112":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "Girlfriend",
+                "Fictional Woman (Animated)",
+                "Fictional Woman (Live-Action)"
+            ],
+            "content":"<div class=\"\"><div> <span>You had just broken up with your girlfriend and were in a pretty foul mood. After all, you had been a faithful and caring boyfriend; why should she suddenly say that it's \"over\" between the two of you? You'd show her! You would fine someone better for you--and while she was growing old and alone, you'd be living it up with your new girlfriend!<br>\r\n<br>\r\nAs you were ranting to yourself, however, you noticed something; you had a feeling that something was calling out to you, but you don't know from where. Looking around, you saw it: a small, golden oil lamp, one that looked like genies would be in it.<br>\r\n<br>\r\nScoffing, you picked it up. Thinking it could be worth a couple of bucks, you start to rub it: as you do, the lamp glows and knowledge flows into your head. You learn the lamp actually <i>is</i> a genie lamp, but it has lost it's last master and his various genies--or \"djinn\"--for unexplained reasons. As the new founder, you are now its new master and you can begin gaining new genies.<br>\r\n<br>\r\nHolding the lamp away, you laugh a bit, amazed to have such a powerful tool in your hand. As you think, you decide the best course of action is to look for a djinn who wouldn't be all that missed--like maybe one of your waifus from a show or video game. Then again, you could also get back on your ex-girlfriend, teach her a lesson in breaking up with you, but maybe it would be better to just forgive and forget...<br>\r\n<br>\r\nWhat do you choose?</span></div></div>",
+            "created":1498798800,
+            "id":2345180,
+            "title":"The Lamp"
+        },
+        "1122":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "Anime",
+                "Comic/Manga",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to go for a fictional woman. It would be easier, and maybe you could decide about what to do with your ex later.<br>\r\n<br>\r\nBut still, there were so many options! Deciding that maybe it would be interesting to get a woman from an animated series first, or something like that, you think what would be the best medium.<br>\r\n<br>\r\nThere were cartoons, of course. But there were also comics, anime and manga, videogames, web animation (and comics), animated films--and many more!<br>\r\n<br>\r\nSo, what do you choose?</span></div></div>",
+            "created":1498798800,
+            "id":2345181,
+            "title":"A New Jessica Rabbit"
+        },
+        "11221":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "Pok\u00e9mon",
+                "Yu-Gi-Oh",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>An anime would be a good start; after all, there were plenty of gorgeous girls there. But which one?<br>\r\n<br>\r\nYou think maybe one of the big ones, like Pok\u00e9mon or Yu-Gi-Oh would be good starting places, but maybe you'd prefer a lesser known work...</span></div></div>",
+            "created":1498798800,
+            "id":2345182,
+            "title":"Anime"
+        },
+        "112211":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "Stick around",
+                "Go elsewhere"
+            ],
+            "content":"<div class=\"\"><div> <span>Deciding Pok\u00e9mon is the best bet, you look to the lamp and say, \"I wish we were in the world of Pok\u00e9mon!\" In a bright flash, you are in a new area--what appears to be Pallet Town. Excited, you begin to head off, before stopping for a second.<br>\r\n<br>\r\nYou think about your choices here: there are indeed a lot of different female characters, both main and minor. So, why not just wait around and see who would be good here. You even remember Ash's mom, Delia, being quite the looker. But then again, there are a great deal of other girls...</span></div></div>",
+            "created":1498798800,
+            "id":2345186,
+            "title":"Gotta Catch 'em All"
+        },
+        "1122111":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "Go after Delia",
+                "Choose another person"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide that staying in Pallet Town for the time being won't be too bad. As you are walking around, seeing the sights and taking in the fact that you are in the Pok\u00e9mon world, you spot her: Delia Ketchum, Ash's gorgeous mother. As you watch her picking up groceries, you remember your youth; as a kid, you started to have a crush on the gorgeous woman, loving how sweet and innocent--as well as slightly clueless--she was and how she never seemed to get upset over anything. She always had this air of calm about her that indicated nothing could go wrong.<br>\r\n<br>\r\nA part of you wants to go after her so bad, to make her yours forever! But, another part of you wanted to keep your distance. Maybe there were other, better choices. Or you could come back for her. After all, this was your first time in this world; maybe you shouldn't be so reckless, especially since Pallet Town looked like a small-knit community.<br>\r\n<br>\r\nWhat will you do?</span></div></div>",
+            "created":1498798800,
+            "id":2345189,
+            "title":"Around Pallet Town"
+        },
+        "11221111":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "Surprise",
+                "Sneak",
+                "Introduction"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to go after Delia. After all, if you get to have whatever genie you want, why not make one your childhood crush?<br>\r\n<br>\r\nStill, you had to be careful: obviously, you couldn't do it in broad daylight. Everyone would notice and you'd either have to leave or risk losing Delia. Plus, it might make future searches in this world harder.<br>\r\n<br>\r\nBut, you needed to make sure Delia didn't see you. Keeping to the sidelines, pretending to look at things in the market, you keep a close eye on Delia. As soon as she starts to walk home, you follow her--first going by path then entering the surrounding forest when you two are too far away for it to be coincidence. Quietly, you follow Delia, hoping that no one will be around with her once she returns home. As she enters her house, you think about the best way to go about this: on one hand, it might be best to just surprise her, in order to make sure she doesn't get anyone and you aren't seen.<br>\r\n<br>\r\nThen again, surprise might not be the best course of action either; maybe instead you should rely on stealth, try to make it that Delia will never see you coming in the first place. Of course, that could lead to some confusion if someone <i>is</i> with her.<br>\r\n<br>\r\nYou could also try to meet her, maybe even give her a \"choice\" to join, but that runs the risk of her trying to contact someone.</span></div></div>",
+            "created":1498798800,
+            "id":2345209,
+            "title":"Delicious Delia"
+        },
+        "112211113":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "Play it safe.",
+                "Play around a bit."
+            ],
+            "content":"<div class=\"\"><div> <span>You walk up and knock on the door, waiting for the auburn-haired beauty to show up. After a few minutes, the doorknob turns and the door creaks open to reveal Delia, her eyes first showing a slight uncertainty as if she wasn't expecting anyone, that quickly turned into a motherly warmth upon seeing you.<br>\r\n<br>\r\n\"Oh hello,\" Delia said, smiling. \"And who might you be, young man?\"<br>\r\n<br>\r\nYou give your name, quickly saying, \"I'm a friend of Ash's. He asked me to meet him here.\"<br>\r\n<br>\r\n\"Oh, it's wonderful to meet you!\" Delia responded happily. \"I'm his mother, Delia Ketchum.\" Peaking her head out, she looked around a bit. \"Strange... even when Ash does his surprise visits, he usually doesn't arrive late.\" Shrugging her shoulders, she continued, \"He probably just got caught up with something. In any case, please--come in!\" She opens the door a bit to let you in. \"Any friend of my son's is a friend of mine!\"<br>\r\n<br>\r\nYou thank her and come in quickly, loving how easy it was to get into here. That's probably one other reason why you loved Delia--for a grown woman, she was so na\u00efve at times! It still was wickedly delicious to know that, by letting you in, Delia had sealed her fate as a magical slave--perhaps until you had your fun, perhaps for all eternity! It didn't matter; you held all of the cards, and not only was Delia unaware she was already beaten, she wasn't even aware she was <i>playing</i>!<br>\r\n<br>\r\nWhich gave you an idea; why not take this farther and reveal the truth to Delia? Tell her that you were here to make her a djinn? Just imagine her reaction! How adorable she would look if she utterly confused, unaware that all of what you were telling her was true! Or even her breaking down, now realizing her inescapable fate. You'd keep it quick, of course; you don't want her to suffer, just get a bit freaked out and stressed. For your entertainment, of course.<br>\r\n<br>\r\nThen again... there was the problem that, if you waited too long, Delia might end up fighting against you. Even though she was an adorkable young woman and a bit of a ditz, she certainly wasn't helpless. Putting aside any Pokemon she might have gotten, there was also the fact that she could defend herself. Sure, you were certain the lamp could get you out of any legal trouble just by djnnifying someone else, but you wanted to avoid unnecessary confrontation if possible. Perhaps it would be better to just djinnify her now, then let your more wicked fantasies come up for someone else...</span></div></div>",
+            "created":1510462800,
+            "id":2414524,
+            "title":"Faux Friendly Face"
+        },
+        "1122111132":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "\"Why, yes! It's all yours!\"",
+                "\"Nope! You're for it! Delia, Djinnify!\"",
+                "\"Actually, what I have for you is not just the lamp,\""
+            ],
+            "content":"<div class=\"\"><div> <span>Like all events, the first time is always special. So why not make this a special event between you and Delia?<br>\r\n<br>\r\n\"Can I get you anything, sweetie?\" Delia said in a warm fashion, smiling. \"You must be so tired from traveling for so long,\"<br>\r\n<br>\r\n\"Actually, I'm just fine,\" You replied with a smirk. \"In fact, I've got something for <i>you</i> instead!\" <br>\r\n<br>\r\nPulling out the lamp, Delia responds, \"Oh my, what a beautiful little relic. Is that for me?\"</span></div></div>",
+            "created":1542085200,
+            "id":2577416,
+            "title":"Fun For The Whole Family"
+        },
+        "11221111323":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "...She spoke out, \"Okay,\" and rubbed the lamp.",
+                "...She laughed, saying, \"What a delightful prank there!\"",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Oh?\" Delia cocked an eyebrow, a bit curious.<br>\r\n<br>\r\n\"Yes. You see, Delia, I'm about to make you an offer that is so amazing, so awe-inspiring, that simply put you <i>must</i> take it!\"<br>\r\n<br>\r\n\"Uhh... okay,\" She responded, clearly still confused.<br>\r\n<br>\r\n\"You see, what I have here is a Genie's Lamp!\" You continue. \"With but a few commands from me, or your own voluntary assistance, you shall gain the power, beauty, and liberty of a goddess, as well as the necessary restraint so that your power does not go to your head,\"<br>\r\n<br>\r\n\"Okay...\"<br>\r\n<br>\r\n\"Of course, you'll also need someone to watch over you. Luckily, the lamp has chosen me to be your overseer, your guardian, to ensure that you are safe, protected, and cared for.\"<br>\r\n<br>\r\n\"Okay...\" Dumbfounded, Delia merely stood there with her hands to her sides. Of course, the look she gave you seemed like a combination between, \"Is this a prank?\" and \"Are you mental?\"<br>\r\n<br>\r\n\"But I'm not done yet! Obviously, even in this glorious lamp, you'd still get lonely, so you'll most likely will be receiving new companions in the form of various other djinn I manage to grap!\"<br>\r\n<br>\r\n\"Okay...\"<br>\r\n<br>\r\n\"Of course, you'll be special; as the first of my harem, you shall be the Djinn Princess and rule over all the rest. You shall be their leader and in the end, you can have your way with them however you want--as long as I allow it!\"<br>\r\n<br>\r\n\"Okay...\"<br>\r\n<br>\r\n\"So, what do you say, Delia? Will you take me up on my offer?\" As you finished your speech, you held out the lamp, eager to see what Delia's reaction would be.<br>\r\n<br>\r\nAt first, she just stared at it in confusion, unsure of what to do. But, after a moment...</span></div></div>",
+            "created":1542085200,
+            "id":2577427,
+            "title":"An Offer You Can't Refuse"
+        },
+        "11223":{
+            "choices":[
+                "Djinnify her now!",
+                "Wait till later."
+            ],
+            "content":"<div class=\"\"><div> <span>You always fantasized about changing Jessica Rabbit into a genie; you have no doubt she'd look great in a harem outfit.  But then you remembered that she was married to Roger Rabbit.  That could get complicated.<br>\r\n<br>\r\nThen you got an idea.  Instead of Toontown, you went to Cool World.  Sure enough, you saw her in a nightclub, doing one of her sexy dances.  <br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1498798800,
+            "id":2345288,
+            "title":"Holli Would If She Could"
+        },
+        "12":{
+            "author_id":"psionicsknight",
+            "author_name":"Brett Gonta",
+            "choices":[
+                "Male",
+                "Female",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What genies do you prefer?</span></div></span></div>",
+            "created":1498798800,
+            "id":2345173,
+            "title":"Female"
+        },
+        "121":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Jungle Book",
+                "Aladdin",
+                "Other Universes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected male Genies.<br>\r\n<br>\r\nBut, From Which Universe?</span></div></span></div>",
+            "created":1552187040,
+            "id":2628256,
+            "title":"Male"
+        },
+        "1211":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Mowgli",
+                "Other male Jungle Book Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have Selected The Jungle Book.<br>\r\n<br>\r\nBut, Who will be lucky to be living forever with power?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1552187160,
+            "id":2628257,
+            "title":"Jungle Book"
+        },
+        "122":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Danny Phantom",
+                "Avatar The last Airbender or Legend of Korra",
+                "Other Universes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Females from what universe?</span></div></span></div>",
+            "created":1524286800,
+            "id":2482622,
+            "title":"Female"
+        },
+        "1221":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Desiree",
+                "Sam",
+                "Others from Danny Phantom"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who From The Danny Phantom Universe will become a Djinn?</span></div></span></div>",
+            "created":1524286800,
+            "id":2482628,
+            "title":"Danny Phantom"
+        },
+        "12211":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Go back in time to find out how she became a genie",
+                "Other Scenarios"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have Selected Desiree: The wishing Ghost or Ghost Genie or Just Genie.<br>\r\n<br>\r\nHow will She become a genie that she did thousands of years ago in Arabia after Death?</span></div></span></div>",
+            "created":1524286800,
+            "id":2482631,
+            "title":"Desiree"
+        },
+        "122111":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Desiree is banished and finds a temple with a dormant lamp",
+                "Other Scenarios"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Go back in time to find out how Desiree became a genie?<br>\r\n<br>\r\nHow did she get her form she is today at Amity Park?</span></div></span></div>",
+            "created":1524286800,
+            "id":2482634,
+            "title":"Go back in time to find out how she became a genie"
+        },
+        "1221111":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Meanwhile..."
+            ],
+            "content":"<div class=\"\"><div> <span>The Kingdom Of Arabian sultan's palace<br>\r\n<br>\r\nHow is your entertainment, Your highness? Asked The Sultan's most trusted adviser.<br>\r\n<br>\r\nThe sultan in General was a man with who stood the height of 5 and 3 feet. He Had Brown skin and eyes. He also had a curly long Mustache, And goatee. His Attire Consisted of a gray sultan's Pants, With 3 golden belts, and vest that matched his pants, A white shirt underneath, and a golden Sultan's hat with a red gem and feather on top. <br>\r\n<br>\r\nAs the sultan watched the entertainment, A bored expression appeared on his face much to the dismay of the adviser. <br>\r\n<br>\r\nI grow Bored of watching this entertainment! Bring In the harem dancing girls! Said The sultan. <br>\r\n<br>\r\nIt shall be done, My Highness. Answered the Adviser just before he rung one of the bells to signal the current act to end and the next to begin.<br>\r\n<br>\r\nAs the previous act left the room, A group of ten harem girls came out and began their routine for their king. All of them had their Beauty in one way or another. However, There was one who stood at the height of 5 and the foot of 9, Had blue eyes and long raven like hair that covered one her eyes. She wore a pink and gold top that house the ample bosom, and a matching pair of pants that perfectly accommodated her lower curves. <br>\r\n<br>\r\nWow! I have never seen such a beauty before in my life. Even My wife pales and comparison to her beauty, But then again i could say about half of the girls that lived in the palace. Thought the sultan as he watched the girls or more specifically the one that caught his attention. <br>\r\n<br>\r\nThis did not go unnoticed by said girls who just smiled and continued to dance along her fellow harem sisters. When the routine was finally finished, The sultan clapped loudly causing the adviser to smile with Relief.<br>\r\n<br>\r\nYou, In the pink and gold outfit stay behind. Adviser, Please send the rest to their rooms while i talk to this woman in private. Replied the sultan.<br>\r\n<br>\r\nUpon hearing the sultan call her out, The girl did as commanded and stayed there until it was only her and the sultan in the throne room. <br>\r\n<br>\r\nMy adviser never told me the names of any of my harem girls, But, one who possess beauty that could rival the sun goddess herself, i feel it be very insulting not to know your name. Replied The sultan earning a smile from the harem girl.<br>\r\n<br>\r\nMy name is Desiree, My Sultan. And i am flattered you would compare me by beauty to such a beautiful deity. Is there anything that you wish from me, My sultan? Desiree Replied and Asked. <br>\r\n<br>\r\nJust know this. If there is anything you want or if anyone who disrespect you, Please don't Hesitate to tell me. I will do everything in my power to deal with that matter. Now you can head back to your room, My Dear. The Sultan explained before Desiree walked away and leaving her master with a longing smile.<br>\r\n<br>\r\nIn the Harem girl room of the palace<br>\r\n<br>\r\nHe actually said you had beauty that rivaled the sun goddess and asked your name? Wow, That is new. Said one of the older Harem girls.<br>\r\n<br>\r\nNot only that, But he also told me to let him know if there is anything i wanted or anyone disrespecting me to let him know and he would take good care of it all. Desiree Explained Causing more shock around her sisters and for good reason.<br>\r\n<br>\r\nEven some of the older girls who were older never knew the sultan never made offers like this to anyone. Especially seeing as he had no need to because if he wanted any of them with or without permission.<br>\r\n<br>\r\nI am so jealous of you, Desiree I mean if it were me in your shoes i would woo and seduce him to the point where he would dump his wife and marry me. That way, I could be ravished with the riches a girl like me desires and deserves.<br>\r\n<br>\r\nThat Might not be a bad idea. I did always want my own kingdom, and he dd say that to ask if i wanted it. But, I can't just ask for it right away I am still new here. So I will wait it out while enticing him more and more as i go. Then when enough time has passed, For what i want by any means necessary. Desiree Thought to herself with a smile in her face just before she went to bed along with her sisters. </span></div></div>",
+            "created":1524286800,
+            "id":2482651,
+            "title":"Desiree is banished and finds a temple with a d..."
+        },
+        "12211111":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Desiree's first step to Djinnification begins"
+            ],
+            "content":"<div class=\"\"><div> <span>A Woman in her mid 30's sat in her own throne with half a dozen guards on Each of her sides for protection. The woman in general was currently enjoying a bowl of seedless grapes when her husband have arrived in her room. <br>\r\n<br>\r\nGood evening , Dear. How are you doing? The Woman asked.<br>\r\n<br>\r\nI haven't felt better in my entire life, honey. Not only did i enjoy good entertainment, But the moral and economical gain of the country is an all time high. The Sultan Replied.<br>\r\n<br>\r\nI am going to take a walk to clear my head. You four will be coming with me. The wife of the sultan explained as the four guards walked with her.<br>\r\n<br>\r\nYour majesty, I know that took of longing on our leader's face. He only gets it if woman he really desires catches his eye. One of her most observant loyal guards explained.<br>\r\n<br>\r\nI know, But The problem here is i don't know which one has caught his eyes. I need to make sure when i either banish or execute her I got the right. So Captain I will be giving you the task of being my eyes and ears when i am not around. I want you to find out who my competition is and when you inform me from there, I will take care of the rest. The sultan's wife ordered.<br>\r\n<br>\r\nIt shall be done your majesty. Captain said before walking out the room.<br>\r\n<br>\r\nAs for the rest of you, We will going on that walk through town and i will intend to reward you all for your loyalty to me.<br>\r\n<br>\r\nThank you, We are not worthy of your rewards. The remaining three guards said as one.<br>\r\n<br>\r\nI have no clue who are you, But while am forced to tolerate harem girls due the stupid laws of this kingdom, There is no way i am allowing any threats to my marriage.<br>\r\n<br>\r\n3 months have passed since Desiree's First day at the palace and she figured the sultan's feelings attachment for her grew to a point that he had never shown with any of the other girls. After a second week of her being in the palace, the sultan gave her several Privileges that not even the oldest harem girls received. One of them was she was free to travel the place whenever she wanted.<br>\r\n<br>\r\nThe sultan was also true to his word about dealing disrespect personally as well. The day before her third month in the palace, Desiree Had the misfortune of someone who was guard that groped her ample backside.<br>\r\n<br>\r\nThe results of this was Desiree quickly kneeing the guy that touched her. This of course alerted the other guards and the sultan himself. <br>\r\n<br>\r\nWhat happened here? Asked the sultan. <br>\r\n<br>\r\nI was trying to to take her back to the other harem girls seeing as she is not allowed to be out past her curfew. The guard replied in his defense. When i touched her... She Kneed me in the groin. <br>\r\n<br>\r\nYou did no such thing! You laid a hand on me without my permission and i punished you accordingly! Replied Desiree.<br>\r\n<br>\r\nThere we have it sultan. This woman confessed to not...<br>\r\n<br>\r\nSilence! The sultan roared causing everyone and Desiree to shiver in fear. <br>\r\n<br>\r\nI gave her all the time she needed. <br>\r\n<br>\r\n30 lashes for the first time offense, Second the lost of a part of your body of our choosing and the 3rd... You are to be executed. The guard replied only for malevolent smile n the sultan's face.<br>\r\n<br>\r\nI am glad you know the penalties and normally you would get the lightest punishment seeing as if it is your first offense. Guards treat the offender as if he were a 3rd time offender. the sultan replied causing horror to feel the guard's eyes<br>\r\n<br>\r\nThe guards took the injured man to meet his fate.<br>\r\n<br>\r\nI am sorry you had to see that side of me, Desiree, But i mentioned before will not tolerate any disrespect!<br>\r\n<br>\r\nThe sultan also said: I have a surprise in store for you tomorrow. <br>\r\n<br>\r\nGuard, Take Desiree to my throne room Tomorrow. Guard her with your life.<br>\r\n<br>\r\nIt shall be done, Your Highness.<br>\r\n<br>\r\nThe sultan's wife stood in one of the balconies of her husband's throne room. She found the harem girl that had captured his husband's eyes.<br>\r\n<br>\r\nHere she is, your highness. Said the guard. <br>\r\n<br>\r\nYou had a surprise for me. I have to ask what exactly is it? Desiree Asked calmly. <br>\r\n<br>\r\nI wanted to let you know that you have captured my heart and because of that, I want to make your heart's desire come true. The sultan said shocking both Desiree and The wife.<br>\r\n<br>\r\nWell ever since i was a little girl, i have always wanted my own kingdom.<br>\r\n<br>\r\nIs that all? Well  My army has just finished fighting and taking over another kingdom and i have no problem giving it you and no catch.<br>\r\n<br>\r\nI can't believe it! This is too good to be sure. I m going to become a queen of my own kingdom and find my true love!<br>\r\n<br>\r\nI will get the paperwork done, Desiree, So by Tomorrow will be sending you off to your own new kingdom. I am hoping we can do wonderful things together. The sultan Explained.<br>\r\n<br>\r\nWhen The sultan's wife heard that and left the area. She knew what she had in mind. That Desiree had to go.<br>\r\n<br>\r\nWhen Desiree was awoken by one of the sultan's guard she was more tired than usual. This was due to the soon to be coming good things. Desiree put on the royal clothing that the sultan's guard had give her.<br>\r\n<br>\r\nThe sultan gave her the work in paper she would need and off she went on the finest steed with an escort.<br>\r\n<br>\r\nAnd so went Desiree and The guards in the escort, Talking about some stories and drinking a canteen of water. <br>\r\n<br>\r\nAs she crossed the desert with her guards, Desiree thought herself about be made a buttermilk. She always wanted to try one.<br>\r\n<br>\r\nAs Desiree pulled up to the outer gate of the new kingdom. Two Guards blocked her way with swords.<br>\r\n<br>\r\nI was sent as the new ruler of this kingdom. Here is the paperwork. Desiree revealed It to the guards.<br>\r\n<br>\r\nThe guards suddenly grabbed her in the arms and pulled her into the city before they thrown her into a sack.<br>\r\n<br>\r\nDesiree opened her eyes to see herself in a courtroom with the wife and guards.<br>\r\n<br>\r\nWhen the sultan learns about this he will have all your heads! I was promised this kingdom by him!<br>\r\n<br>\r\nYou won't be getting it, Desiree! The wife replied with a smile on her face. <br>\r\n<br>\r\nThe court have decided that Desiree was sentenced to exile not only from the city, But the entire empire.<br>\r\n<br>\r\nWell banished or not, I am still going to give her a camel with Stuff she will need and you can't stop me! The sultan said.<br>\r\n<br>\r\nDesiree is seen being given and sat on the camel before the guards came with about 20 canteens of water and food.<br>\r\n<br>\r\nAnd off She went in part of her banishment from the empire.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1524459600,
+            "id":2483652,
+            "title":"Meanwhile..."
+        },
+        "1221112":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Desiree and The Scroll",
+                "Desiree and The Ring",
+                "Something Else with another Scenario"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this scenario for Desiree's origin?<br>\r\n<br>\r\nDesiree is Turned into a genie by either a ring or a scroll?</span></div></span></div>",
+            "created":1552107600,
+            "id":2628250,
+            "title":"Other Scenarios"
+        },
+        "1222":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Katara",
+                "Korra",
+                "Some other Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who shall be The Lucky Girl to begin her Genie Career from Legend of Korra or Last Airbender?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1552107600,
+            "id":2628251,
+            "title":"Avatar The last Airbender or Legend of Korra"
+        },
+        "12223":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Toph",
+                "Mai",
+                "More Girls"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How About these girls?</span></div></span></div>",
+            "created":1552107600,
+            "id":2628252,
+            "title":"Some other Girl"
+        },
+        "122233":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Asami",
+                "Ty Lee",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How About These Extra More Girls?</span></div></span></div>",
+            "created":1552107600,
+            "id":2628253,
+            "title":"More Girls"
+        },
+        "1223":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Aladdin",
+                "Tangled",
+                "Other Universes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What Other Universes did you had in mind?</span></div></span></div>",
+            "created":1524286800,
+            "id":2482627,
+            "title":"Other Universes"
+        },
+        "12231":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Jasmine",
+                "Eden",
+                "Other Girls from Aladdin"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who Shall be The Lucky Arabian Girl from Aladdin to be a genie?</span></div></span></div>",
+            "created":1552107600,
+            "id":2628254,
+            "title":"Aladdin"
+        },
+        "12233":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Beauty and The Beast",
+                "The Little Mermaid",
+                "Other Universes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How About These Universes?</span></div></span></div>",
+            "created":1552187280,
+            "id":2628258,
+            "title":"Other Universes"
+        },
+        "122332":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Ariel",
+                "Other Little Mermaid Characters",
+                "Ariel's Sisters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen The Little mermaid.<br>\r\n<br>\r\nWho will be The genie of the seashell or any water treasures?</span></div></span></div>",
+            "created":1552187400,
+            "id":2628259,
+            "title":"The Little Mermaid"
+        },
+        "122333":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Dora The Explorer",
+                "Dora and Friends",
+                "Other Universes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How About these cartoon Universes?</span></div></span></div>",
+            "created":1552187520,
+            "id":2628261,
+            "title":"Other Universes"
+        },
+        "1223331":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Dora",
+                "Other Dora The Explorer Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Dora The Explorer.<br>\r\n<br>\r\nWho will be the Lucky girl to be obeying wishes?</span></div></span></div>",
+            "created":1552187640,
+            "id":2628262,
+            "title":"Dora The Explorer"
+        },
+        "12233311":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Dora's lamp",
+                "Dora's Curse",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Dora The Exploring Girl.<br>\r\n<br>\r\nHow will she become a genie?<br>\r\n<br>\r\nDora Stumbles on a lamp that turns her into a genie or A witch casts a curse on her?</span></div></span></div>",
+            "created":1552187760,
+            "id":2628265,
+            "title":"Dora"
+        },
+        "1223333":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Alvin and The Chipmunks",
+                "Mulan",
+                "Other Universes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How About These Universes?</span></div></span></div>",
+            "created":1552188240,
+            "id":2628270,
+            "title":"Other Universes"
+        },
+        "12233331":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "The Chipettes ",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have Selected Alvin and The Chipmunks.<br>\r\n<br>\r\nWho will be The genie?</span></div></span></div>",
+            "created":1552188360,
+            "id":2628272,
+            "title":"Alvin and The Chipmunks"
+        },
+        "122333311":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Brittany ",
+                "Jeanette ",
+                "Eleanor "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have Selected The Girl Versions of the Chipmunks.<br>\r\n<br>\r\nWhich of the Chipettes will be living for all eternity?</span></div></span></div>",
+            "created":1552188480,
+            "id":2628274,
+            "title":"The Chipettes "
+        },
+        "122333312":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Miss Miller ",
+                "Another Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about these Alvin and The Chipmunk Female Characters?</span></div></span></div>",
+            "created":1552188420,
+            "id":2628273,
+            "title":"Someone else"
+        }
+    },
+    "info":{
+        "author_id":"psionicsknight",
+        "author_name":"Brett Gonta",
+        "brief_description":"Turn your favorite characters into your own genie harem.",
+        "created":1498857540,
+        "description":"<td align=\"left\" class=\"norm\">Travel across various worlds as you turn your favorite characters into your own personal genie/djinn harem. <br>\r\n<br>\r\nAfter your latest relationship goes sour, you find a magic lamp. Instead of containing a djinn, though, it gives you the chance to make your own, as well as the ability to travel to other worlds in order to gain more genies. Will you be a kind or cruel master? Will you take willing participants, or is choice not an option for your harem? Who will you chose? Step in and find out!<br>\r\n<br>\r\nPortrayal of Djinn:<br>\r\nWhile the characteristics of the djinn can be like anything you want, there are a few things that need to be followed:<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* The djinn grant unlimited wishes.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* There is no limit to how many djinn you can have.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* When transformed, characters will gain a default \"stereotypical-harem\" outfit, as well as a pair of gold cuffs that go on their wrists. These will not change except with a wish. Things like hairstyles, jewelry, make-up, or the like can change randomly and is up for you to decide. Some physical appearances (like hair length) can also change, but gender does not unless a wish is granted to either change a particular djinn's gender or make the lamp transform all djinn into a certain gender.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* Djinn can also freely turn their legs into a tail and back again. The color of their (current) harem pants will match the tail's color.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* Djinn can fuse with one or more other djinn to create new djinn who are even more powerful. They can also unfuse as well.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* While djinn will retain their personalities upon transformation \u00a0 \u00a0 \u00a0 \u00a0 \u00a0, most of the time they will be loyal and submissive to their master, regardless of how they were before their transformation. Some have been known to rebel (even they started out loyal or were loyal pre-djnnification). Any betrayals should be used purely for story.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* Djinn cannot turn back to normal by themselves; once they are djinn, they remain so for all eternity. The only way for this to reverse is to either wish the djinn free or wish that the lamp had more of a \"temporary\" hold on its hosts.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* The \"default\" djinnification technique is \"(Character's Name), Djnnifiy!\"<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* When a djinn is \"destroyed\" (is killed) their body dissolves into a white-blue powder.<br>\r\n<br>\r\nRules:<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* While ending the story is okay (even encouraged), you must have at least one djinn before ending.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* Unless changed later on, keep all djinn the same gender that they were when transformed.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* No real life people or celebrities! However, it is okay to transform a character that an actor you like portrayed. Original characters are allowed as well, but you are responsible for their portrayal and making them interesting.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* Sexual encounters and fetishes are fine, up to and including graphic sex scenes. However, make sure to keep it no more mature than an R-Rating.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0*While not required, a warning at the start of the chapter in regards to sexual events, scenes, or fetishes (like vore, scat, hypnosis, etc.) is encouraged and polite.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0* Failure to comply to these rules will result in the deletion of chapters.<br>\r\n<br>\r\nOther than that, have fun and enjoy yourselves!</td>",
+        "id":2126786,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1552188480,
+        "modified":1552188480,
+        "pretty_title":"Grand Djinn Harem: Djinnification"
+    }
+}

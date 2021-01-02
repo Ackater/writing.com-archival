@@ -1,0 +1,60 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"dragonbreath58",
+            "author_name":"Dragonbreath",
+            "choices":[
+                "Old Republic",
+                "Clone Wars",
+                "Rise of the Empire",
+                "Rebellion Era",
+                "Other?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which era?</span></div></span></div>",
+            "created":1379964060,
+            "id":1668297,
+            "title":"Getting Started"
+        },
+        "12":{
+            "author_id":"dragonbreath58",
+            "author_name":"Dragonbreath",
+            "choices":[
+                "Jango Fett",
+                "Aurra Sing",
+                "Cad Bane",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do you want to be?</span></div></span></div>",
+            "created":1537393080,
+            "id":2550040,
+            "title":"Clone Wars"
+        },
+        "14":{
+            "author_id":"dragonbreath58",
+            "author_name":"Dragonbreath",
+            "choices":[
+                "Greedo",
+                "Bossk",
+                "Dengar",
+                "IG-88",
+                "Boba Fett"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do you want to be?</span></div></span></div>",
+            "created":1537393200,
+            "id":2550041,
+            "title":"Rebellion Era"
+        }
+    },
+    "info":{
+        "author_id":"dragonbreath58",
+        "author_name":"Dragonbreath",
+        "brief_description":"Write the adventures of a bounty hunter within the Star Wars universe",
+        "created":1379963880,
+        "description":"<td align=\"left\" class=\"norm\">You're a bounty hunter within the Star Wars universe. Choose what era to fight in, what side to serve, and much more in this story.</td>",
+        "id":1954354,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1537393200,
+        "modified":1537393200,
+        "pretty_title":"Star Wars Bounty Hunter"
+    }
+}

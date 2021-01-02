@@ -1,0 +1,946 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Try and open your eyes.",
+                "Crawl around and feel if there is anything nearby.",
+                "Shout for assistance.",
+                "Before you can react something touchs you.",
+                "Just rest a while and recover."
+            ],
+            "content":"<div class=\"\"><div> <span>This is not the way you wanted to start your day! Blearily you try to work out what is going on. Have you just woken up?<br>\r\nSlowly you open an eye, but cannot make anything out, your vision is completely blurred. Right now your head aches more when you open your eyes so you leave that for later and shut your eye for now.<br>\r\nThat doesn't leave much to go with:<br>\r\nTouch. You seem to be laying on sand, cool sand it seems. Are you on a beach? Your muscles ache, but after a little effort you move your hand around and feel the sand up close. It's not smooth, there are a lot of pebbles in it. Not a high quality beach then.<br>\r\nSound. Well, you mostly hear the thrumming of your heart, but there are some odd noises faintly in the background. Not things you can place, but they seem insect like in nature. Maybe you're near a forrest?<br>\r\nSmell. It's actually rather fragrent here, but dry. There certainly seems to be vegetation nearby, and probably flowers, rather sweet smelling from the aroma.<br>\r\nMemory. This is tricky. Are you waking up from a nap and just have terrible recollection of the day before or... wait, some details are coming back. The insitute, some form of accident, klaxons going off, alarms sounding. Yes, there was something wrong with the accelerator in the basement. You were three stories up from that though, what could have affected you?<br>\r\nOK, that hasn't helped much, maybe you'd better wait a little while and try again? After all it's fairly comfortable here you could.... just.....<br>\r\n<br>\r\nWith a jerk you shake awake, your mouth dry and your eyes seem stuck shut. How long were you asleep? Now what?</span></div></div>",
+            "created":1087016400,
+            "id":202883,
+            "title":"Arrival and disorientation"
+        },
+        "11":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Struggle to stand up to investigate.",
+                "Try to hide yourself.",
+                "Call out to whoever... whatever it is."
+            ],
+            "content":"<div class=\"\"><div> <span>It's not easy. It feels like glue is sticking your eyelids together, but with a little effort you clear your eyes and take a look around you.<br>\r\nWell, it's night time at least, though brighter than you'd expect. Maybe it's a full moon?<br>\r\nGlancing ahead you can see a rough terrain, stony hillocks breaking into sand dunes. Are you on the edge of a desert? Maybe Scrubland of some sort. The bushes about are unfamiliar.<br>\r\nAs you peer about you see something bright in the sky behind you. Turning, feeling your aching muscles complain, you look over your shoulder and...<br>\r\nThere isn't a full moon... there are TWO full moons next to each other. They appear fairly similar, each a little smaller than the one you've known all your life, but look like asteroids, not circular at all.<br>\r\nNow you are looking you see that the stars are wrong too, nothing familiar. Wait, why can you see stars at all? Usually a combination of bright moon and background light makes your eyes adjust till you can't make out the faint stars.<br>\r\nWell, the terrain is dark, and you can't see any stars right alongside the moon... er, moons, but elsewhere in the sky... You guess there is just no light pollution from cities nearby to blank them out.<br>\r\nJust then some noise catches your attention. It sounded like a cut off scream from behind a hillock nearby.</span></div></div>",
+            "created":1087016400,
+            "id":215920,
+            "title":"Surroundings."
+        },
+        "112":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Call out for the catwoman. Maybe you can hide her?",
+                "You don't understand enough. Just watch."
+            ],
+            "content":"<div class=\"\"><div> <span>Your muscles ache, you aren't sure you could get up if you tried. Instead you crawl to a nearby tree and crouch against it.<br>\r\nFrom around the hillock runs someone... no, it isn't a person! It looks like a naked woman, almost. It's furred lightly and it's head more resembles a cat, though no cat you've ever seen.<br>\r\nThe catwoman stumbles, but keeps her tired loping pace. She looks exhausted!<br>\r\n\"Stop! You've nowhere to run gal!\" comes from behind the hillock. Who or what was that? And how come they are speaking perfect English?</span></div></div>",
+            "created":1087016400,
+            "id":202915,
+            "title":"Runner."
+        },
+        "1121":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "She thanks you and asks who you are.",
+                "She needs food. Why is she looking at you like that?"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey!\" You say in a combination of a whisper and a shout \"Over here!\"<br>\r\nYou have to shout again before she hears you, then she raises her eyebrows for a moment. Maybe you look just as odd to her as she does to you?<br>\r\nAfter a moments indecision she tenses then jumps. From a standing start she just jumped over fifteen feet! You gasp as she lands in a heap beside you and you heave her closer to hide behind the tree. At least like that there aren't any foot prints leading up to the tree!<br>\r\nAs you hide the catwoman two other creatures come out into the light from different directions. From behind the hill comes a weird squid like thing with a distorted face on it's lower body. From the other direction, where the catwoman was running to a few moments before, comes a tall, heavily muscled wolf-man; basically a man with fur and a wolf's head.<br>\r\n\"Well, you got her?\" says the squid.<br>\r\nThe wolf stops, pausing as if trying to understand the question.<br>\r\n\"I thought you had her Mervin?\" he says slowly.<br>\r\n\"Ahhh! You idiot! You let her get away! Frilen's going to be ticked, he hates runners getting out! You go that way,\" Mervin says, waving a tentacle behind a far hillock, \"and I'll head back north. Arnold, we have to get her back!\"<br>\r\nThe two aliens split up and move around the distant hill until they are both gone. You wait a little more, just to be safe, then turn to the catwoman. She seems exhausted. That jump must have taken it out of her.<br>\r\n\"Are you all right?\" you say to the panting feline.</span></div></div>",
+            "created":1087102800,
+            "id":203040,
+            "title":"Catwoman safe."
+        },
+        "11211":{
+            "choices":[
+                "You reluctantly strip.",
+                "You keep your clothes on, for now."
+            ],
+            "content":"<div class=\"\"><div> <span> The cat woman thanks you, and tells you that her name is Sheba. She looks you over curiously, and asks, \u201cWhat tribe of almost hairless apes do you belong too?\u201d <br>\r\n<br>\r\n\u201cI\u2019m an American.\u201d you reply. <br>\r\n<br>\r\n\u201cNever heard of that tribe.\u201d she said with a thoughtful look. <br>\r\n<br>\r\n\u201cAre their others like me?\u201d you ask.<br>\r\n<br>\r\n\u201cOthers?\u201d she says, with a confused voice. <br>\r\n<br>\r\n\u201cOthers, almost hairless apes, like me?\u201d you ask. <br>\r\n<br>\r\nYou watch as she says with an alarmed look, \u201cAre you kidding me!\u201d she then nods her head yes.<br>\r\n<br>\r\n \u201cCan you take me to them?\u201d you ask. <br>\r\n<br>\r\n\u201cSure!\u201d she says, \u201cBut you must first remove all of your clothes. Because it is forbidden for you\u2019re kind, or mine to wear clothes!\u201d You then...</span></div></div>",
+            "created":1170306000,
+            "id":378425,
+            "title":"Others, like me?"
+        },
+        "1122":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Mervin gives the catwoman another chance.",
+                "It seems punishment is due!"
+            ],
+            "content":"<div class=\"\"><div> <span>Worried that this might be a criminal you hold back. You don't want to get on the wrong side of the law here. Where ever here is!<br>\r\n\"Hah!\" comes from your left and you see a gray blur pounce on the catwoman, pinning her to the ground. When the tumbling mass of fur stops you see a grinning creature, similar to the catwoman but with a wolf head laying on top of the helpless feline.<br>\r\n\"See, told ya!\"<br>\r\nThe owner of that last utterance walks into view, though 'walk' is not quite the right word. The creature is for all intents and purposes a four foot tall squid. The body is less than two foot tall, the rest is made up of the tentacles it uses to 'walk' on. Although it looks like a squid it has a faintly human face on it's body about a third of the way up it's long length. Two eyes, each with two, jet black ovoid pupils. A lidless rubbery mouth. Above that is a slit or flap that would seem to be a nose... maybe.<br>\r\n\"Got her for ya' Mervin.\" the wolf thing says.<br>\r\n\"Hmm, I can see that Arnold. I'm not blind! Huh, you really are a pain. Three escapes this week! It's just getting too much to handle lass.\"</span></div></div>",
+            "created":1087016400,
+            "id":202917,
+            "title":"Enter Mervin and Arnold."
+        },
+        "11222":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Arnold refuses the order.",
+                "He reluctantly does as he is told."
+            ],
+            "content":"<div class=\"\"><div> <span>\"You can't keep me here! I'm no slave!\" the feline shrieks.<br>\r\n\"Yeah yeah,\" Mervin says, waddling, or whatever it does, up to her, \"but your tag says otherwise.\" Mervin reaches down with one of the tentacles it isn't walking on and snags a little brown thing from her shoulder. \"However, you won't be needing this anymore as I've decided enough's enough. Arnold, get rid of her.\"<br>\r\nArnold looks puzzled for a moment.<br>\r\n\"Er, where should I get rid of her boss?\" he says slowly.<br>\r\nYou can hear Mervin seeth as his tentacles quiver in impatience.<br>\r\n\"In your damn gut you moron! God do I have to explain everything in detail?\"<br>\r\nGut? Is he telling the wolf to eat the catwoman?</span></div></div>",
+            "created":1087016400,
+            "id":202921,
+            "title":"Punishment."
+        },
+        "112221":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Do nothing, you still don't know who is in the right.",
+                "Should you do something? Who to assist?"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ya mean I should eat her? I can't do that boss! It's not right!\"<br>\r\nMervin stares at the wolf in shock, as if the thought that this creature would talk back to him just never occurred to him till now.<br>\r\n\"I'm sorry, I didn't hear that. Now I just gave you an order. Why aren't you eating her!\"<br>\r\nArnold looks rather perplexed and lost. He backs off a little, odd considering he seems to outweigh Mervin by a good margin.<br>\r\n\"I... I can't do it boss. Please don't ask me?\"<br>\r\nMervin looks about ready to spit acid about now and is advancing on Arnold and the catwoman with a fierce look in his eyes.</span></div></div>",
+            "created":1087016400,
+            "id":202932,
+            "title":"Refusal"
+        },
+        "1122212":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Help Arnold.",
+                "Nope, Stay with the law. Assist Mervin"
+            ],
+            "content":"<div class=\"\"><div> <span>Slowly you stand up behind the tree and peer out. You have to do something! But what? Your instincts tell you to help Arnold and the catwoman, but you aren't sure. You don't know the laws here, maybe Mervin is in the right?<br>\r\nWhat to do?</span></div></div>",
+            "created":1087016400,
+            "id":202933,
+            "title":"Mervin or Arnold"
+        },
+        "11222121":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "That just gave him the chance to fight back.",
+                "It surprised him enough for you to tackle him."
+            ],
+            "content":"<div class=\"\"><div> <span>With a final nod you pick Arnold. You always liked helping the underdog anyway. Chuckling at the pun you take a deep breath and run out, dashing straight to the threatening form of the squid-like Mervin.<br>\r\n\"Stay away from them you... you... SQUID!\" you manage, hardly a good battle cry, but it seems to catch Mervin's attention at least.</span></div></div>",
+            "created":1087016400,
+            "id":202934,
+            "title":"Mervin"
+        },
+        "112221212":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Arnold helps you deal with Mervin",
+                "He refuses to hurt his boss."
+            ],
+            "content":"<div class=\"\"><div> <span>Mervin looks at you in shock, just before you ram into him. With a thump the two of you land on the ground in a tangled mass of arms and tentacles. Thrashing wildly you try to pin him down as Arnold looks on, still holding the catwoman in a bear hug, a dim look in his face as if he doesn't understand what is happening.<br>\r\n\"Hey! Ooof! Would you mind helping? I'm on your side!\"</span></div></div>",
+            "created":1087016400,
+            "id":202935,
+            "title":"Tackle!"
+        },
+        "1122212121":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Arnold ties up Mervin after some effort.",
+                "He gives up and does something else to him."
+            ],
+            "content":"<div class=\"\"><div> <span>Arnold looks back and forth for a few seconds, going from your face to Mervin's and back again.<br>\r\n\"Hey moron!\" Mervin cries. \"Get this bitch off me or else!\"<br>\r\nArnold's brows furrow slowly.<br>\r\n\"You shouldn't talk to me like that. And I ain't workin' for you no more!\"<br>\r\nThe gray wolf calmly drops the dazed catwoman to the ground and leans over, casually grabbing handfulls of tentacles in his strong paws. In a matter of seconds he has pulled the squid off you and is trying, unsuccessfully, to knot the tentacles up.</span></div></div>",
+            "created":1087016400,
+            "id":202936,
+            "title":"Arnold turns on his boss."
+        },
+        "11222121212":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Stop him! This isn't right, even for Mervin.",
+                "He deserves it!"
+            ],
+            "content":"<div class=\"\"><div> <span>You sit there, exhausted, and look over at the catwoman. She seems OK, if a little out of it right now. At least she isn't in any danger. You aren't sure about Arnold though.<br>\r\nHe is still struggling with Mervin, but every time he ties up a pair of tentacles they just wriggle apart again. Finally he seems to give up.<br>\r\n\"Humph! You ain't letting me do this easy is you? Well, you wanted me to eat this poor little girl. Instead I think I'll eat you. At least you deserve it!\"<br>\r\nFor once it seems Mervin is at a loss for words and Arnold opens his jaws impossibly wide and shoves the top of the squid into them.</span></div></div>",
+            "created":1087016400,
+            "id":202937,
+            "title":"Mervin meal."
+        },
+        "112221212122":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You can't resist going up and feeling Arnold's belly.",
+                "Talk to them. You've got to find out about this world."
+            ],
+            "content":"<div class=\"\"><div> <span>You are about to tell Arnold to stop, then pause. Mervin seemed as if he DID deserve punishment. Maybe this is a bit severe, but it was no less than he planned on for that girl after all. And besides, you find as you watch Arnold stuff the struggling Mervin into his jaws that you find the sight curiously erotic. You aren't sure why?<br>\r\nIt doesn't take long for Arnold to squeeze and gulp the struggling Mervin down and you stare as the wolf's throat and stomach bulge with the outlines of the squid. Soon the last tentacle is sliding into his jaws and Arnold makes a final gulp with a very satisfied look on his face.<br>\r\n\"Dere, now I ain't workin for you no more ever again!\"</span></div></div>",
+            "created":1087016400,
+            "id":202939,
+            "title":"Mervin's end."
+        },
+        "1122212121221":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "She offers to help you find a way to do vore.",
+                "She asks if you want her to eat you."
+            ],
+            "content":"<div class=\"\"><div> <span>Something about that scene has a hold of you. You just can't put the sight of Mervin sliding into Arnold's jaws out of your mind. Nervously you stand up and head over to Arnold.<br>\r\n\"Er, could I... I mean, would you mind if... I felt it?\" you manage.<br>\r\n\"Huh?\" Arnold says, obviously not understanding.<br>\r\nA feline voice comes from behind you.<br>\r\n\"I think she means she'd like to feel Mervin squirming in there Arnold. She's one of those vore crowd.\"<br>\r\nArnolds brow furrows again.<br>\r\n\"What's vore?\" he says, and you wonder yourself, turning to the catwoman as she continues.<br>\r\n\"Those that find people being devoured sexually exciting. I admit I've been... interested in it myself, but never seriously.\"<br>\r\nThis isn't uncommon? There are others who feel like this? Then something else hits you. From what she said it seems that just the fact that people CAN be swallowed whole is obvious to her.<br>\r\n\"Wait, does that mean you could swallow people too?\"<br>\r\nThe catwoman laughs.<br>\r\n\"Oh come on miss, of course. Can't you?\" She stops, seeing your expression. \"Oh, you can't can you? I'm sorry. Look, you saved my life so let me help you.\"</span></div></div>",
+            "created":1087016400,
+            "id":213915,
+            "title":"Vore?"
+        },
+        "11222121212211":{
+            "author_name":"zt13",
+            "choices":[
+                "Your jaw dislocates and opens wide",
+                "Nothing happens"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Well, let's see if we can find a way for you to do vore,\" she says. Coming closer, she puts her hands on the sides of your face, pressing on your jaw.</span></div></span></div>",
+            "created":1090904400,
+            "id":209397,
+            "title":"Vore Ability?"
+        },
+        "112221212122112":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Arnold has a suggestion for you.",
+                "Arnold wants to know what you CAN eat."
+            ],
+            "content":"<div class=\"\"><div> <span>After several minutes of massaging your jaw, prying her furred fingers into your mouth, the catwoman gives up.<br>\r\n\"Well, I don't know. I've never seen anyone with such a restrictive jaw structure. It's almost as if your people just can't do it, and that's almost unheard of!\"<br>\r\nRubbing your jaw where she had prodded, you shake your head. How much of your background should you tell these people?<br>\r\n\"Oh,\" the catwoman interrupts your train of thought, \"by the way my name is Yandi Emerett.\"<br>\r\nShe puts her hand out and you smile and shake... paws with her. Her hands are surprisingly human like, but instead of nails she has retractable claws, just poking out from the tips. They are also covered in fine fur on the back with pads on the palms and the inside of the fingers just like paws.<br>\r\n\"Um, hi. I'm Lucy Hendricks. Pleased to meet you.\"<br>\r\nHer shake is rather vigorous, but at least your hand is still attached afterwards... just. Arnold then walks over to you, clutching his belly and burping.<br>\r\n\"You can't eat?\" he says to you. \"That's terrible!\"</span></div></div>",
+            "created":1093496400,
+            "id":213916,
+            "title":"Yandi fails"
+        },
+        "1122212121221121":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Orally taken.",
+                "Yeugh! You don't want to know!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"My aunt Nora, she had Skelk something rotten years back. She took Toopa root and that loosened her right up.\"<br>\r\n\"Toopa root? How does that help?\" you murmer, trying to keep the disappointment from your face.<br>\r\n\"Quite a bit actually.\" says Yandi, coming up behind you and waving some odd blue tubers infront of your face. They look like she just dug them up, and from the hole nearby it seems she did just that. The bare leaves sticking up seem similar to the few plants you can see nearby so they obviously aren't uncommon.<br>\r\n\"Right, and what am I supposed to do with that?\" you say sarcastically.</span></div></div>",
+            "created":1093496400,
+            "id":213917,
+            "title":"Toopa solution"
+        },
+        "11222121212211211":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Yep, open wide!",
+                "Nope, humans are too different."
+            ],
+            "content":"<div class=\"\"><div> <span>\"This.\" she says simply and shoves them in your mouth.<br>\r\nYou gasp, but they are not that bad, sort of like bitter sweet potatoes. The dirt doesn't help though. A quick gulp and you shake your head trying to get the dirt taste from your mouth.<br>\r\n\"Hey! Next time wash them at least!\"<br>\r\nFor a few seconds they both look at you.<br>\r\n\"What?\" You say.<br>\r\n\"Well, did it work?\" Yandi says.</span></div></div>",
+            "created":1093496400,
+            "id":213918,
+            "title":"Toopa taken"
+        },
+        "112221212122112111":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "And now, Yandi will disappear before your eyes!",
+                "Yandi suggests a trip to town for food."
+            ],
+            "content":"<div class=\"\"><div> <span>Your eyes trace from Yandi to Arnold and back again. They are certainly focussed on you. You guess they've never seen someone who can't swallow like them before. Maybe they feel sorry for you?<br>\r\nExperimentally you shift your jaw from side to side, back and forward, up and... DOWN!<br>\r\nYikes!<br>\r\nYou gasp as your jaw drops... literally!<br>\r\n\"Yeah! Oh thank goodness!\" Yandi says smiling then hugs you tightly. It's slightly unnerving as she isn't wearing anything but fur. \"So, feel better now Lucy?\"<br>\r\nYou re-hinge your jaw and nod, smiling.<br>\r\n</span></div></div>",
+            "created":1093496400,
+            "id":213919,
+            "title":"Success"
+        },
+        "1122212121221121111":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Yep, in she goes, all the way!",
+                "Tupa hasn't widened you enough yet. Better wait."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Good\", Yandi says, grinning as she hugs you, \"But I guess we'd better test it out eh?\"<br>\r\nBefore you can say anything in reply she breaks the hug, reaches up and shoves her hands into your mouth.<br>\r\n\"Open wide 'cos here I come!\"<br>\r\nGasping you feel her heave her hands to the back of your throat and press. You can feel your jaw dislocating again around her arms as she wriggles further in. Looking down you see her lowering her head between her arms in readiness to enter your mouth. Surely you can't manage that?</span></div></div>",
+            "created":1103173200,
+            "id":229130,
+            "title":"Voluntary descent."
+        },
+        "11222121212211211111":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You decide to help her yourself. Down she goes!",
+                "Arnold helps Yandi into you."
+            ],
+            "content":"<div class=\"\"><div> <span>With a heave she pushes in and you watch in disbelief as her furry head slides in between your lips! Wincing you feel the tightness, but it doesn't hurt at least, even when you feel the lumps of her shoulders wedge between your teeth. All the while you can feel the really weird feeling of her hands scrabbling and wriggling down your throat till they plop into your stomach.<br>\r\nWow! That feels good! You'd giggle if your mouth weren't full, the sensations as her hands move in your belly are very nice.<br>\r\nThen she distracts you as she shoves in some more and you feel her furry, naked breasts press against your teeth. With a few wriggles from Yandi they start to wedge in but the angle is awkward. You are leaning over her basically, and she's not doing very well now at pushing her way in. She might need some help.</span></div></div>",
+            "created":1103173200,
+            "id":229131,
+            "title":"Gaining entrance."
+        },
+        "112221212122112111112":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You're having second thoughts. Try to bring Yandi up.",
+                "Let Arnold help."
+            ],
+            "content":"<div class=\"\"><div> <span>\"You 'aving difficulty?\" Arnold says.<br>\r\nYou look up to see the wolf approaching you and Yandi. Before you can respond he nods then grabs Yandi's hips and lifts her off the ground, almost tipping you over in the process. Inside you can hear the 'Eep!' reverberate in your throat, but after the shock Yandi seems to relax, which is more than can be said for you. Arnold isn't exactly the most careful creature in the world from what you've seen, do you really want him helping you with your 'meal'?</span></div></div>",
+            "created":1103173200,
+            "id":229132,
+            "title":"Arnold to the rescue."
+        },
+        "1122212121221121111122":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "He pulls back out to keep pushing her in.",
+                "Looks like Arnold wants to join Yandi inside you!"
+            ],
+            "content":"<div class=\"\"><div> <span>Well, why not? Surely he can't mess this up, right? With trepidation you nod as much as you can to Arnold and he grins.<br>\r\n\"Right, open wide!\"<br>\r\nSuddenly he shoves, HARD!<br>\r\nWith a squelch Yandi's breasts heave in past your teeth, causing a slight yelp from inside you. However Yandi seems to be doing OK, and also descending rather rapidly! Before you know what's going on her chest is squeezed right through your mouth and into your throat, her belly sliding into your lips. Arnold is lifting her more and more as he shoves, finally holding her hips vertically above you. He shifts his grip to grasp her ass firmly with both hands and shoves again, even harder.<br>\r\n\"GNNNNNN!\" you manage as you feel Yandi's head and shoulders fill your stomach. You're beginning to wonder if she can fit in there after all, but there is no stopping Arnold now! He's already got her hips up against your face and... He keeps shoving. Heaving your eyes widen as he pushes Yandi's bum right down between your lips, and keeps on going, his arms sliding down your throat!</span></div></div>",
+            "created":1103173200,
+            "id":229133,
+            "title":"Half way down."
+        },
+        "11222121212211211111221":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Are you supposed to digest her now?",
+                "You are too tired after your meal. Maybe a little sleep?",
+                "Maybe talk to Arnold while Yandi 'rests' in you?"
+            ],
+            "content":"<div class=\"\"><div> <span>Thankfully Arnold pulls out. You weren't sure he was going to stop pushing in then! You see him grab Yandi by the feet and push again.<br>\r\nHEEEEAAAAVE!<br>\r\nGod it's getting tight! You can feel Yandi's shapely body curling and squeezing it's way around inside your belly. Her bulging hips edge into your throat and slide down, soon straining their way behind your chest. Right now you are wondering what the Toopa root did to you. You know a little biology and the rib cage shouldn't have let such a huge mass past. How did it affect you so quickly?<br>\r\nSuch thoughts are pressed from your mind as you stomach starts to feel stretched to the limits. Yandi's knees are bending awkwardly as Arnold finally pushes her little furry feet into your mouth. You gulp a few times, feeling the strain as her legs bend up in your throat, then stomach, then finally she pops into your belly completely, collapsing into a fetal position. Ahh relief! She's a little more manageable like that!<br>\r\nYou collapse on the ground and look down.<br>\r\n\"My god.\" you whisper, looking at the gigantic bulge of your belly in your lap. \"I actually did it! I swallowed a person whole!\"<br>\r\nFrom inside you hear a giggle as Yandi responds.<br>\r\n\"Yep, and very nicely done too.\"</span></div></div>",
+            "created":1103173200,
+            "id":229134,
+            "title":"Yandi makes it in."
+        },
+        "11222121212212":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Go for it!",
+                "Erm, I think that's a little too risky!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Help me?\" you say, wondering what she is offering.<br>\r\n\"Yes. Obviously you ARE a voraphile, so would you like it if I swallowed you? Oh don't worry, I wouldn't hurt you and I'd let you back out again.\"<br>\r\nYou blink. Is she serious? You stare at her face. Oh damn, she IS serious! A little shiver runs up your spine as you think about it. Should you? It's a heck of a risk, placing your life in this girl's hands.</span></div></div>",
+            "created":1087016400,
+            "id":202942,
+            "title":"Lunch offer."
+        },
+        "112221212122121":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "She has doesn't like your lab coat.",
+                "She just gobbles you up as you are."
+            ],
+            "content":"<div class=\"\"><div> <span>\"You'd eat me? For real?\" you stammer, wondering why you are beginning to sweat at the prospect.<br>\r\nThe catwoman smiles.<br>\r\n\"Of course, if you want me to. Heck, it's the least I could do. After I get my strength back maybe I could carry you into town that way? Would you like that? I know quite a few vores love the idea of riding around inside someone.\"<br>\r\nGod this is a lot to take in all at once! But you realize you are nodding fiercely before you've even thought about it. What is wrong with you?<br>\r\n\"OK, well you come over here and we can get started hmm?\" she says walking up to you.<br>\r\nYou stumble over to her, extremely nervous, and grin sheepishly.<br>\r\n\"So now what?\"</span></div></div>",
+            "created":1087016400,
+            "id":202943,
+            "title":"Getting ready to be lunch."
+        },
+        "1122212121221211":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Comply willingly.",
+                "You're a bit nervous and need some coaxing."
+            ],
+            "content":"<div class=\"\"><div> <span>She smiles.<br>\r\n\"now we...\" frowning she looks down to where she is holding your arms.<br>\r\nYou feel her fingering the fabric of your coat.<br>\r\n\"What is this?\" She bends down and licks the arm of your lab coat. \"EEUURRGH! Oh I really hope that isn't your skin! I'm not eating that!\"<br>\r\n\"Oh no, that just my lab coat.\"<br>\r\nThe catwoman seems a little perplexed at this.<br>\r\n\"What's a 'lab coat'?\" she says, saying the words slowly as if she's never heard them before.<br>\r\n\"It's clothing for use in a lab. You know, with pockets to put things in? Useful stuff.\" and you pull out some pens, notepads, a calculator etc.<br>\r\nHer eyebrows raise as if this really IS the first time she's seen a coat.<br>\r\n\"It comes off, right?\" You nod. \"Well then that's all right. I'll keep it safe for you, but I'm not eating it!\"<br>\r\nYou blush but find yourself stripping, again before you really thought about it. Off comes the coat, trousers, shirt, bra, shoes, socks and panties. The catwoman looks bemused.<br>\r\n\"Why do you wear all this stuff? Are you from a colder climate or something?\"<br>\r\n\"Er, no, not really, we just like to wear clothes. It's kind of complicated.\" you manage, too anxious about the catwoman's offer of a meal to go into a long discussion about sexual mores on nudity.<br>\r\n\"Hmm, well, if you say so. Anyway bend over and we'll get started.\"</span></div></div>",
+            "created":1087016400,
+            "id":202946,
+            "title":"We don't need no stinkin' clothes!"
+        },
+        "11222121212212111":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "She was telling the truth and gulps air down for you.",
+                "She was lying. This is your final resting place."
+            ],
+            "content":"<div class=\"\"><div> <span>You find yourself shaking a bit, but not from cold. Feeling awkward in your nakedness you duck your head down towards her and feel her lightly hold your shoulders. You glance upwards and see her jaws part wider than looks plausible. Their jaws must dislocate to do that!<br>\r\nFurther thought is put to one side as those feline lips press up against your forehead and begin to spread. In seconds you are peering into the mouth as it slurps around your whole head! The wet embrace is intoxicating and you jerk forwards a little, pushing your head to the back of her throat. You feel a cough, then an echoing GULP! as muscles work tightly against your head.<br>\r\nWith a gasp you feel moist flesh ooze against you as her throat welcomes you, her lips slipping up over your shoulders.<br>\r\nAs you revel in the weird sensations you suddenly feel her hands on your dangling breasts. Your eyes go wide in the dank depths of her throat as she heaves them up and presses them to her lower lip. Sucking hard she wriggles them in and you can feel yourself getting VERY wet from this!<br>\r\nYou can't breath right now and struggle slightly as she sucks in your middle, her tongue tucking your mamaries to the back of her throat before she swallows them in. The feelings as she does almost send you through the roof! This is better than sex!<br>\r\nSuddenly your head pops into a smaller chamber and you get a little breather. It seems she swallowed some air in here for you before hand as you can breath a little now, but soon the stomach is stretching around your shoulders too and the air pocket gets stretched too thin for to use.<br>\r\nPanting in what little air is in your mouth you feel her wedge your backside into her mouth, then her tongue weaves between your legs! Oh god! Shuddering you shake as her very lithesome muscular tongue works it's sinuous way into the folds of flesh there, parting them effortlessly and caressing your clit. Damn she knows what she is doing! It takes only a few seconds to finish you off, and then she is literally finishing you off, sucking in your shaking legs as you revel in your orgasm.<br>\r\nShe finally pushes in your feet, sending them into her belly with the rest of you and you curl up tight into a fetal ball.<br>\r\n\"Mmmm! I can tell you liked that!\" she says, her voice echoing around you as you hear sounds her her licking her lips.</span></div></div>",
+            "created":1087102800,
+            "id":202948,
+            "title":"Voluntary entry."
+        },
+        "112221212122121111":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "He doesn't want to hang with criminals.",
+                "Only if you become his new boss."
+            ],
+            "content":"<div class=\"\"><div> <span>Suddenly the tightness around you diminishes as the catwoman gulps and gulps, sending air down to you.<br>\r\n\"Oh, *gasp* thanks!\" you mutter, still riding the waves of post orgasm pleasure.<br>\r\n\"Hey no trouble! Hope you like it in there, but give me a little rest before I get going, I've been running quite a while and I ain't up to hauling you around just yet!\" she chuckles, then pauses. \"Oh, I don't think we've been introduced. My name's Yandi, Yandi Emerett.\"<br>\r\n\"Lucy Hendricks.\" You reply, and can't resist shoving your hand out against her taught belly skin. It stretches out around you and you feel her hand grasp yours and shake it through the stomach lining. Now that's a weird experience! \"Pleased to meet you.\"<br>\r\n\"Er, Are you finished?\" comes a deeper voice. You'd almost forgotten about Arnold! My god, you just exhibitioned yourself in front of him!<br>\r\n\"I think she is.\" Yandi says, chuckling. \"So, now your boss is gone do you fancy heading out with us? I'm sure we could help you out.\"</span></div></div>",
+            "created":1087102800,
+            "id":202950,
+            "title":"Getting to know your predator."
+        },
+        "1122212121221211112":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Sure, we'll figure out pay etc later.",
+                "Well, maybe that'll have to wait till I have money."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I dunno...\" says Arnold. \"I guess if you was to be my boss then I'd go with you. Now Mervin's gone I need someone to replace him. You seem smart, will you you hire me?\"<br>\r\nSuddenly you realize from the lack of response from Yandi that Arnold was talking to you!<br>\r\n\"You want me to be your boss Arnold?\" you say, having to repeat it a little louder due to the muffling effect of Yandi's stomach.<br>\r\n\"Yeah, do you want to hire me? I'm a good worker, strong, don't eat often, and I can track real good!\"<br>\r\nWell, do you want to? You'd have to figure out some way to actually pay him you presume. At that you probably need some way to earn money anyway.</span></div></div>",
+            "created":1087534800,
+            "id":203688,
+            "title":"Choosing his boss."
+        },
+        "11222121212212111121":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Yandi joins you too.",
+                "She says she'll wait before committing."
+            ],
+            "content":"<div class=\"\"><div> <span>You shift a little in your new, squidgy, rather comfy, environment and pause for a few moments.<br>\r\n\"Well, I guess I do need some help here as I don't know much about the locals. OK, I'll hire you Arnold, but we'll have to sort out pay details later when I find out what the local monetary system is.\"<br>\r\n\"Uh, OK.\" is Arnold's reply. You wonder if he knows what a 'monetary system' is?<br>\r\n\"What about you Yandi?\" You say to your... devourer you guess is the right word... or is she transport for you at the moment?<br>\r\n</span></div></div>",
+            "created":1093842000,
+            "id":214372,
+            "title":"Arnold's on your side."
+        },
+        "112221212122121111211":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You hold back the full story... for the moment.",
+                "You fill in Yandi on how you came here."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Me?\" Yandi responds, her words echoing around you a little. \"Well well, hadn't even thought of that one. You did rescue me, so I guess I owe you that, and besides you seem pretty canny for a hairless ape. OK, I'm in, and I'll even help you with the 'monetary system' too.\"<br>\r\nYou get the distinct suspicion that she is grinning at Arnold at this point. You really hope these two get on well. Having a couple of people working for you that get on each other's nerves could be difficult.<br>\r\n\"So, Yandi, I guess we'd better head for civilization first, but where round here would be good considering neither you nor I have tags? Oh, and what exactly IS a tag?\"<br>\r\n\"You don't know what a tag is? Where are you from?\"</span></div></div>",
+            "created":1093842000,
+            "id":214373,
+            "title":"Yandi joins too."
+        },
+        "1122212121221211112111":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You manage to stay awake for Yandi's description.",
+                "You fall asleep in Yandi's belly."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Erm, that is kinda tricky to explain. Maybe I'd better leave that till later. Suffice to say I'm not.. from this world.\"<br>\r\nYou expect this to throw Yandi, but she seems to take it in her stride.<br>\r\n\"Oh, OK, explains a lot. 'Fraid I don't know a lot about other star systems, though I went to Fremmel once a while back. Didn't like it, the Commission is too much in control there. I prefer a place with a bit more freedom.<br>\r\n\"The commission?\" You ask.<br>\r\nFor the next few minutes Yandi explains that The Commision was made up of four great guilds that combined many years ago to form a conglomorate that was more powerful that governments. Now it has taken over many colony worlds (maybe all as far as Yandi knows) but not this world, known as Lan. This is the homeworld of her species... and apparently all the species. You aren't really sure how one world could spawn the three species you've seen so far and as Yandi talks you realize it's not just three but more like fifty or more.<br>\r\nYandi talks about the various independent guilds that work outside of The Commission, still selling their products legally, for the moment, but they are rather inferior to Commission goods now. Soon she suspects The Commission will force all other Life Molders out of the market.<br>\r\n\"Life Molders?\" you ask.<br>\r\n\"Hmm? Oh yes, didn't I mention that?\" Yandi says, as she shifts a little. Both she and Arnold sat down as you chatted and you've found it rather comfortable to be rested in her gut, which in turn is resting on her lap. It's also somewhat distracting, especially with the thump of her heart lulling you to sleep.</span></div></div>",
+            "created":1093842000,
+            "id":214374,
+            "title":"First details on THIS world."
+        },
+        "11222121212212111121112":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Arriving at Lorrem.",
+                "Stop to let you out for fresh air first."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Yes, well the Life Molders produce the tools. Well it used to be they just made the first ones and you bred the rest, with you maybe having to buy better ones or medical assistance. Now The Commission... Neuters... and... free speach....\"<br>\r\nYour concentration looses a lot of that last bit, and finally you drift to sleep in the warm, moist, thrumming insides of Yandi's stomach.<br>\r\n<br>\r\nMuch later you find yourself blurilly coming to as your soft silky world rocks back and forth around you. For a few moments you wonder where the hell you are, then the previous day comes back to you.<br>\r\n\"Whoah! What a day!\" you murmer.<br>\r\n\"Ah, awake are we?\" echoes Yandi's retort.<br>\r\n\"Um, yes.\" you stifle a yawn and suppress a stretch. You don't want to hurt Yandi's insides by stretching them too much.<br>\r\n\"Well, don't worry we're well on the way to Lorrem, a nearby town. If you don't mind I decided against Therem. It's a bigger town, but it's also the headquarters of several slave catchers, especially the ones I was running from. Hope you don't mind me making that choice as you were asleep at the time.\"<br>\r\n\"Oh, no, fine.\" You manage as you rock back and forth. You're rather surprised Yandi can manage to walk well with your weight in her belly. You'd think she'd overbalance with each step!<br>\r\n\"Are we nearly dere yet?\" comes Arnold's drawl.<br>\r\n\"Nearly big boy, nearly.\" Yandi responds softly. Obviously she is getting rather tired of her company.</span></div></div>",
+            "created":1093842000,
+            "id":668387,
+            "title":"Rise and shine!"
+        },
+        "112221212122121111211122":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "No, lets relax here. You need to get your breath back.",
+                "OK, lets get going again."
+            ],
+            "content":"<div class=\"\"><div> <span>As you rock back and forth, swaying with Yandi's every step, you begin to wonder what you are missing. It's a bit of a toss up as far as you are concerned. You'd like to see the town as you get closer to see more of this world's architecture and it's society, but perhaps it's safer for you in here. After all you don't have a 'tag'. Although, come to think of it neither does Yandi.<br>\r\nEventually your interest in the town overcomes your trepidation.<br>\r\n\"Hey, Yandi? Would you mind if I got out and walked from here? I'm sure you're tired of carrying me.\"<br>\r\nA chuckle resonates around you.<br>\r\n\"Well, I've carried more, but you're right, it's beginning to tire me a little. OK, and while we're at it we'll make camp here for a bit.\"<br>\r\nSuddenly the world heaves around you, pulsing tightly against you. You aren't exactly sure what the 'normal' thing to do here is so you try to help, extending your arms up. Soon they are being sucked up by Yandi's undulating throat muscles.<br>\r\nAs soon as they grip you your whole body is jerked up and your head is thrust into her neck. Gasping for a few seconds against the constriction you feel your body slowly being fed up into the catwoman's neck. You manage to hold your breath until, with a wet plop, your head emerges into fresh air. Panting you bite your lip as Yandi's esophagus works your chest upwards until it too is disgorged from between Yandi's taught lips. You reach down and grasp her knees (she appears to be seated on a rock) and hold yourself up as she ejects the rest of your body from her depths.<br>\r\nAs your hips emerge you gasp at a particular drag of the catwoman's tongue across your sex. At least this time she doesn't attempt to tongue you, but she certainly can taste how into this you are.<br>\r\nFinally she sucks and licks her way down your thighs, calves and finally feet, till you collapse in a wet heap on the rough, stony ground. Looking up you see her smile knowingly, and then wink at you. You wonder if she is really into vore as a sexual thing, despite what she said earlier about not being seriously into it.<br>\r\n\"So, enjoy the trip?\" she says, bending down close to you. You can see your clothes slung over her shoulder and you feel rather naked without them at the moment.<br>\r\n\"Oh yeah, very nice!\" you manage, panting.<br>\r\n\"So,\" interrupts Arnold, \"we done 'ere yet?\" and he stands up, seemingly ready to leave.</span></div></div>",
+            "created":1094706000,
+            "id":668395,
+            "title":"Waystop"
+        },
+        "1122212121221211112111221":{
+            "choices":[
+                "\"Well how much was your.\" poke his stomach \"Former employer paying you?\"",
+                "\"I don't know if you'll accept... but.\" slide a hand to his crotch"
+            ],
+            "content":"<div class=\"\"><div> <span>You start wiping the wetness from your trip into Yandi before sitting on the ground to relax. The cool air making you shiver a little, but you don't want to put your clothes on yet as they would get wet. Yandi and Arnold look at you and Yandi giggles \"One of the benefits of having fur.\" Arnold scratches his head \"She has some.\"<br>\r\n<br>\r\nMoving closer Arnold sits down next to you and pulls you into his arms to keep you warm. Your back pressed to his chest as you see Yandi moving closer \"you're not stealing all the snuggles.\" she straddles you and leans in adding her fur to the pile.<br>\r\nThe feeling of the two furry bodies against your own feels nice. Yandi's fur was fine and soft, while Arnold's was thick and warm. The two lay there keeping you warm as Arnold looked like he wanted to say something.<br>\r\n<br>\r\nYou scratch his chest a little and giggle \"What is it Arnold\" he let out a whimper \"I know you wanted to wait, but I kinda wanted to know how I was getting paid?\" You sigh not sure what you were going to do for money in this world. You think for a while and decide to answer...</span></div></div>",
+            "created":1289948940,
+            "id":994957,
+            "title":"No, lets relax here. You need to get your breat..."
+        },
+        "11222121212212111121112212":{
+            "choices":[
+                "\"I've never been with someone outside my species before.\"",
+                "\"Sorry I don't mate outside species.\" GLOMP"
+            ],
+            "content":"<div class=\"\"><div> <span>Arnold jumps a little and you pause as you grab him and it was covered in fur. Arnold blinks some \"You want my sheath?\" causing Yandi to giggle \"She wants to mate with you as payment silly.\" You blush deeply when she makes it sound more crude. You keep fondling him as you wait for his answer.<br>\r\n<br>\r\nArnold looks at you as his sheath starts to firm up in your hand. His hands rubbing up and down your sides caressing you as he debates what he is going to pick. Yandi joins in by grabbing your chest squeezing it. She starts nibbling on your ear seeming eager to play as Arnold takes your ass in his hands pulling you close.</span></div></div>",
+            "created":1289949960,
+            "id":994970,
+            "title":"I don't know if you'll accept..."
+        },
+        "112221212122121111211122121":{
+            "choices":[
+                "Time to switch things around",
+                "Let Anrold finish in your mouth"
+            ],
+            "content":"<div class=\"\"><div> <span>Yandi giggles \"His species does tend to be on the larger size of things. Want to see what I mean.\" Arnold smiles at the compliment and shifts moving up allowing you to see his sheath with the tip of his red member poking out. You lean forward and take the tip into your mouth and Arnold tenses thinking you were about to bite his cock.<br>\r\n<br>\r\nAfter you start sucking on the tip his reaction changes as his tongue hangs out the side of his mouth and you giggle. Then you jump as Yandi's tongue starts licking your sex. She purrs apparently liking the taste. Arnold's cock grows inside your mouth the more you suck. He was large, and when you moved back his member was also very different then a human's. His breathing becoming more ridged and pre was shooting from his cock into your mouth. Yandi's attention to your sex was getting a similar reaction as she slipped her tongue between your folds causing you to moan loudly.</span></div></div>",
+            "created":1289950620,
+            "id":994983,
+            "title":"\"I've never been with someone outside m..."
+        },
+        "1122212121221211112111222":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "It's cold, better dress before you reach town.",
+                "The locals don't dress, maybe you shouldn't?"
+            ],
+            "content":"<div class=\"\"><div> <span>You smile faintly at Arnold.<br>\r\n\"OK, sure, maybe we'd better get to town.\"<br>\r\nYou stand up, trying to get your bearings. It's daylight now, probably mid-day from the look of the sun (at least there is only one sun here, even if there are two moons!), and you appear to be on a rough trail on stony scrub ground. Ahead there is only a few hardy plants, looking like weeds. Behind, on the other side of the trail you can see lush, oddly textured green as far as you can see. It faintly resembles grass, but as you look at the closer part of it it's obvious that it doesn't have one blade, but instead looks more like a tall, thin, mini fern of some kind.<br>\r\n\"It's not that far to Lorrem now, we'll probably see the outskirts when we get around that rise.\" Yandi points to a low, wide hill on the barren side of the trail.<br>\r\n\"So we're not using the trail?\"<br>\r\nYandi laughs.<br>\r\n\"Hardly. This is an old Gormu trail used to haul food from the farms to the east to the old mines in the west. The mines were used up centuries ago, and these trails were never used enough to make a good road out of it.\"<br>\r\nAt first you wonder about the green 'not grass' stuff, and why the city is on the barren side, then you glance at your clothes, still over Yandi's shoulder as she too stands up.</span></div></div>",
+            "created":1094706000,
+            "id":215921,
+            "title":"Where are we?"
+        },
+        "11222121212212111121112221":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Heading into town.",
+                "Lets circle around first and take a look."
+            ],
+            "content":"<div class=\"\"><div> <span>For a moment you wonder if you should go into town naked. After all from Yandi's reaction they don't seem to need clothes much. However, she only noticed when she was about to eat you. Maybe it's just the touch of the clothes she thought was wierd? It's probably safe to wear them, and it IS rather cool here after all! Besides it'll give you something to wipe the saliva off your body with!<br>\r\n\"Hey, first could you give my clothes? It's cool out here.\" You point to Yandi's shoulder.<br>\r\n\"Hmm? Oh these, sure.\" she throws them to you and you start to dress, surprisingly starting to blush now you are dressing. Why weren't you blushing while you were naked before them?<br>\r\nYandi seems to think your clothes are some sort of joke. Perhaps to her kind they are? Maybe Human's nudity taboo would seem silly to her.<br>\r\nAnyway, you finish buttoning up your lab coat and check that everything is still in the pockets.<br>\r\n\"OK, shall we go?\"</span></div></div>",
+            "created":1094706000,
+            "id":215923,
+            "title":"Getting dressed."
+        },
+        "112221212122121111211122212":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Nothing else launches in the next few minutes.",
+                "A huge ship goes overhead before rocketing away."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Sure.\" Yandi says and starts off, then stops and turns back. \"Hey, you wanna check out the spaceport first? They're probably due to launch soon. There is usually one in the early afternoon. It's pretty fun to watch.\"<br>\r\nThis reminds you of Yandi's earlier speech... what little of it you remember before you fell asleep. You vaguely remember something about 'breeding' for machines, or at least you think that was what she was talking about. Do they have nano technology here? Maybe viewing the spaceport would be a good place to find out.<br>\r\n\"Why not, I've only seen a few space launches before, and I'm sure ours are different from yours.\"<br>\r\nYandi seems to frown at that comment, but shrugs it off, nods, then she leads you off to the hill. Maybe you shouldn't comment too much on your world's technology. Who knows what she'd make of that, though she seems to be quite blase about everything so far, you never quite know what phobias, taboos or other cultural differences can affect things like this.<br>\r\nThe three of you head up the hill and you notice a bit more vegetation around, mostly yellow green bushes. However, all this disappears from your attention as you come to the top of the hill and look down on the town of Lorrem.<br>\r\nThe sight is breathtaking, a sweeping vista of brown, green and blue buildings in a smooth bulbous design. The town has higher buildings nearer the center, as Human buildings do, but here they are also wider, some look like enourmous, smooth domes, while others like elongated, dome topped cylinders, but all seem to be limited to being about three times their width in height. Maybe it's some sort of limit to their building's design?<br>\r\nSuddenly you see a flash to the left side of the city (from what Yandi said about direction earlier you think that is the east side) and you notice a flickering light there, slowly floating upwards, seemingly unsupported. As you squint you see the light is a sort of flame on the back of an odd shaped mass. Is that a space ship? The flame isn't under it though, how can that support it? It looks more like a candle, curling upwards, than an exhaust. That can't...<br>\r\nSuddenly the flame squirts backwards in a tight jet that turns from the golden yellow it was to a deep transparent blue. In response the craft shoots in the opposite direction, not up as it was floating, but away from you, building speed rapidly.<br>\r\n\"Wow!\" you say, watching as it pulls up, looking more like a wingless aircraft as it climbs on the pillar of blue fire, shooting into the distance. There is little noise from it, more like a quiet jet engine than anything else and you have to admit you are impressed as you see it shrink to a dot, then disappear from view.<br>\r\n\"Cool huh?\" Yandi says \"Wait till you see a heavy transport go up, those suckers are huge!\"<br>\r\n\"That wasn't a transport?\" you say, turning to her.<br>\r\n\"Heck no, just a personnel ship, probably some rich kid's toy or a corporate exec's craft. Watch the launch area to see if anything else is due to launch.\"</span></div></div>",
+            "created":1094706000,
+            "id":215924,
+            "title":"Watching a launching."
+        },
+        "1122212121221211112111222122":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Maybe you'd better ask Yandi to explain.",
+                "Perhaps it'd be better to find out on your own?"
+            ],
+            "content":"<div class=\"\"><div> <span>You sit down on the hill top and peer down. Yes, you can see the area where that craft floated up from. How had it done that? Did they have some sort of vertol technology like Harrier jump jets?<br>\r\nBefore you can think much further on the subject you notice a huge shape there start to move. You thought that was a building at first! It must be over a hundred foot in length, looking a little mishapen, but overall like a slightly flattened tear drop on it's side. As you watch you see it rise up smoothly off the ground without any dust blown up around it. What kind of propulsion could lift such a craft without kicking up dust? There are even people nearby down there (if those tiny moving dots are people) and they don't seem to feel any wind from the ship.<br>\r\nThen you see the round end of the craft start to flicker, just like the first ship, and soon a flame is licking from the rear. This time though it slowly twists around so the point of the craft is almost straight at you. Once it has floated up to what you estimate as about a thousand feet you see a flash behind it as the engine kicks in and it surges towards you. This one accelerates a little slower than the first one, looking more the way the shuttle does on lift off... although sideways.<br>\r\nYou shake your head in amazement. How do they get something that size to fly like that seemingly so effortlessly? Then you do a double take. As it gets closer you can see details and it is starting to look decidedly odd, almost... organic! It's soon picked up quite a speed and as it swoops high over your head you can make out fish like fins on the side, ribbing, even what looks like many small crab-like legs folded up on the bottom.<br>\r\n\"Oh my god it's alive!\" you whisper as it shoots off into the distance, getting faster and further away.<br>\r\n\"Huh?\" Yandi says, looking perplexed. \"Of course it is, it's flying isn't it? Wouldn't want a dead ship overhead that's for sure!\"</span></div></div>",
+            "created":1094706000,
+            "id":215928,
+            "title":"Nearby Transport."
+        },
+        "11222121212212111121112221221":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You keep schtum, work it out for yourself.",
+                "Tell Yandi about your tech and ask about theirs."
+            ],
+            "content":"<div class=\"\"><div> <span>You pause for a moment, trying to figure out how to explain your confusion. Obviously to Yandi this is normal.<br>\r\n\"That ship, it was a living creature? How... I mean who made it?\"<br>\r\nAs soon as you say that you realize it sounds stupid. No-one 'makes' living things...<br>\r\n\"Looked like a locally made one I think, maybe Troho Guild? Anyway, an old design. Few can compete with the Trade Commision, as I said before. Oh, did you miss that? I wasn't sure when you fell asleep then.\"<br>\r\nYou blink, trying to keep the confusion from your face. It's obvious that living ships are normal here, and maybe other things too. They have genetic engineering here maybe? Then you peer a bit closer at the view down there. Are those buildings... yes! They look alive too. Is everything alive here?</span></div></div>",
+            "created":1102309200,
+            "id":228248,
+            "title":"living ships."
+        },
+        "112221212122121111211122212211":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Yep, lets head into town.",
+                "Maybe we'd better wait till night time and sneak in?"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Maybe we'd better just get into town.\" You say, standing up. \"Will there be any problem with our lack of 'tags'?\"<br>\r\nYandi frowns, maybe sensing your reluctance to talk more about the living ships. However she responds to your question soon enough.<br>\r\n\"Hmm? Oh, I doubt it, not here. They're fairly lax here on such rules, mainly 'cos they don't have a heavy slave industry here.\"<br>\r\nShe stands up and stretches, Arnold getting up behind her, and reaches a hand to help you up.<br>\r\n\"Ready?\" she says.</span></div></div>",
+            "created":1102309200,
+            "id":228250,
+            "title":"Don't explain just yet"
+        },
+        "1122212121221211112111222122111":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Yes, lets head to town.",
+                "Not yet, and you try to examine the sample closer."
+            ],
+            "content":"<div class=\"\"><div> <span>With some trepidation you head down the hill towards the town of Lorrem. It seems as if it's more compact than towns on your homeworld, less sprawl at the edges. It's almost as if the buildings just stop a set distance from the center.<br>\r\nYou, Yandi and Arnold make a ciruitous path towards the buildings, skirting the edge of a low wood nearby, though it looks almost like it is made of bushes than trees it's so low. Finally you step onto a smooth path a few hundred yards from the town's edge. You look down and note the path is still rather crude, it looks like a worn path... then you realise it's unnaturally flat and smooth.<br>\r\n\"Hold on a sec.\" you say as you crouch down and examine the surface.<br>\r\nYandi and Arnold seem a little perplexed at your intrest in the path but seem to humor you.<br>\r\nThe surface isn't a normal stone or dirt road, at least not the top. It's been covered in some sort of transparent resin or plastic, a very hard variety too. Curious you go to the edge, get out a penknife and, with some difficulty, cut a slice off.<br>\r\n\"Tough stuff.\" you mutter to yourself.<br>\r\nYandi smiles, you aren't sure if she heard you.<br>\r\n\"Well, shall we get going?\"</span></div></div>",
+            "created":1129870800,
+            "id":280010,
+            "title":"Pathway."
+        },
+        "11222121212212111121112221221111":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Why not?",
+                "Not a good idea. It's unlikely, but there might be slavers."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Oh, sure.\" you murmur, still fascinated by the road coating. Still you haven't got a lot of equipment here to examine it with so it's hardly worth spending more time on it right now.<br>\r\nAfter a little walk you reach the edge of the town. It doesn't exactly have a wall, but all the buildings sort of run together around the edge and seem to have... grown into one another. They also don't have windows on this side either. The path leads to a break in the 'wall' and has two eight foot tall canines guarding it. To your surprise they seem to be wearing armor.. then when you get closer you realise even the armour is alive! Is it part of them or a separate creature? Weird. They also are carrying what looks like large organic blades made of some sort of honed bone or horn.<br>\r\nThen the guard on the left points his blade at you (it looks sharper than any bone weapon had any right to!) and you feel an odd sensation in your head. It lasts just a second, then the guard almost smiles before standing up again, blade upright once more.<br>\r\n\"What was that?\" you whisper to Yandi as you walk between the unresponsive guards into the town.<br>\r\n\"Oh, they're just checking for illegal items. With the Commission trying to infiltrate themselves, sell their way into the hearts and minds etc etc... well you know the drill. Oh, I guess you don't.\" Yandi smiles a little condescendingly at you. \"Basically they don't want anything let in that can breed, and anything made by The Commission means the holder has to hold a licence while in town, neuter or not. Erm, the item I mean, not the holder!\"<br>\r\nThis is getting weirder and weirder!<br>\r\nThe walk along the street is interesting. The buildings all have shop fronts near the town entrance with gaudy signs over the entrances and shop windows. The windows and doors are all curiously round. It doesn't take long for you to finally prove to yourself that these buildings ARE alive, not just somehow grown mechanically.<br>\r\nUp ahead you see an open area with what looks like a bustling market.<br>\r\n\"So, Yandi, Arnold, shall we take a look at the Market?\"</span></div></div>",
+            "created":1129870800,
+            "id":280011,
+            "title":"Town of Lorrem"
+        },
+        "1122212121222":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You try to explain about mechanical technology.",
+                "You stay silent for the moment and learn more."
+            ],
+            "content":"<div class=\"\"><div> <span>You squirm nervously. You want to talk to these people but still find their physical strangeness awkward. You gather up your courage as you HAVE to find out about this place.<br>\r\n\"Er, could either of you two help me by chance?\"<br>\r\nThe two of them face you and you feel a little like a mouse staring down a cat and a dog. Arnold doesn't respond but the catwoman does.<br>\r\n\"Hey, of course. After all you save my life. What can I do for you?\"<br>\r\n\"Well, this is going to sound weird but... I'm from another world and I know nothing about this one at all. I need some help just understanding what's going on!\"<br>\r\n\"You came on a transport did you?\" she says, seemingly taking your origins in her stride.<br>\r\n\"Er, no... wait a minute, you have spaceships here?\"<br>\r\n\"Hmm, well yes. The Trade Commission plies it's wares here like everyone else, plus there are a few rogues that try to go independent. Really you can't do much against the high progression of the Trade Commission!\"<br>\r\n\"The who?\"<br>\r\nThe catwoman sighs.<br>\r\n\"You really aren't from around here at all are you? OK, the Trade Commission is the oldest of the three great life molders. They know enough to make the transports, world ships and combat vess..\"<br>\r\n\"WORLD SHIPS?\" you interrupt.<br>\r\n\"Yes. You know, the huge cities in space. I've heard the rich live out their whole life on those things never touching solid ground. I really couldn't say, not to my taste at all, too structured. I prefer freedom myself.\"<br>\r\n\"I've been on a world ship.\" Arnold says. After a few moments it seems this is all he wanted to say and the Catwoman rolls her eyes.<br>\r\n\"As I was saying, they make all the fastest ships and horde the breeding stock. Very few can find a viable ship to own separately without going through them, and the ships you do find tend to be either flawed or from a very old lineage with next to no modern progressions in them at all.\"<br>\r\nYou hold your hand up, making her pause for a second as you try to work out what it was in that last speech that caught your attention. Then you get it: Breeding Stock.<br>\r\n\"Wait a minute! You're saying your space ships are alive?\"<br>\r\n\"Well of course, everything is! What, you expect us to fly on a hunk of rock?\"</span></div></div>",
+            "created":1087102800,
+            "id":202952,
+            "title":"First clues about Bio World"
+        },
+        "11222121212221":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You want to see Yandi's culture. Is a  town nearby?",
+                "Talk to her some more about this 'Rebellion'."
+            ],
+            "content":"<div class=\"\"><div> <span>\"So you don't have any machines? No tools or anything?\" you say, curious about their culture.<br>\r\n\"We have tools, though I don't know that other word. I'm not sure what you are really mean. Are you saying you don't use living tools?\"<br>\r\nYou shake your head.<br>\r\n\"No, well, not really. We have horses for transport, pets, but nothing really you could call a living tool. We make our tools by shaping metal, wood and artificial materials into complex shapes.\"<br>\r\n\"Wait,\" she says, frowning, \"you put together tools yourself? That's crazy! You'd can't get even half way adequate tools like that! I mean, how would you even make a knife with a decent edge?\"<br>\r\n\"Actually, I had the same thought. How do YOU get a living knife to get a sharp edge without a grinding wheel?\"<br>\r\nThe next few minutes are spent trying to explain to one another your respective technologies. Your description of Earth's mechanical technology is long winded, but at least detailed. You know a fair bit about engineering after all, even though your main study has been particle physics. explanations the other way are a little simplified as the woman (she says her name is Yandi Emerett) seems to be fairly in the dark about any of the details of her technology.<br>\r\nBasically it seems to boil down to this. As far back as anyone can remember the Life Guilds have worked living creatures into tools. They design alterations to living creatures till they can do any task, even that of spaceship! How that is possible you can't even imagine! For the last few centuries however four of the great guilds have been acting as one under the name of the 'Trade Commission' and have virtually cornered the market on important tools.<br>\r\nThis world is the home world, called 'Lan', but there are over a dozen other worlds around nearby stars that have been lightly colonized in the last century by the Trade Commission. It seems they have a stranglehold on the trade routes as they invented the means of star travel. Most of the creatures they sell are neuters, unable to breed, forcing people to buy new tools from the Commission when their current ones grow old and die. It seems however that this was not always the case, and there are still the remnants of a few of the old Life Guilds around who sell simpler, breeding tools, though they are gradually being pushed out of the market.<br>\r\nRight now there is still a separate government here on Lan, though the Commission rules the colonies in all but name. There is talk, as Yandi tells it, that it is trying to take control here too and word has spread of a rebellion who wishes to fight against them.</span></div></div>",
+            "created":1087102800,
+            "id":202992,
+            "title":"Background details."
+        },
+        "112222":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You can't move you're just too scared.",
+                "This must be stopped! Run up and do something!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Do I have to?\" Arnold moans. \"She didn't mean it, didja?\"<br>\r\nThe feline nods fiercely, a look of panic in her eyes.<br>\r\n\"Arnold, I pay you to do as you are told. Do you want to be on the street again?\"<br>\r\nThe wolf sighs and hangs his head.<br>\r\n\"Sorry miss, orders is orders.\"<br>\r\nThe catwoman seems frozen in terror as the wolf opens his jaws wide, then wider, then wider still. My god, is this a wolf or a snake?<br>\r\nYou gape as his jaws descend over the shaking girl's head taking it in completely. Arnold takes a little swallow, bends over, and you see the girl's shoulders stretch his cheeks. Surely that isn't possible!<br>\r\nHe proves you wrong as he sits up, holding the girl out in front of him as he gobbles up her cleavage.</span></div></div>",
+            "created":1087016400,
+            "id":202923,
+            "title":"This is punishment? More like torture!"
+        },
+        "1122221":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You finally manage to shake yourself into action.",
+                "Watch, frozen in shock, as they leave."
+            ],
+            "content":"<div class=\"\"><div> <span>You should do something! This is inhumane! It's... it's... strangely erotic? No, don't think like that, a woman... or something like a woman, is dying out there!<br>\r\nNo matter how much you want to get up your muscles disobey you. You just crouch there, shivering in fear as you watch the wolf Arnold devour the woman. As you peer you can see him waddling her buttocks into his mouth, pushing her down.<br>\r\nIt takes only a few more seconds and a lot of slurping for her legs to disappear and then Arnold stands up, his gut now huge and swollen, the girl's outline clearly seen inside. As you gape you can see those outlines moving! She is still alive in there!<br>\r\n\"If you've finished Arnold we'd better get back to camp. The troop will be moving off in an hour or so.\"<br>\r\nArnold sighs.<br>\r\n\"Yes boss.\" he says dejectedly.</span></div></div>",
+            "created":1087016400,
+            "id":202924,
+            "title":"Meal over."
+        },
+        "11222212":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Try to follow the other's foot and tentacle prints.",
+                "Head in the opposite direction."
+            ],
+            "content":"<div class=\"\"><div> <span>As the two aliens wander off you sit there in panic, your mind going over the previous few minutes terror again and again. Could you have done something? Could you have saved her? Neither you or the catwoman seemed up to fighting back, but maybe... if you'd only tried!<br>\r\nSuddenly you realize it's dawn, the sun rising over the hills. How long were you out of it there? Shaking you manage to stand up, throwing off the nightmare imagery for the moment at least.<br>\r\nSuddenly you notice the ground moving, twisting. As you stare it shifts and bubbles as if it were water. In seconds you see shards of green burst into the air everywhere. Soon the ground is no longer sandy scrub but grassland!<br>\r\n\"Oh my god!\" you utter, staring about you. More than anything else this somehow brings home to you just how alien this world is. At least this might mean you aren't in the middle of a parched desert!</span></div></div>",
+            "created":1087016400,
+            "id":202925,
+            "title":"Alone again."
+        },
+        "1122222":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Your tackle dislodges the girl from the wolf's maw.",
+                "You are in tangle with the girl still being eaten!"
+            ],
+            "content":"<div class=\"\"><div> <span>You suddenly feel adrenaline flood your body. They can't do this!<br>\r\nWith a surge of energy you didn't think you had you burst from your cover and charge at the wolf, slapping Mervin away as you pass.<br>\r\n\"Hey. Oof!\" the thing says as it tumbles to the ground in a mass of writhing tentacles. You barely notice as you drive into the rather surprised looking wolf.<br>\r\n\"Let go of her!\" you shout as your shoulder rams into his chest.</span></div></div>",
+            "created":1087016400,
+            "id":202927,
+            "title":"Charge!"
+        },
+        "11222221":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "He is angry! You'll replace the catwoman!",
+                "Something stops him."
+            ],
+            "content":"<div class=\"\"><div> <span>With a loud 'PLOP!' the girl's upper body jerks free of the wolf and lands in a heap on the ground. You tumble to the floor with the wolf who looks much larger now your right on top of him!<br>\r\n\"Why d'ja go'n do dat den?\" the wolf says with a sad expression. Effortlessly he grasps your shoulders and heaves you off him.</span></div></div>",
+            "created":1087016400,
+            "id":202928,
+            "title":"Release!"
+        },
+        "112222211":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "A judder stops your descent.",
+                "There is no stopping and you end in his belly."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Wha...?\" you gasp and see red, literally, as the wolf's jaws gape before you. It seems he's decided to finish you off instead of the catwoman!<br>\r\nStaggering you feel the sweltering heat inside him as his mouth suck on your head, then shoulders, soaking your lab coat. Oh god, is this really happening?<br>\r\nA heavy rolling gulp echos around you and moist heaving muscles roll in, sucking you down. Struggle all you can it does no good and you gasp as those canine lips press into your chest and then over it. You're actually being eaten alive! Shuddering you feel the thing pawing your rear, pushing you into him. God that feels... good? No, this isn't.... Oh god!<br>\r\nYou can't help the heat spreading through your body, and it has nothing to do with the humid insides of the wolf! How can you be feeling horny as you are being swallowed?</span></div></div>",
+            "created":1087016400,
+            "id":202929,
+            "title":"Your turn!"
+        },
+        "1122222112":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "What usually happens to meal once it's eaten?",
+                "Something interupts Arnold outside."
+            ],
+            "content":"<div class=\"\"><div> <span>Gurgling gulps and odd sucking sounds pound around you as your body is massaged, pulled and oozed down into the depth's of the wolf's body. With a pop you feel your head emerge into a tiny chamber, filling it already. The stomach! Soon your shoulders are stretching it and you are finding it hard to breath.<br>\r\nArnold finishes off your rear then plays with your legs as he sucks them up, finally nibbling lightly on your toes before gulping them down to leave you curled fetally in his belly, his stomach skin tight all around you.<br>\r\n\"Der, that serves you right! You shouldn't have 'urt me!\" he says, patting you through his belly.</span></div></div>",
+            "created":1087016400,
+            "id":202930,
+            "title":"End of descent."
+        },
+        "11222221121":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "content":"<div class=\"\"><div> <span>\"OK boss,\" comes from outside the stomach as Arnold stands up, \"Now what?\"<br>\r\n\"Ungh! Help me up you oaf!\" comes the response from Mervin, somewhat muffled with Arnold's belly between you and him.<br>\r\nYou can feel yourself tossed about inside Arnold and are getting faint from lack of air. For the next minute or so you manage to make a pocket of air by tucking your head against your arms, but that soon runs out.<br>\r\nBefore you finally black out you can just begin to feel a tingling on your legs. You lose consciousness before company arrives in the form of the struggling catwoman. Soon the two of you are stuffed tight in the wolf's belly slowly digesting away. It takes a long time for his stomach to deal with you, but it manages.<br>\r\nThis is not a particularly good end for a harvard graduate!<br>\r\n\"BURRP!\"</span></div></div>",
+            "created":1087016400,
+            "id":202941,
+            "title":"Finality"
+        },
+        "14":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Panic!",
+                "Try and talk with... it.",
+                "Pay a little more attention before reacting.",
+                "Wait for it to do something."
+            ],
+            "content":"<div class=\"\"><div> <span>You are just trying to make your mind up if you can risk opening your eyes when something hard lands on your left shoulder. For a moment you freeze, wondering whether it is an animal touching you or a person's hand.<br>\r\nFinally you manage to turn your head and ease your eyes open. What you see shocks you.<br>\r\nAbove you is a... creature. It looks like a squid standing upright on short tentacles but with a face about a third of the way up it's body. The face is sort of recognizable. There are two eyes, though they seem to have two pupils one above the other, there is a mouth, but lipless, and there is only a downward facing slit, or maybe flap, for a nose.<br>\r\nGlancing down you see one of it's tentacles is resting on your shoulder. It seems to be just staring at you.</span></div></div>",
+            "created":1087016400,
+            "id":202895,
+            "title":"Finding a native."
+        },
+        "143":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "The creature interupts your musings.",
+                "You try to communicate with it."
+            ],
+            "content":"<div class=\"\"><div> <span>You stare. It's hard to anything else. You are painfully aware that there is NOTHING like this on Earth, so where the heck are you? Just then you see behind the... thing to the sky, the black sky. You had been so focussed on the creature you hadn't even noticed that it was night-time.<br>\r\nThe sky is bright with stars and you can even make out the Milky Way. There can't be much artificial lighting nearby. That is when you pay attention to the stars themselves.<br>\r\nThey aren't ones you recognise... any of them! No constellations seem familiar at all!</span></div></div>",
+            "created":1087016400,
+            "id":202896,
+            "title":"Details."
+        },
+        "1431":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Lie to it. Of course you have a tag!",
+                "Why would that matter? What's a tag?"
+            ],
+            "content":"<div class=\"\"><div> <span>It's overwhelming to have the reality of your situation brought home so clearly. You begin to shake as you try to wrap your brain around the concept.<br>\r\n\"Get up, you aren't injured. Where is your tag?\"<br>\r\nFor a moment you don't react, then gape. This... thing just spoke clear English... actually rather proper British accented English.<br>\r\n\"I'm sorry, what?\" you manage to respond.<br>\r\nIt huffs, seemingly annoyed, and suddenly it is searching you for something, it's tentacles everywhere over your clothes, going into pockets. For a moment you panic as the fear that it is going to rape you, but it seems that is not on the agenda. It stops after only a few seconds.<br>\r\n\"You don't have a tag do you?\" It says, smiling.</span></div></div>",
+            "created":1087016400,
+            "id":202897,
+            "title":"Communication."
+        },
+        "14312":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Fight free of it. It won't take you without a fight!",
+                "It has you to tightly. You can't escape."
+            ],
+            "content":"<div class=\"\"><div> <span><font class=\"size3\" style=\"\">\"W... what are you talking about? What kind of tag?\" you stutter.<br>\r\nThe squid-thing laughs evily and turns to shout behind it.<br>\r\n\"Hey, Arnold! We got a runner!\" and as it says this four tentacles shoot down to wrap you up.</font></span></div></div>",
+            "created":1087016400,
+            "id":202899,
+            "title":"Not a good thing!"
+        },
+        "143122":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "They find other runners.",
+                "They head back to the 'troop' with only you."
+            ],
+            "content":"<div class=\"\"><div> <span>You struggle hard, but it's no good it has you far too tightly. The creature is far stronger than it looked and proceeds to heft you bodily off the floor, tipping itself back on it's other tentacles to balance itself.<br>\r\n\"Arnold! Come on, I am not hauling this thing back to camp myself!\" the squid thing yells.<br>\r\nUnable to move you gasp, glancing around at the terrain nearby. It looks more scrub than desert. Maybe this is the edge of a desert? You can see shrubs and bushes nearby and maybe a river a little ways off. Why can you make out so much detail at night? It's much brighter than you expected.<br>\r\nThen the squid thing turns around, and you turn with it. Glaring down from the sky you see two moons, very bright, each a little smaller than Earth's moon and both irregular. As you stare at them you could swear you can see them slowly moving across the sky!<br>\r\n\"Arnold, hurry it up!\"<br>\r\nAhead of you you see something lumber out from behind a dead tree. It's hairy, man shaped and over seven foot tall as far as you can tell. It also has a wolf's head!<br>\r\n\"OK, OK, I'z a comin'. No need to gets in a tizzy Mervin!\" it says as it lumbers up.<br>\r\n'Mervin' the squid thing huffs in response then practically throws you at Arnold who catches you expertly. <br>\r\n\"We'd better get going Arnold. Lets see if we can find any other runners before the troop heads out.\"<br>\r\nMervin turns and heads off, Arnold shaking his head and following in his slow gait.</span></div></div>",
+            "created":1087016400,
+            "id":202910,
+            "title":"Too tight!"
+        },
+        "1431222":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Arnold throws you 'into' one of the animals! Soon more aliens join you inside.",
+                "Arnold put you in one of the odd tee pees, which is full of sad looking aliens."
+            ],
+            "content":"<div class=\"\"><div> <span>The wolf thing is very strong, but surprisingly gentle as it throws your head and shoulders over his shoulder, gripping your waist with both hands, pinning your arms by your side very effectively. As he strides along you bounce against him only able to see where you've been. Soon you are moving across a path in the scrub as the two... aliens head further on.<br>\r\n\"Keep your eyes open Arnold, you know you can see better in the dark than me. If there are any runners around I don't want to miss them!\"<br>\r\n\"Yez boss\" he mutters.<br>\r\nArnold seems rather tired, and a little sad. Honestly he sounds like he doesn't really like Mervin, but just has to do what he says. You can't believe he is related to the squid so it's probably just 'boss' part of this. He certainly is way stronger than you and it doesn't take much wriggling to prove to you that you aren't going to get out of his grip easily.<br>\r\n\"Ungh! Could you ease up on your gait Arnold?\" you gasp as he bounces along, \"This is rather a rough ride.\"<br>\r\n\"Huh? Oh, sorry.\" and he walks a bit easier, you not jarring against his shoulder so much.<br>\r\n\"Um thank you.\" you mutter, not sure how to react to the big guy. He seems nice but is still kidnapping you. You think you're still partly in shock.<br>\r\nAfter a few more minutes Mervin sighs up ahead.<br>\r\n\"Guess we aren't picking up anyone else.\" he mutters and Arnold turns a bit, allowing you to glance over your shoulder and see where you're heading; an area with several odd, tee pee like structures and two gigantic animals curled on the ground, like huge furry mounds over thirty foot long and fifteen foot high!<br>\r\n</span></div></div>",
+            "created":1238302800,
+            "id":668140,
+            "title":"They head back to the 'troop' with you."
+        },
+        "14312221":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "It's totally alien, as are the other four creatures that come in.",
+                "It looks like a female humanoid cat, and four more similar 'people' come in."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Arnold, put her in Charley then get the rest ready for shipping out. I want to be in Therem tomorrow.\"<br>\r\n'In Charley'? What is he talking about?<br>\r\n\"C'mon Charley, wakey wakey.\" Arnold says softly apparently prodding something ahead of him. Soon animal snorts punctuate the night, loud snorts. \"There ya go. Open up, chop chop, you've got guests.\"<br>\r\nBefore you can work out what the hell he is talking about he lifts you from his shoulder and heaves you forward. The world gets darker and as you tip over, flying through the air, you see a very wide set of dull, rounded teeth, then red ribbed skin sliding by a few inches above you! With a splat you land on something yielding, soft and... MOVING! Looking down you can see it's a TONGUE! A two foot wide tongue!<br>\r\nSuddenly the MOUTH Arnold threw you into closes tightly on you, sucking in your feet through soft rubbery lips and gulping. Huge squeezing presses down on you for a moment while you struggle and try to scream, but flesh is pressed too tight everywhere for you to do anything. Then you pop out into a huge chamber, sliding down to a flat floor. As you stagger to your feet, blinking the spit out of your eyes, you see you are in a living cavern about twenty foot long, ten foot wide and ten foot high! The arched ceiling glows a dull yellow, the flat floor rippling as your feet slightly sink into the fleshy ground!<br>\r\n\"What... the... hell!\" you gasp, starting to shake from nerves, fear or just the whole experience so far.<br>\r\n*Plop! Thump!*<br>\r\nYou gasp as another body slides in the opening you came in by.</span></div></div>",
+            "created":1238343900,
+            "id":668432,
+            "title":"Arnold throws you 'into' one of the animals."
+        },
+        "143122212":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You try to get some background while Charley heads to town.",
+                "While Charley heads to town something odd happens to the other guests."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ungh! Damn Arnold, why doesn't he ever just ASK!\" the... feline?.. says standing up a bit wobbly.<br>\r\nShe shakes her furred head and comes over to you. In the dim light she really does look like a six foot tall female, humanoid cat; cat-like ears, whiskers, slitted eyes and even the hands look like paws with long human like fingers (still with pads and claws though).<br>\r\n\"Yandi.\" she says and holds her hand... paw out to you.<br>\r\nYou blink for a few seconds, but obviously your form isn't as obviously weird to her as hers is to you. Slowly you raise your hand and she grips it, shaking it powerfully. She's got one hell of a grip!<br>\r\n\"Um, Lucy.\" you mutter. Then wonder what to say. This girl obviously knows what's going on around here and seems it's old hat to her, if annoying perhaps. Should you admit to your ignorance? As you're trying to decide another thump heralds a visitor arriving, this time it's a four foot tall rabbit girl, followed almost immediately by a five foot fox girl. The pair stagger to their feet shake themselves down and the fox waves to Yandi, then to you.<br>\r\n\"Hey new girl. I'm Donna and this Kaero. She doesn't talk much.\" The rabbit girl frowns at Donna but doesn't refute what the vixen said.<br>\r\n\"Um,\" you say, finally realizing you can't put this off, you've got to find out what's going on around here, \"I'm not really sure what's happening. I've only just arrived, Mervin said something about a 'tag' but I really don't understand this. Where am I?\"<br>\r\nAll three girls look suddenly perplexed.<br>\r\n\"You're an offworlder?\" Yandi says, staring at you \"I didn't know any worlds didn't use the tag system. Commission or guild I thought they all did. Well, this is the only independent guild world I know of. What world are you from?\"<br>\r\n\"Um, Earth. And we haven't had any contact with any of these worlds yet, certainly I don't recognize any of the races I've seen so far.\" Should she mention Earth hasn't met ANY aliens yet? Before she can think on that two more 'guests' plop into the chamber, a three foot tall, very hairy dog girl (maybe old English sheep dog? Why are all these creatures loosely based on Earth animals? Coincidence?), and a seven foot tall dour looking horse girl.<br>\r\n\"Well, the gangs all here.\" Yandi says \"Guess the guys are all cooped up in Mikey too. We'll be on our way soon.\"</span></div></div>",
+            "created":1238302800,
+            "id":668304,
+            "title":"Five cell mates arrive."
+        },
+        "1431222122":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Yes, though usually we just do as Charley commands, not you Mistress.",
+                "No. I've never heard of this phenomena before Mistress."
+            ],
+            "content":"<div class=\"\"><div> <span>The room shakes just after Yandi's comment and 'Charley' starts walking. You can't hear anything from outside, presumably the... stomach?.. that you're in is soundproof. Just the thought of being in some creatures stomach starts to get to you, but you just tell yourself that the other 'girls' seem calm at this so you should be too. It must be some alien form of transport... prison transport you guess.<br>\r\nYou sit down against one of the curving, fleshy walls and try to relax as the room rythmically shakes with Charley's gait.<br>\r\n\"Um, how far is it to... um, Therem?\" you say, trying to remember what Mervin said earlier.<br>\r\nYandi jerks oddly, staring at you for a moment, eyes unfocussed. Then she shakes her head.<br>\r\n\"Uh, sorry. Miles away I guess. The way these guys plod along I think we have most of the day in here.\" she walks to a dimple in the side of the creature's stomach wall and puts her lips to it! Pressing the alongside it you see her gulp. \"Need any water? No food here, Charley's a cheap model.\"<br>\r\nYou blink, staring at the... nipple?.. or whatever it is. OK, they seem fine with this, and she said it was just water.<br>\r\n\"I guess I'm a little thirsty.\" you say, and cautiously take Yandi's place and lean down. It feels very weird to suck on this teet or whatever it is, but soon cool pure water is pour into your mouth.<br>\r\n\"Thanks.\" you manage.<br>\r\n\"So, come from a pretty advanced place do you? Or are you just rich?\" Yandi says as she sits beside you, leaning against the wall.<br>\r\n\"Huh?\" you manage intelligently.<br>\r\n\"The covers.\" she says, pointing at your lab coat and pants. \"I've never seen any that thin and flexible. How do they grow them?\"<br>\r\nGrow? You look around, realizing that this beast must have been designed to carry people. Maybe all their technology is organic? Including living clothes? Maybe that's why all the people you've seen so far have been naked (barring fur). Only the rich can afford living clothes.<br>\r\n\"No, I'm not rich, and this isn't alive, it's cloth spun from living things. A plant creates a ball of fuzz which is stretched into a long strand and then that is woven into this fabric, then cut and sown into these shapes. It's pretty cheap where I come from. Everyone wears things like this, well, this is a work coat, but some sort of covering.\"<br>\r\n\"Um, some of those words I don't even understand.\" Yandi says, getting that distant look in her eyes again, \"But... if you... say so...\" She shakes her head. \"Oh, I feel kind of weird.\"<br>\r\n\"I'm sorry you aren't feeling well, lay down and relax. Maybe it'll go away.\" you say.<br>\r\n\"Yes Mistress.\" she says and lays down.<br>\r\n'Mistress'? Glancing around you see some of the others, shaking their heads oddly, glazed look in their eyes too, though Yandi seems almost permanently glazed now. What is going on?<br>\r\n\"Yandi? Are you OK?\"<br>\r\n\"Yeah, I'm... Yes Mistress, I am well.\" she says.<br>\r\nNow the others are starting to gaze in your direction too, glazed eyes almost constant as well. They seem to be turning into your servants or something. Is this normal?<br>\r\n\"Yandi,\" you say, leaning down to her, \"Is the fact that you... are calling me mistress something that always happens in Charley?\"</span></div></div>",
+            "created":1238364120,
+            "id":668426,
+            "title":"Odd goings on in Charleys insides."
+        },
+        "14312221222":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Try to get them to lighten up a little. This 'Slave' business is too much!",
+                "Try to come to terms with having five Slaves as Charley heads for Therem."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You blink at her comment as she stares at you.<br>\r\n\"Never?\"<br>\r\n\"No, I do not know of anyone who has suddenly become another beings willing slave before Mistress\"<br>\r\nWilling slave? This is weird.<br>\r\n</span></div></span></div>",
+            "created":1238365140,
+            "id":668423,
+            "title":"No. I've never heard of this phenomena before."
+        },
+        "143122212221":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Nope, not a clue Lucy. So what do you want us to do?",
+                "It's who you are. I can't explain it, just... you naturally are our masters."
+            ],
+            "content":"<div class=\"\"><div> <span>No, you can't have them being slaved to you somehow. It's just wrong!<br>\r\n\"Look, all of you,\" you say, watching all five girls focus on you, \"You aren't my slaves any more.\"<br>\r\n\"No Mistress.\" comes the chorus of replies.<br>\r\n\"No?\"<br>\r\n\"No Mistress.\"<br>\r\nYou turn to Yandi.<br>\r\n\"Why can't you obey me in this Yandi?\"<br>\r\n\"Because then we would not be your slaves any more Mistress. That is the only certain thing in our lives now. You are Mistress.\"<br>\r\nYou sink back and collapse to the floor. This is ridiculous!<br>\r\n\"OK, OK, how about... Yandi? You will now behave and think as you did before you became my slave.\"<br>\r\n\"No Mistress. I was not your slave before Mistress.\"<br>\r\n\"OK...\" you say, through gritted teeth \"Then from now on you will behave exactly as you did before except being my slave.\"<br>\r\nYandi blinks, sighs and sits up smiling.<br>\r\n\"Of course Lucy.\"<br>\r\n\"Well, that's something.\" you mutter, then say the same to the rest of the girls, who similarly return to behaving as they did before... except still being your slaves.<br>\r\nA thought occurs to you. Yandi said earlier that she didn't know of anyone else this had happened to before, but she didn't exactly say she didn't know what was happening.<br>\r\n\"Yandi, do you know why you are my slave?\"</span></div></div>",
+            "created":1238302800,
+            "id":668350,
+            "title":"Try to get them to lighten up a little."
+        },
+        "1431222122212":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "It's the enclosed space, outside it didn't work.",
+                "It's just girls that become slaved, not boys."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"It's nothing to do with being inside Charley?\" You ask, and Yandi shakes her head. \"Naturally... wait, does that mean other people will become my slaves? Why didn't Arnold or Mervin become slaved to me earlier?\"</span></div></span></div>",
+            "created":1238302800,
+            "id":668351,
+            "title":"It's who you are."
+        },
+        "14312221222121":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Try to make Charley stop out here to make escape easier.",
+                "Decide whether to risk an escape at town or just relax and see what happens."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I think it's something you give off, and outside it didn't concentrate enough.\" Yandi said, frowning as she tried to work it out... or remember it or whatever it was she was doing. \"I think anyone who was very close to you for a long time, maybe twenty minutes or so, or who was cooped up with you in a closed space like this would become your slaves. I think so at any rate.\"<br>\r\nYou shake your head, this is a lot to wrap your mind around.<br>\r\n\"Yandi, you mentioned other worlds earlier, and Commission and Guilds. Could you elaborate? I don't know anything about this.\"<br>\r\n\"Of course Lucy.\" she says. \"Up until recently most worlds were ruled independently but had powerful Life-Molding Guilds that basically ran each planet behind the scenes. About forty years ago four Guilds got together and formed the Guild Commission, later just shortened the title to The Commission. Since then they'd basically taken over their worlds, then spread, seizing or buying out other worlds. There are very few left unconquered now, this is the only one I know of anyway. Other Life-Molder Guilds still exist, but they aren't planet wide concerns, just minor players, being pushed further and further into the edges of commerce by The Commission's new edicts.\"<br>\r\nGreat, you've dropped into an organic version of Star Wars with 'The Commission' replacing 'The Empire'! Well, maybe that's a little too simplistic, but it sure seems this government is pretty much Evil with a capital 'E'.<br>\r\n\"Hmm, once we get out of Charley, is there any way to over power Mervin and Arnold?\"<br>\r\nYandi grins.<br>\r\n\"Of course, we'll do everything we can to be sure you are free of them.\"<br>\r\n\"Er, and all you lot too right?\" you say looking all of the girls.<br>\r\n\"That would be difficult. Likely one or two of us would die ensuring your escape. If we could stop out here in the wastelands maybe, but in town? That would be tricky.\"<br>\r\n\"Die? I'm not asking you to give your life for me!\"<br>\r\n\"OK.\" Yandi says smiling. These girl's now seem to casually put your orders above their own welfare, no matter how much they sound like they did before.<br>\r\n\"I don't suppose we could make Arnold or Mervin climb in here so they'd become slaves?\"<br>\r\n\"Doubt it, besides it took us at least ten minutes even in here. Mervin is way too impatient to hang around that long even if we could persuade him to come in.\"<br>\r\n\"Hark at me! Talking about how horrible enslaving people is then talking about doing it to two more!\"<br>\r\n\"Hey, those two really don't deserve to be your slaves anyway!\" Yandi said, and snuggled up to you, resting her furry head on your shoulder.<br>\r\nYou feel rather uncomfortable with her like this... OK, not uncomfortable, just nervous. What are you going to do?</span></div></div>",
+            "created":1238370120,
+            "id":668412,
+            "title":"It's the enclosed space inside Charley."
+        },
+        "143122212221211":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Some Toopa root would sort that out. It grows pretty much everywhere.",
+                "Well, you could eat Boduclo food, but I wouldn't want to force that on you!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Yandi, you said that if we could make Charley stop out here in the scrub we might overpower Marvin and Arnold?\"<br>\r\nShe nods.<br>\r\n\"Yep, I think so, probably have to take out at least Marvin, Arnold pretty much does what Marvin says. Hopefully once Marvin's gone he'll help us, or at least not hinder us.\"<br>\r\n\"Gone?\" you say, realizing you know what she means. \"What do you mean gone?\"<br>\r\n\"Hmm? Like I said we'll have to deal with him. Probably be quickest if I can just eat him, unless you'd rather do it yourself?\"<br>\r\nJust when you thought you'd got this world understood (in a limited way as yet) something comes up and floors you.<br>\r\n\"Eat him? What we start a fire and make a cook out for Marvin?\"<br>\r\nYandi looks quizzically at you.<br>\r\n\"Er... no, just swallow him.\"<br>\r\nSlowly you close your eyes, count to five and try again.<br>\r\n\"Swallow him?\" you ask quietly \"You can swallow someone? Whole? How is that even possible?\"<br>\r\n\"What d'ya mean?\" Yandi asks. \"Everyone can do that. I mean how could you eat if you couldn't? You can't live on roots and insects.\" and she laughs. Oh this world is going to be tough. Better start carefully, make sure you get things sorted out.<br>\r\n\"OK, lets start from the top. You eat like everyone else right?\" Yandi nods \"OK, what do you eat?\"<br>\r\n\"Boduclos. Me I prefer the smaller, bunny likes, though I've had bigger, some a good deal larger than you.\"<br>\r\n\"You could eat me? Whole?\" You say, a quiver in your voice.<br>\r\n\"Sure, no trouble. I'm sure you'd taste lovely. I usually go for the Boduclos with less fur, or that silky fuzz. I think Dorlik Guild made that bunny Boduclo with that kind of fur. They're pretty popular around here. I love 'em.\"<br>\r\nLaying back you rest your head against the wall.<br>\r\n\"Boduclo... they're food... what are they exactly?\"<br>\r\n\"They're like us, but no mind right? Plus they're made to grow real quick. I think they go from eggs to adult in about a week, though I've never grown one myself. They're about the one product that The Commission can't make a neutered version of without pretty much destroying the economy! You'll find breeding pens of them all over.\"<br>\r\n\"And... just suppose, someone were to come around that... oh, I don't know... couldn't physically stretch enough to swallow a... Boduclo whole, what could they eat?\"</span></div></div>",
+            "created":1238372160,
+            "id":668444,
+            "title":"Try to make Charley stop out here to make escape"
+        },
+        "1431222122212111":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Wait, you've been inside Charley for ages. Wouldn't he be your slave now?",
+                "No, you'll have to try and trick Mervin or Arnold to letting you out."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Toopa root?\" You ask.<br>\r\n\"Yeah, I've heard some sicknesses that can make people unable to swallow, though they're pretty rare. Unless there is serious damage to the throat Toopa root will get things right again. It loosens the jaw, throat and stomach and gets you right for eating again.\"<br>\r\n\"This root will do all that?\" you say. Biology isn't your strong suite but that sounds a bit suspicious... \"Was the root made by a guild?\"<br>\r\n\"I... dunno? If so it must have been an awful long time ago. It grows all over the place on this world, and I've heard people talk about it from others too.\"<br>\r\n\"I don't suppose any of you have any Toopa root handy?\" they shake their heads.<br>\r\n\"How could we?\" Donna says \"We're slaves. We can't own anything, let alone afford pockets.\"<br>\r\nOK, with living tech things could get really weird here. Clothes and pockets are a rich person's playthings?<br>\r\n\"OK, so I guess that's for when we get out. Um, how could we force Charley to spit us out? Since you're slaves I guess it has restrictions on ways out, right?\" Yandi nods<br>\r\n\"Yeah, it's entrance only opens for Mervin's or Arnold's voice. They bought and Imprinted the critter.\"</span></div></div>",
+            "created":1238373900,
+            "id":668465,
+            "title":"Some Toopa root would sort that out."
+        },
+        "14312221222121111":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "I don't think so, it only works on people.",
+                "That might work! Heck, only Charley would hear us in here anyway."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'm inside Charley, and close proximity makes people my slave, right?\" Yandi nods \"Wouldn't Charley be my slave now? All I'd have to do is order him to let us out?\"<br>\r\nYandi frowns at this, trying to work something out.</span></div></div>",
+            "created":1238374200,
+            "id":668469,
+            "title":"Wait, you've been inside Charley for ages."
+        },
+        "143122212221211112":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "You don't like the bit about eating Mervin.",
+                "You guess it's the only way to keep the girl's unhurt."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Yeah, that could work.\" Yandi says, a broad grin spreading across her face. \"And Mervin and Arnold wouldn't hear any orders you give to the critter, just Charley.\"<br>\r\nSmiling yourself now you stand up and look up at the living ceiling, swaying before you with Charley's slow gait.<br>\r\n\"Charley? This is your... Mistress. Twitch your... chamber that you have us in slightly.\" and the floor heaves a couple of times. \"Hey it works! Ahem, Charley, You no longer obey Mervin or Arnold, only me. OK?\" A rumble echoes around you. You guess that is the creatures version of 'yes'. \"OK, now whenever you feel anyone trying to get out like this...\" and you push a hand against the opening, then withdraw it. \"You will let them out carefully, OK?\" again the rumble. \"Good.\"<br>\r\nYou sit back down again.<br>\r\n\"OK, plan time. It seems we can get out of here when we want now so what do we do once were out of here?\"<br>\r\nThe horse girl sits infront of you and smiles.<br>\r\n\"I've dealt with Illinar like Mervin, I'll eat him and the rest of you can restrain Arnold.\"<br>\r\n\"Hi,\" You manage, having not spoken to this girl yet. \"OK, what's your name?\"<br>\r\n\"Marge.\" the horse girl says, offering a hand (not like a hoof at all) \"and this is Oolanti.\" she says waving to the hairy dog girl.<br>\r\n\"Pleased to meet you. Now about the plan.\"</span></div></div>",
+            "created":1238374860,
+            "id":668473,
+            "title":"That might work! Heck, only Charley would hear you"
+        },
+        "1431222122212111122":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "It works! You overpower the two and Marge starts on Mervin.",
+                "Arnold is too strong, you'll have to help the girls with him."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'm not particularly happy about the bit where you eat Marvin, but I guess it's the only safe way out of this for all of us. I don't want any of you girl's getting hurt.\"<br>\r\n\"Aww, thanks, that means a lot Lucy.\" Yandi says grinning. \"We'll do our best to keep ourselves safe, after all you HAVE ordered it.\"<br>\r\n\"And there is no way I can get you girls not to obey my orders any more?\" shakes of heads all round. You sigh \"well, at least you are more yourselves now than you were, but I hate the thought of enslaving you like this, whether I meant to or not!\"<br>\r\nThe girls just chuckle.<br>\r\n\"It's OK.\" Oolanti said \"We like it, we want to be yours.\"<br>\r\n\"Um, yeah, I guess I can live with that. So the plan basically is to charge out of Charley, Marge goes for Mervin and I think I'll help too, it's the least I can do if you're risking your life for me. Meanwhile the others charge Arnold and pin him down.\"<br>\r\nThe group nod enthusiastically.<br>\r\n\"OK,\" You say standing up. \"Lets get this show on the road! Charley, Stop walking and sit down, facing away from Mervin and Arnold.\"<br>\r\nYou feel the chamber slow, stop, then turn about, finally settling down with a thump.<br>\r\n\"OK, lets do this quickly.\" and motion to the puckered entrance.</span></div></div>",
+            "created":1238375400,
+            "id":668476,
+            "title":"You guess it's the only way to keep the girls OK"
+        },
+        "14312221222121111221":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "He's 'boss-less' now and doesn't know what to do.",
+                "He get angry that you ate his boss!"
+            ],
+            "content":"<div class=\"\"><div> <span>Marge goes first, slipping into the opening that looks unpleasantly like a giant anus! Once she's disappeared from sight Yandi follows then you reach down and push your hands in. The experience of getting out is just as.. tight as going in, though Charley's mouth is wide open so at least that isn't squeezing you. You pull yourself stickily from between the huge lips of the beast and try to get your bearings. Arnold isn't quite here yet, though Mervin is. Marge is grappling him now, while Yandi stands here waiting for Arnold. As Arnold gets closer you feel Oolanti charge past you, her fur all sticky from saliva and the two of them charge Arnold.<br>\r\n\"I could *Ungh!* use some help here!\" Marge says and you shake yourself and run over to help. Tentacles are everywhere as you grapple Mervin.<br>\r\n\"Geaargh! Stop this you.. you slaves! I OWN you! You'll pay for this!\"<br>\r\nAs you and Marge struggle with Mervin you see the other four girl's piled on top of Arnold who is shouting and screaming to be let loose. Charley seems nervous at this, but you ordered him to sit down, so he's staying. The other critter (you think Yandi called it Mikey?) isn't so restrained and the noise has scared him off. He's pounding away in a six legged gait down the pathway at quite a clip. If there is anyone inside him they're going to be tossed around a lot! You don't think there is going to be a way to get him back either!<br>\r\nMeanwhile Marge has just managed to get a handful of writhing tentacles up to her lips and in and...<br>\r\n*GULP!*<br>\r\n\"N.. NOOO!\" Mervin gasps as he watches in vain as he slides into the horse's jaws. Marge gulps and heaves, shoving Mervin down. She has to yawn really wide to fit his body in, but she does and in he goes. Muffled screams come from her throat till she finally closes her lips and swallows one last time, sending the huge lump into her gut.<br>\r\n\"Ungh! Ooh, he's a fighter. Tasted pretty good too.\"<br>\r\n\"B..Boss?\" Arnold says from the pile of girls.</span></div></div>",
+            "created":1238376120,
+            "id":668491,
+            "title":"Let battle commence!"
+        },
+        "143122212221211112211":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Yandi suggests heading to the nearest farm.",
+                "Yandi first suggests you get 'Toopa' in you to fix your problem."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Boss? Mervin?\" Arnold says from beneath the tangle of girls holding him down. You see eyes peering out at you from in there and realize he saw what happened. You look back at Marge, she seems happy with this, though that might just be because you ordered her to go ahead with this plan. Looking down you can still see the struggling bulge in her belly where Mervin sits, apparently still alive in there. \"Would he still be OK if you threw him up now Marge?\" You ask.<br>\r\nShe nods. \"Yup, he'd be fine.\"<br>\r\nYou turn to Arnold, kneeling down infront of the girl pile on him.<br>\r\n\"You understand why we did this, right? He was going to put us back into slavery and we couldn't allow that. You know that he wouldn't have let us get away if we'd just escaped and left him, right?\" A nod comes from in there somewhere. \"So you understand. Well Mervin is still OK right now. Do you want him back up again? If so you'd have to promise to restrain him while we get out of here.\"<br>\r\n\"I... No.. I can't do that. He'd order me to let him go and... He's my boss. I gotta do what he says.\" A deep sigh comes from inside the pile. \"The horsey can keep him. That way he ain't my boss no more.\"<br>\r\n\"Are you sure Arnold?\" He nods again, shaking the pile \"OK, now what about you? Are you going to be OK?\"<br>\r\n\"I... I guess. Are you gonna eat me?\" You blink. He's huge, over seven foot tall and very well built! \"Er, no Arnold. You haven't done anything to me, or at least not without Mervin's orders. I don't blame you for this.\"<br>\r\n\"Um, well... I'm kinda on my own now then... I don't like that. I... I'm not dat smart. I can't go without a boss... would... would you be my boss?\"<br>\r\nOK this is getting weird, but actually seems in character for Arnold. You don't think your slave effect thing is doing this. It's just Arnold.<br>\r\n\"Um, well if you agree not to hurt any of us we can let you go and then we can talk about this, OK?\"<br>\r\n\"Yeah, OK.\"<br>\r\n\"OK girls you can let him go.\"<br>\r\nSlowly the pile of furry bodies slides off Arnold and pulls back. With a sigh he stands up, looking very dejected. Yandi comes over beside you, huffing a bit, and slings an arm around your shoulder. You glance askance at her for a sec, but she's focussed on Arnold right now. Hmm, well save that talk for later.<br>\r\n\"OK, so Arnold I'm new around here, and these girl's are ex-slaves. You know we don't have any money to pay you with. How could I be your boss?\"<br>\r\nHe sniffs.<br>\r\n\"Dat's no different. Mervin never paid me anyways. He jus' fed me and let me sleep in Mikey. Oh, Mikeys gone!\" he says sadly, looking at the cloud of dust in the distance.<br>\r\n\"That's OK, I'm sure Charley is just as nice inside.\" you say smiling.<br>\r\n\"Um, you'd let me sleep in Charley? A.. and get food once a month?\"<br>\r\nOnce a month? Oh right, they eat person sized meals. You guess that would last them a while.<br>\r\n\"Yes, once we can find food.\" You turn to Yandi. \"How easy do you think it would be to breed these Boduclos? We need enough to live off.\"<br>\r\n\"Well, we'd have to get a few breeding pairs first, but not that hard. They'll eat Toopa root or Wide Grass, though they prefer Lem fruit. I think we'd have more trouble finding a place to breed them. I suppose with Charley here we can live on the move, stopping to feed the Boduclos, then head on out again. We'd probably need at least sixteen of them to keep us all fed though, without running out I mean. Might not be enough space in Charley for us and the food.\"<br>\r\n\"Ungh.\" Arnold says sadly \"I guess I could sleep out here if we keep da food in Charley. We got tents.\" And he waved up to Charley's back. Up there are fuzzy lumps that you thought were part of the creature. Now you realize they look like folded versions of what you saw back at the camp, what you thought were tee pees. That's what the girl's must have been kept in.<br>\r\n\"OK, that could work.\" You muse \"But we still have to get the Boduclos. Can we work for someone and accept Boduclos as payment? Without tags?\"<br>\r\nYandi turns to face you, rather disconcerting to have her cute smiling face barely inches from you looking up from your shoulder.<br>\r\n\"Um, probably. Not as tight control here as on Commission worlds. We could find some work somewhere round here from someone who doesn't care for Guild tags. Plus we might be able to get fake tags later, once we earn some cash. But as far as Boduclos go, there are farms around here, I'm sure some would be interested in extra work, though enough to exchange for sixteen Boduclos might take a while!\"<br>\r\n\"Huh,\" Comes from Arnold \"Den I work for you. You sound like you know what you is talking about. Your de boss lady now... er, what is your name miss?\"<br>\r\n\"Lucy.\" You say, and shake Arnold's furry hand \"Lucy Hendricks. Pleased to have you onboard Arnold.\"</span></div></div>",
+            "created":1238381760,
+            "id":668546,
+            "title":"Arnold's new Boss."
+        },
+        "143122212221212":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "Try to figure out a safe escape plan with the girls. You have time.",
+                "Wait till you get there and see what Mervin wants with you."
+            ],
+            "content":"<div class=\"\"><div> <span>Well, Charley is going to town no matter what, but when you get there what do you do? If you try to escape you could be risking some of the girl's lives! You're not sure you could live with that. Maybe there is a way to escape without any of them getting hurt? Anyway, the other alternative is just to let things go, tell the girls to do whatever Marvin and Arnold say and see what happens. Heck if they don't even know you have all these girls your slaves maybe that edge could work once you get in private somewhere. Heck you might even get into a closed space with Mervin and Arnold later and still get them to be slaves?</span></div></div>",
+            "created":1238370360,
+            "id":668419,
+            "title":"Escape at town or just see what Marvin plans?"
+        }
+    },
+    "info":{
+        "author_id":"gimlet",
+        "author_name":"Gimlet",
+        "brief_description":"You arrive on an alien world where tools are living creatures and vore is commonplace.",
+        "created":1087008660,
+        "description":"<td align=\"left\" class=\"norm\">You are Lucy Hendricks, a Particle Physicist in an obscure (but heavily funded) private hi-energy physics insitute.<br>\r\nDuring one study the accelerator you are using in your experiments goes haywire and you black out. You wake up in an unknown desert at night. What is worse is that looking up the sky is very wrong! Now she has to figure out where she is, how she got there and maybe figure out a way back. Before that however she has to stay alive!<br>\r\n<br>\r\nTry to keep things fairly 'Real' (no toon-like bending of physics) but as long as it's something that is physically possible pretty much anything goes.<br>\r\n<br>\r\nWarning! There will be graphic scenes of a sexual nature, as well as vore acts in this story.</td>",
+        "id":857207,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1289950620,
+        "modified":1289950620,
+        "pretty_title":"Bio world"
+    }
+}

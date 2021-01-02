@@ -1,0 +1,782 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"r.o.b",
+            "author_name":"CrazeeDayzee",
+            "choices":[
+                "Add a character?",
+                "Change a character?",
+                "Do something entirely different?",
+                "Just go with the original story for now?",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OKAY!!! What do you want to do first? Come on...tell me want you want to do. Do anything you want! You write the chapters! ust do something!</span></div></span></div>",
+            "created":1291957200,
+            "id":1012273,
+            "title":"Starting out the fun!"
+        },
+        "11":{
+            "author_id":"r.o.b",
+            "author_name":"CrazeeDayzee",
+            "choices":[
+                "Add some characters!",
+                "Throw YOU into the story to get some quiet..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Wanna add a character? Wanna add two characters? Wanna add your character? What do you wanna do?</span></div></span></div>",
+            "created":1291957200,
+            "id":1012278,
+            "title":"Add a character?"
+        },
+        "111":{
+            "author_id":"r.o.b",
+            "author_name":"CrazeeDayzee",
+            "choices":[
+                "One (Thank God)",
+                "Two (Really?)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OKAY! We're off to a good start here one last thing...one or two?</span></div></span></div>",
+            "created":1298437200,
+            "id":1059512,
+            "title":"Add some characters!"
+        },
+        "1111":{
+            "author_id":"r.o.b",
+            "author_name":"CrazeeDayzee",
+            "choices":[
+                "A boring, wimpy human? :(",
+                "A bigshot, POWERFUL, HELLZ YEAH DEMON?!? XD"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>FINALLY we get to chosing something! Now, should the new character be...</span></div></span></div>",
+            "created":1298437200,
+            "id":1059515,
+            "title":"One (Thank God)"
+        },
+        "11112":{
+            "author_id":"r.o.b",
+            "author_name":"CrazeeDayzee",
+            "choices":[
+                "List 1",
+                "List 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well first off, instead of just throwing in one character I'm putting in multiple choices. You know, to add some clour to this. Please use this when putting in characters.</span></div></span></div>",
+            "created":1308546000,
+            "id":1130391,
+            "title":"My name is..."
+        },
+        "1112":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Yes.",
+                "No.",
+                "Kind of..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are these two characters going to be similar?</span></div></span></div>",
+            "created":1450587600,
+            "id":2076992,
+            "title":"Two of the same?"
+        },
+        "112":{
+            "author_id":"r.o.b",
+            "author_name":"CrazeeDayzee",
+            "choices":[
+                "Um...Um...Crud...",
+                "I'll do it!",
+                "Couldn't you still do it?"
+            ],
+            "content":"<div class=\"\"><div> <span>\"W-What!?!\", yelled the narrator as he was spontaneously sucked into the game and long and twisting plot...<br>\r\nDO REALIZE WHAT YOU'VE DONE!?!, the narrator screamed at the top of his lungs. \"YOU'VE SENT<br>\r\nTHE TELLER OF THE STORY INTO THE STORY!!! NOW WHO'LL DO IT!?!\"</span></div></div>",
+            "created":1298437200,
+            "id":1059505,
+            "title":"A big mistake..."
+        },
+        "1121":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Keep the original.",
+                "Hire a new storyteller.",
+                "Why not use both?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It seems we require a new narrator. Should any other writer handle this, or (as the original still lives) can that one handle it?</span></div></span></div>",
+            "created":1494776280,
+            "id":2319132,
+            "title":"Casting change!"
+        },
+        "1122":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Continue from where we left off.",
+                "Start from the beginning.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With a new narrator in place, the show must go on! Only... What should we do?</span></div></span></div>",
+            "created":1415595600,
+            "id":1884000,
+            "title":"Under new management!"
+        },
+        "1123":{
+            "choices":[
+                "Yes.",
+                "No.",
+                "I don't know."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You know, this chapter has a point, narrator. Can't you still tell the story even if you're in it?<br>\r\n<br>\r\n\"Well...\" said the narrator.</span></div></span></div>",
+            "created":1318050000,
+            "id":1202620,
+            "title":"It's your job, not ours!"
+        },
+        "12":{
+            "choices":[
+                "Link.",
+                "Zelda.",
+                "Chancellor Cole.",
+                "A random Phantom.",
+                "Someone/something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay; now we're getting somewhere! Now, who is going to get changed?</span></div></span></div>",
+            "created":1296622800,
+            "id":1046617,
+            "title":"Changes; who doesn't love changes?"
+        },
+        "121":{
+            "choices":[
+                "AP/AR.",
+                "TG.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, how will Link change?</span></div></span></div>",
+            "created":1304658000,
+            "id":1101102,
+            "title":"Link it is!"
+        },
+        "1211":{
+            "choices":[
+                "Younger.",
+                "Older.",
+                "Both."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Link going to get younger or older?</span></div></span></div>",
+            "created":1306731600,
+            "id":1116018,
+            "title":"Older or younger?"
+        },
+        "12111":{
+            "choices":[
+                "Kid.",
+                "Younger."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How young does Link get?</span></div></span></div>",
+            "created":1328850000,
+            "id":1274522,
+            "title":"How young are we talking?"
+        },
+        "121112":{
+            "choices":[
+                "Toddler",
+                "Baby"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How young?</span></div></span></div>",
+            "created":1383886800,
+            "id":1691471,
+            "title":"Younger."
+        },
+        "1211122":{
+            "author_id":"t3cht00lz",
+            "author_name":"T3cht00lz",
+            "choices":[
+                "Start the story",
+                "Continue with changes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay then, let's get started, or is there anything else you want to change?</span></div></span></div>",
+            "created":1384837200,
+            "id":1696407,
+            "title":"Baby"
+        },
+        "12112":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Adult.",
+                "Old man."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How much older does Link get?</span></div></span></div>",
+            "created":1409893200,
+            "id":1852709,
+            "title":"A more mature hero."
+        },
+        "12113":{
+            "choices":[
+                "A spell from an enemy.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so there's going to be both AP and AR. What causes this?</span></div></span></div>",
+            "created":1324184400,
+            "id":1241807,
+            "title":"Okay, wait up a second."
+        },
+        "1212":{
+            "choices":[
+                "Female.",
+                "Futanari.",
+                "Genderless."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay: What gender does Link become?</span></div></span></div>",
+            "created":1313298000,
+            "id":1167838,
+            "title":"A gender-bended Link."
+        },
+        "12121":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "He messed with Zelda's clothes.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What caused this change to Link?</span></div></span></div>",
+            "created":1437973200,
+            "id":2013040,
+            "title":"Link's new look."
+        },
+        "1213":{
+            "choices":[
+                "Animal TF.",
+                "Object TF.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are some more options.</span></div></span></div>",
+            "created":1304744400,
+            "id":1101529,
+            "title":"More for Link!"
+        },
+        "12131":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A wolf",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which animal will Link turn into?</span></div></span></div>",
+            "created":1502792760,
+            "id":2369410,
+            "title":"Animal TF."
+        },
+        "121312":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A horse, like Epona",
+                "No, something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Link will turn into this animal?</span></div></span></div>",
+            "created":1502792820,
+            "id":2369411,
+            "title":"Something else"
+        },
+        "1213121":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Link is still male (He turns into a stallion)",
+                "Link is now female (He turns into a mare)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so Link will transform into a horse, but which gender will he be after?</span></div></span></div>",
+            "created":1502793480,
+            "id":2369416,
+            "title":"Link, the horse, but what gender is he?"
+        },
+        "12132":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Link will turn into an exact replica of his own outfit; sword, shield, and all!",
+                "Choose something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of object will Link transform into?</span></div></span></div>",
+            "created":1502793000,
+            "id":2369413,
+            "title":"Object TF."
+        },
+        "121322":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Go with this",
+                "Go with something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Link will just transform into either a sword, or a shield, or maybe both?</span></div></span></div>",
+            "created":1502793180,
+            "id":2369414,
+            "title":"Choose something else"
+        },
+        "1213222":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "This will do",
+                "This won't do"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could it be that Link transforms into the clothes of someone else?</span></div></span></div>",
+            "created":1502793300,
+            "id":2369415,
+            "title":"Link, the outfit?"
+        },
+        "12133":{
+            "author_id":"williamrn",
+            "author_name":"WRN",
+            "choices":[
+                "Phantom TF him",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are some more options.</span></div></span></div>",
+            "created":1340600400,
+            "id":1366570,
+            "title":"Something else."
+        },
+        "122":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Age TF.",
+                "Gender TF.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, so what happens to Zelda?</span></div></span></div>",
+            "created":1403758800,
+            "id":1818007,
+            "title":"The princess altered."
+        },
+        "1221":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "AP.",
+                "AR.",
+                "Both (explain why)."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which does the princess undergo?</span></div></span></div>",
+            "created":1466398800,
+            "id":2167156,
+            "title":"Two-way track."
+        },
+        "12211":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Adult.",
+                "Old lady."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How old does Zelda become?</span></div></span></div>",
+            "created":1488723720,
+            "id":2285278,
+            "title":"Princess to queen."
+        },
+        "1222":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Boy.",
+                "Genderless.",
+                "Futanari."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What gender did Zelda become?</span></div></span></div>",
+            "created":1440910800,
+            "id":2027718,
+            "title":"That's no princess!"
+        },
+        "1223":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Species TF.",
+                "Mental alteration.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps these alterations are more to your liking?</span></div></span></div>",
+            "created":1429419600,
+            "id":1966376,
+            "title":"Further changes."
+        },
+        "12231":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Normal animal.",
+                "Monster."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of species does Zelda become?</span></div></span></div>",
+            "created":1432875600,
+            "id":1984787,
+            "title":"New look."
+        },
+        "12232":{
+            "author_id":"gamedemonking",
+            "author_name":"GameDemonKing",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Zelda starts thinking like a gerudo?</span></div></span></div>",
+            "created":1462770000,
+            "id":2145241,
+            "title":"Mental alteration."
+        },
+        "123":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "TF.",
+                "TG.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's about time that creepy little imp got what was coming to him! Of course, he need not necessarily enjoy it, if you know what I mean...<br>\r\n<br>\r\nSo, what happens to nobody's favorite imp?</span></div></span></div>",
+            "created":1404536400,
+            "id":1822996,
+            "title":"Chancellor Cole reformed... literally!"
+        },
+        "1233":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Reincarnation (weaker form).",
+                "Reincarnation (stronger form).",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happened to nobody's favorite chancellor?</span></div></span></div>",
+            "created":1516025340,
+            "id":2441153,
+            "title":"Chancellor's recreation."
+        },
+        "124":{
+            "choices":[
+                "A regular Phantom.",
+                "A Warp Phantom.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which type of Phantom do you mean?</span></div></span></div>",
+            "created":1305176400,
+            "id":1104845,
+            "title":"Be more specific!"
+        },
+        "1241":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Species TF.",
+                "Sentience gain.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what happens to a regular Phantom?</span></div></span></div>",
+            "created":1419915600,
+            "id":1909494,
+            "title":"Rank and file."
+        },
+        "12412":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is this the only change that happens?</span></div></span></div>",
+            "created":1501609740,
+            "id":2362922,
+            "title":"A thinking Phantom."
+        },
+        "12413":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does the Phantom become a new kind of Phantom altogether?</span></div></span></div>",
+            "created":1509281400,
+            "id":2408359,
+            "title":"A new kind of golem."
+        },
+        "1242":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Loss of teleport powers.",
+                "Humanization.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what happens to a Warp Phantom?</span></div></span></div>",
+            "created":1406437200,
+            "id":1834302,
+            "title":"Teleport!"
+        },
+        "1243":{
+            "choices":[
+                "A Torch Phantom.",
+                "A Wrecker Phantom.",
+                "Something else (trust me, there's more)."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There's still the matter of a choice, people!</span></div></span></div>",
+            "created":1305349200,
+            "id":1105766,
+            "title":"More Phantoms!"
+        },
+        "12431":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Species TF.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what happens to a Torch Phantom?</span></div></span></div>",
+            "created":1425704400,
+            "id":1945090,
+            "title":"Now we're cooking!"
+        },
+        "12433":{
+            "choices":[
+                "Gold Phantom.",
+                "Swift Phantom."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, here are the last choices...</span></div></span></div>",
+            "created":1305954000,
+            "id":1110470,
+            "title":"The last ones..."
+        },
+        "124331":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Species TF.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, so what happens to one of the rarer Phantom types?</span></div></span></div>",
+            "created":1405141200,
+            "id":1826357,
+            "title":"The richest kind of Phantom,"
+        },
+        "125":{
+            "choices":[
+                "Choices.",
+                "Choices.",
+                "More choices?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, I'm not sure who else there is, so...you'll have to do it. Sorry.</span></div></span></div>",
+            "created":1296709200,
+            "id":1047007,
+            "title":"Anyone else?"
+        },
+        "1251":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Mallasus.",
+                "Byrne.",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps these fellows will fit the bill?</span></div></span></div>",
+            "created":1405832400,
+            "id":1830518,
+            "title":"Some more dangerous characters."
+        },
+        "12511":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Species TF.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what happens to Malladus? Note: the option for this path was supposed to read \"Malladus\", not \"Mallasus\".</span></div></span></div>",
+            "created":1407387600,
+            "id":1838561,
+            "title":"Malladus' makeover."
+        },
+        "125112":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps an Age TF is more your style?</span></div></span></div>",
+            "created":1435122000,
+            "id":1998101,
+            "title":"A new age... Literally!"
+        },
+        "12512":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Species TF.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what happens to the gauntlet-wielding warrior of this world?</span></div></span></div>",
+            "created":1408078800,
+            "id":1841831,
+            "title":"The lackey remade."
+        },
+        "12513":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want to alter one of the bosses?</span></div></span></div>",
+            "created":1468904400,
+            "id":2182917,
+            "title":"Remodeled bosses?"
+        },
+        "125131":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you alter Stagnox, the armored colossus?</span></div></span></div>",
+            "created":1471532760,
+            "id":2197693,
+            "title":"A better beetle."
+        },
+        "1252":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "A person.",
+                "A monster.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps a random person or monster should be the one being changed?</span></div></span></div>",
+            "created":1462770000,
+            "id":2145216,
+            "title":"A new beast."
+        },
+        "13":{
+            "choices":[
+                "Idea 1.",
+                "Idea 2.",
+                "Idea 3.",
+                "Idea 4.",
+                "More ideas."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, I'm not sure what to do for \"something entirely different\", so...free reign for everyone! Go nuts!</span></div></span></div>",
+            "created":1296622800,
+            "id":1046618,
+            "title":"Free reign; go crazy!"
+        },
+        "14":{
+            "author_id":"r.o.b",
+            "author_name":"CrazeeDayzee",
+            "choices":[
+                "Sort of.",
+                "Zzzz..."
+            ],
+            "content":"<div class=\"\"><div> <span>This is a tale from long ago. It's the tale of the first people of this land. In the beginning, the people followed the spirits, and all was peaceful. But that era of peace soon came to an end. The evil Demon King rose to power, destroying everything in his path. The spirits had no choice but to face him in battle. The war that ensued seemed to last an eterity, and much blood was shed. Finally, the spirits subdued the Demon King, although they could not destroy him. Their powers were heavily depleted. With their remaining power, they buried his spirit in a dark, dark realm. They built shackles to imprison him, along with a tower that acted acted as a lock. These shacles cover the land to this day. With their power drained, the spirits returned to the heavens. Suddenly berefit of both demons and spirits, the land was entrusted to us.<br>\r\n<br>\r\n\"Well? Do I know how to tell a good story or what!\", said a very familiar old man. \"I call it \"Spirits and Demons...at War!\"\", he exclamed proudly. \"I only do this once a year, you know! It's a blasted masterpiece! A...a...a blasterpiece!\", he rambled. \"What's this?\", he asked, \"You fell asleep during my magnum opus?\" (You lay there, sleeping on the ground. You get up and looked at the old man.) \"I can't believe this! you know, Link... A lot of people would love t be in you're position. As my roommate, you get to se my work for free!\", he kept rambling on. \"Plus\", he continued, \"I'm not getting any younger here. This story might be the only thing that proves I existed. Can't you pay attention for for one minute... And listen to an old man final creation?\", he asked. \"Are you listening to me, Link?\" (You dizzily spin you're head around slightly and say...)</span></div></div>",
+            "created":1306645200,
+            "id":1115812,
+            "title":"Just go with the original story for now?"
+        },
+        "141":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "The intro.",
+                "The conclusion.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did you miss from the story?</span></div></span></div>",
+            "created":1477242600,
+            "id":2227416,
+            "title":"Missing a few details."
+        },
+        "1413":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "The characters.",
+                "The setting.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What details are you missing?</span></div></span></div>",
+            "created":1483462860,
+            "id":2258543,
+            "title":"What did you miss?"
+        },
+        "15":{
+            "choices":[
+                "Idea 1.",
+                "Idea 2.",
+                "Idea 3.",
+                "Idea 4.",
+                "Idea 5."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I don't even know what to put for \"Other\", so... I guess this is just a free-for-all.<br>\r\n<br>\r\nSo... yeah.</span></div></span></div>",
+            "created":1335502800,
+            "id":1323827,
+            "title":"Is there even suppossed to be an \"other\"?"
+        },
+        "151":{
+            "author_id":"ravens",
+            "author_name":"Raven",
+            "choices":[
+                "Ocarina of time/ Majora's mask character",
+                "Skyward sword character",
+                "other Zelda game character"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The option at the beginning seems only for OC's so I'm putting this here.<br>\r\n<br>\r\nLets add <b>1</b> character from a different Zelda game.</span></div></span></div>",
+            "created":1442898000,
+            "id":2038219,
+            "title":"insert Zelda game character"
+        },
+        "1511":{
+            "author_id":"ravens",
+            "author_name":"Raven",
+            "choices":[
+                "Saria, Link's childhood friend",
+                "Ruto, the Zora princess",
+                "another character"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So who's entering?</span></div></span></div>",
+            "created":1442898000,
+            "id":2038221,
+            "title":"Ocarina of time/ Majora's mask character"
+        },
+        "1512":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "A hero.",
+                "A villain.",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, who do you want to add?</span></div></span></div>",
+            "created":1455253200,
+            "id":2103170,
+            "title":"Skybound crossover."
+        },
+        "1513":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "Ajajajajajjajajaja",
+                "Ononononono",
+                "ANOTHER"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about slamming best Link into this?</span></div></span></div>",
+            "created":1594976940,
+            "id":2870249,
+            "title":"Breath of ZA WILDO"
+        }
+    },
+    "info":{
+        "author_id":"r.o.b",
+        "author_name":"CrazeeDayzee",
+        "brief_description":"Change anything you want and go with it!",
+        "created":1292032200,
+        "description":"<td align=\"left\" class=\"norm\">Hey guess what? You have just been invited to change anything you want from the popular game Spirit Tracks! Go crazy,<br>\r\n but remember it's E rated. Here's a few rules to balance the fun out a little. Think of this as a creative test, just for you! So get going!<br>\r\nStay with the game, Don't stray from the \"tracks\". (Heh heh, get it?)<br>\r\nIT IS E RATED!!!!!!!!!!!!! Be appropriate with this people!<br>\r\nTry to still involve Link.<br>\r\nAdd any new character from your character to demons. Be creative too.<br>\r\nPrincess Zelda MUST be in this!!! The story would fall apart without Zelda in it.<br>\r\nTry to keep the demons in it too.<br>\r\nHave fun! (Yay, fun!)<br>\r\nP.S. Honest to god try to have SOME clue of the game, watch walkthroughs <br>\r\non Youtube if you have to. <br>\r\nI made this because I once daydreamed \"Wouldn't it be cool if you could change<br>\r\nanything you wanted in a video game?\" Then this was born.</td>",
+        "id":1731835,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1594976940,
+        "modified":1594976940,
+        "pretty_title":"Legend of Zelda Spirit Tracks Changed"
+    }
+}

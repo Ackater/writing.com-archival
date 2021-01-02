@@ -1,0 +1,1292 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "A Human",
+                "An Elf",
+                "A dwarf",
+                "Something else",
+                "A half elf"
+            ],
+            "content":"<div class=\"\"><div> <span>You enter the gates of Hewor, it's late, so you start where you always start in a new town, the nearest inn. <br>\r\n<br>\r\nThe cold winter sun is just starting to set as you see the sign, a skull filled with liquid, it looks like your kind of place so you head straight for it. <br>\r\n<br>\r\nYour instincts cause you to pause. Just as you are about to enter the narrow doorway a knife thuds into the framework where only seconds ago your throat had been. You smile, yep, this is your kind of place all right. <br>\r\n<br>\r\nThe inn is crowded. Folk from all over the world are gathered here. Most, like you, looking to be recruited by the various warlords and ladies that habitually travel here. You lean up against the bar, having forced yourself through the crowds with varying degrees of politeness. Behind the bar is a large mirror, useful for keeping an eye on your back. <br>\r\n<br>\r\nWhat do you see when you look at yourself?<br>\r\n</span></div></div>",
+            "created":1160456400,
+            "id":391063,
+            "title":"Welcome to Hewor"
+        },
+        "11":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Join the humans",
+                "join the mercenaries",
+                "sit on your own",
+                "Leave this inn",
+                "Go stand back at the bar"
+            ],
+            "content":"<div class=\"\"><div> <span>You grab hold of the barkeep as soon as he wanders into your reach. \"Ale, food and a room.\" You demand, tossing a coin into his hand and walking toward the back of the room without waiting for a reply.<br>\r\n<br>\r\nThree tables have room, one with a mixed bunch of mercenaries, one with your own kind and an empty one.<br>\r\n<br>\r\n<br>\r\nDo you... </span></div></div>",
+            "created":1160542800,
+            "id":391065,
+            "title":"the inn"
+        },
+        "111":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Stand up and offer to help",
+                "ignore him, it's not your problem"
+            ],
+            "content":"<div class=\"\"><div> <span>You look at the leader. He gives a nod in reply to your unasked question. <br>\r\n<br>\r\n\"Welcome friend.\" He says, as you take a seat.<br>\r\n<br>\r\n\"You seem to be doing well for yourselves.\" You say, wasting no time getting to the point.<br>\r\n<br>\r\n\"Our boss pays well.\" It was not an invite but it wasn't a rejection either.<br>\r\n<br>\r\n\"So I see.\" You reply.<br>\r\n<br>\r\nA brief scuffle breaks out on the other table, a dwarf seems to have bitten of more than he can chew.<br>\r\n<br>\r\nDo you...</span></div></div>",
+            "created":1160542800,
+            "id":391066,
+            "title":"A well paid bunch"
+        },
+        "1111":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "content":"<div class=\"\"><div> <span>\"Over here.\" You call, drawing your own sword. <br>\r\n<br>\r\nThe dwarf glares at you, making no move to join you. <br>\r\nYou get the hint and sit back down.<br>\r\n<br>\r\n\"Idiot.\" The leader of the humans says, though whether it is aimed at you or the dwarf you are not sure. \"I decide if we offer aid or not. You are but a guest here.\"<br>\r\n<br>\r\n\"No offense meant.\" You assure him, you hadn't even thought of that.<br>\r\n<br>\r\n\"None taken.\" He says with a smile that fails to meet his eyes. <br>\r\n<br>\r\nToo late you realize that this was not just a slight misunderstanding; it was a grave insult. You never even felt the blade penetrate your flesh but you are more than aware of the blood seeping out of it in quantities that you know to be fatal. It takes you only moments to enter the darkness of unconsciousness; a place you are well aware you will never awaken from.<br>\r\n<br>\r\n\"Fool put up a good fight.\" The leader says, toasting the dead dwarf, even as he shoves your lifeless body off the bench in an ignominious heap.</span></div></div>",
+            "created":1160542800,
+            "id":391148,
+            "title":"An error in judgement"
+        },
+        "1112":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "accept his offer",
+                "decline"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Foolish little...\" The Human's leader mutters as he stands up. \"Over here.\" He calls to the dwarf. <br>\r\n<br>\r\nHis men, obviously used to this kind of thing, draw their own swords discretely, you decide to do the same. The dwarf refuses any aid though. You wince as he turns his back on one of the mercenaries; sure enough the injured man rises to stab the little fool in the back.<br>\r\n<br>\r\n\"Fool put up a good fight, though.\" Your new friend says as he raises his tankard in a salute. \"You did well. You let it play out, but I saw you had my back. I could do with someone like you in my squad. Lady Mesdea pays well, she can be a little harsh on fools but then who isn't but a fool!\" He laughs at his own joke. <br>\r\n<br>\r\nDo you...<br>\r\n</span></div></div>",
+            "created":1160542800,
+            "id":391149,
+            "title":"some excitement after all"
+        },
+        "11121":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Have another ale",
+                "Go to your room"
+            ],
+            "content":"<div class=\"\"><div> <span>Despite the man's lack of hunour you realize that they are as good a bunch as any to join. Truth be known they had you from good pay. <br>\r\n<br>\r\n\"Sure, why not.\" You say, as if doing them a favour, which in your mind you are.<br>\r\n<br>\r\n\"We have a camp just outside town, two miles east. We'll see you a little after dawn. I'll warn you though, no mercy or magic will be wasted on hangovers so don't over do it, we have a long march to Lady Mesdea's lands.\" He said, standing.<br>\r\n<br>\r\nHis companions nod to you before joining him.<br>\r\n<br>\r\nDo you...</span></div></div>",
+            "created":1162962000,
+            "id":391151,
+            "title":"a choice made"
+        },
+        "111211":{
+            "author_id":"sajin",
+            "author_name":"no E",
+            "choices":[
+                "wait for dawn ",
+                "cause some trouble now"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you continue drinking after a few Ales you are good and drunk and ready for battle but you have to wait for dawn what do yo do.</span></div></span></div>",
+            "created":1289797200,
+            "id":994250,
+            "title":"Have another ale"
+        },
+        "111212":{
+            "author_id":"kaiserelectric",
+            "author_name":"Kaiser Electric",
+            "choices":[
+                "You can't let her escape, pursue her!",
+                "Go back to sleep. It's too late to catch her now."
+            ],
+            "content":"<div class=\"\"><div> <span>You have no wish to anger the members of your new group, so you pay the bartender and trudge upstairs for the night. You head into your room and all but jump onto the bed. You were more tired than you thought, and you fall asleep immediately.<br>\r\n<br>\r\nYour slumber is, to say the least, less than restful. Your eyes jolt open as you hear a thud near your bedside. You sit up and look in the direction the sound came from. A strange figure is standing there, rubbing its elbow after knocking over the unlit candle on your bedside table. The figure is clothed entirely in black from head to foot, except for a pair of steel gray eyes. Suddenly, the figure levels a handheld crossbow and levels it at your heart. You quickly dodge the bolt and dive to your bag to retrieve a weapon. You pull out a dagger and spin around to meet your foe. The figure pulls out a jagged knife and dives at you. You quickly knock the figure's arm aside and gash the figure's face. The figure gives a yelp of surprise, and you hesitate for a moment, realizing that it's a woman that's attacking you. She seizes on the moment and runs out the door, leaving you standing there. What is your course of action?</span></div></div>",
+            "created":1267592400,
+            "id":845606,
+            "title":"An Unwelcome Visitor"
+        },
+        "11122":{
+            "choices":[
+                "throw in...you want the gold",
+                "this sounds too good to be true........"
+            ],
+            "content":"<div class=\"\"><div> <span>\"no thanks..\" you tell the leader.<br>\r\n\"i have to intention to get involved in a senseless feud.\"<br>\r\nthe leader looks angry.<br>\r\n<br>\r\n\"you throw in with Renav already?\"<br>\r\n\"no\"<br>\r\n\"then why?\"<br>\r\n<br>\r\n\"I told you why....\"<br>\r\nhe sits down....apparently eager to recruit you.<br>\r\n\"what if i told you.....the higher ranked employed get 1000 coin for every soldier they kill?\"<br>\r\n<br>\r\nyou perk up...this could be worth while.<br>\r\n\"those who are highly skilled and high in rank get 1000 coin for every enemy soldier that dies by their hand......lady Mesdea is very rich...and very generous....<br>\r\nso...are you in?\"<br>\r\n<br>\r\n<br>\r\n<br>\r\n </span></div></div>",
+            "created":1319299860,
+            "id":1211011,
+            "title":"for a kings ransom"
+        },
+        "112":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Take your meal upstairs and retire",
+                "eat in the bar"
+            ],
+            "content":"<div class=\"\"><div> <span>You know from talk at the bar that they are under Lord Rynav. He is from all accounts a fair employer; At least better than some you've worked for.That's not saying much though. You look to the apparent leader who nods to let you know you may join them.<br>\r\n<br>\r\n\"I hear you are hiring.\" you say, coming straight to the point. <br>\r\n<br>\r\n\"We're camped on the outskirts of town; Be there by sun up.\" He says.<br>\r\n<br>\r\nIt is getting late, the innkeeper brings over your food and a room key.<br>\r\n<br>\r\ndo you...</span></div></div>",
+            "created":1161579600,
+            "id":354608,
+            "title":"the invite"
+        },
+        "1121":{
+            "author_id":"griffinpuppy",
+            "author_name":"momwrites",
+            "choices":[
+                "Gjo to the bar and wait for your assignment."
+            ],
+            "content":"<div class=\"\"><div> <span>The food was unspectacular, but I was so hungry that it tasted like a feast.  Swirling the goblet of mead, I watched the golden liquid lap around like a tiny ocean.  <br>\r\n<br>\r\nAfter the repast, I pounded the lumpy, musty-smelling bed with my fists, bidding it to be more welcome to my weary body.  My armor, I removed, though my chest and leg plates stood nearby.  My dagger, as always, remained strapped securely to my right ankle with a leather bond.  I hit the pillow, my face covered by my long, raven hair as I lay wary on my back.  Not much sleep would be had tonight.<br>\r\n<br>\r\nI had seen the lustful stares of several males, all mercenaries, as I'd made my way up to the barkeep's station.  It has always been difficult being a female in this line of work, but since I am able to fight, slash, dismember and escape unscathed, I feel I should be treated as they are.  Perhaps not in this century.<br>\r\n<br>\r\nThe assignment I would be getting tomorrow-would it take me on as far a trip as I'd just returned from?  Would I find the terms to be reasonable?  What about the danger?  I tossed restlessly upon the lumpy mattress and beat the pillow one last time before getting a few hours' spotty sleep. <br>\r\n<br>\r\n I awoke, as I always do, with my right hand wrapped around the handle of my dagger.  The sunlight was spotty, choking its way through thick clouds which promised rain.  I jumped up, washed quickly with the tepid water in my bedside bucket, and strapped on my armor.  This would be a day to remember.</span></div></div>",
+            "created":1176094800,
+            "id":397094,
+            "title":"Lissa's New Battle"
+        },
+        "1122":{
+            "author_id":"crossback7",
+            "author_name":"-JR",
+            "choices":[
+                "Go over and take a closer look?",
+                "Mind your own business and finish your meal?"
+            ],
+            "content":"<div class=\"\"><div> <span>You take a seat at the bar and eat your food.  It is good.  You order a few more ales and are soon feeling a bit tipsy.  You see several men standing around a table.  Two men are arm wrestling on the table.  One man seems to be dominant.  The previous losers are rooting for the new contender.  <br>\r\n<br>\r\nDo you</span></div></div>",
+            "created":1173070800,
+            "id":387157,
+            "title":"Take a risk?"
+        },
+        "11221":{
+            "author_id":"tpaul",
+            "author_name":"sarge",
+            "choices":[
+                "He crushes my hand. How do I react",
+                "I crush his hand. Dohis friends avenge him?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I have done my share of chopping trees. I believe this makes my arm and grip strong enough to try. I sit and grab the champ's hand.</span></div></span></div>",
+            "created":1289883600,
+            "id":994614,
+            "title":"Go over and take a closer look?"
+        },
+        "113":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span>You sit alone, preferring to listen to the gossip first. You see that several people look in your direction but you focus on the stew; it's rich but greasy. <br>\r\n<br>\r\nAfter a while some one approaches you from the mixed group; you've guessed that they serve Lord Rynav.<br>\r\n<br>\r\n\"I invite you to join us.\" She says<br>\r\n<br>\r\nDo you? </span></div></div>",
+            "created":1160888400,
+            "id":352995,
+            "title":"A quiet meal"
+        },
+        "1131":{
+            "choices":[
+                "...accept the offer.",
+                "...refuse!"
+            ],
+            "content":"<div class=\"\"><div> <span>You look her up and down. 5' 5\", nice body, long red hair pulled back into a pony tail, and a rather pleasant face. Yeah you can spend enough time with them to at least get her name and maybe more.<br>\r\n<br>\r\n\"Sure,\" you say rising to your feet. Her eyes widen appreciatively as you stand up fully. You're rather impressive and tend to slouch when sitting down, which throws off your actual height. With a smirk you nod back to the table and she blushes as she turns around to lead the way. The tight pants she wears gives you a particularly nice view.<br>\r\n<br>\r\nThe three other men at the table give you a respectful nod and one of the men, a bald tough looking man with a well kempt beard gestures for you to take a seat across from him. He then turns toward the woman and says, \"Lesa, go get us some drinks\" before returning his attention to you.<br>\r\n<br>\r\nYou get the distinct feeling of possession as his eyes flicker over your shoulders to watch the young woman walk away, but you suppress a sigh. It seems as though 'Lesa' is already spoken for, but that hasn't stopped you in the past. The real question was whether this guy was worth killing for a piece of ass.<br>\r\n<br>\r\nLeaning back in the chair you adopt your usual slouch and the bald man's eyes tighten. He rightfully sees your relaxing as a sign of disrespect. This is good because you wouldn\u2019t want your effort to go to waste.<br>\r\n<br>\r\n\"You look to be the sort of man I do business with,\" he says with an arched brow, \"and since I don't see you flying any colors yet, I thought I'd make you an offer.\"<br>\r\n<br>\r\nHis manner is condescending but you don't get much in this line of work without putting on a strong face, and asking for more then you expect to get. It wasn't so much that the man's manner was offensive, but there was a certain oiliness about him. Your instincts were rarely wrong. If Lord Rynav is really looking for people you can bet it\u2019s for something shady.<br>\r\n<br>\r\nLesa returns with the drinks on a tray. She lays out the four cups and takes a fifth for herself before moving to stand behind the bald man. Looking back at her he turns toward you with a false smile. \"We have an open slot for a squad leader and you look like you've done that kind of work before,\" the man says reaching behind and grabbing the girl's arm.<br>\r\n<br>\r\nWith a twist he has her on the floor, her drink spilled and her face lying in the puddle. His gaze never leaves yours and your opinion of his skill goes up a notch or two. \"We don't coddle our troops though,\" he says and you get the impression that he's honestly amused now. \"What do you think?\"<br>\r\n<br>\r\nDo you... </span></div></div>",
+            "created":1162270800,
+            "id":356081,
+            "title":"A proposal"
+        },
+        "11311":{
+            "author_id":"bluebart_11",
+            "author_name":"Archivist",
+            "choices":[
+                "Go to bed and meet at noon",
+                "Try to gather some information about them"
+            ],
+            "content":"<div class=\"\"><div> <span>\"If the pay is fair\" You offer genuinely intrigued. He lets go of Lesa and smiles \"That's good to hear\" It's not that you actually want this job but you do need to earn some money and this might provide some great opportunities. <br>\r\n<br>\r\n\"I have to test you first\" The man points out, \"Meet me tomorrow at noon, at Salsburge Park and I'll tell you what you have to do\" You think about what a bother the test would be, but you're sure that you could do it. You talk to the group for about another hour then tell them that you're going to turn in for the night.</span></div></div>",
+            "created":1162962000,
+            "id":357774,
+            "title":"bothersome testing"
+        },
+        "113111":{
+            "author_id":"iluvjerry",
+            "author_name":"Erin Aplin",
+            "choices":[
+                "Stay behind",
+                "go with old man"
+            ],
+            "content":"<div class=\"\"><div> <span>So you meet up with the group at noon to go handle the business they asked you to help them with. <br>\r\n<br>\r\nLesa pulls you aside and asks,\"Are you sure you want to go off with them? They only intend on leading you to your death.\" <br>\r\n<br>\r\n\"Hey! Are you coming?\" the old man yells.</span></div></div>",
+            "created":1176354000,
+            "id":398236,
+            "title":"To die or tp live"
+        },
+        "1131111":{
+            "choices":[
+                "Ceatch up to them at a later date",
+                "Run when you have the chance, and don't look back"
+            ],
+            "content":"<div class=\"\"><div> <span>You hesitate, unsure of what to do, and still shocked by what Lesa had said.<br>\r\n<br>\r\nYou manage to say, \"Uhh, I'll stay behind, I'll meet up with you later.\"<br>\r\n<br>\r\nThey nodd, laughing and spoke to eachother in hushed voices. What were they saying, you wonder. What have you gotton yourself into?<br>\r\n<br>\r\nYou turn to ask Lesa what she means, but she's already left with them.</span></div></div>",
+            "created":1258606800,
+            "id":794064,
+            "title":"Stay behind"
+        },
+        "113112":{
+            "author_id":"a-lama",
+            "author_name":"Nana",
+            "choices":[
+                "Nothing",
+                "A body"
+            ],
+            "content":"<div class=\"\"><div> <span>You slip behind the bar counter, glancing behind your shoulders. You meant to do this without being seen, you couldn't afford another unnecessary explanation. You intend to gather some information about them, they seemed a bit too easy, and shady. You have connections, and when people are drunk enough they are willing to tell anything. A time for strong ale.<br>\r\n<br>\r\nYou walk over to the bartender, whisper a few sweet words, a glance, a nod, and then you are handed a sliver of paper. You go over the writing several times, then stuff it into your pocket hiding it from the world. Casually grabbing your coat you walk out the front door crossing the road, a grim expression warned away the beggars and pickpockets.<br>\r\n<br>\r\nAfter several upon several minutes you reach your destination, finding yourself in the presence of an old cabin . The windows broken and the wood rotting. You hesitate, but then push yourself through the door. <br>\r\n<br>\r\nWhen you step inside you find. . . . </span></div></div>",
+            "created":1178254800,
+            "id":404922,
+            "title":"Connections"
+        },
+        "11312":{
+            "author_id":"genmit02",
+            "author_name":"genmit02",
+            "choices":[
+                "Say goodbye and go on your way",
+                "Forge a partnership with Leesa"
+            ],
+            "content":"<div class=\"\"><div> <span>   \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \"Thanks, but no thanks,\" you answer. You push your chair away from the table and stand up to leave.                                                 <br>\r\n                                                      \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 As you turn to leave you hear a loud crash and a woman's scream of surprise. You turn back in time to see Leesa falling into the next table as she is pushed aside by the bald man.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 He stands up, his eyes burning holes through your heart. \"No body refuses me stranger!\"<br>\r\n<br>\r\n  \u00a0 \u00a0 \u00a0 \u00a0 \u00a0   The table's remaining occupants take up positions around you resting their hands on the grips of their blasters.<br>\r\n<br>\r\n    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 You realize your in a tight situation with no avenue of escape. Your eyes stay glued on the bald man while watching the other's movements in your periphery.<br>\r\n<br>\r\n   \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \"I'm not looking for any trouble here.\" Your mind is working overtime to find a way to survive the situation. \"I just want to be going on my way.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0   \"Well you found trouble stranger,\" the bald man sneered, \"The only way your going to be leaving here is in a Ugalean dung chamber.\"<br>\r\n<br>\r\n  \u00a0 \u00a0 \u00a0 \u00a0 \u00a0   You dive to your left, as you see the bald man's hand grasp his blaster, knocking over one of the men surrounding you. You hit the floor, your own blaster already in your hand. You fire at the bald man, hitting him in the throat. <br>\r\n<br>\r\n   \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  You don't waste anytime listening to the dying gasps of the baldman. Your eyes have already locked onto your next target, firing a second blast. You catch the next man in the chest opening a gaping hole.<br>\r\n<br>\r\n  \u00a0 \u00a0 \u00a0 \u00a0 \u00a0   As the second man slumped to the floor, you here two blaster shots in quick succession. Your muscles contract in anticipation of the intense pain your about to experience. The pain never comes.<br>\r\n<br>\r\n  \u00a0 \u00a0 \u00a0 \u00a0 \u00a0    You look around to see the remaining two men lying dead on the floor. You glance up to see Leesa standing over you with a smoking blaster in her hand.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0     She looks down  at you, \"Let's get out of here, ..now!\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0     Not wanting to wear out your welcome, you jump to your feet and follow her out the door. When you get a safe distance away you both duck behind  a building to rest.<br>\r\n<br>\r\n    \u00a0 \u00a0 \u00a0 \u00a0 \u00a0  \"Thanks,\" you gasp between breaths.<br>\r\n<br>\r\n   \u00a0 \u00a0 \u00a0 \u00a0 \u00a0   \"Not a problem,\" Leesa answers, her hands on her knees.<br>\r\n<br>\r\n  \u00a0 \u00a0 \u00a0 \u00a0 \u00a0    \"My names is Naydar,\" you offer your hand.<br>\r\n<br>\r\n  \u00a0 \u00a0 \u00a0 \u00a0 \u00a0    \"Leesa,\" she answers ignoring your out strectched hand.<br>\r\n<br>\r\n  \u00a0 \u00a0 \u00a0 \u00a0 \u00a0    \"I know.\"<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1176958800,
+            "id":400624,
+            "title":"The Refusal"
+        },
+        "1132":{
+            "author_id":"mental88",
+            "author_name":"Onlooker",
+            "choices":[
+                "You wake up in the night, your under attack.",
+                "You wake up in the morning, fully rested."
+            ],
+            "content":"<div class=\"\"><div> <span>You shift only your eyes upwards to see who was speaking but continue to eat your broth. After a few more spoonfuls you decide to send them on their way, you don\u2019t need a job right now, and certainly don\u2019t want to get mixed up in something straight away. You\u2019ve only just finished a very well paid job, mainly disposing of a certain troublesome lord who was taking too much liberty with outlying villages to his county.<br>\r\n<br>\r\nThe woman speaking cleared her throat looking for a reply, which you happily gave; <br>\r\n\u201cNo thanks, I\u2019m ok for now.\u201d <br>\r\n\u201cVery well\u2026Sir.\u201d <br>\r\nThe last bit had a little venom in it showing that just like the last town you weren\u2019t making too many friends. Fine by you, friends only give weakness, just another target for others that is more difficult to protect. You loom up as a waitress comes over, and hands you a large key and says; \u201cRoom 34, 2nd floor 3 door to the right.\u201d then leaves taking away your now empty bowl. <br>\r\n<br>\r\nYou suddenly realise that you haven\u2019t slept for just under a week. Which will defiantly cause a lack of awareness if it carries on, so you take your leave getting up and moving over to the stairwell which will lead you to your bed. Before you disappear you can see the woman who came up to you on a table, which is surrounded by several males, all engrossed in a conversation, plus somebody as stupid enough to thrust a thumb your way obviously making a statement about you, mental note; to keep weapons close when you go to bed. <br>\r\n<br>\r\nYou finally reach your room, and unlock the door with a heavy click and step into the candle lit room. Basically furnished all it had was a bed, a table next to it, a mirror on one of the walls directly over a basin for washing off the grim of the road. Walking over to the mirror you sigh and look at your reflection; an unshaven rugged face looked back. Dark circles round your eyes cast an even deeper shadow over your face. Your hair; black, ragged from many days of lack of washing, the local bathhouses would be a welcome break. Your fringe hung over your eyes obscuring them from any watchers at more than a meter away, making it easy to watch someone without them noticing. You step back and look at the clothes and equipment you carry.<br>\r\n<br>\r\nThe most noticeable thing about you is the dark clothes you ware, as you execute most your objectives during the cloak of night. The long cloak is great for hiding several items, mostly throwing knives, and making sure your purse was safe so nobody could find it to slit it. You chuckle at that thought; the last petty thief to have tried to cut your purse now has a constant limp. You unsling your long bow, as it is essential sometimes in your work to be a good archer, your bow is elf made, only the best for you. Next off comes your belt, and the familiar weight was lost as your short sword came off. You quickly check the sword itself for any kind of moister that might cause it to rust. The black blade glints under the candle light it cost a bundle, but it was worth it, the blade never makes a sound coming out of the scabbard and the colour helps hide you in the night due to it not reflecting light. <br>\r\n<br>\r\nTaking off your cloak you sit on the bed ready for a good nights sleep. Quickly grabbing your dagger you unsheathe it and hide it under your pillow for quick access. Soon sleep takes you and you enter a deep sleep.<br>\r\n</span></div></div>",
+            "created":1176958800,
+            "id":400569,
+            "title":"Getting rest"
+        },
+        "11321":{
+            "choices":[
+                "\"Jeez big brother, try and be a little gentler to your little sister.\"",
+                "\"You know who I work for. The Guild invites you to dance\""
+            ],
+            "content":"<div class=\"\"><div> <span>You were sleeping when the door opened ever so slightly. A dark figure creeped towards your bed and pulled out a blade that flashes in the moonlight. The dreams you had were plagued with demons and a dark figure beckoning you to follow the path of darkness. You're up in a flash, completely awake after the terror of your dreams. The would-be assailant staggers back, shocked at your reaction. Only then did you notice that someone else was in the room.<br>\r\n<br>\r\n\"What the?\" you cried as the attacker lunged at you, shortsword in hand. Reflexes kick in and you reach for the pillow, using at a shield which barely blocked the vicious jab. Your hands were already fumbling in the darkness for your dagger when the attacker was drawing back their arm. Your hand closed about something smooth and you raise the dagger just in time to stop the cold steel from slicing open your throat. You drew back your arm and delivered a painful blow to the stomach. They staggered back and dropped the weapon, clutching their belly. You jump off the bed and kick the shortsword away from them and press your dagger up against their throat.<br>\r\n<br>\r\n\"Who do you work for?\" You asked with an intimidating voice. The assailant seemed unfazed by the malice in your voice and said words that shocked you to the core...</span></div></div>",
+            "created":1421667840,
+            "id":1919946,
+            "title":"Under attack"
+        },
+        "12":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "join the humans",
+                "join the mixed bunch",
+                "sit alone",
+                "Leave the inn",
+                "Go stand back at the bar"
+            ],
+            "content":"<div class=\"\"><div> <span>\"You're a little far from home.\" The inn keep says, approaching you at last. \"I don't serve elven wine.\"<br>\r\n<br>\r\n\"Since I want an ale, I don't much care.\" You reply with your nicest smile. \"Food and a room as well.\" You add tossing a gold coin on the bar. <br>\r\n<br>\r\nFind a seat I'll have it brought over. <br>\r\n<br>\r\n\"I'll carry it myself.\" You respond; you have lost a few good friends to poison over the years, mostly those who trusted innkeepers and their staff.<br>\r\n<br>\r\n\"Suit yourself.\" The words don't quite match up with his expression. <br>\r\n<br>\r\nYou carry your meal and drink through the crowded inn to an area at the back. There are three tables available. One is full of humans, another a mixed bunch of individuals and the last is empty.<br>\r\n<br>\r\nWhich do you choose?</span></div></div>",
+            "created":1160456400,
+            "id":391153,
+            "title":"The inn"
+        },
+        "121":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Stay in the bar, see what other offers you get.",
+                "Go up to your room and rest before the test."
+            ],
+            "content":"<div class=\"\"><div> <span>You approach their table, unsure if you'll be welcome, they seem to be quite happy amongst their own kind.<br>\r\n<br>\r\n\"Join us Elf, we don't bite.\"<br>\r\n<br>\r\n\"Good to hear.\" You say, \"I saw what happened with the dwarf, he was a bit of a fool.\" You add. Secretly you think he got what he deserved for pushing in front of you at the bar. <br>\r\n<br>\r\n\"He wouldn't listen.\" The man says with a shrug. \"We are recruiting for Lady Mesdea, if you're interested.\"<br>\r\n<br>\r\n\"I'll think about it.\" You don't want to appear to eager, you know she is the best paying of the warring factions and you could do with the gold. <br>\r\n<br>\r\n\"Don't think too long, we leave at dawn from a small camp twenty minutes ride west of town. If you're there we'll see if you're suitable. For now I bid you a good night, we've a long ride back to camp, you are welcome to the table.\" He says, standing. It's a cue to his companions to do likewise.<br>\r\n<br>\r\nWhat do you do now?</span></div></div>",
+            "created":1164430800,
+            "id":391154,
+            "title":"Lady Medea's messengers"
+        },
+        "122":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "stay in the bar",
+                "go to your room"
+            ],
+            "content":"<div class=\"\"><div> <span>You've heard that they serve Lord Rynav and you feel in the mood for some idle chat after so long on the road alone so you ask if you may join them.   <br>\r\n<br>\r\n\"You new to this place?\" One of them asks.<br>\r\n<br>\r\n\"Yes.\" You reply, hoping his fighting skills are swifter than his mind. <br>\r\n<br>\r\n\"Not much for conversation are you?\"<br>\r\n<br>\r\n\"No.\" You say, beginning to think this was a mistake.<br>\r\n<br>\r\n\"If you're looking for work be at our camp by sun up tomorrow.\" He says, \"for now enjoy your night, we've got to go.\"<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\nDo you...</span></div></div>",
+            "created":1161752400,
+            "id":391155,
+            "title":"A mixed bunch"
+        },
+        "1222":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "go to sleep",
+                "lean the chair against the door knob"
+            ],
+            "content":"<div class=\"\"><div> <span>It's been a long journey and you've been looking forward to sleeping in a real bed so you head up the narrow stairway to your room. <br>\r\n<br>\r\nIt's not much; a narrow bed, a side table, a chair and wash basin is the only furniture.<br>\r\n<br>\r\nYou throw your pack on the floor and lock the door.<br>\r\n<br>\r\n<br>\r\nDo you...<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1162098000,
+            "id":355679,
+            "title":"the room"
+        },
+        "12222":{
+            "author_name":"radioflyer",
+            "choices":[
+                "talk to the dwarf woman",
+                "keep walking along the road"
+            ],
+            "content":"<div class=\"\"><div> <span>As you were shaken to see, hear, and even smell some of the folk in the inn, you lean the solitary chair against the brass doorknob. After quickly washing up, you slink into the narrow bed and have a light sleep. Dreaming of the war, you have a fretful sleep. <br>\r\n<br>\r\nIn the morning you awake instinctively, preparing yourself for another lonely day. Remembering the invitation from the mixed fellows at the table last night, you decide that your quest for the day will be to visit their camp and set up some sort of agreement to work with them.<br>\r\n<br>\r\nRemoving the decaying chair from the doorknob, you head with your things through the main lobby/bar area and wave goodbye to the idle innkeeper.<br>\r\n<br>\r\nOut side in the early light of morning, you can't help but notice a dwarf woman calmly sitting on the bench near the dilapidated inn.</span></div></div>",
+            "created":1172984400,
+            "id":386864,
+            "title":"silent night"
+        },
+        "122221":{
+            "author_id":"talialune",
+            "author_name":"Eva",
+            "choices":[
+                "Listen to the dwarf woman's proposition",
+                "Politely decline and continue down the path"
+            ],
+            "content":"<div class=\"\"><div> <span> The bench appeared to be cracking beneath the dwarf woman's magnificent weight. Not only did she have body mass to account for, the expensive jewelry that adorned her neck, wrists, hair, and hands. Knowing that prosperity in dwarves is represented by how lavishly adorned they are, you salute the woman and continue to walk by her. <br>\r\n     However, out of the corner of your eye, you notice that she is indicating that you take a seat next to her. Feeling very strange, considering the relationship between dwarves and elves, you take your seat cautiously. The dilapidated bench creaked underneath you making jump since you are already nervous. Adjusting her bangles, the woman turns to you and looks you square in the eye.<br>\r\n     \"I have a proposition for you, if you are interested master elf.\"<br>\r\n     You note that her one hand is in a pouch on her side, jingling a significantly healthy amount of gold coins.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\nYou...</span></div></div>",
+            "created":1176613200,
+            "id":398982,
+            "title":"A proposition"
+        },
+        "123":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "see what he has to say",
+                "tell him you support lord Rynav"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to eat in peace and get a feel for the place first. The stew is edible, but only just, so you eat swiftly. A man on the table of humans keeps staring at you, but you are used to that; not many elves are in your line of work. You ignore him. <br>\r\n<br>\r\nYou use your excellent hearing to pick up on the conversations of the nearby tables. Trying to find out who's hiring. Two names come up time and again. Lord Rynav and Lady Mesdea. It would seem these two have been fighting a war for several years, no one knows about what and you suspected that they have either long since forgotten themselves, or no longer care; now it was all about winning. <br>\r\n<br>\r\nThe man stands up and approaches you. \"You looking for a job?\" He asks sitting down without an invite. He looks nervous despite his expensive armour and new sword. <br>\r\n<br>\r\n\"Perhaps.\" You reply, from your previous eavesdropping you know he is in the service of Lady mesdea.<br>\r\n<br>\r\nWhat do you do now?</span></div></div>",
+            "created":1160456400,
+            "id":391157,
+            "title":"choosing a side"
+        },
+        "1231":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Yes.",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You have already seen what happens to those that dismiss offers out of hand; two other warriors that came in with you lie dead on the inn's floor. You know that the best way to deal with him is listen to his offer. \"I'm listening.\" You say starting to grow impatient.<br>\r\n<br>\r\n\"I am looking for a few skilled men,\" he pauses \"a generic term, no offence is intended.\"<br>\r\n<br>\r\n\"Offence is nonetheless taken.\" You inform him coldly.<br>\r\n<br>\r\n\"Is that a challenge?\" He asks.<br>\r\n<br>\r\nWell is it?</span></div></div>",
+            "created":1160629200,
+            "id":391158,
+            "title":"A few good men"
+        },
+        "12311":{
+            "author_id":"levathia",
+            "author_name":"Levathia",
+            "choices":[
+                "An ElfPire",
+                "A well trained Elf"
+            ],
+            "content":"<div class=\"\"><div> <span>You Smile Deviously, \"Maybe.\" You reply<br>\r\nand before he can react you flip him onto his back, twisting one arm.<br>\r\nHe yelps in pain, surprised at your strength, as you draw an elven shortsword on him; still twisting one arm careful not to break it.<br>\r\n<br>\r\n\"Who....What are you?!\" The soilder cries out.<br>\r\nYou smile secreativly.<br>\r\n<br>\r\nWell what are you?   </span></div></div>",
+            "created":1162357200,
+            "id":371707,
+            "title":"What are you?"
+        },
+        "123111":{
+            "author_id":"levathia",
+            "author_name":"Levathia",
+            "choices":[
+                "end up at Shirowen's Castle",
+                "Decide to stay in the town"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'm a ElfPire.\" you explain, \"Half Elf Half Vampyre.\"<br>\r\nStill holding onto the guys wrist.<br>\r\nLevathia whispers into his ear. \"Tell The Lord and Lady I work for no one but Lord Shirowen. and tell Them he sends his regards.\"<br>\r\nat that you let him go sheath your sword and dissapear into the night.  </span></div></div>",
+            "created":1162357200,
+            "id":356307,
+            "title":"God of Nightmares"
+        },
+        "1231111":{
+            "author_id":"levathia",
+            "author_name":"Levathia",
+            "content":"<div class=\"\"><div> <span>Levathia decides to go back to Shirowens Castle.<br>\r\n*I must tell him what just occured in that town. also those soilders will be looking for me.* Levathia Thinks.<br>\r\nas she gathers her long black hair into the black hood of her robe. her light blue eyes flashing.<br>\r\nthe place is black and windy, the castle is old black stone and decaying. It reeks of Evil. <br>\r\nLevathia walks up the winding dust covered stairway reaching big black doors she opens them walking into Shirowens chamber. he is sitting on his vast throne covered with actaule skulls.<br>\r\nyou bow to him. he is tall and pale. with long jet black hair in a high ponytail and dark unacturelle eyes. His skin is decaying peices of flesh are coming off.<br>\r\nhe is groutesque.<br>\r\nbut to you he is beautiful and appealing. you see only his dark personality and your loyalty to him and you like it!   <br>\r\n\"Back so soon? did you fail your mission?\" He asks in a cryptic tone.<br>\r\nYou put your staff with the Vampyre skull on it down.and answer. \"No. I could not This soilder asked me to join him. with the Lady. he challenged me to a fight when I declined and I had to show him up.\"<br>\r\nShirowen looks down at you. \"did you kill him?\"<br>\r\n\"No.\" you say,\"I know the rule. not to bring attention to myself.\" <br>\r\n\" does he know who you are?\"<br>\r\n\"No.  he just thinks I am a supernaturalle Elf. at a new place.\" You answer Shirowen.<br>\r\n\" though he does know your name.\" you add softly.<br>\r\nShirowen looks at you darkly. \"How?\"<br>\r\n\"I mentioned that I worked for you.\" <br>\r\nShirowen Glares. \"Does he know where I am?\"<br>\r\n\"No.\" Levathia reassures him. \" I just said you sent your regards to there Lord and Lady I thought you would whant me to do that.\"<br>\r\n\"What I wanted you to do was be inconspicues.\" Shirowen replies darkly,\" but I know you were only acting on instinct. so I'll let it slide.\"<br>\r\nLevathia looks up.<br>\r\n\"Only because your who you are. My darling Vampress.\"<br>\r\n You smile.<br>\r\nas he strokes your hair.<br>\r\n\"But next time,\" Shirowen Says,\"I'm coming with you.\"</span></div></div>",
+            "created":1162357200,
+            "id":356311,
+            "title":"A moment"
+        },
+        "1231112":{
+            "author_id":"nicole_77",
+            "author_name":"Phineas",
+            "choices":[
+                "Sibilla Myuvish, bounty huntress, human",
+                "Karel Nadine, enforcer, elf"
+            ],
+            "content":"<div class=\"\"><div> <span>    You trudge through the black mess that is the main street of the town, drawing your hood over your head to avoid wandering eyes, instead of the rain which pours in sheets from the lightless night sky.  A crack of thunder sounds as lightning splits the dangerous clouds.  It's only beginning to storm, you think.<br>\r\n<br>\r\n    With one hand on your shortsword, habitually placed there after years of wariness, you sink into the shadows of an alleyway, waiting for an unsuspecting victim.  Though you are only half-vampire, you still must drink blood to keep alive, for food cannot sate certain hungers.<br>\r\n<br>\r\n    Your chance comes.  An old, shriveled woman hugging her cloak against the wind shuffles near.  You cannot see her face, but can smell on her the filth of poverty, and in her mind you can see that she is going to no home, but to a comfortable alcove 'neath the eaves of an abandoned house.  She'll not be missed.<br>\r\n<br>\r\n    As she shuffles past, you grab her, stifling her shrieks with a gloved hand, but before you can sink your teeth into her neck you feel a hard metal point on your chest.  Your arms grow limp, and she slips from your grasp, still pressing the gleaming blade to your breast, the \"old woman\" tears away her hood.<br>\r\n<br>\r\nWhat is \"she?\"</span></div></div>",
+            "created":1177045200,
+            "id":400891,
+            "title":"Rain and Steel"
+        },
+        "12311121":{
+            "choices":[
+                "you escape from the hunter",
+                "she captures you"
+            ],
+            "content":"<div class=\"\"><div> <span>Sibilla removes her cloak and you recognize her right away.<br>\r\n\" Bounty hunter Myuvish, long time.\"<br>\r\n\"not long enough ElfPire.\"<br>\r\n<br>\r\nYou lean against the tree smugly, even though her blade is pressed against your chest.<br>\r\n\"why are you here?\"<br>\r\n\"for you...there is a 10,000 ruby price on your head...every hunter is out to collect.\"<br>\r\n<br>\r\n\"hmmm, 10,000 seems pretty cheap...who ordered the bounty?\"<br>\r\n\"confidentiality....besides, they want you back..alive...and i plan to deliver.\"<br>\r\n\"are you sure this isn't about your revenge for me?\"<br>\r\n<br>\r\nSibilla slaps you across the face.<br>\r\n\"that is long gone...he's never coming back...besides...i'll take comfort in knowing whoever is waiting to meet you probably will do worse than what i could.\"<br>\r\nYou nod.<br>\r\n\"probably....we'll see if they get their chance though.\"</span></div></div>",
+            "created":1321366080,
+            "id":1223463,
+            "title":"found you"
+        },
+        "123112":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "you go to your room",
+                "you have another drink."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'm an elf that doesn't like rudeness.\" You say, releasing his arm. \"I will listen to what you have to say if you put it politely, I will also kill you if you choose to make this a challenge.\" You add, having demonstrated your skills.<br>\r\n<br>\r\n\"I apologize if my words were offensive.\" <br>\r\n<br>\r\n\"See that wasn't too hard was it?\" <br>\r\n<br>\r\n\"You've proven you have both skill and intelligence, both are highly valued in Lady Mesdea's forces. If you wish to join us we'll be breaking camp at dawn.\" He says, handing you a crudely drawn map that shows you where they are camped, before returning to his own table. With a final nod in your direction he and his companions finish their drinks and leave. <br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1168146000,
+            "id":371708,
+            "title":"A second chance"
+        },
+        "1231122":{
+            "author_id":"lemur",
+            "author_name":"`lemur`",
+            "choices":[
+                "Go see who is spying on you.",
+                "Ignore it and go to your room."
+            ],
+            "content":"<div class=\"\"><div> <span>You wonder if you did the right thing by choosing to join with Lady Medsea. No, it wasn't the right thing to do. You came here for one thing, and one thing only. To find a man that goes by the name of Galendrae Fluxnorth. Taking a final swig of your ale, you notice a small crack in the shingle wall. You look and see an eye staring at you. Acting as if you didn't see anything, you wonder if you should go see who it is or just not bother. </span></div></div>",
+            "created":1174885200,
+            "id":392920,
+            "title":"Peeping Tom"
+        },
+        "12311221":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "dwarf",
+                "an elf"
+            ],
+            "content":"<div class=\"\"><div> <span>You pick up a pipe that was lying on the ground, and walk near the crack.<br>\r\n\"Such a cheap inn.......Mice in the walls.....and when I see a mouse in the wall, I get rid of it.\"<br>\r\nYou jab the long thin end through the hole and hear a loud squeal of pain. <br>\r\n\"You barge into the room, and down at your spy, to that it's a.........</span></div></div>",
+            "created":1268197200,
+            "id":849110,
+            "title":"Go see who is spying on you."
+        },
+        "123112211":{
+            "author_id":"cjblack",
+            "author_name":"omen pyre",
+            "choices":[
+                "don't worry I was just going home.",
+                "I need help!  "
+            ],
+            "content":"<div class=\"\"><div> <span>A dwarf but not just any dwarf it was an old friend from your childhood. Darfnen was his name and by dwarf standards he was a giant coming in at 4'11 and well muscled. Also uncommon for dwarfs he used twin rapiers. He was standing in the side room one hand over his left eye cussing up a storm in dwarvish but as he spotted you a smile crossed his face and he said in a unusually high but still very deep voice \"By goshnog it is you I thought for a moment i had eaten bad mushroom and was seeing things what in shagnug are you doing this far from your mothers kingdom if your hurt she'll skin us alive\". You looked at him and said.  </span></div></div>",
+            "created":1280293200,
+            "id":925916,
+            "title":"Darfnen."
+        },
+        "12312":{
+            "author_id":"wgenerals",
+            "author_name":"Bic Banana",
+            "choices":[
+                "He continues trying to recruit you.",
+                "Tell him to leave."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You just stop yourself from saying yes. This was because you couldn't tell how strong he was, and the fact he has friends with him.<br>\r\n<br>\r\n\"No\" you say, \"but be careful, someone might.\"<br>\r\n<br>\r\nNow what happens?</span></div></span></div>",
+            "created":1161493200,
+            "id":354369,
+            "title":"Not a Fool"
+        },
+        "123121":{
+            "author_id":"enkay_es",
+            "author_name":"PenName",
+            "choices":[
+                "join the ranks",
+                "politely decline"
+            ],
+            "content":"<div class=\"\"><div> <span>  \"Alright, I'll be sure to take your advice.\" The man says, noting that he really should be careful when speaking to members of another race.  \"Anyways, we are looking for highly trained people to join the ranks of Lady Madea's army, as you already know, and we have heard stories about elves prowess in battle.  Even elven women, we've heard, were faster than any human man and just as strong.  We were wondering if you would like to join.  The pay is 100 gold pieces per day, and depending on how you do in your first battle, I'm sure the lady can be coaxed into getting you a fine set of armor and a new sword.\"<br>\r\n<br>\r\nDo you take his offer?</span></div></div>",
+            "created":1170306000,
+            "id":378399,
+            "title":"Sales pitch lady madea"
+        },
+        "1231211":{
+            "author_id":"uka_bookworm",
+            "author_name":"Phelina Hemtrop",
+            "choices":[
+                "Go with him",
+                "Wait longer"
+            ],
+            "content":"<div class=\"\"><div> <span>It sounds like a pretty good deal but you might want to bargain. Besides, you could always switch to Lord Raynav later if he gives you a better offer. After all, somebody's going to be trying to kill you, so you might as well be a traitor as a soldier.<br>\r\nYou look cooly into the man's eyes. \"Make it 120 gold pieces and I'll accept.\"<br>\r\nCalmly, you watch his face get red and his hand go to his side. But you already have your knife out and at his throat. Your voice doesn't carry beyond your table, but he can hear you fine. \"If you're not willing to pay that much for someone as good as I am, then leave before I kill you.\"<br>\r\nHe swallows hestitantly, then pulls his hand from under the table to offer it to you. \"Deal. 120 gold pieces.\"<br>\r\n\"Plus a horse. I don't need armor and I have my own sword.\" You say as you sheath your knife.<br>\r\nHe nods eagerly. \"Why don't you come now and I can introduce you to Lady Meada?\" When you don't say anything, he nervously speaks again. \"Or you could drop by whenever you're ready, of course.\"</span></div></div>",
+            "created":1171688400,
+            "id":382989,
+            "title":"Bargaining"
+        },
+        "13":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "join the humans",
+                "join the mixed bunch",
+                "sit alone",
+                "Leave this place",
+                "Go back and stand at the bar"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'm short not invisible,\" you snarl as yet another person tries to walk through you at the bar. You decide to draw your dagger for emphasis. \"Ale, food and a room barkeeper; today would be good.\" You add, pulling your beard from a puddle of ale, and tossing coins into it.<br>\r\n<br>\r\n\"I'll have it sent over.\" The bar man says, fishing the coins out of the ale with a glare in your direction, you ignore it.<br>\r\n<br>\r\n\"I'll be at the back.\" You reply sheathing your knife.<br>\r\nThe inn is crowded but you have no problem weaving your way through the crowds to the tables at the back.<br>\r\n <br>\r\n\"I tell you Mesdea is a witch, not just the spell casting kind either, she has the darkness of one too. I hear she had half her troops executed on the spot for disobeying an order.\" You hear someone saying at the nearest table. It is occupied by a mixed bunch of dodgy looking souls, they give you a cursory glance, neither threatening nor dismissive; next to them is an empty table and beyond that is one full of human soldiers of fortune, good fortune by the looks of their new equipment.<br>\r\n<br>\r\nDo you...</span></div></div>",
+            "created":1160456400,
+            "id":391162,
+            "title":"The inn still"
+        },
+        "131":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span>From the talk at the bar you know that the humans are representatives of Lady mesdea; a strong, proud, woman who pays well but expects loyalty above all else. <br>\r\n<br>\r\nYou head to the human's table and indicate the empty spot on the bench.<br>\r\n<br>\r\n\"Join us, Dwarf, all are welcome.\"<br>\r\n<br>\r\n\"I hear you are hiring.\" You say getting straight to the point. <br>\r\n<br>\r\n\"We are. We've a few spaces left for the right sort. Pay's 100 gold pieces a week and you get room and board.\"  He says \"Interested?\"<br>\r\n<br>\r\n<br>\r\n<br>\r\nWell are you?</span></div></div>",
+            "created":1161320400,
+            "id":391165,
+            "title":"A time to choose"
+        },
+        "1311":{
+            "author_id":"enkay_es",
+            "author_name":"PenName",
+            "choices":[
+                "You wake up to the sound of the witch's holler.",
+                "You wake up early, and find the man who recruited you."
+            ],
+            "content":"<div class=\"\"><div> <span>  \"100 Gold Pieces a week you say?\" You reply.<br>\r\n<br>\r\n  \"Yes, that's the going rate.  Plus room and board in the barracks on the north side of town.\"  The human leans a little bit closer to you and adds \"They're some of the best barracks you've ever been in, they are.  The queen takes good care of those soldiers who are loyal to her, as long as you're winning that is.\"<br>\r\n<br>\r\n  \"The best barracks, eh?\" You reply, trying to sound excited as possible.<br>\r\n<br>\r\n  \"The best! I mean, you don't get servants or anything, but while you're out getting your daily tasks done one of the wenches cleans your room spotless, and draws your bedsheets tight and neat.  I tell ya, no housekeeping duties! Just be careful not to leave anything out of your chest. Don't really matter what it is, they'll take it for themselves, or for whatever soldier they're doting on at the time...\"<br>\r\n<br>\r\n  You take look long and hard in the soldiers eyes, going over his story, checking possible embellishments and thinking of possible suggestions.  <br>\r\n<br>\r\n  \"I'll take the job!  Can I come to the barracks tonight and start tomorrow?\"<br>\r\n<br>\r\n  \"You sure can, we've even brought an extra horse!\"<br>\r\n<br>\r\n  You drink with the soldiers until your food arrives, then you drink with the soldiers and a mouthful of food.  You follow them as they leave, on the horse and all the way to the barracks.  You notice that the rooms are clean, the bedsheets are drawn tight, and one soldier is complaining about the cleaning wench stealing his other pair of boots.  You pass out for the night.<br>\r\n<br>\r\nWhat happens when you awake?</span></div></div>",
+            "created":1170306000,
+            "id":378394,
+            "title":"The Witch's Men."
+        },
+        "1312":{
+            "author_id":"kiwiangel",
+            "author_name":"Puditat",
+            "choices":[
+                "Talk with him at the bar",
+                "Retire to your room to talk privately"
+            ],
+            "content":"<div class=\"\"><div> <span>You raise an eyebrow. An offer so quickly arouses your suspicions and the Lady Mesdea sounds an unholy sort to work for. You pretend to trip up, sloshing the ale over the floorboards, sticky with a thousand other spilt draughts.<br>\r\n<br>\r\n\"Thank you, people. But I've got a mug to refill if you'll excuse me.\"<br>\r\n<br>\r\nThey laugh, continuing their chatter as you return to the bar and order another fill. A barstool has freed up so you clamber up onto it where the view is easier. Slouching against the bar with drink in hand, you watch the comings and goings reflected in the mirror. Nothing much happens for a while and the golden liquor has been drained and refilled several times over. Dwarves have great heads for spirits, but even so your head is feeling lighter than usual. You're not quite drunk enough not to notice the dark-cloaked figure who enters the bar quietly and drifts through the crowd in a straight line toward you.<br>\r\n<br>\r\nYour hand plays lightly over an axe that dangles in your belt. Good or evil, you can not yet tell the intent of this newcomer. He approaches and stands behind you, fully two heads taller, even with the benefit of sitting atop a stool.<br>\r\n<br>\r\n\"What be your business, Elfling?\"<br>\r\n<br>\r\n\"I have come on errands long to find you, Master Dwarf. Come, we will share ale in secret.\"<br>\r\n<br>\r\nThinking for a moment on this new development, toying with the axe handle worn satin smooth with age and handling. Finally you shrug and turn toward him, sensing no harm about the fellow. You nod, pushing your empty ale glass at the barkeep whilst giving the hooded face an invitation to have it filled.<br>\r\n<br>\r\nThe elf orders an ale for you, and a lighter elf-drink made from nectar for himself.<br>\r\n<br>\r\n\"Here?\" he asks, casting a concerned glance around the room.<br>\r\n<br>\r\nDo you...</span></div></div>",
+            "created":1174194000,
+            "id":391166,
+            "title":"Elf Messenger"
+        },
+        "132":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "agree to join them",
+                "refuse"
+            ],
+            "content":"<div class=\"\"><div> <span>You sit down in an empty seat ignoring one or two looks this earns you. \"BARKEEP, MAKE THAT TWO FLAGONS.\" You bellow across the bar. Somehow that always helped make strangers seem more inclined to chat, and chat meant work.  <br>\r\n<br>\r\n\"Welcome friend, what brings you to Hewor?\" The apparent leader asks you, a surly looking man with a long scar down one side of his face.<br>\r\n<br>\r\n\"Same as everyone, I'm looking for work.\" You reply with a shrug.<br>\r\n<br>\r\n\"You any good?\"<br>\r\n<br>\r\n\"I've no scars, that should say enough about my skills.\" You respond, it's a cheap shot, but then again you've never been known for your manners.<br>\r\n<br>\r\nHis companions laugh, usually a good sign but not always. <br>\r\n<br>\r\n\"Our employer is in the market. Lord Rynav. He's reasonable enough and has been fighting his neighbour so long now that it should be a long term job if you are as good as you claim. What do you say?\"<br>\r\n<br>\r\nWell which is  it?</span></div></div>",
+            "created":1160456400,
+            "id":391167,
+            "title":"decisions, discisions"
+        },
+        "1321":{
+            "choices":[
+                "Go with the wackjobs",
+                "Book it"
+            ],
+            "content":"<div class=\"\"><div> <span>You say, \"Sounds reasonable, but does it pay?\" <br>\r\n<br>\r\n\"Pay,\" chuckled one of the men. Then, for no reason visible to you they crack up, rolling on the floor. \"This job pays my friend, it definetly pays. Let us take you to our lord, friend.<br>\r\n<br>\r\nDo you...</span></div></div>",
+            "created":1174107600,
+            "id":391169,
+            "title":"Wha..."
+        },
+        "1322":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "agree to join them",
+                "refuse again"
+            ],
+            "content":"<div class=\"\"><div> <span>You shake your head, \"I'm not sure I like the idea of a permanent boss.\" <br>\r\n<br>\r\n\"Let me put this another way. Join us.\" He says, his tone no longer as friendly.<br>\r\n<br>\r\n\"I take it this is a once in my lifetime offer?\"<br>\r\n<br>\r\n\"You catch on quick.\" <br>\r\n<br>\r\n\"You could do worse, pays good and there are bonuses.\" A fellow dwarf at the table tells you. <br>\r\n<br>\r\n\"Well what's it going to be?\"<br>\r\n</span></div></div>",
+            "created":1160456400,
+            "id":391172,
+            "title":"chance of your life"
+        },
+        "13222":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "accept his help",
+                "stand alone"
+            ],
+            "content":"<div class=\"\"><div> <span>\" I don't much like ultimatums, I never seem to pick the right one.\" You say, slipping your dagger out of it's sheath. \"Too bad, I quite liked you.\"  <br>\r\n<br>\r\nYou move with a speed that belies your girth, narrowly avoiding a well aimed blade thrust at you from under the table. You decided to draw your own sword and take a defensive stance.<br>\r\n<br>\r\n\"Over here.\" A human from the other table calls.<br>\r\n<br>\r\n<br>\r\n<br>\r\nDo you...</span></div></div>",
+            "created":1160456400,
+            "id":391173,
+            "title":"consequences"
+        },
+        "132221":{
+            "author_id":"chad88",
+            "author_name":"Wolf",
+            "choices":[
+                "run",
+                "stay and fight"
+            ],
+            "content":"<div class=\"\"><div> <span> You realize you won't have much chance of succeeding without help. You join the human, and he unsheathes a long, silver blade. The leader jumps at you and your friend, engaging in a fierce fight. The clang of metal against metal went on for about 10 minutes. Your opponent was a skilled one. But then two troops leaped at your his side, balancing the odds a little. <br>\r\n You slash wildly at one of the troops. He barely manages to hold his sword against the barrage. Your friend takes advantage of this, and ducks under two blades to add to your attack. With his added strength, you manage to wack the sword right out of his hand. It does a few flips in the air before your human friend catches it.<br>\r\n Three more troops come to your opponent's aid. You are now outnumbered 5 to 1. You don't like the odds of that... maybe you should run</span></div></div>",
+            "created":1168578000,
+            "id":373300,
+            "title":"Refusing has its consequences"
+        },
+        "1322212":{
+            "author_id":"chad88",
+            "author_name":"Wolf",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span> You decide Honor is more important than leaving this place alive... Running away from battle would be disgraceful. You still have a small chance of survival, anyways.<br>\r\n The whole bar seemed to want to join the fight now. All over the place, people were throwing bottles of rum or whiskee at others at random. A few gnomes decided to join the growing bar fight, and grabbed some pool cues from the table.<br>\r\n  You sprint up a flight of stairs, hoping to find a few fellows to brawl with. A few troops follow you, not far behind. Once you get to the second floor, you grab the nearest table and chuck it down the stairs. You hear them yell as it runs them over. \"Well,\" you murmer. \"That takes care of them.\" You turn around, and a tall human man fills your view. You wave your sword menicangly at him. \"I have no intent of fighting\" he says. \"Then what do you want?\" you snarl.<br>\r\n <br>\r\n \"I want your help\" he says. \"We could use a sturdy dwarf like you at castle Arnise.\"<br>\r\n <br>\r\n\"Castle Arnise? Where is that?\" you ask.<br>\r\n<br>\r\n\"Yes, castle Arnise. Tis' a great palace in the wilderness quite north of here. Lord Trent sent me. The castle's been invaded by the sinster dark elves. We need all the fighters we can muster.\"<br>\r\n<br>\r\n\"Welll...\"<br>\r\n <br>\r\n</span></div></div>",
+            "created":1168578000,
+            "id":373306,
+            "title":"Bar fight"
+        },
+        "132222":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "content":"<div class=\"\"><div> <span>You ignore him. This is your fight after all.<br>\r\nYou block the leader's sword with your own and thrust your dagger into his exposed side, you feel his blood wash over your hand causing the handle to become slippery.<br>\r\n<br>\r\nYou turn your back on the wounded leader and concentrate on his companions. Belatedly though you begin to realize that even your skills are no match for eight experienced mercenaries. <br>\r\n<br>\r\nYou feel a thump in your back and realize you have made another mistake; never turn your back on a live enemy. You cough, blood flows down your beard and drips onto the bar room floor; followed shortly after by your body. <br>\r\n<br>\r\n\"Fool put up a good fight.\" The man at the human's table mutter's as he lifts up his mug to toast your corpse. </span></div></div>",
+            "created":1160456400,
+            "id":391176,
+            "title":"oops!"
+        },
+        "133":{
+            "author_id":"chad88",
+            "author_name":"Wolf",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span> You walk over to an empty table and sit down. As soon as you touch the chair a cloaked figure appears.<br>\r\n <br>\r\n \"You are looking for a job?\" the eerie creature asks.<br>\r\nA bow was strapped on his back, and sheated in his belt was a jagged silver sword. He was clothed in dark colors. You guess by his sinister appearance and sharp features that it is a dark elf.<br>\r\n<br>\r\n \"We offer much more pay than any other group in this city.\" the elf says. \"If you wish to participate, we will meet tommorow at dusk at the gates of the city. Do you accept?\"<br>\r\n<br>\r\n Hmmm... the pay looks great, but something seems wrong about this elf. Will you accept?<br>\r\n<br>\r\n <br>\r\n</span></div></div>",
+            "created":1168318800,
+            "id":372344,
+            "title":"The Dark Elf's Proposal"
+        },
+        "1331":{
+            "author_id":"chad88",
+            "author_name":"Wolf",
+            "choices":[
+                "I'll take care of him",
+                "I can handle a few more troops. To bed I go!"
+            ],
+            "content":"<div class=\"\"><div> <span> \"Hmmmm...well... sure, why not\" After all, the only thing that really matters is the pay.<br>\r\n <br>\r\n \"Good\"  the elf says. \"Now that you have joined, I can give you more details. We are attacking Castle Arnise. It is a castle some miles north of here, ruled by Lord Trent. Word has spread that the castle has a great treasure guarded by him. My master has need of this treasure to finance the army, and possibly gain more recruits through higher payment.\"<br>\r\n<br>\r\n You nod. \"Well, I'll be going to my room now. I better get some sleep for the battle tommorow.\"<br>\r\n<br>\r\n As you turn to leave, he grabs your shoulder.<br>\r\n<br>\r\n\"Wait...\" he says. \"One more thing. Lord Trent has anticipated such an attack from us, and has sent sent a human to recruit some troops here. He is currently on the second floor. You can eliminate him, if you want. There is no obligation, though. This will only mean a few less troops to fight.\"<br>\r\n<br>\r\nYou tell him...<br>\r\n</span></div></div>",
+            "created":1168578000,
+            "id":373314,
+            "title":"Dealing with the the Dark"
+        },
+        "14":{
+            "author_id":"hauthor",
+            "author_name":"Hidden Author",
+            "choices":[
+                "You are recruited right away.",
+                "You eat your meal in peace.",
+                "Someone accidently offends you.",
+                "A mercenary challenges you to a duel to show his might.",
+                "A group of mercenaries attack you to avenge a grudge."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are Hethgarr, a 7 ft. tall ogre and the one of the mightiest seven-feet-tall ogres in the world. You pay the barkeep for food and drink. What happens next?</span></div></span></div>",
+            "created":1174021200,
+            "id":390102,
+            "title":"Hethgarr, the Mighty Ogre"
+        },
+        "141":{
+            "author_id":"mysticmage1",
+            "author_name":"Joe",
+            "choices":[
+                "Departs from his present company in true mercenary style.",
+                "Accepts Job and sits back down, after he retrives his chair."
+            ],
+            "content":"<div class=\"\"><div> <span><div align=\"left\"></div><span style=\"font-family:verdana, sans-serif\"><font class=\"size35\" style=\"\"><span style=\"line-height:1.6;\"></span></font></span><b r></b>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cHethgarr you ugly son of a viper\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cBalizzar you dried up piece of dragon dung, how\u2019s it going?\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Balizzar was a bit taller than Hethgarr, but Hethgarr made up for it in sheer bulk and muscle.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cProfitable. You here in Hewor looking for work?\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cOf course, ya got some?\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cOf course, the cold winter has not stunned the market. Come let me introduce my latest benefactor.\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0They both walked past the bar to the back of the inn to a private booth where two occupants sat; one a balding human biting at the fingernails of his left hand. The other an olive skinned half elf with wild brassy hair.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cHave you heard of the Histerwoods?\u201d Said the half elf to the Human as Balizzar and Hethgarr seated themselves.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cWhy, you need to find it or have it destroyed?\u201d said Hethgarr.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cOh I know where it is and I do like your approach, so I shall be direct as well. Who are you?\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cThis is Hethgarr The last of our needed recruits.\u201d interrupted Balizzar.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cHethgarr I am Alphonsus Jollar I Hired Balizzar here to help me in the procurement of a certain trinket.\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cMust be well protected if you need three to get it,\u201d Hethgarr said pointed to those at the table.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cOh no, no, Mister Fourth here is strictly an advisor. This will be on you and him.\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cGo on,\u201d said Hethgarr.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cWithin the Histerwoods are what is known as the Heart of Fellax and Vazon\u2019s Lady, Jewels of great beauty and size long forgotten by those outside the Fourth Legacy. These are what my Lord seeks.\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cAnd who is this Lord?\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cNeed to know my large drudge.\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Hethgarr stood up hand on his scabbard. \u201cWhat!\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201c Once you sat down and started taking you accepted this deal Hethgarr or didn\u2019t Balizzar tell you that this contracted is already negotiated and signed. And certain information shall not be forth coming.\u201d<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Hethgarr gave Balizzar a sharp look, \u201cWhat have you gotten me into?\u201d He says as he stands up, chair flying backward.<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u201cRelax you big bag of orche jelly this is a low threat job, in and out, back for supper.\u201d Balizzar quickly explained. <br>\r\n</span></div></div>",
+            "created":1343960400,
+            "id":1396422,
+            "title":"You are recruited right away."
+        },
+        "142":{
+            "choices":[
+                "rescue my mommy",
+                "find my brother",
+                "give me a piggyback ride"
+            ],
+            "content":"<div class=\"\"><div> <span>you get your meal from the bar and go outside to eat.<br>\r\npeople whisper and look at you as they pass by.<br>\r\n<br>\r\nno-one messes with you..let alone come near you.<br>\r\nWhy?<br>\r\nwell...you are a 7 ft ogre after all.<br>\r\n<br>\r\nas you finish your meal and are ready to head out you hear a tiny voice.<br>\r\n\"excuse me?\"<br>\r\nyou look down to see a tiny child tugging on your shirt.<br>\r\n<br>\r\n\"what do you want little one?\"<br>\r\n\"i need your help.\"<br>\r\n\"my....my help?\"<br>\r\n\"yes.\"<br>\r\n<br>\r\nwas she serious?  most humans never ask ogres for help....they usually try to kill them.<br>\r\n\"what do you need help with?\"</span></div></div>",
+            "created":1319183640,
+            "id":1210471,
+            "title":"You eat your meal in peace."
+        },
+        "143":{
+            "author_id":"amazingmikeman",
+            "author_name":"Mike",
+            "choices":[
+                "Mention that they offended you. (Forgive)",
+                "KILL THEM",
+                "Throw the table out the window, get a nuke, and die."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You hear them. What do you do?</span></div></span></div>",
+            "created":1359593280,
+            "id":1520663,
+            "title":"Someone accidently offends you."
+        },
+        "144":{
+            "choices":[
+                "Sit down and eat",
+                "Throw him out of the building."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey you big brute\" a gruff voice shouts behind you.<br>\r\n<br>\r\nYou turn to see a human with a long saber in hand.<br>\r\n<br>\r\n\"You talking to me?\" you respond.<br>\r\n<br>\r\n\"Yea, your the only big ugly brute in here..\" he spat on the ground and continued. \"I don't like ogre's and if you think that I'm going to let you eat in peace you are as dumb as you look.\"<br>\r\n<br>\r\n\"I paid for this meal and I plan to eat it,\" you reply.<br>\r\n<br>\r\nHe rushes forward and you dodge out of the way as his sword takes a chunk of wood out of the bar.<br>\r\n<br>\r\nYou bring your staff down knocking his sword to the ground. With a sweeping motion you catch him under the chin on the rebound and lay him flat on his back.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1177045200,
+            "id":400882,
+            "title":"Drunk and Overwith."
+        },
+        "15":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Order an Ale only",
+                "Order a meal only",
+                "Order a room only",
+                "Order all three",
+                "Investigate the small room"
+            ],
+            "content":"<div class=\"\"><div> <span>The inn is every bit as crowded as you imagined it would be, the two largest tables are taken by those recruiting for the local war. The bar's Tariff, if you can call a few crude markings on a blackboard that, informs you that an ale will cost you 1gp, a meal 2gp's, a room is also 2gp's all three will cost you 4gp's. <br>\r\n<br>\r\nYou have 17gp's left but you have no idea how or when you will be getting anymore and you have yet to buy any provisions for the road. <br>\r\n<br>\r\nA small room leading off from the main bar draws your attention with it's excited calls. <br>\r\n<br>\r\nYou now have the following choices:<br>\r\n<br>\r\n</span></div></div>",
+            "created":1170219600,
+            "id":378198,
+            "title":"A time to choose."
+        },
+        "152":{
+            "author_id":"enkay_es",
+            "author_name":"PenName",
+            "choices":[
+                "Make a stand, and hope you don't die.",
+                "Move and let the insult slide, you're outnumbered anyway."
+            ],
+            "content":"<div class=\"\"><div> <span>  You order your meal, the poor mans version of beef stew with a hard chunk of bread to go with it.  You sigh, thinking that for 2 gps you should have expected as much.  Looking around, you see some rough looking women who've probably been used too much in their short time on this earth, and would probably charge you for their... attention.  Lots of cutthroats and fools seem to by vieing for their attention anyways, and you figure either one man will be killed and stolen from, or one whore will charge too high of a price and be killed... and stolen from, too.   You sit and wait for you're meal in silence.<br>\r\n<br>\r\n  'By the gods, it's taking a long time.' You think to yourself. Just then, the doors open.  A group of men walk in, seemingly surrounding another man like body guards.  <br>\r\n<br>\r\n  \"Clear the way.  The honorable Erros needs to get to the bar.\"  One man in front of the pack says.  Everyone expediently gets out of the way, as if they'd done this a hundred or even a thousand times before. <br>\r\n<br>\r\n  'Honorable, yeah right. About as honorable as myself.' You think as the group moves to the bar.  You glance around, noticing you are the only one at the bar, and at least one person from the group is going to have to continue standing, or take a table.  The \"Honorable Erros\" takes a seat only three seats from you, and his men fill in around him.  Seeing that there are no seats left, two of his men approach you.<br>\r\n<br>\r\n  \"Filthy half breed, move out of our seat!\"<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1170306000,
+            "id":378391,
+            "title":"In the bar"
+        },
+        "1521":{
+            "choices":[
+                "put him in his place",
+                "accept his terms",
+                "decline and leave town."
+            ],
+            "content":"<div class=\"\"><div> <span>Taking another bite, you keep silent.<br>\r\nthe other guard speaks.<br>\r\n<br>\r\n\"hey...half-breed...move..now!\"<br>\r\nhe places a hand on your shoulder.<br>\r\n<br>\r\n\"i'm not finished....touch me again....and you'll be sorry.\"<br>\r\nangrilly, he grabs your shoulder again.<br>\r\n<br>\r\nwhirling around with amazing speed, you grab the back of his head and slam it into the bar.<br>\r\nhe lies unconcious...you look at the other guard.<br>\r\n<br>\r\nhe glances between you and the man called erros.<br>\r\n\"leave him alone...let him finish his meal.\"  erros says nonchalantly.<br>\r\nyou sit..cautious...but relieved.<br>\r\n<br>\r\nYou continue with your meal.   you suddenly notice erros is sitting next to you.<br>\r\n\"you are brave to face such a large opponent alone.\"<br>\r\nyou snort.<br>\r\n\"strength will get you only so far....wits and speed are more reliable.\"<br>\r\nhe shrugs.<br>\r\n\"i am in need of a....investor of sorts.\"<br>\r\n<br>\r\nyou glance at him suspiciously.<br>\r\n\"i don't have much....\"<br>\r\nhe laughs.<br>\r\n\"not financially....i want you to work for me.\"<br>\r\n<br>\r\nhis entire gang begins to object.<br>\r\n\"he's a half-breed...\"<br>\r\n\"look what he did to brett.....\"<br>\r\n\"are you serious....?\"<br>\r\n<br>\r\n\"sounds like your entourage disapprove...\"<br>\r\n<br>\r\n\"i pay them well...they will get used to it.<br>\r\ni am offering this to you now...one time offer...take it....or leave it....\"<br>\r\n<br>\r\n\"what's the job?\"<br>\r\nerros smiles.<br>\r\n\"you accept....i'll tell you.\"<br>\r\n<br>\r\n</span></div></div>",
+            "created":1319175900,
+            "id":1210391,
+            "title":"for what i believe in"
+        },
+        "15212":{
+            "choices":[
+                "agree to his terms",
+                "tell him no..and leave."
+            ],
+            "content":"<div class=\"\"><div> <span>\"very well...tell me what you need done.\"<br>\r\n\"excellent..i knew you wouldn't disappoint me...\"<br>\r\n<br>\r\nerros stands and gentures for you to follow him.<br>\r\nAfter you enter his room, he closes the door.<br>\r\n<br>\r\n\"ok..here's the job.<br>\r\nA...acquaintance of mine....has in his possession a medallion.  I want it back.<br>\r\nGet it back to me...and you're in.\"<br>\r\n<br>\r\n\"that's it?\"<br>\r\n\"yep...that's it.\"<br>\r\nyou begin to suspect something.<br>\r\n<br>\r\n\"if it were that easy, you'd have done it already.<br>\r\nWhat's the catch?\"<br>\r\nerros smiles.<br>\r\n<br>\r\n\"smart...i like that.<br>\r\nThe man's name is Nikolai Pachinko...a big time thief and murderer.<br>\r\nThe medallion helps him with his stealth.<br>\r\nIf he finds you there, he will try to kill you..and won't let up until one of you is dead.\"<br>\r\n<br>\r\nHe continues.<br>\r\n\"also, his house is located in the middle of a swampland and guarded by 40 skilled swordsmen and archers.\"<br>\r\nyou stare at him.<br>\r\n\"you failed to mention that...\"<br>\r\n\"so i did....eh.\"<br>\r\n<br>\r\n\"so..half-elf....do we have a deal?\"<br>\r\n </span></div></div>",
+            "created":1319762820,
+            "id":1213845,
+            "title":"the contract"
+        },
+        "152121":{
+            "author_id":"tpaul",
+            "author_name":"sarge",
+            "choices":[
+                "I face a friend and make a deal",
+                "I face a foe and fight"
+            ],
+            "content":"<div class=\"\"><div> <span>I finish my meal and leave the inn. Shortly I feel I am being followed.<br>\r\n\"Stand where you are\"<br>\r\n\"Who commands a traveler  to stand?\"<br>\r\n\"Why should I answer a half elf?\"<br>\r\n\"Stubborn as ever\"<br>\r\nI turned.</span></div></div>",
+            "created":1319965320,
+            "id":1214870,
+            "title":"agree to his terms"
+        },
+        "1521211":{
+            "choices":[
+                "take him up on the offer",
+                "decline and chat elsewhere"
+            ],
+            "content":"<div class=\"\"><div> <span>you recognize the voice behind the demand.<br>\r\n\"rokun..you still haven't learned how to be subtle...have you?\"<br>\r\n<br>\r\nA middle aged man exits the shadow of a nearby building.'<br>\r\n\"never had a need...besides, i like being this way.\"<br>\r\n<br>\r\nYou turn and embreace your long lost friend.<br>\r\nyou look at him in the dim light.<br>\r\n<br>\r\n5'7''...built...a longsword on his back....short blonde hair.<br>\r\nGreen eyes...rare for a human.<br>\r\nlooked like high school kid...but was actually almost 30.<br>\r\n<br>\r\nHe was the only human to ever accept and befriend you.<br>\r\n\"where have you been?\"<br>\r\n\"tracking you down...i hear about your \"exploits\" from here to farenstein.\"<br>\r\n<br>\r\n\"yea...i'm always the talk when i leave....\"<br>\r\n\"enough about that...let's go back to the bar and drink....\"<br>\r\n<br>\r\nyou look at him...you just came from there.<br>\r\nplus...you don't have much.<br>\r\n<br>\r\n\"c'mon...my treat.....\"</span></div></div>",
+            "created":1319966460,
+            "id":1214878,
+            "title":"I face a friend and make a deal"
+        },
+        "1522":{
+            "choices":[
+                "You must: Retrieve a mystic scroll",
+                "You must: Eliminate a strange beast which roams the North side of Hewor"
+            ],
+            "content":"<div class=\"\"><div> <span>You slide off your seat and let one of the men take it.  He smirks at you demeaningly but you take it, knowing that you can reclaim your dignity later when there are less people around.  <br>\r\n<br>\r\nWithout looking directly into each other's eyes, it is clear that you and Erros have seen each other.  Not that anyone would miss him with such a pompous entourage.  You, on the other hand, have always prefered to work alone.  <br>\r\n<br>\r\nErros makes a subtle coughing noise and turns his hefty torso slightly as a kind of summon.  Still witholding any eyecontact you say, \"So...what job have you got for me?  Make it interesting, Erros, Im feeling adventurous.\"<br>\r\n<br>\r\nErros curled his lip.  \"I have something ideal.  I hope it is not too much of a stretch though.  The last two men asked to deal with this failed.\"<br>\r\n<br>\r\n\"Who is it?\"<br>\r\n<br>\r\n\"Not who but [i}what{/i}...</span></div></div>",
+            "created":1175662800,
+            "id":395558,
+            "title":"The mission"
+        },
+        "153":{
+            "author_id":"takeem",
+            "author_name":"Choppa Diablo",
+            "choices":[
+                "continue"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I slept in a small room, I was an half elf shade. i was an seductive male ready to pounce on anything my way. Most important i was an mercenary........</span></div></span></div>",
+            "created":1269320400,
+            "id":855453,
+            "title":"Order a room only"
+        },
+        "1531":{
+            "choices":[
+                "sleep until morning",
+                "clock out of your room early",
+                "get supplies and leave town early"
+            ],
+            "content":"<div class=\"\"><div> <span>I needed my money for supplies, so i only got a room.   I was used to this kind of life anyway.<br>\r\nBeing an half-elf wasn't so bad....save for the hatred, rejection, and hassle i got from people.<br>\r\noh well.<br>\r\n<br>\r\nI heard footsteps outside my door.  Brief whispers...then silence.   <br>\r\nI redied my scimitar. <br>\r\nthe door was kicked open and three large bodied men entered my room.<br>\r\n\"Hey freak, you don't belong here...among the normal people.\"<br>\r\n<br>\r\nI held my tongue.   Last thing i needed ...or wanted....was a fight.<br>\r\nThe leader approached me.<br>\r\n\"you hear me?  you should..your ears are large enough....\"<br>\r\nHe reached down to grab my collar.<br>\r\n<br>\r\nMy shade reflexes took effect and i whirled behind him.<br>\r\nI grabbed his arm and twisted it behind him...immobilizing him completely.<br>\r\nthe other two started towards me.<br>\r\n<br>\r\nUsing my other arm, i unsheathed my blade and pointed it at them.<br>\r\n\" I'm not in the mood for games....you want a fight?   I can give you one....\"<br>\r\nthey stared at each other....then rushed out the door.<br>\r\n<br>\r\nSighing, i pushed the man away...spiraling him to the floor.<br>\r\n\"I suggest you get out.\"<br>\r\nThe bulky man slowly managed to stand.<br>\r\n<br>\r\n\"ya freak of nature.....\"<br>\r\nwith that, he exited my room.<br>\r\ni sighed.<br>\r\n<br>\r\ni had hoped this town would be easier than most i had visited in the past.....didn't look to promising so far.<br>\r\nOnly time will tell.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1319173200,
+            "id":1210383,
+            "title":"never a dull moment"
+        },
+        "15312":{
+            "choices":[
+                "fight inside the tavern",
+                "fight outside in the street"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up early....<br>\r\nyou don't want any more trouble than you've had already.<br>\r\n<br>\r\nyou grab your sword...your gear...and your....<br>\r\ncoins!  your coins....they're gone!<br>\r\n<br>\r\nYou have a good idea where they are....<br>\r\nhauling your stuff, you head downstairs.<br>\r\n<br>\r\ndown there...just as you anticipated....are 15 large bodied men.<br>\r\nthey obviously are looking for trouble.<br>\r\nYou approach the bartender.<br>\r\n<br>\r\n\"i'm leaving earler than expected...thanks for the room.\"<br>\r\nhe only nods and walks away.<br>\r\n<br>\r\n\"hey freak....\"<br>\r\nit's the man from last night.   his arm lies limp in a sling.<br>\r\n<br>\r\n\"i'm here to pay you back for this....and i'm sure you want this back.....\"<br>\r\nhe hold up your coin purse.<br>\r\n\"yea..i would like that back?\"<br>\r\n\"you heard him boys....he wants to play.\"<br>\r\nall 15 men charge at you.</span></div></div>",
+            "created":1319298720,
+            "id":1211005,
+            "title":"get out while the gettin's good"
+        },
+        "153121":{
+            "author_id":"writersblock19",
+            "author_name":" Scythe",
+            "choices":[
+                "go to get supplies",
+                "get out while the gettings good"
+            ],
+            "content":"<div class=\"\"><div> <span>You look at the 15 men charging towards you.<br>\r\nCracking a small smile, you run at them.<br>\r\n<br>\r\nThe first man falls from a hit to the jaw...second goes down soon after.<br>\r\nThey all stop and look around the room.<br>\r\n\"Where did that half-breed go?\"<br>\r\nA third falls unconscious to the floor.<br>\r\n<br>\r\n\"What is going on?<br>\r\n\"You fools!  You have yet to experience true fear.<br>\r\nI am a shade....a mercenary of the night!\"<br>\r\nTwo more fall to the ground.<br>\r\n<br>\r\n\" I have destroyed entire cities!\"<br>\r\nTwo more fall.<br>\r\n\" I have ended the lives of ogres and giants!\"<br>\r\ntwo more...<br>\r\n\"You idiotic humans never stood a chance!\"<br>\r\n<br>\r\nYou appear before the remaining attackers.<br>\r\n\"Now get out before i finish you...\"<br>\r\nScreaming, the large bodied men flee the tavern.<br>\r\n<br>\r\nYou approach the man from last night and extend you hand.<br>\r\n\"My gold...if you please.\"<br>\r\nShaking in terror, the coin purse falls into your hand.<br>\r\nHe runs from the tavern..screaming.<br>\r\n<br>\r\nYou chuckle as you gather your belongings.<br>\r\n\"Simple minded fools.<br>\r\nStill surprises me what illusions and a little influence can do...<br>\r\nhehehe.\"</span></div></div>",
+            "created":1328983560,
+            "id":1274938,
+            "title":"The shades true power"
+        },
+        "1531211":{
+            "author_id":"tpaul",
+            "author_name":"sarge",
+            "choices":[
+                "you enter  some woods outside the village.",
+                "you retrace your trail to find a better village"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I had hoped merely to get my supplies and continue my travels. Now I may shall have to keep an eye open for sometime not knowing how far these may follow me trying for revenge. I wonder how many time I will face them before they give up trying.</span></div></span></div>",
+            "created":1329963900,
+            "id":1282425,
+            "title":"go to get supplies"
+        },
+        "15312111":{
+            "author_id":"writersblock19",
+            "author_name":" Scythe",
+            "choices":[
+                "You and the woman fight",
+                "something interrupts your duel"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to head towards the woods outside of town.<br>\r\nAs you draw nearer, a voice call out to you.<br>\r\n<br>\r\n\"A shade huh?<br>\r\nHaven't seen many of those around.\"<br>\r\nYou turn to see a woman walking close behind you.<br>\r\n<br>\r\n\"What do you want?\"<br>\r\nShe stands and faces you.<br>\r\n\"Nothing of importance....just your undying loyalty.\"<br>\r\nYou laugh.<br>\r\n<br>\r\n\"You are a fool if you think you can get me to submit.<br>\r\nA shade chooses death before servitude.\"<br>\r\nShe smiled.<br>\r\n\" I figured as much.<br>\r\nWell, if i have to...I will kill you...\"<br>\r\nYou grab your scimitar.<br>\r\n\"You are welcome to try....\"</span></div></div>",
+            "created":1333740180,
+            "id":1310333,
+            "title":"one thing after another"
+        },
+        "154":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You begrudgingly hand over the four gp's. You've been on the road a long time though and the thought of a fresh meal and soft bed appeal to you.<br>\r\n<br>\r\nYou give your order and make your way to a table.<br>\r\n<br>\r\n<br>\r\nDid you go in the small room first?</span></div></div>",
+            "created":1170306000,
+            "id":378393,
+            "title":"A little luxury"
+        },
+        "1541":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A few men approach you, they seem friendly enough though you feel uneasy.<br>\r\n<br>\r\n<br>\r\nDid you win?</span></div></span></div>",
+            "created":1170306000,
+            "id":378395,
+            "title":"Familiar faces"
+        },
+        "15411":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well well, if it's not the winner!\" The apparent leader says, \"How's about you buy us each an ale.\"<br>\r\n<br>\r\nThere are five of them, to buy them all an ale will cost 5gp's.<br>\r\n<br>\r\nDo you want to buy them all a drink?</span></div></div>",
+            "created":1170306000,
+            "id":378396,
+            "title":"Trouble brewing?"
+        },
+        "154111":{
+            "choices":[
+                "Ask more details",
+                "Hold out for something else"
+            ],
+            "content":"<div class=\"\"><div> <span>So they all sit down at a table and drink, which loosens their defenses, (as you planned) and boast about business and exploits in the local areas.<br>\r\n<br>\r\nYou listen with aloof interest, only speaking enough to keep the conversation going and drinking only enough of your own ale to avoid questions.<br>\r\n<br>\r\nFinally, one of the men brags about a cushy job he has with a local, wealthy merchant.  Room, board and ale are generously included as well as decent pay.  The job sounds simple, just guard the guy's caravans for short trips to the towns in the nearby area and when there's no trips, then help keep the estate secure.  Can't get much more easy than that.  However, it seems that this merchant guy demands that anyone he hires promises at least six months of service up front.<br>\r\n<br>\r\nUsually, someone like you would never consider such a commitment.  Much better to be able to check it out and have the freedom to cut and run whenever you need to.<br>\r\n<br>\r\nSo, do you wait for the next job they mention in hopes of more flexibility?  Or do you entertain the idea and ask more information on this merchant guy?</span></div></div>",
+            "created":1177045200,
+            "id":400845,
+            "title":"The local Bloodline"
+        },
+        "1541111":{
+            "choices":[
+                "Offer to go with the second guy to check it out",
+                "Just keep the address in mind, in case ..."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, the merchant is an old geezer with lots of family baggage.  Seems he's crabby, but it hardly matters since he doesn't deal directly with the caravans.  His oldest son runs all the trips and he's doesn't really seem to give a darn as long as the merchandise gets delivered on time.<br>\r\n<br>\r\n\"Gotta daughter too,\" the man added with a wink.  \"She's one babe I'd like to get to know better.\"<br>\r\n<br>\r\nThe others in the group laughed, but when they pressed for details, the man sighed and shrugged.  \"The old geezer keeps a close eye on her.  She never leaves the estate and the other son is always hangin' around her.  He always wears a sword, but I doubt the brat can actually use it.  Think the old man orders the jerk to keep an eye on her.\"<br>\r\n<br>\r\nOne of the other guys grins.  \"Probably all for show.  Stuff like that usually means the girl's eager for a little freedom - maybe the old man knows she's lonely.  Sounds like an interesting challenge, lot more profitable and interesting than my last job.  Who do I gotta talk to to get in?\"<br>\r\n<br>\r\nThe man gives an address. </span></div></div>",
+            "created":1177045200,
+            "id":400857,
+            "title":"Added potential or  just complications?"
+        },
+        "15411111":{
+            "choices":[
+                "\"We're looking for work and heard you were hiring.\"",
+                "Whip out your knife and demand, \"Hand over those coins and no one gets hurt."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide that the profit and luxuries of the job might outweigh the contract issue and certainly beats the option of being dime-a-dozen meat fodder for the warring factions.  It's worth looking into anyway.<br>\r\n<br>\r\nWith that decided, you take your meal in your room.  You eat what you can stomach and shove the hard-roll in your stuff for the morning.<br>\r\n<br>\r\nIn the morning you wait in the common room for the other guy, but several hours pass and it's approaching noon before he stumbles into sight, clutching his head and muttering curses.<br>\r\n<br>\r\nRolling your eyes, you confront the guy, remind him of the job offer, and help him stagger out of the inn.<br>\r\n<br>\r\nBy the time you track down the address it's almost evening, but your companion has recovered from his hang-over and after washing his face at a nearby well, he's presentable.  However, hunger is gnawing at you and after hours of dragging the guy around, you've decided that you don't like him.  When he finally gets around to giving you his name, it only confirms your conclusions \u2013 Taz sounds more like a street urchin or cut-purse and not a respectable mercenary.<br>\r\n<br>\r\nThe estate is at the very edge of Hewor and looks like an old military garrison with rotting timbers and crumbling brick mortar that someone had tried to convert into sprawling nobleman's home, but gave up in the middle of the process.  Moss and dark ivy tendrils covered sections of the outer wall allowing multiple areas for would-be intruders to hide and considering the crumbling gaps you can see, you wouldn't be surprised if some of the ivy covered holes big enough for such an intruder to slip through.<br>\r\n<br>\r\nWhen you inquire about the job at the guard house, you are led through a servants' entrance in the back of the main house and into a sparse library where an old gray-haired human sits at a large desk scribbling on parchment and counting silver coins.<br>\r\n<br>\r\nHe peers up at you with squinting gray-blue eyes.  \"What do you want?\"<br>\r\n</span></div></div>",
+            "created":1177131600,
+            "id":401211,
+            "title":"The Merchant's Home"
+        },
+        "154111111":{
+            "choices":[
+                "Sign your name",
+                "Ask questions and insist on reading the contract yourself."
+            ],
+            "content":"<div class=\"\"><div> <span>The merchant eyes you up and down, dubiously and then scowls at Taz.   \"I assume you're talking about caravan guards.\"  He shifts through the parchments and pulls out a sheet about a hand's length long and wide, then slaps it down on the desk in front of you.  \"This is a six month contract that you will follow <i>my</i> rules and provide the list of services.  Follow it and room, food, suitable clothing, drink and 10 gold coins a day will be paid to you.  Break this contract and I'll have you thrown into jail for at least a year.  Your duties are to guard any caravan I assign you to, particularly protecting the merchandise as well as my people and any family members traveling with you.  While traveling with a caravan, you are never to leave site of it, drink more than one pint of ale a day, give any information to other travelers not with the caravan or allow any strangers \u2013 particularly <i>females</i> \u2013 near the wagons after sunset.  While not with a caravan, you are to protect my possessions, my family and my land.  You are not to enter the main house without an invitation.  You are never to enter the private living quarters of any member of my family or <i>ever</i> threaten them with a drawn weapon \u2013 drunk or sober.  Any guest you bring on to the estate, you are responsible for them knowing and following the same rules.  If you ever steal, endanger \u2013 directly or indirectly \u2013 my family or servants, or give information about my person, business or household to any person other than my family and I alone, then you will be held in breach of contract.\"<br>\r\n<br>\r\nThe man then holds out a stick of charcoal to you.<br>\r\n<br>\r\nYou eye him, then the paper.<br>\r\n<br>\r\nThe merchant rolls his eyes with a groan.  \"I <i>assume</i> that you can write at least your name.\"<br>\r\n<br>\r\nTaz shrugs.  \"I'm in,\" he declares as he takes the offered charcoal and scribbles a \"TZ\" on the parchment beneath the tight ink writing that filled most of the pale surface.<br>\r\n</span></div></div>",
+            "created":1177131600,
+            "id":401213,
+            "title":"The Job, the rules & the Contract"
+        },
+        "1541111111":{
+            "choices":[
+                "You agreed to it, so you eat quickly and get ready to go",
+                "Drag your feet, decide to pass this time up and go exploring"
+            ],
+            "content":"<div class=\"\"><div> <span>You scratch your name into the parchment and are hustled out of the house the same way you came then directed to one of the out-buildings.  It probably used to be the barracks.<br>\r\n<br>\r\nYou are given new clothes that look sturdy, decent sewing job and reserve colors of gray and brown that certainly won't attract attention.  You are assigned a straw mattress, a clothes chest, a shared wash-stand and a few hooks on the wall for you to store your cloak and weapons.  The place reeks of sweat and ale, with the hint of cheap female perfume.  Most of the other men are straight human and sound half-drunk already so you keep to yourself until you can get the measure of where you stand.<br>\r\n<br>\r\nTaz, on the other hand, has no such reserves and is happily drunk and singing bawdy tavern songs in no time. <br>\r\n<br>\r\nAfter a hearty meal that tastes far better than what you had last night and one mug of ale, you feel more comfortable with your decision.  The others are friendly and accept your half-blood status without comment.<br>\r\n<br>\r\nAlthough it's not your style to sleep near so many strangers in a enclosed building, nothing particular happens in the night and you manage a good night's rest \u2013 which is good, since at dawn you and Taz are selected as two of the twenty guards leaving with a caravan that afternoon.<br>\r\n<br>\r\nYou're disappointed at the short notice and would prefer some time to explore your new home.<br>\r\n</span></div></div>",
+            "created":1177218000,
+            "id":401580,
+            "title":"Getting Settled in"
+        },
+        "15411111111":{
+            "choices":[
+                "Take the drink (&whatever else you can) & enjoy the job",
+                "my word=my bond! stick to the rules set by the contract"
+            ],
+            "content":"<div class=\"\"><div> <span>The trip out covered an uneventful two days.<br>\r\n<br>\r\nThe guy from the bar was right that the elder son of the merchant, a thin man in his late twenties called Gallino, seemed pretty relaxed about the rules.  He in no way concerned himself with recording the number of drinks the men shared at night, although he would threaten anyone who looked obviously drunk, especially if they caused any problems or noise.<br>\r\n<br>\r\nHowever, on the return trip and once Gallino had dealt with selling or trading the merchandise at the other town, the mood of the camp completely changed.  The first night on the return trip, the merchant's son ordered three large barrels of ale unloaded from the wagon and encouraged the guards to indulge themselves.  Wasn't long past sunset when you noted thinly-clad women doling out drinks and flirting with the guards.  No women were allowed as part of the caravan so they obviously had been invited to join in the fun, although most of them didn't seem to be catering to a paying customer, but rather the group in large.  It certainly wasn't what the old geezer's rules had suggested.<br>\r\n<br>\r\nAfter your first mug of ale, one of the women \u2013 a sexy blond, with high cheeks and green eyes \u2013 offers you another.<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1177650000,
+            "id":402790,
+            "title":"The Caravan"
+        },
+        "154111111111":{
+            "choices":[
+                "Return to the Inn to look for accomplices interested in a rich prize?",
+                "Such betray is too low for you.  Your job is to protect against such!"
+            ],
+            "content":"<div class=\"\"><div> <span>True, you quickly lost count of the drinks you accepted from the blond, but it really paid off because she stayed at your side the entire night \u2013 the <i>entire</i> night<img style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/wink.png\" alt=\"*Wink*\" title=\"Wink\" border=\"0\" width=\"15\" height=\"15\">.  Granted you were too drunk to remember much of the details and the morning hit you with one heck of a headache, but all in all, it was worth it ...<br>\r\n<br>\r\nBesides, apparently that girl is a camp follower because the next night she was there again, doling out more drinks.  This time you didn't hesitate at all, but accepted everything eagerly.<br>\r\n<br>\r\nGotta admit, this job has been the easiest and most fun you've had in what seemed forever.  Six months of this would be a breeze.<br>\r\n<br>\r\nNoon the next day the caravan arrives back at the old geezer's crumbling estate.<br>\r\n<br>\r\nWithin two days, you are anxious to be out on the road with a caravan again.  Although you fellow guards accept you as an equal comrade after the shared drinks, exploits and nights on the road, for the most part, they spend more time drinking and whoring than training.  Even though you wouldn't consider yourself a stalwart example of regular practice, you do take some pride in your skills.  They've fed you and kept you alive.  A mercenary lives or dies by their skills but even as you watch the people around you, you can see that they have gotten too relaxed.  They're far better at boasting than in physical tasks.  When you start asking questions, it's clear that those in the worst physical condition are those that have been there the longest.<br>\r\n<br>\r\nOlmar, the guard whose worked or the old merchant for almost two years is all flab, heavy gut and from the glimpses you've gotten of his knife and sword, he hasn't bothered to sharpen them for at least a year.  According to him, since the Gallino took over the caravans about a year and a half ago, there haven't been any problems with thieves or ambushes.  It just doesn't add up to you.  In a war-troubled part of the country, what made the old geezer's caravans exempt from even an occasional scuffle?  A trained eye watching the group would quickly discern that they weren't in much condition to defend their posts.  Yes, on the trip out security is watched but on the return trip, they were prime targets for any well planned attack.  They may not be hauling merchandise, but Gallino must be carrying a fortune in gold or whatever else he got from the sales and when you think it through, the latter would be more valuable, easier to escape with and far more liquid in bartering.  In fact, you try not to think it too far through because soon it seems like an opportunity too good to pass up ... I mean, it wouldn't take much to bargain with some local mercenaries at that inn and plan an attack that could make you and the group very wealthy ...<br>\r\n</span></div></div>",
+            "created":1177650000,
+            "id":402791,
+            "title":"What a night!"
+        },
+        "1541111111112":{
+            "choices":[
+                "Approach Gallino (the son and Caravan master)",
+                "Approach the Merchant (who hired you and whose money is endangered)"
+            ],
+            "content":"<div class=\"\"><div> <span>No, you might bend a few rules, but you'd never outright betray or steal from even a half-honest employer \u2013 even if he is a fool.  Of course, part of the question is who is more the fool: Gallino for allowing such lax security on the return trip, or the old geezer for assuming that someone else would enforce his rules?<br>\r\n<br>\r\nSo if you're not going to profit from their foolishness, then you certainly would prefer not to suffer for it by being a prime target for an attack.  The right thing to do is to try and get your superiors to take this seriously \u2013 it's either that or try to convince your fellow mercenaries of their danger, but considering that they seem to think this job is ideal, that's not overly likely.<br>\r\n<br>\r\nSo, that leaves trying to give some healthy advice to Gallino or jump ranks and inform the old geezer that his rules aren't being followed.<br>\r\n</span></div></div>",
+            "created":1177650000,
+            "id":402800,
+            "title":"The Chain of Command"
+        },
+        "15411111111121":{
+            "choices":[
+                "Inform Gallino right away",
+                "Find out more about this \"Natin\" criminal first"
+            ],
+            "content":"<div class=\"\"><div> <span>On your way to find Gallino, you circle the big house near an open window.  From inside, you hear the voices of two strangers, a male and female.  Although they kept their voices low, it peaks your curiosity and you creep near the wall to listen.<br>\r\n\t\"Has it all been arranged?\" the woman asks.<br>\r\n\t\"Yes.\"<br>\r\n\t\"Good, when will it happen?\"<br>\r\n\t\"The first night of the return trip,\" the man replies.  \"It's our best chance.  Melina knows where the caravan always camps that night.  She says her friends will help so if all goes well, all the guards will be asleep before the attack.\"<br>\r\n\tYou tense, your breathing quickening.  <i>Traitors among the merchant's own servants?</i><br>\r\n\t\"But Natin,\" the young woman protests, \"are you sure that we can trust people like ...,\" she hesitated, as if searching for the right word, \"well, like her.\"<br>\r\n\tYou roll your eyes, would have been nice to have it confirmed, but it seemed only logical that this Melina was one of the women that visited and entertained the guards at night.  The female inside sounded rather self-righteous for someone planning a betrayal of their own master.  Natin \u2013 you'll have to remember that name since it was the best clue for nailing these traitors.  You've never heard the name \u2013 that you can recall \u2013 but then the guards have very little interaction with house servants except for those that brought meals to the barracks.  It was too risky to try to sneak look at the two.  The name would have to do \u2013 besides, it sounded like he was the one running the operations.  She may just be a maid who spied on people and gathered information.<br>\r\n<br>\r\n\"Yes,\" the man called Natin assured her.  \"Trust me, they have as much reason to hate <i>him</i> as we do.\"<br>\r\n<br>\r\nWasn't too hard to conclude that \"him\" meant the merchant since he was the biggest one to suffer from a raid.<br>\r\n<br>\r\nThe voices fade and you hear a door close, then silence.  You stay crouched by the wall for a moment, considering your options.<br>\r\n<br>\r\nThe real question now is whether or not you should report this to Gallino.  At this point, you didn't have any evidence \u2013 just chance eavesdropping \u2013 and the man Natin would definitely deny it so it would end up being your word against his.  Not ideal for just being hired on a week or so ago.  On the other hand, the caravan would probably be heading out soon if plans were already set in motion.<br>\r\n</span></div></div>",
+            "created":1178082000,
+            "id":404266,
+            "title":"Whispered Treason"
+        },
+        "154111111111212":{
+            "choices":[
+                "Sneak into the Main house \u2013 your instincts have never failed you before!",
+                "Feign ignorance 'n wait for the perfect moment."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Olmar, do you know a servant in the main house whose name is Natin?\" you question as you drop down in a seat beside the old guard.<br>\r\n<br>\r\nHe peers at you over his mug of ale, his dark eyes bemused, then he burst into loud, rumbling laughter.  \"How much you been drinkin' already?\" he chuckles.  \"Natin ain't no servant.  He's the boss's own flesh and blood.\"<br>\r\n<br>\r\nYou stare at the man, stunned.  \"You mean this guy is family?\"<br>\r\n<br>\r\nOlmar lifts his mug in a salute.  \"Youngest son.  Come'on, there's only three of them.  Not that hard to keep 'em straight.\"<br>\r\n<br>\r\nYou groan, rub your eyes and ask, \"Okay, so what's the guy like?\"<br>\r\n<br>\r\nOlmar shrugs.  \"Quiet guy, somber.  Don't know much about him really 'cause he's not the type to come over here.  He keeps clear of the barracks and not too keep on mixin' with our type.\"<br>\r\n<br>\r\nVaguely, you remember some of the comments about him back at the inn, but there wasn't much useful.  \"I hear he wears a sword, can he use it?\"<br>\r\n<br>\r\nThe old guard shrugged again.  \"Don't rightly know, but I guess so.  Think he takes lessons from some local noble or atleast a fancy warrior employed as a teacher by some noble but don't know who.  Certainly never practices over here or asks for pointers from us.\"<br>\r\n<br>\r\n\"Do you know of any bad blood between him and his father?  Any reason why the guy might hate the boss?\"<br>\r\n<br>\r\nOlmar squinted at him.  \"Hate the boss?\"  He frowned and stopped to think.  \"Can't think of much.  The boy's pretty young still.  Except for maybe that scandal last year.\"<br>\r\n<br>\r\n\"What happen?\"<br>\r\n<br>\r\nThe man groaned.  \"Ah, heck, I don't remember.  Something about a common girl and Natin being forced to marry her.  Or maybe he wanted to marry her and the boss wouldn't have it.  All I know was that the girl ended up going missing for about a week and when they found her she was dead.\"<br>\r\n<br>\r\n\"And you don't remember if the guy wanted to marry or was trying to get out of it?\" you demand.  \"Good grief, it makes a big difference.  If he didn't want to marry her then he might have killed her to settle the issue, or paid someone else to take her out.\"<br>\r\n<br>\r\n\"Does it really matter?\" Olmar scoffed in his gruff voice.  \"These nobles have their own ways in this place.  It don't matter what they do \u2013 murder or steal or whatever \u2013 cause they got money and that's all the law cares about in this place.\"  He levels his black eyes on you.  \"Trust me, best to stick to our own business and just leave them to deal with their own.\"<br>\r\n<br>\r\nHe did have a point.  At least now you're glad you didn't rush it and tell Gallino.  Accusing a servant was one thing, but accusing the boss's son of treachery without proof is something else entirely.  So, that left you with two options.  Do you get proof to nail the guy, or do you go along with it and stick to your job by trying to protect the caravan from attack as best as you can without implementing the snake?  With only tonight to gather proof, you'll be working blind and hope you get lucky \u2013 not to mention it will probably require sneaking into the big house and breaking who knows how many rules in your contract.  If you wait until after the return of the caravan you will have more time to work, but you're not overly sure of your ability to keep an entire caravan safe without somebody else on your side.  Either way, the odds were against you, but then again, that's usually when you are at your best ...<br>\r\n<br>\r\nBesides the old geezer seemed a decent guy and it made you sick to think of his own son betraying him like this.  Regardless of Olmar's warnings, you aren't about to let him get away with it.<br>\r\n</span></div></div>",
+            "created":1178082000,
+            "id":404369,
+            "title":"Bad Blood"
+        },
+        "1541111111112121":{
+            "choices":[
+                "Keep the pressure on and offer her a deal if she helps nail Natin",
+                "Promise nothing and rely on your charms to win her cooperation"
+            ],
+            "content":"<div class=\"\"><div> <span>Sneaking into the main house was simple.  Most of the guards that did actually patrol areas were mostly concerned with the security of the outer walls and crumbling as they were, that alone was one heck of a job.  Because the big house was originally a military keep, there weren't too many servant entrances, but the two or three that had been adapted to be worker entrances weren't guarded.<br>\r\n<br>\r\nInside, only torches lighting intersections had been left burning so shadows cloaked most of the corridors.<br>\r\n<br>\r\nYou creep down through the darkness, one hand stretched out along the wall in front of you and your other hand on the knife at your belt.  Although you left the rest of your weapons in the barracks, the one knife should be enough for whatever you come up against.  Secrecy was most important since getting caught in this act would mean a broken contract \u2013 jail.<br>\r\n<br>\r\nIt just would be nice if you knew where to start.<br>\r\n<br>\r\nYou steal through the maze of hallways, turning right here and left there, but always keeping a visual map of your course so you can find your way back.<br>\r\n<br>\r\nAs you chance another right turn, you peer down the new corridor and catch a glimpse of movement \u2013 a dark figure backing silently out of a doorway.  You press yourself tight against the wall at your back but the person doesn't notice you.  The stranger looks far more intent on shutting the door silently before moving on.  You see your chance and slip forward, pulling your knife free as you near the person.  Just as the figure pulls the wooden door flush with the wall and turn, you slip behind them, covering the person's mouth with one hand and bringing your knife up to their throat.<br>\r\n<br>\r\nThe stranger jerks, startled, and a muffled whimper escapes your hand.  You pull the person deeper into the shadows and hiss, \"Who are you and what are you doing here?\"<br>\r\n<br>\r\nIn the darkness, you see the whites of the person's startled eyes as he or she struggles to see you.  You feel the person's slim form twist and slender fingers grip the arm holding the knife.  The soft scent of jasmine only confirms the gender of the intruder.<br>\r\n<br>\r\nYou feel her struggling to speak and you ease your hand an inch away from her mouth.<br>\r\n<br>\r\n\"I live here,\" she gasped.<br>\r\n<br>\r\n\"Then why are you sneaking around at night while everyone is asleep.  What were you doing?\"<br>\r\n<br>\r\nShe twists against your grip, hissing defiantly, \"I don't have to tell you anything.  Who in the world are <i>you</i>, anyway?\"<br>\r\n<br>\r\n\"I'm a guard,\" you retort, \"so don't mess with me.  What were you doing?\"<br>\r\n<br>\r\n\"Guards aren't allowed in here \u2013 especially not at night,\" she scoffed.<br>\r\n<br>\r\nYou pull her tighter against you and whisper in her ear, \"I'm asking the questions.  Or would you rather explain your actions to the boss?\"<br>\r\n<br>\r\nShe leaned her head back and eyed you, letting out a short laugh.  \"You don't scare me,\" she taunted.  \"Go ahead and wake the whole household.  You have far more to lose than I do.\"<br>\r\n<br>\r\nYou tense.  That voice.  As you manage to place it, a grin spreads across your face.  \"Really?  And what if I tell him that you are part of a conspiracy to betray him?\"<br>\r\n<br>\r\n\"I don't know what you're talking about.\"<br>\r\n<br>\r\nAnnoyed at her arrogance, you turn and pin her to the wall so you can see her face.  \"Don't play innocent with me,\" you growl.  \"The game's up.  I heard your little conversation with Natin this afternoon \u2013 the one where you were discussing the planned attack on the caravan.\"<br>\r\n<br>\r\nThe woman's skin paled slightly as her eyes widened.  Her breathing came hard as she stared back at you.  Even in the darkness, you can see her smooth complexion and a tense beauty.<br>\r\n<br>\r\nIt seems luck is definitely on your side.  With the right persuasion, this young woman might give you all the evidence you need to trap that snake of a son.<br>\r\n<br>\r\nShe may not be afraid of being found wandering around in the dark, but she was scared now, knowing that you knew about the conspiracy.  You had the upper hand, but she seemed a bit of a spitfire so you'd better choose well how you use it.<br>\r\n</span></div></div>",
+            "created":1178168400,
+            "id":404642,
+            "title":"Renegade Private Eye"
+        },
+        "15411111111121211":{
+            "choices":[
+                "Follow the girl into the room"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'm willing to offer you a deal so please just hear me out.\"  Keeping a strong grip on the girl you meet her curious stare.  \"I could go to the boss with this information any time, and I doubt that it will go well for you \u2013 whoever you are.\"<br>\r\n<br>\r\n\"Galen won't believe you,\" she whispered.<br>\r\n<br>\r\n\"Are you so sure about that?\"<br>\r\n<br>\r\nShe looked away.  \"He has a blind trust in his sons.  You need a lot more proof than your word to convince him that either of them are working against him.  You'd probably end up being the one in prison just for hinting at such.\"<br>\r\n<br>\r\n\"And frankly, that's why I haven't done anything yet,\" you admit, \"because I much prefer some sort of evidence to back me, but let me assure you of one thing \u2013 if it comes down to it, I'm willing to go in there with just what I have now.\"<br>\r\n<br>\r\nHer eyes widened as she stared at you.  \"I just said you'd end up in prison.\"<br>\r\n<br>\r\nYou eyed her skeptically, \"As if you care about what happens to a stranger like me?\" you muse.  \"But yes, I would do it rather than remain silent.  Call it a personal issue, but I the boss seems a decent guy and I can't stand by and watch his own son betray him \u2013 not if I can help it.\"<br>\r\n<br>\r\nHer eyes search yours as if not convinced or just surprised by your insistence, but you don't have anything to hide there.<br>\r\n<br>\r\n\"Now,\" you continue, \"I don't know how you got wrapped up in all of this, but I'm willing to give you the benefit of the doubt and give you a choice.  Help me get the evidence I need and I'll convince the boss that you're clean, or I'll let you walk away now and I'll get the evidence on my own to take him down and you down with him.\"<br>\r\n<br>\r\nOnce you see her expression deepen in thought, you back away, giving her enough room to run if she decides.  However, she doesn't move for a long moment, but studies you through the darkness.<br>\r\n<br>\r\n\"Do you real value the loyalty between father and son so much?\"<br>\r\n<br>\r\nYou nod.<br>\r\n<br>\r\nShe narrows her eyes.  \"How can I trust that you're being honest with me?\"<br>\r\n<br>\r\nYou give an open shrug.  \"I'm risking my job by even being here and talking to you.  If I didn't care what happens, then I would have gone straight to Gallino or done nothing at all.\"<br>\r\n<br>\r\nShe stiffened.  \"Do you trust Gallino?\"<br>\r\n<br>\r\n\"The boss has entrusted the caravan to Gallino so since this concerns the caravan, it only makes sense to talk to him first.\"<br>\r\n<br>\r\n\"But what about the loyalty between father and son?  Why look after Galen?\"<br>\r\n<br>\r\n\"The older merchant is the one who hired me, and is the one paying me, so my loyalty is to him first.\"<br>\r\n<br>\r\nShe chewed on her lip as she considered, then nodded.  \"Follow me, I know a place where we can talk.\"<br>\r\n<br>\r\nYou hesitate, but decide to follow her since you gave her the option of running and she didn't.<br>\r\n<br>\r\nShe leads you down the dark hallway and then stops to knock on a door.<br>\r\n<br>\r\nYou tense as you hear a muffled, sleepy voice call out, \"Who is it?\"<br>\r\n<br>\r\nThe girl lifts an open hand, gesturing you to be patient, then answers the voice.  \"It's Salyna.  We need to talk.\"<br>\r\n<br>\r\nYou hear the shuffle of footsteps and the door opens.  \"This had better be important,\" the man inside mutters.<br>\r\n<br>\r\nYour hand clenches around your knife as you recognize the voice.  It's the same as you heard earlier that day \u2013 Natin.<br>\r\n</span></div></div>",
+            "created":1178600400,
+            "id":406043,
+            "title":"Negotiations"
+        },
+        "15411111111121212":{
+            "choices":[
+                "Quit while you're ahead and run like hell!",
+                "Heck with the consequences and continue the interrogation/seduction ..."
+            ],
+            "content":"<div class=\"\"><div> <span>Easing up a bit, you take a deep breath, then whisper, \"Is there someplace we can go to talk?\"<br>\r\n<br>\r\nShe studies you for a long moment before nodding.  \"Yes, I guess we should talk.\"  Hesitating, she peers down the corridor and chews on her bottom lip.<br>\r\n<br>\r\nImpatient, you suggest, \"The simplest would just be your quarters unless you share a room with another maid or something.\"<br>\r\n<br>\r\nShe sighs.  \"Okay, follow me.\"<br>\r\n<br>\r\nYou let her head for the servant wing but stay close enough to grab her if she tries to run.  As you pass beneath the rare torches, you note the long braid of dark hair down the young woman's back, almost lost in the simple, dark skirt and tunic.  With that dark of hair and that figure, she probably had gypsy blood in her.  That was pretty common in that area although most pure-blood gypsies had left years ago because of the wars and all the different bands of fighters wandering the countryside.<br>\r\n<br>\r\nShe soon turns to a door and glances back at you as she opens it and allows you to enter first.  With your knife still out, you enter cautiously, keeping one eye on her.<br>\r\n<br>\r\nThe room is empty \u2013 a simple maid's room with a narrow bed and a trunk pushed against the wall.  A wooden table with a wash basin and polished silver mirror.  A small, solitary candle sat beside the basin and the young woman picked it up and lit it from the torch in the hallway, then returned and closed the door.  With the candle in her hands, you catch the glint of dark green in her eyes, highlighted with golden reflections of the flame.<br>\r\n<br>\r\nConfident that the room is secure, you slip the knife back into the sheath.  \"I apologize for the rough introduction back there, but I am supposed to help keep this place secure and I take my job seriously.\"<br>\r\n<br>\r\nShe raised one eyebrow.  \"Yet you seem to pick and choose since I know mercenaries aren't allowed in here \u2013 especially at night.  Who are you?\"<br>\r\n<br>\r\nYou lift your head and offer a casual smile, giving your name.  Taking a few steps toward her, meeting her stare with an easy, roaming study of her face and figure.  \"So why would a pretty little thing like you be involved in such deceit?\"<br>\r\n<br>\r\nShe pursed her lips, glancing away.  \"Things are not always what they seem.\"<br>\r\n<br>\r\nYou tilt your head to catch her gaze again.  \"Are you speaking of your beauty, or of the conversation?  From where I stand, they both seem pretty obvious to me.\"<br>\r\n<br>\r\nPeering at you from the corner of her eyes, she asks, \"Have you told anyone what you heard?\"<br>\r\n<br>\r\n\"Do you think I shouldn't?\"<br>\r\n<br>\r\nShe sighed.  \"I know it sounded bad, but it really isn't what you think.\"<br>\r\n<br>\r\nOnce you are within an arm's reach, you lower your voice and ask softly, \"Are you in love with Natin?\"<br>\r\n<br>\r\nStartled by the question, she lifts her face full into view.  \"What do you mean by that?\"<br>\r\n<br>\r\nShrugging, you mutter, \"Well, many women have done more for a man they think they love, so it would explain how you got involved.\"<br>\r\n<br>\r\nShe lifts her chin arrogantly.  \"Fine,\" she declares, \"I love him, but what why should you care?\"<br>\r\n<br>\r\nYou raise one eyebrow skeptically.  \"That didn't sound too convincing.  Is it because he doesn't really care for you?  Guys like him tend to use girls more than love them back.\"<br>\r\n<br>\r\n\"Guys like him?\" she scoffs, glaring at you.  \"You don't know anything about Natin.\"<br>\r\n<br>\r\nYou move in a step closer, using your height to your advantage since her eyes reaching your chin-level.  \"I do know that any son who would betray his father behind his back doesn't deserve the love of someone as lovely and spirited as you.\"<br>\r\n<br>\r\nLifting her head higher to meet your gaze, you can tell that she's shaken by your closeness, but she doesn't back down.  \"Are you trying to hint that you might be more deserving?\"<br>\r\n<br>\r\nGiving her one of your disarming grins you mumble, \"Maybe.  Certainly sounds like a good place to start.\"<br>\r\n<br>\r\nA faint blush colors her cheeks and she looks away, shielding the candle flame.<br>\r\n<br>\r\nAnother step closer.  \"Has he ever kissed you?\"<br>\r\n<br>\r\nThe blush deepens and she turns on you sharply.  \"No, how can you-\"<br>\r\n<br>\r\nPushing the candle aside, you pull her to you, wrapping one arm around her tense waist and claim her lips with your own, cutting off her protest and her breath.  She struggles against you, pushing at you with her free hand, but is no match for your strength.  Her other hand clenches around the candle, the light flickering and tossing shadows in the dark room, but your own hand keeps the arm far away.  The last thing you want is to be singed by maidenly outrage.  Shifting closer, you feel her struggles fade, unmistakable submission evident in her slight lean against you.  You deepen the kiss to erase all lingering hesitation on her part, then, once you are sure of her returned desire, you pull back, your body tense with its own demands.<br>\r\n<br>\r\nThe young woman sucks in a breath of air, her body heaving against your and her face flushed.<br>\r\n<br>\r\n\"What's your name?\" you whisper, kissing the corner of her lips.<br>\r\n<br>\r\n\"Salyna,\" she breathes, her voice shaking.<br>\r\n<br>\r\n\"Salyna,\" you purr, drawing out the name in a seductive tone that few women \u2013 especially young women \u2013 have ever been able to resist.  \"And do you still love Natin?\"<br>\r\n<br>\r\nShe hesitates but you slide your hand up her back, pressing her to you and caressing with your fingers to bring her mind back to focusing on you.<br>\r\n<br>\r\n\"Yes,\" she groans.<br>\r\n<br>\r\nYour fingers tighten, pressing against her back and you trail kisses to her ear, but fight to keep anger out of your voice as you hiss, \"Why?\"<br>\r\n<br>\r\n\"He's my brother.\"<br>\r\n</span></div></div>",
+            "created":1178168400,
+            "id":404644,
+            "title":"A Bit of Persuassion can go too far ..."
+        },
+        "15411111111122":{
+            "choices":[
+                "Tell him your concerns",
+                "Prefer to keep it between those actually involved"
+            ],
+            "content":"<div class=\"\"><div> <span>\"The master cannot be disturbed,\" protested a withered old servant.  \"He is a very busy man.  May I ask what this is about?\"<br>\r\n<br>\r\n\"I wish to speak to him about the security on the caravan,\" you explain.  \"I guess it's not urgent, but I just had a few questions about the rules.\"<br>\r\n<br>\r\nThe white-haired man shrugs.  \"Master Gallino is the one responsible for the caravan.  You may take the matter up with him.  He has much more time available than his father since the caravan is \u2013for the most part- his only major duty.\"<br>\r\n<br>\r\nYou frown.  \"Like I said, it's not urgent.  Just let the master know that I wish to see him when he has time.\"  You turn and head back to the barracks.<br>\r\n<br>\r\nSo Gallino is only really working when he's running the caravan?  He didn't seem the lazy type but yet you haven't seen him around the estate so how did he pass the time between trips?  Not that you knew much about the man since he kept to himself on the road except to keep order and managing the handling and selling of merchandise.  Seems a somber, quiet type that's always stressed underneath.  You've never seen him loosen up so it's possible that when he's not on a caravan he goes elsewhere to kick-back.<br>\r\n<br>\r\nSpeaking of which, that was another thing that didn't seem overly logical.  Why did he seem so stressed if he only managed the caravans?  If it was the strain of the responsibility, why would he be so lax on the security.<br>\r\n<br>\r\n\"I heard you were looking for my father,\" a male voice interrupts your thoughts.<br>\r\n<br>\r\nYou turn to find a young man no more than twenty, with brown eyes and sandy-colored hair.  He's a stranger to you, but you had heard that there was a younger brother in the merchant's family so you conclude that this must be him.  A relatively skinny lad but a determined seriousness in his brown eyes.<br>\r\n<br>\r\n\"My name is Natin,\" the young man explains, \"and I was wondering what business you wanted to discuss with my father.\"</span></div></div>",
+            "created":1177650000,
+            "id":402811,
+            "title":"The Younger Son"
+        },
+        "154111111112":{
+            "choices":[
+                "Just peek at the cargo ",
+                "Leave it alone"
+            ],
+            "content":"<div class=\"\"><div> <span>Maybe turning the drink down hadn't been the best choice.  As soon as you say no, the girl pouts and the entire group of girls and mercenaries all gang up to pressure you into drinking.  Determined to stick to your word but not willing to start a fight by pointing out that they shouldn't be drinking either, you eventually get up and leave the main campfire, muttering something about going to check on the wagons.  This is the first caravan trip for you and the last thing you need is to make a big scene.  So far, the others have been pretty accepting and you want to keep it that way if you can.<br>\r\n<br>\r\nThe night air is cool and you pull your cloak tighter against the wind.  Glancing about the camp you sigh.  Away from the boisterous group at the campfire, the rest of the area seems deserted.  You had expected at least a few guards to still be walking the perimeter.  As it was, the whole area around the wagons lay silent and vulnerable.  It's a good thing the merchandise had all been sold, but even then it seemed odd that no one cared about the value of the wagons themselves and you could have sworn that when Gallino came back to wagons that afternoon, after dealing with selling/delivering the goods, he'd brought a few wooden crates back.  Maybe they hadn't sold, or maybe part of the business included trading for something that would be valuable back in Hewor.  You didn't really know all that much about the details of how merchants operate, but at the very least, Gallino must have a valuable return in some form stashed somewhere.  From the way the old geezer had acted the day you signed on, the guy seemed awfully concerned about security and the safety of his family, yet Gallino \u2013 the one in the most danger if there was an attack \u2013 didn't seem worried.<br>\r\n<br>\r\nYou shrug, staring at one of the wagons.  Maybe whatever was in those crates wasn't valuable at all.  Could be something simple, like food stuff or something.  Out of curiousity, you glance around, then wander over to the nearest wagon.<br>\r\n<br>\r\n\"It's only reasonable,\" you rationalize, \"it's best to know what you're guarding, right?\"  Yet when you reach the wagon, you hesitate \u2013 your hand on the oiled tarp.<br>\r\n</span></div></div>",
+            "created":1178859600,
+            "id":406974,
+            "title":"Lonely Duty"
+        },
+        "15411111112":{
+            "content":"<div class=\"\"><div> <span>When your employer hears of your actions, you discover that he certainly was not bluffing.  Even in a city where the law authorities rarely bother with outright murder right outside their own door, a merchant with money can be a powerful enemy.  You are promptly arrested and thrown into prison without a trial in a dark back cell to wait until the end of your sentence, or until they forget to feed you too long... <br>\r\n<br>\r\n... whichever comes first.<br>\r\n</span></div></div>",
+            "created":1177218000,
+            "id":401581,
+            "title":"Broken Contract"
+        },
+        "1541111112":{
+            "choices":[
+                "\"I was raised by a band of monks.\"",
+                "\"I am actually the lost son of a displaced nobleman.\""
+            ],
+            "content":"<div class=\"\"><div> <span>The merchant narrowed his gray-blue eyes at you.  \"Are you trying to claim literacy?\"<br>\r\n<br>\r\nYou scoop up the parchment and read the first line in flawless articulation.<br>\r\n<br>\r\nThe potential employer leans back, raises his eyebrows and views you with a renewed respect.  \"And where would someone like you learn such?\"<br>\r\n<br>\r\nYou lift you head as you reply:<br>\r\n</span></div></div>",
+            "created":1177218000,
+            "id":401584,
+            "title":"Enter the EDUCATED Mercenary"
+        },
+        "15411111121":{
+            "choices":[
+                "\"It pays the bills and for someone like me, that important.\"",
+                "\"I agree. This war has drug on too long.\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"As a child, my earliest memories were of a lone child in the streets of a small town.  There was a monastery in the town and one of the monks took pity on me.  He brought me into the monastery to educate in hopes of giving me a brighter future.  Although those higher up frowned on the action \u2013 particularly because as you see, I'm only half human - , they didn't stop the monk and most of the brethren accepted me warmly.\"<br>\r\n<br>\r\n\"Then may I ask how you became a mercenary?  Were you rebellious?\"<br>\r\n<br>\r\nYou shake your head.  \"No, I loved them like a family, but when I was a young man, the town was cruelly attacked under the cover of darkness and the buildings razed to the ground.  I survived because the monks hid me in the catacombs where there dead were buried.  There was just enough moisture to keep the fire away, but I was the only survivor.  After that night, I swore to track down the people responsible for the attack, but the trail turned cold after a month or so and I knew that I would need far more training and skills if I was to succeed.  With no money or any one who knew me, mercenary training and work was how I kept alive.\"<br>\r\n<br>\r\nThe merchant stroked his bearded chin.  \"What is your name?\"<br>\r\n<br>\r\nAfter you gave it, the man replied, \"I am Galen Tarish.  You are an interesting man with a dark past, I see.\"  Galen grinned.  \"I like you.\"  He gestured to the contract.  \"Please, feel free to study it and ask any questions you wish.\"  He waved to his servant to escort Taz out, leaving you and the merchant alone in the room.<br>\r\n<br>\r\nFor the most part, the contract was simply verbatim of what Galen had said.  You eye him.  \"What's the merchandise you trade?\"<br>\r\n<br>\r\nGalen shrugged.  \"Standard stuff \u2013 lots of quality fabric, including the best silk on the market -  prime ale and wine, and spices with a few medicinal herbs.\"<br>\r\n<br>\r\nYou raise one quizzical eyebrow.  \"So you don't cater to the war?\"<br>\r\n<br>\r\nGalen grimaced.  \"I want nothing to do with that type of people.  It's because of these idiots that I have to waste so much money on guards!  All the cut-throats brought in by the war and paid to wander the countryside are half thieves and when they're bored, they seem to think it's fun to lurk around my estates, steal from my caravans and would probably love to demand ransom on one of my children.  They should have concluded this years ago and I doubt even the nobility has a clue what they are fighting about.  Lord Rynav and Lady Mesdea are just dragging it out.  They're both wasteful, bloody fools!\"<br>\r\n<br>\r\nFolding your arms, you study the man.  \"At the inn, I overheard someone refer to the Lady Mesdea as a Witch Queen.\"<br>\r\n<br>\r\nGalen pounds a fist on the wooden desk and declares, \"Rubbish!  She has no more royal blood than I have dwarven.  Hewor hasn't had, needed or wanted a monarch for over two hundred years and that goes for all the surrounding towns as well.  The royal line died and is best left buried.\"<br>\r\n<br>\r\nYou nod, a slight smile edging your lips.  The 'old geezer' has quite a bit of back bone.<br>\r\n<br>\r\nGalen meets your gaze and leans back again in his chair, steepling his fingers.  \"You seem the cunning and intelligent type so I wonder.  What is <i>your</i> opinion of the war?\"<br>\r\n</span></div></div>",
+            "created":1177218000,
+            "id":401586,
+            "title":"Some dark background & quest"
+        },
+        "154111111212":{
+            "choices":[
+                "Bring him.",
+                "Strip him and turn him loose."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, I do agree the war has gone on for far too long. On the other hand, it does allow me to eat and live in some small degree of comfort. But, the bottom line is this... If the war doesn't end soon, there will be no food except whatever comes in from outside.\" <br>\r\n<br>\r\nI continued, \"The peasants haven't been able to tend their crops, if they were lucky enough to plant at all. Even if they did plant, most of the fields have been trampled into ruin by these fools playing at war. And with all the men old enough to father children getting killed off, soon enough, there won't be any peasants left to plant crops anyhow! But, that's only my opinion Galen.\"<br>\r\n<br>\r\nHe looked thoughtfully at me for several long seconds. \"I could only wish those two fools could have an adviser such as yourself. More, I could wish they would have the sense to listen to such an adviser! Well, come then. You've a job for the time being.\"<br>\r\n<br>\r\nWe left the inn. As we began to walk down the street, I heard the faint scrape of a blade being drawn. I spun around, thankful I had inherited the ability of being able to see the red glow of a warm body in the dark from my mother's people. It was an ability elves possessed, but only sometimes passed to those with half-blood. I didn't speak of it, but it had saved my life more than once!   <br>\r\n<br>\r\nI stepped to my left, stabbing right with my sword as I did so. The bandit died with a soft gurgle as my blade took him in the throat. A side-step took me out of the other assailant's path. I clubbed him in the back of his head as he stepped past me. He fell heavily, stunned or unconscious. \"Galen, we have company. Two of them. One is dead, the other down. Shall I bring him so he can be questioned?\"</span></div></div>",
+            "created":1177909200,
+            "id":403452,
+            "title":"A fine start"
+        },
+        "1541111112121":{
+            "choices":[
+                "Continue on without further incident.",
+                "Accousted again"
+            ],
+            "content":"<div class=\"\"><div> <span>I stripped the bandit of all his weapons before dragging him down the street. Galen stopped when we drew abreast of a lit window. \"Now, let's take a look at this fine fellow.\"<br>\r\n<br>\r\nI drew him closer to the light. Galen gasped, \"By all that's holy! This thug wears the colors of the Lady Mesdea! He's one of her henchmen. Did you check the other man for papers?\"<br>\r\n<br>\r\n\"All he had were his weapons and this,\" I said holding up a fat purse. <br>\r\n<br>\r\n\"Drag him down the alley. Strip him of everything but his life and leave him. I don't know what this is about, but I know for certain it doesn't bode well for me or mine.\"<br>\r\n<br>\r\nI stepped out of the alley moments later carrying the man's clothing, weapons and purse. \"We'll drop the clothes in the charity box in front of Tyr's Temple. You may do as you wish with his weapons and the contents of both purses. If you wish, I will tear up our contract. The Lady is said to have a long reach and I'll not wish to add another to her list of those who have crossed her.\"<br>\r\n<br>\r\n\"No. I think I'll stay in your employ. At least for the time being. I think I should be able to make some good coin out of this, if you give rewards like this,\" I said as I bounced the purses in my palm.</span></div></div>",
+            "created":1177909200,
+            "id":403607,
+            "title":"Rewards"
+        },
+        "15411111121211":{
+            "choices":[
+                "Definitely (deals like this are once in a lifetime!)",
+                "I'll help, but the special treatment may hinder"
+            ],
+            "content":"<div class=\"\"><div> <span>Galen smiles.  \"Yes, I do indeed favor you and need more men like you on my side.  I think you would be wasted simply as a guard and am willing to offer you a deal.\"  He glances around as you both walk, checking for people close enough to overhear your conversation, but decides it's safe as he continues.  \"As you see by that reckless ambush, I need someone I can trust to help protect my lands, family and business from these fools.  I think they have bribed and seduced information from my servants and workers.  Now they have moved to direct attacks in daylight no less!  Sabotage is the next step and only an idiot would sit back and wait for them.  They'll ruin me if they can.\"  He grimaces.  \"They've been working on it for years, but,\" he adds with a smug grin, \"I always outwit them in the end.\"<br>\r\n<br>\r\n\"And what's the deal?\" you press, intent on the details and not just the theories.  Ideals and abstracts don't make money and they certainly don't win fights.  Usually they just make you an easy target.<br>\r\n<br>\r\n\"I will give you triple the regular pay and you will have access to the main house and a private room in the servant quarters.  You will report only to me.\" His eyes grow serious as he studies you.  \"I want you to gather info on the plans of my enemies and find out who is loyal to me and who is out to destroy me.\"<br>\r\n</span></div></div>",
+            "created":1177909200,
+            "id":403670,
+            "title":"A special deal"
+        },
+        "154111111212112":{
+            "choices":[
+                "I move into the guard barracks.",
+                "My first day at work"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'll take the job. I'm not too sure about the <i>special status</i> though. It will be the news of your household before I've spent a night under your roof. That will make the servants less likely to talk to me.\"<br>\r\n<br>\r\nWe sat in silence for some moments before I said, \"Let your servants know you've hired me to work up the defenses of the house. This will give me a reason to be in the house, poking my nose into odd corners. I'll actually figure out where your home is vulnerable and what you can do about it. In the meantime, the servants will soon begin to ignore me, allowing me to overhear their conversation or see them at work with their daily activities.\"<br>\r\n<br>\r\n\"Very well, I can do this,\" Galen said.<br>\r\n<br>\r\n\"Are any of the servants younger girls?\" I asked. \"Those who have changed or began to change into women, but are not yet settled with a man?\"<br>\r\n<br>\r\n\"Aye. There are several like that.\"<br>\r\n<br>\r\n\"Good. Such find me exotic enough to be interested in my <i>charms</i>.\" I held up a hand to forestall the protest forming on Galen's lips. \"I am not seeking to foster myself into such a maid's bed. But, one who thinks she <i>might</i> bed me, thus gaining bragging rights among the others, will be much looser with her tongue. There will, of course, be several such girls. There always are.\" I said with a sigh.<br>\r\n<br>\r\nGalen scowled, but finally said, \"Aye, that's probably true enough. Do what you must. Mind my daughter is NOT among them. She is young enough to be entranced by your appearance.\"<br>\r\n<br>\r\n\"Be sure to make her known to me that I do not, then.\"<br>\r\n<br>\r\nGalen nodded. He pulled a washed leather purse from a pocket and tossed it to me. \"Your word is your bond. Here is your first month's pay, up front as a good-will gesture on my part.\"<br>\r\n<br>\r\nI handed it back. \"Keep it until the end of the month. Anything you do which is different where I am concerned will attract attention to me, making my job all the harder. With the two pouches I've already collected tonight, I have plenty to tide me over until payday.\"</span></div></div>",
+            "created":1177995600,
+            "id":404047,
+            "title":"The Plan"
+        },
+        "1541111112121121":{
+            "choices":[
+                "So far, so good.",
+                "An unseen archer fires an arrow into the house..."
+            ],
+            "content":"<div class=\"\"><div> <span>It was getting late by the time we reached Galen's home. We had worked out the beginnings of our plan where I would be introduced to the household the next morning. I would meet the captain of the guards, the chamberlain, the mistress of servants and Galen would point out his sons and daughter to me. My job was to check out the defenses of the home and yards, then make recommendations as to how best to secure them against attack. I was to have the run of the house during the day, but at night, I was supposed to have the same restrictions as any other mercenary. Only Galen and I knew differently.<br>\r\n<br>\r\nI returned to my inn, gathered my things and went back to Galen's. I entered by way of the main gate before it was closed for the night. The corporal of the guard escorted me to the barracks. He told me he had heard I would be arriving late, but he hoped I would understand if he posted a guard until I could be better identified. I told him I did understand and if he wanted, to spare his guards a partial nights sleep, i would be willing to allow him to lock me in a cell until morning.<br>\r\n<br>\r\nHe grinned and said, \"Ah, the lot of a soldier is to go sleepless so others may sleep sound, to go hungry so others may eat and to die if need be so others may live.\"<br>\r\n<br>\r\nI smiled back and said. \"As a rule, I have found it much better to make the enemy die for his god rather than dying for mine.\" He laughed aloud at this and pointed the way to a small room at the bottom of some stairs. <br>\r\n<br>\r\n\"You may take your gear with you.\" He signaled to two privates and they came forward. \"These are privates Conn and Gilsepth. They shall watch over your sleep the first part of the evening. Others will relieve them throughout the night until time for morning chow. At that time, we shall go to our dining area and make sure you are fed the best gruel money can buy. Who knows, perhaps you may have luck and actually find some meat within it.\"<br>\r\n<br>\r\nI entered the room, unrolled my blankets and went immediately to sleep. I woke with each changing of the guard and pretended sleep when two men entered my room around two of the clock. They merely looked around and disturbed nothing, so I let them live when they left. I was up and ready before the sun had risen in the sky. The corporal of the guard came back and collected me. He handed me a key to fit the lock on the door, which I closed and locked. We went to breakfast and ate the gruel he had spoken of and dined on hard rolls which he hadn't mentioned. Then, we were off to the main house to meet the captain of the guard and Galen.</span></div></div>",
+            "created":1266642000,
+            "id":839881,
+            "title":"I move into the guard barracks."
+        },
+        "15411111121211211":{
+            "choices":[
+                "Start by checking the inside of the house on the ground floor.",
+                "Start with the outside of the house."
+            ],
+            "content":"<div class=\"\"><div> <span>I was introduced to the captain of the guard, a swarthy looking man of about 40. He was lean and tall with dark hair and brooding eyes. He also had several scars on his arms and one small gash down the side of his cheek. He was one I would not like to have to engage in a sword fight. He appeared to be wearing a bastard sword on his right side and a fighting dirk on his left. That told me none of my usual training would be effective against him since the moves would all be backward.<br>\r\n<br>\r\nI ducked my head, \"Good morn to you, Galen. I am prepared to begin my work as soon as you wish.\"<br>\r\n<br>\r\nYou have broken fast, have you not?\" he asked gruffly. At my nod, he said, \"Come along then. This is the captain of the guard here. Dan'l Tremont.\" Galen led the way down a narrow hallway which opened into a bigger room. This my housekeeper, Elaine Halfblood. My Majordomo is Sal Tallfellow. The housekeeper is in charge of all the females working here. The majordomo is in charge of everyone else. And, this is my daughter, Saline Moongift.\" <br>\r\n<br>\r\nLooking at her, I could see where the old man wouldn't want her bedded by anyone before she married. She had a regal bearing to her, standing almost as tall as my own 5' 8\". She could have weighed no more than 5 stone (100 pounds) and had a beautiful glow about her. Her reddish hair and creamy complexion were enough to seduce any man. She also possessed the most penetrating green eyes I had ever seen. Her breasts were full, but not overly huge. Her waist was small and her hips were just right on her, neither too big nor too small. I would have to watch myself around her!<br>\r\n<br>\r\nGalen explained my duties and said, \"He'll be poking his nose into every crack and crevice of the house. If he asks you a question, answer it to the best of your ability. Otherwise, ignore him. He will only be in the house during the day. Any questions?\" he asked. Getting no response, he said, \"Good! Back to work then.\" Galen led the way back to the little room where we had first been. \"You know what to do. Find out what you must and report back to me. Good luck,\" he said, offering his hand. I shook it and he nodded at my firm grasp.</span></div></div>",
+            "created":1278046800,
+            "id":910599,
+            "title":"So far, so good."
+        },
+        "15411111122":{
+            "choices":[
+                "You've got a deal.",
+                "Nah, I'd rather buy the info without the commitment."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I am the son of a human lord and an elven priestess.  However, my father's family could never accept the marriage and claimed it a farce and betrayal.  When I was born, I was condemned by the superstitious as a changeling or a demon child, saying that no child of mixed blood can claim a soul.<br>\r\n<br>\r\n\"The household and servants of the estate rebelled and threatened to abandon my father \u2013 both hating and fearing me even as an infant \u2013 so to keep peace, my father sent me and my mother away.  I never knew my father but my mother told me stories of him and showed me his letters.  He sent gold secretly to provide for us and even a tutor to educate me.  Unfortunately, not long after I became an adolescent, the messages and gold stopped without warning.  My mother sank into depression and when I offered to search out my father's fate, she refused to tell me his name or house in fear that his family would find me and kill me.<br>\r\n<br>\r\nYou look away, troubled by the memories of your beautiful mother wasting away in grief and silence.  \"Eventually I couldn\u2019t take it any more and I left to make my way on my own.\"<br>\r\n<br>\r\nThe merchant studies you skeptically.  \"Your story is intriguing, but any man with a bit of learning and an active imagination could concoct such a story to dupe any fool.  With no names, dates or house to confirm your claims, it's possible that you are lying or even that you have been lied to.\"<br>\r\n<br>\r\nYou stiffen, fist tight at your sides.  \"I was not lied to,\" you declare.  \"I said I don't know his name or family, but I <i>do</i> have proof.\"<br>\r\n<br>\r\nThe man lifted an eyebrow.  \"Really?\"<br>\r\n<br>\r\nYou pull on the thin, metal chain around your neck, feeling the heavy man's ring slip free of the neck of your tunic.  Holding it out for the merchant to see, you eye the gold band, thickly encrusted with small diamonds and a large sapphire.<br>\r\n<br>\r\nImpressed, the merchant stands and asks, \"May I inspect your relic?\"<br>\r\n<br>\r\nYou nod, only slightly nervous.  You never showed the heirloom to anyone, cautious about your enemies finding you before you can identify them, but if you were going to commit to six months of working for this guy, you'd prefer it an open deal on both sides.  Besides, as a merchant, he might even know something helpful.<br>\r\n<br>\r\nThe man studied the ring for a long moment, stroking his chin.  \"There is a crest here \u2013 or rather the hint of one,\" the merchant informs you.<br>\r\n<br>\r\n\"Where?\" you demand, eager for any information.<br>\r\n<br>\r\n\"The pattern of the diamonds,\" he explains, \"they are set in a star constellation, I'm sure of it.\"<br>\r\n<br>\r\n\"And do you know what noble house used that constellation?\"<br>\r\n<br>\r\nThe man sighed.  \"It has been decades since such have been used as crests.  Most have been dropped to adopt modern styles.  I'd have to research it more to know.\"  He eyes you shrewdly.  \"But time for such research and tracing can get pricey.  Perhaps we can make a deal.  You work for me and I will track this ring for you.\"<br>\r\n</span></div></div>",
+            "created":1177218000,
+            "id":401611,
+            "title":"Exiled Nobility"
+        },
+        "154111111221":{
+            "choices":[
+                "Stick to a rule of \"stay out of family battles\" \u2013 particularly sibling r",
+                "Give her the benefit of the doubt (beauty or 1st come 1st served etc)"
+            ],
+            "content":"<div class=\"\"><div> <span>Although you're not sure how much of your story the Merchant believes, he introduces himself as Galen Tarish and signs you on as a house guard.  Your pay remains the same, but after the glare that Taz gives you as he's dismissed to the barracks, you decide that it's probably best.  You hadn't intended the story of your past to come out this soon, but you would be a fool to pass up a chance to find out who and where your father is.  Taz didn't look too impressed by your claims and you doubted that the other mercenaries in Galen's employ would accept you as one of them now.  You sigh.  <i>And so the cycle begins again.  Getting others to accept my half race status was one thing and whenever my past comes up, it only isolates me further \u2013 you'd think I'd be used to it by now \u2013 but just once it would be nice to be viewed by who I am and not my ancestry.  For all it's promises and possibilities, so far it's only produced more enemies and complications.</i><br>\r\n<br>\r\nAs the singular house guard, you have a private room in the main house and your duties mainly consist with maintaining the security of the main house at night, dealing with would-be intruders, following up on suspicious activities, breaking up any domestic fights if they turn violent and reporting rule-breaking to Galen.  All in all, it seemed pretty straightforward \u2013 that is until you walk the grounds around the house and realize all the shadowed arbors, the three servant entries that added on in the most isolated corners and the low, first-floor windows that had been carved into the original garrison design.  Window shutters and doors had no bolts or beams to keep them closed except for the main front door and that one not only looked like it hadn't been used in years, but when you handle it, you discover that it's half rotten.  It wouldn't hold up against two strong kicks from a determined attacker.<br>\r\n<br>\r\nOn the inside, the hallways twist and turn then end abruptly with lots of isolated branches and when you ask, you discover that to cut back on costs, only torches at intersections were left burning at night.  That left major sections of shadows for people to hide and sneak through the innards of the building.  With just yourself, it looked like a serious all-nighter.<br>\r\n<br>\r\nOnce you are thoroughly discouraged by the security you are responsible for, you are summoned to meet the house servants.  More than two-third of the men looked like they had served the estate when Galen was a mewling infant.  On the other hand, most of the maids looked in their twenties or lower with relatively slim figures and pretty faces.  The only two women who looked matronly were the head cook and the head housekeeper and they seemed ill-impressed with their young helpers.  Even as you enter the room where they are assembled, you can hear the two women bellowing reprimands at their underlings.  The girls, although pretty, had no qualms about laughing and yelling back at their superiors and frankly anyone who questioned them.  Although they seem to have the advantage of numbers and graphic name calling over their elders, you discover after about three or four cat-fights later, that the girls were just as vicious and competitive against each other than authority figures \u2013 apparently more so.  The main dispute among them seemed to be a select, coveted group of mercenaries.  It seemed odd to you since you were used to maids like that fighting over the sons of the boss but since you haven't actually seen or met either of Galen two sons yet, you supposed that it might be that they were out of shape, overweight or otherwise unappealing to females.<br>\r\n<br>\r\nIt isn't hard to guess that most of your \"would-be\" night intruders will probably be mercenaries from the barracks trying to make or keep night appointments with the maids.  You figure you should probably clarify with Galen whether or not he considered moon-light trysts in the gardens as a threat to the main house.  You're also not sure when you will be able to get some sleep during the day without regular interruptions demanding that he break up more catfights.  By the time you complete your review of your duties and shuffle back to your room, you already feel exhausted and sleep-deprived, and thinking about your first night on the job beginning in a couple hours did not help.  However, the thought of just being able to lay down on a real bed kept your feet moving until you open your bedroom door and look up to see a beautiful, dark-haired young woman sitting on your bed.<br>\r\n<br>\r\nYou freeze, looking the stranger over \u2013 her slender curves covered in a red-silk dress \u2013 and the waves of black hair draped over one lifted shoulder.  Troubled, dark green eyes studied you and you notice a touch of fear \u2013 not enough to noticed by the casual person, but as a fighter, fear is something you learn to pick up on.<br>\r\n<br>\r\n\"I need your help,\" the woman announced, her voice shaking a bit.<br>\r\n<br>\r\nLifting one eyebrow, you ask, \"Do you usually intrude on stranger's private space, or only when you want to look desperate?  I know the damsel in distress technique so I suggest you have a real convincing story to go with it because I don't favor people who sneak into my bedroom \u2013 especially when I don't know them.\"<br>\r\n<br>\r\nShe lifted her head somewhat defiantly.  \"I am Galen's daughter, Salyna Tarish.\"<br>\r\n<br>\r\n<i>Ah</i>, you recall from earlier descriptions, <i>the babe</i>.  With one more appraising glance, you decide the reference justified.  \"So, what help do you need from me?\"<br>\r\n<br>\r\n\"My brother is a crook,\" the young woman declared.  \"I want you to help me stop him or at least prove what he is to my father.\"<br>\r\n</span></div></div>",
+            "created":1178600400,
+            "id":405877,
+            "title":"Bookoo Complications"
+        },
+        "1541111112212":{
+            "choices":[
+                "you manage to sleep before your shift",
+                "you lay awake until your shifts starts"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to listen to what she has to say.<br>\r\nGesturing to a nearby chair, you sit on your bed as she sits in the chair.<br>\r\n<br>\r\n\"now...you were saying...?\"<br>\r\n\"yes..my brother....i have had multiple complaints from local merchants we deal with.<br>\r\nMy brother raises the costs and tax on merchandise we sell to the locals to outrageous amounts.<br>\r\nA satin cloth...35 gold with 15 tax<br>\r\nA shortsword...30 gold with 25 tax<br>\r\nA plain shirt....20 gold<br>\r\nA horse or some livestock.....65 gold<br>\r\nHe is robbing the common people to fill our family vault.\"<br>\r\n<br>\r\nYou lean in close...making her shift in anxiety.<br>\r\n\"and what...exactly...would you have me do?<br>\r\nthis is my first day...\"<br>\r\n<br>\r\nShe returns your stare.<br>\r\n\"find out how they are decieving my father and getting away with this...<br>\r\nthe sooner you do...the sooner things can be peaceful again.\"<br>\r\nYou stand up and face the girl.<br>\r\n<br>\r\n\"i'll think about it...for right now...i need some sleep before my shift.\"<br>\r\nshe stands and begins exiting your room.<br>\r\n\" I hope you will accept...it would mean alot to me....\"<br>\r\nwith that, she leaves you alone.<br>\r\n<br>\r\nYou lay down...astounded by todays events.</span></div></div>",
+            "created":1319742000,
+            "id":1213723,
+            "title":"hear her out"
+        },
+        "154112":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"We not good enough for you? We don't like half breeds who think they're better than us.\"<br>\r\n<br>\r\n\"I don't think I'm better than you, I know it. Now back off.\" You say with a smile that fails to reach your cold, grey, eyes. You hand moves toward your sword to emphasise the words. In a place like this just standing firm is enough to get you through most situations. You are a little concerned about the odds but you've tackled worse.<br>\r\n<br>\r\nDoes your front work this time?<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1170306000,
+            "id":378398,
+            "title":"Flexing your muscles"
+        },
+        "1541122":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "If the first number is the highest click here.",
+                "If the second number is the highest click here."
+            ],
+            "content":"<div class=\"\"><div> <span>They are too drunk to be put off that easily. <br>\r\n<br>\r\nYou can either laugh it off and offer to buy them a drink. ( if you select this option go back to the last chapter and select Yes. They are too drunk to recall your threat too!)<br>\r\n<br>\r\nIf not, read on...<br>\r\n<br>\r\nWith a sigh you stand up slowly; lashing out with a foot as you do, sending one of your attackers sprawling. <br>\r\n<br>\r\nIt gives the others pause for thought allowing you time to stand and draw your weapon. You smile as you turn to face them.<br>\r\n<br>\r\nRoll the virtual dice twice, ( use 3 die, and select 1 and 10 respectivly in the other two fields.) Once for yourself and once for them. If they are the same, re roll BOTH again, you have just blocked each others move.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1170306000,
+            "id":378535,
+            "title":"When charm fails, use a sword."
+        },
+        "15411221":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "content":"<div class=\"\"><div> <span>You put all your training and experience to very effective use, it takes you only a few minutes to overcome the odds.<br>\r\n<br>\r\nYou decided not to kill them this time but a quick search of their prone forms reveal their gold pouches, in total they contain 6 gp's which you pocket.<br>\r\n<br>\r\nGO BACK TO CHAPTER THREE AND PROCEDE AS IF YOU HAD NOT GONE INTO THE SMALL ROOM. <br>\r\n</span></div></div>",
+            "created":1170306000,
+            "id":378403,
+            "title":"A nice little earner"
+        },
+        "15411222":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "content":"<div class=\"\"><div> <span>You're good but not that good; on the bright side they don't kill you.<br>\r\n<br>\r\nYou come round to find your gold pouch and all it's contents gone, luckly you paid in advance so you still have your food room and ale! <br>\r\n<br>\r\nGO BACK TO CHAPTER THREE AND PROCEDE AS IF YOU HAD NOT GONE INTO THE SMALL ROOM.</span></div></div>",
+            "created":1170306000,
+            "id":391178,
+            "title":"At least you have your health, sort of"
+        },
+        "15412":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey there, you had a rough spell in there, how's about we buy you an ale.\"<br>\r\n<br>\r\n\"Sure, I could use the company.\" You reply, though you are a little suspicous of their motives.<br>\r\n<br>\r\n\"We have a plan to recoup some of our losses, you interested?\"<br>\r\n<br>\r\n<br>\r\nWell are you?</span></div></div>",
+            "created":1170651600,
+            "id":379758,
+            "title":"An offer you can't refuse?"
+        },
+        "155":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You make your way through the crowds. In the centre of the small room is a large table. All around it are customers, yelling and calling out numbers. You have found the Dice room. <br>\r\n<br>\r\n\"Any more bets?\" A man, thin and pasty looking, calls out.<br>\r\n<br>\r\nWell are there?</span></div></div>",
+            "created":1170219600,
+            "id":378202,
+            "title":"The small room"
+        },
+        "1551":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "if your number is between 12 and 20 click here",
+                "If it's between 2 and 11 click here."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide that the risks are worth it. The odds are Three to one, the minimum bet is 1gp and the max is 5gp. Each player plays one round each against the 'dealer'<br>\r\n<br>\r\nThe game is an easy one; the dealer roles two ten-sided die and adds the result. The player ( in other words you!) then does the same. If YOUR Number is close to the dealers or matches it you win. <br>\r\n<br>\r\nThe dealer has already rolled, go to 'Site Tools' and select 2 when asked how many die to roll and 1 and 10 respectively in the fields that ask how many sides. ( alternatively you can dust of those old ten-sided dice or a copy of Joe Dever's Lone Wolf, you can use the random table or be really lazy and pick two numbers between 1 and 10 and add them together!) <br>\r\n<br>\r\n( I will 'play' the dealer. every month I will role the virtual dice and that will be the number for the dealer.) <br>\r\n<br>\r\nWhen you've got your number go to the appropriate section below.</span></div></div>",
+            "created":1170219600,
+            "id":386807,
+            "title":"Let the Game begin."
+        },
+        "15511":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "content":"<div class=\"\"><div> <span>The dealers number was higher than this, you lose however many gp's you wagered.<br>\r\n<br>\r\n<b>You can go back and try again or return to Chapter two and choose on of the other options.</b><br>\r\n<br>\r\n<br>\r\n<br>\r\n( I used the Virtual dice to decide the number, blame the technology not the Author! )</span></div></div>",
+            "created":1170219600,
+            "id":378213,
+            "title":"Sorry no win this time."
+        },
+        "15512":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "if your number is between 7 and 11 click here",
+                "If it's between 2 and 6 click here."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The dealer's number was in this range, well done so far, now choose which one of the below is closest to your number.</span></div></span></div>",
+            "created":1170219600,
+            "id":380607,
+            "title":"Still hanging in there."
+        },
+        "155121":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "content":"<div class=\"\"><div> <span>CONGRATULATIONS! you are close enough to the dealers total to win! Add three gp's for every 1 you wagered.<br>\r\n<br>\r\n( E.G if you bet one from the 17 you now have 20)<br>\r\n<br>\r\nIf you choose to play again Don't forget to re roll your number! It's up to you to be honest with yourself!<br>\r\n<br>\r\n<b>WHEN YOU'VE FINISHED YOU SHOULD RETURN TO THE MAIN BAR AND SELECT ANOTHER OPTION. </b></span></div></div>",
+            "created":1170219600,
+            "id":378222,
+            "title":"Congratulations, we have a winner!"
+        },
+        "155122":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "content":"<div class=\"\"><div> <span>Sorry the dealers number is lower than this, you lose however many gp's you wagered.<br>\r\n<br>\r\n<b>You can now go back and try again or return to the second chapter and make another choice. Don't forget to take however many gp's you lost from the 17! </b></span></div></div>",
+            "created":1170219600,
+            "id":378216,
+            "title":"Sorry, better luck next time."
+        },
+        "1552":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You watch the game for a few moments longer but decide not to risk what few gp's you have left on a game of chance.<br>\r\n<br>\r\nGO BACK TO CHAPTER TWO AND CHOOSE ANOTHER PATH.</span></div></span></div>",
+            "created":1170219600,
+            "id":378203,
+            "title":"A wise decision?"
+        }
+    },
+    "info":{
+        "author_id":"moonhawk",
+        "author_name":"Ginfla",
+        "brief_description":"Choose your own fantasy path, pick a character and see where they take you.",
+        "created":1160445900,
+        "description":"<td align=\"left\" class=\"norm\">The age old struggle of good v evil? Who wins, is up to you; choose your path with care as evil is a talented seducer. This is your tale as much as it is mine so be free in your additions, I ask only that you keep within the realms of fantasy.  Please feel free to add but keep the rating in mind when you do!<br>\r\n <br>\r\nYou are a lone mercanary, looking for a new assignment. You have just arrived in a small town, Hewor, known only by it's reputation as a place of illegal activities.<br>\r\n<br>\r\nFeel free to Add your own boss, you aren't limited to the two I did! <br>\r\n<br>\r\nSome sections will require you to use the  virtual dice. You can use a ten sided die if you have one or any other way of generating random numbers between 1 and 10.<br>\r\nYou may also want to have a scap of paper handy as well.<br>\r\n<br>\r\nIf you have an interactive why not join the \"<a href=\"\" title=\"\" target=\"_top\">Invalid Item</a>\"\u00a0<a title=\"\" target=\"_blank\"><img loading=\"lazy\" style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a> by clicking on this \"<a href=\"\" title=\"\" target=\"_top\">Invalid Item</a>\"\u00a0<a title=\"Open in new window.\" target=\"_blank\"><img loading=\"lazy\" style=\"opacity:.4;\" src=\"https://www.Writing.Com/nw.gif\" onmouseover=\"$(this).css('opacity', '1');\" onmouseout=\"$(this).css('opacity', '.4');\" height=\"12\" width=\"12\" border=\"0\"></a> </td>",
+        "id":1166278,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1421667840,
+        "modified":1421667840,
+        "pretty_title":"Choose your own adventure."
+    }
+}

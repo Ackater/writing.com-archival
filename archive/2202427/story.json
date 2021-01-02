@@ -1,0 +1,633 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Nickelodeon",
+                "Disney",
+                "Warner Bros",
+                "Your Choice",
+                "Your Choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose a network or studio</span></div></span></div>",
+            "created":1570338000,
+            "id":2729138,
+            "title":"The start."
+        },
+        "11":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Spike From Rugrats",
+                "Spunky From Rocko's Modern Life",
+                "Dog from CatDog",
+                "Ren Hoek from The Ren and Stimpy Show",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Nickelodeon. Now, which Nickelodeon cartoon dog gains weight?</span></div></span></div>",
+            "created":1605675600,
+            "id":2941988,
+            "title":"Nickelodeon"
+        },
+        "115":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Dudley Puppy from T.U.F.F. Puppy",
+                "Charles from The Loud House",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these choices?</span></div></span></div>",
+            "created":1605675600,
+            "id":2941990,
+            "title":"More Choices"
+        },
+        "1153":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Blue from Blue's Clues",
+                "Duke from Back at the Barnyard",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these choices?</span></div></span></div>",
+            "created":1605711360,
+            "id":2941991,
+            "title":"More Choices"
+        },
+        "11533":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Chase from Paw Patrol.",
+                "Marshall from Paw Patrol.",
+                "Rocky from Paw Patrol",
+                "Zuma from Paw Patrol.",
+                "Your choice."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay how about these choices?</span></div></span></div>",
+            "created":1605715980,
+            "id":2942035,
+            "title":"More Choices"
+        },
+        "12":{
+            "author_id":"ryguy0228",
+            "author_name":"Ryguy0228",
+            "choices":[
+                "Movie",
+                "Television show"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Movie or Tv.</span></div></span></div>",
+            "created":1572584400,
+            "id":2741049,
+            "title":"Disney"
+        },
+        "121":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Lady and the Tramp",
+                "101 Dalmatians",
+                "More Choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are two choices of these movies.</span></div></span></div>",
+            "created":1575694800,
+            "id":2756692,
+            "title":"Movie"
+        },
+        "1211":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "1",
+                "2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One or two?</span></div></span></div>",
+            "created":1598590800,
+            "id":2893457,
+            "title":"Lady and the Tramp"
+        },
+        "12112":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Tramp ",
+                "Lady",
+                "Annette",
+                "Colette",
+                "Open choice chapter"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then who will gain weight and get bigger as well?</span></div></span></div>",
+            "created":1598590800,
+            "id":2893465,
+            "title":"2"
+        },
+        "1212":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "101 Dalmatians.",
+                "101 Dalmatians II: Patch's London Adventure."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As there are two 101 Dalmatians movies which one will you choose?</span></div></span></div>",
+            "created":1575694800,
+            "id":2756694,
+            "title":"101 Dalmatians"
+        },
+        "1213":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Oliver & Company.",
+                "Fox & The Hound.",
+                "More Choices!",
+                "Open Choice Chapter.",
+                "Open Choice Chapter."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you the reader choose Oliver &amp; Company or Fox &amp; The Hound or The Fox &amp; The Hound 2 ?</span></div></span></div>",
+            "created":1597899600,
+            "id":2888739,
+            "title":"More Choices!"
+        },
+        "12131":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Yes.",
+                "Imma go with the doggos."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's start with the main character, Oliver.</span></div></span></div>",
+            "created":1600405200,
+            "id":2905476,
+            "title":"Oliver & Company."
+        },
+        "121312":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Sure, but who are the gangs?",
+                "Pass"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Dodger (and his crew on the next choice)?</span></div></span></div>",
+            "created":1600405200,
+            "id":2905478,
+            "title":"Imma go with the doggos."
+        },
+        "1213121":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "He takes up the sport of doggy sumo wrestling.",
+                "He gains weight in order to impress Rita.",
+                "He gains weight just for the fun of it.",
+                "He enters the world's fattest and strongest animal competition.",
+                "Your choice."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then how will Dodger gain weight?</span></div></span></div>",
+            "created":1600405200,
+            "id":2905545,
+            "title":"Sure."
+        },
+        "1213122":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Definitely positive!",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Georgette? The 5 time national champion poodle?</span></div></span></div>",
+            "created":1600405200,
+            "id":2905479,
+            "title":"Pass"
+        },
+        "12131222":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Tito.",
+                "Einstein.",
+                "Francis.",
+                "Your choice.",
+                "You choose."
+            ],
+            "content":"<div class=\"\"><div> <span>As neither Dodger the star of the movie nor Georgette Tito's love interest were chosen, here's a few other dogs to choose from.<br>\r\n<br>\r\nName: Tito.<br>\r\nNationality: Mexican.<br>\r\nAlignment: Good.<br>\r\nPersonality: Tough confident and good hearted.<br>\r\nHometown: Mexico City Mexico (his birthplace.) New York City U.S.A. (His current hometown.)<br>\r\nHeight: Small.<br>\r\nBio: Tito may be a little tough guy but he also cares about his friends including Oliver and his love interest Georgette as he's always ready to stand up for his friends and love interest at any given time.<br>\r\n<br>\r\nName: Einstein.<br>\r\nNationality: West German American Great Dane.<br>\r\nAlignment: Good.<br>\r\nPersonality: Kind friendly silly funny and protective.<br>\r\nHometown: West Berlin West Germany (his birthplace) New York City U.S.A. (His current hometown.)<br>\r\nHeight: Big.<br>\r\nBio: Einstein was born and raised in West Berlin West Germany until he and his family moved to New York City U.S.A. Despite his size and endurance Einstein's quite a lean mean fighting machine and gifted dog for he's much smarter than he looks.<br>\r\n<br>\r\nName: Francis.<br>\r\nNationality: British American bulldog.<br>\r\nAlignment: Good.<br>\r\nPersonality: Kind funny and sophisticated.<br>\r\nHometown: London United Kingdom (his birthplace) New York City U.S.A. (his current hometown)<br>\r\nBio: Francis was born and raised in London United Kingdom as he was introduced to Shakespeare at a young age as he and his family moved to New York City at a later time in his life.<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1600405200,
+            "id":2905485,
+            "title":"Nah."
+        },
+        "121312224":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Yes!",
+                "You got more? Cuz I don't like them. Too scared."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Sykes' guard dogs, Roscoe and Desoto?</span></div></span></div>",
+            "created":1600405200,
+            "id":2905502,
+            "title":"Your choice."
+        },
+        "1213122241":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "BOTH!",
+                "One of them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Should we try one of them or both?</span></div></span></div>",
+            "created":1600664400,
+            "id":2907646,
+            "title":"Yes!"
+        },
+        "1213122242":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Ronnie the golden retriever.",
+                "Rufus the bulldog.",
+                "Sherry the Yorkie.",
+                "Your choice.",
+                "Open choice chapter."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about these three characters that appeared in a storyline that's part of Fat Disney Characters that also featured Roscoe and Desoto? </span></div></span></div>",
+            "created":1600664400,
+            "id":2907650,
+            "title":"You got more? Because I don't like them. Too sc..."
+        },
+        "122":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "101 Dalmatians the series.",
+                "101 Dalmatian Street",
+                "Your own choice."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then what television show will you choose?</span></div></span></div>",
+            "created":1572584400,
+            "id":2741061,
+            "title":"Television show"
+        },
+        "13":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Looney Tunes",
+                "Tiny Toon Adventures",
+                "Animaniacs",
+                "Scooby-Doo",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen Warner Bros.. Now, which Warner Bros. franchise shall we go with?</span></div></span></div>",
+            "created":1605711480,
+            "id":2941993,
+            "title":"Warner Bros"
+        },
+        "131":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Sam Sheepdog",
+                "Charlie Dog",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Looney Tunes</i>. Now, which dog character from that franchise gains weight?</span></div></span></div>",
+            "created":1605711720,
+            "id":2941996,
+            "title":"Looney Tunes"
+        },
+        "1313":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Marc Antony",
+                "Barnyard Dawg",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these choices?</span></div></span></div>",
+            "created":1605711780,
+            "id":2941997,
+            "title":"More Choices"
+        },
+        "132":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Byron Basset",
+                "Barky Marky",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Tiny Toon Adventures</i>. Now, which dog character from that show gains weight?</span></div></span></div>",
+            "created":1605711600,
+            "id":2941995,
+            "title":"Tiny Toon Adventures"
+        },
+        "133":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Runt",
+                "Buttons",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Animaniacs</i>. Now, which dog character from that show gains weight?</span></div></span></div>",
+            "created":1605711540,
+            "id":2941994,
+            "title":"Animaniacs"
+        },
+        "14":{
+            "author_id":"rana-mcneil",
+            "author_name":"Thunder",
+            "choices":[
+                "Balto 1-3",
+                "All Dogs go to Heaven 1+2",
+                "More Choices!",
+                "More Choices!",
+                "More Choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose one or more of the following options.</span></div></span></div>",
+            "created":1580014800,
+            "id":2778536,
+            "title":"Your Choice"
+        },
+        "141":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Balto 1",
+                "Balto 2: Wolf Quest",
+                "Balto 3: Wings of Change"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So here are three of Balto's films. Which one will you pick?</span></div></span></div>",
+            "created":1580014800,
+            "id":2778738,
+            "title":"Balto 1-3"
+        },
+        "1411":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Balto.",
+                "Steele.",
+                "Dixie and Sylvie."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then who will you choose?</span></div></span></div>",
+            "created":1580014800,
+            "id":2778741,
+            "title":"Balto 1"
+        },
+        "14111":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Weight gain",
+                "Inflation",
+                "Other",
+                "Open choice chapter",
+                "You decide"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, the hero of Nome Alaska U.S.A is here for you to make him big and fat. But how?</span></div></span></div>",
+            "created":1601442000,
+            "id":2912905,
+            "title":"Balto."
+        },
+        "14112":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "No. I want Steele!",
+                "Okay, let's meet them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hmm... you want him right?<br>\r\n<br>\r\nWell, if you change your mind, we can go to his crewmates.</span></div></span></div>",
+            "created":1601442000,
+            "id":2912902,
+            "title":"Steele."
+        },
+        "141121":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Weight gain",
+                "Inflation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright.. jeez.<br>\r\n<br>\r\nAnyway, how will you make him fat?</span></div></span></div>",
+            "created":1601442000,
+            "id":2912903,
+            "title":"No. I want Steele!"
+        },
+        "14113":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Weight gain",
+                "Inflation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah.. yes. The pretty gals!<br>\r\n<br>\r\nNow, should we try weight gain or inflation?</span></div></span></div>",
+            "created":1601442000,
+            "id":2912900,
+            "title":"Dixie and Sylvie."
+        },
+        "142":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "All Dogs Go To Heaven.",
+                "All Dogs Go To Heaven 2."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then which one will you choose?</span></div></span></div>",
+            "created":1580014800,
+            "id":2778580,
+            "title":"All Dogs go to Heaven 1+2"
+        },
+        "1421":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Charlie B. Barkin",
+                "Itchy Itchiford",
+                "More Choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are the characters you can choose.</span></div></span></div>",
+            "created":1580014800,
+            "id":2778742,
+            "title":"All Dogs Go To Heaven."
+        },
+        "14211":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "He's very hungry, so he walks to a buffet.",
+                "More."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Charlie gain weight?</span></div></span></div>",
+            "created":1597899600,
+            "id":2888738,
+            "title":"Charlie B. Barkin"
+        },
+        "1422":{
+            "author_id":"andrewisback",
+            "author_name":"AndrewTheWolf2021",
+            "choices":[
+                "Charlie B. Barkin.",
+                "Sasha La Fleur.",
+                "More Choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some characters you can choose from.</span></div></span></div>",
+            "created":1580014800,
+            "id":2778743,
+            "title":"All Dogs Go To Heaven 2."
+        },
+        "14221":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Charlie and the worldwide sumo wrestling dog tournament.",
+                "Charlie tips the scales.",
+                "Your own choice."
+            ],
+            "content":"<div class=\"\"><div> <span>How will Charlie Barkin gain weight?<br>\r\n<br>\r\nCharlie and the worldwide sumo wrestling dog tournament: One day Charlie hears something about a worldwide sumo wrestling tournament that's made for male and female dogs.<br>\r\n<br>\r\nBut before he can sign up and compete in the tournament itself Charlie must gain enough weight and start training for the tournament itself as he one day finds a sumo stable for dogs in San Francisco's Japan Town section.<br>\r\n<br>\r\nCharlie tips the scales: Charlie starts packing on the pounds for some unknown reason.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1580014800,
+            "id":2778787,
+            "title":"Charlie B. Barkin."
+        },
+        "14223":{
+            "author_id":"cyanlaser",
+            "author_name":"Daft Punk",
+            "choices":[
+                "Yes ",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Charlie\u2019s sidekick and best friend, Itchy</span></div></span></div>",
+            "created":1580101200,
+            "id":2779136,
+            "title":"More Choices!"
+        },
+        "142231":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "He's gaining weight for a reason.",
+                "Open choice chapter.",
+                "Open choice chapter."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then why will Itchy gain weight?</span></div></span></div>",
+            "created":1580101200,
+            "id":2779187,
+            "title":"Yes "
+        },
+        "143":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Pal From Arthur",
+                "Martha From Martha Speaks",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps we could go with a dog from a PBS animated series. Which one will it be?</span></div></span></div>",
+            "created":1605747780,
+            "id":2942197,
+            "title":"More Choices!"
+        },
+        "15":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Peanuts",
+                "Dennis the Menace",
+                "Garfield",
+                "Marmaduke",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about we go with comic strips? Which comic strip should we choose?</span></div></span></div>",
+            "created":1605712020,
+            "id":2942000,
+            "title":"Your Choice"
+        },
+        "151":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Snoopy",
+                "One of Snoopy's Siblings",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Peanuts</i>. Now, which dog from that franchise will gain weight?</span></div></span></div>",
+            "created":1605712080,
+            "id":2942002,
+            "title":"Peanuts"
+        },
+        "1512":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Spike, His Skinny Brother",
+                "Belle, His Sister",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of Snoopy's siblings will gain weight?</span></div></span></div>",
+            "created":1605712320,
+            "id":2942007,
+            "title":"One of Snoopy's Siblings"
+        },
+        "152":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "The American Version (Blonde Hair and Dog Named Ruff)",
+                "The British Version (Black Hair and Dog Named Gnasher)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><i>Dennis the Menace</i> it is, but which version?</span></div></span></div>",
+            "created":1605712140,
+            "id":2942003,
+            "title":"Dennis the Menace"
+        },
+        "1521":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Another Dog From That Franchise"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen the American version. Now, is it Dennis' dog Ruff who gains weight?</span></div></span></div>",
+            "created":1605712200,
+            "id":2942004,
+            "title":"The American Version (Blonde Hair and Dog Named..."
+        },
+        "1522":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Another Dog From That Franchise"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen the British version. Now, is it Dennis' dog Gnasher who gains weight?</span></div></span></div>",
+            "created":1605712260,
+            "id":2942006,
+            "title":"The British Version (Black Hair and Dog Named G..."
+        },
+        "153":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Another Dog From That Franchise"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Garfield</i>. Now, is it Odie who gains weight?</span></div></span></div>",
+            "created":1605712440,
+            "id":2942008,
+            "title":"Garfield"
+        }
+    },
+    "info":{
+        "author_id":"spunky",
+        "author_name":"Ace Jones",
+        "brief_description":"Cartoon Dogs themselves gain weight and whatnot.",
+        "created":1570403880,
+        "description":"<td align=\"left\" class=\"norm\">Cartoon dogs gain weight and whatnot as it was because of two Writing.com authors mainly z23-mnb who sadly is no longer here with us on this website and PH0220. <br>\r\n<br>\r\nNow for the rules.<br>\r\n<br>\r\nAll interactive chapters must be relevant to a plot that will be outlined.<br>\r\n<br>\r\nNo Spoilsports allowed.<br>\r\n<br>\r\nMake sure your chapters are appropriate.<br>\r\n<br>\r\nNo cussing either.<br>\r\n<br>\r\n</td>",
+        "id":2202427,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1605747780,
+        "modified":1605747780,
+        "pretty_title":"Fat Cartoon Dogs."
+    }
+}

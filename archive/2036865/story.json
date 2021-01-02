@@ -1,0 +1,164 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "choices":[
+                "Brass Door",
+                "Grass Door",
+                "Fence Door",
+                "Metal Door",
+                "Continue down the hallway."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are in a long hallway. It is lit by torches and has white marble walls. There are many many doors, which shall you enter?</span></div></span></div>",
+            "created":1428028620,
+            "id":1957927,
+            "title":"You Entered the Hallway"
+        },
+        "11":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "choices":[
+                "continue down the hallway",
+                "Try to enter the brass room"
+            ],
+            "content":"<div class=\"\"><div> <span>So you turn the knob of the brass door, when you pull to see what's in side there bricks blocking you. You see a odd message on the bricks on a sticky note. It says \"congrats you found the first writing prompt. There are five in total. You have to incorporate the word \"Bricks\" in your entry.\" that's good news I thought I found the first one! Only four left in this mansion have to find then I can get the hell out of here! So you feel good now but what do you do afterwards?</span></div></div>",
+            "created":1428109620,
+            "id":1958343,
+            "title":"Brass Door"
+        },
+        "111":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "choices":[
+                "You talk to the mansion some more to see how old you are",
+                "Or you walk into the garden room"
+            ],
+            "content":"<div class=\"\"><div> <span>So you continue down the hallway. You see millions and millions of doors to pick from but you close your eyes for a second to see if this place is really real. You open your eyes back up and you see your not in the hallway anymore?! how could this be?!?! You automatically turn in a 360 circle to see if theres any more doors to get out of this horror mansion. <br>\r\n<br>\r\n<u><b>25 years later</b></u><br>\r\n<br>\r\n\"I want to get out!!! where are you door to lead to outside so I can go home!!!!!!\"<br>\r\nThe mansion speaks to you back. \" your not done with the game where you have to find the writing prompts you have four more to go. Heres a door to lead you to the outside garden. Go see if you can find another writing prompt.\" <br>\r\n\"How old am I, I've been stuck in this little room for 25 years. I want to know how old I am now. I can't keep on track anymore. </span></div></div>",
+            "created":1428187140,
+            "id":1958881,
+            "title":"Continue Down the Hallway"
+        },
+        "112":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "choices":[
+                "Go down the hallway again "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you try and try to enter the brass room. But once you put an hour into it you give up. Now what do you do??</span></div></span></div>",
+            "created":1428345240,
+            "id":1959906,
+            "title":"Try to enter the brass room"
+        },
+        "1121":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "choices":[
+                "Grass door",
+                "Colorful door",
+                "Half door"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you go down the hallway one more time. There's millions and millions of doors, which one shall you enter??</span></div></span></div>",
+            "created":1428345540,
+            "id":1959909,
+            "title":"Go down the hallway again "
+        },
+        "12":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "choices":[
+                "Yell out seeing if there's anyone there.",
+                "Continue to find the exit",
+                "Look for what you are looking for so you can get out of this mess."
+            ],
+            "content":"<div class=\"\"><div> <span>So you enter the grass door. Once you enter the room, you see there are trees everywhere. You think you've entered a big giant forest. You quickly turn all around and you see you are in a forest. You run and run to see where is the exit of the forest is but you think this forest goes on for miles. Now you are exhausted of running, you've haven't had anything to eat or drink at least 24 hours. You are so hungry, what do you do next??</span></div></div>",
+            "created":1428263820,
+            "id":1959327,
+            "title":"Grass Door"
+        },
+        "121":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "choices":[
+                "Search for food or water ",
+                "Find an exit ",
+                "Try to find other people so you can get out of this mess"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Why are you doing this to me?!\" You yell and scream for hours to see if anyone's listening but you then stop after a while because there's no real point in yelling anymore. No ones else is here you think, so what do you do?</span></div></span></div>",
+            "created":1467752880,
+            "id":2175883,
+            "title":"Yell out seeing if there's anyone there."
+        },
+        "13":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "choices":[
+                "Police station ",
+                "A Hotel ",
+                "Cuddle Bears Cafe",
+                "Charming Jewels Clothing Shop",
+                "Restroom "
+            ],
+            "content":"<div class=\"\"><div> <span>You look at the odd fence door and you see a street with buildings and skyscrapers it seems like so you choose the fence door. Once you get through the fence door it vanishes away like you never seen before. You wonder how's that possible but you have your eye on getting the hell out of this place so you see a police station,a  hotel, Cuddle Bears Cafe, Charming Jewels clothing shop, and a restroom, which one??</span></div></div>",
+            "created":1467753840,
+            "id":2175890,
+            "title":"Fence Door"
+        },
+        "14":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "content":"<div class=\"\"><div> <span>So you choose the metal door. You enter it, only to see there's a there's a fire arose out of thin air. You wonder how's that possible but you then turn around and see the door is just gone! You don't know how to get out of this mess so you just die. <br>\r\n<br>\r\n<div align=\"center\"> GAME OVER! </div></span></div></div>",
+            "created":1467924180,
+            "id":2176865,
+            "title":"Metal Door"
+        },
+        "15":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "choices":[
+                "Purple door",
+                "Yellow door",
+                "Rainbow door",
+                "Barn door",
+                "Wooden door"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you choose to continue down the hallway. your mind wonders where are you but you see millions and millions of doors. the ones who spoke out to you are: purple door, yellow door, rainbow door, barn door, and wooden door. which one shall you enter?</span></div></span></div>",
+            "created":1467843600,
+            "id":2176422,
+            "title":"Continue down the hallway."
+        },
+        "151":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "choices":[
+                "eat it, its only a muffin",
+                "Don't eat it, they maybe are right",
+                "Get some water instead"
+            ],
+            "content":"<div class=\"\"><div> <span>you grab onto the handle and open it gently but the door springs open and you enter it anyway. Then the door just disapeears out of thin air. you think how is that possible but you have your eye on is the food. Your in a bakery with no employees or anyone, so you take some food and put some in our backpack. Then a speaker out of no where yells to you \"don't eat our food!! Its contagious!\" what do you do?</span></div></div>",
+            "created":1467844200,
+            "id":2176428,
+            "title":"Purple door"
+        },
+        "1511":{
+            "author_id":"haley1",
+            "author_name":"Haley",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>so you eat it. You start to get sick by a few seconds of eating it. You now know you shouldn't of done that so you drop to the floor and you hear faintly<br>\r\n<div align=\"center\"><b>GAME OVER!</b></div></span></div></span></div>",
+            "created":1467844920,
+            "id":2176431,
+            "title":"eat it, its only a muffin"
+        }
+    },
+    "info":{
+        "author_id":"haley1",
+        "author_name":"Haley",
+        "brief_description":"Read this story first and then enter a piece of your work to my contest!",
+        "created":1428028140,
+        "description":"<td align=\"left\" class=\"norm\"><span style=\"line-height:2.0;\"><font class=\"size5\" style=\"\"><span class=\"cviolet\"><div align=\"center\"><u><b>Doors, Doors, and More Doors</b></u></div></span></font></span><br>\r\n<br>\r\n<span class=\"clblue\"><font class=\"size35\" style=\"\"><div align=\"center\"> Welcome to the Doors, Doors and More Doors. In this story each door leads to a new adventure. If you find a door that has not been claimed you may claim it by adding on to that door. Please do not vandalize this story and only enter quality rooms. The objective is to create a small adventure behind each doorway. Try to avoid leaving too many choices open ended in your mini adventure and if possible make it self contained. You may work on it day after day if you'd like and what lies in beyond the doorway may be anything your mind desires. Good luck and have fun and please make entries in my contest! <br>\r\n</div></font></span></td>",
+        "id":2036865,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1467924180,
+        "modified":1467924180,
+        "pretty_title":"Doors, Doors and More Doors"
+    }
+}

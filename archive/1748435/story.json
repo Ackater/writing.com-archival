@@ -1,0 +1,909 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Starter",
+                "Dragon",
+                "Swift",
+                "Eeveelutions",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You wake up one morning to find that you are not in your room any more.<br>\r\nYou see your reflection.<br>\r\nWhat type of Pokemon are you?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047552,
+            "title":"Which Type"
+        },
+        "11":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Kanto",
+                "Johto",
+                "Hoenn",
+                "Sinnoh",
+                "Unova"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Region?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047554,
+            "title":"Starter"
+        },
+        "111":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Squirtle",
+                "Charmander",
+                "Bulbasaur"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047555,
+            "title":"Kanto"
+        },
+        "1111":{
+            "choices":[
+                "Pikachu's",
+                "More Squirtle's",
+                "More Selection"
+            ],
+            "content":"<div class=\"\"><div> <span>You Wake up to notice something doesn't feel right. You head to a pond and see your reflection. You notice that you have turned into a Squirtle.<br>\r\nLooking around you notice a group of pokemon. You see they are all they same type of pokemon.<br>\r\nWhich pokemon do you see?</span></div></div>",
+            "created":1333256400,
+            "id":1307279,
+            "title":"Squirtle"
+        },
+        "11111":{
+            "choices":[
+                "Stay and try to explain",
+                "Run As fast you can"
+            ],
+            "content":"<div class=\"\"><div> <span>You Notice that you are in a Pikachu's nest, The Pikachu's are looking at you and start to give off electricity. You remember that you are a squirtle and squirtle's are water types and are weak to electric types. You see a Raichu and a Exit. You assume the Raichu is the leader so he might know what happend to you.</span></div></div>",
+            "created":1333256400,
+            "id":1307282,
+            "title":"Pikachu's"
+        },
+        "11113":{
+            "choices":[
+                "Mudkip's",
+                "More pokemon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More pokemon</span></div></span></div>",
+            "created":1333256400,
+            "id":1307283,
+            "title":"More Selection"
+        },
+        "1112":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "run to find cover",
+                "ignore the rain and continue staring at your tail"
+            ],
+            "content":"<div class=\"\"><div> <span>Whoa! You wake up with a start, realizing you are not yourself. You stare in astonishment at your tiny orange body and your bright flaming tail. \"I've been transformed into a Charmander!!\" At first you panic because your tail is on fire but then you realize the fire is not hurting you. \"...Wow...\" you think to yourself. While you examine yourself, you become aware that there are dark clouds forming above your head. Looking up, you see its beginning to rain. You...</span></div></div>",
+            "created":1297486800,
+            "id":1052758,
+            "title":"Charmander"
+        },
+        "1113":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "you decide to try out your moves",
+                "you wander aimlessly into a forest"
+            ],
+            "content":"<div class=\"\"><div> <span>You open your eyes...\"<i>oww my head...what happened to me last night</i>?\" Getting up, you see a small pond. You decide to wash your face to try to wake yourself up. Coming up to the pond, you lean over the water and gasp in surprise. \"A Bulbasaur!? how? what?...am I dreaming?\" Shaking your head you decide to just go with it. \"So now i'm a Bulbasaur...lets see what i can do...\"</span></div></div>",
+            "created":1297486800,
+            "id":1052456,
+            "title":"Bulbasaur"
+        },
+        "11131":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "attack everything around you",
+                "look for a way to level up"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright! Lets try Leafstorm!! You realise a flurry of leaves which spiral into the distance. Huh? That didnt look like Leafstorm... that was more like Razor Leaf... Disapointed, you decide to...</span></div></span></div>",
+            "created":1297486800,
+            "id":1052754,
+            "title":"you decide to try out your moves"
+        },
+        "112":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Cyndaquil",
+                "Chikorita",
+                "Totodile"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047556,
+            "title":"Johto"
+        },
+        "113":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Treecko",
+                "Mudkip",
+                "Torchic"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047558,
+            "title":"Hoenn"
+        },
+        "114":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Turtwig",
+                "Piplup",
+                "Chimchar"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047559,
+            "title":"Sinnoh"
+        },
+        "115":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Oshawott",
+                "Tepig",
+                "Snivy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047560,
+            "title":"Unova"
+        },
+        "1151":{
+            "author_id":"kamenridergaim",
+            "author_name":"NH ROY",
+            "choices":[
+                "Make you my pet!\"",
+                "Turn you into an egg!\""
+            ],
+            "content":"<div class=\"\"><div> <span>I drew awake from my midnight slumber and rose from my bed. However, when I woke up, I realized that some things felt...different. I noticed that I was a lot smaller, and my room felt a lot bigger. I also noticed that I felt chubbier, as if I had an extra layer of fat. I heard the door creaking open, and saw my sister looking at me.<br>\r\n<br>\r\nMy sister, named Mimi, was about thirteen, with blond hair and blues eyes, looked at me. Her face lit up with pure happiness as she looked at me.<br>\r\n<br>\r\n\"It worked...\" Mimi smiled, \"Now I can have my own little Osawott!\"<br>\r\n<br>\r\n\"Osha?\" I responded. What the heck?! I tried to speak a little more, but I couldn't. Mimi giggled and handed me a mirror. I attemped to hold the mirror, failing at first. As soon as I succeeded, I became horrified. I had become an Oshawott!<br>\r\n<br>\r\nMimi then scooped me up in her arms and held me like a plush toy.<br>\r\n<br>\r\n\"I'm going to...</span></div></div>",
+            "created":1433723460,
+            "id":1989286,
+            "title":"Oshawott"
+        },
+        "11511":{
+            "author_id":"kamenridergaim",
+            "author_name":"NH ROY",
+            "choices":[
+                "Stephanie's\"",
+                "Claire's\""
+            ],
+            "content":"<div class=\"\"><div> <span>Mimi then proceeded to pet a collar around me that read \"Little Princess\". I tried to squirm away from her tight hug, with very little success. Mimi then pulled out a pink and white dress, with little roses sown on the bottom.<br>\r\n<br>\r\n\"Little Princess, you'd look so cute in this dress!\"<br>\r\n<br>\r\n\"No way!\" I thought, as I tried to run out of the room. Mimi caught me and put me on her lap.<br>\r\n<br>\r\n\"Bad Princess!\" Mimi scorned as she spanked me on my little Oshawott behind, \"You'll get more if you act naughty!\"<br>\r\n<br>\r\nI decided to just do what she said, for fear of getting spanked again. I didn't struggle as Mimi put me in the rose dress, and then ushered me into a small, portable kennel.<br>\r\n<br>\r\n\"Come on, we're going to my friend...</span></div></div>",
+            "created":1433724060,
+            "id":1989289,
+            "title":"Make you my pet!\""
+        },
+        "12":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Dragonite",
+                "Salamance",
+                "Flygon",
+                "Garchomp",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047565,
+            "title":"Dragon"
+        },
+        "125":{
+            "choices":[
+                "Haxorus",
+                "Druddigon",
+                "Hydreigon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the new Dragons?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047585,
+            "title":"More"
+        },
+        "1251":{
+            "choices":[
+                "Forest",
+                "Wasteland",
+                "Cave"
+            ],
+            "content":"<div class=\"\"><div> <span>You are shocked to see that you have become a dragon.<br>\r\nYou have a darkish yellow-green color covering your back and most of the front, black skin covering your torso, tail tip, and thighs and red talons and claws.You have large black and red scythe like tusks coming out of your upper jaw on the side of your mouth.<br>\r\nYou see that you are in a?</span></div></div>",
+            "created":1296795600,
+            "id":1047602,
+            "title":"Haxorus"
+        },
+        "13":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Lucario",
+                "Floatzel",
+                "Mightyena",
+                "Linoone",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047563,
+            "title":"Swift"
+        },
+        "132":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Hear someone aproching.",
+                "Hear someone calling for help.",
+                "Get hit with something."
+            ],
+            "content":"<div class=\"\"><div> <span>You see you are a Floatzel. You have orange fur with a cream colored fur on your stomach with a orange tear drop pattern. You also have two fins on your arms and a rubber like tube draped like a towel on your shoulders and it runs down right above you two tails. \"Am I dreaming?\" you say pinching your self \"Ow, I guess not.\" As you look at your self you then...</span></div></div>",
+            "created":1296795600,
+            "id":1047593,
+            "title":"Floatzel"
+        },
+        "1321":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "A young Trainer.",
+                "A Pokemon.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You hear foot steps approaching behind you and you quickly run into the bushes. You peek out and you see...</span></div></span></div>",
+            "created":1296795600,
+            "id":1047597,
+            "title":"Hear someone aproching."
+        },
+        "13211":{
+            "choices":[
+                "go out of the bush",
+                "stay hidden"
+            ],
+            "content":"<div class=\"\"><div> <span>You see a trainer In a green t-shirt with a blue and white baseball cap. \"I`m lost in these woods and its been 3 hours.\" He says tiredly. \"Maybe I should take a break\".<br>\r\n<br>\r\nYou think to apporoach the boy but realize that most trainers would love to catch a Floatzel and hesitate.<br>\r\n<br>\r\nAfter thinking you decide to..</span></div></div>",
+            "created":1409961660,
+            "id":1852939,
+            "title":"A young Trainer."
+        },
+        "13212":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "\"What's a Human?\"",
+                "\"Well this is new.\""
+            ],
+            "content":"<div class=\"\"><div> <span>You see a Lucario step into the open looking around. \"Hello is any one her?\" he says as he closes his eyes. You see his dread like things on his head lift up and he turns his head in your direction. \"I can see you there.\" he says walking towards you \"Please come out I won't hurt you.\" You crawl out and you see him looking at you with those red eyes of his. \"Are you ok.\" the Lucario asks you. \"I don't think I am.\" you reply \"I'm not suppose to be a Pokemon. I'm a human.\" The Lucario tilts his head and says...</span></div></div>",
+            "created":1296795600,
+            "id":1047606,
+            "title":"A Pokemon."
+        },
+        "132122":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Sorry I don't.",
+                "I might know someone."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well this is new.\" the Lucario says chuckling \"I thought it was only a myth that humans could turn into Pokemon.\" \"So you believe me.\" you say feeling hope. \"We'll there is an old tale saying something about it.\" the Lucario says. \"Well do you know someone that can help me.\" you ask. the Lucario than says...</span></div></div>",
+            "created":1296795600,
+            "id":1047610,
+            "title":"\"Well this is new.\""
+        },
+        "1321222":{
+            "author_id":"mewandlatias",
+            "author_name":"LuigiaRocks765",
+            "choices":[
+                "Vaporeon who is a guide",
+                "Rapidash who is like a servant to the legendaries"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I  might know someone.\"the Lucario says. \"Who?\"you ask. \"Arceus,Belivedto be the creator of the Pokemon World.\"the lucario says.\"Ok,Take em tohim!\"you say.The Lucarioleadsyou through a forest and into a cave. There,you meet a...</span></div></div>",
+            "created":1327813200,
+            "id":1267785,
+            "title":"I might know someone."
+        },
+        "135":{
+            "choices":[
+                "Ralts",
+                "Mime Jr.",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lets try these on for size.</span></div></span></div>",
+            "created":1313384400,
+            "id":1168436,
+            "title":"Psychics"
+        },
+        "1351":{
+            "choices":[
+                "\"I guess you're right.\" Hey, you can still speak!",
+                "\"Ralts ralts\" Looks like you're a Ralts completely",
+                "Your choice"
+            ],
+            "content":"<div class=\"\"><div> <span>     Dizzy. So dizzy after that. Such a blast of energy. But what was it? Wait, I'm lying on something. It's soft like a bed. Maybe opening your eyes will help.<br>\r\n<br>\r\nSlowly your eyes slide open. Everything's a blur. As your vision focuses you begin to sit up, only to realize your head feels heavy, but you sit up anyways. A small white hand touches your face and quickly you realize, it's yours. Looking at it confused, you begin to inspect the rest of your body and realize two things. The first, you're a lot smaller then you were before. Second, you sense things like feelings around you. All of this, plus the fact you are on a pokemon center bed has you realize your situation.<br>\r\n<br>\r\nYou are a Ralts.<br>\r\n<br>\r\nHow this happened doesn't really matter right now. Why? Because Nurse Joy has just walked in to check up on you. She seems a tad surprised that your up, but gives a smile and sigh of relief that you're okay. \"Glad to see you've woken up.\" She says in her usual cheery tone. You give a weak smile, which wipes Joy's smile off and replaces it with a look of concern. \"Maybe you should rest for now.\" She suggests as her trustful companion Chansey walks in. You sigh, but you had to agree you weren't up to the task of walking just yet.<br>\r\n<br>\r\nAnd so you answer...</span></div></div>",
+            "created":1313384400,
+            "id":1168442,
+            "title":"Ralts"
+        },
+        "13512":{
+            "author_id":"gerarddun",
+            "author_name":"twentychemicaldiscos",
+            "choices":[
+                "A trainer decides to pick you up!",
+                "You're released back into the wild."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ralts Ralts.\"<br>\r\n<br>\r\nOh, it seems you can't speak English anymore.<br>\r\n<br>\r\nDeciding what to try and say next, you stay sitting up long enough for Nurse Joy to check your injuries and feed you a small dose of liquid medicine, though the purpose of the medicine was unknown to you.<br>\r\n<br>\r\nAs you contemplate getting up again, you start feeling woozy and soon fall asleep again.</span></div></div>",
+            "created":1448775120,
+            "id":2067807,
+            "title":"Lazy Day"
+        },
+        "1353":{
+            "author_id":"mewandlatias",
+            "author_name":"LuigiaRocks765",
+            "choices":[
+                "Wigglytuff",
+                "Ninetales",
+                "Rapidash"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are a?</span></div></span></div>",
+            "created":1327381200,
+            "id":1264683,
+            "title":"More"
+        },
+        "13533":{
+            "author_id":"mewandlatias",
+            "author_name":"LuigiaRocks765",
+            "choices":[
+                "Yea",
+                "No, I'm something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your a Rapidash?</span></div></span></div>",
+            "created":1327381200,
+            "id":1264684,
+            "title":"Rapidash"
+        },
+        "14":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Eevee",
+                "Jolteon",
+                "Vaporeon",
+                "Flareon",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047568,
+            "title":"Eeveelutions"
+        },
+        "141":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "in a forest",
+                "on the streets",
+                "in a desert"
+            ],
+            "content":"<div class=\"\"><div> <span>You look down to find you have little brown paws. \"What the!?\" Looking at your reflection you see you have long brown ears and a fluffy tail. And you realize you've been transformed into an Eevee! <i>How did this happen...?</i> you think to yourself. Your head spinning, you sit down. After a moment, you become aware that you are...</span></div></div>",
+            "created":1297486800,
+            "id":1052429,
+            "title":"Eevee"
+        },
+        "1412":{
+            "author_id":"chickad1",
+            "author_name":"ShrunkenPet",
+            "choices":[
+                "Explore",
+                "See if you have powers",
+                "Stay put"
+            ],
+            "content":"<div class=\"\"><div> <span>You realize that you are on the streets.<br>\r\nYou can't believe this is happening.<br>\r\nLooking around, you see that people are busily walking amongst the streets.<br>\r\nYou also realize that now that you are a Pokemon, you can be captured.<br>\r\nBecause of this you decide to get some cover so you're not out in the open.<br>\r\n<br>\r\nOnce hiding in some bushes you decide to...</span></div></div>",
+            "created":1298178000,
+            "id":1057374,
+            "title":"on the streets"
+        },
+        "14121":{
+            "author_id":"chickad1",
+            "author_name":"ShrunkenPet",
+            "choices":[
+                "At a gym.",
+                "At a school."
+            ],
+            "content":"<div class=\"\"><div> <span>Exploring around you notice that your small size actually keeps you well concealed.<br>\r\nUnless one of the humans were to look down, no one would even see you.<br>\r\n<br>\r\n...<br>\r\n<br>\r\nAfter a short period of exploring you found a public map of the town.<br>\r\nThe town is apparently called Dodecker town.<br>\r\n<br>\r\nLooking at the map you see that you are...</span></div></div>",
+            "created":1298178000,
+            "id":1057375,
+            "title":"Explore"
+        },
+        "141212":{
+            "author_id":"chickad1",
+            "author_name":"ShrunkenPet",
+            "choices":[
+                "A girl's attention.",
+                "A boy's attention."
+            ],
+            "content":"<div class=\"\"><div> <span>Looking around the large building you realize that not many people at a trainer school would have poke-balls with them.<br>\r\nAnd with any luck you will be able to find a way to communicate.<br>\r\n<br>\r\nAs you head into the building you see a variety of students walking around.<br>\r\nWhose attention should you get?</span></div></div>",
+            "created":1298178000,
+            "id":1057376,
+            "title":"At a school."
+        },
+        "1412121":{
+            "author_id":"chickad1",
+            "author_name":"ShrunkenPet",
+            "choices":[
+                "Head over to the battle field",
+                "Go get someone elses attention."
+            ],
+            "content":"<div class=\"\"><div> <span>You walk up to one of the school girls and say \"Eevee!\"<br>\r\nThe girl looks down and smiles at you.<br>\r\nKneeling down she pets you on the head.<br>\r\n<br>\r\nYou try to talk to her but all that comes out of your mouth is \"Eevee!\"<br>\r\nThe girl then gets up and goes to her next class:  Battling.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1298178000,
+            "id":1057379,
+            "title":"A girl's attention."
+        },
+        "14121211":{
+            "choices":[
+                "She sends you into battle",
+                "She sends Oshawott into battle"
+            ],
+            "content":"<div class=\"\"><div> <span>on your little legs you run after the girl as she enters the battle stadium. As soon as you enter you the girl and the fighting the girl is fighting with her starter Oshawott, and the boy is with his Snivy. You jump in taking place for Oshawott, As soon as you do the girl realizes that your the Eevee from before and says \"you must want to come with me\" you shake your head yes. so she throws a beginner ball (made it up myself.) and captures you. </span></div></div>",
+            "created":1299042000,
+            "id":1063625,
+            "title":"The big battle"
+        },
+        "141212111":{
+            "choices":[
+                "Snivy Returns",
+                "the boy loses"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Come on out Eevee!\" the girl said. You burst out of the beginner ball and is ready to fight. you're face is dead straight with the Snivy. \"Snivy use leaf tornado!\" the boy said. \"Eevee counter with a shadow ball!\" the girl says. As the leaf tornado nears you you unleash a shadow ball and not only does it break the leaf tornado but it hits the Snivy so hard its thrusted into the wall. \"Snivy Return, Go Pansear!\" the boy says. \"Eevee use tackle.\" the girl says. \"Pansear Incinerate\" he boy says. You dodge the attack and slam the Pansear hard.    </span></div></div>",
+            "created":1299042000,
+            "id":1063631,
+            "title":"Your first Battle"
+        },
+        "1412121111":{
+            "choices":[
+                "continue battling or pokemon center after gradiution"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Alright Pansear return...Return to to battle Snivy...... huh\" the boy said. \"Servine\" the Pokemon said. \"Snivy evolved..... wow\" the boy and girl said in usion. They battled until nighttime. You had gained extreme amounts of friendship with the girl. so a white light started to envelop you. [FLASH] You evolved into an Umbreon.  </span></div></div>",
+            "created":1299387600,
+            "id":1065658,
+            "title":"The Snivy strikes back"
+        },
+        "14121211111":{
+            "choices":[
+                "continue battling",
+                "pokemon center"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>SELECT ONE NOW OR SPARTA WILL OCCUR AGAIN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</span></div></span></div>",
+            "created":1299387600,
+            "id":1065659,
+            "title":"Which One"
+        },
+        "141212111111":{
+            "author_id":"dlatwood",
+            "author_name":"The Enchanting Female Latios",
+            "choices":[
+                "continue in this line",
+                "after battle as a regular eevee"
+            ],
+            "content":"<div class=\"\"><div> <span>you keep battling its a final head to head hit and you both struggle to stay up you slowly fall but catch yoursrlf as servine faints you walk to (wait we don't know her name T_T) (we will call her susan) suan and faint at her feet as she picks you up you lightly say eevee before closing your eyes because you were so tired from the battle you wake up in a odd room tired (rewind he didn't let us choose to evolve or not)</span></div></div>",
+            "created":1348981200,
+            "id":1437290,
+            "title":"continue battling"
+        },
+        "1412121111112":{
+            "author_id":"dlatwood",
+            "author_name":"The Enchanting Female Latios",
+            "choices":[
+                "yes evolve",
+                "don't evolve/evolve later"
+            ],
+            "content":"<div class=\"\"><div> <span>you faint after you win  the battle as your exhausted from the battle you wake up in a bright room you see susan near your bed you say \"eevee\"? she looks up and grabs you in a tight hug as you try to squirm out she lightens the hug and says \"your ok i thought you wouldn't wake up you've been here for 3 days.\" you lick her face as she hugs you again this time gently as she carries you home you nap when she gently shakes you awake you roll of the bed and say \"eev\" painfully as your right front paw gets a splinter (T_T) she pulls it out on the count of 3 1...2...3 yank \"EEV\" she kisses it as it makes it feel better. she puls out a bag of stones and asks \"you want to evolve\"? <br>\r\n<br>\r\n<br>\r\n<br>\r\nyou decide that....</span></div></div>",
+            "created":1348981200,
+            "id":1437901,
+            "title":"after battle as a regular eevee"
+        },
+        "14121211111122":{
+            "author_id":"dlatwood",
+            "author_name":"The Enchanting Female Latios",
+            "choices":[
+                "not evolving",
+                "later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>not evovle or later</span></div></span></div>",
+            "created":1351400400,
+            "id":1455805,
+            "title":"don't evolve/evolve later"
+        },
+        "141212111111221":{
+            "author_id":"ashl3yfox",
+            "author_name":"AshleyTheFox",
+            "choices":[
+                "try and communicate with her",
+                "just follow susan"
+            ],
+            "content":"<div class=\"\"><div> <span> after the battle had ended,susan had returned to her home along with her new pokemon...a.k.a you.Susan then lets you out of your pokeball so you could explore your home. your pov:you look around and see what is going to serve as your new home for the next couple of days and eventualy decide  to......</span></div></div>",
+            "created":1356325200,
+            "id":1493945,
+            "title":"not evolving"
+        },
+        "1412121111112212":{
+            "author_id":"dlatwood",
+            "author_name":"The Enchanting Female Latios",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>As you follow Susan she starts talking to you \" I'm glad you decided to be my pokemon, I always wanted an eevee thing is I could never find one until you came along.\" \"Eev eevee eev\" \"oh yeah you need a name hmmm... You tell me if you like the name ok?\"<br>\r\n<br>\r\nfirst what gender are you? </span></div></div>",
+            "created":1357448400,
+            "id":1502882,
+            "title":"just follow susan"
+        },
+        "14121211111122121":{
+            "author_id":"dlatwood",
+            "author_name":"The Enchanting Female Latios",
+            "choices":[
+                "Yes",
+                "Nope"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"How about I call you Leo?\"</span></div></span></div>",
+            "created":1357451340,
+            "id":1502891,
+            "title":"Male"
+        },
+        "141212111111221211":{
+            "author_id":"ashl3yfox",
+            "author_name":"AshleyTheFox",
+            "choices":[
+                "the recruit(training)",
+                "Neo Team Rocket"
+            ],
+            "content":"<div class=\"\"><div> <span>you stop and think,leo...thats short for leonidas!  EEVEE! you yell at susan in aproval to your new name.  `guess you like the name huh?' eevee  eevee eevee! `hahaha. were going to be the best of friends leo,together well be able to move moutains! eevee..........................    `okay i guess i got cauught in the moment huh leo?'   eevee. `sorry,but still one day well beat the elite 4 together and become the new champions.</span></div></div>",
+            "created":1357458960,
+            "id":1502984,
+            "title":"Yes"
+        },
+        "1412121111112212112":{
+            "author_id":"dlatwood",
+            "author_name":"The Enchanting Female Latios",
+            "choices":[
+                "Team cosmos gives up",
+                "Start adventure"
+            ],
+            "content":"<div class=\"\"><div> <span>As since team rockets and galactics defeat they decided to band together and try to dominatecthe world together wish ash retired. So they don't have anyone in their way they haven't been successful in capturing legendary pokemon even without interference. So they try to steal others pokemon sometimes they succeed most of the time not. They try to steal Leo if he hadn't blown up there machinery they would have succeeded on taking<br>\r\n Leo away from me.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1357727820,
+            "id":1504932,
+            "title":"Team Cosmos"
+        },
+        "14121211111122122":{
+            "author_id":"ashl3yfox",
+            "author_name":"AshleyTheFox",
+            "choices":[
+                "no",
+                "yes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about `grace'</span></div></span></div>",
+            "created":1357462740,
+            "id":1503006,
+            "title":"Female"
+        },
+        "141212111111221222":{
+            "author_id":"cester",
+            "author_name":"Cester",
+            "choices":[
+                "Nods",
+                "Says \"No Thanks\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"Does the name 'Grace' appeal to your needs?\" Susan asks. You think for a while. . . \"Eeevee!\" You reply in happiness.<br>\r\n\"Good, Grace is a awesome name!\" \"Eevee!\"<br>\r\nRight now you are in the trainers school in Santalune City, home of the famous bug type gym, led by the one and only Viola.<br>\r\nSusan, feeling confident heads over to the gym only to be interrupted by a skater.<br>\r\n\"Hah! You seem slow today, say do you have a pair of roller skates? No? Well if you beat me in battle, I will give you a pair, what do you say?\" She says<br>\r\nSusan...</span></div></div>",
+            "created":1432809720,
+            "id":1984319,
+            "title":"yes"
+        },
+        "1412121111112212221":{
+            "author_id":"cester",
+            "author_name":"Cester",
+            "choices":[
+                "Caterpie",
+                "Weedle"
+            ],
+            "content":"<div class=\"\"><div> <span>Susan Nods as the Skater says \"Prepare yourself!\" And sends out Fletchling. Susan of course sends out you. \"Go Grace! You can do it!\" The Fletchling looks scary, as your attack gets lowered by its intimidate.<br>\r\n\"Grace use Shadow Ball!\" Energy flows through your body as you release the energy in a ball form, direct hit on Fletchling, knocking it out before it has a say in the matter. Next up the skater sends out...</span></div></div>",
+            "created":1432809900,
+            "id":1984320,
+            "title":"Nods"
+        },
+        "14121211111122122212":{
+            "author_id":"cester",
+            "author_name":"Cester",
+            "choices":[
+                "Continue",
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>Next the Skater sends out Weedle, and you stay in. The Weedle looks calm, as if this won't be a challenge as the Skater calls out \"Weedle use Poison Sting!\" His horn glows purple as all of a sudden a giant spike flies at you and knocks your breath out. \"Eeeveeee!\" You cry, as all of a sudden Susan calls out for you to use Shadow Ball again, the energy rises through you and then gets shot out at the Weedle, knocking it out as suddenly. You faint.<br>\r\n. <br>\r\n...<br>\r\n...<br>\r\nYou can hear a binging noise getting louder<br>\r\nAnd louder.<br>\r\nAs you hear the muffled voice of a lady saying \"Y--- Pokemon are --ll- he--ed ha-- a nice -ay\" <br>\r\nThe sickness is gone that caused your dramatic exit, as all of a sudden you are summoned to Susan's side. \"Hey Chloe! Sorry about that, I guess... I'm not a good enough Pokemon trainer to save my Pokemon from fainting!\" She starts crying as you come up to her and with your soft fur you nuzzle her, Susan's crying eyes look at you, then stop.<br>\r\n\"You are right Chloe! If I am going to be the top Pokemon Master I must never give up! With you at my side! What can ever bring us down! She says as she walks on to the gym.</span></div></div>",
+            "created":1432960500,
+            "id":1985070,
+            "title":"Weedle"
+        },
+        "141212111111221222121":{
+            "author_id":"dlatwood",
+            "author_name":"The Enchanting Female Latios",
+            "choices":[
+                "Good idea",
+                "Nah"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>should you guys train first?</span></div></span></div>",
+            "created":1434384660,
+            "id":1993013,
+            "title":"Training"
+        },
+        "1412121111112212221211":{
+            "author_id":"dlatwood",
+            "author_name":"The Enchanting Female Latios",
+            "choices":[
+                "Tackle",
+                "Shadow ball"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Maybe we should train before we go face the gym what do you think Chloe?\" \"Vee\" *You guys head out into some grass where you guys encounter some pokemon where you guys train* \"Vee\" *Seeing the wild weedle* \"Hmm... Chloe use...\"</span></div></div>",
+            "created":1434384780,
+            "id":1993015,
+            "title":"Training for a good reason"
+        },
+        "145":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Umbreon",
+                "Espeon",
+                "Last Two"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047569,
+            "title":"More"
+        },
+        "1453":{
+            "author_id":"southkid",
+            "author_name":"South Kid",
+            "choices":[
+                "Leafeon",
+                "Glaceon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last two.<br>\r\nSo you are?</span></div></span></div>",
+            "created":1296795600,
+            "id":1047570,
+            "title":"Last Two"
+        },
+        "14532":{
+            "author_id":"gerarddun",
+            "author_name":"twentychemicaldiscos",
+            "choices":[
+                "Glaceon ",
+                "Sylveon "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you sure you want to be Glaceon?<br>\r\nPerhaps Sylveon?</span></div></span></div>",
+            "created":1448775420,
+            "id":2067810,
+            "title":"One final choice"
+        },
+        "15":{
+            "choices":[
+                "Articuno.",
+                "Moltres.",
+                "Zapdos.",
+                "Mew.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps you're the kind that's into rare Pokemon; you know, legendaries.</span></div></span></div>",
+            "created":1297054800,
+            "id":1049573,
+            "title":"Legendaries, perhaps?"
+        },
+        "155":{
+            "choices":[
+                "Lugia.",
+                "Ho-oh.",
+                "More?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Some more legendaries to consider.</span></div></span></div>",
+            "created":1297400400,
+            "id":1052089,
+            "title":"Still going..."
+        },
+        "1553":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "Houndoom",
+                "Mightyena",
+                "Absol"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps you are a dark type?</span></div></span></div>",
+            "created":1297400400,
+            "id":1052301,
+            "title":"More?"
+        },
+        "15531":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "you hear a scream",
+                "the ground beneath your feet disapears and you fall into darkness"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You wake up...<i>Ugh...where am i...?</i> Standing up, you check your surroundings. Everything is dark but you sense many trees around you. <i>What am i doing in a forest?</i> You start running thru the woods when all of a sudden...</span></div></span></div>",
+            "created":1297486800,
+            "id":1052468,
+            "title":"Houndoom"
+        },
+        "155311":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "run to help whoever screamed",
+                "ignore the cry for help"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You stop in your tracks. <i>What was that!?</i> You hold your breath as you listen harder. Gasp! <i>There it is again!</i> Someone is crying for help! You...</span></div></span></div>",
+            "created":1297486800,
+            "id":1052483,
+            "title":"you hear a scream"
+        },
+        "1553111":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "a large mightyena bullying a houndour pup",
+                "a pokemon clinging to the side of a cliff"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You shake off your fears and run in the direction of the scream. Bursting through the bushes, you find...</span></div></span></div>",
+            "created":1297486800,
+            "id":1052508,
+            "title":"Trouble"
+        },
+        "15531111":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "you jump in to help the houndour",
+                "you dont get involved"
+            ],
+            "content":"<div class=\"\"><div> <span>A large Mightyena snarls furiously as it closes in on a young Houndour. The Houndour whips his head around, his eyes frantic, as if looking for a means of escape. But you notice that the Mightyena has cornered him between two boulders. <i>Uh oh. This doesnt look good</i> The little Houndour whimpers with despair. You watch wide-eyed as the Mightyena pins the Houndour to the ground and snaps at him wildly.  So...</span></div></div>",
+            "created":1298178000,
+            "id":1057595,
+            "title":"Dark Mightyena"
+        },
+        "155311111":{
+            "author_id":"brandon315",
+            "author_name":"demonlord",
+            "choices":[
+                "The 2 pokemon land in a river but manage to swim to shore",
+                "An unknown pokemon saves them just in time"
+            ],
+            "content":"<div class=\"\"><div> <span>You charge the Mightyena a full sprint and slam into it powerful take down attack, sending the Mightyena flying into a nearby bush the recoil from the attack hurts you just a little bit, you then stand between the Houndour and the Mightyena as your mouth opens and releases a powerful shadow ball, meanwhile the Mightyena fires a shadow ball of its own., the 2 attacks collide creating a massive explosion sending all 3 of them flying in 2 different directions, while in mid air you grab the Houndour by the scruff of the neck.</span></div></div>",
+            "created":1434666900,
+            "id":1994536,
+            "title":"you jump in to help the houndour"
+        },
+        "15531112":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "quickly grab the poochyena and haul him to safety",
+                "panic and freeze up"
+            ],
+            "content":"<div class=\"\"><div> <span>As you get closer, you recognize the small grey body of a Poochyena. The poor thing dangles helplessly over the precipice. The Poochyena sees you coming and cries out again, his voice is a shrill yelp of terror. Leaning over the edge of the cliff, you realize you're one step away from a 200 ft drop into darkness. Your heart pounding with distress, you...</span></div></div>",
+            "created":1298091600,
+            "id":1056575,
+            "title":"Cliffhanger..."
+        },
+        "155311121":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "ask for a cash reward",
+                "ask for a place to crash"
+            ],
+            "content":"<div class=\"\"><div> <span>You reach over the edge of the cliff and sink your teeth firmly into Poochyena's shoulder. Gripping him tightly, you pull him up to safety. The Poochyena then lyes down, panting with relief. \"Are you alright?\" you ask. <br>\r\n\"...Y...Yes...thank you...\" Poochyena gasps in between breaths. Before you can reply, you hear someone approaching from the trees. You look over to see a Mightyena running toward you. As it got closer, you could see the relief and gratitude in his eyes. <i>This must be the father...</i> you thought to yourself. Mightyena ran to his son and covered his face with licks. \"Thank you so much for rescuing my son,\" said Mightyena. Then he turned to Poochyena, \"I told you not to get too close to the edge!\" he scolded. Poochyena hung his head low, \"...sorry...\" <br>\r\nMightyena looks back up at you. \"There must be some way I can repay you...\" <br>\r\n\"Well....\"</span></div></div>",
+            "created":1298264400,
+            "id":1057915,
+            "title":"saving poochyena"
+        },
+        "155311122":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "vanishes into the night"
+            ],
+            "content":"<div class=\"\"><div> <span>Looking over the edge of the cliff, you begin to feel dizzy. The wind blows and you dig your claws into the ground to keep yourself from falling over the side. Your heart races but your muscles freeze up in terror as panic threatens to overwhelm you. Your eyes lock with Poochyena's. <i>I'm so sorry, I can't help you! I'll fall!</i> You open your jaws to cry for help but before you can say anything, the little Poochyena yelps out to you. <br>\r\n\"No! Run away or he'll get you too!!\" Poochyena screams. <br>\r\n\"What!?\" <br>\r\nAll of a sudden, you feel something push you from behind. You let out an ear-splitting scream as you plummet over the edge of the cliff. With your legs flailing wildly, you manage to get a grip on the face of the cliff. As you hang on for dear life, you glance upward. You can see the Poochyena still hanging on...and a dark silhouette of an unfamiliar pokemon glaring down at you from the top. \"Who are you!?\" you howl, trying to stop your voice from shaking. The shadowy pokemon...</span></div></div>",
+            "created":1299387600,
+            "id":1066170,
+            "title":"a new enemy"
+        },
+        "1553112":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "what kind of job?",
+                "sorry, not interested"
+            ],
+            "content":"<div class=\"\"><div> <span><i>Hey its not my problem...I'm sure whoever it is can work it out themselves.</i> You keep moving through the darkness. <i>Hm?</i> You pause. At first you think its just the wind but as you listen closer, you begin to hear whispering. \"Whos there!?\" you call out. The whispering stops and all is silent. \"Grr...I know you're there! Show yourself now!\" you growl. After another moment of silence, a Weavile emerges from the bushes. \"Greetings Houndoom, I've been waiting for you,\" it says. You stare at the Weavile in confusion. \"Excuse me?\" <i>Who the heck is this Weavile? He must think I'm someone else...</i> The Weavile smirks at you and says, \"I'd like to offer you a job.\" <i>Hmm...</i></span></div></div>",
+            "created":1298091600,
+            "id":1056565,
+            "title":"ignore the cry for help"
+        },
+        "155312":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "friend ",
+                "foe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Ahhhhhh!\" You plunge helplessly over a cliff and hit the ground with a thud. The wind gets knocked out of you. As you lye there, trying to catch your breath, you hear something approaching you. Is it...?</span></div></span></div>",
+            "created":1297486800,
+            "id":1052474,
+            "title":"the ground beneath your feet disapears and you ..."
+        },
+        "1553121":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "you continue on your way, alone",
+                "you follow the blue houndoom"
+            ],
+            "content":"<div class=\"\"><div> <span>You start to feel wary so you try to stand up. \"Ouch!\" you moan as your legs give out and you fall to the ground again. You hold your breath as the bushes part to reveal a pokemon. Blinking with surprise, you find yourself face to face with a blue Houndoom. The blue shining Houndoom stares at you with concerned eyes. \"That was a nasty fall,\" it says. \"You're lucky I happened by...\" <br>\r\n<br>\r\n<i>Wow...</i>, you think to yourself. <i>It's a girl...</i>. The blue Houndoom pushes some berries over to you. \"Here, eat these sitrus berries. They'll give you strength,\" she tells you. <br>\r\n<br>\r\n\"Umm...Thanks...\" You gratefully lap up the berries. At once you can feel your energy returning to you. Feeling rejuvenated, you stand up and give yourself a good shake.  The blue Houndoom gives you a nod. Then she turns and trots off through the trees. So...</span></div></div>",
+            "created":1298178000,
+            "id":1057658,
+            "title":"friend "
+        },
+        "1553122":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "fight it!",
+                "run away!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><i>Uh oh...</i> You see a big Tyranitar lumbering toward you. The flare of battle burning in its eyes. It spots you and roars ferociously. You...</span></div></span></div>",
+            "created":1298091600,
+            "id":1056528,
+            "title":"foe"
+        },
+        "15531221":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "you are rescued..."
+            ],
+            "content":"<div class=\"\"><div> <span>The Tyranitar charges at you. \"Bring it ooooon!!!\" You gasp in amazement as red-hot flames shoot out of your mouth. <i>Whoa! Cool!</i> The fire temporarily startles the Tyranitar but not for long. It unleashes a Hyper Beam attack at you. Dodging at the last second, you spin around and leap on the Tyranitar's back. You use your Bite move on it but that only seemed to make the Tyranitar even madder. It throws you off its back and uses its Earthquake attack. The move knocks you off your feet and leaves you gasping in shock. The next thing you know, you are surrounded by a whirlwind of sand. \"No! This must be Tyranitar's Sandstorm attack!\" <i>At this rate, I'm not gonna last much longer...</i> </span></div></div>",
+            "created":1298091600,
+            "id":1056552,
+            "title":"battle"
+        },
+        "155312211":{
+            "author_id":"adrenalinex",
+            "author_name":"Houndoom Heart",
+            "choices":[
+                "yes. i'll join",
+                "no. i'm fine by myself"
+            ],
+            "content":"<div class=\"\"><div> <span>You're about to lose hope when all of a sudden you hear a fearsome howl. The next thing you know, shadows explode from the trees. <i>Wha!? What are those!?</i> Powerful flames burst through the sandstorm. In that brief moment you catch a glimpse of several black pelts with bone-like horns sticking out of their heads. <i>Those are Houndoom!</i> The gang of Houndoom attack the Tyranitar at once, blasting it with their flamethrowers. The Tyranitar roars aggressively but the Houndoom stand their ground. \"Get out of my territory!\" snarls one of the Houndoom. Tyranitar responds by unleashing a massive dark pulse attack. At the same moment, the Houndoom pack unleash their dark pulse attacks. The two moves collide with eachother, creating a huge firey explosion. You watch, wide-eyed, as the all the Houndoom then lunge at the Tyranitar and sink their fangs into it. <i>That looks like a Crunch attack!</i>. Tyranitar screeches in pain and throws all the Houndoom off him. The Houndoom tense up for more fighting but the Tyranitar decides that he's had enough. Letting out a defiant growl, the Tyranitar retreats into the depths of the forest. <i>Phew...that could've been much worse...</i> you think to yourself. You shakily stand up as the Houndoom pack approach you. \"Are you alright?\" one of them asks you. <br>\r\n\"I think so...thanks for helping me.\" you reply, \"If you guys hadn't come along i would have fainted for sure.\" <i>or worse...</i> <br>\r\nThe Houndoom who spoke nodded understandingly. \"Those Tyranitar can be troublesome, indeed.\" <br>\r\n<br>\r\n\"Here take this,\" another one barks as he drops a blue berry next to you. \"This oran berry should make you feel better.\" <br>\r\n<br>\r\n\"Umm...thanks...\" Trying not to feel self conscious, you quickly lap up the berry. Almost immediatly, you feel your strength returning to you. Thats when you begin to notice the Houndoom around you murmering amongst themselves with hushed voices. You stare at them questioningly. <i>Are they planning to chase me out of their territory too?</i> you wonder nervously. The Houndoom then exchanged a glance at one another and nodded. As they turn back to you, one of them speaks up. \"Its dangerous wandering around here by yourself.\" he tells you, \"Would you be interested in joining our pack?\"</span></div></div>",
+            "created":1300597200,
+            "id":1073409,
+            "title":"the pack"
+        }
+    },
+    "info":{
+        "author_id":"southkid",
+        "author_name":"South Kid",
+        "brief_description":"You become a Pokemon.",
+        "created":1296866100,
+        "description":"<td align=\"left\" class=\"norm\">You wake up one morning and you have transformed into a Pokemon.<br>\r\nThings I will not allow.<br>\r\nSex.<br>\r\nVore.<br>\r\nWeird Fetishes.<br>\r\nPlease add.</td>",
+        "id":1748435,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1448775420,
+        "modified":1448775420,
+        "pretty_title":"Pokemon Transformation"
+    }
+}

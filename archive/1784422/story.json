@@ -1,0 +1,645 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "NOL",
+                "Sector Seven",
+                "Vigilante",
+                "The Six Hero\u2019s",
+                "Not part of a group."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welcome to the 13th Hierarchical City of Kagutsuchi. To get started what group is the character in.</span></div></span></div>",
+            "created":1307768400,
+            "id":1124029,
+            "title":"Welcome"
+        },
+        "11":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Jin Kisaragi",
+                "Noel Vermillion",
+                "Tsubaki Yayoi",
+                "Non playable Charicters",
+                "New Charicters"
+            ],
+            "content":"<div class=\"\"><div> <span>So you are from the Novus Orbis Librarium (NOL). The Library (They hate that name by the way) govern the Hierarchical cities and moderates the use of the Ars Magas. They are basically what you would call the police force in Blazblue. Most people however don\u2019t like the Library how ever due to the fact that they do things in the shadows and has a tight hold on who can use Ars Magas. <br>\r\nMore info on the NOL: <a rel=\"nofollow\" href=\"http://blazblue.wikia.com/wiki/NOL\" target=\"_blank\">http://blazblue.wikia.com/wiki/NOL</a></span></div></div>",
+            "created":1307768400,
+            "id":1124036,
+            "title":"NOL"
+        },
+        "111":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Begin Jin's Story"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Jin Kisaragi<br>\r\nRace: Human<br>\r\nGender: Male<br>\r\nAppearance: Blond hair, Green eyes<br>\r\nWeapon: Yukianesa (Nox Nyctores)<br>\r\nDrive: Frost Bite (Freezes Opponents)<br>\r\n<br>\r\nMore info: <a rel=\"nofollow\" href=\"http://blazblue.wikia.com/wiki/Jin_Kisaragi\" target=\"_blank\">http://blazblue.wikia.com/wiki/Jin_Kisar...</a> </span></div></span></div>",
+            "created":1308891600,
+            "id":1133697,
+            "title":"Jin Kisaragi"
+        },
+        "112":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Start Noel's Story."
+            ],
+            "content":"<div class=\"\"><div> <span>Noel Vermillion<br>\r\nRace: Artifically made Human<br>\r\nGender: Female<br>\r\nAppearance: Blond hair, Green eyes<br>\r\nWeapon: Bolverk (Nox Nyctores)<br>\r\nDrive: Chain Revolver (Links togetner easy combos)<br>\r\n<br>\r\nMore info: <a rel=\"nofollow\" href=\"http://blazblue.wikia.com/wiki/Noel_Vermillion\" target=\"_blank\">http://blazblue.wikia.com/wiki/Noel_Verm...</a> </span></div></div>",
+            "created":1308891600,
+            "id":1133706,
+            "title":"Noel Vermillion"
+        },
+        "113":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Starts Tsubaki's story."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tsubaki Yayoi<br>\r\nRace: Human<br>\r\nGender: Female<br>\r\nAppearance: Red hair, Blue eyes<br>\r\nWeapon: Sealed Weapon Izayoi <br>\r\nDrive: Install (Charges energy to boost special attacks<br>\r\n<br>\r\nMore info: <a rel=\"nofollow\" href=\"http://blazblue.wikia.com/wiki/Tsubaki_Yayoi\" target=\"_blank\">http://blazblue.wikia.com/wiki/Tsubaki_Y...</a> </span></div></span></div>",
+            "created":1308891600,
+            "id":1133714,
+            "title":"Tsubaki Yayoi"
+        },
+        "115":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "android (affirmitive)",
+                "marrionet (cool)",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of power will you use??</span></div></span></div>",
+            "created":1308891600,
+            "id":1133701,
+            "title":"New Charicters"
+        },
+        "1153":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "beastman (mabey i can have a tail.)",
+                "ninja (....well good luck)",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the powers a ninja, beastman, or more</span></div></span></div>",
+            "created":1308891600,
+            "id":1133703,
+            "title":"more"
+        },
+        "11533":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about you wield a nox nocturne.</span></div></span></div>",
+            "created":1308891600,
+            "id":1133707,
+            "title":"more"
+        },
+        "115332":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "hiya!!",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about hand to hand combat??</span></div></span></div>",
+            "created":1308891600,
+            "id":1133709,
+            "title":"no"
+        },
+        "12":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Iorn Tager",
+                "Makoto Nanaya",
+                "Lambda-11",
+                "Nonplayable Characters",
+                "New Character"
+            ],
+            "content":"<div class=\"\"><div> <span>So you are in Sector Seven. Sector Seven is a group of like minded scientists that work in the background trying to help man kind. They use Pure science and they Reject using Ars Magus. They are considered to be the opposite of the Library.<br>\r\nMore info on Sector Seven: <a rel=\"nofollow\" href=\"http://blazblue.wikia.com/wiki/Sector_Seven\" target=\"_blank\">http://blazblue.wikia.com/wiki/Sector_Se...</a> <br>\r\n</span></div></div>",
+            "created":1307854800,
+            "id":1124058,
+            "title":"Sector Seven"
+        },
+        "121":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Begin Tager's story"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Iron Tager<br>\r\nRace: Cyborg<br>\r\nGender: Male<br>\r\nAppearance: Black hair, Red skin<br>\r\nDrive: Voltic Battler (Magnetizes the opponent allowing them to be pulled towards him)<br>\r\n<br>\r\nMore info: <a rel=\"nofollow\" href=\"http://blazblue.wikia.com/wiki/Iron_Tager\" target=\"_blank\">http://blazblue.wikia.com/wiki/Iron_Tage...</a> </span></div></span></div>",
+            "created":1308891600,
+            "id":1133721,
+            "title":"Iorn Tager"
+        },
+        "122":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Start Makoto's story."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Makoto Nanaya<br>\r\nRace: Beastkin (Squirrel)<br>\r\nGender: Female<br>\r\nAppearance: Brown hair, Red eyes<br>\r\nDrive: Impact (Strikes opponent with a powerful blow)<br>\r\n<br>\r\nMore info: <a rel=\"nofollow\" href=\"http://blazblue.wikia.com/wiki/Makoto_Nanaya\" target=\"_blank\">http://blazblue.wikia.com/wiki/Makoto_Na...</a> </span></div></span></div>",
+            "created":1308891600,
+            "id":1133746,
+            "title":"Makoto Nanaya"
+        },
+        "123":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Start Lambda-11 story."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lambda-11<br>\r\nRace: Artificially made human<br>\r\nGender: Female<br>\r\nAppearance: White hair<br>\r\nDrive: Sword Summoner II (Opens Portals the launch inter dimensional blades)<br>\r\n<br>\r\nMore info: <a rel=\"nofollow\" href=\"http://blazblue.wikia.com/wiki/Lambda-11\" target=\"_blank\">http://blazblue.wikia.com/wiki/Lambda-11...</a> </span></div></span></div>",
+            "created":1308891600,
+            "id":1133748,
+            "title":"Lambda-11"
+        },
+        "125":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "Ninja!!!(....well good luck)",
+                "marrionet (cool)",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what kind of power do you have???</span></div></span></div>",
+            "created":1308891600,
+            "id":1133719,
+            "title":"New Character"
+        },
+        "1253":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "beastman (mabey i can have a tail.)",
+                "android (affrimitive)",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about your a beastman, or android, or other.</span></div></span></div>",
+            "created":1308891600,
+            "id":1133723,
+            "title":"other"
+        },
+        "12531":{
+            "author_id":"vgm765",
+            "author_name":"UlitmateNeo",
+            "choices":[
+                "YES",
+                "NO"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Eve Willows<br>\r\n<br>\r\nVA: Kira Vincent-Davis(ENG), Mai Nakahara(JPN)<br>\r\n<br>\r\nAge: 23<br>\r\n<br>\r\nBio: When The Black Beast was defeated, it was reincarnated into a small baby called Eve. Her parents raised Eve to be gentle to mostly everyone. However, she had a very traumatic life thanks to her babysitter defiling both her body and her mind. Her dad did give her some therapy though. Growing up was hard on her. People bullied her on a daily basis. As such, she was very lonely at ages 5-11. At age 12 however, Eve made a friend by the name Milly Erson. They became close friends. She has shown but rarely an ability to copy attacks and did not use it for a long time. Eve's body in her early years was considered \"childish\" by many. At age 18 however, puberty hit her with a sledgehammer. Example: she got MANY boys asking her if she had a boyfriend. Everyone was shocked to know that was the girl they bullied in the past. Eve has been seen using her new power willingly. She is still friends<br>\r\nwith Milly to this day.<br>\r\n<br>\r\nRace: Human?<br>\r\n<br>\r\nAppearance: She wears Tomboy clothes when she is not in battle, In battle though she is  the unique thing about her though is the fact she has a tail! She just woke up one day at age 19 and found it at end of her spine. Due to this, the townspeople kicked Eve and Milly (Who was trying to protect her that fateful day) out of said city. She accepted this and they became Level A Rank criminals. She is now retired and is now trying to protect Platinum(keyword is trying).<br>\r\n<br>\r\nPersonality: A mixture of Taokaka, Ragna, and Iron Tager. Due to her past, she will openly attack mostly anyone that touches her or Platinum. As such, it takes a lot of time and patience for her to accept someone as a friend. She is very protective of Milly and surprisingly, children.<br>\r\nStrengths: She's unpredictable in battle and can surprise people with her mimicry.<br>\r\nWeaknesses: If you grab her tail, she will be startled for about 15 seconds.<br>\r\n<br>\r\nPowers: The Black Beast occasionally takes over her body and it has ALL of its powers. Eve,can't (unless her life is at stake) use this<br>\r\nthough.<br>\r\nHer Mimicry allows her to copy an character and gain some of their moves. Problem is, Eve also gains their weaknesses so using this is NOT advised.<br>\r\nShe is quite literally a living weapon.(Think of Peacock from Skullgirls) She also uses said weapons(Hammers, Swords, Drills, Axes, Bats, to name a few) in some of her attacks,(See below)<br>\r\n<br>\r\nSpecial Moves: Tornado Kick: (Think of Ryu from Street Fighter).<br>\r\nWave Sword: Eve swings a sword that lets out a wave of fire that is great for anti-air and zoning. <br>\r\nBook Spin: she throws out a book that spins around in a circle that if blocked, it allows her to get out trouble if it hits. <br>\r\nEve's Coming For You!: She puts on a pair of Krueger claws and launches them a la Rocket Punch and is excellent for extending combos since it holds people for a while. <br>\r\nSpin Dash:(Sonic's Trademark move and can combo into her launcher). <br>\r\nHammer Toss: Eve tosses a hammer in a arc similar to Hammer Bro Mario from SMB3.<br>\r\nPogo Tail: Eve uses her tail to get away or closer to her opponent/can be used in the air<br>\r\nRocket Blast: Eve's arm turn into a cannon that shoots rockets and can be used on the ground or the air.<br>\r\nFlying Divider: She gains wings and rams the opponent and is her main combo extender can be used in the air only.<br>\r\nDrill Kick: Her leg turns into a drill and attacks the enemy/air only.<br>\r\nCopy Cat: Eve thinks to herself before a lightbulb appears and a picture of said character is shown. A gauge appears right above the super bar she then adds shown characters moveset and can use it at anytime/Is random with choice and costs half a bar to use<br>\r\n<br>\r\nNote: She cosplays as different characters in some of these moves abit rarely.<br>\r\n<br>\r\n<br>\r\nDistortion Drives<br>\r\n<br>\r\nGrand Impact: \"Let's see how you handle this!\" Eve grabs the opponent with the Krueger claws, stabs them headbutts them, throws them to the other side of the screen, grabs the enemy AGAIN then does a backbreaker before letting them down./Command grab can be comboed into./Ground only <br>\r\nF-Rush: \"Get a load of this!\" Eve attacks the opponent with a punch before she lets her wings come out and then she rushes at the opponent before she kicks them to the air and goes through them with her wings./Air only <br>\r\nDouble Trouble A.K.A Twin Phantasms; \"Two for one\" Eve splits herself into two/Perfect for starting up combos./Ground only<br>\r\nWeapon Ballet: \"Dance to the beat!\" Eve brings out a TON of weapons and tosses them at the opponent./ton of damage unsafe if blocked./Air only<br>\r\n                                                                      <br>\r\nDrive: <br>\r\n<br>\r\nAstral Heat<br>\r\n<br>\r\n128 1-ups?!: \"Juice and jam time!\" Eve runs in place until she suddenly disappears and reappears spinning around the enemy. While their dizzy, she jumps on their head a la Mario until you hear a 1-up sound. The opponent then comically falls off the stage.<br>\r\n<br>\r\n(If you use Copy Cat successfully three times,) (powers it up any more times)<br>\r\nThe Hell You Think I Am!!!!: \"Let's see you grit those teeth!\" Eve tries to headbutt the enemy. If it connects, Eve uses all three said copied characters special moves in a combo before she throws a familiar pair of shades at the opponent. The shades force the opponent in a spread eagle(Sort of) Eve THEN turns her arm into a very, VERY big drill. Rushing at them she shouts: GIGA! DRILL! BREAKER! Eve then retracts said drill before the opponent blows up.<br>\r\n<br>\r\nTaokaka's name for her: Demon girl(Taokaka met her when The Black Beast was in control. To say it scared her is an understatement).<br>\r\nEve's names for everyone:<br>\r\nRagna: Emo<br>\r\nRachel: Rabbit<br>\r\nHazuma: Orochi<br>\r\nNoel: Guns 'n Roses<br>\r\nBang: Large Ham<br>\r\nCarl: Kid<br>\r\nJin: Jack Frost<br>\r\nTaokaka: KITTY!<br>\r\nArakune: Squiggly<br>\r\nLitchi: Doc<br>\r\nRelius: Monster<br>\r\nKokonoe: Brainy Cat<br>\r\nNu-13: Coocoolander<br>\r\nMu-12: Noel<br>\r\nIron Tager: Gigantor or Lightan<br>\r\nValkenhayn: Old Wolf<br>\r\nTsubaki: Goody Two Shoes<br>\r\nNu-13: Fangirl<br>\r\nLambda-11: Robot Girl<br>\r\nMakoto: SQUIRREL!!<br>\r\nHakumen: Talksalot<br>\r\n<br>\r\nHow about this?</span></div></div>",
+            "created":1323752400,
+            "id":1239278,
+            "title":"Eve Willows"
+        },
+        "125311":{
+            "author_id":"vgm765",
+            "author_name":"UlitmateNeo",
+            "choices":[
+                "A forest",
+                "A building/something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, where do we begin?</span></div></span></div>",
+            "created":1328245200,
+            "id":1270373,
+            "title":"YES"
+        },
+        "12532":{
+            "author_id":"jatx",
+            "author_name":"jin",
+            "choices":[
+                "befor",
+                "arfter"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>is these befor of arfter you where made</span></div></span></div>",
+            "created":1325221200,
+            "id":1249112,
+            "title":"android (affrimitive)"
+        },
+        "125321":{
+            "author_id":"jatx",
+            "author_name":"jin",
+            "choices":[
+                "landa 14",
+                "anamal"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what cind of androd are you are like landa of are you part anamal (you have more feelings)</span></div></span></div>",
+            "created":1325221200,
+            "id":1249115,
+            "title":"befor"
+        },
+        "1253212":{
+            "author_id":"jatx",
+            "author_name":"jin",
+            "choices":[
+                "man",
+                "women"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what gender</span></div></span></div>",
+            "created":1325221200,
+            "id":1249117,
+            "title":"anamal"
+        },
+        "12532121":{
+            "author_id":"jatx",
+            "author_name":"jin",
+            "choices":[
+                "13 (fun dud)",
+                "16 (a bit sereyas)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what age are you</span></div></span></div>",
+            "created":1325221200,
+            "id":1249120,
+            "title":"man"
+        },
+        "125321211":{
+            "author_id":"jatx",
+            "author_name":"jin",
+            "choices":[
+                "cat(kaka)",
+                "your chose"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what anamal</span></div></span></div>",
+            "created":1325221200,
+            "id":1249133,
+            "title":"13 (fun dud)"
+        },
+        "1253212111":{
+            "author_id":"jatx",
+            "author_name":"jin",
+            "choices":[
+                "vail",
+                "your chose"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what is your name</span></div></span></div>",
+            "created":1325307600,
+            "id":1249831,
+            "title":"who is thw hero"
+        },
+        "12533":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about you wield a nox nocturne?</span></div></span></div>",
+            "created":1308891600,
+            "id":1133724,
+            "title":"other"
+        },
+        "125332":{
+            "author_id":"demonstar",
+            "author_name":"demonstar",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a sword master.</span></div></span></div>",
+            "created":1374037200,
+            "id":1629288,
+            "title":"others"
+        },
+        "1253321":{
+            "author_id":"demonstar",
+            "author_name":"demonstar",
+            "choices":[
+                "sure lets go with him.",
+                "some body else."
+            ],
+            "content":"<div class=\"\"><div> <span>Marcus arkem<br>\r\nAge: 20<br>\r\nRace: human?<br>\r\nWeapon: the twin swords purity and coruption.<br>\r\nAppearence: about 5'1' green eyes, brown hair, tan skin,two gold coloured horns on his head.<br>\r\nOutfit: a black hoodie white blood stained shirt (his own blood) black jeans with what apear to be white stands surrounding the legs also brown boots<br>\r\nbackstory: there isn't much to it really when preforming the experiment to pull hawkumen out of the void they pulled marcus out as well except his body was nearly destroyed in the process while hawkumen was completely healthy kokonoe began her experiments on hawkumen while also trying to heal him a few months before hawkumen escapes marcus is fullied healed and offers to work with tagerd and kokonoe in anyway they asked this saddly lead to the poorly answered questions the two had for him being well he doesn't remember squat about his past or why he was sealed in the void all he remembers is a location and his name they head to the location which in a weird way is the first battle ground of the black beast and what is found their is his ars magus. He has worked with them since.<br>\r\n<br>\r\nMove set.<br>\r\nDestructive nature: when enemy is at mid-range marcus can stab his sword to create a small under ground burst of energy comparable to a earthquake at small scale.<br>\r\nElement dance: a spinning slash that hits close range targets with ether fire, ice, or electric side effect.<br>\r\nExplosive personality: a grapple move where marcus will charge the enemy cause his ars magus to create ether a fire or ice explosion on a small scale.<br>\r\nFear slash: a long-range wave of light energy that when hit will cause a person to be stuned for a short perod of time<br>\r\nalt dance: marcus will actually ram the butt of his swords handles repetitivly into the enemy then spin the wround and kick them a small distance.<br>\r\n<br>\r\nAstral heat.<br>\r\nVoid memory: purity and corruption release a flash of light before a corpse like markus falls  what appears to be a miniture clone of the black beast will apear and grab at the enemy and begin to eat him markys the stands up and the black beast vanishes leaveing the enemy<br>\r\n<br>\r\nalt-astral heat (only uses against tagerd and hawkumen)<br>\r\nHatred for a friend: his after nocking the opponent in the air marcus begins to repeat the word friend and allies repetitivly while darkness surrounds him the character falls back to the ground right before falling ontop of marcus he'll say \"forgive me\" and plung purity into them while holding them thier like that he'll throw them to the ground with purity pinning them down jumping into the air he hold corruption as it changes into a shadowy longsword and swings it slashing the person and swallowing them in black flames.</span></div></div>",
+            "created":1374037200,
+            "id":1629303,
+            "title":"okay lets begin"
+        },
+        "12533211":{
+            "author_id":"demonstar",
+            "author_name":"demonstar",
+            "choices":[
+                "Shopping district",
+                "Clock tower."
+            ],
+            "content":"<div class=\"\"><div> <span>(Going to refer to Matthew as you okay.) <br>\r\n<br>\r\nyou sat in your room waiting it had been two days since hawkumen escaped and honestly it wasn't surprising Kokonoe did preform odd experiments on him but still the old guy was risking a lot leaving sector seven and even more with Kokonoe. You waited for your orders you knew Kokonoe had him chipped so it was easy to locate him or so you thought. \"Dammit he ditched the chip!\" You heard a scream from down the hall you peaked out to hear more of the conversation but it kept getting lower so you followed it down the halls. \"Listen Kokonoe you have his last location why not send a team to hunt him down.\" Said another voice \"it's because it's located near a city if we send a team the library will be on our ass before we can find him and he'd probably run.\" \"We'll what about a small team about four or five men?\" You had reached the end of the hall only to see Kokonoe kick the guy in the stomach. \"Idiot it still be noticed and still normal soldiers would get slaughtered by hawkumen strong fighters.\" You walk up to her. \"Then why not send me and Tager we are pretty strong.\" You say she spin with her foot still out smacking you in the face. \"Hmm that could work if you both stay in radio contact and place nodes to track his movement if things get heated.\" She nods while you get back up she then heads down one hallway while you head while you go off to find Tager to inform him of the up coming mission oddly enough you find him in the generator room charging his equipment you informed him of the up coming mission he seems less excited then you but being he's been in wars and hundreds of other missions you get basic tasks around sector seven. You both head to kokonoe's lab she then hands you several tracking nodes and two radios. \"Your missions are to place these tracking nodes they will scan the area for the amount of seather used and locate him and capture him also we have gained information Ragna the blood edge is rumored to be located in the area if you intercept him catch him he has a deadly weapon that we could use.\" She then gives you a GPS device. \" since Tager has GPS installed into him you have to carry this it will give you the location of the points and when all points are placed it will then show hawkumen's location got it.\" You both salute and leave you look at the GPS. \"13th Hierarchical City of Kagutsuchi eh well Tager we'll split these up and hunt down hawkumen deal.\" He just nods and leaves. <br>\r\n<br>\r\nSo where does our character go first. </span></div></div>",
+            "created":1377147600,
+            "id":1650005,
+            "title":"The second being of the void."
+        },
+        "13":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Carl Clover",
+                "Taokaka",
+                "Bang Shishigami",
+                "Nonplayable characters",
+                "New characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So your a Vigilante. Vigilantes work along side the NOL to help capture criminals for reward money. They are kind of like bounty hunters except they work for the overall good.<br>\r\nMore info on Vigilantes: <a rel=\"nofollow\" href=\"http://blazblue.wikia.com/wiki/Vigilante\" target=\"_blank\">http://blazblue.wikia.com/wiki/Vigilante...</a> </span></div></span></div>",
+            "created":1307854800,
+            "id":1124067,
+            "title":"Vigilante"
+        },
+        "135":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "Ninja!!!(....well good luck)",
+                "marrionet (cool)",
+                "something more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of power do you have???</span></div></span></div>",
+            "created":1308891600,
+            "id":1133686,
+            "title":"New characters"
+        },
+        "1353":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "beastman",
+                "android",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about beastman, being an android, or do you want something eles?</span></div></span></div>",
+            "created":1308891600,
+            "id":1133688,
+            "title":"something more"
+        },
+        "13531":{
+            "author_id":"jatx",
+            "author_name":"jin",
+            "choices":[
+                "a cat",
+                "more choses"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what are you</span></div></span></div>",
+            "created":1328245200,
+            "id":1270363,
+            "title":"beastman"
+        },
+        "135311":{
+            "author_id":"jatx",
+            "author_name":"jin",
+            "choices":[
+                "boy",
+                "girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>boy our girl</span></div></span></div>",
+            "created":1328245200,
+            "id":1270366,
+            "title":"a cat"
+        },
+        "1353111":{
+            "author_id":"jatx",
+            "author_name":"jin",
+            "choices":[
+                "start in kagutsuchi",
+                "more choses"
+            ],
+            "content":"<div class=\"\"><div> <span>you are a cat beast-man named shadow you have black huer with whit tips a dark purpal jackit and darck blue t-ee shart difrant eye coler one red and you blue whit skin and black jins.red and black tranes. a arm blades <br>\r\nnice personallety, likes to mack frand's, protatev<br>\r\nhe is one of the bast fiter's arowed. he can use arsmages<br>\r\n drive arttack blazing fury make's the blades go on fier for exstra power<br>\r\nastral attack internal darkness covers him with a dark aura a mack the sky tarn black (oney whan hes mad)<br>\r\nlike Rargna he has a Asher but was born with it the code is the same as Rargna but a bit stronger then him when he sayes 667</span></div></div>",
+            "created":1328245200,
+            "id":1270458,
+            "title":"boy"
+        },
+        "13531112":{
+            "author_id":"weerikkiroo",
+            "author_name":"rikki",
+            "choices":[
+                "yes ill play as shift ",
+                "more choices "
+            ],
+            "content":"<div class=\"\"><div> <span>you are a cat beast man name shift  with tan fur brown hair a red jacket black straight jacket like shirt orange eyes that you keep behind sunglasses you for go foot wear and just use training wraps as foot wear. your weapons of choice are two claw like gauntlets called nox and lumos, your personality keeps most people at arms length but your generally happy to talk if the topic interest,s you your like include fish and training    your drive attack  eclipse cannon you bring your claws together and fire a small but fast traveling beam. astral your claws glow black (nox) and white (lumos) you rush the enemy and blind them,with a slash from lumos and slash with nox causing the enemy to smash into the ground you then drill them into the ground. your wights are released with the phrase level 1 release          </span></div></div>",
+            "created":1385182800,
+            "id":1698261,
+            "title":"more choses"
+        },
+        "1353112":{
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span>Name:Koyo Hibane<br>\r\nPersonality:Fun-loving and kinda ditzy<br>\r\nAppearance:Short blue hair,ears,and tail,has large blue eyes<br>\r\nClothes:black tank top,blue short shorts,white headband<br>\r\nAbilities:uses mainly hand-to-hand combat,but can use chi energy</span></div></div>",
+            "created":1354597200,
+            "id":1481787,
+            "title":"bubbly kitty"
+        },
+        "13531121":{
+            "choices":[
+                "Lets start Koyo's story"
+            ],
+            "content":"<div class=\"\"><div> <span>Appearance(cont.):Mostly human aside from cat ears and tail,has long legs,and an ample bosom,<br>\r\n(other than that same as last page)<br>\r\nAttire(cont.):blue and white shoes w/ black thigh-high socks<br>\r\nHeight:5\"9<br>\r\nDrive:Tenshoken<br>\r\nDistortion Drives:Super Focus:focuses her energy into herself to up her speed and power for a bit<br>\r\nCat Hand Smash:after a quick flurry of kicks Koyo lauches the opponent skyward with powered-up punch<br>\r\nAstral Heat: Koyo Impact: after series of strikes,Koyo focuses her full power in her fist and blasts the opponent into<br>\r\nth sky.<br>\r\n<br>\r\nKoyo became a vigilante shortly after coming to kagutsuchi,there she met Bang,Carl,and Taokaka and they became good friends. Koyo loves to fight and she likes adventure,she dreams of meeting Ragna the Bloodedge.<br>\r\nKoyo has been hearing rumors going on about the NOL's activities so she heads off to find out more </span></div></div>",
+            "created":1354597200,
+            "id":1481829,
+            "title":"Bio cont."
+        },
+        "13533":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about hand to hand combat?</span></div></span></div>",
+            "created":1308891600,
+            "id":1133690,
+            "title":"other"
+        },
+        "135332":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You wield a nox nocture? (hope I got the spelling right)</span></div></span></div>",
+            "created":1308891600,
+            "id":1133694,
+            "title":"no"
+        },
+        "14":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Hakumen",
+                "Jubei",
+                "Valkenhayn R. Hellsing",
+                "Terumi/Hazama",
+                "Platinum the Trinity"
+            ],
+            "content":"<div class=\"\"><div> <span>So you are one of the Six Heroes. The Six Hero's arrived during the Dark War when the human race was on the brick of extinction from the Black Beast. Nine, one of the heroes taught the art of magic to the humans which combined it with Science to developed the Ars Magus. With the Ars Magus and the Six Heroes help they defeated the Black Beast. Later on Terumi betrayed the Six Hero's and Killed Nine. The remaining Six Heroes now go their separate ways<br>\r\nMore Info on the Six Heroes: <a rel=\"nofollow\" href=\"http://blazblue.wikia.com/wiki/Six_Heroes\" target=\"_blank\">http://blazblue.wikia.com/wiki/Six_Heroe...</a><br>\r\n<br>\r\n(Note: You can't make a New character for this option.)</span></div></div>",
+            "created":1307854800,
+            "id":1124082,
+            "title":"The Six Hero\u2019s"
+        },
+        "15":{
+            "author_id":"aurawolf",
+            "author_name":"AuraWolf",
+            "choices":[
+                "Ragna the Bloodedge.",
+                "Rachel Alucard.",
+                "Arakune.",
+                "Litchi Faye-Ling",
+                "New Character"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok so you arn't a part of any group then. Who are you?</span></div></span></div>",
+            "created":1307854800,
+            "id":1124089,
+            "title":"Not part of a group."
+        },
+        "151":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "Ragna",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you Ragna, or someone else?</span></div></span></div>",
+            "created":1308891600,
+            "id":1133735,
+            "title":"Ragna the Bloodedge."
+        },
+        "1512":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So your a new character....Is your character male of female?</span></div></span></div>",
+            "created":1308891600,
+            "id":1133743,
+            "title":"someone else"
+        },
+        "15121":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span>Character name: Riley Son<br>\r\n<br>\r\nProfile: He was once a child of a deranged mother who saw him as his father, and faced abuse through many years before she over stepped her limits and tried to commit murder. Before she got the chance Riley ran out of the house with all his might. He later was on the brink of death before Ragna decided to help him. Ragna gave him a place to stay and helped him return to great health. He follows him as to make up for a life debt, and will not take Ragna's opion to leave him alone into consideration.<br>\r\n<br>\r\nAge: 13<br>\r\n<br>\r\nDescription: Dark brown hair, red eyes, swimmer's body, scars along his body, 5'7 wears  a black t-shirt, and jeans with a chain through the belt loop, and red vans.<br>\r\n<br>\r\nAblities: hand to hand combat, has some manipulation amoung the elements but not ridiculous amount.<br>\r\n<br>\r\nRelations with others: Ragna sees him as a little brother (but never ever admits it), Rachel finds his antics with Ragna amusing, Jin wants to kill him (go figure), Nu has a crush on him (small but its there!).  <br>\r\n<br>\r\nDistorion finish \"Wind ki\": Hits opponets a 5 times before sending them flying with a gust of wind.<br>\r\n<br>\r\nAstral Finish: \"Grand Palm\": Literraly comes with a flurry of kicks sending the opponet up in the air before the opponet falls to the ground he generates fire, water, and wind to strike opponet, and finally uses his fist to finish the off.</span></div></div>",
+            "created":1308891600,
+            "id":1133768,
+            "title":"Male"
+        },
+        "151212":{
+            "choices":[
+                "Yes",
+                "No (another male)"
+            ],
+            "content":"<div class=\"\"><div> <span>\u00d1ame: The Bloodedge (In respect to ragna) Age : 13 Appearance: spiky black hair point to the right and is a couple inches shorter than ragna Powers: he has a katana that looks like jin's but you control fire Drive: flame wall he stabs the floor and 2 feet from him gets engulfed by fire Astro: over heat stabs the target and it heats to the point of melting History: He meets Ragna when he set his house on fire with is powers. Ragna felt sorry for him and took him as a younger brother. When Jin found out he become jealous and wants to kill him now. He has a crush on Noel (he met her when he and ragna went there for a check up) Tao calls him mini good guy. Now the nol has put the same bounty on his head that ragna has. Note this takes place during countiam shift</span></div></div>",
+            "created":1312606800,
+            "id":1162351,
+            "title":"Ragna's new apprantice"
+        },
+        "1512122":{
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Damon Strider<br>\r\n<br>\r\nAge: 16<br>\r\n<br>\r\nAppearance: Short black hair with bangs in the front, body is medium built, eyes steel grey, 6,1 in height, clothes consist of a silvery-gray hybrid jacket with a hood left open, a black shirt with a high collar covering his mouth along with a zipper down the middle to open the color, baggy cargo pants with many pockets, white and black running shoes for free-running, black fingerless gloves.<br>\r\n<br>\r\nAbilities: Manipulation of light allowing him to move at the speed of light and firing energy blasts. He is also able to teleport and form solid object made from light particles.<br>\r\n<br>\r\nPersonality: A very stotic character, he can be very sarcastic with people and is known to be a wise cracker. Taunts his enemies and sometimes Ragna causing him to get on his nerves.Quite brutal in battle to his enemies. Has a tendency to be oblivious to things and doze of when some one is ranting or talking. But he is caring of his friends and kind to the innocent. Doesn't take shit from nobody.<br>\r\n<br>\r\nWeapon: Ravager( A bastard sword great-sword hybrid)<br>\r\n<br>\r\nRelationship: In Ragna's eyes he's seen as close friend and little brother(but he will not admit it) but will sometimes get in fights and crazy antics with him, Gets along well with Rachel who finds him quite interesting when having conversations with. He finds Nu to be strange and adorable but gets strange vibes from her. Has an attraction towards Makoto. Taokaka compares and contrasts him with Ragna and always gropes him when they meet. Jin is jealous of him and wants him dead, usually is ignored by Damon or brushed off. Gets along well with Noel also.<br>\r\n<br>\r\nHistory: Had a loving family until his father disappears one day leaving him with his mother, they believe he is dead. When he was 13 a group of monsters attacked his town and was almost killed until he was saved by Ragna. His mother wants him to make a life for himself and left him go with Ragna. From there he met lots of people and trains with Ragna. <br>\r\n<br>\r\nDistortion attack: \"white flash bang\" Uses his light to alter his speed and deliver swift slashes from his sword and finishes with a energy blast<br>\r\n<br>\r\nAstral Finish: \" Heaven's judgement\" Launches his opponent into the air with an uppercut then teleports above them slashes them with his sword. After slashing them he throws them back to the floor but before descending to the floor he materializes four floating swords of light and commands them to impale his enemy.  </span></div></div>",
+            "created":1324443600,
+            "id":1244082,
+            "title":"Ragna's Companion "
+        },
+        "15121222":{
+            "choices":[
+                "Yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Shadow Bloodedge (not his real name, but he discarded his old one)<br>\r\n<br>\r\nAge: 13<br>\r\n<br>\r\nAppearance: He is 5'4. He has shoulder length black hair with a red and white streak in it. He has mismatched eyes, one being snow white and the other being black. He wears a sleeveless shirt that has a large collar that ends at his chin and a skintight black jacket that covers his arms so no one can see a long scar on it. He wears black and white shorts with steel toe sandals. He also wears headphones that are almost always around his neck and fingerless black gloves.<br>\r\n<br>\r\nAbilities: He can control darkness and shadows. He is able to move around quickly by walking or jumping into a shadow. He also can control sound when he puts on his headphones.<br>\r\n<br>\r\nPersonality: He is emotionless to people, but also very kind. He can also be shy around girls and very brutal to people who deserve his anger.<br>\r\n<br>\r\nWeapon: When he puts his headphones on his head, he can control sound. His gloves allow him to shoot darkness out at people. He also carries around a katana on his back that has the ability to change into a huge sword like Ragna's when Shadow needs it too<br>\r\n<br>\r\nRelationship: He is very good friends with Ragna who took care of him after Shadow was abandoned and he looks up to him as a big brother. Shadow and Jin hate each other because Jin tries to kill him everytime they meet and Shadow hates him because Jin keeps trying to kill him. He is good friends with Litchi, Noel, and Lambda (Nu) and has a crush on all three of them. He is also good friends with Rachel because they both amuse each other.<br>\r\n<br>\r\nHistory: When Shadow turned 6, he was abused by his mom and dad because Shadow has accidently killed one of their friends with his shadow powers. Shadow tried to fight back to protect himself, but he knew it was futile since he got his powers from his parents. After two years of this, Shadow was saved by Ragna who was passing by on one of his walks. After Shadow watched Ragna beat down, but not kill his parents, Shadow was amazed at this and begged Ragna to take him. Ragna at first refused, but Shadow kept begging until Ragna agreed. After 4 years, Shadow decided to go separate ways with Ragna, but told him that they will meet again. On his one year journey, he met many people and became a villian with a high bounty on his head because of his killing of officers who attacked him when they found out his last name was Bloodedge. When this starts, Shadow is heading off to find Ragna after hearing about the events that happened in Calamity Trigger.<br>\r\n<br>\r\nDistortion attack: Shadow Destruction - He uses his shadow powers to tie up his enemy and then runs at them after taking out his katana and hits them with several blows, he then shoots out other shadows from the ground and crushes them.<br>\r\n<br>\r\nAstral Finish: Yami's Judgement - Shadow's body glows black with energy before a pillar of darkness shoots out around him. After it goes away, a large demon looking figure appears over Shadow and stares at the enemy. If the person is horrible in its eyes, it grabs them and crushes them to death before disappearing. If they are good then it leaves. Only people who are incredibly strong can survive this attack.</span></div></div>",
+            "created":1340600400,
+            "id":1366793,
+            "title":"Shadow Bloodedge"
+        },
+        "15122":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "yes",
+                "np"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Amy Lilth<br>\r\n<br>\r\nProfile: A girl who is being hunted after her defection from the NOL, and is currently being tailed. She meet Ragna by accident and he took down the NOL officers that pursued her. She now follows him out of curiosity....Isn't he  aspoused to be a heartless villian?(and mabey a little revenge on NOL!!)<br>\r\n<br>\r\nPowers: uses a variety of martial arts, and speed.<br>\r\n<br>\r\nDescription:blue hair (long), blue eyes, b cup,, wears a gi<br>\r\n<br>\r\nRelations: Ragna (neutral), Rachel (jelous....), Jin (who cares), Nu (jelous).<br>\r\n<br>\r\nDistortion Finish: \"7 hit combo\": Four punches and three kicks.<br>\r\n<br>\r\nAstral Finish: \"Present\": gives oppents flowers and runs off before it explodes sending the entire area she is in aflame.<br>\r\n<br>\r\n<br>\r\n<br>\r\n </span></div></div>",
+            "created":1308891600,
+            "id":1133782,
+            "title":"Female"
+        },
+        "152":{
+            "author_id":"true.switcher",
+            "author_name":"KingHearts",
+            "choices":[
+                "Rachel",
+                "one of her servents",
+                "new character"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you Rachel, one of her servents, or someone eles?</span></div></span></div>",
+            "created":1308891600,
+            "id":1133739,
+            "title":"Rachel Alucard."
+        },
+        "155":{
+            "choices":[
+                "run",
+                "FIGHT!"
+            ],
+            "content":"<div class=\"\"><div> <span>so we start out with a long red (pure red) haired boy named darkness. he isn't like many others, he's a demon. so let us begin. \"heh i just stole ragna's sword!\" said darkness. then all of asudden a couple of NOS guards run in. \"there he is get em!\" said one of the guards. \"oh c'mon! i don't even look like ragna for god sake!!!\"</span></div></div>",
+            "created":1309669200,
+            "id":1139329,
+            "title":"New Character"
+        },
+        "1552":{
+            "choices":[
+                "taucaca (the girl with the cat hood) shows up ",
+                "zombies come back from the dead",
+                "New character arrives"
+            ],
+            "content":"<div class=\"\"><div> <span>darkness takes out the sword and uses his drive attack (chuck norrous) (causes the sword to turn to anti-matter and explodes but the explosion dosn't affect the weilder of the sword) so now the guards are abbliterated and now darkness starts runing</span></div></div>",
+            "created":1309669200,
+            "id":1139331,
+            "title":"FIGHT!"
+        },
+        "15523":{
+            "author_id":"attackman234",
+            "author_name":"lolman",
+            "choices":[
+                "Continue with Jake,at lost town",
+                "New character"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Jake...*No records of last or middle name*<br>\r\nRace: Beastkin(Cat)<br>\r\nDate of Birth: February 2nd<br>\r\nGender: Male<br>\r\nHeight: 5'1\"<br>\r\nEyes: Blue<br>\r\nHair: Jet black<br>\r\nBlood type: AB<br>\r\nDrive: Scythe trail<br>\r\nStatus: Active<br>\r\nRelatives: Ragna (Short-term trainer)<br>\r\nTaokaka(Friend)<br>\r\nLikes: Helping,training<br>\r\nDislikes: Fighting,trouble.<br>\r\n<br>\r\nAppearance: Jake is... a rather strange boy,getting strange looks from everyone he passes...possibly because of the rather big scythe he carries behind his back.The scythe's handle looks like a large black stick,but the blade at the top is white and looks razor sharp.Jake is tanned skinned,wears a black and blue striped hoodie,and black pants,with a white diamond shaped pattern on the right leg.He also has black cat ears sticking out from the top of his head.<br>\r\n<br>\r\nInfo:Jake was born a beastkin,in Lost Town,where he was always getting strange looks from many(since he was possibly the only one that didn't wear a jacket like Taokaka.)One day,he found an odd looking scythe,which seem to have a mind of its own.It was rather hard to control the scythe,since the scythe seems to want to fight constantly.It wasn't until Ragna came along,that he knew that the scythe was a complete part of him now,but feeling sorry for him,Ragna trained Jake,so that he had better control of it.However,Ragna suddenly disappeared right,behind his back,and Jake still didn't know how to fully control the scythe.Soon,Taokaka decided to help Jake control the scythe...although she was not useful.However,Tao and Jake seemed to grow more attached to each other,and soon set the same goals to become a Vigilante.Despite knowing his real name,Tao nicknamed him \"First name man\" and \"Death cat\"<br>\r\n<br>\r\nPersonality: Jake is kind of a mood depending person.When something sad happens,he's in a good mood.When something bad happens,he's mad.He is almost constantly shying at Taokaka's innocence.He's kinda sarcastic about situations that he knows that he can win.His scythe,however,sometimes get him in a losing position.</span></div></div>",
+            "created":1327899600,
+            "id":1268367,
+            "title":"Jake..."
+        },
+        "155231":{
+            "author_id":"attackman234",
+            "author_name":"lolman",
+            "choices":[
+                "It made itself look cooler...",
+                "Something happened!!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hold on there,Jerk-o!\"Yelled Jake,as he chases his scythe in close pursuit.Once again,the scythe has him running all over the place.Jake was nearly in reach with his scythe,until the scythe quickly changed direction,and led Jake running face first into a wall.It hurt very badly,and he held his nose in pain.<br>\r\n<br>\r\n\"Ow...\"Jake said,under his breath.As Jake tried to regain his composition,he felt someone jumping onto his back.It was heavy too,it almost made Jake fall over.<br>\r\n<br>\r\n\"Hey,Deathcat,Tao finally caught up with you.\"He heard of a voice very familiar.<br>\r\n<br>\r\n\"Hey,Tao...uh...could you get off me please?\"Jake asked,which Tao did so.<br>\r\n<br>\r\n\"I saw you running towards your scythe again,Deathcat,so Tao decided to join you.\"<br>\r\n<br>\r\n\"I really didn't want to reason for following me...but,ok.\"Jake quickly inspected the area,soon looking at his scythe,spinning in circles in front of a...clinic.<br>\r\n<br>\r\n\"Hey...Why are you doing that!?\"Jake the scythe,as he ran by its side,avoiding the blade on top.<br>\r\n<br>\r\n\"Wait a minute...Tao knows this place!!\"Tao's shouts were like a nail a against a chalkboard to Jake's ears.<br>\r\n<br>\r\n\"What!?\"Jake yelled back at Tao.<br>\r\n<br>\r\n\"We are in Orient Town!Tao knows this place!\"She quickly ran up to the clinic's window,and slammed her face onto it.This must have been the place where...\"Boobie\" lady works.<br>\r\n<br>\r\n\"Is this the place,where...the...lady heals people?\"Jake asked,walking up the clinic's door.<br>\r\n<br>\r\n\"YEAH!!Let's go inside!!\"Tao quickly rushed in,pushing Jake in with her.For some reason,Jake though all clinics looked dirty,but he changed his thought when he saw how clean this clinic is.<br>\r\n<br>\r\n\"Whoa...\"Jake quickly looked around...seeing that everything was as clean as it could be.<br>\r\n<br>\r\n\"Hold on,i'll be out in a minute.\"A very feminine voice,came from somewhere,but Jake couldn't figure out where.He looked at his scythe,which turned towards him.If his scythe had arms and eyes,he would be shrugging like Jake right now.<br>\r\n<br>\r\n\"Uh...Tao,whe-...Tao!?\"Tao disappeared behind his back!Funny,it reminded him of Ragna.Jake could hear faint voices in his ears.He couldn't clearly hear them.<br>\r\n<br>\r\n\"...........\"<br>\r\n\"Huh?........\"<br>\r\n\"He.......scythe.....own.\"<br>\r\n<br>\r\nLooks like Tao,and the other lady are talking about Jake.<br>\r\n<br>\r\n\"Hey...\"Jake started,as his scythe turned to him.\"What do you think,they are talking about?\"The scythe didn't respond...strike that...he COULDN'T respond.<br>\r\n<br>\r\n\"Right.\"Jake said.<br>\r\n<br>\r\n\"Oh,so your the guest today.\"Jake looked forward,seeing a lady...and almost having a nosebleed.Jake could see a clear view of her.This lady was very...uh...cute,it was making Jake blush...lightly of course.The scythe was twitching,like it was laughing.<br>\r\n<br>\r\n\"Are you Jake?\"She asked,walking up to Jake,which was making him blush even more.The scythe was twitching even more.Jake angrily grabbed his scythe and tired to hide it behind his back,which failed,since the scythe was bigger than him.Luckily,if Jake his holding his scythe,he can control it to do whatever he want to do.<br>\r\n<br>\r\n\"Y-Y-Yes...Ma'am...\"Jake shyly said,not looking into her eyes.<br>\r\n<br>\r\n\"Are you sick?Your face is red.\"Oh man,she can see him blushing,making things more awkward for him.<br>\r\n<br>\r\n\"Jake is just hot.It is warm outside.Tao thinks that Deathcat's burning up.\"Tao said,appearing next to the lady.<br>\r\n<br>\r\n\"I'm fine...it's just...that...*sigh*...what is your name?\"Jake asked.<br>\r\n<br>\r\n\"I told you before Deathcat, it's 'Boo-'\"The lady,closed Tao's mouth before she could finish.<br>\r\n<br>\r\n\"My name is Litchi...Litchi Faye-ling.And you are?\"<br>\r\n<br>\r\n\"I'm Jake.Nice to meet you Boo--I mean Ms.Litchi.\"Jake was so focused on her,that he dropped his scythe,which stood up straight next to him.<br>\r\n<br>\r\n\"Hm?\"Litchi quickly noticed his scythe was standing on its own.<br>\r\n<br>\r\n\"Your scythe has a mind of his own.Interesting...\"She said,trying to get a closer look,but the scythe made a short hop backwards.<br>\r\n<br>\r\n\"I don't think the scythe likes new people.\"Jake said,grabbing his scythe.<br>\r\n<br>\r\n\"Funny...your scythe has a mind of its own...yet,when you grab it,it's like it was never alive in the first place.\"Litchi said,touching the blade part of the scythe.<br>\r\n<br>\r\n\"That's because Deathcat doesn't know how to control the scythe when he's not holding it.'Good guy' taught him to control it.\"Tao explained.<br>\r\n<br>\r\n\"She's right,I don't know how to control it,when i'm not grabbing it.\"Jake said,as he dropped his scythe,which stood up.<br>\r\n<br>\r\n\"Maybe you just need to control the Armagus inside of a bit better.\"<br>\r\n<br>\r\n\"Like how?\"<br>\r\n<br>\r\n\"Hm...oh!You see this.\"Litchi pulled a pendant out of her hair,which had a Yin-Yang symbol on it.<br>\r\n<br>\r\n\"With this,I can control my staff with ease.\"She placed the pendant back in her hair,and she waved her hand,which a staff came hopping and stopped right next to her.<br>\r\n<br>\r\n\"Oh!I see.Maybe we need something for you.\"Jake said,looking towards his scythe.The scythe seemed to be shaking for some reason.<br>\r\n<br>\r\n\"Maybe we can try this Deathcat!\"Tao came running towards Jake,with a red ribbon in her hands.Litchi looked at Tao,very curiously.<br>\r\n<br>\r\n\"Tao,where did you get that ribbon.\"Litchi asked.<br>\r\n<br>\r\n\"I found it...Meow.\"Tao said,handing me the ribbon.Litchi rolled her eyes.Maybe Tao stole the ribbon...but who cares,maybe the ribbon will help him control his scythe.<br>\r\n<br>\r\n\"Hope this works.\"Jake said,as tied the ribbon onto his scythe.He took three steps back,and laid his eyes on his scythe.<br>\r\n<br>\r\n\"So...you feel any different?\"Jake asked.<br>\r\n<br>\r\nAt first,the scythe shaked itself...then...</span></div></div>",
+            "created":1336885200,
+            "id":1336150,
+            "title":"Continue with Jake,at lost town"
+        }
+    },
+    "info":{
+        "author_id":"aurawolf",
+        "author_name":"AuraWolf",
+        "brief_description":"The Wheel of Fate is Turning. What part will you play in it's cycle.",
+        "created":1307851980,
+        "description":"<td align=\"left\" class=\"norm\">Welcome to the 13th Hierarchical City of Kagutsuchi. This is one of many Hierarchical cities built after the Dark War in order to escape from the seithr that now covers the surface of the earth. The city is governed under the watchful eye of the Novus Orbis Librarium (NOL or Library for short). Although the NOL protects the people, the people don\u2019t like how they operate and limit access to the Ars Magus (A combination of magic and science.) however no one has been capable of facing them. But one day a single man, Ragna the Bloodedge took on the library and single handedly over though several of there HQ.  Ragna is now in Kagutsuchi were the NOL, Sector Seven, and several vigilantes are waiting to take him down. <br>\r\n<br>\r\nThis is a Blazblue Fan fiction. You can create your own character or make your own story using characters from the game. Also you can do a main story, or if you like a gag reel.  I will provide links for more information for any one that doesn\u2019t know about the game and characters.<br>\r\n<a class=\"blue2roll\" rel=\"nofollow\" href=\"http://blazblue.wikia.com/wiki/BlazBlue_Wiki\" target=\"_blank\">http://blazblue.wikia.com/wiki/BlazBlue_Wiki</a><br>\r\n<br>\r\nRules.<br>\r\nI want everyone to have fun with this but I have a few rules.<br>\r\n<br>\r\n1) When you make a new character, please make a small bio for them. (Also please add the characters Drive move along this section.)<br>\r\n<br>\r\n2) When you make a character please leave the option to make a new one<br>\r\n<br>\r\n3) You don\u2019t have to follow the story line of the Blazblue games but do try to keep the characters in context. (I will provide links for more detailed descriptions on there bio pages) <br>\r\n<br>\r\n4) I know that there is swearing in the game but if it is done to the extreme I will remove the chapter.<br>\r\n<br>\r\n5) I know Taokaka always makes the comments about Litchi being (clears thought) \u201cGifted\u201d But if anything along these lines are over used I will remove them (I want to keep this a 13+ story.)<br>\r\n<br>\r\nHave fun. </td>",
+        "id":1784422,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1385253300,
+        "modified":1385253300,
+        "pretty_title":"Welcome to the world of BlazBlue."
+    }
+}

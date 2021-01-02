@@ -1,0 +1,61 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Season1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5"
+            ],
+            "content":"<div class=\"\"><div> <span>Welcome all, to Fictional Faceoff! Where characters from all across the Multiverse do battle! Feel free to take a look ahead at upcoming seasons and future battles, or suggest some of your own to the creator. Just remember, it's fictional characters only. Now, let the battles begin!</span></div></div>",
+            "created":1591144620,
+            "id":2844974,
+            "title":"Welcome to the Show"
+        },
+        "11":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Dragonborn vs Link",
+                "John Wick vs Agent 47",
+                "Samurai Jack vs Inuyasha",
+                "Gandalf vs Voldemort",
+                "Continue"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Season 1, episodes 1 to 4.</span></div></span></div>",
+            "created":1591144860,
+            "id":2844976,
+            "title":"Season1"
+        },
+        "115":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Beetlejuice vs Ghostbusters",
+                "Predator vs Terminator",
+                "Darth Vader vs Sauron",
+                "Mario vs Crash Bandicoot",
+                "Continue"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Season 1, episodes 5 to 9.</span></div></span></div>",
+            "created":1591145220,
+            "id":2844980,
+            "title":"Continue"
+        }
+    },
+    "info":{
+        "author_id":"jfoxx",
+        "author_name":"Johnny Foxx",
+        "brief_description":"Characters from all media battle to the finish!",
+        "created":1591144200,
+        "description":"<td align=\"left\" class=\"norm\">You read the description, so you know what to expect. Feel free to send me suggestions for future fights, but please do not make additions of your own. Unless you'd like to be a special guest, so to speak. In which case, Let me know what fight you want to do, and if I like it, I'll give you permission to post it. Any unauthorized additions will be deleted. Now, let's get to the action!</td>",
+        "id":2223339,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1591145220,
+        "modified":1591145220,
+        "pretty_title":"Fictional Faceoff"
+    }
+}

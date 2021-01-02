@@ -1,0 +1,1055 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Orgrimmar",
+                "Stranglethorn Vale",
+                "Stormwind",
+                "An Ogre Mound",
+                "Unknown/Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Your name is Joseph Lutris, a fledgling mage just learning the ways of magic. You might not know many spells, if any, but you have a lot of heart. While studying, you were asked to come help your tutor with an experiment, <br>\r\n<br>\r\nThe experiment constituted being put through a portal. You didn't have much issue with that, at least until your tutor mentioned one thing.<br>\r\n<br>\r\n\"I don't know where this goes, but I know you'll shrink!\" <br>\r\n<br>\r\nYou didn't have much of a chance to respond as you were pushed through, falling until you hit the ground with a thud.<br>\r\n<br>\r\n<br>\r\nYou looked around you...and you were certain you had been shrunk.<br>\r\n<br>\r\n<br>\r\nLooking at your surroundings...where are you?</span></div></div>",
+            "created":1301288400,
+            "id":1077595,
+            "title":"The story begins..."
+        },
+        "11":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "The Barracks",
+                "The Troll Area",
+                "The Goblin Slums",
+                "The Shaman Quarters",
+                "The Warchief's Chambers"
+            ],
+            "content":"<div class=\"\"><div> <span>There is no mistaking it. You're in Orgrimmar. You're also an inch tall. <br>\r\n<br>\r\nThe city was a bit more active since the downfall of Garrosh, the races of the Horde all within one city once more. This did not bode well for your little human self.<br>\r\n<br>\r\nThe night had fallen it would seem, the lot of the Horde mostly asleep or gone elsewhere, but it was clear that the city was still very much alive, stamping feet, boots, and other forms of motion all around your little self. It looked like nobody was looking down at the ground, keeping you without being seen. Whether that meant you were safer was a question of its own.<br>\r\n<br>\r\n<br>\r\nYou need to find shelter and have a few options. You don't remember Orgrimmar very well, but you know the general outline.</span></div></div>",
+            "created":1414040400,
+            "id":1876569,
+            "title":"Orgrimmar"
+        },
+        "111":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Be cautious, go slow.",
+                "Run in!",
+                "Maybe you should try the tavern..."
+            ],
+            "content":"<div class=\"\"><div> <span>While everywhere else was right out in the open, you figure heading for the Barracks would at least give you plenty of places you could hide yourself in. Being careful to avoid being in the main paths, you work your way into the Valley of Honor, into the large building meant to train the Horde's most physically fit warriors. Inside...nothing but orcs. Big ones. Most of them were clad in plate, but the ones that weren't training were mostly nude, save for a cheap piece of cloth to hide their modesty. Going in could be difficult, as the only entrance is quite small, making it more likely that something will happen.</span></div></div>",
+            "created":1437973200,
+            "id":2013122,
+            "title":"The Barracks"
+        },
+        "1111":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Yell up at the orc for help!",
+                "Nuts to this! Run for it!",
+                "Stand your ground!"
+            ],
+            "content":"<div class=\"\"><div> <span>Fools rush in. It's why you were a mage to begin with. Leave it to those idiot warriors, paladins, and death knights to charge in blindly. You take it slow, trying to avoid being spotted, and make some headway getting inside. Slow and steady wins the race and all that.<br>\r\n<br>\r\nAt least, that's the idea. As you make your progress, an enormous green foot stomps down in front of you from out of nowhere! You yelp and fall back, eyes wide on the enormous foot before you, and you find yourself staring back into the cold, uncaring eyes of one of the orc guards. He's spotted you, and that footfall could have easily came down directly on YOU.<br>\r\n<br>\r\nYou could always try and call up to him. Admittedly, you DO need help, and this could be your chance. On the other hand, he could be toying with you - you don't want to take the chance that he's actually GOING to step on you, do you? But, orcs respect strength and courage, right? You could always just stand up and stand your ground, show him you're not afraid.<br>\r\n<br>\r\nYour mind races. What do you do?</span></div></div>",
+            "created":1437973200,
+            "id":2013178,
+            "title":"Slow and Steady"
+        },
+        "11111":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "He understood you!",
+                "His face takes an angry turn."
+            ],
+            "content":"<div class=\"\"><div> <span>Ever since the conflict with Garrosh had ended, there was hope for peace amongst Orcs and Humans. This might be the chance you need to get some help from an unorthodox source. Gripped with fear, you have no choice but to call out for help.<br>\r\n<br>\r\n\"S-Sir! Lok'tar! I don't know how I got here, but I'm in very dire need of some assistance! I need to get back to my normal size!\"<br>\r\n<br>\r\nThe sentence felt stupid coming from your lips, but it was the only thing you could think of at the time.<br>\r\n<br>\r\nHe looks down at you, one brow raised.</span></div></div>",
+            "created":1437973200,
+            "id":2013215,
+            "title":"Yell up at the orc for help!"
+        },
+        "111111":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "\"A spy wouldn't expose himself!\"",
+                "\"I'm not a spy, I'm an apprentice mage!\""
+            ],
+            "content":"<div class=\"\"><div> <span>The orc stares at you for a long time. It feels like hours, almost as though the Bronze Dragonflight decided to slow things down just for this exact moment. You feel a bead of sweat going down your neck as you silently begin to panic. This was a bad idea. This was a terrible idea. This brute was going to squash you and you know it.<br>\r\n<br>\r\nA low grumble came from the giant orc, and his eyes narrowed down at you. \"Human.\" he said, with a twinge of disgust in his voice, \"Punier than normal. And you want MY help?\"<br>\r\n<br>\r\nWell, he was talking and not trying to crush you, so you might have your foot in the door, so to speak.<br>\r\n<br>\r\n\"And why should I help you at all?\" he asks with a sneer, \"You could just be a little Alliance spy sent to infiltrate the city. I should smash you where you stand!\"<br>\r\n<br>\r\nSo much for that idea. You have to talk fast if you want to keep this conversation going the way you want it to go. What do you say?</span></div></div>",
+            "created":1438059600,
+            "id":2013580,
+            "title":"Conversing with the Enemy"
+        },
+        "1111111":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Taking you to his commander.",
+                "Putting you out of your misery."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Come on! You have to understand that a spy wouldn't reveal himself, especially not at this size!\" You cry out, hoping to appeal to the orc's sensibility and logic. It made sense, at least.<br>\r\n<br>\r\nYou could tell that the orc was mulling it over in his head while he looked at you. Despite your immediate attention on his face, you couldn't help but notice when his toes started to curl, digging into the floor. He finally snorted, nodding his head once.<br>\r\n<br>\r\n\"You might be a spy anyway, but you're puny. I will help.\"<br>\r\n<br>\r\nFINALLY, Some kind of success! He helps, simply by...</span></div></div>",
+            "created":1438059600,
+            "id":2013613,
+            "title":"\"A spy wouldn't expose himself!\""
+        },
+        "1111112":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "content":"<div class=\"\"><div> <span>\"I'm a mage, damn it! Not a spy! Do I look like I could possibly be a spy in this garb?\"<br>\r\n<br>\r\nThe orc only nodded his head. \"Yup.\"<br>\r\n<br>\r\nYour face went from hopeful to horrified in a manner of an instant as the orc got a sick grin.<br>\r\n<br>\r\n\"If you ARE a spy, you're the enemy. If you aren't a spy, nobody knows you're here.\"<br>\r\n<br>\r\nAnd with that, he lifted his massive green foot over your head, his toes curling just a little in a teasing display. He had you right where he wanted you and there wasn't a chance to get away. The green sole came down with remarkable speed, the training of a warrior shining through as-<br>\r\n<br>\r\n<b><span class=\"cred\">CRUNCH!</span></b><br>\r\n<br>\r\nWith a twist on the ball of his foot, the orc finished you off, scraping your remains on the stone floor.<br>\r\n<br>\r\nYou've met your end at the feet of your enemy.</span></div></div>",
+            "created":1438059600,
+            "id":2013614,
+            "title":"I doesn't matter what you wear."
+        },
+        "111112":{
+            "author_id":"huntingdragon",
+            "author_name":"casper",
+            "choices":[
+                "Mage speed wins",
+                "Grunt speed wins"
+            ],
+            "content":"<div class=\"\"><div> <span>That massive orc's face turn into an angry sneer while you stood still hoping for help. His lips parted to reveal more of those tusks along with the smaller teeth around them. Gulping in fear you knew this was something you should be you should be running from as he grumbled something in his native tongue. But you stood still as he rocked forward on one foot, his other lifting up to expose the dirty green flesh of his sole, every crease shown for your eyes. Turning about to flee in a panic, you could feel the wind of the foot falling towards you as your steps tried to take you out of the shadow encroaching on you.<br>\r\n<br>\r\nLuck seemed to find you, even after the turn it had taken to bring you to the heart of the Horde at such a small size, as you were knocked forward by the foot hitting the ground. A cloud of dirt blew over your now prone body as a lumbering green toe loomed over your inch tall body, so close to crushing you beneath its girth. Scampering forward on your hands and knees, you start to move away from the orc warrior that wanted to crush you. His toes lifted upwards as he moved his entire foot forward to shroud you under his sole once again. But you could see a small gap between the wall of the barracks and the weapons rack of the training area. Charging forward on your hands and knees as you feel the rough flesh of the grunt's foot scraping your back, you leap forward towards that crevice just as you feel the muscles tense in the sole.</span></div></div>",
+            "created":1465707600,
+            "id":2163096,
+            "title":"Should work on your languages"
+        },
+        "1112":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Try to climb up to a hammock",
+                "Sneak into a footlocker",
+                "Get yourself some food"
+            ],
+            "content":"<div class=\"\"><div> <span>You'd heard a story about a paladin, once upon a time, who had rushed into battle blindly, without caring what the odds are. What was his name again? Eh, didn't matter, you were sure the story ended well. You dash into the barracks as fast as you can, hoping beyond hope that the towering orcs don't notice this little speck zipping inside.<br>\r\n<br>\r\nAmazingly enough, you haven't been noticed! You quickly duck behind a pair of discarded boots, just beneath one of the hammocks above that serve as cots for the orc grunts. You take stock of the situation and assess your options.<br>\r\n<br>\r\nYou could try to find your way up to one of the slumbering orcs. Of course, doing so runs the very high risk of being spotted and a most likely swift swat.<br>\r\n<br>\r\nThere's also a part of you that realizes that this would be a prime opportunity to get some intel. Sure, Vol'jin's hasn't been running rampant over the world like Garrosh did but what HAS he been doing? Maybe rummaging around in one of the guard's footlockers would turn something up.<br>\r\n<br>\r\nAlternatively, how long has it been since you've eaten? There's a small table in the corner, and it looks like you could get your hands on some food. Leftovers, probably, but it's better than nothing.</span></div></div>",
+            "created":1437973200,
+            "id":2013179,
+            "title":"LEEEEEEEROOOOOOOOY-"
+        },
+        "11121":{
+            "author_id":"huntingdragon",
+            "author_name":"casper",
+            "choices":[
+                "Go along the side of the orc.",
+                "Go between his legs."
+            ],
+            "content":"<div class=\"\"><div> <span>You came to the conclusion that climbing higher would be the better option as you witness the massive feet of the orcs stomping over the floor of the barracks. A bug had attempted to dash over the floor just as you had done not long ago, but its run had ended under the sole of a thick boot as the owner kept walking without looking down. With the rumbles of those steps encouraging you, you start climbing upwards along the wooden frame of the hammock, the leather wrappings giving you hand holds as you go. <br>\r\nThankfully the clothing you wore was light weight as the distance was eating away at your strength, by the time you reached the bed surface itself you were exhausted.<br>\r\n<br>\r\nWith arms nearly giving out, you step onto the leather cot only to stumble forward onto your face as the effort of climbing took its toll. Slipping down the incline made by the occupant left your face against a thick green wall that stretched high up above you. As you struggle to get your head away from the foot you end up pressed against it even more, leaving you sputtering as you taste the sole of the giant against your lips. This gave you enough of a boost in energy that your able to step away from the towering foot to take a full accounting of your options now that your on the hammock.<br>\r\n<br>\r\n\"I could go along the side of the orc but anyone walking by could see me.\" You mutter to yourself as you wipe your arm over your face. \"Or I could go between his legs to hide till I come up with a way of getting some help.\"</span></div></div>",
+            "created":1465707600,
+            "id":2163037,
+            "title":"Reaching new heights"
+        },
+        "111212":{
+            "author_id":"wallinberg",
+            "author_name":"Wallinberg",
+            "choices":[
+                "Hide under the loincloth",
+                "Get caught by the hand"
+            ],
+            "content":"<div class=\"\"><div> <span>You think it would be best to get out of sight and the sooner you could get away from these smelly green feet the better. With a grimace on your face you slowly move between the two slightly damp feet of the sleeping orc just in time as another guard walks by. The earthy smell of the worn feet brushes against your tiny form as you slip between the heels and pop out between the canyon like legs. From here it was a strait line to get to higher ground and possibly finding some help. The dark green walls on either side of you had a shine to them as the hot barracks made the orc sweat in his sleep.<br>\r\n<br>\r\nAs you force your way forward the space between the orcs legs was getting tight and forced you to squeeze your way path the muscular thighs. The slimy sweat began to soak into your cloths and a strong musk was starting to radiate from your destination. A leather flap lead the way up and out of the slick canyon but you knew what was hidden under that garment. As you approached it a strong musk hit you like a ton of bricks and made you gag and cough, the dread of having to climb up that frightened you.<br>\r\n<br>\r\nUnfortunately you didn't have any more time to think about it as the orc began to stir in his sleep. The legs that once created a path for you began to close together as the orc crossed his legs to get more comfortable. From the feet the left leg rose and ran up towards your position, smothering everything on its way up. Without thinking you dashed for the loincloth that hid the orcs manhood and scrambled to get up out of the collapsing leg canyon. You could feel how big the orc really was as you managed to escape the legs and collapse on the bulge, a revolting smell radiating from the orcs moist crotch.<br>\r\n<br>\r\nYour movements haven't gone unnoticed as a large rough hand comes flying in your direction.</span></div></div>",
+            "created":1483333200,
+            "id":2257913,
+            "title":"Go between his legs."
+        },
+        "11123":{
+            "author_id":"jayguy",
+            "author_name":"Jayguy",
+            "choices":[
+                "You're able to reach the table and hide before the orc gets there",
+                "You're too slow, and now the orc is descending onto you ",
+                "Before you can make a move, the orc spots you"
+            ],
+            "content":"<div class=\"\"><div> <span>You run towards the table in the corner, making sure to avoid being trampled by any orcs along the way. The stench of sweat and dirt fills the air as their feet pass over you. After many close calls, you make it to the table and the stool that accompanies it, thankful for the short moment to catch your breath. The stench of feet is slowly replaced by the aroma of meat. On top of the table was a meal waiting just for you.<br>\r\n<br>\r\nBut first you had to make it to the table. You grip the legs of the stool and start climbing. The cracks in the wood provide good handholds for you. After a long and arduous climb, you finally make it on top of the wooden stool. The seat was still warm and gave off a slight odor. You wonder what that may mean when you hear footsteps approaching from a distance. You turn towards the source to see an orc, stomping towards his stool, the very same one that you happen to be standing on. The orc definitely seems like the uncaring type, wearing nothing but a loincloth to cover himself.<br>\r\n<br>\r\nYou gulp in fear. You needed to get up to the table quickly or else. But with the speed the orc was approaching, it may already be too late. But that doesn't mean you can't try.</span></div></div>",
+            "created":1484110800,
+            "id":2262021,
+            "title":"Climb"
+        },
+        "111232":{
+            "author_id":"jayguy",
+            "author_name":"Jayguy",
+            "choices":[
+                "Wait it out",
+                "Crawl your way out"
+            ],
+            "content":"<div class=\"\"><div> <span>Struggling for time, you frantically try to make it to the top of the table before the orc does. The sounds of his footsteps are growing louder by the second and his shadow and by the time you realize that it's too late, you're still standing on his stool while he's standing over you.<br>\r\n<br>\r\nIn only a second, you find yourself pinned to the wooden surface of the stool by the orc's manhood. His gigantic balls are laying on top of you, smothering you completely. The wrinkled skin envelopes and the horrid musk batters you from all sides. In a matter of seconds, you are drenched in the sweat of your captor while the orc enjoys his meal. No matter how much you struggle, the flesh of the orc's nutsack seems to push down on you, effectively trapping you in place.<br>\r\n<br>\r\nYour only choice is to wait for the orc to finish his meal or attempt to crawl your way out from underneath your dank prison. Though the latter seems like a better option, it would simply leave face to face with the orc's elephantine cock on the chance of success.</span></div></div>",
+            "created":1484110800,
+            "id":2262023,
+            "title":"Are you man enough?!"
+        },
+        "1113":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Take the main road",
+                "Sneak around the road",
+                "Try and head for the other side of the Valley"
+            ],
+            "content":"<div class=\"\"><div> <span>You rethink entering the Barracks - nothing good can come of going inside, and certainly nothing to help your current situation. The tavern a ways down the road might be a better choice. Travelers from all different stripes and origins would be stopping by to grab a much-needed drink. All you would need to do would be to get in, find the right patron, and plead your case.<br>\r\n<br>\r\nOf course, there's always the chance that you run afoul of some drunken patrons. Horde barfights are particularly brutal, or so you've heard.<br>\r\n<br>\r\nStill, it's a better chance than the barracks. So off you go!<br>\r\n<br>\r\nYou could take the main road, but there's a lot of foot traffic, so it's possible you'd get smushed before you even make it to the tavern.<br>\r\n<br>\r\nAlternatively, you could try staying off to the side. Less chance of people finding you, but some of the local wildlife might think you look pretty tasty.<br>\r\n<br>\r\nThere's also a chance you might have better luck on the other side of the waterway that runs through the middle of the Valley of Honor - that's where the Auction House and the Pandaren area has been set up.<br>\r\n<br>\r\nWhat's your choice?</span></div></div>",
+            "created":1437973200,
+            "id":2013180,
+            "title":"What Do You Do With a Drunken Mage?"
+        },
+        "11131":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Run off the road!",
+                "Call out for help!"
+            ],
+            "content":"<div class=\"\"><div> <span>No sense in drawing anything out. You'll need to go through the road somehow, and sneaking around might open you up to an animal attack. You make your way down the main road, though it is only a little bit away, you can clearly see several men approaching your area, and they don't seem to be having a very good day. A Pandaren, A Tauren, and an Orc all dressed in heavy plate were tromping their way toward you. They don't see you on the ground.</span></div></div>",
+            "created":1437973200,
+            "id":2013217,
+            "title":"Take the main road"
+        },
+        "111311":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Keep going",
+                "Take a breather"
+            ],
+            "content":"<div class=\"\"><div> <span>You take off running. Oh, hell to the no, you're not taking any chances. You try to stay focused on reaching the side of the road, but you still try and pay attention to your surroundings, trying to gauge the distance between yourself and the three giants heading your way.<br>\r\n<br>\r\nThe tauren is almost upon you as you make your last mad dash. His giant, hard hoof shadows your tiny body, darkening the world around you in what is just a casual footstep for him. You squeeze your eyes shut and run as fast as your legs can take you, damning the mages in Stormwind for not training you to use their Blink spell. You're almost there! Almost-<br>\r\n<br>\r\n<font class=\"size5\" style=\"\"><b>THOOM!!</b></font><br>\r\n<br>\r\nYou hear a deafening crash and the impact of the tauren's hoof directly behind you knocks you off your feet - at the side of the road. That was close - TOO Close. You were a hair's breadth away from getting smushed like a common insect! The three giants continue on their way toward the tavern, Light knows they look like they could use a drink.<br>\r\n<br>\r\nYou could try and start back toward the tavern, or you could take a moment to catch your breath. After that, you know you could use a break, and the road looks clear for now.</span></div></div>",
+            "created":1438059600,
+            "id":2013582,
+            "title":"Close Shave"
+        },
+        "111312":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "content":"<div class=\"\"><div> <span>You yell out for help from the three approaching figures. Surely one of them has to help you, right? Well, probably, in any other circumstances, they might have. If they had heard you.<br>\r\n<br>\r\nBut being outside in a busy, noisy place like Orgrimmar, good luck having them hear you.<br>\r\n<br>\r\nThey approach, their heavy footsteps punctuated by even heavier plate boots shaking the ground, and they're upon you faster than you expect.<br>\r\n<br>\r\nYou make a mad dash to try and move aside. You just have to reach the edge of the road. Don't concentrate on them, concentrate on escaping! You're almost there! Almost-<br>\r\n<br>\r\nCRUNCH!<br>\r\n<br>\r\nWith another step, the tauren continues on his way, unaware of your presence, and unaware of the crunchy, squishy sensation beneath his footstep.<br>\r\n<br>\r\nYour adventure has ended beneath the hard, unrelenting hoof of a giant tauren.</span></div></div>",
+            "created":1438059600,
+            "id":2013575,
+            "title":"Not the Help You Need..."
+        },
+        "112":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "The Mystics",
+                "The Druids",
+                "Try your luck elsewhere in Orgrimmar"
+            ],
+            "content":"<div class=\"\"><div> <span>You've ended up in the western end of Orgrimmar, so the first area open to you is the Troll area. You didn't know a whole lot about troll culture or whatnot, but they fascinated you for reasons that you hadn't been able to explain to anyone, least of all yourself. There was the rumor that they were cannibals, and that was one rumor you were not looking to find out about yourself.<br>\r\n<br>\r\nThe various troll structures come into view as you head along the path carefully, in the grass so as to avoid the patrolling sentries, before you reach the wooden plank catwalks that circle around the area.<br>\r\n<br>\r\nYou try and assess the situation - you need assistance and, as much as you might not want to ask the Horde for help, the trolls might be in the best position to help you. Mystics, hexxers, and headshrinkers, they know all about this sort of thing, and they'd be the ones to ask.<br>\r\n<br>\r\nBut where can you go? The mystics are in one of two-level tiki structures, and they'd likely have the most success. On the other hand, you could try the druids. They might be the safer alternative, since druids are supposed to be somewhat peaceful people.<br>\r\n<br>\r\nFrom here, you can also see the exit into Orgrimmar, if you think you would be better served elsewhere in the city.</span></div></div>",
+            "created":1414731600,
+            "id":1879844,
+            "title":"The Troll Area"
+        },
+        "1121":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Steps over you!",
+                "Crushes you!",
+                "Calls someone out of the hut!"
+            ],
+            "content":"<div class=\"\"><div> <span>The Mystics would probably be a better choice to go with. They would surely know where to go if all else failed. You make your way toward the mystic hut, taking care to avoid the main roads in fear of being smashed. <br>\r\n<br>\r\nIt took about an hour, but you finally reached the steps. You could hear the sounds of chanting inside, but the more important sound was the thumping behind you. A troll was heading right for the steps!<br>\r\n<br>\r\nHe...</span></div></div>",
+            "created":1414731600,
+            "id":1879849,
+            "title":"The Mystics"
+        },
+        "11211":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "This is my stop!",
+                "Second floor!"
+            ],
+            "content":"<div class=\"\"><div> <span>You duck and cover as the enormous two-toed foot steps above you... and passes right over you, an tremendous THUMP echoing in your ears as the troll thumps his foot down on the step in front of you. Thinking quickly, you lunge for, and manage to get a hold of, the hem of the troll's robe as he continues along. You hold on for dear life, even as the robe dusts against the ground, bumping you constantly against the floor and the other steps. But you have managed to safely get inside the hut.<br>\r\n<br>\r\nHe looks to be heading up to the second level of the hut. You could go with him and see what's up there. Of course, you're starting to lose your grip pretty quickly, and you might not make it up there. You could just stop off on here and see if there's anyone on this level that can help you.</span></div></div>",
+            "created":1414731600,
+            "id":1879861,
+            "title":"Step and a Miss!"
+        },
+        "11212":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "content":"<div class=\"\"><div> <span>You duck and cover as the foot lifts over you. For a moment, it looks like the troll is heading into the hut and going to miss you entirely. But, unfortunately, luck is not on your side.<br>\r\n<br>\r\n\"Damn liddle bug.\" you hear a heavily-accented voice say above you. You glance upward between the troll's two massive toes to see that the he has spotted you! And he doesn't look very happy. \"D'ey be everywhere!\"<br>\r\n<br>\r\nBefore you have a chance to protest, explain, or even speak, the troll steps his foot down hard on top of you.<br>\r\n<br>\r\n<font class=\"size45\" style=\"\"><span class=\"cred\"><b>SQUISH!</b></span></font><br>\r\n<br>\r\nYou're immediately squelched beneath a tough, leathery sole. The troll grinds your remains into the dirt and wipes what's left off of his foot before moving along with his business.</span></div></div>",
+            "created":1414731600,
+            "id":1879860,
+            "title":"Trolls Dun Like Bugs, Mon"
+        },
+        "113":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "The Commercial District",
+                "The Financial District",
+                "The Industrial District"
+            ],
+            "content":"<div class=\"\"><div> <span>The Goblin Slums! That would be perfect, no one would think to look there. The Bilgewater Goblins showed up and joined the Horde while Garrosh had been Warchief. While most had either been conscripted into the Horde engineering Corps., others were put to work in Azshara and established Bilgewater Harbor as their home territory under the watchful eye of Trade Prince Gallywix.<br>\r\n<br>\r\nLiterally. The guy had carved his face into a mountain.<br>\r\n<br>\r\nEveryone else more or less got shoved into the slums, and that's where you're headed to regroup and try and come up with a plan to fix this absolutely terrible situation.<br>\r\n<br>\r\nYou had ended up relatively close to the slums. Unfortunately, at your size, everything is relative, so you make sure to stay close to the wall instead of on the path, so as to avoid being trod over by the grunts patrolling the area, to say nothing of the insects and other vermin that are now much bigger than your own shoe can handle.<br>\r\n<br>\r\nBut eventually, you make it, as safe and sound as you can be. Now you need to find a spot in here to take cover. The Goblin Slums are small - Garrosh never really cared much for them, and most everyone else steers clear of them. And so your options are limited. The slums are set in three parts, colloquially called \"Districts.\"<br>\r\n<br>\r\nThe Commercial District is immediately to your left. It's where Horde adventurers would find the closest thing to an inn, a bar, and several shopkeepers have set up shanties to hawk their wares. It's a high-traffic area, but it's the easiest place to get some food and shelter.<br>\r\n<br>\r\nThe Financial District is immediately to your right. The auction house and bank are here, and this is where Boss Mida has set up shop, although she doesn't seem to be in right now. This is another high traffic area, as Goblins parted with their money and worldly possessions don't tend to be parted for too long. Imagine if you managed to grow back and you got a gold coin to grow with you! You could buy Azeroth with that much!<br>\r\n<br>\r\nThe Industrial District is at the back. The slums are filthy and grimy and the Industrial District is the worst of it. Oil from the derricks have spilled into the pond and washes up on the shore. This is where the miners, blacksmiths and, ironically, the shamans have set up. This is the lowest traffic area, but its further out than the other two districts and the way would be treacherous.<br>\r\n<br>\r\nWhere will you go?</span></div></div>",
+            "created":1414386000,
+            "id":1878297,
+            "title":"The Goblin Slums"
+        },
+        "1131":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Climb up to the mailbox",
+                "Head deeper into the Commercial District",
+                "Stay where you are for a little while"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide that the easy accessibility to food and possible shelter far outweighs the risk of being stepped on by the goblin denizens and decide to head toward the Commercial District.<br>\r\n<br>\r\nDodging and darting is part of the game at your size, but this place is as busy as ever. You've managed to make your way from the entrance to the strange-looking contraption that you figure is a goblin-style mailbox. From down below, you can't see a whole lot more than a lot of feet going back and forth, and the hustle and bustle of the place, even at this hour, is enough so that you can't hear yourself think.<br>\r\n<br>\r\nYou suppose that's about all you're going to see from this spot. You take another look up at the mailbox. You COULD try and shimmy your way up to the top of it to get a better look, or you could try and venture forward into the heart of the district proper and try and find a spot to hide.<br>\r\n<br>\r\nAlternatively, you could hold back for a few moments to see if the foot traffic clears up any.</span></div></div>",
+            "created":1414472400,
+            "id":1878754,
+            "title":"The Commercial District"
+        },
+        "11311":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Scout the District",
+                "Try and get into the Mailbox"
+            ],
+            "content":"<div class=\"\"><div> <span>This was probably the smartest idea you'd ever had, you think to yourself as you shimmy your way up the pole toward the mailbox. Sure, you could get a clearer view of the commercial district, but this was a mailbox! There might be a way to get out of this just by embedding yourself in the mail!<br>\r\n<br>\r\nThrough some trial and error, you managed to climb up to the top of the unstable mailbox, even as its motorized parts whirr and chug along. Such strange technology these goblins have.<br>\r\n<br>\r\nThe moment of truth is upon you. Will you try and get into the mailbox itself or will you stick with your original plan and scout the district?</span></div></div>",
+            "created":1414472400,
+            "id":1878760,
+            "title":"Top of the Heap"
+        },
+        "113112":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Climb in yourself",
+                "Wait for someone else to open it"
+            ],
+            "content":"<div class=\"\"><div> <span>This was a great idea, in theory anyway. If you can mail yourself somewhere else - ANYWHERE else - you'd be sitting pretty. Even a remote outpost, didn't matter. The heart of Orgrimmar was not a place for a tiny human and this was probably the fastest way out, short of hitching a ride at the Flight Master, but that was too far away.<br>\r\n<br>\r\nNow the trick was getting inside. You could attempt climbing down and inside manually. Or you could wait for a goblin to come along and slip inside when they open it.</span></div></div>",
+            "created":1414472400,
+            "id":1878793,
+            "title":"Guaranteed Overnight Delivery"
+        },
+        "11312":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Food?",
+                "Brave the crowd, you need that cure!"
+            ],
+            "content":"<div class=\"\"><div> <span>The last thing you need is to get seen on top of a mailbox. They'd make a beeline for you! Instead, you decide to play it \"safe\" by going deeper into the district, doing your best to avoid being spotted or stepped on by the cruel green bastards. You find yourself in a pickle though, stuck between two options that certainly don't seem positive. <br>\r\n<br>\r\nYou could cross the main walkway to get into a building that smells of food, or you could run over to an equally busy area that looked to be a peddler selling a \"miracle cure of everything\". <br>\r\n<br>\r\n</span></div></div>",
+            "created":1414472400,
+            "id":1878757,
+            "title":"Head deeper into the Commercial District"
+        },
+        "113122":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Try and get at one of the elixirs.",
+                "Investigate the back of the shop."
+            ],
+            "content":"<div class=\"\"><div> <span>Goblins were the very definition of snake oil salesmen. You knew this. But still, there may be a chance, just on the offset that something might work to cure this condition. It's a long shot, but it might be worth it. The goblin peddler in question has already attracted a large crowd and luckily, their eyes are squarely on him, so getting past them ought to be relatively easy.<br>\r\n<br>\r\nYou wade into the crowd of massive green feet to try and get a bearing on where this 'miracle cure' is. It looks like he's selling them by the bottle, and several cases are stacked and ready to go right next to him as he's trying to convince the people of its 'wondrous' properties.<br>\r\n<br>\r\nYou can spot a couple of the peddler's underlings in the back. They look to be filling up the bottles. It might be worth it to see if this IS the real deal by getting a closer look at the process or if this is just another ripoff.</span></div></div>",
+            "created":1414472400,
+            "id":1878767,
+            "title":"\"I Got What YOU Need!\""
+        },
+        "1131222":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Charge in to cause the guards to focus on you. ",
+                "Stay where you are and let them work. "
+            ],
+            "content":"<div class=\"\"><div> <span>Your sense of morality is getting the better of you. You need to find out what that elixir is made of. Slipping through the forest of green feet and boots, you start making your way back to the shop carefully. There are two guards filling up bottles from some kind of machine. This looks strange. <br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1414472400,
+            "id":1878773,
+            "title":"Investigate the back of the shop."
+        },
+        "11313":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Between the Goblin's toes",
+                "Try and shimmy down to his arch"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Fools rush in.\" you mutter to yourself. And, indeed, in a situation like this, you could never be too careful. Better to be safe than sorry. You hang back under the mailbox and watch the goblins mill about the area going about their business. Whatever is going on, it looks like it's not going to die down anytime soon.<br>\r\n<br>\r\nAll at once however, the slight tremors from the giant goblins get stronger as sandal-clad goblin saunters up to the mailbox you're hiding under. He looks like he could be one of the shopkeepers, but it's hard to tell.<br>\r\n<br>\r\nThis could be the break you're looking for. Going out on foot would be insane... but going out on someone else's foot might work a little better, if not slightly unappealing. The only question is where you'll try and keep safe during the trip.</span></div></div>",
+            "created":1414472400,
+            "id":1878759,
+            "title":"Staying Put"
+        },
+        "113131":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "You caught the goblin's attention!",
+                "The goblin is heading home!"
+            ],
+            "content":"<div class=\"\"><div> <span>You can't believe you're doing this, but you need to find some semblance of a safe place. This goblin's home might just be the place to go. Taking a deep breath, you leap between the goblin's toes, wiggling down carefully so the goblin would hopefully not feel it. You took another deep breath, trying to hide. <br>\r\n<br>\r\nThe world starts to move around you. </span></div></div>",
+            "created":1414472400,
+            "id":1878761,
+            "title":"Between the Goblin's toes"
+        },
+        "1132":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Head to the Bank",
+                "Check the Auction House",
+                "Approach Kazit, Mida's Personal Assistant"
+            ],
+            "content":"<div class=\"\"><div> <span>The Financial District is where anyone with any sort of influence among the goblins would be, and is likely your best chance to get any sort of assistance. You make your way to a towering barrel, for warmth and to gague the area.<br>\r\n<br>\r\nThere's a long line of goblins waiting to get to the bank teller, even though the \"bank\" is little more than a metal desk with a canopy tent above it. Some of the customers or the teller himself might be able to assist you.<br>\r\n<br>\r\nFurther back is the auction \"house\" (that is to say auction-back-of-a-cart) where an auctioneer is hawking various types of wares that Horde citizens have put up for sale for as much gold as they can swindle. It's a long shot but maybe the auctioneer knows about an item that could help you restore your size?<br>\r\n<br>\r\nOf course, the most direct route would be approaching Boss Mida's court. With her not around, her personal assistant Kazit would be the goblin to go to. If you're lucky, he may be in a generous mood. IF you're lucky.</span></div></div>",
+            "created":1414558800,
+            "id":1879117,
+            "title":"The Financial District"
+        },
+        "11323":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "...he has seen you!",
+                "...he has not seen you."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to go and try to reach Kazit, the personal assistant of Boss Mida, who runs the Goblin Slums. He's the closest thing to a head honcho that you're going to find, with Mida currently occupied elsewhere. Maybe a direct appeal might work. Stranger things have happened (like you ending up in Orgrimmar only a few inches tall.)<br>\r\n<br>\r\nYou carefully move around the long line of goblins waiting impatiently for the bank, making a beeline straight for Mida's court, which currently consists of Kazit, Engineer Niff, and Bruiser Janx. The former two are engaged in some conversation that you don't get the details of, while Janx is idly keeping an eye out for anything remotely interesting.<br>\r\n<br>\r\nYou approach Kazit's enormous brown boots from behind, looking the goblin up and down, waiting for a break in the conversation to try and make yourself heard. This close to a goblin, it's a very disconcerting feeling to see just how small you've become.<br>\r\n<br>\r\nBut the voices from above die away and you realize that now is your chance! You take a deep breath and start yelling up toward him.<br>\r\n<br>\r\n\"Excuse me! You there! Goblin! I need help!\" you are hopping up and down and waving your arms.<br>\r\n<br>\r\nUp above, the goblin turns around slowly, and you find yourself facing the front of his boots instead. You look upward to see that...</span></div></div>",
+            "created":1414558800,
+            "id":1879185,
+            "title":"The Second in Command"
+        },
+        "113231":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "He sees an unusually tiny humanoid.",
+                "He sees a bug."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He's seen you! That's good, right?<br>\r\n<br>\r\n...right?<br>\r\n<br>\r\nYou know that he has seen you. The question is... WHAT does he see?</span></div></span></div>",
+            "created":1414558800,
+            "id":1879187,
+            "title":"The Eyes Have It"
+        },
+        "1132311":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Interrogation",
+                "Execution"
+            ],
+            "content":"<div class=\"\"><div> <span>Kazit's giving you a strange look, and he's keeping his eyes locked on you for a long time. Uncomfortably long. You start to wonder if maybe he hasn't decided that you're some sort of strange-looking insect. But if he thought that, then why isn't he trying to step on you or something?<br>\r\n<br>\r\n\"Uh... hello?\" you try one more time.<br>\r\n<br>\r\n\"What in the hells are YOU s'posed to be?\" he exclaims, making your ears hurt.<br>\r\n<br>\r\n\"My name is Lutris,\" you explain, \"Joseph Lutris, and-\"<br>\r\n<br>\r\nThat's about as far as you get before the goblin's meaty hand reaches down and greedily snatches you up. The wind rushes past your ears as you're brought up to Kazit's eye level, and you can see the giant goblin squinting at you.<br>\r\n<br>\r\n\"What IS it?\" Janx asks from behind, as he comes up to Kazit.<br>\r\n<br>\r\nKazit's brows furrow, \"It's a human! It's a friggin' tiny human!\"<br>\r\n<br>\r\n\"Like I was saying-\" you attempt to interject but are interrupted again.<br>\r\n<br>\r\n\"Sure your eyes aren't playin' tricks on ya?\" a third voice comes in, belonging to Niff, the engineer, as now you are surrounded on all sides by three goblins and trapped helplessly in Kazit's grip.<br>\r\n<br>\r\n\"Nah, take a look!\" Kazit opens his hand, his long fingers releasing you into his palm, \"See that? He's human!\"<br>\r\n<br>\r\nThe other two goblins peer in closely with very unfriendly stares. You start to think that this probably was not the best idea you've had during this whole thing, despite your limited choices.<br>\r\n<br>\r\n\"Ya here to spy, little man?\" Janx asks harshly.<br>\r\n<br>\r\n\"Definitely.\" Niff chimes in, \"Why else would he be so tiny in here? If he tried walkin' in otherwise, guards woulda whacked him.\"<br>\r\n<br>\r\n\"I'm not spying!\" you protest, \"I need help! Why else do you think I came right up to you?\"<br>\r\n<br>\r\n\"We oughta just smash him an' be done with it.\" Janx says to Kazit, making your stomach drop. Why are they so quick to be rid of you?<br>\r\n<br>\r\nNiff speaks up again, \"But what does he know? What's he told others? We can't splatter him 'til we know what he knows.\"<br>\r\n<br>\r\n\"I don't know anything!\" you protest again, helplessly, \"I'm not spying on you!\"<br>\r\n<br>\r\n\"Hmmm...\" up above you, it looks like Kazit is making his decision.</span></div></div>",
+            "created":1414645200,
+            "id":1879540,
+            "title":"Holding Court"
+        },
+        "11323111":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "\"Nothing!\"",
+                "Make something up!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"We gotta find out what he knows.\" Kazit spoke loudly to the others, not taking his eyes off of you.  <br>\r\n<br>\r\n\"But how?\" Janx spoke up. The lot of them knew that normal torture devices wouldn't work, so they'd need something special.<br>\r\n<br>\r\nAll three of them rubbed their chins in unison before Kazit chuckled darkly. He stepped back a moment and promptly lifted up one of his boots, pulling the thing off rather easily. He looked between his comrades for just a second before promptly dropping you into the boot with no possible chance for escape. <br>\r\n<br>\r\n\"Just like that! Alright, human. You'd better start talkin' before that boot gets cramped.\" He poked his eye inside, the orb looking as though it was trying to scour through your very soul.<br>\r\n<br>\r\nYou said nothing, just stammering and backing up.<br>\r\n<br>\r\n\"Maybe I wasn't clear.\" Kazit spoke, stepping back. He hovered his foot over that opening almost immediately, his toes wiggling as though to taunt you.<br>\r\n<br>\r\n\"What do you know?!\"</span></div></div>",
+            "created":1414645200,
+            "id":1879543,
+            "title":"Interrogation"
+        },
+        "113231111":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Aim for the toe section!",
+                "Try under his arch!"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to maintain your innocence, no matter what. You weren't a spy, and that was that!<br>\r\n<br>\r\n\"I'm telling you the truth!\" you protest from the darkness of Kazit's discarded boot, \"I'm not a spy! I was pushed through a portal by a mage-\"<br>\r\n<br>\r\n\"Yeah, alright, let's see how ya do with this.\" Kazit interrupted and slipped his bare foot back into the boot with ease, blotting out whatever light there had been.<br>\r\n<br>\r\nYou saw his foot moving in and had to make a choice. There are only so many places you can even take shelter safely in a giant boot.</span></div></div>",
+            "created":1414645200,
+            "id":1879552,
+            "title":"\"Nothing!\""
+        },
+        "1132311111":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Beg for forgiveness.",
+                "Lie!"
+            ],
+            "content":"<div class=\"\"><div> <span>His toes are probably safer than the arch, so you make a break for the very end of that boot. Sprinting as fast as you can, you charge for the enclosure as the sound of shuffling came behind you. Looking behind you, you'd find that those toes were coming right for you! <br>\r\n<br>\r\nTaking a massive charge toward the end and diving at the last moment, you slam into the thick leather just in time for those toes to clamp down all around you, firmly sealing you in the green flesh. You're trapped here.<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1414645200,
+            "id":1879558,
+            "title":"Aim for the toe section!"
+        },
+        "1132311112":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "content":"<div class=\"\"><div> <span>You move with Kazit's foot, but only slightly, aiming to get under the arch of his foot as it slips back into the boot. Unfortunately, your aim is off by just that much. You manage to duck the toes but you're rammed into by the ball of his foot. You're knocked down and pressed directly under his foot, smothering you into it.<br>\r\n<br>\r\nBut that is only for a short moment. The pressure increases greatly as he settles his weight on that one foot, and you are pressed flat into the goblin's insole with a slight but wet-<br>\r\n<br>\r\n<font class=\"size45\" style=\"\"><span class=\"cred\">SQUISH!</span></font><br>\r\n<br>\r\nOutside, Kazit freezes slightly with a wince. \"Uh... whoops.\"</span></div></div>",
+            "created":1414731600,
+            "id":1879817,
+            "title":"\"Whoops.\""
+        },
+        "113231112":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "I'm on a secret mission!",
+                "I want to defect to the Horde!"
+            ],
+            "content":"<div class=\"\"><div> <span>There's no way out of this. You have to do whatever you can to survive! You only hope that your tongue has as much of a silver lining as the goblins' do in terms of making stuff up on the fly.<br>\r\n<br>\r\n\"Okay, okay!\" you exclaim, \"You don't need to go to these lengths! I'll talk, all right, I'll talk!\"<br>\r\n<br>\r\nThe foot continued its descent toward the opening, albeit slightly slower. You could hear Kazit speaking to you. \"Better talk fast, pal.\" he said, \"Else I'm not gonna be able to hear ya in a second.\"<br>\r\n<br>\r\nThis was it. Your reason for being here. What could it be?<br>\r\n<br>\r\nYou take a deep breath and shout, \"I'm here because...\"</span></div></div>",
+            "created":1414731600,
+            "id":1879814,
+            "title":"The Art of Lying"
+        },
+        "1132312":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Dodged!",
+                "Crrrushed!"
+            ],
+            "content":"<div class=\"\"><div> <span>What did you expect? Being seen by a goblin and that being a good thing?<br>\r\n<br>\r\nThe goblin looked at you for a moment before furrowing his brow. \"Bugs are gross. This place is infested!\" The words made your heart sink, the gigantic green-skinned bastard taking steps over to you. Rather unceremoniously, he lifted up one of his heavy boots and hovered it above you. He'd be sure to bring it down any second!</span></div></div>",
+            "created":1414558800,
+            "id":1879199,
+            "title":"This place has a lot of bugs. "
+        },
+        "1133":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Head along the Commercial district shoreline",
+                "Swim through the oily pond",
+                "Past Mida's court"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide that the Industrial District promises the least amount of humanoid contact, and would be the best place to try and find a spot to hide and gather your thoughts.<br>\r\n<br>\r\nThe problem is that the Industrial District is very far from where you are and the ways to get there are very dangerous indeed. You have one land route, one water route, and a route that takes you through both land and water.<br>\r\n<br>\r\nThe land route would be the longest way and it would force you to cut through the Commercial district, a very high-traffic area. Moving along the shoreline would be the safest way to go, but you have fishermen between you and that way, not to mention the hunter trainer and his giant enemy crab relaxing like it was a day at the beach.<br>\r\n<br>\r\nThe water route is a straight shot from where you are, swimming across the the pond to the other shoreline. While it is the fastest way to get there and you would be able to avoid the goblins on land, it's still quite a distance to cross. Not to mention the water is heavily polluted with oil from the goblins' drilling, which would hamper your swimming ability.<br>\r\n<br>\r\nThe last route is a cut through the Financial District. It would involve getting past the greedy goblins and taking a short swim instead of a long one through a stream that's getting dammed up by a bunch of barrels. The catch is that the stream is directly behind where Boss Mida and her goons would normally be. While it doesn't look like the Boss herself is around, her personal assistant Kazit is holding down the court, along with Bruiser Janx and Engineer Niff.<br>\r\n<br>\r\nWhich way do you go?</span></div></div>",
+            "created":1414386000,
+            "id":1878309,
+            "title":"The Industrial District"
+        },
+        "11333":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "You've been spotted!",
+                "You sneak past without being seen!"
+            ],
+            "content":"<div class=\"\"><div> <span>Well, it certainly seems the least likely to have you killed. Oily water is hard to swim in, and the other path is simply too long. <br>\r\n<br>\r\nYou make your way over to where Kazit and Niff are, being extremely cautious not to get seen within the few seconds you move at a time. Getting this close is nearly a death sentence, and you sincerely hope that neither of them catch you, or worse. <br>\r\n<br>\r\nThey're extremely close now. You start to sneak by them. </span></div></div>",
+            "created":1414386000,
+            "id":1878345,
+            "title":"Past Mida's court"
+        },
+        "113331":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Try to outrun him!",
+                "Take a dive into the oily water!"
+            ],
+            "content":"<div class=\"\"><div> <span>You take your chances and start to sneak through, trying to keep as low a profile as you can.<br>\r\n<br>\r\nKazit and Niff are engaged in a discussion regarding Mida's shredder, and they're pretty engrossed. The big bruiser, Janx, looks as bored as can be. Apparently, he's not all that versed in Shredder technology, and would be prefer out, putting that axe of his to good use. As the conversation continues he boredly scans his eyes about.<br>\r\n<br>\r\nYou can almost feel his stare when his eyes lock on you.<br>\r\n<br>\r\nBriefly turning, a chill runs through your body as you see him lift a gigantic booted foot above you! Janx will apparently take any distraction he can get - even something as simple as stepping on a bug - YOU!<br>\r\n<br>\r\nYou'd better make tracks - but where? You could try and outrun him, but the movement might attract attention. Alternatively, you could take your chances in the polluted pond.</span></div></div>",
+            "created":1414386000,
+            "id":1878354,
+            "title":"Spotted!"
+        },
+        "1133312":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Fishing bobber!",
+                "Swim for it!"
+            ],
+            "content":"<div class=\"\"><div> <span>Oh hell no! Take your chances with the water. <br>\r\n<br>\r\nJoseph looks up in horror and immediately turns to the water, making a mad dash for it. He can feel the heavy leather slam down behind him, the man being catapulted into the dark, murky water. It didn't look like the goblin wanted to follow in the slightest, groaning out in disappointment. <br>\r\n<br>\r\nThe water felt heavy. You wouldn't be able to swim out here for long. Looking around, you can see two options. Swim off to the right, or grab the fishing bobber. </span></div></div>",
+            "created":1414386000,
+            "id":1878364,
+            "title":"Take a dive into the oily water!"
+        },
+        "11333121":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Try climbing up the fishing line",
+                "Stay on the bobber"
+            ],
+            "content":"<div class=\"\"><div> <span>As soon as you hit the water, you knew you were swimming on borrowed time, as the oil quickly spread into your clothes. Sure, you'd dodged a big, foot-shaped bullet but this was not proving to be a fantastic option either.<br>\r\n<br>\r\nYou swim as fast as possible toward the fishing bobber. You're almost positive that there's no fish in this pond. At least, nothing healthy. With the weight of the oil starting to drag you down, you manage to lunge forward, grappling the massive bobber and squirming to safety atop it.<br>\r\n<br>\r\nIt didn't seem to make the fishing goblin think he'd caught anything, luckily for you. <br>\r\n<br>\r\nYou stopped to catch your breath atop the bobber, still stuck in your oil-and-water-soaked clothes before looking up at the fishing line. It was possible that you could climb up. Or you could continue to rest on the bobber itself. It didn't look like anything was biting anyway.</span></div></div>",
+            "created":1414386000,
+            "id":1878368,
+            "title":"Fish Out of Water"
+        },
+        "113331211":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "You're bait!",
+                "You're FOOD!"
+            ],
+            "content":"<div class=\"\"><div> <span>What harm could that cause?<br>\r\n<br>\r\nApparently a lot. You start to tug on the string while you climb, catching the attention of the fisherman holding his pole. With a mighty tug, you're sent careening out of the water and through the air, toward the goblin. With a whoosh of air around you, you found yourself manhandled by the fisherman in question. He stares at you curiously, a grin crossing his face. What does he have planned?</span></div></div>",
+            "created":1414386000,
+            "id":1878373,
+            "title":"Try climbing up the fishing line"
+        },
+        "1133312111":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Bite him!",
+                "Yell up to him!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, ain't sure what ya are, but...\" the fisherman begins, keeping a tight grip on you, \"figure ya gotta able to attract somethin' in that pool. Hold still...\"<br>\r\n<br>\r\nYour arms are pinned to your sides, keeping you from channeling your (very limited) magic power. To your horror, you see him bring up the hook of his fishing pole! He's could spear right through you with that!<br>\r\n<br>\r\nYou try and wriggle about but it's no good - he's got a tight grip on you. The only thing you've got is your head - and your mouth! Biting him might loosen his grip, but it'll probably piss him off. You could try yelling to get his attention. He's close enough and he's got big ears, so he'd likely hear you. But then you'd have to explain why you, a tiny human, are in Orgrimmar to begin with.<br>\r\n<br>\r\nTime's running out!</span></div></div>",
+            "created":1414386000,
+            "id":1878376,
+            "title":"Bait and Switch"
+        },
+        "11333121111":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "the Goblin's dirty foot!",
+                "the goblin's hand!"
+            ],
+            "content":"<div class=\"\"><div> <span>He wants a bite? Give him a bite! You lunge out when you can and sink your teeth into his fingertip, causing him to yelp and drop you. You plummet for some time, dropping you down right into the ground as the twine unraveled, giving you enough of a slow fall that you weren't killed.<br>\r\n<br>\r\nHowever, your vision was so spinny that you couldn't walk. You scrambled some as you tried to get your bearings, seeing something coming down from above. <br>\r\n<br>\r\nWhat is it?</span></div></div>",
+            "created":1414386000,
+            "id":1878387,
+            "title":"Bite him!"
+        },
+        "113331211111":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "...you're stuck to his sole!",
+                "...he's getting ready to stomp you again!"
+            ],
+            "content":"<div class=\"\"><div> <span>The outline of the goblin's muddy, dirty sole starts coming down fast toward you! But in your disoriented, dizzying state, you're not able to move away in time! You cry out and hold your hands above your head, as if to protect you against what's coming. However, it's all for nothing as the goblin fisherman's huge foot stomps down down ontop of you. The pain is incredible, and it does absolutely nothing to stop the spinning of your head, to the point that your vision goes black.<br>\r\n<br>\r\nThen you open your eyes again. Amazingly, the stomp didn't squash you! Between the mud beneath you and the mud on the goblin's sole, your body was cushioned against too hard a blow. It's a miracle!<br>\r\n<br>\r\nOf course, when your vision starts to clear, you realize it might not be the miracle you're looking for as you realize...</span></div></div>",
+            "created":1414386000,
+            "id":1878400,
+            "title":"Muddy Footprint"
+        },
+        "1133312111111":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Finishes you off. ",
+                "Peels you off!"
+            ],
+            "content":"<div class=\"\"><div> <span>Ouch. Impressive. <br>\r\n<br>\r\nYou find yourself stuck to the muddy sole of the goblin, your world thrown for a loop. You an barely move as the sole lifts back up into the air, turning upward so that the goblin can get a good look at the squirming pest on his foot. He gets an idea in his head, his toes wiggling in delight. <br>\r\n<br>\r\nThe goblin...</span></div></div>",
+            "created":1414386000,
+            "id":1878422,
+            "title":"...you're stuck to his sole!"
+        },
+        "11333121111111":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "content":"<div class=\"\"><div> <span>The wind rushes past your ears as you feel the goblin stamp down, hard. Okay, THAT time hurt. But you're still cushioned by the mud. You start to feel the pressure increase then you rush upwards again, face still pressed into the sole. You try to move your head about, to get your bearings.<br>\r\n<br>\r\nYou get to see the ground below. He's moved slightly, from the muddy shore to the well-traveled dirt below, which offers no such padding.<br>\r\n<br>\r\nImmediately the goblin steps his foot down again, pressing you and your muddy prison against the hard dirt ground of the slums. You yell out in pain as he twists and grinds his foot in before scraping it back, unsticking you from his sole, but leaving you stuck in the mud on the ground.<br>\r\n<br>\r\nThrough your pain, you peer up to see the Goblin staring down at you with a smirk. His foot lifts and hovers over you. You try to move and free yourself, but the pain is incredible. Instead of facing his relatively softer sole, you gape up helplessly at the fisherman's tough, unforgiving heel.<br>\r\n<br>\r\nAnd you are absolutely helpless as it drops down onto you.<br>\r\n<br>\r\n<b><font class=\"size45\" style=\"\"><span class=\"cred\">SQUISH!!</span></font></b><br>\r\n<br>\r\nYou are easily crushed under the filthy foot of a goblin fisherman. The giant goblin grinds his heel about in the muck, mixing your remains with the dirt and mud from his feet.<br>\r\n<br>\r\n\"Stupid bug.\" he mutters as he steps back to the shore to resume his fishing.</span></div></div>",
+            "created":1414386000,
+            "id":1878428,
+            "title":"Between a Sole and a Hard Place"
+        },
+        "1133312112":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "...swallow ya in one gulp!",
+                "...drop ya on my barbecue!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, hells, I ain't got a clue WHAT ya are...\" the goblin says, and you can see his tongue running across his lips, giving you a feeling of dread washing over you, \"...but I kinda wonder what ya taste like. Ain't no fish I ever seen.\"<br>\r\n<br>\r\nIn a moment, he'd lashed his tongue up against you, covering you in his saliva, and leaving you sputtering and writhing in his grip.<br>\r\n<br>\r\nHe winced slightly, \"Eesh... nah, that ain't the best flavor.\" His mouth twists in thought as he stares you down. With a shrug, he says, \"Eh, waste not, want not an' all that. It's fine, alls I gotta do is...\"</span></div></div>",
+            "created":1414386000,
+            "id":1878429,
+            "title":"Out of the Frying Pan and into..."
+        },
+        "11333121121":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "content":"<div class=\"\"><div> <span>The color in your face drained the moment you understood what he was saying. He lifted you up to his mouth once again, but this time had no desire to taste. Only to eat. <br>\r\n<br>\r\nYou fought valiantly as he deposited you into his open maw, your body landing on his tongue feet-first. Clawing at the tongue, you found yourself tilting back toward the pit of his throat until you could no longer hold on. Sucked into the fleshy tube, your fate had been sealed. <br>\r\n<br>\r\nIt took less than a second for you to reach his stomach, getting a mouthful of stomach acids the very moment you landed. Struggle and claw as you might, you stood no chance against the simplicity of digestion. </span></div></div>",
+            "created":1414386000,
+            "id":1878448,
+            "title":"...swallow ya in one gulp!"
+        },
+        "114":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Cross alone. ",
+                "Wait for nightfall. ",
+                "Try to find a different path. "
+            ],
+            "content":"<div class=\"\"><div> <span>If anyone would be able to help you, it'd be the shaman that live here. They'd understand as long as you got the right guy. <br>\r\n<br>\r\nIt took you hours on end just to make it to the next area through the Drag, but staying to the sides proved to be helpful in staying alive. Your knowledge of the city was incorrect though...the shaman area of Orgrimmar being on the other side. There was a massive distance to cross, and it was looking busy. <br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1414386000,
+            "id":1878453,
+            "title":"The Shaman Quarters"
+        },
+        "1142":{
+            "author_id":"huntingdragon",
+            "author_name":"casper",
+            "choices":[
+                "Look for a shaman.",
+                "Find out what that noise was."
+            ],
+            "content":"<div class=\"\"><div> <span>Using what limited survival knowledge you had you found a place to hide near some plants growing out from the base of a building. Laying down against the rock foundation you tried to find sleep even as you could hear, and feel, the sounds of a busy city filled with giants. Sleep evaded you for the most part but you managed to get some rest till the sun vanished over the rim of the valley the city was nestled into. Venturing out in the darkness with only a few lit lanterns and torches to guide your way as you crept through the formerly busy Horde city. <br>\r\n<br>\r\nThrough your journey you had to hide as guards walked their routes, looking about for any intruders with a scowl over their faces as if they were bored of nothing happening on their watch. Avoiding their heavy boots or bare feet as you used boxes to hide from their sight was fairly easy as you went forward. You could see the area opening up more as you approached the shaman area but you could hear noise behind a nearby structure. You could go forward and hope to find someone who could help your situation, but perhaps whatever was making that noise could help with that.</span></div></div>",
+            "created":1465707600,
+            "id":2163194,
+            "title":"Nightfall"
+        },
+        "11422":{
+            "author_id":"huntingdragon",
+            "author_name":"casper",
+            "choices":[
+                "He tosses you into his maw.",
+                "He lowers you down between his legs."
+            ],
+            "content":"<div class=\"\"><div> <span>Mages were curious people, and as a mage yourself your curiosity was making your steps drift towards that dark alley behind the building. Walking along as carefully as you could manage to be in the mostly still night you made it to the base of the building. Taking a deep breath to keep your fear of what could be waiting for you down, you started to creep along into the darker shadows in search for the source of the noises. Though as you got closer you could start to make out the low whispers of someone saying things in a tongue you didn't really understand. But you did make out part of it...<br>\r\n<br>\r\n\"Go lower, keep going\" Groaned out whoever it was.<br>\r\n<br>\r\nYour face went blank as the possibilities of what your about to find flooded into your mind, but in distracted state you failed to see the incline soon enough to avoid it. Taking the step forward was a mistake as you started to slide downwards at a startling pace along a discarded metal plate. After hitting the edge of the plate you rolled forward through the dirt covered ground, skidding to a stop with aches all over your body. Rubbing your head to get everything straight again you suddenly realized the sounds were directly overhead. A sudden droplet of something hitting nearby made you look over at it, seeing a clear fluid sinking into the dry ground. Raising your gaze upwards you saw something that you had never wanted to see in your life.<br>\r\n<br>\r\nLooming above your inch high form as a pair of trolls, one of them having  a greenish hue to his body while the other was blue. The green giant was leaning against the building with his own body block any view higher up while his partner was crouched down on his knees. But it was what they were doing that was giving the mage a chill of fear, they were both mostly naked with their manhoods erect. The standing troll had his cock slipping in between the lips of the blue giant, going through the gap between the large tusks to fill that maw. Closer down to your position between those green feet was the throbbing erection of the blue troll and as you looked in terror one of the green feet lifted up. You could only watch as those two toes, that were far larger than your own body, wrap around the cock of the blue troll to help him along. <br>\r\n<br>\r\nWith disgust and terror at the actions of these members of the horde, you start moving along the wall in an effort to escape from beneath the trolls. Your eyes couldn't leave the foot rubbing up and down the massive cock of the blue giant even as spit fell from what was going on higher up. While distracted by this you failed to notice the fingers reaching down to swipe you up off the ground without a care as to how much it hurt you as they clamped around you tightly. Blood rushed from your head as you were lifted towards the blue troll's maw even while he never stopped in his ministrations on the shaft between his lips. His glinting eyes looked over your tiny body, your head being the only thing sticking out of his grasp. Even though your distracted by the massive shaft being slurped just feet from your position, you were wondering what was in store for you now.</span></div></div>",
+            "created":1465707600,
+            "id":2163285,
+            "title":"Helping someone else"
+        },
+        "115":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Vol'jin",
+                "Garrosh?!",
+                "Thrall"
+            ],
+            "content":"<div class=\"\"><div> <span>If there was anyone in this city who would understand your plight, it would be the Warchief. After the Siege, someone much more level-headed would be in the position, and could hopefully help you get back to a way you could actually support yourself.<br>\r\n<br>\r\nBut first, you'd at least need to get there. Luckily, Grommash hold was just a simple turn down a hall, with one or two easily-avoided guards if you stuck to the wall.<br>\r\n<br>\r\nSitting at the throne in front of you was...</span></div></div>",
+            "created":1530763080,
+            "id":2515180,
+            "title":"The Warchief's Chambers"
+        },
+        "14":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Run the direction he came from!",
+                "Run away from him!",
+                "Stand where you are and try to get between his toes!",
+                "Try to hide beneath his arch!",
+                "Cast a spell at him!"
+            ],
+            "content":"<div class=\"\"><div> <span>You stand up and dust yourself off, looking around in the dim light. You could hear tremors all around you like small earthquakes, the ground shifting about slightly beneath you. You can't see much more than what the torches on the wall give you, but you're certainly shrunken. You can only hope that whoever owns this place isn't home.<br>\r\n<br>\r\nNo such luck. Around the corner comes a lumbering ogre, his feet slamming into the ground with every footstep and shaking the ground worse beneath you. His next step is looming overhead!</span></div></div>",
+            "created":1414040400,
+            "id":1876488,
+            "title":"An Ogre Mound"
+        },
+        "142":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Dive to one side",
+                "Try leaping forward",
+                "Stop altogether"
+            ],
+            "content":"<div class=\"\"><div> <span>Obviously, the smartest thing to do would be to get out of the goddamn way. You're a mage - you're smart. Besides, at your size, your spells wouldn't do a whole lot of good against an ogre that gigantic anyway! So you start fleet-footing it as fast as you can away from the lumbering oaf, but the distance is rapidly closing between you two. He'll catch up to you easily in one more step - and it'll be the one stepping on top of you.<br>\r\n<br>\r\nYou've got to make a choice - quickly!</span></div></div>",
+            "created":1414126800,
+            "id":1876749,
+            "title":"Run away from him!"
+        },
+        "1421":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "Investigate the noises",
+                "Attempt to scale the cliff face you fell from",
+                "Try to find an alternate path where you were."
+            ],
+            "content":"<div class=\"\"><div> <span>Heaving yourself to one side, you tumble aside as the ogre's massive foot stomps down where you just stood. To be on the safe side, you keep rolling in the same direction, just in case his other foot is not far behind. But you discover, very quickly, that the direction in which you moved had a steep drop-off, causing you to tumble down with a cry, further into the lower level of the mound. It would have been a slight drop down were you at your regular height, but this is a rolling tumble all the way down to the floor.<br>\r\n<br>\r\nYou pick yourself up with a groan. A quick check of your person finds that nothing is broken, just some bumps and bruises. There's considerably less light down here where you fell, but your eyes are starting to adjust to the darkness. You can hear ogre noises from further in the mound. Some of them are getting closer to you.</span></div></div>",
+            "created":1414126800,
+            "id":1876851,
+            "title":"The Gravity of the Situation"
+        },
+        "1422":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "choices":[
+                "..,are released from this fleshy prison.",
+                "...are stuck to the ogre's sole!"
+            ],
+            "content":"<div class=\"\"><div> <span>You spot your opportunity and take it. Taking everything into consideration, you leap forward TOWRAD the ogre, hoping that you will be well beyond the descending fat foot before it can step down completely. Besides, these ogres were slow as hell anyway, there would be no way this couldn't work.<br>\r\n<br>\r\nWell, if the plan was to get past the foot, it was a miserable failure. Gravity pulled down heavier on the ogre than it does on you and you end up getting stepped on. Luckily for you, if you consider it luck, you are pinned beneath the arch of the ogre's foot, which is considerably thicker than those of your own feet. You are pressed into the ogre's sole, which smothers your entire body and the pressure is starting to bear down on you.<br>\r\n<br>\r\nIt seems like forever before the ogre's foot lifts up. By this time you...</span></div></div>",
+            "created":1414126800,
+            "id":1876854,
+            "title":"Leap of Faith"
+        },
+        "14221":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "You're on a sleeping ogre's belly!",
+                "You're laying on a slab of meat!"
+            ],
+            "content":"<div class=\"\"><div> <span>As luck would have it, you're free. As luck would also have it, you weren't free immediately. <br>\r\n<br>\r\nYou find yourself being lifted as the ogre takes a step, your body sticking for only a brief moment before you're lifted off of it, finding yourself flung across the cave. You land roughly six feet from where you were, the ground feeling different here. As you look down, you make a horrified realization. <br>\r\n<br>\r\n</span></div></div>",
+            "created":1414386000,
+            "id":1878459,
+            "title":"..,are released from this fleshy prison."
+        },
+        "142211":{
+            "author_id":"jayguy",
+            "author_name":"Jayguy",
+            "choices":[
+                "head. Try to get his attention!",
+                "feet. Try to get the heck out of there!"
+            ],
+            "content":"<div class=\"\"><div> <span>The ground was soft and felt like it was moving at all times. You had to admit, after what you had just been through you were a little scared to look around. <br>\r\n<br>\r\nYou reluctantly turned around and saw an ogre snoring, its rancid breath spewing over you with each exhalation. Shocked, you started moving backwards instinctively, but that turned out to be a bad idea. As you were walking backwards, keeping your eyes on the sleeping ogre, you fell into a small pit and almost got stuck. The pit was pulsating with the ogre's breathing. Trying to find your way out, you stumble upon some... lint?<br>\r\n<br>\r\nPiecing two and two together, you slowly figure out where you are. If it's moving with the ogre's breathing, you must be inside of the ogre's belly button.<br>\r\n<br>\r\nWhich means that you're on top of the sleeping ogre's stomach!!<br>\r\n<br>\r\nThinking out out a rational plan, you climb out of the ogre's belly button. The ogre was still sound asleep but still incredibly intimidating to someone of your size. The ogre shifts in its sleep throwing on to your knees when suddenly it lifts its leg slightly and lets out a powerful earthquake-like fart. The smell immediately brought tears to your eyes.<br>\r\n<br>\r\nRealizing you need to do something quick, you decide to head towards the ogre's...</span></div></div>",
+            "created":1464498000,
+            "id":2155607,
+            "title":"At least he's sleeping?"
+        },
+        "142212":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "Shout up at the ogre",
+                "Make a dash for the hand"
+            ],
+            "content":"<div class=\"\"><div> <span>When you regain control of your senses you find yourself in an alien landscape, the ground below you is pliable and flesh like in colour with a familiar scent you can't quite place. Your surroundings still look like the dingy interior of an ogre mound, but it's clear you are no longer on the floor of this grand cavern. Well, at least you wouldn't be getting intimate with another ogre's feet anytime soon. Still, from your elevated position within the room you may be more noticeable to the large inhabitants within, and you doubt that would be advantageous; there's no telling what an ogre would do with a human smaller than one of his toes. You therefore decide that escaping this mysterious wasteland would be for the best and that finding somewhere a little less open will only increase your already low chances of survival.<br>\r\n<br>\r\nJust as you start to enact your plan, the dreaded quaking sounds you heard earlier return to your senses, threatening to smash your ear drums into a thousand pieces. On the horizon, a slow moving continent of fat and muscle fills your entire view and only gets larger as it set its sights on you. This beast seems different from the other ogre you encountered however, the last ogre was large by all means (after all, it nearly obliterated you underfoot without even noticing) but this one looks as if it struggles to stay contained within the walls of this mound. It was not merely just large in frame either, the behemoth carries a belly that looks large enough to contain every man, woman and child of Stormwind within and still have enough space for dessert afterwards. Every fiber of your being, every bone in your body, every cell in your brain is telling you to run and to not stop running but your legs refuse to move an inch, preferring instead to stand in the presence of this titan.<br>\r\n<br>\r\nEventually, the mountainous ogre lumbers over to your makeshift abode, with every step threatening to make you cry out in fear. It was at this point you notice the large plateau of carved wood between you and the giant - a table you reside on, level to the immense gut that now obscures everything else in the room from view. A single hand, dwarfed by the blubbery mountain but still enormous compared to your insignificant size makes contact with the mammoth gut before you. Each rub of that belly seems like an assertion of dominance from the ogre. You are nothing to him. Just a speck of dust in the presence of a giant. As if to further that point, the hands of the colossus reach underneath the towering bulge and raise it high, showing you the tattered loincloth of the giant and the previously obscured underhang of this hand crafted masterpiece. Just as quickly as it was raised, the hands release their load and allow the stomach to spill forth like a tsunami, creating massive tremors when it makes contact with the table, sending you tumbling onto your backside. The belly is now almost in contact with you, achieving the impossible and somehow looking even bigger this close. At this range, it's very tempting to walk up to it and touch it - to feel merely a fraction of the power this god had, but what's left of your fractured senses decide against it.<br>\r\n<br>\r\nYou eventually manage to avert your gaze upwards towards the face of the being who had  taken you captive. You lock gazes with the beast before you, his stare piercing your very soul with an uncaring grimace. His mouth opens wide to reveal a cavern lined with marble and release a long, crimson monster that licked along his pebbly lips. The more you look at the ogre, the more you realise that he has an intense look of...disinterest in you. If you didn't know any better, you would think that he was looking straight through you. Is what you are standing on really more important? Then it hit you. That smell... it's the smell of cooked meat. This whole time you had been standing on a slab of meat. The ogre hadn't seen you, he'd seen the delicacy underneath you. Just as you made that realisation, the behemoth reaches forward with one of his pudgy hands and starts lifting the meal skyward towards that dark cavern.<br>\r\n<br>\r\nIt's too late to run.<br>\r\n<br>\r\nThe maw of the ogre approaches ever closer. Your situation is dire, but if you think this through you could still escape relatively intact. You could try shouting up at the ogre; you don't know if it can hear you at your disturbingly small size and even if it could, whether it would be willing to help you but anything is better than the stomach of a hungry ogre. Another option would be to head towards the hand of the ravenous giant, it's quite some distance but the fact that he's eating barehanded makes this much easier. Again, risky but it might be necessary.</span></div></div>",
+            "created":1465966800,
+            "id":2164841,
+            "title":"In the presence of a titan"
+        },
+        "1423":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "You succeed!",
+                "Crushed!",
+                "The footstep halts. He saw you!"
+            ],
+            "content":"<div class=\"\"><div> <span>Stopping doesn't seem like a bad idea as long as you can aim yourself correctly. Looking up at the oncoming footstep, you aim yourself carefully to where his toes would come down around you. Your vision is limited, but you're certain you've got it!<br>\r\n<br>\r\nTaking a deep breath, you put your arms over your head in the vain hopes you'd avoid the immense weight. <br>\r\n<br>\r\n</span></div></div>",
+            "created":1414126800,
+            "id":1876795,
+            "title":"Stop altogether"
+        },
+        "14232":{
+            "author_id":"bugwits",
+            "author_name":"Bugwits",
+            "content":"<div class=\"\"><div> <span>Maybe there was a small lingering doubt in your mind as to whether or not this was going to work. The odds of this succeeding were about a million to one. But even so, you pushed those doubts aside to try and see this plan succeed. Despite your last-ditch efforts, however, those doubts are about the last thing that goes through his mind as the ogre's enormous foot comes down upon it, and the rest of you, brutally pressing all of his weight down upon you until...<br>\r\n<br>\r\n<font class=\"size45\" style=\"\"><span class=\"clred\"><b>SQUISH!</b></span></font><br>\r\n<br>\r\nYou may have been trying to become a great mage, but your destiny is far less dignified - squashed like the insignificant bug you are under the sole of an enormous, oblivious ogre.</span></div></div>",
+            "created":1414126800,
+            "id":1876861,
+            "title":"Crushed!"
+        },
+        "15":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Ironforge",
+                "Old Draenor",
+                "Outland",
+                "Booty Bay",
+                "Other?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps it is one of these?</span></div></span></div>",
+            "created":1414040400,
+            "id":1876547,
+            "title":"Unknown/Other"
+        },
+        "151":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "Run up to the dwarf and call for help!",
+                "Step back and watch the dwarf!",
+                "Try to run past him, who knows what he'd do to you?"
+            ],
+            "content":"<div class=\"\"><div> <span>This looks very familiar. Large stone walls, deep mountainous rumblings, tremendous laughter coming from somewhere. <br>\r\n<br>\r\nYou're in Ironforge, thank goodness. Maybe someone here can help you out, as long as you can make it to where the mages are. You can see that you're in a small area with barrels, adorned with furs on the walls and pictures of dwarves all around. Stepping forward on the solid ground, you take a few moments to walk into a new room. You're clearly in one of the homes within Ironforge, so perhaps the owner is nearby.<br>\r\n<br>\r\nNo sooner do you even think the thought than the dwarf makes himself known. A large-bearded, gray-haired dwarf steps in from the front door, cracking his neck.<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1414040400,
+            "id":1876632,
+            "title":"Ironforge"
+        },
+        "1512":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "Climb the boot",
+                "Still too risky \u2013 wait a bit longer",
+                "The dwarf is taking off his boots!"
+            ],
+            "content":"<div class=\"\"><div> <span>Dwarves have been steadfast allies with humans for many years and you could probably rely on a dwarf to help you more than any other race in your predicament. After all, a dwarf may understand your dilemma better than most in this world. This situation is a little more extreme though, as at this pitiful size the dwarf could crush you underfoot without even noticing your pleas for help. You decide to take the smart option and hopefully wait until approaching the dwarf has a lower chance of obliterating you. Hopefully.<br>\r\n<br>\r\nA nearby table towers over you, and you dash to one of the large wooden legs. Feeling a tad bit safer, you let your gaze wander over to the behemoth standing at the entrance to this abode and proceed to observe every feature of this menacing being.<br>\r\n<br>\r\nFrom your elevation, two large walls of cracked leather round and stretch skyward to form a pair of well traveled boots, eventually meeting a field of scales laboriously stitched in to some sort of vast kilt, held in place by an equally vast belt. Atop the strained belt sits an absolute monster of a gut, bare and covered with an expanse of hair, it's no doubt this tank was constructed to spend many a night in the local tavern. Further up, a thick grey beard stretches up across the wide chest like a dense jungle, rooting itself in the rotund face and hiding the jaw from view; evidently a lot of care has gone into its presentation as four glimmering gold rings adorn the landscape, fracturing the forest into five distinct territories. At the summit of this peak, rests the distant eyes of the beast, clearly exhausted and still unbeknownst to your presence. Still remaining stationary, the dwarf lets out an ear splitting yawn and stretches out his arms to his sides which, to him, was merely to relieve the stress of a long day but to you, instead looks like a show of power meant to intimidate you into submission, as mountains of muscles expanded to show you how easy they could crush you and the cavernous maw displayed how it could consume you as easily as a keg of ale. <br>\r\n<br>\r\nLooking to put this day behind him, the dwarf kicks up whirlwinds of dust and dirt as the leather continent fast approaches you. Every step shoots a loud quake throughout the landscape and rattles you to the core, which only increases in intensity as the footwear seemingly travels miles in seconds, edging closer to your minuscule form. One final shockwave violently throws you backwards, causing you to land in a heap further under the table. The titan then stops. Had he spotted you? Perhaps you should pray at this point and just hope to survive? No... he was only stopping to grab a chair to sit on. A sigh escaped your lips as the giant spread himself upon the seat.<br>\r\n<br>\r\nNow that he had stopped moving once and for all it was time to get his attention? You highly doubt he would hear your cries for help over the creaking wood and typhoon like breathing. The boot resting directly in front of you could be a good start, at the very least getting off the ground would hopefully lower the chance of you getting squashed into a paste. Hopefully.</span></div></div>",
+            "created":1460955600,
+            "id":2135408,
+            "title":"Take Cover!"
+        },
+        "15123":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "The feet are now resting on the table",
+                "The dwarf has put his boots back on"
+            ],
+            "content":"<div class=\"\"><div> <span>Before you even have a chance to choose a course of action, the quakes from earlier start to return. They seem a little different this time however - more erratic, a tiny bit less powerful than the earth shattering booms that threatened to crack the world in two from only a few moments ago but far more persistent with no breaks between the quakes. You look around for the source of this noise, noticing that the dwarf sitting in his throne above you had remained stationary, however you notice the boot directly in front of you has begun to shake violently. This could mean only one thing.<br>\r\n<br>\r\nFrom the top of the worn footwear, a distant yet still vast wall of flesh starts to ease its way out of its den. The process is a slow one, every second more of the beast escapes its restrictive prison, the skin reflecting in the dim light and showcasing a thick layer of sweat that had built up over a day's hard work. This, combined with the dwarf for some reason choosing to forgo socks leads to the air around you suddenly becoming a great deal more humid, starting to feel more like a rainforest than the middle of a dwarf's house. That is nothing compared to the pungent stench that begins to grip the air though  as the area began to adopt the smell of the reclining behemoth. The fact that the giant before you could create a new microbiome simply by removing his footwear is yet another painful reminder of your pitiful size. Even thinking of yourself as a speck of dust would be optimistic right now, this dwarf was more like an uncaring god at your size, capable of reforming the landscape around himself without even being aware of the effect it may have on you. Moping around however will not get you anywhere - you still need to get this being's attention.<br>\r\n<br>\r\nThe fleshy expanse continues to grow until it blots out the dim light above you, casting a grim visage over the landscape as if to forewarn that a great event was about to alter the very fabric of this world. You knew that even if you ran at full speed, you had no chance of escaping the recently emerged monster but perhaps if you were lucky, and stood in the right spot the beast might spare you. Hopeful that fortune would give you a break, you watch the callused ceiling approach like a distant meteor with the ravines and hills that defined the foot's ragged underside only becoming more noticeable as time goes on. Soon, the ball of the foot smashes to the ground with an earsplitting boom, kicking up a storm of dust so strong that it knocks you backwards a considerable distance with you landing flat on your back. The last thing you see before darkness overtakes you are the momentous digits of the dwarf's foot crashing down upon your battered body. <br>\r\n<br>\r\nMuch to your surprise however, you aren't quite dead. Yet, anyway. Before your senses even begin to process your surroundings though your nose is outright assaulted by the stench; it was overwhelming before but now it infiltrated every corner of your nose forcing you to gag and attempt to hold your breath in this musky prison. That out of the way, you slowly rise to your feet, surprised by the amount of free space you had to move around in this dark cavern. Very little light leads to an almost pitch darkness but you are just about able to make out walls that almost seem to luminesce against the inky blackness - surrounding you from seemingly all sides. You reach out and touch one of these expansive walls, your hand becoming enveloped in a viscous mass of fluid several inches thick that like the walls, almost glows against the dim light. Reaching further in you find that the wall is slightly pliable, responding ever so slightly to your touch. You were rather confused as to your current location, if the foot had come down upon you, why were you still alive? Why could you move around freely without the sole restricting your movement? What is this thick layer of fluid you collected? It was then at this point you realize there was only one place you could be. Between the canyon like toes of the gargantuan dwarf. You were still alive because the foot narrowly missed you; you could move freely because there was no sole above you and this fluid... a thin layer of sweat that had mixed with the dirt of the dwarf's foot, unnoticeable to him but creating an unbearable stench for you. Shortly after you make this conclusion, the canyon surrounding you begins to quake and contract, greatly reducing the amount of space you have to move around in. The dwarf merely rubbing his toes together had wedged you between the great barrier of skin, with thick syrupy sweat being massaged into every orifice of your body, completely drenching the robes you are wearing with the distinct scent of dwarf foot sweat. As the two surfaces anatgonise each other and battle for possession of you, the humidity increases to a level so high that you are barely able to breathe. Battered, bruised and choking on the dwarf's essence consciousness starts to escape you.<br>\r\n<br>\r\nYou eventually come to, but you realize that something is off about your surroundings. Clearly, you have been moved in your forced slumber.</span></div></div>",
+            "created":1470459600,
+            "id":2192085,
+            "title":"Trouble's a foot"
+        },
+        "155":{
+            "author_id":"chaoscomm",
+            "author_name":"BrutusRat",
+            "choices":[
+                "The Broken Isle?",
+                "Pandaria?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A few more? Was it...</span></div></span></div>",
+            "created":1472878800,
+            "id":2205756,
+            "title":"Other?"
+        },
+        "1552":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "A large hall. An inn perhaps?",
+                "A smaller building. A house?",
+                "Remain where you are."
+            ],
+            "content":"<div class=\"\"><div> <span>The cobbled ground easily dwarfs your current size as you attempt to figure out exactly where you are; the brightly colored buildings irradiating an eerie beauty as they loom over you, casting a large shadow that hides you from the setting sun. Comparing the architecture to second hand accounts you had heard before you feel you can make an educated guess about where you are. Pandaria.<br>\r\n<br>\r\nWhile being less than an inch tall anywhere in Azeroth could easily be a death sentence, you have no clue what the denizens here could be like, particularly as you haven't seen a single figure yet. The relatively few pandaren you have met in your life seemed cordial at worst, but there's no telling how they may act on their home turf.<br>\r\n<br>\r\nKeeping this in mind, you carefully head towards...</span></div></div>",
+            "created":1502471040,
+            "id":2367847,
+            "title":"Pandaria"
+        },
+        "15521":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "One of the pandaren engaged in conversation",
+                "One of the sleeping pandaren"
+            ],
+            "content":"<div class=\"\"><div> <span>You spot a large building in the distance, which if the sounds of jovial laughter and banter were anything to go by then it's likely this building is likely to be an inn of some sort. Thinking that this is likely where the most friendly pandaren might be, you decide to head towards it - hoping its residents are sober enough to notice you at your reduced size.<br>\r\n<br>\r\nNavigating the ravines in the cobblestone, you begin your journey to the front of the inn without encountering any of the village's residents or their footwear. The sounds of shouting and laughing only increase in volume as you approach, becoming rather strenuous on your eardrums, as it seems your reduced size has made you more sensitive to the sounds around you. After an hour of traveling or so, you make it to the front of the inn, the building's interior and residents becoming apparent to you.<br>\r\n<br>\r\nThe scene explains the quietness of the village almost instantly as at least a dozen pandaren carouse in what would be a welcoming and enjoyable environment to you. Some of these inhabitants are engaged in jovial conversation, some have clearly had too much to drink and are taking a snooze on their tables while others continue to drink well into the day. Getting the attention of even one of these titans may prove difficult, but at the very least you can tell they seem like a friendly people, if you can get them to see you you're certain that they'll do what they can to help.<br>\r\n<br>\r\nKeeping this in mind, you decide to head for...</span></div></div>",
+            "created":1534970760,
+            "id":2537430,
+            "title":"The Inn"
+        },
+        "155212":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "You dodge by the skin of your teeth",
+                "The paw comes down on you"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide it may be a better option to try and get the attention of one of the pandaren slumbering at one of the few tables in the inn; you don't deny the affability of pandaren, but trying to get the attention of one of the titans over the sound of their booming voice when you're smaller than one of their toes is going to prove nigh impossible. Not to mention, climbing a more stationary target will no doubt prove to be easier than one of the more erratic targets. It's settled then! Just need to make it across the wooden floor to one of the... wait did it just get darker?<br>\r\n<br>\r\nYou turn around to see one of the titanic pandaren standing in the doorway you entered from - you must not have heard his approach over all of the commotion going on inside the inn. This pandaren looks a little different however, the other patrons are large but this one is clearly large even compared to them, barely even able to fit through the door with his large frame as he makes his way inside. You can only watch as the behemoth takes his first step inside, the floor quaking as one of his bare soles hits the ground what was probably a few feet away at your normal size.<br>\r\n<br>\r\nUnsurprisingly, the distant behemoth looks uninterested in checking the floor for any mite sized humans, clearly more interested in heading to the bartender with that warm reassuring grin on his bearded face. This did little to reassure you however, as in what felt like seconds the once comforting smile is hidden beneath the veneer of his large gut, bouncing from the recoil of each step and even sooner, one of his paws is above you. You have to dodge out the of way immediately, or you will be becoming very acquainted with that paw...</span></div></div>",
+            "created":1580063940,
+            "id":2778744,
+            "title":"Another patron"
+        },
+        "1552121":{
+            "author_id":"biodork1",
+            "author_name":"Ahab",
+            "choices":[
+                "Head towards the bar and try to get the giant's attention.",
+                "Run for the door and find help elsewhere.",
+                "Curl up like a bug on the ground and hope no one stomps on you"
+            ],
+            "content":"<div class=\"\"><div> <span>For a moment you could only stare up in awe and tremble as the bulking behemoth entered the bar and strode towards the teeny helpless human in his path. From your flea-sized perspective you could only guess how much larger the colossal beast was compared to your diminished state. His smiling affable face seemed almost godlike and cold as he took no notice to the insignificant pipsqueak who was about to get caught under his heavy-footed tread.  Each time those impossibly huge bare paws would smack the ground it sent booming shocks through the wooden floor that made your knees buckle, and in just a few strides the giant had closed the gap between you and the door. You stood still as you saw the colossal bear's paw peeled off of the floor a distance away, before dramatically swinging forward and sailing overhead. Everything seemed to slow down as the shadow of his wide foot was casted over you, you saw the filthy underside of his massive paws in great detail as every bit of dirt and grass that stuck during his walk was on full display overhead. Suddenly realizing where you were about to end up, you finally lost your nerve and started sprinting to the side to avoid your fate as a speck of pawmuck. There was no way you were gonna make it, even as slow as the lumbering beast was he was already dropping his foot towards your puny body and your legs couldn't get you out of his path quickly enough. <br>\r\n<br>\r\n<b>THOOOM</b><br>\r\n<br>\r\nSuddenly you were swept up in a gust of wind and pushed violently forward, just as the massive foot of the unwitting titan dropped like a hammer behind you. The force of air being displaced by the giant's careless stomping had just narrowly saved your life. You law back and gasp for air as you stare awestruck at the immense foot of the massive beast who almost just smushed you like an ant. It was at least 100 times longer than your body and caused the floorboards beneath it to groan and creak loudly as his massive weight settled onto it. Then, just as quickly as it had dropped beside you it was lifting off and striding away as the giant took another mighty step. You continued to stare as the gigantic paw lifted off the floorboards beside you and swung forward again, the filthy underside of his foot left a huge noticable dirty pawprint on the tavern floor as he stomped away and sat down heavily at the bar. <br>\r\n<br>\r\nPicking yourself up off the floor after that ordeal, you proceeded to...</span></div></div>",
+            "created":1591917720,
+            "id":2849881,
+            "title":"You dodge by the skin of your teeth"
+        },
+        "15521211":{
+            "author_id":"biodork1",
+            "author_name":"Ahab",
+            "choices":[
+                "Cautiously start to approach and climb the towering beast.",
+                "He must be ticklish somewhere...",
+                "The clumsy oaf spills his drink."
+            ],
+            "content":"<div class=\"\"><div> <span>You stand up and try to cease the quaking in your legs as you looked towards the very large patron that had just arrived to the bar. You could swear that it knocked the dust loose from the nearby shelves and ceiling boards when he sat down on a large stool and settled his immense weight. You had the immediate instinct to run or hide, but you knew neither of these were good options. Running just meant scurrying around helplessly on the ground until one of these unobservant titans inevitably caught you underfoot, and hiding meant finding a comfortable gap in the floorboards and living off of whatever happened to fall on the floor of the tavern. You glanced at the giant muddy pawprint beside you that dwarfed you in size,  and thought of what it would be like trying to live inbetween the floorboards of a tavern with paws this big stomping back and forth overhead all day. No, you were going to have to get one of their attention one way or another, but where to start. <br>\r\n<br>\r\nScanning the tavern from your puny point of view didn't give you much to go off of besides the feet of the patrons. Looking around you saw a lot of different paws, some sat alone and some in pairs. The patrons who were sitting together and conversating weren't good options. They were all too active and fidgety with their paws as they sat, and many were getting up from time to time to walk around. They would often stamp their feet and laugh loudly at each others drunken humor as well. The idea of testing your luck underfoot one of these colossal tipsy bear giants when you've already almost been stomped on was enough to shut the idea down. The blackout drunks also didn't seem like a very good choice though, sure you could climb them if they stay asleep, but how were you going to wake any of them up once you needed them? Besides, you can't guarantee they would even understand what's going on. What if they were so drunk that they just plucked you up and popped you in their mouth like a bar olive when they notice you? No, out of your limited options neither of these seemed very wise. <br>\r\n<br>\r\nThen your attention was drawn back to the hulking behemoth that had almost stomped on you earlier. He was still sitting at the bar and it looks like he hasn't moved since settling down. He was sitting rather silently, and he wasn't fidgeting or stomping his feet, at least not enough to really be a threat. The colossus has sat relatively close to you, and you had to crane your neck to see his expression. It seemed that he had been served while you weren't paying attention, he was sipping away what looked like gallons of ale with every gulp from the massive tankard in his grasp. Not seeing much of another option, you started heading across the floorboards towards where the towering patron sat. You scuttled across the floor as fast as you could, passing by each of the wide muddy prints that the behemoth had stamped onto the floor on his way to the bar.  After a few minutes you arrived, you were beside the bar and close enough to the gigantic paws of the bear to smell them. The scent of the bears immense paws coated with sweat and earth was indescribably bad, enough to make your eyes water even at a distance. Gazing upwards past the rank paws and huge belly of the beast, you saw the kind smiling face of the patron that had almost squashed you earlier. When you were about to be crushed by him that expression had seemed almost cold and dismissive, now the giant's wide friendly smile was the only beacon of hope in your world of towering beasts and thunderous footfalls. The giant brought a pudgy hand to his king sized gut and clutched it as he took another massive swig of his ale, while you watched below and pondered what to do next...</span></div></div>",
+            "created":1592121180,
+            "id":2851015,
+            "title":"Back under his shadow"
+        },
+        "1552122":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "Head upstairs to get some rest",
+                "Drinks at the bar",
+                "The pandaren is approached by another patron"
+            ],
+            "content":"<div class=\"\"><div> <span>Try as you might, you can't force yourself to run from the impending paw, you only just managing to turn to run as the three toed titan makes its descent. Soon the entire sky becomes paw, as the rear of it impacts the floor inches away from you, and you are only able to look up as the large central pawpad descends upon you, sealing you in darkness as your fate beneath this unaware behenmoth is also sealed.<br>\r\n<br>\r\nAt least, that's what you thought.<br>\r\n<br>\r\nThe pressure is immense, but manageable as despite the intense heat and darkness you are able to remain in the world of the living - for now anyway. What feels like years pass as the pawpad hugs you tightly before the pressure finally begins to recede. Thank the light, the pandaren is taking his paw off you - finally you can get away and find someone to help you out of this mess. It quickly became clear however, the paw was not finished with its loving embrace.<br>\r\n<br>\r\nThe paw did rise but with you as a passenger, the thin layer of sweat adhering you to the rough surface of the pawpad as the paw accelerates ever faster with the wooden floor you once called home growing ever more distant. Soon the foot reaches the precipice of its stride and starts to descend once more, leaving you in the uncomfortable darkness once more. The process repeated over and over, seemingly never ceasing and you began to wonder if you would be doomed to be lint stuck to a paw of a gargantuan pandaren for the rest of your life.<br>\r\n<br>\r\nAs you pondered this, your captor up above was having some much nicer issues to consider. Should he head upstairs to rest his weary paws or grab a few drinks from the bar to rest his grumbling tummy?</span></div></div>",
+            "created":1591439100,
+            "id":2846654,
+            "title":"Underpaw"
+        },
+        "15521221":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "Rubbed his aching paws",
+                "Went straight to bed"
+            ],
+            "content":"<div class=\"\"><div> <span>Stuck below the powerful bear paw, it was nigh impossible to tell what the pandaren was planning and in your predicament, you couldn't care less - whatever allowed you to escape your prison sooner and get help worked for you.<br>\r\nUnfortunately, it seemed like the titan was not stopping just yet as the stomping into the floor continued, which despite having some time to grow accustomed to did not become any less uncomfortable to you. You just thanked the light that the worst you had was a few minor bruises and scrapes at this point, but there was no telling when or if your luck would run out. <br>\r\n<br>\r\nAs the paw started to raise you noticed something was off as the paw was clearly lifting higher than before. Something that the pandaren above probably didn't even notice was a massive hint to you as you looked down to confirm your suspicions. A wooden step, which could only mean one thing. The pandren was heading upstairs to one of the inn rooms, perhaps to get some sleep? You did not know, but you steeled yourself knowing that the end of your ordeal was in sight.<br>\r\n<br>\r\nYou did however forget one thing, which became immediately apparent as the pandren made his first step up the stairs. Walking up the steps would require him balancing on one paw as he brought is immense frame up to the next step. Again, this was something that was nearly imperceptible to your captor, but something that threatened to break bones or worse if you were unlucky. As the paw came down the pressure was even more immense than usual, so immense that it almost felt like you were about to become one with the paw itself. All the air was squeezed out of your lungs and the pain in your limbs was immense for a few long seconds but you survived as the paw started to raise again. You had survived the first step.<br>\r\n<br>\r\nThe journey did not get any easier as the odyssey continued, with each step coming dangerously close to breaking something but miraculously being saved at the last second each time. Soon enough, the hardest part was over as the titan made it to the top of the stairs and began to make the last leg of the journey, which while certainly uncomfortable was nowhere near as bad as your ordeal on the stairs and you were thankful to the gargantuan bear for that. It was unusual but you almost had a sense of kinship with your captor, a sort of appreciation for surviving the unusual journey together - even if he was completely unaware of your existence. It was then you remembered that this beast was more than an inanimate paw and just because he was unaware of your plight did not mean he wished it upon you. The pandaren above that was simply that, a pandaren, no matter your difference in size. You just hoped you could get his attention and he could hopefully help you out of this predicament.<br>\r\n<br>\r\nAs your mind wondered you failed to notice that the pandaren had stopped to open the door to his room, walked in and had shut the door - sealing you in the same room alone with the beast. He took a few more steps before sitting on the base of the bed, it groaning in immense protest beneath his gargantuan frame.<br>\r\n<br>\r\nThe paw sat just above the floor, resting on its heel and giving you a chance to get a breather if only for a few seconds as the pandaren...</span></div></div>",
+            "created":1591439160,
+            "id":2846656,
+            "title":"Moving On Up"
+        },
+        "155212211":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "Grab onto the paw",
+                "Too risky - stay put"
+            ],
+            "content":"<div class=\"\"><div> <span><br>\r\nAs your titanic captor sits on the bed, you're hopeful that the worst of your ordeal is over. The pandaren however, has other ideas.<br>\r\n<br>\r\nStuck to the massive paw of the titan, you have little to do until the vast pandaren decides to head to sleep. It comes to a surprise then, when the light of the room is once again blotted out by something large. Is he getting up again? No, it doesn't look like it. Looking up, you see the large pudgy hand paws heading towards you or at least the feet you're on. While it looks like the pandaren hasn't noticed you specifically, he has noticed the mild irritation you have been causing and he intends to do something about it.<br>\r\n<br>\r\nThe chubby fingers crash into the ground and start vigorously rubbing against the sole, the loud sound of skin rubbing against skin omnipresent to you. The murring and moaning of the bear rumbles you to your core as you continue in vain to try and escape your fleshy prison but are unable to do so and soon the large rubbing paws are above you, the large surfaces pressing you deep into the pawpad. The process was surprisingly painless, if a little uncomfortable - hells, you even think if the pandaren was aware of your perilous situation you might enjoy it but that would be something to worry about another time. <br>\r\n<br>\r\nThe pandaren continues to massage the paw and you along with it, pushing you a little deeper into the crevasses of the pawpad and making you smell just a little bit more like paw musk every time he does so. After a few attempts, you realise that you could probably grab onto some of the hand fur to pull yourself from your prison. It isn't without its risks though, as you don't know where the pandaren might be putting that hand next...</span></div></div>",
+            "created":1591439280,
+            "id":2846657,
+            "title":"Rubbed his aching paws"
+        },
+        "1552122111":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "The belly",
+                "The mouth",
+                "The pants"
+            ],
+            "content":"<div class=\"\"><div> <span>You wait until the pandaren massages his paw once again and attempt to grab onto some of the white fur of his hand before it recoils. Reaching out, you manage to do so just before the hand retreats and are pulled from the paw prison with a *shlorp* and the sweat keeping you stuck to the paw releases you.<br>\r\n<br>\r\nNow gripping onto the hand for dear life you can only watch as the hand moves towards...</span></div></div>",
+            "created":1591439340,
+            "id":2846658,
+            "title":"Holding onto hope"
+        },
+        "15521221111":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "Retracts his hand and goes to sleep",
+                "Kneads his tummy",
+                "Gets up - looks like your ordeal isn't over"
+            ],
+            "content":"<div class=\"\"><div> <span>The gargantuan hand moves up through the heavens at a rapid pace, providing quite the sense of vertigo as you hold on for dear life. Your ascent slows however as you near the pudgy midsection of the pandaren, its large girth spilling over a rope belt that clearly looks uncomfortable carrying so much weight. You have to admit, it is almost impressive how large the doughy belly is; it's clear that this pandaren spends a lot of time filling it with delicacies when he gets the chance.<br>\r\n<br>\r\nYour mild admiration does not last long however, as the monolithic stomach expands so you can no longer see the curved edges of it. The hand is settling upon the stomach and in no time at all, you are squashed against the belly and the hand. The tummy is soft, much softer than the paw you were previously prisoner to and you can't help but be thankful for that as the stomach bubbles below, almost as if to emphasise how easily the pandaren could add you to it if he wished. The pandaren instead...</span></div></div>",
+            "created":1595010660,
+            "id":2870531,
+            "title":"Belly of the Bear"
+        },
+        "15521221112":{
+            "author_id":"biodork1",
+            "author_name":"Ahab",
+            "choices":[
+                "Directly into the yawning mouth of the giant",
+                "Directly onto the giant's wide snout"
+            ],
+            "content":"<div class=\"\"><div> <span>You clung for dear life to the Giant's hairy hand as it withdrew from the massive scrunching feet of the Pandaren. Each of the titanic toes on the Pandaren's weary paw flexed farewell to the mite sized human as the hand lazily moved away. All you could do was grip as hard as you can as the Pandaren lifted both legs over and laid his head down onto the lumpy pillow of his inn bed. The entire frame of the bed groaned in protest as the gargantuan Pandaren settled onto the mattress. The trip through the air on the side of the huge clawed hand was terrifying and made worse by the Pandaren settling into bed. <br>\r\n<br>\r\nWhen you got the courage to open your eyes again you saw that you were moving over the fur covered surface of the giant's immense and ever active gut. The impressive rounded paunch of his huge belly steadily moved up and down with the giant's breathing as you were carried past his hairy chest and stopped directly over his huge sleeping face. Your huge unwitting captor's eyes were closed tight, and you could only cling frozen to his hand for safety as the giant's massive maw stretched open directly below you. Your gaze was locked in horror as the wide mouth of the massive beast opened at an agonizingly slow pace. As his jaws and lips parted, you caught the full view as strands of thick saliva stretched and snapped between the bottom and top of his mouth. His teeth glimmered in the dim light his room and his slimy tongue sat underneath you, slick with saliva. As a crumb sized human you couldn't be in a more terrifying position, if you lost your grip and fell into the Pandaren's cavernous mouth he would likely gulp you down without any notice. The hand that you clung to moved ever closer to the giant's widening maw as the sleepy titan started to take a huge yawn. You wish you could cover your ears as the massive mouth below you started to inhale very deeply for a few seconds, the few long strands of saliva still unbroken shook violently and his tongue quivered as the oversized mouth you hung over inhaled with a terrifyingly loud sigh. <br>\r\n<br>\r\nUnfortunately for you that was the easy part.<br>\r\n<br>\r\nWhen the huge bear started to exhale in a massive yawn you could only hold on for a few moments before losing grip and being flung off. The gale of hot breath that the Pandaren behemoth unleashed onto you stung your eyes and shook you around as you clung to his hand. The hot and humid wind blew hard on your tiny body and covered you with the beast's spittle. The overpowering breath of the giant beast also carried the unmistakable scent of what it had for lunch, fish and sharp cheese with bread and ale. You didn't want to end up as a small side to what was brewing in this mighty Pandaren's stomach, but you had very little control over what happened next as the blast of hot breath bellowing from his mouth forced you to loosen your grip and fall...</span></div></div>",
+            "created":1591840800,
+            "id":2849373,
+            "title":"Over The Yawning Abyss"
+        },
+        "155212211121":{
+            "author_id":"blhepr",
+            "author_name":"Bleeper",
+            "choices":[
+                "You escape - just",
+                "Pulled into the mouth"
+            ],
+            "content":"<div class=\"\"><div> <span>The maw below you only grows larger as the pandaren continues to yawn, massive pools of saliva continuing to form on the undulating tongue, flowing down to the ocean of spittle below you. The sight is only made more terrifying by the large fangs of the bear like creature, standing tall not unlike some of the towers you would find in Stormwind.<br>\r\n<br>\r\nThe rancid, human air only gets worse too as the mouth continues to spew out stale air at an unfathomable rate. The humid breath has now started to seep into everything in sight, namely your clothes and the fur that you have suddenly become very attached to. Trying as hard as you can, there is little you can do to hold on and soon, the wet fur slides out of your grasp and you descend into the abyss below.<br>\r\n<br>\r\nYou can only watch as the paw, your final lifeline, grows more and more distant and soon but surely, you crashing into the surface of the saliva ocean. You spit out the warm fluid and immediately try to get your bearings; it seems that you have been deposited onto the tip of the immense tongue. Escape could still be possible if you swim with your might, but you had better hurry - it looks like the panadren is done yawning!</span></div></div>",
+            "created":1591886340,
+            "id":2849668,
+            "title":"Into the abyss"
+        },
+        "1552122111212":{
+            "author_id":"biodork1",
+            "author_name":"Ahab",
+            "choices":[
+                "Inside his belly..."
+            ],
+            "content":"<div class=\"\"><div> <span>You flail and scream as you fall into the gaping maw of the yawning Pandaren. Your puny body fell past the hot gale of breath that surged from the beast's chops, and straight towards a viscous ocean of spittle that had gathered on the back of the wide quivering tongue. You hit the surface and sunk below, instantly fighting to swim upwards lest you drown in the slobber of the uncaring oaf. Your head broke free of the liquid and gasped for breath, instantly recoiling at the intense foul smelling breath that you sucked in. Gazing upward, you see the tongue that you were on raised upward towards the wide open jaws of the beast. You were uncomfortably close to the back of his throat, and you were going to have to climb vertically on his long slimy tongue to reach the distant lips of the bear. Then you were going to have to somehow get by his huge gnashing teeth, each dwarfing you in size, before exiting through his lips. Not like you were ever going to get the chance however, as the Pandaren was withdrawing his hand from the front of his mouth as the jaws slowly closed and the lips sealed you in. The dim light that was flooding into his open mouth was slowly shuttered out as the wide maw of the beast clamped shut. Sitting in absolute darkness with nothing but the heavy breathing of the sleepy Pandaren to keep you company. Next thing you knew you were tossed into a world of chaos as the giant tossed you around in his tongue as he gathered up all the saliva in his mouth. The unwitting behemoth was going to swallow all of the excess spit in his mouth, and you were going to be swept up alongside it. Without any chance to retaliate, the behemoth gathered you up in the back of his mouth and swallowed you whole.<br>\r\n<br>\r\n<font class=\"size5\" style=\"\"><span class=\"clgreen\">GLUCK</span></font><br>\r\n<br>\r\nThe Pandaren smacked his lips and smiled as he yawned and scratched his belly. Nothing seemed to beat the pleasure of eating a big meal and then taking a nap, at least not for him. He sighed contentedly as he massaged his big hairy belly, he could feel it was stuffed to the brim and working very hard to digest. He could feel gas starting to build up in his tummy too, and he massaged the spot with a wide open palm until he could feel it shifting towards his throat. He clutched his belly as it expelled the gas and he felt the belch rising.<br>\r\n<br>\r\n<font class=\"size5\" style=\"\">Mmmm... <span class=\"clgreen\">BUUUUURRRP</span>... Aaahh...</font><br>\r\n<br>\r\nThe great chubby oaf sighed in relief as he felt his stomach relax and continue to churn its contents. That burp tasted of fish and cheese, a fact that made him smile as he thought about all of it churning through his innards. <br>\r\n<br>\r\nThe giant stuffed bear couldn't have ever known about the stowaway in his gut. <br>\r\nThe sleepy titan scratched his gigantic stomach and dozed off without any concern for the tiny human that was now trapped in his bowels.</span></div></div>",
+            "created":1592170260,
+            "id":2851276,
+            "title":"Pulled into the mouth"
+        },
+        "15521221112121":{
+            "author_id":"biodork1",
+            "author_name":"Ahab",
+            "choices":[
+                "Surrender to his gut.",
+                "Fight back with all your strength. The little that you possess."
+            ],
+            "content":"<div class=\"\"><div> <span>The gentle breeze smelled sweet as you sat outside your favorite cafe in Stormwind. You had a hot cup of tea brewed just the way you like sitting on the table and the sun shone directly over the bustling streets of the city. The scene was absolutely stunning, and for a moment you closed your eyes and let it sink in. You felt so relaxed and peaceful that you could just fall asleep right in your chair without any worries. Nothing could ruin such a perfect day.<br>\r\n<br>\r\nThat's when you felt it coming. At first a little bit, then a little bit more. Your eyes peeled open and the first thing you noticed was that the streets that were once crowded with active citizenry and commerce were now deserted and dead silent. No signs of anyone even being there. The next thing you noticed was the tea in front of you. Every few seconds the perfectly smooth surface of your drink would jostle and ripple, as if someone was elbowing the table. It kept happening, and you could definitely feel something shaking the ground now, almost as if something really big was...<br>\r\n<br>\r\nYou were too unnerved to stay idle any longer. You shot up, knocking your chair over in the process and sprinted through abandon streets and alleys towards Stormwind's main gate. That recurring tremor in the ground continues under your feet, and was getting worse each time. It seemed something big was coming. <br>\r\n<br>\r\n<font class=\"size3\" style=\"\">BOOM</font><br>\r\n<br>\r\nNot just big, gargantuan, and the entirety of the city has left you to fend for yourself. <br>\r\n<br>\r\n<font class=\"size35\" style=\"\">BOOM</font><br>\r\n<br>\r\n<br>\r\n<font class=\"size4\" style=\"\">BOOM</font><br>\r\n<br>\r\n<br>\r\n<font class=\"size45\" style=\"\">BOOM</font><br>\r\n<br>\r\nIt was getting difficult to stay on your feet as each passing quake threatened to trip you up, but you gunned it and eventually reached the bridge leading to the main gate.. What you saw in the distance when you got outside the city made you want to run back inside the walls and find as deep a hole as possible to hide in. <br>\r\n<br>\r\nOff in the distance, past the bridge and main doors of Stormwind was a behemoth that was taller than anything he had ever seen in all of Azeroth. It was an impossibly massive Pandaren, taller than any surrounding mountain was stomping through the Elwynn Forest towards your fair city. The hulking giant sported an ample gut, and it shook up and down as the beast approached. Each thunderous step was now forcing you to your knees, and more and more of your vision was dominated by the approaching god as it loomed ever closer. Finally you could see the underside of it's massive black bear paws as they crushed everything in their path. The final devastating step from the beast swung forward and dropped directly onto the heavy main door of the city in the loudest crash yet. The reinforced tower walls and gate crumbled like sandcastles under the impossibly heavy weight of the colossal panda's wide sole. The three enormous toes on the giant monster's wide paw settled their weight into the ground as the sole sunk in and left a nice heavy impression, the only escape from the city was now sealed tight under the sole of the massive domineering bear god.<br>\r\n<br>\r\nThe giant stopped, and your gaze followed the massive foot that was resting where the walls to Stormwind used to be upwards towards the owner. The godlike oaf's wide smile was barely visible beyond the wide curve of his sizable gut. You shuddered as you thought about the fate of your city now. Stormwind was either going to end up smashed under this beast's massive paws or stuffed inside it's greedy belly. The looming behemoth didn't stomp towards the city or slurp it up however. It actually seemed like it was looking down at you, despite the fact that you must be smaller than a grain of rice from the colossal bear's perspective. Your suspicions were dreadfully confirmed as the enormous got onto one knee with a quake and settled his weight onto his foot that stood on the ruins of the gate. The giant's intent stare was focused on you as he leaned down and extended one pudgy hand towards your tiny helpless body. The thought of running wasn't even present in your mind as you submitted yourself to the whims of this towering monster. The shadow of his massive hand cast you into darkness, and light was brought back once you were being (rather gently) pinched between the behemoths thumb and forefinger. <br>\r\n<br>\r\nThe monster lifted you as he rose back to his full height, and even though you had ridden the griffins plenty of times in your travel nothing could prepare you for the vertigo of being lifted to this towering creature's full height so quickly. The beast raised you past it's gigantic belly which it was now rubbing with an unmistakable eagerness, and in front of the monster's wide snout. The large eyes of the beast were focused on it's tiny catch, and figuring this was your only chance to somehow change the giant's mind you made your bid of screaming your puny lungs out and praying to the heavens. Seems the heavens and the beast weren't going to listen to you however, as maw of the hungry giant slowly opened and his wide slimy tongue came out to lick his chops before his meal. The mouth opened wide, and whatever puny pleas you were shouting at the giant were drowned out as the giant gave a large exaggerated hungry sigh. <br>\r\n<br>\r\n<font class=\"size5\" style=\"\">Aaaaaaaahhh</font><br>\r\n<br>\r\nStruggling was hopeless, as the massive hungry mouth of the monster eagerly opened you were raised directly over the big slobbery deathtrap. Each massive fang of the monster glistened in the sun, and its tongue shook and stirred in his mouth with anticipation at tasting its tiny snack. Finally, after the cruel giant dangled you there for awhile between its thumb and forefinger, he decided to finally to release you from his grip and gobble you up. You fell past the hot breath of the beast as its widening maw came closer. You fell into the giant's mouth, it's jaws snapped shut behind you and you were enclosed in darkness.<br>\r\n<br>\r\n                                                                                           ************************<br>\r\n<br>\r\nYou awoke with a fright as you struggle to grasp your situation. That was all a dream? It was pitch black where you woke up, the ground you were on felt wet and slimy, and by the gods the smell of this place. That's when the events leading up to this hit you like a truck as you remembered everything. Being shrunken and transported to foreign lands, looking for help from the massive and oblivious locals, getting quickly caught underfoot, and then somehow topping that by being unknowingly eaten by the same mammoth sized oaf. That's right, you were the size of a crumb, and you had ended up in this hulking giant's busy stomach. With a bit of elementary magic you manage to illuminate your surroundings, and you almost wish you hadn't.<br>\r\n<br>\r\nThe inside of the Pandaren's stomach was filled to the brim with its last meal. Large hunks of decomposing bread, half melted bites of cheese and heaps of fish fillet all poorly chewed were stewing in the vast ocean of his grumbling tummy. Looking down you could see that the piece of solid ground that you were standing on was actually a fish head from the beast's meal, swallowed whole and bobbing sideways on the surface of the bubbling chyme. The walls of the stomach were always shifting and mixing the contents of the bear's tummy, and you dropped flat onto the fish head and clung for dear life as they jostled you and threatened to knock you off your only bit of safety and into the churning digestive ocean. The sound of gurgling and deep bowel movements was constant and incredibly loud. The bubbling contents of the bear's digesting meal was loudest of course, but you could certainly hear that lots of food was moving through deeper inside the bowels of this beast too. By the time this behemoth gets up his stomach will be empty too, and it was almost certain that he was going to be stuffing it full again as soon as he woke from his slumber. You were gonna be a small part of that, a very small part of that. Stuffed in between one big meal and the next, you were gonna be packed in like another tiny morsel and pushed with his food all the way through his guts. What was even going to be left of you when you come out the other side?<br>\r\n<br>\r\n\u201cAt least Stormwind is safe.\u201d You thought as you clung for purchase and considered your fate. The same giant that obliviously stomped on you and tracked you to his bedroom on the bottom of his paw had also managed to unwittingly swallow you whole. Now you were just another bit of protein that was going to be mixed in with the rest of his meal.</span></div></div>",
+            "created":1592222760,
+            "id":2851607,
+            "title":"Inside his belly..."
+        }
+    },
+    "info":{
+        "author_id":"chaoscomm",
+        "author_name":"BrutusRat",
+        "brief_description":"A traitorous mage has pushed you through a portal to somewhere dangerous in Azeroth!",
+        "created":1301305500,
+        "description":"<td align=\"left\" class=\"norm\">You are a denizen of Azeroth.<br>\r\n<br>\r\nA traitorous mage has pushed you through a portal to a hostile world! Your body has been reduced to barely an inch tall in the process! Will you survive?<br>\r\n<br>\r\nMALE ONLY.<br>\r\n<br>\r\nPLEASE REFRAIN FROM SCENT PLAY.</td>",
+        "id":1763137,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1595010660,
+        "modified":1595010660,
+        "pretty_title":"Warcraft: The Shrinking Mishap"
+    }
+}

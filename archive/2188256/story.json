@@ -1,0 +1,599 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "Toriel's",
+                "Undyne's",
+                "Alphys's",
+                "Sans's",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a human. Thousands of years ago humans ruled the world, there was art, culture, that kind of thing. But then the monsters arrived. They were huge, and we had no way to fight them. The world was theirs in a matter of days after their surfacing, and what was left of humanity hid in the dark, being little more than vermin compared to them.<br>\r\n<br>\r\nYou specifically have been hiding insides the wall of a house for several months, scrounging scraps and crumbs and avoidng the homes owner. In fact you live in _____ house</span></div></div>",
+            "created":1555304400,
+            "id":2644931,
+            "title":"Start"
+        },
+        "11":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "Looked for Toriel",
+                "Looked for Food",
+                "other."
+            ],
+            "content":"<div class=\"\"><div> <span>You used to live in Garden. Garden was a beautiful place built by the Mother Toriel. From dead earth a Paradise grew in only a few months and for the years you lived there it was a beautiful Oasis, but you were forced to leave after being seen by the Mother.<br>\r\n<br>\r\nBeing seen made the others believe that you were chosen to follow Toriel. You were forced out of the city of Garden on a Pilgrimage to her home...<br>\r\n<br>\r\nYou easily followed her path and made it to her home, where you have been living for the last few months.<br>\r\nToday you woke up and </span></div></div>",
+            "created":1567918800,
+            "id":2714860,
+            "title":"Banished."
+        },
+        "12":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "Go get food",
+                "Find out where Undyne is so you can avoid her",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You are in a particularly dangerous home. Other humans warned you about this monster, she was loud, intimidating and seemed like the kind of monster who would gladly eat a human. You've picked up that her name was Undyne through her visits from a smaller yellow monster. Anyway you actually picked this place because of the danger. <br>\r\n<br>\r\nSince so many humans were afraid of Undyne, you could easily get any food she left around the house without risking other humans stealing it. You like it here, although the house is weirdly shaped like a fish. <br>\r\n<br>\r\nYou've just woken up for the day and are about to...</span></div></div>",
+            "created":1555304400,
+            "id":2644940,
+            "title":"High Risk, High reward"
+        },
+        "121":{
+            "author_id":"eggzsupreme1",
+            "author_name":"EggzSupreme",
+            "choices":[
+                "You dash towards the piece of cereal",
+                "You freeze as you hear loud footsteps",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up to the faint nose of your stomach growling. You were starving, Undyne had been very active the last few days and you haven't been able to go out and scavenge for food.<br>\r\n<br>\r\nYou just had to go and get food, even if it meant risking your life at the feet of Undyne. You get up, preparing to journey out of your little safe spot into the house of the oblivious fish giantess.<br>\r\n<br>\r\nYou begin walking through the vast expanse that is the hallway. In the distance, you spot what looks like a lone crumb of cereal! It was tiny, but it would be enough to last you through the day</span></div></div>",
+            "created":1559710800,
+            "id":2669401,
+            "title":"Risky voyage"
+        },
+        "1212":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "Close Call but you make it.",
+                "Undyne crushes you before you make it",
+                "Undyne spots you as you break for the hole."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Crap.\"<br>\r\n<br>\r\nYou don't have to be too clever to figure out exactly who is stomping this way. Turning your head, you see the massive frame of your oblivious Aquatic roommate in the distance. She seems miles away to you, but you know she'll be right on top of you in a matter of steps. Possibly literally. <br>\r\n<br>\r\nOne of your bolt holes (A hole in the wall you used to hide from the monster) is about 30 yards from you, If your lucky you may be able to make it there before your spotted, or worse, Crushed.</span></div></div>",
+            "created":1559710800,
+            "id":2669513,
+            "title":"Well...Crud."
+        },
+        "12121":{
+            "author_id":"eggzsupreme1",
+            "author_name":"EggzSupreme",
+            "choices":[
+                "You follow her and try to retrieve the piece of cereal, you're starving",
+                "It's not worth the risk..."
+            ],
+            "content":"<div class=\"\"><div> <span>You run towards the bolt hole, with Undyne quickly approaching your location. Undyne's thundering footsteps were getting louder and louder, and you were almost at the bolt hole... <br>\r\n<br>\r\nAt the last moment, you jump into the hole, just as Undyne's foot slams behind you. You collapse on the ground, and as you are catching your breath, you see Undyne step on the piece of cereal you were planning to eat. The giant fish lady walks away, with the piece of cereal embedded in her plump blue sole.<br>\r\n<br>\r\nWell darn, there goes your breakfast, guess you're gonna have to starve, unless you're mad enough to try and retrieve the piece of cereal.</span></div></div>",
+            "created":1559883600,
+            "id":2670169,
+            "title":"Nearly didn't make it"
+        },
+        "121211":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "You successfully get the Cereal",
+                "You cause her foot to spasm"
+            ],
+            "content":"<div class=\"\"><div> <span>Well. It's been several days since you ate. At this point it's starve to death or risk getting crushed. Decisions, decisions...<br>\r\n<br>\r\nMight as well pick the one that doesn't lead you to CERTAIN death. This would hardly be the first time you plucked a crumb  right from under Undyne's nose, or rather foot, without her noticing. However you better do this fast. Undyne watches TV for about an hour before going jogging, and that would probably destroy the cereal.<br>\r\n<br>\r\nYou make your way to the living room. Undyne is lying on a couch watching TV, her feet are hanging over the edge of the couch. You can see the crumb. You make a run for it and begin to try and get the cereal, without alert Undyne to your position...</span></div></div>",
+            "created":1559883600,
+            "id":2670215,
+            "title":"What the heck, I'm dying anyway."
+        },
+        "1212111":{
+            "author_id":"eggzsupreme1",
+            "author_name":"EggzSupreme",
+            "choices":[
+                "You eat it here and now, under Undyne's foot",
+                "Try and sneak away to a safe place to eat your breakfast"
+            ],
+            "content":"<div class=\"\"><div> <span>When you get halfway to Undyne's foot, you instinctively pinch your nose. Her feet smelled even before she goes for her daily jog, and you haven't risked smelling them after the jog. You make it to the crumb, and you place both hands on it.The cereal was firmly lodged into Undyne's blue sole, so you start pulling harder and harder.<br>\r\n<br>\r\nFinally, the piece of cereal dislodges and you fall backwards. Luckily Undyne didn't hear you falling on your butt, so you get up, with your breakfast in hand. The Cereal was hardly appetizing, it was semi flattened, soggy and smelled of sushi, but you were so damn hungry, you just had to fill your belly with something, anything...</span></div></div>",
+            "created":1559970000,
+            "id":2670338,
+            "title":"The breakfast of champions"
+        },
+        "12121111":{
+            "author_id":"italianoal100",
+            "author_name":"Italian",
+            "choices":[
+                "She is going out. Run away as long as you can.",
+                "She saw you and her hands are approaching!"
+            ],
+            "content":"<div class=\"\"><div> <span>With a firm grip, you keep your future meal in your hands, you can't believe it, finally something to eat. You get up and decide to return to your shelter, but first you decide to look up to see if Undyne hasn't seen you yet, you must always be careful especially when there is a being over 100 meters high. You can only see the immense, blue and stinky sole over your head. This isn't a good  place to be. Carefully you began to walk away, always glancing at Undyne. Now you can see her long legs, at least for you, continue upwards until you reach the edge of the sofa. She is still watching TV, everything is going to be just fine; until you heard a sound: <i>Groowl</i>.<br>\r\n<br>\r\nYou freeze immediately, your stomach has betrayed you because you are so, too hungry. But you have to resist, you can't eat here, near to <b>her</b>... but for days you haven't put anything in your teeth.. You look up again, she is always there watching TV, she hasn't heard you yet and you shouldn't even take to much to eat... <br>\r\nYou feel your stomach grumble again ... no more wasting time. So you decide to bite the cereal remnant and fill your hunger.<br>\r\n<br>\r\nOnce the mouth is closed, you can taste the horrendous taste of the food you have in your hands, it's something really disgusting, well it could not be anything different something that was on the ground and stomped by a sweaty foot of a monster. You want to spit it out, but you can't, you have to send it down. And after a couple of chews, you swallow the cereal of the taste of rotten sushi. You're struggling enough to continue, but the more you think, the more you waste time and therefore the more risk begin seen, so even if against your will, you close your eyes and take another bite, and then another and in a minute you finish eating. Your stomach thanks but your body doesn't. You only feel the dry tongue and the rancid taste left in your mouth.<br>\r\n<br>\r\nYou recover and once you open your eyes, you realize the surrounding environment, but notice something strange: there is silence. You turn around and you see the TV off, but before doing or even thinking about anything, the strong impact Undyne's foot against the floor makes you lose your balance. Lucky you weren't down there<br>\r\nShe's getting up, you can't stay there anymore!<br>\r\n<br>\r\nQuickly you stand up and start running, but you can't get very far because the second impact makes you fall to the ground again, your hearth is beating madly. You turn around and take a look. You see it in its entirety, you were now used to seeing it, but never so close and for so long. Her huge and bare feet were only the base, but they were enough to crush you without leaving any trace, his scaly and blue legs seemed to never end, but they were interrupted by her black shorts. Subsequently, the sleeveless shirt showed itself to make room for the head. You felt so helpless and hopeless.<br>\r\n<br>\r\nShe then began to move her arms. What was she doing? She was doing stretching?<br>\r\n</span></div></div>",
+            "created":1574917200,
+            "id":2753194,
+            "title":" Your stomach is hungry now"
+        },
+        "121211111":{
+            "author_id":"italianoal100",
+            "author_name":"Italian",
+            "choices":[
+                "Return to the wall and ponder what to do.",
+                "Hide near the sofa and explore the surroundings while she will be away."
+            ],
+            "content":"<div class=\"\"><div> <span>Sitting on her couch and with a cheek resting on her fist, Undyne was watching TV. It was a simple, quiet and above all boring morning. Meanwhile, the show continued, she gave out little sighs and made its only eye wander around: she looked at the shelves, the table and anything else had partial importance, but there was nothing. Then she looked at her feet and their pointy nails, letting out a small smirk. <i>\"It is useless to waste time in this way\"</i> Undyne thought to herself <i>\" Today the program is boring... I think it is convenient to start the exercises, at least we begin the day well\"</i>. Thought this, she takes the remote control, turn off the TV and place one foot on the ground first and then the other, to give herself a boost and get up completely.<br>\r\n<br>\r\nHaving done this, she raises her arms upwards and begins to arch her back to crack some bones. She releases a more resolute sigh by saying: \"Let's go!\" and quietly raise her foot and then let it fall back on the floor to go into her bedroom.<br>\r\n<br>\r\n---------------------------------------<br>\r\n<br>\r\nYou were still shocked by the close encounter with Undyne, never would you have thought you were so close to her, but another and much more important issue was the following: Undyne's foot had risen and was coming towards you! With all your strength you try to back away as quickly as possible but with each successive instant, the immense bluish wall of flesh was getting closer and closer. <i>\"This is the end\"</i> you thought closing eyes and bracing for the impact. You hope that it will a swift death.<br>\r\n<br>\r\nThe impact was tremendous, you could feel the vibrations running through your body and the smell of fish filling your nostrils. But the curious thing was that it continued, which was difficult because you should be dead and not be able to fell anything. You open your eyes and you are welcomed by a blue scaly wall. You look up to see the rest of Undyne. It's unbelievable, you haven't been crushed but you were in the precise and small space between the big toe and the second finger of her foot! You stay still, either so as not to make the situation worse or because you can't, your body doesn't even dare to think about moving.<br>\r\n<br>\r\nAfter a second the immense foot rises and Undyne continues his journey to her destination. You turn your head to watch her go away, regardless of what happened to you. But one thing was certain: you're alive ... stinking of fish, but you're still alive. The tremors become less and less strong until they are interrupted by the noise of closing a door. You, still in disbelief, stand up and observe the area, for as long as you live with Undyne, you've never been in the center of the living room, you preferred small holes in the wall and shady areas. You decide to take advantage of this moment of peace to hide. Undyne was quick enough to dress so to best avoid the experience before, you decide to...</span></div></div>",
+            "created":1575090000,
+            "id":2753962,
+            "title":"The morning exercises"
+        },
+        "12122":{
+            "author_id":"eggzsupreme1",
+            "author_name":"EggzSupreme",
+            "content":"<div class=\"\"><div> <span>You immediately jolt towards the bolt hole. Starving and tired, you use all of your remaining energy to sprint towards the safe spot. The footsteps were getting louder and louder, as the still half asleep Undyne was getting closer and closer.<br>\r\n<br>\r\nYou had almost made it to the bolt hole, but then, you tripped. You're not sure on what exactly, but you really didn't have time to think about that as your body hit the floor. You hurried to get up, but it was too late as a large shadow loomed over you. You look up, the last thing you see is Undyne's giant foot rapidly falling towards you.<br>\r\n<br>\r\n---------------------------------------------------------------------------- -------------------------------------------------------------------------------- ---------<br>\r\n<br>\r\nUndyne didn't even feel your tiny body burst under her feet, for the giant fish lady, this was just another normal morning. She continued her daily routine as usual, your body was still stuck to the bottom of her sole, every mighty step destroying you further, until nothing remained<br>\r\n<br>\r\n</span></div></div>",
+            "created":1559797200,
+            "id":2669636,
+            "title":"A Crushing Failure"
+        },
+        "12123":{
+            "author_id":"olimarnite",
+            "author_name":"NotImmediately",
+            "choices":[
+                "\"Sorry, I don't like guests.\" Undyne says, deciding to squish you here and now.",
+                "\"You're right on time for breakfast.\" Undyne says, opening her mouth.",
+                "\"So, how long have you been hiding here?\" Undyne asks. She's not mad...?"
+            ],
+            "content":"<div class=\"\"><div> <span>You're fairly certain you can make the short distance to safety before there's much chance of being stepped on or anything. Without any further hesitation, you take off, running for cover.<br>\r\n<br>\r\n\u00a0<br>\r\n<br>\r\nHer mouth open in a massive yawn that shows off her numerous sharp teeth, Undyne shuffles her way through her home, her red hair a total mess. It's definitely a lazier morning for her today.<br>\r\nSuddenly, a flash of movement appears in her view, her single eye darting downward in response. She might be sleepy this morning, but her senses are still sharply trained.<br>\r\nShe squints, startled by what she's seeing. Unless she's totally off, that's a little human scurrying across her floor. She spots a tiny hole in the wall that she hadn't noticed before, and is even more surprised. Of all the places, there's actually a human brave enough to try and make themselves at home in her house? She's actually sort of impressed.<br>\r\n<br>\r\nMoving her foot with trained speed, Undyne blocks the tiny hole in the wall just before the tiny human down on the floor can reach hit, and laughs to herself as the speck-sized invader runs headlong into the side of her foot, bouncing to the floor.<br>\r\n<br>\r\n\u00a0<br>\r\n<br>\r\nYour heart is hammering wildly in your chest. You messed up, and badly, too. A huge, blue, and mildly scaly foot is resting before you, totally blocking your only available escape route. Having fallen over backward, you crane your neck back, looking up at the towering monster above you. Just as you feared, Undyne is looking right at you, her single remaining eye fixed on your precise position.<br>\r\n<br>\r\nBefore you can get back up and run, a massive hand is approaching, and two powerful fingers big enough to crush you instantly close around you. Your body is lifted right off the floor, a dizzying sensation setting in as Undyne picks you right up to examine her catch.<br>\r\n<br>\r\nYou stop in front of her massive face. She's rather pretty, for a fish-like monster with no nose, and who's the size of the skyscrapers humans used to be able to build. Of course, you're still pretty sure she would be the type to eat any humans she came across, so her looks are a bit of a low priority right now.<br>\r\n<br>\r\n\"Hey.\" she says, almost casually. Your heart rate accelerates even more. \"Gotta say, I didn't really think I'd ever find a human in here.\"<br>\r\nYou sit there between her fingertips, too scared to move. Should you answer back? Would she even hear you...?<br>\r\nBefore you can, Undyne continues...</span></div></div>",
+            "created":1568091600,
+            "id":2716033,
+            "title":"Intruder discovered"
+        },
+        "121231":{
+            "author_id":"olimarnite",
+            "author_name":"NotImmediately",
+            "choices":[
+                "Undyne drops you back on the floor, promptly crushing you underfoot.",
+                "Undyne stops by a chair, dropping you on it and moving to sit down on you."
+            ],
+            "content":"<div class=\"\"><div> <span>\"W-wait, <i>wait-...!!\"</i><br>\r\nYou squirm and cry out for the chance to get a word in, but the gigantic fish monster holding you doesn't appear interested in listening. Undyne's rough fingers squeeze uncomfortably at your puny body, casually putting out way, way too much force for you to fight back or escape. It's an awful mix of terrifying and humiliating.<br>\r\n\"You'd better not have any little friends holed up in here, either!\"<br>\r\nThose words seem to seal your fate. Undyne doesn't care what you have to say; just like you feared, braving her dangerous home to find a place to stay, you're nothing more than a pest to her.</span></div></div>",
+            "created":1570683600,
+            "id":2730811,
+            "title":"Removing the pest"
+        },
+        "1212312":{
+            "author_id":"olimarnite",
+            "author_name":"NotImmediately",
+            "content":"<div class=\"\"><div> <span>You scream, tumbling through the air as Undyne drops you. You're falling onto a plain-looking chair, and the impact leaves you stunned, bouncing a bit upon landing and rolling onto your back.<br>\r\n<br>\r\nWhen your vision clears, a terrifying sight fills the space above you.<br>\r\nUndyne has a hand resting on the back of the chair, and it's clear that she's about to sit down. You don't have time to do anything but scream one last time, begging to be spared.<br>\r\nWithout mercy, the fish woman's colossal rear comes crashing unstoppably down on your puny body, landing like a meteor.<br>\r\n<br>\r\n<font class=\"size2\" style=\"\"><i>-crunch-</i></font><br>\r\n<br>\r\nUndyne smiles, leaning against the back of her chair. For just a second, she felt a tiny lump beneath her on the seat, which crumpled instantly beneath the weight of her backside.<br>\r\n\"Heh... I knew I was pretty dangerous, but just my <i>ass...?\"</i> she laughs to herself. \"If there are any more humans in here, you'd better watch the hell out!\"<br>\r\nAll that remains is a faint stain on her pajama pants, marking the prompt removal of one little pest.</span></div></div>",
+            "created":1570770000,
+            "id":2731263,
+            "title":"Executioner's Chair"
+        },
+        "121232":{
+            "author_id":"olimarnite",
+            "author_name":"NotImmediately",
+            "choices":[
+                "\"You say something, shrimp?\" Undyne asks, giving you a chance.",
+                "\"Sorry. I don't talk to snacks.\" You're fish monster food."
+            ],
+            "content":"<div class=\"\"><div> <span>\"W-<i>wait-...!!\"</i><br>\r\nBefore your frightened eyes, the cavernous jaws of your fish monster captor open wide, her lips revealing huge and unbelievably sharp-looking teeth. They're a yellow colour, but not in a way that suggests Undyne doesn't take care of them. They just appear to be naturally yellow-tinted.<br>\r\nThe huge and powerful fingers holding you whisk you upward as Undyne's mouth opens fully, her head tilting back.<br>\r\n\"Wait<i>waitwait<b>wait-</b>...!!\"</i><br>\r\nHer single remaining eye is still fixed on you, and to your amazement, she actually hesitates. You're left hovering in the air, a substantial drop the only thing separating you from the horrifying cavern of her open mouth.<br>\r\n\"C-can we please talk about this...!?\" you beg her, clutching at one of her fingertips in terror.<br>\r\nUndyne's menacing expression changes a bit. She heard you...?</span></div></div>",
+            "created":1570424400,
+            "id":2729308,
+            "title":"Impending doom"
+        },
+        "1212322":{
+            "author_id":"olimarnite",
+            "author_name":"NotImmediately",
+            "content":"<div class=\"\"><div> <span>You scramble for a grip on Undyne's smooth fingertips, desperate. She's really going to eat you, isn't she...?<br>\r\n\"P-<i>please-...!?\"</i> you yell out, taking one last frantic look at her single eye, which is still fixed on you.<br>\r\n\"... Nah. Sorry, puny -- you wanted to talk, you should've knocked on my door first, instead of just making yourself at home!\"<br>\r\nYou open your mouth to beg for your life one more time, but then Undyne shakes you loose from her fingers, and in an instant, you're falling down. There isn't even time to scream before you tumble right into her open mouth.<br>\r\n<br>\r\nA damp, shuddering tongue greets you first. You slip helplessly around on the slick surface as you try and regain a grip, but there's none to be found. The cavern closes, and you're sealed into darkness.<br>\r\nThe air is hot and humid, Undyne's breath filling your lungs. You can't see a thing.<br>\r\nSeveral seconds pass in which you are helplessly batted around the darkness by the powerful tongue beneath you, and you close your eyes, shaking with fear. You can only hope that she makes it quick...<br>\r\nThere's a painful lurch in your stomach as you start to slip backward, becoming even more terrified as you realize something: she's not even going to bite down on you. She's just swallowing you outright.<br>\r\nYou scream, but the sound is lost to the darkness in seconds.<br>\r\n<br>\r\n\u00a0<br>\r\n<br>\r\nUndyne smirks to herself, satisfied. She's never tried actually eating a human before, even if she's used the idea to scare them a couple of times before.<br>\r\n\"Heh... little home-invading twerp totally deserved it.\" she says aloud before carrying on with her breakfast. Her little pest ought to have a few odd things to scrounge for down there soon enough.</span></div></div>",
+            "created":1574917200,
+            "id":2752918,
+            "title":"Modest Meal"
+        },
+        "121233":{
+            "author_id":"olimarnite",
+            "author_name":"NotImmediately",
+            "choices":[
+                "You decide to own up, telling Undyne about the whole time you've been here.",
+                "You lie, saying it's only been a few weeks since you came here."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Huh...?\"<br>\r\nYou blink in surprise. This gigantic monster is just... talking to you...? You hadn't really ever seriously considered this, expecting that if any monsters ever got their hands on you, you'd just end up eaten, crushed, or worse before you even got the chance to get a word in.<br>\r\n\"What, you all shy or something? Kinda rude to just clam up like that, don'tcha think?\" Undyne presses. You flinch, waving you hands in her direction.<br>\r\n\"N-no!!\" you blurt out. \"I-it's just... I didn't think you'd want to... want to talk, y'know...?\"<br>\r\nUndyne laughs for a moment. \"What, you think I'd just treat you like any old bug on my floor?\"<br>\r\n\"W-well, maybe...\"<br>\r\nAnother laugh. \"So, what's your story? How long have you been holed up in my house?\" she asks again. When you hesitate nervously, she adds, \"I'm not gonna be mad. ... Unless I think you're lying. Might be kinda pissed then, actually.\"<br>\r\nYou're sweating. Undyne hasn't killed you yet, but it feels like you're on thin ice.<br>\r\n<br>\r\nTruthfully, you've been staying here for quite a long while. Five months or so, if your estimate is right. Telling for certain is a bit hard; the monsters don't all use the exact same calendar as you're used to. You run a bit of math in your head for a moment, figuring you can just tell her a number of days, if you want to be truthful. That could probably make sense to her.<br>\r\nBut... thinking on it, would it be better to... undershoot it a bit? Not really lie, but just... leave a bit out...?</span></div></div>",
+            "created":1570510800,
+            "id":2729890,
+            "title":"A little questioning"
+        },
+        "1212331":{
+            "author_id":"olimarnite",
+            "author_name":"NotImmediately",
+            "choices":[
+                "\"Guess that means I've got a little roommate now.\" Undyne says. \"Want a snack?\"",
+                "\"I've got a couple of friends who are gonna want to meet you.\" she says."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Um...\"<br>\r\nUndyne watches you expectantly. She might get impatient soon...<br>\r\nYou're just going to tell the truth. Lying only seems like a good way to make her angry, and that's not something you want to risk right now.<br>\r\n\"A-... a hundred and fifty days or so...?\"<br>\r\nThere's a pause, during which you can feel a cold sweat running down your back. Undyne's single intact eye blinks.<br>\r\n\"So almost half a year...?\" she inquires. \"Damn. You've really kept out of view until just now?\"<br>\r\nShe looks like she's thinking about this.<br>\r\n\"Sneaking around on my floor... you're lucky I didn't step on you, squirt.\"<br>\r\nIs she angry? Your anxious outlook on this situation isn't really improving.<br>\r\n<br>\r\nFinally, to your surprise, she gives a genuine laugh. The gesture causes her terrifying teeth to flash in your face, but she doesn't appear to be trying to intimidate or hurt you at all.<br>\r\n\"I'd betcha you saw some pretty private stuff in here...\" she says, still laughing as she does so. You keep quiet, not wanting to take any more risks.</span></div></div>",
+            "created":1570942800,
+            "id":2732132,
+            "title":"Honesty for now"
+        },
+        "12123312":{
+            "author_id":"olimarnite",
+            "author_name":"NotImmediately",
+            "choices":[
+                "Undyne's guest is a shy, relatively short, sort of lizard-looking monster.",
+                "The guest is a very tall, kind of goat/rabbit-looking monster woman."
+            ],
+            "content":"<div class=\"\"><div> <span>\"W-wait, friends...?\"<br>\r\n\"Yep. I'm not exactly the only monster around, shrimp.\" Undyne says, smirking at you. \"Maybe the only one to catch a human in a little while, though...\"<br>\r\nThis is more than you bargained for. One gigantic monster aware of your presence is scary enough, but now Undyne's going to go and invite <i>more</i> over to meet you...?<br>\r\n\"Un-... M-Ms. Undyne...?\" you try to respond, but she just lets out a booming laugh, cutting you off.<br>\r\n\"Sorry, 'Miss'...?\" she cackles. \"I didn't think little home invaders like you would be so formal!\"<br>\r\nWithout letting you say anything else, Undyne moves you away from her huge face and starts walking. She clears the massive hallway in just a few steps, when it would've taken you a few solid minutes of travel time. She's approaching a gigantic table, and when she arrives, she sets you down on top of it. You look up uncomfortably, wondering what she's going to do, and suddenly, a glass appears in her grip, touching down against the table all around you. You jump in alarm, darting toward one of the glassy walls, but you're already trapped. Undyne has sealed you underneath a cup like a captured bug.<br>\r\nBreathing erratically as your panic over the situation increases, you can only watch her in dismay.<br>\r\n\"OK, just stick around in there for a bit.\" Undyne says. \"I'm gonna have something to eat, and then you can meet your new friend.\"<br>\r\n<br>\r\nYou slump against the glass. There's no way out of this, and you didn't even manage to secure yourself any food of your own.<br>\r\n... At least it sounds like Undyne might only be inviting <i>one</i> more monster over...</span></div></div>",
+            "created":1571115600,
+            "id":2733124,
+            "title":"Adding another problem"
+        },
+        "121233122":{
+            "author_id":"olimarnite",
+            "author_name":"NotImmediately",
+            "choices":[
+                "Toriel acts surprisingly kind toward you, almost like a motherly figure.",
+                "Undyne convinces Toriel to play around with you."
+            ],
+            "content":"<div class=\"\"><div> <span>It's difficult to watch Undyne enjoying a nice breakfast on her own while you're stuck beneath a glass cup, unable to escape. You're still hungry, and she's practically mocking you by eating her own meal in full view.<br>\r\nYou start to wonder what this other monster she's inviting over might be like. You've seen some pleasant-looking ones before, and some downright horrifying ones. Granted, they all seem to be about as intelligent as Undyne, so no matter how strange they might look, they're not <i>animals,</i> but still...<br>\r\n<br>\r\nYour stomach is growling by the time Undyne has cleared away her dishes and left the room, presumably to get dressed. She barely even looked at you beofre leaving the room.<br>\r\nWhen she returns, she's wearing a jet-black tank top and baggy jeans. The sight is rather surreal, to say the least.<br>\r\n<br>\r\n\"Get ready, puny.\" she says with a grin, leaning onto the table, toward your glass cage. \"Company's almost here.\"<br>\r\n<br>\r\n\u00a0<br>\r\n<br>\r\nWhen at last there's a knock at the door, Undyne closes a hand over the glass covering you and lifts it away. You don't try to run, fearing she might just decide to squish you for the effort.<br>\r\nHer huge fingers pick you up again, surprisingly gently. You can't see much as she moves toward her front door.<br>\r\n<br>\r\n\"Heya, Toriel!\" she can be heard saying. So, that's this new monster's name?<br>\r\n\"Hello, Undyne.\" a soft -- if still rather intimidating, given her size -- voice responds. The door can be heard closing. \"So... a human? I'm surprised any were brave enough to make themselves at home <i>here,</i> of all places.\"<br>\r\nUndyne laughs. \"Yeah, the little twerp sure surprised me, too. You wanna meet 'em?\"<br>\r\n\"I suppose so. You have them with you?\"<br>\r\n\"Here, come and sit down.\" Undyne finishes. She's moving again.<br>\r\nMoments later, Undyne's hand opens, and you jaw drops.<br>\r\nYou'd thought the fish lady who lived in this house was huge. This newcomer Toriel, however, is <i>massive.</i> She's much taller, and has a considerably wider frame than your current captor. Her body appears to mostly be covered in white fur, and her face looks like some kind of mix between a rabbit and a goat. Somehow, though, she doesn't seem nearly as scary as Undyne herself.<br>\r\n<br>\r\nHer eyes fix onto you. They have a slight red colour to them.<br>\r\n\"... Hello?\" she says slowly. \"Can you understand me? Just raise a hand if you can, human.\"<br>\r\nYou're shaking like mad, but you slowly raise one of your hands. Toriel begins to smile.</span></div></div>",
+            "created":1572238800,
+            "id":2739347,
+            "title":"Gargantuan, goat-like guest"
+        },
+        "1212331221":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "She's alone",
+                "Her son is here for the week"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Anyway i know you mentioned wanting a new pet so I figured a human was as good as anything else.\" Undyne holds out her hand, with you in it, to Toriel \"I mean, you already got the stuff for one for your weeks with Asriel, you might as well get your own.\"<br>\r\n<br>\r\nAsriel? Who? And another human? You haven't spoke to one in a while...<br>\r\n<br>\r\nToriel's cloud-like fingers wrap around you as she picks you up. How could something so huge be so soft? She smiles down at you and you instantly feel safer than when you were with Undyne. If you had to be \"owned\" by someone, this is the person you'd like it to be. \"Thank you Undyne.\"<br>\r\n<br>\r\nShe slowly placed you in a purse. Her and Undyne talk for a while, you make no effort to leave the bag. Several hours later you are finally at Toriel's home...</span></div></div>",
+            "created":1587196920,
+            "id":2820419,
+            "title":"Friend found, Freedom \"lost\""
+        },
+        "122":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "You fall from the vent into the cereal",
+                "the fan turns on and blows you farther down the vents"
+            ],
+            "content":"<div class=\"\"><div> <span>You learned a long time ago it's best to avoid Undyne, especially in the mornings. You've never actually seen her eat a human but you fairly certain she would. A few months ago you saw another human get crushed when she stepped on him, half asleep. Your not even sure if she noticed.<br>\r\n<br>\r\nRight now your above her inside the vents in her house, observing her (pretty common) routine of pouring a bowl of cereal before going to take a shower (you of course don't watch her do that next part). She tends to leave a good amount of that cereal left in that bowl after leaving and that's where you usually get your breakfast. Suddenlly</span></div></div>",
+            "created":1555304400,
+            "id":2644950,
+            "title":"Observation Mode"
+        },
+        "1221":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "Pouring more Cereal into the bowl",
+                "Looking down at you confused"
+            ],
+            "content":"<div class=\"\"><div> <span>You lean against the grating in the vent, trying to get a better view of what exactly Undyne's, and by extension your, breakfast was. Unfortunately it appears that the screws that held the grate up had come loose and as you lean against it you find yourself falling several feet into the bowl. <br>\r\n<br>\r\nYour a bit dazed from your fall but you surface quickly. The cold milk was enough of a shock to keep you from being knocked out. You slowly look up to see Undyne...</span></div></div>",
+            "created":1559106000,
+            "id":2666388,
+            "title":"Splashdown."
+        },
+        "12211":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "content":"<div class=\"\"><div> <span>You look up in horror as an avalanche of Chocolate boulders came crashing down on top of you. Undyne was apparently still tired enough that she missed your fall and has decided to add more cereal into the bowl! <br>\r\n<br>\r\nYou try as hard as you can to stay above the surface of the milk but it's too much! your buried underneath the chocolate rockslide and forced under the milk! It only takes another chocolaty sphere crashing down on your back to knock all the air you have out of your lungs.<br>\r\n<br>\r\n---------------------------------------------------------------------------- -------------------------------------------------------------------------------- ---------<br>\r\n<br>\r\nUndyne dips the spoon into the cereal, completely missing the unconscious body of a human in her spoonful. Your body is covered in so much milk and chocolate powder that she doesn't even notice you as she began to chew. You should be grateful you were dead before you ended up in her mouth, especially considering that your body gets impaled on one of her massive teeth before being swallowed.</span></div></div>",
+            "created":1559106000,
+            "id":2666425,
+            "title":"Who drowned in HER cereal?"
+        },
+        "12212":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "So your why my foods been disappearing! (Angry Undyne)",
+                "Well, that explains alot (Nice Undyne)"
+            ],
+            "content":"<div class=\"\"><div> <span>\"What the.\" Undyne knew she was tired but she's pretty sure she wasn't tired to the point that she would be hallucinating a human falling from the sky. \"Where the heck did you come from?\"<br>\r\n<br>\r\n---------------------------------------------------------------------------- -------------------------------------------------------------------------------- ---------<br>\r\n<br>\r\nThe monster you'd been sneakily sharing a home with looked down at you, staring intently at you.<br>\r\n<br>\r\n<b><font class=\"size4\" style=\"\">WHAT THE</font></b><br>\r\n<br>\r\nShe's either really mad or really confused<br>\r\n<br>\r\n<font class=\"size4\" style=\"\"><b>WHERE THE HECK DID YOU COME FROM?</b></font><br>\r\n<br>\r\nconfused. You can work with that.<br>\r\n <br>\r\nMeekly, out of a combination of fear and the fact that the milk is cold and your pretty sure she might be planning to kill you, you gesture upwards to the vent <br>\r\n<br>\r\n<font class=\"size4\" style=\"\"><b>OH...YOU WERE IN THE VENTS? WAIT, HAVE YOU BEEN LIVING IN MY HOUSE?</b></font></span></div></div>",
+            "created":1559192400,
+            "id":2666442,
+            "title":"When Humans fly"
+        },
+        "13":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "get food",
+                "Find Alphys",
+                "\"Alt. Story\" Guinea Pig."
+            ],
+            "content":"<div class=\"\"><div> <span>You live in one of the safer houses. Well, less a house and more a lab with a bedroom and a small kitchenette. The monster living in this lab...\"Alphys\" you believe her name is, is fairly safe to be around, compared to most monsters. She usually just either stays in the lab, where you have little to no motivation to be, or is on her computer watching \"Anime\", a weird yet somehow entertaining relic of the human era, and/or on social media.<br>\r\n<br>\r\nYou currently are waking up in your small hiding place inside a kitchen cupboard that is mostly empty since it's too high up for Alphys to reach. Time to...</span></div></div>",
+            "created":1557118800,
+            "id":2656378,
+            "title":"Lab \"Rat\""
+        },
+        "133":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "Your Friend",
+                "Your Master",
+                "The Doctor (Cruel)"
+            ],
+            "content":"<div class=\"\"><div> <span>Ok...Forget the last chapter<br>\r\n<br>\r\nYou are...yeah you're a lab rat. <br>\r\n<br>\r\nYour pretty smart, as far as humans go, since humans haven't really done \"Schools\" since they were forced into the life of vermin. This has lead to you ending up, from a series of events including a pet shop, three escape attempts after which you were seen as \"abnormally intelligent Human\" (which is inaccurate, most humans would try what you tried. You were just lucky enough to end up in situations in which you could make an escape attempt), and being sent to this lab, where your intelligence is regularly tested by...</span></div></div>",
+            "created":1557205200,
+            "id":2656384,
+            "title":"Yeah, Lab Rat"
+        },
+        "1331":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "Alex (Male)",
+                "Alice (Female)"
+            ],
+            "content":"<div class=\"\"><div> <span>Your Friend Alphys...<br>\r\n<br>\r\nOr at least, she calls you her friend, but how friendly can someone who keeps you in a glorified gerbil cage actually be? You...can honestly say you trust her more than most monsters...but that's because your pretty sure her eating you would be the equivalent of her swallowing a several hundred dollar a day paycheck for essentially you run a maze every day...speaking of which<br>\r\n<br>\r\n\"It's maze time...\"</span></div></div>",
+            "created":1557205200,
+            "id":2656389,
+            "title":"\"Friends?\""
+        },
+        "1332":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "More Dumb Tests",
+                "Undyne's coming, stay in the cage."
+            ],
+            "content":"<div class=\"\"><div> <span>You have landed in one of the better situations for a human. You have ended up as a pet to Dr. Alphys. <br>\r\n<br>\r\nTechnically your supposed to a test subject, but Alphys treats you more like a pet more than anything else. Usually just some dumb test, like can you identify colors, and then you watch some MTT and eat instant noodles. Excluding when her \"friend\" Undyne comes over. Then your in the cage. Alphys doesn't know if Undyne eats humans or not, but some offhand comments lead her to believe she does, and she's worried you'd end up Undyne's snack.<br>\r\n<br>\r\nToday...</span></div></div>",
+            "created":1557205200,
+            "id":2656394,
+            "title":"Wait, Am I a pet"
+        },
+        "13321":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "You Find the Exit",
+                "You fail the maze."
+            ],
+            "content":"<div class=\"\"><div> <span>You woke up once the lights in the lab activated. That stupid timer system Alphys rigged up. She figured every light in the lab turning on would wake you more \"Gently\" than an alarm. She was wrong.<br>\r\n<br>\r\nYou'd tell her this if when talked she didn't just hear a bunch of shrill squeaking. For now your communication is very much one-way. She's also seems to think you love the timer-system. She's a great judge of your opinion like that.<br>\r\n<br>\r\n\"T-Time for today's test. I think you've been improving in this one.\" Speak of the devil. Alphys entered the lab less than a minute after they turned...wait, improved? Oh no which test did you run recently...<br>\r\n<br>\r\n\"T-this is pretty simple. A-as always.\" Alphys opens the cage and picks you up to carry you into the next room...where a maze has been set up.<br>\r\n<br>\r\nOh...god...no. You have Roronoa Zoro levels of bad direction sense. Last time you were in there for seven hours trying to find the exit. Which apparently means your improving. Here we go again. Alphys places you at the center of the maze.</span></div></div>",
+            "created":1557291600,
+            "id":2656883,
+            "title":"Oh god not the Maze"
+        },
+        "14":{
+            "author_id":"digimomlover",
+            "author_name":"digimom",
+            "choices":[
+                "pet",
+                "freeloader"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The lazy skeleton. are you his pet or are you hiding for some reason.</span></div></span></div>",
+            "created":1588391280,
+            "id":2828579,
+            "title":"Sans's"
+        },
+        "15":{
+            "author_id":"thelaststraw",
+            "author_name":"TheLastStraw",
+            "choices":[
+                "Asgore",
+                "Papyrus",
+                "Bratty and Catty",
+                "Muffet",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>If not them, then who else\u2019s home are you scavenging within?</span></div></span></div>",
+            "created":1555477200,
+            "id":2646030,
+            "title":"Other"
+        },
+        "153":{
+            "author_id":"coolest",
+            "author_name":"Coolguy",
+            "choices":[
+                "You go find food somewhere",
+                "You want to tried to find them before getting food or anything",
+                "You couldn't decided since they are up and chatting loud",
+                "They are peeking in the hole you are in (investigate)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You were living under Bratty and Catty house. You decided to live under them because they always eat out somewhere. At least Catty eat a lot since she is kind of a fat purple alley cat while the other is kind of skinny green alley gator. Either way, you went to make yourself a little home there because you heard that other humans say that they always leave crumbs on the floor when they eat something and that sometimes they are nice enough for tiny humans take some crumbs off the floor making you eat. You think they are pretty cool gals to stay and live but they are always forgetful that humans are very tiny specks and that if they are hungry, they mistake you as a crumb or something and eat you. They are both very chatty too as well and sometimes they are not aware their surroundings around the house too. So you got to be careful with that.<br>\r\n<br>\r\nToday, you were just waking up from your bed you made couple days ago. You made a little hole next to you and you are near the living room and kitchen where they eat their stuff and watch TV. They don't know you live here at all and still unaware of you and others who scavenger around the house. So you got up out of your bed and decided on what to do now.</span></div></div>",
+            "created":1570251600,
+            "id":2728278,
+            "title":"In a chatty house with two"
+        },
+        "155":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "Susie",
+                "Noelle",
+                "Ralsei/Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, how abous some Deltarune characters? Or would you like someone else?</span></div></span></div>",
+            "created":1559883600,
+            "id":2670112,
+            "title":"Other"
+        },
+        "1551":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "Pet",
+                "\"Toy\"",
+                "Friend"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a human named Kris.<br>\r\n<br>\r\nAt least, thats what Susie named you. Your not sure if you had a name before she and Noelle found you under the bleachers in their School Gym, cold, starving and eating a stale, molding piece of popcorn. The two shoved you in a shoe box and ever since you've belonged to them.<br>\r\n<br>\r\nNoelle was nice. She was far too sweet of a girl to do anything actually harmful to you. If you recall she was the one who actually gave you a name. Susie on the other hand, Susie treated you like a _____</span></div></div>",
+            "created":1587051060,
+            "id":2819703,
+            "title":"Susie"
+        },
+        "15512":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "Breakfast time",
+                "Play Time *Starts removing her boot*",
+                "Play Time *She picks you up*"
+            ],
+            "content":"<div class=\"\"><div> <span>A toy. That's all you are to Susie. A thing to play with...and eventually break.<br>\r\n<br>\r\nIt's Susie's week to keep her at her house. So right now you were in a shoebox with a little Sawdust in a corner, in the Damp hell that was Susie's basement bedroom. You're waking up to a fresh day of Torment from Susie. She's done everything from stomp on you, sit on you, leave you in her sweaty, spongey, reeking boot for a day...heck, she's tossed you in her mouth and sucked on you for hours. And she made it very clear on that day that he was completely under her power. If you told Noelle...Next time she'd swallow.<br>\r\n<br>\r\nThe ground shakes. Susie makes no attempt to hide the fact she's coming. This is going to be a long day. The roof of the building is peeled away, revealing Susie's purple scaly face. \"Hello Kris...it's \"</span></div></div>",
+            "created":1587052560,
+            "id":2819707,
+            "title":"\"Toys\" tend to break"
+        },
+        "155121":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "She Catches in a bite",
+                "You manage to avoid the forks"
+            ],
+            "content":"<div class=\"\"><div> <span>\"B-breakfast?\"<br>\r\n<br>\r\nThats odd, she normally only feeds you once a day, around lunch, not Breakfast...Maybe Noelle's come over as a surprise or...maybe this is going to be some kind of new tortures...or maybe, Horror of Horrors, she's actually grown a heart!<br>\r\n<br>\r\n<b>\"Stop squeaking at me we both know I can't understand a word your saying....if they even are words.\"</b> She roughly pulls you out of the box, and carries you over to an old coffee table, where a monster sized plate of pancakes sits, covered in glistening syrup.<br>\r\n<br>\r\n\"W-wow...\" Maybe she is really trying to be a better o-<br>\r\n<br>\r\n<b>\"Enjoy the Trip\"</b> Susie drops you onto the pancakes, coating you in syrup and keeping you stuck. You pull yourself up quick enough to see her picking up a fork and begining to dig in...with you on them.</span></div></div>",
+            "created":1587075480,
+            "id":2819849,
+            "title":"Yum, Pancakes..."
+        },
+        "155122":{
+            "author_id":"eggzsupreme1",
+            "author_name":"EggzSupreme",
+            "choices":[
+                "Susie is satisfied, for now...",
+                "Susie is not satisfied, time for punishments!"
+            ],
+            "content":"<div class=\"\"><div> <span>A shiver ran down your spine as she uttered those words, and you could only sit in your box and helplessly watch as she took off her heavy, stuffy boots. Of course, you weren't surprised by this. Susie liked to start the day off with a nice, long foot massage before she got onto the Real Torture.<br>\r\n<br>\r\nAfter she finished taking off her boots, she roughly grabs you and walks over to a nearby coffee table. She lazily drops you onto it, you groan out as you land on the hard wooden surface. As you were getting up, she slams her massive stompers next to you, prompting you to fall down again.<br>\r\n<br>\r\nYou had to crane your head up in order to see her massive, purple soles in their full dreadful glory. They absolutely reeked, you could swear they smelled worse and worse every time Susie forced you near them. She was probably not washing them on purpose, which wouldn't surprise you at all. <br>\r\n<br>\r\n<b>\"You know what to do, Bug\"</b> Susie says out, while flashing a smug grin down at you. You sigh as you make your way to her feet. You place your tiny hands onto her sole and you begin rubbing, knowing full well that this was likely going to be the least humiliating thing she is going to put you through today...</span></div></div>",
+            "created":1587504300,
+            "id":2822319,
+            "title":"A Fine start to an Awful day"
+        },
+        "1551222":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "You Kiss it",
+                "Die with diginity",
+                "You pass out before you can"
+            ],
+            "content":"<div class=\"\"><div> <span>You only are able to rub for a few minutes before you start to gag from the smell. You can hardly breathe it's so bad, the dirt and muck on the bottom of it is coating your hands and you stop for just a minute to try and get it off. Unfortunately the moment you stop is the only moment Susie needs to decide you weren't trying.<br>\r\n<br>\r\n<b>\"Hey! Bug Boy! Who told you you could stop!</b> The Purple foot pins you down against the table, forcing the air out of your lungs. <b>\"Now what exactly did you think you were doing?</b> <br>\r\n<br>\r\nShe presses down slowly, the weight of the world feels like its being pressed down on you... <br>\r\n<br>\r\n<b>\"Kiss it if you want free.\"</b></span></div></div>",
+            "created":1587604860,
+            "id":2822896,
+            "title":"Lazy, Naughty Bug."
+        },
+        "15512221":{
+            "author_id":"eggzsupreme1",
+            "author_name":"EggzSupreme",
+            "choices":[
+                "Susie is satisfied",
+                "Still not satisfied, time for more punishments..."
+            ],
+            "content":"<div class=\"\"><div> <span>You let out a surprised yelp once her massive sole begins rapidly descending towards you. You fall onto your back and close your eyes, thinking she was finally going to snuff you out. Thankfully, she didn't instantly smush you and instead only pinned you beneath her foot.<br>\r\n<br>\r\nYou start quickly start panicking as you feel the pressure increasing. Upon hearing her command, you didn't even think twice before you began peppering her sole with small kisses. The taste and smell of her foot was downright horrible and this was utterly humiliating, but you didn't want her to turn you into a red stain either...</span></div></div>",
+            "created":1587627900,
+            "id":2823061,
+            "title":"A little encouragement"
+        },
+        "155122211":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "A sock",
+                "Her boot",
+                "A pocket (boring)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Good bug.\" She lets up the pressure as she picks you up, hodling your pathetic form in front of her face \"Now, how about we go for a nice long walk\"<br>\r\n<br>\r\nShe drops you into something...</span></div></span></div>",
+            "created":1597995960,
+            "id":2888848,
+            "title":"Susie is satisfied"
+        },
+        "1551222111":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "You keep it together",
+                "You can't handle the pressure"
+            ],
+            "content":"<div class=\"\"><div> <span>As you tumbled down the felt prison into the front of the sock, the reeking smell of gym sweat and stale air fills your lungs. <br>\r\n<br>\r\nAll you can really do is prepare yourself for hell as the 3 toed, purple foot followed you in, planning to press you into the spongey soles of pain...and then your just...stuck under the purple mountains</span></div></div>",
+            "created":1597996680,
+            "id":2888851,
+            "title":"Sandwhiched in the Socks"
+        },
+        "1552":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "They walked in, tip-toeing along gracefully",
+                "The gigantic feet stomped angrily along the floor!",
+                "They were quickly followed by a second pair of black-booted feet."
+            ],
+            "content":"<div class=\"\"><div> <span>You're a Human, hiding under one of the many bleaches of the gigantic school of these Monsters.. specifically, the lowest one to the floor on the far end, next to the double-doors of the gym, donning merely rags. These dark, shadowy overhangs that kept you tightly hidden away had ensured your safety.. although a risky move to the cafeteria, or nearby bin was something of a regular chore.. and there were many lucky strokes in surviving such a mission.. but today? It was a late.. Friday? You can't recall exactly.. but it must be a Friday, as the Monsters don't have P.E.. but they are open at lunch-times, such as now.<br>\r\n<br>\r\nFortunately no one is using this room.. which gave you some peace and relax until next Monday.. but suddenly, a pair of beige-furred, black flat-clad feet walk through the door!</span></div></div>",
+            "created":1587535320,
+            "id":2822488,
+            "title":"School Daze (Courtesy of Abbadrain on Deviantart)"
+        },
+        "15521":{
+            "author_id":"abaddrian",
+            "author_name":"J.C",
+            "choices":[
+                "Just above your row!",
+                "Directly on the row you were on!"
+            ],
+            "content":"<div class=\"\"><div> <span>They were definitely.. cheerful, to say the least. You can recall seeing those stompers a few times, In fact.. didn't they belong to some Reindeer girl? Your question was answered quickly as her face came into view from the angle of the separated bleachers, her freckled face.. her cute, red eyes and cross-shaped horns over yellowish-blond hair.. wearing a red-and-green checker-patterned jumper over a long-sleeved, short-skirted dress of black with a brown backpack hung around her shoulder.. she was walking over to.. your section!<br>\r\n<br>\r\nShe quickly came into view over the bleachers again.. in the process, showing her red panties.. before promptly sitting just..</span></div></div>",
+            "created":1587566460,
+            "id":2822664,
+            "title":"They walked in, tip-toeing along gracefully"
+        },
+        "15522":{
+            "author_id":"abaddrian",
+            "author_name":"J.C",
+            "choices":[
+                "She quickly plonks herself on the row above you!",
+                "She moves to sit on the same row, now in front of you!"
+            ],
+            "content":"<div class=\"\"><div> <span>As the gigantic Monster continued her angry approach, coincidentally moving towards the section you had made your home in, you could see her form through the angles and divides of the bleachers.. her freckled face.. her cute, red eyes and cross-shaped horns over yellowish-blond hair.. wearing a red-and-green checker-patterned jumper over a long-sleeved, short-skirted dress of black with a brown backpack hung around her shoulder.<br>\r\n<br>\r\nIt was only a few seconds.. she made so much ground in so little time, and was still quite furious, if her expression and stomping was anything to go by! Oddly enough, you recall seeing her.. but she's normally so happy, but often timid and shy! She suddenly..</span></div></div>",
+            "created":1587566520,
+            "id":2822665,
+            "title":"The gigantic feet stomped angrily along the floor!"
+        },
+        "15523":{
+            "author_id":"noone2000",
+            "author_name":"punkachu",
+            "choices":[
+                "Wait them out",
+                "Sneak out to find food"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Y-your sure no one is in here?\"<br>\r\n<br>\r\n\"I'm sure Noelle, they use this place for overflow seating at lunch and the cafeteria isn't even half full\"<br>\r\n<br>\r\nThe two sit down right next to each other... on top of the bleacher your under.<br>\r\n<br>\r\n\"We're totally alone. no one to see us...\"<br>\r\n<br>\r\n\"And ruin your stupid rep cause they know we're dating??\"<br>\r\n<br>\r\n\"Noelle come on its...its a pride thing. no one would take me seriouslly if the knew\"<br>\r\n<br>\r\nSounds like there gonna be here a while. Knowing this you decide to</span></div></div>",
+            "created":1598166240,
+            "id":2889886,
+            "title":"Opposites Attract"
+        },
+        "1553":{
+            "author_id":"eranormus",
+            "author_name":"zeal",
+            "choices":[
+                "asriel",
+                "Ralsei",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what about asriel?, or maybe someone else</span></div></span></div>",
+            "created":1575166500,
+            "id":2753977,
+            "title":"Ralsei/Other"
+        },
+        "15533":{
+            "author_id":"eggzsupreme1",
+            "author_name":"EggzSupreme",
+            "choices":[
+                "A human",
+                "A monster (or other)"
+            ],
+            "content":"<div class=\"\"><div> <span>Long ago, two races coexisted on earth, the countless magically gifted humans, and the gargantuan monsters. One day, war broke out. The war proved devastating to mankind, their proud cities reduced to rubble, untold millions snuffed out <b>underfoot</b>. But when mankind was on the cusp of complete annihilation, the monsters ceased their onslaught. In a last, desperate attempt to secure the survival of their species, thousands of mankind\u2019s most adept wizards gathered and cast a powerful spell at the cost of their own lives. The monsters were sealed deep beneath the earth\u2019s surface by a powerful barrier that prevented allowed entry but prevented escape. Thousands upon thousands powerful human souls would be required to break the barrier\u2026 <br>\r\n<br>\r\nHundreds of years later, mankind still struggles to rebuild at only a fraction of their original numbers. Famines, poverty, corruption and inequality are so rampant that many believe mankind will never return to it\u2019s former glory. The monsters were rumored to have gone extinct, their name reduced to boogeymen to scare children into behaving and tall tales to be told around campfires\u2026 but their assault is not forgotten, countless ruins and massive footprints stood as grim reminders of their immense might and wrath.<br>\r\n<br>\r\nThings seem grim indeed, but what role do you play in this world? Are you a human who has unwittingly fallen to the monster's realm or a monster cursed to never see the light of the sun.</span></div></div>",
+            "created":1608566640,
+            "id":2961064,
+            "title":"Underfoot AU"
+        }
+    },
+    "info":{
+        "author_id":"noone2000",
+        "author_name":"punkachu",
+        "brief_description":"200GP PER ADD Take a look at an alternate world where the monsters tower over the humans.",
+        "created":1555309260,
+        "description":"<td align=\"left\" class=\"norm\">200+ GP PER GOOD ADDITION <br>\r\n<br>\r\nWhat if the monsters from Undertale were way, way bigger than the humans? Well for one thing, the war probably wouldn't have happened. <br>\r\n<br>\r\nIn this universe humans are at best pets and at worst food for monsters. Create a story for this world<br>\r\n<br>\r\nRules<br>\r\n<br>\r\n1.Humans are at most 1 inch tall compared to the monsters<br>\r\n2. No sex scenes or overly sexual content <br>\r\n3. Vore is allowed, as well as crushing. And with our new 18 plus rating we will now allow a lot more lee way towards what qualifies as \"sexual content\". Basically anything other than Futa and actual sex is allowed<br>\r\n</td>",
+        "id":2188256,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1608566640,
+        "modified":1608566640,
+        "pretty_title":"Undersized (Undertale \"AU\")"
+    }
+}

@@ -1,0 +1,985 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Anime",
+                "TV shows",
+                "Movies",
+                "Literature",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Decisions, decisions\u2026</span></div></span></div>",
+            "created":1451538000,
+            "id":2082003,
+            "title":"Pick a genre"
+        },
+        "11":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Sailor Moon",
+                "Digimon",
+                "Cardcaptor Sakura",
+                "Ranma 1/2",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pick an anime series, any anime series.</span></div></span></div>",
+            "created":1453611600,
+            "id":2093512,
+            "title":"Anime"
+        },
+        "111":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "One of the Inner Scouts",
+                "One of the Outer Scouts",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, but who's going to be the first to contract the dreaded condition?</span></div></span></div>",
+            "created":1453784400,
+            "id":2094878,
+            "title":"Sailor Moon"
+        },
+        "1111":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Sailor Moon",
+                "Sailor Mercury",
+                "One of the other Inner Scouts"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Very well, but who's going be patient zero?</span></div></span></div>",
+            "created":1509968520,
+            "id":2411783,
+            "title":"One of the Inner Scouts"
+        },
+        "12":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Atomic Betty",
+                "My Little Pony: Friendship is Magic",
+                "Kim Possible",
+                "Jem",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pick a show, any show</span></div></span></div>",
+            "created":1451538000,
+            "id":2082015,
+            "title":"TV shows"
+        },
+        "122":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Equestria",
+                "The Human World (the Equestria Girls universe)",
+                "An alternate universe (a humanised Equestria)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, but where will the outbreak take place?</span></div></span></div>",
+            "created":1451538000,
+            "id":2082017,
+            "title":"My Little Pony: Friendship is Magic"
+        },
+        "1221":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "One of the Mane 6",
+                "One of the princesses",
+                "Somepony else"
+            ],
+            "content":"<div class=\"\"><div> <span>Mare's Best Friend Syndrome is the pony equivalent of Man's Best Friend Syndrome and, just like its Human World counterpart, it is a rare medical condition that turns sentient beings into dogs and for which there is no known cure. As is the case elsewhere in the multiverse, very little is known about what causes the condition or how it spreads. Victims show no visible symptoms until they start transforming. Once that happens, they are expected to be fully canine as quickly as two days later, although some victims may take up to two months to complete their transformations. Victims lose all memories, personality traits and capacity for higher thought and become one hundred percent dog in body, mind and soul.<br>\r\n<br>\r\nThe current record for the longest-lasting Mare\u2019s Best Friend Syndrome sufferer is a Mr. Shuttle Weaver of Canterlot, who managed to hold out for an incredible six months and eight days before finally completing his transformation into a Border Collie in Year of Celestia 983.<br>\r\n<br>\r\nAt present, there is no meaningful treatment available to sufferers of Mare\u2019s Best Friend Syndrome, although experts are currently working on ways of managing the condition by stopping (or at least slowing) the transformation. Such courses of treatment, though promising, are still experimental and unlikely to be approved for use by state-run medical institutions in Equestria anytime soon.<br>\r\n<br>\r\nWith that out of the way, who shall our story begin with?</span></div></div>",
+            "created":1451970000,
+            "id":2084729,
+            "title":"I guess ponies can contract it too"
+        },
+        "12211":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Twilight Sparkle or Applejack",
+                "Rainbow Dash or Fluttershy",
+                "Rarity or Pinkie Pie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You could be more specific.</span></div></span></div>",
+            "created":1451970000,
+            "id":2084732,
+            "title":"One of the Mane 6"
+        },
+        "122111":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Twilight Sparkle",
+                "Applejack"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, who\u2019s it going to be \u2013 Twilight Sparkle or Applejack?</span></div></span></div>",
+            "created":1451970000,
+            "id":2084735,
+            "title":"Twilight Sparkle or Applejack"
+        },
+        "1221111":{
+            "author_id":"7777",
+            "author_name":"Just here for the poke story",
+            "choices":[
+                "Continue this branch",
+                "A different take on the idea",
+                "Wild card option"
+            ],
+            "content":"<div class=\"\"><div> <span>It was nearly lunch time at Twilight's place and she hadn't come for breakfast. Spiek had called to her multiple times, only to be brushed off. Finally he knew he had to act. He marched up to Twilight's room.<br>\r\n<br>\r\n\"Twilight you still haven't eaten breakfast are you ok?\"<br>\r\n<br>\r\n\"Don't come in!\"<br>\r\n<br>\r\nSpike sighed. It had been a long time since she last acted like this.<br>\r\n<br>\r\n\"Twilight's what's going on in there? Did you botch another spell?\"<br>\r\n<br>\r\n\"N-no. Wait What do you mean another?!<br>\r\n<br>\r\nThere was something off about the pitch of Twilight's voice. It was recongibly her but it sounded little different.. <br>\r\n<br>\r\nSpike tried to pick the lock with his claws, only to feel the lock knob turn as Twilight grabbed. She shouted to him<br>\r\n<br>\r\n\"I mean it stay back! Ruff!\"<br>\r\n<br>\r\nSpike did a double take.<br>\r\n<br>\r\n\"Did you just bark?!\"<br>\r\n<br>\r\nTwilight made a strange, dog like whimper. \"N-no.\"<br>\r\n<br>\r\nSpike burst out laughing.<br>\r\n<br>\r\n\"Are you a dog or something?\"<br>\r\n<br>\r\n\"N-no.\"<br>\r\n<br>\r\nSpike could picture her hanging her head submissinvely. Ceasing his chance, Spiek finally managed to pick the lock and the door swung ajar. Twilight gasped.<br>\r\n<br>\r\n\"Don't look at me!\"<br>\r\n<br>\r\n\"Twilight you're....\"<br>\r\n<br>\r\nTwilight looked different, she was shorter, her coat was thicker and her face was between that of a dog and apony, with her muzzle being longer and her head being smaller. Spike was momentarily lost for words. Twilight struggled to look at him.<br>\r\n<br>\r\n\"I don't know how it happened. I didn't cast any kind of spell that could have done this, I've been trying to make myself normal again but nothing's working!\"</span></div></div>",
+            "created":1584474000,
+            "id":2802863,
+            "title":"Not into this but I do enjoy writing Twilight"
+        },
+        "1221112":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Working on the farm",
+                "Out and about in Ponyville",
+                "On a friendship mission"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Our story begins with Applejack\u2026</span></div></span></div>",
+            "created":1453611600,
+            "id":2093517,
+            "title":"Applejack"
+        },
+        "12211121":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Herd some sheep with Winona",
+                "Play with Winona in the barn",
+                "Take Winona to see Fluttershy"
+            ],
+            "content":"<div class=\"\"><div> <span>It was a warm summer's day on Sweet Apple Acres and today was the first day of applebuck season. The Apple family was expecting a bumper harvest this year and Applejack had been up since the crack of dawn bucking apples. For hour after hour, she toiled away in the orchards of the family-owned farm, together with Big Macintosh. It was hard work, but that was just the way the orange Earth pony liked it.<br>\r\n<br>\r\nAt midday, the two siblings headed back to the farmhouse for a spot of lunch, after which Big Macintosh went back to the orchards, while Applejack went off to\u2026 </span></div></div>",
+            "created":1456117200,
+            "id":2107928,
+            "title":"Working on the farm"
+        },
+        "12211123":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "In Equestria.",
+                "Outside/beyond Equestria's borders."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where does Applejack's mission take place?</span></div></span></div>",
+            "created":1506229200,
+            "id":2390735,
+            "title":"Through Equestria... And beyond!"
+        },
+        "122111232":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Diamond Dog territory.",
+                "Somewhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where does Applejack's journey take her?</span></div></span></div>",
+            "created":1508952540,
+            "id":2406355,
+            "title":"Pilgrimage of the Apple-pony."
+        },
+        "122112":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Rainbow Dash",
+                "Fluttershy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, who\u2019s it going to be \u2013 Rainbow Dash or Fluttershy?</span></div></span></div>",
+            "created":1451970000,
+            "id":2084736,
+            "title":"Rainbow Dash or Fluttershy"
+        },
+        "122113":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Rarity",
+                "Pinkie Pie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, who\u2019s it going to be \u2013 Rarity or Pinkie Pie?</span></div></span></div>",
+            "created":1451970000,
+            "id":2084737,
+            "title":"Rarity or Pinkie Pie"
+        },
+        "1221131":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Working in her boutique",
+                "Out and about in Ponyville",
+                "On a friendship mission"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Our story begins with Rarity\u2026</span></div></span></div>",
+            "created":1453611600,
+            "id":2093518,
+            "title":"Rarity"
+        },
+        "12212":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Princess Celestia",
+                "Princess Luna",
+                "Princess Cadance"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But which of the princesses shall contract Mare's Best Friend Syndrome?</span></div></span></div>",
+            "created":1454734800,
+            "id":2100183,
+            "title":"One of the princesses"
+        },
+        "1222":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Sunset Shimmer",
+                "One of the Mane 5",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The <i>Equestria Girls</i> universe it is, then, but who will be the first to contract the dreaded disease and begin their transformation into a dog?</span></div></span></div>",
+            "created":1453438800,
+            "id":2092656,
+            "title":"The Human World (the Equestria Girls universe)"
+        },
+        "12221":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "At home",
+                "At school",
+                "Somewhere else in the human world"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Our story begins with Sunset\u2026</span></div></span></div>",
+            "created":1453611600,
+            "id":2093516,
+            "title":"Sunset Shimmer"
+        },
+        "12222":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Applejack",
+                "Rarity",
+                "Pinkie Pie, Rainbow Dash or Fluttershy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, then, who's gonna be the first to join the ranks of Winona and Spike as a dog?</span></div></span></div>",
+            "created":1453438800,
+            "id":2092660,
+            "title":"One of the Mane 5"
+        },
+        "122221":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "At home",
+                "At school",
+                "In town"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Our story begins with Applejack\u2026</span></div></span></div>",
+            "created":1453611600,
+            "id":2093514,
+            "title":"Applejack"
+        },
+        "122222":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "At home",
+                "At school",
+                "Out and about in town"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Our story begins with Rarity\u2026 </span></div></span></div>",
+            "created":1454907600,
+            "id":2101408,
+            "title":"Rarity"
+        },
+        "122223":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Pinkie Pie",
+                "Rainbow Dash",
+                "Fluttershy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, if it's not Applejack or Rarity who falls victim to Man's Best Friend Syndrome, who's it gonna be?</span></div></span></div>",
+            "created":1453438800,
+            "id":2092662,
+            "title":"Pinkie Pie, Rainbow Dash or Fluttershy"
+        },
+        "1222233":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "At school",
+                "Petsitting for a friend",
+                "Volunteering at the animal shelter"
+            ],
+            "content":"<div class=\"\"><div> <span>I guess it was only a matter of time before Fluttershy contracted MBFS, given how much time she spends volunteering at the animal shelter (not that that necessarily has to be how she contracts it, but I digress).<br>\r\n<br>\r\nAnyway, our story begins with Fluttershy\u2026 </span></div></div>",
+            "created":1454907600,
+            "id":2101415,
+            "title":"Fluttershy"
+        },
+        "12222332":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Applejack",
+                "Sci-Twi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's she petsitting for?</span></div></span></div>",
+            "created":1454907600,
+            "id":2101417,
+            "title":"Petsitting for a friend"
+        },
+        "12223":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "One of the Twilights",
+                "One of the teachers",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, who's going to be the first to fall victim to MBFS?</span></div></span></div>",
+            "created":1453438800,
+            "id":2092665,
+            "title":"Someone else"
+        },
+        "122231":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Sci-Twi",
+                "Equestrian-born Twilight"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, but which Twilight Sparkle do you want to transform?</span></div></span></div>",
+            "created":1453438800,
+            "id":2092669,
+            "title":"One of the Twilights"
+        },
+        "125":{
+            "author_id":"bdun140",
+            "author_name":"bdun140",
+            "choices":[
+                "Sure, let's hear it",
+                "Nah, give me more cartoons"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about a Live Action TV show?</span></div></span></div>",
+            "created":1451538000,
+            "id":2082278,
+            "title":"Other"
+        },
+        "1252":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "The Proud Family",
+                "Bonkers",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, then, pick a show.</span></div></span></div>",
+            "created":1453093200,
+            "id":2090864,
+            "title":"More cartoons"
+        },
+        "12522":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Miranda Wright",
+                "Lucky Piquel",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Very well, but who's gonna fall victim to the dreaded condition first?</span></div></span></div>",
+            "created":1453093200,
+            "id":2090865,
+            "title":"Bonkers"
+        },
+        "125221":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Prolonged contact with an infected dog (possibly from the K-9 Unit)",
+                "Deliberately infected by a criminal",
+                "Author's choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, so how is Miranda going to contract the disease in the first place?</span></div></span></div>",
+            "created":1505019600,
+            "id":2383605,
+            "title":"Miranda Wright"
+        },
+        "125223":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Dilandra \u2018Dyl\u2019 Piquel",
+                "Marilyn Piquel",
+                "Sergeant Frank Grating"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, who else could it be?</span></div></span></div>",
+            "created":1453784400,
+            "id":2094877,
+            "title":"Someone else"
+        },
+        "12523":{
+            "choices":[
+                "OK, let's do it ",
+                "No way, something else"
+            ],
+            "content":"<div class=\"\"><div> <span>How about the show I Carly but the one to be turned into a dog will be either Spencer or Freddy.<br>\r\n<br>\r\nFollow one of them as their transformation begins and what happens while they still have their human mind that has overpowering urges that the dog inside would do ...</span></div></div>",
+            "created":1507352400,
+            "id":2397805,
+            "title":"I Carly (boys version)"
+        },
+        "125231":{
+            "choices":[
+                "Does Freddy instinctively lick his penis also ?",
+                "Does Freddy come to and gain control again?"
+            ],
+            "content":"<div class=\"\"><div> <span>Freddy had known for a few weeks now that he contracted the Man's Best Friend Syndrome but did not mention this to anyone, Freddy wanted to see if he alone could break free of this slow transforming disease.<br>\r\n<br>\r\nWithin a few days he started to notice his sense of smell went through the roof and his hearing became 100% stronger than before, Freddy also started to feel himself wanting to lick himself but could not due to his human form, this bothered Freddy because this was not what he would do but the overwhelming urges had become increasingly stronger by the day.<br>\r\n<br>\r\nOne day as he was hanging out over at Carly's, the girls went out to the mall and Spencer was sleeping in after he stayed up all night playing video games, Freddy was just laying on the floor watching tv when Spencer came walking out of his bedroom still rubbing his eyes and walked over and made himself a cup of coffee.<br>\r\n<br>\r\nAs Spencer sat down on the couch sipping his coffee, Freddy scooted over on the floor to talk to Spencer,  \" Hey sleepyhead, still tired huh ?  You know I was thinking about doing something new for the show\" ........ and Freddy then felt the same overpowering urges he had been fighting off, Freddy could smell Spencers crotch scent and his urges took over and Freddy leaned in closer to Spencer's crotch and sniffed and sniffed, Long deep sniffs ..... Spencer was just watching Freddy smell his covered penis and was surprised to say the least but somewhere inside of Spencer<br>\r\nhe liked it and his penis started to harden quickly .......<br>\r\n<br>\r\nFreddy lost control as he nuzzled his nose against Spencer's hard penis and nugged against it pushing the side of Spencer's shorts to one side, Spencer's balls then falls out of the exposed opening and Freddy instinctively licked them, after licking his balls for a bit Freddy nugged the shorts even more as Spencer's hard penis slipped free and sprang up in front of Freddy's face ......</span></div></div>",
+            "created":1507352400,
+            "id":2397857,
+            "title":"OK, let's do it "
+        },
+        "1252311":{
+            "choices":[
+                "Spencer led Freddy inside his bedroom.",
+                "Carly opens the front door as Freddy is licking Spencer's cock clean."
+            ],
+            "content":"<div class=\"\"><div> <span>Freddy was no longer in control now as he instinctively licked up Spencers hard cock, Spencer put down his coffee cup and pushed his penis downward towards Freddy.<br>\r\n<br>\r\nFreddy was lapping all over Spencers cock, from the tip of his leaking head, down to his full balls.<br>\r\nInside Freddy, he wanted to stop this discusting act but the pull that the disease had on him could not be broken and Freddy had minutes where he would flip from the disease controlling him and in his own right mind, only to slip back into the complete control of the disease again.<br>\r\n<br>\r\nEach time Freddy would snap back to himself, he could feel and taste Spencers cock filling his boy mouth .... Freddy wanted to stop but never had enough time to do so.<br>\r\n<br>\r\nSpencer had finally had all he could take and grabbed Freddys head and shoved his cock down his throat and shot ropes of cum inside Freddys hot tight mouth , even after Freddy had swallowed all of Spencer's cum, his disease made him lick up the rest of cum on this big cock he had just blown.</span></div></div>",
+            "created":1511526420,
+            "id":2419548,
+            "title":"Does Freddy instinctively lick his penis also ?"
+        },
+        "125232":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Lilo and Stitch?</span></div></span></div>",
+            "created":1524333660,
+            "id":2482560,
+            "title":"No way, something else"
+        },
+        "13":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "The Incredibles",
+                "Bolt",
+                "Big Hero 6",
+                "Inside Out",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what movie are you going for?</span></div></span></div>",
+            "created":1451538000,
+            "id":2082004,
+            "title":"Movies"
+        },
+        "131":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Bob Parr",
+                "Helen Parr",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, then. Who's going to contract Man's Best Friend Syndrome?</span></div></span></div>",
+            "created":1451538000,
+            "id":2082005,
+            "title":"The Incredibles"
+        },
+        "1311":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "He's deliberatey infected by a supervillain",
+                "He's exposed to it during an attack on the subway",
+                "Some other way"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, but how is Bob going to contract the disease?</span></div></span></div>",
+            "created":1453698000,
+            "id":2094107,
+            "title":"Bob Parr"
+        },
+        "13113":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's an idea \u2013 why not have Bob contract Man's Best Friend Syndrome after having prolonged physical contact with an infected dog?</span></div></span></div>",
+            "created":1453698000,
+            "id":2094110,
+            "title":"Prolonged contact with an infected dog"
+        },
+        "1312":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "She's deliberatey infected by a supervillain",
+                "She's exposed to it during an attack on the subway",
+                "Some other way"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, but how is Helen going to contract the disease?</span></div></span></div>",
+            "created":1453698000,
+            "id":2094099,
+            "title":"Helen Parr"
+        },
+        "13123":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's an idea \u2013 why not have Helen contract Man's Best Friend Syndrome after having prolonged physical contact with an infected dog?</span></div></span></div>",
+            "created":1453698000,
+            "id":2094108,
+            "title":"Prolonged contact with an infected dog"
+        },
+        "131231":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "The Parrs' new family dog infects her",
+                "A supervillain sets a pack of infected dogs on her",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, so how's it going to go down?</span></div></span></div>",
+            "created":1506920400,
+            "id":2395292,
+            "title":"Yes"
+        },
+        "1312311":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "A Labrador Retriever",
+                "A Redbone Coonhound",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I see, but what breed of dog is Helen going to become?</span></div></span></div>",
+            "created":1507456800,
+            "id":2398104,
+            "title":"The Parrs' new family dog infects her"
+        },
+        "13123113":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Dalmatian",
+                "German Shepherd",
+                "More choices please"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK then, what other breeds of dog could Helen turn into?</span></div></span></div>",
+            "created":1507457040,
+            "id":2398107,
+            "title":"Something else"
+        },
+        "1313":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "One of the kids (Violet, Dash or Jack-Jack)",
+                "Mirage",
+                "Who says it has to be just the one character?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, who else could it be?</span></div></span></div>",
+            "created":1451538000,
+            "id":2082008,
+            "title":"Someone else"
+        },
+        "13131":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Violet Parr",
+                "Dash Parr",
+                "Jack-Jack Parr"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, but which of the three Parr children will be the first to fall victim to the dreaded Man's Best Friend Syndrome?</span></div></span></div>",
+            "created":1451538000,
+            "id":2082009,
+            "title":"One of the kids"
+        },
+        "131311":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "She's deliberatey infected by a supervillain",
+                "She's exposed to it during an attack on the subway",
+                "Some other way"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, how does Violet contract the disease that will ultimately turn her into a mindless pooch?</span></div></span></div>",
+            "created":1453698000,
+            "id":2094100,
+            "title":"Violet Parr"
+        },
+        "1313113":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's an idea \u2013 why not have Violet contract Man's Best Friend Syndrome after having prolonged physical contact with an infected dog?</span></div></span></div>",
+            "created":1454562000,
+            "id":2099385,
+            "title":"Prolonged contact with an infected dog"
+        },
+        "13131131":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "A Dalmatian",
+                "A Labrador Retriever",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Very well, but what breed of dog will Violet become?</span></div></span></div>",
+            "created":1507457280,
+            "id":2398108,
+            "title":"Yes"
+        },
+        "131311313":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Border Collie",
+                "German Shepherd",
+                "More choices please"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK then, what other breeds of dog could she turn into?</span></div></span></div>",
+            "created":1507457400,
+            "id":2398109,
+            "title":"Something else"
+        },
+        "131312":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "He's deliberatey infected by a supervillain",
+                "He's exposed to it during an attack on the subway",
+                "Some other way"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, how does our little speedster get infected?</span></div></span></div>",
+            "created":1453698000,
+            "id":2094101,
+            "title":"Dash Parr"
+        },
+        "1313123":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's an idea \u2013 why not have Dash contract Man's Best Friend Syndrome after having prolonged physical contact with an infected dog?</span></div></span></div>",
+            "created":1454562000,
+            "id":2099387,
+            "title":"Prolonged contact with an infected dog"
+        },
+        "13131231":{
+            "choices":[
+                "Follow Dash and his puppy ",
+                "Choose a completely different version "
+            ],
+            "content":"<div class=\"\"><div> <span>Dash had always loved animals, all kinds of animals but dogs in particular was his favorite animal.<br>\r\n<br>\r\nDash would hang around all the dogs he could find, one day as Dash was running through the city he lived in he came across a abandoned puppy, Dash felt so sorry for the puppy that he brought him home with him.<br>\r\nWhen Dash opened the front door and walked into the living room carrying the puppy, his mother Helen asked what he was thinking bringing a stray dog into their home, Dash  answered \" Mom, I found him all alone in the bushes whining and freezing cold from being left out to die, I saved him ...\"  his mother Helen gave Dash a stern look and told him \" IF ...and that's a Big IF, ...If I let you keep him, YOU will take care of him in every way...everyday. Feeding him, washing him, taking him outside when he has to go AND cleaning up after him when he has accidents and everything else that goes along with having a dog... then maybe I will say yes\"  <br>\r\n\" OK MOM, I will do all those things for him...I swear\" Dash quickly answered.<br>\r\nHelen looked at them both and in her mind she already said yes but out of her mouth she said \" we will give you a month and see how you take care of him\" Dash ran over to his mother and hugged he very tightly and said \" I will mother, you will see...thank you mother, Thank You\" and with that Dash had his first puppy ..............<br>\r\n<br>\r\n---------------------------------------------------------------------------- -------------------------------------------------------------------------------- -----------------------------------------------<br>\r\n<br>\r\nNOW .......three months later, Dash had a best friend that he always cared for, a best friend that he always Loved.<br>\r\n<br>\r\nDash would bathe him on a regular weekly basis, usually he would bathe him when he was taking a bath.........on one particular day as Dash was washing himself,  his puppy, now almost a full grown dog was playing in the tub with him and as his puppy was licking his face ...Dash got up on his knees to stop him from jumping around so much.....and his puppy had looked up at Dash and started licking his penis, Dash was caught off guard and pulled away for the dog but the dog followed him as usual and continued licking his penis.<br>\r\n<br>\r\nDash stopped moving and closed his eyes and let his puppy lick his penis ....Dash grew hard and the puppy dropped down and started licking his balls, Dash moaned slightly only to feel his puppys tongue lick all the way up his shaft and licking his penis head.<br>\r\nHis puppy seemed to really like licking dash's penis and Dash himself found that he also really liked the puppy licking his penis........<br>\r\n<br>\r\nSoon Dash could not take anymore and he had a huge cum and his puppy kept licking up his cum, his puppy cleaned Dash's cock clean.<br>\r\n<br>\r\nDash knew now that this accident would happen again, a lot more times possibly on a daily basis, Dash had always loved his dog and now he loved him even more.<br>\r\n<br>\r\n<br>\r\n<br>\r\n(  it will be up to the next writer on what happens next with Dash and his puppy)<br>\r\n(( feel free to give his puppy a name if you wish ))</span></div></div>",
+            "created":1507421940,
+            "id":2397951,
+            "title":"Yes"
+        },
+        "13132":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "She's deliberately infected by a supervillain",
+                "She's exposed to it during an attack on the subway",
+                "Some other way"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, how does Mirage contract the disease that will ultimately turn her into a mindless pooch?</span></div></span></div>",
+            "created":1454130000,
+            "id":2096837,
+            "title":"Mirage"
+        },
+        "131321":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "The itch switches to the other side, to her other ear.",
+                "Meanwhile in a stuffed prison.",
+                "Mwah Ha Ha! Syndrome lives!, Lives!!, Lives!!!"
+            ],
+            "content":"<div class=\"\"><div> <span>Mirage looked around the room. It was impossible to keep the annoyance from her face. She still felt like the Witness Relocation Program had screwed her over, and she suspected Elastigirl played some part, and took some delight in it.<br>\r\n<br>\r\nHer slender body, and elegant subdued curves and grace were now long gone. The new curvaceous body apparently to help disguise her to provide more of a contrast.<br>\r\n<br>\r\nBut what Mirage... damn it... What Megan knew was that her shoulders were sore and her back ached constantly.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://68.media.tumblr.com/cab7ac12830faf82d2d5b754de445f66/tumblr_ojqbfiRPtA1w2lwkto1_1280.jpg\" target=\"_blank\">https://68.media.tumblr.com/cab7ac12830f...</a><br>\r\n<br>\r\nShe told herself, again and again, that she should be glad not to be in prison. A short life expectancy for the woman who betrayed Syndrome's entire island to be captured, as she lowered the defensive array.<br>\r\n<br>\r\nThe military arrived in force, tracking the ship back to the island, and without their leader they were overwhelmed.<br>\r\n<br>\r\nHer memories were fuzzy, and a slight furrow formed between her eyebrows as she thought back over past events. She knew that she'd known them, their real-life identities. But now, it was a vague memory, like seeing a face through the mist, or in the ripples of a pond. She tried to imagine each of them in their strong red uniforms. She focused on their heads, their masked faces, and tried to mentally peel away the masks. But nothing sprang out, it was all just a guess.<br>\r\n<br>\r\nA tickle came from her ear, and she scuffed at the offending itch. She didn't think her earrings were cheap and irritating. Nine carat gold did make her itch, though, so...<br>\r\n<br>\r\nOr maybe it was her hair, she wasn't happy with it. Trying to dismiss it as a low level annoyance, she forced  her hand down.</span></div></div>",
+            "created":1485666000,
+            "id":2270698,
+            "title":"She's deliberately infected by a supervillain"
+        },
+        "1313211":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "content":"<div class=\"\"><div> <span>Mirage's fingers darted to her other ear, brushing over her earlobe for a earring that wasn't there.<br>\r\n<br>\r\nA squeal burst from her lips, as she heard the digitised voice of Syndrome. Snapping her head around she scanned the room, for her former boss. Her heart racing, she'd dreaded, feared his return, the consequences of her betrayal.<br>\r\n<br>\r\nShe knew he was gone, she'd seen his body. It had to be a trick, she told herself. But the blood pounding in her ears was convinced.<br>\r\n<br>\r\n\"Ss..syndr...\" her voice trembled, as she called out to the empty air.<br>\r\n<br>\r\n\"This is your reward for disloyalty.\" it continued, cutting across her nervous question.<br>\r\n<br>\r\n\"A recording... Just a recording...\" she breathed. It wasn't responding to her, although she was unsettled to be hearing from him. She'd assumed her body resculpting had looked for these, had removed any bio-implants.<br>\r\n<br>\r\n\"Since you're listening to this message, You haven't heard my voice in over a month.\" it said. An edge of disquiet coming through.<br>\r\n<br>\r\n\"Either you've left my service and betrayed me!\" His voice cracking with anger over the word <i>betrayed</i>, or I've ... Or you've failed me. In either case, your services are terminated.\" She heard his breath hissing over what ever microphone he'd used.<br>\r\n<br>\r\n\"You were a poor human being, but perhaps, you'll learn a degree more loyalty with a new form.\"<br>\r\n<br>\r\nMirage felt her ear warm, racing towards a painful heat, as the voice faded. Feverishly, she clawed at her ear, frantic to remove ... whatever.<br>\r\n<br>\r\nHer scrabbling fingers tore at her own flesh, the nanites spreading out through her bloodstream, to every part of her body, seeking out every finger, every toe, every cell.<br>\r\n<br>\r\nInstead of her smooth perfect skin, she discovered hair. It grew wildly, uncontrollably. Hypnotised, she saw a layer spread across the back of her hand disappear beneath the sleeve of the dressing gown. She saw the thickening coat climbing up from her feet, her shins already covered with a deepening fur.<br>\r\n<br>\r\nFear warbled in her throat, as she knew... knew it truly was fur. That Syndrome's last act was to reduce her to a simple animal. Her thighs prickled as the furry layer reached the hem of the dressing gown. She rolled her shoulders, freeing herself from it. As if it were somehow the cause of her infection, her problems.<br>\r\n<br>\r\nBut that just revealed the progress of Syndrome's nanites. She felt as well as heard the crack of her bones. Her hips and her shoulders burning in pain, she collapsed onto all fours on the floor. In the mirror she saw her bones shift beneath her skin... beneath her fur. Forming joints not made for a biped. A howl burst from her lips, as she spotted her face contorting. Her nose, her jaw thrusting forward. Her howl lost its humanity, becoming more canine as her throat stretched and distorted. Her howl renewed, as she spotted the tail springing forth.<br>\r\n<br>\r\nA tear forming as she watched her reflection. Her soft chestnut eyes, altering from human to canine. Her expression was harder to read, as her skull shifted, shrank to be more in proportion with her new body. Mirage's thoughts became more muddled, her fear easing as her brain simplified, until the cracking stopped and the pain vanished.<br>\r\n<br>\r\nLooking back at her was a good girl, a pretty girl, she panted happily. Her room carried the reassuring scent of her mistress, and she curled up and went to sleep.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://s-media-cache-ak0.pinimg.com/564x/48/88/ea/4888ea60cface9dd67106ba60b1ccd72.jpg\" target=\"_blank\">https://s-media-cache-ak0.pinimg.com/564...</a><br>\r\n</span></div></div>",
+            "created":1486011600,
+            "id":2272453,
+            "title":"The itch switches to the other side, to her oth..."
+        },
+        "131323":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's an idea \u2013 why not have Mirage contract Man's Best Friend Syndrome after having prolonged physical contact with an infected dog?</span></div></span></div>",
+            "created":1454130000,
+            "id":2096838,
+            "title":"Prolonged contact with an infected dog"
+        },
+        "1313232":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "At home in her Metroville apartment",
+                "At work in the Metroville NSA office",
+                "Attending an incident.",
+                "Author's choice 1",
+                "Author's choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>You know what? Screw the mechanism of infection! Let's cut the chase already, but before we go any further, I feel a spot of background information is in order.<br>\r\n<br>\r\nAnna Mercedes Schreiber Fernandez, commonly known as Mirage, was an Agent with the National Supers Agency, as well as a serving superheroine. Four months before the defeat of Syndrome, Mirage, then a member of the <i>Kantonssuperheldendienst Z\u00fcrich</i> (Zurich Cantonal Superheroics Service), was in Washington, DC on business when she was recruited into the NSA and sent to Nomanisan Island to find out why so many Glory Days Supers had gone missing. Needless to say, she got captured by Syndrome and spent the next few months under mind control, until Mr. Incredible inadvertently broke the mind control chip when he mistakenly believed his family was dead. <br>\r\n<br>\r\nIn the aftermath of the Operation Kronos incident, Mirage had managed to escape further punishment on the grounds of entrapment and diminished responsibility, but nevertheless felt compelled to transfer from <i>Kantonssuperheldendienst Z\u00fcrich</i> to <i>Stadtsuperheldendienst Z\u00fcrich</i> (Zurich City Superheroics Service), with whom she worked at least 90 days a year in order to stay certified in Switzerland.<br>\r\n<br>\r\nOne year on from Operation Kronos, Mirage was still very much a hated figure for many in the NSA (especially the top brass) and she had very few friends in the Agency, most notably the Incredibles, Voyd, Rick Dicker and Winston Deavor. As a result, the city of Metroville, California had (somewhat ironically) become her favourite port of call when working in the US.<br>\r\n<br>\r\nWith that out of the way, our story now begins in earnest with Mirage\u2026 </span></div></div>",
+            "created":1504414800,
+            "id":2379466,
+            "title":"Who cares how she gets infected?"
+        },
+        "132":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Penny",
+                "Penny's mother",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's going to be first to contract the dreaded disease?</span></div></span></div>",
+            "created":1451970000,
+            "id":2084709,
+            "title":"Bolt"
+        },
+        "1321":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Bolt is infected and passes on to her",
+                "Writer's choice 1",
+                "Writer's choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, then, how does Penny Forrester contract Man's Best Friend Syndrome?</span></div></span></div>",
+            "created":1453698000,
+            "id":2094103,
+            "title":"Penny"
+        },
+        "133":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Hiro Hamada",
+                "GoGo Tomago",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, who's it going to be that contracts the dreaded Man's Best Friend Syndrome?</span></div></span></div>",
+            "created":1454734800,
+            "id":2100352,
+            "title":"Big Hero 6"
+        },
+        "1333":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Honey Lemon",
+                "Fred Lee",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, who else do you want to give MBFS to?</span></div></span></div>",
+            "created":1454734800,
+            "id":2100353,
+            "title":"Someone else"
+        },
+        "135":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Frozen",
+                "Marvel Cinematic Universe",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, what other movies could you choose from?</span></div></span></div>",
+            "created":1505019600,
+            "id":2383611,
+            "title":"Other"
+        },
+        "1351":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Elsa",
+                "Anna",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Very well, but which character(s) will contract the dreaded disease?</span></div></span></div>",
+            "created":1506661200,
+            "id":2393872,
+            "title":"Frozen"
+        },
+        "13511":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Siberian Husky",
+                "White German Shepherd",
+                "Some other breed of dog"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Very well, but what breed of dog will Queen Elsa of Arendelle become when she contracts Man's Best Friend Syndrome?</span></div></span></div>",
+            "created":1507266000,
+            "id":2397404,
+            "title":"Elsa"
+        },
+        "135113":{
+            "author_id":"swissair171",
+            "author_name":"Swissair171",
+            "choices":[
+                "Alaskan Malamute",
+                "Czechoslovakian Wolfdog",
+                "More choices please"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, what other breeds of dog could Elsa transform into?</span></div></span></div>",
+            "created":1507352400,
+            "id":2397831,
+            "title":"Some other breed of dog"
+        },
+        "1353":{
+            "choices":[
+                "Yes, ok lets go with this ",
+                "Are you kidding, heck No",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a young Ben10, before he gets any powers.<br>\r\n<br>\r\nHe lives with his uncle and cousin and goes through some PAW dropping experiences ........</span></div></span></div>",
+            "created":1507352400,
+            "id":2397945,
+            "title":"Ben 10"
+        },
+        "14":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Mystery.",
+                "Horror.",
+                "Fairy tale.",
+                "Adventure.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of story does this take place in?</span></div></span></div>",
+            "created":1504414800,
+            "id":2379344,
+            "title":"The tales of the past just got weirder..."
+        },
+        "145":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "Ron smiles as Harry took on Veela features.",
+                "Hermione laughed as Ron and Harry started growing muzzles.",
+                "In moments, there were three gorgeous Veela facing one another."
+            ],
+            "content":"<div class=\"\"><div> <span>After all these years, after the battle at Hogwarts, the three were exploring the restored castle. All greeted as heroes, the occasion was sombre too. Too many lost friends, too many painful memories. This was meant to be a new chapter, a hopeful beginning.<br>\r\n<br>\r\nThe three Gryffindors were back in the unused girls' toilets, with a disinterested Myrtle watching them. Hermione having made a breakthrough after her unfortunate incident regarding Millicent Bulstrode's cat driving her to investigate the limits and powers of polyjuice.<br>\r\n<br>\r\nHermione thought if she was marrying into the Weasley family, she should loosen up, and work on her sense of humour. She'd told Ron that the hair she'd selected for their polyjuices came from a Veela. Ron was fascinated but scared, until she encouraged him to experiment. Besides, at least he'd know what was coming, she convinced Ron this was a prank played on Harry.<br>\r\n<br>\r\nThe idea of seeing Harry becoming the double of Fleur didn't need much convincing to get Ron on board. <br>\r\n<br>\r\nHermione convinced Harry by playing on his desire for a quiet life. A little poly-juice would allow them to walk freely about the castle without being pestered every step of the way.<br>\r\n<br>\r\nPouring the vile smelling brown potion into the small cups, she passed them to each of the boys. Carefully plucking the hair samples from clear cellophane bags she added them to each cup. A hiss and a small puff of smoke came from each as the hair was added.<br>\r\n<br>\r\nShe was eager to see, if this new blend of polyjuice was a real improvement on the original that had been followed for centuries. A conflicted smile played across her face at what she was about to do. A memory of explaining to Mr. Weasley about cellophane bags, and ziploks and sealed in freshness bringing forth amazement at muggle ingenuity. <br>\r\n<br>\r\nA fake cough brought Hermione back to the here and now. The three friends clinked their glasses, and swallowed the contents in a single swift gulp, unwilling to taste the foul brew.</span></div></div>",
+            "created":1516192500,
+            "id":2441958,
+            "title":"Mixing up polyjuice potion."
+        },
+        "1452":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "Collapsing onto all fours, the boys feel their tails start to form.",
+                "Looking back the Veela Hermione held out two collars and leashes.",
+                "Harry tried to speak, only a canine howl emerged."
+            ],
+            "content":"<div class=\"\"><div> <span>Ron watched, as Hermione's hair took on more body, filling out, and looking healthier and more vibrant. It was getting paler, gaining a hint of golden blonde. Her perfect features refined, her cheekbones becoming sharper. He ignored his own transformation, more fascinated with hers. Hermione's face becoming a mix of Fleur and Hermione, with the best features of both.<br>\r\n<br>\r\n\"Wow...\" his words spoken aloud, he'd only meant to think them. A coy smile from Hermione made him blush. But his words were cut off with a barking cough. The words themselves deeper, and more gravelly, an almost animal growl. He liked that, but part of him felt the need to see his own progress. <br>\r\n<br>\r\nHis face looked much hairier, a beard and moustache that reminded him of his disguise for breaking into Gringott's. His hair a leonine mane, was thick and full. His nose was looking more prominent, perhaps an illusion from seeing it with all that facial hair.<br>\r\n<br>\r\nThat hope was extinguished, as his nose darkened, flattening as it turned distinctly black. Reaching up, he found it was pushing forward, his jaw too. A few hairs sprang from the beard, straightening and standing stiffly outwards. His whiskers,... the words triggered a fear. He realised Hermione had tricked him... him and Harry. A moment too late, he blinked, rapidly his eyes watering. As he fought that back, he looked at the progress through canine eyes.<br>\r\n<br>\r\nThe hands exploring his face were now backed by a thick mat of hair... fur, he corrected himself. Turning them around, he saw his fingers blacken becoming pads as they curled inwards. His nose and mouth projecting unmistakably into a dog's muzzle. An attempted smile revealing transformed teeth... canines.<br>\r\n<br>\r\nA look over to Harry saw a similar transformation. The same confusion on his face. Well, as best he could read the expression.</span></div></div>",
+            "created":1516486320,
+            "id":2443145,
+            "title":"Ron and Harry start growing muzzles."
+        },
+        "14521":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "Standing back up, she pulled out collars and leashes for them.",
+                "\"Oh, and now you're truly.... my bitches...\" she chuckled.",
+                "Hermione felt a twinge as her Veela instincts kicked in..."
+            ],
+            "content":"<div class=\"\"><div> <span>With their canine paws, neither was able to stop the trousers falling from their hips and pooling around them on the cold stone floor. Only their furry thighs thinning and becoming more dog-like.<br>\r\n<br>\r\nAs one, the pair were driven forward, collapsing onto all fours, the soft pads of their fore paws breaking the fall. A startled yelp, howl spilling from the muzzle of each dog.<br>\r\n<br>\r\nHermione watched fascinated seeing the potion was still on track, and neither Harry nor Ron were in any pain. She saw four canine eyes widen in fear and confusion.<br>\r\n<br>\r\nOnly just resisting the temptation to smile as their tails pushed outwards. Harry's face was entirely transformed into an Irish wolfhound. Despite this, there was still a recognisably human expression on his face. She ruffled the fur on his head, and instantly the concern was erased as a large red tongue slipped past his teeth. Happy panting, and animal instincts now taking a part in his decisions.<br>\r\n<br>\r\nSinking down to rest on one knee, she turned to Ron, or rather the Scottish deerhound that he'd become. He too responding to his mistress' touch with his new nature leading his response.<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1516791000,
+            "id":2444387,
+            "title":"Collapsing onto all fours, the changes continue."
+        },
+        "15":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Video games.",
+                "Board games.",
+                "Interactive movies.",
+                "Fanfiction.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What media does your character to be changed come from?</span></div></span></div>",
+            "created":1505019600,
+            "id":2383549,
+            "title":"Other options for an origin."
+        },
+        "155":{
+            "author_id":"game98979",
+            "author_name":"game98979",
+            "choices":[
+                "OC orginal characters ",
+                "Comic books",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What would you like<br>\r\n<br>\r\n<b>1 Oc</b><br>\r\nOriginal characters this is where you create new characters specifically for the story <br>\r\n<br>\r\n<b>2 comic books</b><br>\r\n</span></div></span></div>",
+            "created":1557679920,
+            "id":2658890,
+            "title":"Something else."
+        },
+        "1553":{
+            "author_id":"game98979",
+            "author_name":"game98979",
+            "choices":[
+                "legends/mythology{/b",
+                "Manga",
+                "Something else S"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><b>1 legends/mythology</b> <br>\r\n<br>\r\n<b>2 manga</b></span></div></span></div>",
+            "created":1557680160,
+            "id":2658895,
+            "title":"Something else "
+        }
+    },
+    "info":{
+        "author_id":"swissair171",
+        "author_name":"Swissair171",
+        "brief_description":"You favourite characters fall victim to a disease that turns people into dogs!",
+        "created":1451566920,
+        "description":"<td align=\"left\" class=\"norm\">Man's Best Friend Syndrome (or MBFS) is a rare and incurable medical condition that causes humans to transform into dogs. Little is known about the cause of the condition or its spread, and infected humans show no discernible symptoms until they start transforming. Once that happens, they are generally expected to be fully dog anywhere between two days and two months later (depending on the strain and how much the victim fights the changes). Man\u2019s Best Friend Syndrome targets both the body and the mind, and victims lose all human memories, personality traits and cognitive abilities. There are now growing fears that Man's Best Friend Syndrome could be weaponised and used by rogue states, criminals and terrorists.<br>\r\n<br>\r\nFor all you Bronies and Pegasisters out there, there's even an Equestrian version of the condition called Mare's Best Friend Syndrome, which targets ponies, zebras, donkeys, and possibly griffons and dragons.<br>\r\n<br>\r\nWith that out of the way, time for a few rules:<br>\r\n<br>\r\n\u2022\tNo scat.<br>\r\n\u2022\tAll transformations (both physical and mental) are to take place over time \u2013 no instantaneous transformations.<br>\r\n\u2022\tAll chapters are to be at least one full paragraph in length (but preferably longer), with the only exceptions being options lists.<br>\r\n\u2022\tPlease proofread chapters thoroughly before submitting them. (I don\u2019t want to have to edit and/or delete chapters that weren\u2019t properly proofread!)<br>\r\n<br>\r\nAs an extra incentive to add to this story, anyone who submits a chapter shall receive 500 gift points.<br>\r\n<br>\r\nEnjoy!<br>\r\n</td>",
+        "id":2070165,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1584474000,
+        "modified":1584474000,
+        "pretty_title":"Man's Best Friend Syndrome"
+    }
+}

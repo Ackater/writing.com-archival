@@ -1,0 +1,1568 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Normal Skylanders",
+                "Giants",
+                "Swap Force",
+                "The New Skylanders",
+                "You?"
+            ],
+            "content":"<div class=\"\"><div> <span>You have 5 choices as to where to go:<br>\r\n<br>\r\nNormal Skylanders: The ordinary guys. No gimmicks about them.<br>\r\n<br>\r\nGiants: They're huge!<br>\r\n<br>\r\nSwap Force: Have your choice between all of the 256 choices of characters.<br>\r\n<br>\r\nThe New Skylanders: A new branch of Skylanders. Place these guys on the Portal of Power, and you'll be surprised at what they can do.<br>\r\n<br>\r\nYou?: Well, you'll just have to click to find out.<br>\r\n</span></div></div>",
+            "created":1392094800,
+            "id":1743794,
+            "title":"The Beginning"
+        },
+        "11":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Air",
+                "Water",
+                "Magic",
+                "Life",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, now, which element does this Skylander belong to?</span></div></span></div>",
+            "created":1392094800,
+            "id":1743799,
+            "title":"Normal Skylanders"
+        },
+        "111":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Jet-Vac",
+                "Sonic Boom",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, but which Air Skylander will we explore the Skylands with?</span></div></span></div>",
+            "created":1392094800,
+            "id":1743800,
+            "title":"Air"
+        },
+        "1113":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Whirlwind",
+                "Scratch",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, let's try these...</span></div></span></div>",
+            "created":1392094800,
+            "id":1743806,
+            "title":"More Air Skylanders? Here you go!"
+        },
+        "11133":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Sure.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, how about Pop Thorn?</span></div></span></div>",
+            "created":1392094800,
+            "id":1743808,
+            "title":"Pop Thorn?"
+        },
+        "111332":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Warnado",
+                "Lightning Rod"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, you're now left with either Warnado or Lightning Rod. So, which one?</span></div></span></div>",
+            "created":1392094800,
+            "id":1743809,
+            "title":"Last Chance..."
+        },
+        "1113322":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "No, let's see the two Cores from Trap Team!",
+                "Yes, stick with him."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you really want to go with Lightning Rod? There's two more Air Core Skylanders from STT, you know.</span></div></span></div>",
+            "created":1454302800,
+            "id":2097948,
+            "title":"Lightning Rod"
+        },
+        "11133221":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Blades",
+                "Fling Kong"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one, then? Blades or Fling Kong?</span></div></span></div>",
+            "created":1454302800,
+            "id":2097949,
+            "title":"But wait a minute! There's more!"
+        },
+        "112":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Gill Grunt",
+                "Zap",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, but which Air Skylander will we explore the Skylands with?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752368,
+            "title":"Water"
+        },
+        "1123":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Riptide",
+                "Chill",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, let's try these...</span></div></span></div>",
+            "created":1393477200,
+            "id":1752372,
+            "title":"More Water Skylanders? Here you go!"
+        },
+        "11233":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Sure.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, how about Wham-Shell?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752373,
+            "title":"Wham-Shell?"
+        },
+        "112332":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Slam Bam",
+                "Punk Shock"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, you're now left with either Slam Bam or Punk Shock. So, which one?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752374,
+            "title":"Last Chance..."
+        },
+        "1123322":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "No, let's see the two Cores from Trap Team!",
+                "Yes, stick with her."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you really want to go with Punk Shock? There's two more Water Core Skylanders from STT, you know.</span></div></span></div>",
+            "created":1454302800,
+            "id":2097954,
+            "title":"Punk Shock"
+        },
+        "11233221":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Echo",
+                "Flip Wreck"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one, then? Echo or Flip Wreck?</span></div></span></div>",
+            "created":1454302800,
+            "id":2097960,
+            "title":"But wait a minute! There's more!"
+        },
+        "112332211":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Transformation",
+                "Inflation",
+                "Weight Gain"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So here is Echo, the Water Dragon Skylander from STT. What will happen to her?</span></div></span></div>",
+            "created":1458018000,
+            "id":2118119,
+            "title":"Echo"
+        },
+        "113":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Spyro",
+                "Pop Fizz",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, but which Magic Skylander will we explore the Skylands with?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752376,
+            "title":"Magic"
+        },
+        "1131":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Transformation",
+                "Inflation",
+                "Weight Gain"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, here we have Spyro, the practical leader of the Skylanders, as well as the star of his own game series. So, tell me, what's gonna happen here with our beloved hero?</span></div></span></div>",
+            "created":1454734800,
+            "id":2100203,
+            "title":"Beginning with the hero, eh?"
+        },
+        "11311":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "He transforms into a different Skylander",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does Skylanders Spyro transform into?</span></div></span></div>",
+            "created":1504501200,
+            "id":2380001,
+            "title":"Transformation"
+        },
+        "113112":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Okay, but he's going to have a hard time learning how to walk on just two legs",
+                "No, something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Spyro transforms into a human?</span></div></span></div>",
+            "created":1504501200,
+            "id":2380009,
+            "title":"Human Spyro?"
+        },
+        "1131121":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A magical rock",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>So, the main character of Skylanders, namely Spyro, is going to transform into a human. This could end up becoming very awkward for him, since he will have to get used to walking on just two legs instead of four, but there's still one big question to answer: what causes Spyro to transform in the first place?</span></div></div>",
+            "created":1507820160,
+            "id":2400236,
+            "title":"Spyro turns into a human, but what causes it?"
+        },
+        "1131122":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Yes! Make Spyro an anthro dragon!",
+                "No! Go with some other choice!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Spyro will transform into an anthropomorphic dragon?</span></div></span></div>",
+            "created":1504538340,
+            "id":2380010,
+            "title":"The next best thing to turning him human?"
+        },
+        "11311222":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Now, that sounds like it could get interesting. Go for it!",
+                "No way! That's just WAY too weird! NEXT!!!"
+            ],
+            "content":"<div class=\"\"><div> <span>Maybe Spyro grows a few extra heads and his neck(s) elongates, turning him into a dragon-hydra? (Please bear in mind that no matter how many heads he gets, they do NOT have seperate thoughts and/or personalities; Spyro has one conciousness in multiple heads. Ergo; Spyro has to adjust to looking out of several pairs of eyes simultaniously and avoiding getting his multiple long necks entangled in knots, all of which is still attached to his regular dragon body!)</span></div></div>",
+            "created":1507821240,
+            "id":2400241,
+            "title":"Three (or more) heads is better than one?"
+        },
+        "11312":{
+            "author_id":"comesailwithme",
+            "author_name":"RLRD",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, how exactly is this going to happen?</span></div></span></div>",
+            "created":1575693000,
+            "id":2756428,
+            "title":"Inflation"
+        },
+        "11313":{
+            "author_id":"comesailwithme",
+            "author_name":"RLRD",
+            "choices":[
+                "Something glowing in the distance.",
+                "Invitation to a party."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's the plan here?</span></div></span></div>",
+            "created":1575693240,
+            "id":2756430,
+            "title":"Weight Gain"
+        },
+        "1133":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Star Strike",
+                "Double Trouble",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, let's try these...</span></div></span></div>",
+            "created":1393477200,
+            "id":1752378,
+            "title":"More Magic Skylanders? Here you go!"
+        },
+        "11333":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Sure.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, how about Voodood?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752381,
+            "title":"Voodood?"
+        },
+        "113332":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Dune Bug",
+                "Wrecking Ball"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, you're now left with either Dune Bug or Wrecking Ball. So, which one?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752382,
+            "title":"Last Chance..."
+        },
+        "1133322":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "No, let's see the two Cores from Trap Team!",
+                "Yes, stick with him."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you really want to go with Wrecking Ball? There's two more Magic Core Skylanders from STT, you know.</span></div></span></div>",
+            "created":1454302800,
+            "id":2097955,
+            "title":"Wrecking Ball"
+        },
+        "11333221":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Deja Vu",
+                "Cobra Cadabra"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one, then? Deja Vu or Cobra Cadabra?</span></div></span></div>",
+            "created":1454302800,
+            "id":2097962,
+            "title":"But wait a minute! There's more!"
+        },
+        "114":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Bumble Blast",
+                "Shroomboom",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, but which Life Skylander will we explore the Skylands with?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752352,
+            "title":"Life"
+        },
+        "1143":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Camo",
+                "Stealth Elf",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, let's try these...</span></div></span></div>",
+            "created":1393477200,
+            "id":1752354,
+            "title":"More Life Skylanders? Here you go!"
+        },
+        "11431":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Inflation",
+                "Transformation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Camo, the Grass Dragon Skylander, whom in which first appeared in SSA. What will happen to the poor Skylander?</span></div></span></div>",
+            "created":1452834000,
+            "id":2089414,
+            "title":"Camo"
+        },
+        "114311":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Stick with Inflation",
+                "Have Camo gain weight instead"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want to stick with Camo inflating or have Camo gain weight instead?</span></div></span></div>",
+            "created":1454130000,
+            "id":2096829,
+            "title":"Inflation"
+        },
+        "1143112":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "He eats a strange fruit.",
+                "He gets forcefed by someone",
+                "More Free Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, why is Camo gaining weight?</span></div></span></div>",
+            "created":1454302800,
+            "id":2097560,
+            "title":"Weight Gain"
+        },
+        "114312":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Anthro Camo",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will Camo transform into?</span></div></span></div>",
+            "created":1453352400,
+            "id":2092400,
+            "title":"Transformation"
+        },
+        "1143121":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A magical rock",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, but how exactly will Camo transform into an anthropomorphic dragon?</span></div></span></div>",
+            "created":1504501200,
+            "id":2380007,
+            "title":"Anthro Camo"
+        },
+        "1143122":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Baby Camo",
+                "More Free Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else, then?</span></div></span></div>",
+            "created":1453438800,
+            "id":2092508,
+            "title":"More Choices"
+        },
+        "11431222":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Yes",
+                "No (Free Choice)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Camo could transform into a inanimate object?</span></div></span></div>",
+            "created":1453698000,
+            "id":2094312,
+            "title":"More Free Choices"
+        },
+        "114312222":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Yes please.",
+                "No thank you. (Free Choice)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps Camo transforms into a different Skylander that's not like him at all?</span></div></span></div>",
+            "created":1453784400,
+            "id":2094464,
+            "title":"No (Free Choice)"
+        },
+        "1143122221":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "One of these two will do",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Skylander will Camo transform into? Maybe it's either Gill Grunt or Trigger Happy?</span></div></span></div>",
+            "created":1504501200,
+            "id":2380002,
+            "title":"No longer Camo..."
+        },
+        "11431222211":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Gill Grunt",
+                "Trigger Happy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one of them will Camo transform into?</span></div></span></div>",
+            "created":1504501200,
+            "id":2380003,
+            "title":"Which one is it?"
+        },
+        "1143122222":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Yes!",
+                "Nope (Free Choice)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps Camo could transform into a different species?</span></div></span></div>",
+            "created":1453870800,
+            "id":2095205,
+            "title":"No thank you. (Free Choice)"
+        },
+        "11431222221":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Okay, but he's going to have a hard time learning how to walk on just two legs",
+                "No, choose something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which other species could Camo transform into?</span></div></span></div>",
+            "created":1504501200,
+            "id":2380005,
+            "title":"Camo, the....human?"
+        },
+        "114312222211":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A magical rock",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, so Camo is going to transform into a human, but what exactly causes the transformation?</span></div></span></div>",
+            "created":1507819800,
+            "id":2400231,
+            "title":"Camo turns human, but what causes the change?"
+        },
+        "11431222222":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Yes",
+                "No (Free Choice)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Camo could transform into a different creature from another world?</span></div></span></div>",
+            "created":1453957200,
+            "id":2095514,
+            "title":"Nope (Free Choice)"
+        },
+        "114312222221":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Different dragon",
+                "More Free Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind?</span></div></span></div>",
+            "created":1454043600,
+            "id":2095951,
+            "title":"Yes"
+        },
+        "11433":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Sure.",
+                "Nah."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, how about Zook?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752356,
+            "title":"Zook?"
+        },
+        "114332":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Zoo Lou",
+                "Stump Smash"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, you're now left with either Zoo Lou or Stump Smash. So, which one?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752361,
+            "title":"Last Chance..."
+        },
+        "1143322":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "No, let's see the two Cores from Trap Team!",
+                "Yes, stick with him."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you really want to go with Stump Smash? There's two more Life Core Skylanders from STT, you know</span></div></span></div>",
+            "created":1454302800,
+            "id":2097965,
+            "title":"Stump Smash"
+        },
+        "11433221":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Food Fight",
+                "High Five"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one, then? Food Fight or High Five?</span></div></span></div>",
+            "created":1454302800,
+            "id":2097969,
+            "title":"But wait a minute! There's more!"
+        },
+        "114332212":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Weight Gain",
+                "Transformation",
+                "Inflation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So we have High Five, the Life Dragon Skylander from STT. What will happen to him?</span></div></span></div>",
+            "created":1455253200,
+            "id":2103115,
+            "title":"High Five"
+        },
+        "115":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Fire",
+                "Earth",
+                "I demand more!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, have at these elements. You like?</span></div></span></div>",
+            "created":1392094800,
+            "id":1743824,
+            "title":"More elements"
+        },
+        "1151":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Eruptor",
+                "Hot Dog",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, but which Fire Skylander will we explore the Skylands with?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752390,
+            "title":"Fire"
+        },
+        "11513":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Okay.",
+                "Hm, no..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Sunburn?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752391,
+            "title":"Sunburn?"
+        },
+        "115132":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Yeah!",
+                "Nope!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hm, alright then, maybe Smolderdash is more to your taste?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752393,
+            "title":"Smolderdash?"
+        },
+        "1151322":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Of course!",
+                "Not a chance."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, let's try Flameslinger? Now are you interested?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752396,
+            "title":"Flameslinger?"
+        },
+        "11513222":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Ignitor",
+                "Fryno"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, you're now left with either Ignitor or Fryno. So, which one?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752399,
+            "title":"Last Chance..."
+        },
+        "115132222":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "No, let's see the two Cores from Trap Team!",
+                "Yes, stick with him."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you really want to go with Fryno? There's two more Fire Core Skylanders from STT, you know.</span></div></span></div>",
+            "created":1454302800,
+            "id":2097956,
+            "title":"Fryno"
+        },
+        "1151322221":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Torch",
+                "Trail Blazer"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one, then? Torch or Trail Blazer?</span></div></span></div>",
+            "created":1454302800,
+            "id":2097963,
+            "title":"But wait a minute! There's more!"
+        },
+        "1152":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Flashwing",
+                "Prism Break",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, but which Earth Skylander will we explore the Skylands with?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752403,
+            "title":"Earth"
+        },
+        "11523":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Okay.",
+                "Hm, no..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Scorp?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752409,
+            "title":"Scorp?"
+        },
+        "115232":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Yeah!",
+                "Nope!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hm, alright then, maybe Terrafin is more to your taste?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752411,
+            "title":"Terrafin?"
+        },
+        "1152322":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Of course!",
+                "Not a chance."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, let's try Slobber Tooth? Now are you interested?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752414,
+            "title":"Slobber Tooth?"
+        },
+        "11523222":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Bash",
+                "Dino-Rang"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, you're now left with either Bash or Dino-Rang. So, which one?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752416,
+            "title":"Last Chance..."
+        },
+        "115232222":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "No, let's see the two Cores from Trap Team!",
+                "Yes, stick with him."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you really want to go with Dino-Rang? There's two more Earth Core Skylanders from STT, you know.</span></div></span></div>",
+            "created":1454302800,
+            "id":2097957,
+            "title":"Dino-Rang"
+        },
+        "1152322221":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Rocky Roll",
+                "Fist Bump"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one, then? Rocky Roll or Fist Bump?</span></div></span></div>",
+            "created":1454302800,
+            "id":2097968,
+            "title":"But wait a minute! There's more!"
+        },
+        "1153":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Undead",
+                "Tech"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The final two elements. Will you choose Tech or Undead?</span></div></span></div>",
+            "created":1392094800,
+            "id":1743826,
+            "title":"Okay, okay, here's the rest."
+        },
+        "11531":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Yes.",
+                "...Let the mind-numbing amount of clicking begin..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, we're to the point where we can only do one at a time. Try to bear with me here. Would you like Cynder?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752417,
+            "title":"Cynder?"
+        },
+        "115311":{
+            "choices":[
+                "Weight gain.",
+                "Inflation."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah,the ugly remake of Cynder. Let's pretend she is pretty for a few monents and begin this story.<br>\r\nWhat horrors awaits this dragoness.</span></div></span></div>",
+            "created":1445144400,
+            "id":2048718,
+            "title":"Yes."
+        },
+        "115312":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Of course!",
+                "Nope!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Ghost Roaster? That's nice, right?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752421,
+            "title":"Ghost Roaster?"
+        },
+        "1153122":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "I guess so...",
+                "Not a chance."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's go with Hex. Hex is good, right?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752424,
+            "title":"Hex?"
+        },
+        "11531222":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Oh, yeah!",
+                "Try again."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, you have to think that Fright Rider is at least a possibility, right?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752428,
+            "title":"*sigh* Maybe Fright Rider?"
+        },
+        "115312222":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Bring it on!",
+                "Ehhhh, no."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, you have to admit that Roller Brawl is cool. Cool enough to choose, I hope...</span></div></span></div>",
+            "created":1393477200,
+            "id":1752431,
+            "title":"Roller Brawl?"
+        },
+        "1153122222":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Sure.",
+                "No way."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would you consider giving Fright Rider a try?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752435,
+            "title":"Let's try Fright Rider."
+        },
+        "11531222222":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Chop Chop",
+                "Grim Creeper"
+            ],
+            "content":"<div class=\"\"><div> <span>Thank you for bearing with me. There aren't any more Undead Skylanders at the time of writing, I promise you. So, you have the choice between Chop Chop and Grim Creeper. If you can't choose it here, you obviously chose the wrong element, and you totally wasted your time for nothing.</span></div></div>",
+            "created":1393477200,
+            "id":1752441,
+            "title":"Last Chance..."
+        },
+        "115312222222":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "No, let's see the two Cores from Trap Team!",
+                "Yes, stick with him."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you really want to go with Grim Creeper? There's two more Undead Core Skylanders from STT, you know.</span></div></span></div>",
+            "created":1454302800,
+            "id":2097973,
+            "title":"Grim Creeper"
+        },
+        "1153122222221":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Funny Bone",
+                "Bat Spin"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one, then? Funny Bone or Bat Spin?</span></div></span></div>",
+            "created":1454302800,
+            "id":2097976,
+            "title":"But wait a minute! There's more!"
+        },
+        "11532":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Yes.",
+                "...Let the mind-numbing amount of clicking begin..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, we're to the point where we can only do one at a time. Try to bear with me here. Would you like Happy Trigger?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752419,
+            "title":"Happy Trigger?"
+        },
+        "115322":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Of course!",
+                "Nope!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Drobot? That's nice, right?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752422,
+            "title":"Drobot?"
+        },
+        "1153222":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "I guess so...",
+                "Not a chance."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's go with Sprocket? Sprocket is good, right?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752425,
+            "title":"Sprocket?"
+        },
+        "11532222":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Oh, yeah!",
+                "Try again."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, you have to think that Boomer is at least a possibility, right?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752429,
+            "title":"*sigh Maybe Boomer?"
+        },
+        "115322222":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Bring it on!",
+                "Ehhhh, no."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, you have to admit that Countdown is cool. Cool enough to choose, I hope...</span></div></span></div>",
+            "created":1393477200,
+            "id":1752430,
+            "title":"Countdown?"
+        },
+        "1153222222":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Sure.",
+                "No way."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would you consider giving Wind Up a try?</span></div></span></div>",
+            "created":1393477200,
+            "id":1752433,
+            "title":"Let's try Wind Up."
+        },
+        "11532222222":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Drill Sergeant",
+                "Spy Rise"
+            ],
+            "content":"<div class=\"\"><div> <span>Thank you for bearing with me. There aren't any more Tech Skylanders at the time of writing, I promise you. So, you have the choice between Drill Sergeant and Spy Rise. If you can't choose it here, you obviously chose the wrong element, and you totally wasted your time for nothing.</span></div></div>",
+            "created":1393477200,
+            "id":1752439,
+            "title":"Last Chance..."
+        },
+        "115322222221":{
+            "author_id":"megafan7790",
+            "author_name":"MegaFan",
+            "choices":[
+                "Continue with Drill Sergeant",
+                "The New Two!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There are the new elements of Light and Dark now... Maybe one of them?</span></div></span></div>",
+            "created":1499749200,
+            "id":2351445,
+            "title":"New Elements."
+        },
+        "115322222222":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sorry, but this Skylander belongs in the SWAP Force, not the regular ones! Go check out the SWAP Force option if you want to use him!</span></div></span></div>",
+            "created":1454302800,
+            "id":2097972,
+            "title":"Spy Rise (NOT)"
+        },
+        "12":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Tree Rex",
+                "Swarm",
+                "Bouncer",
+                "Crusher",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so here you have the Legendary Giants. There's one of each element, so I'm just going to list them here. Take your pick!</span></div></span></div>",
+            "created":1392094800,
+            "id":1743812,
+            "title":"Giants"
+        },
+        "125":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Ninjini",
+                "Hot Head",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here, we have a couple more options.</span></div></span></div>",
+            "created":1392094800,
+            "id":1743815,
+            "title":"Other Giants"
+        },
+        "1253":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Thumpback",
+                "Eye-Brawl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, here are the last of the Giants.</span></div></span></div>",
+            "created":1392094800,
+            "id":1743819,
+            "title":"The Final Two!"
+        },
+        "12531":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Weight Gain",
+                "Transformation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So here we have Thumpback, the Water Giant Skylander. What do you want to happen to the poor gigantic whale Giant Skylander?</span></div></span></div>",
+            "created":1452747600,
+            "id":2089286,
+            "title":"Thumpback"
+        },
+        "125311":{
+            "author_id":"cyanlaser",
+            "author_name":"Daft Punk",
+            "choices":[
+                "Definitely weight gain ",
+                "Water inflation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You sure you want weight gain or inflation by water?</span></div></span></div>",
+            "created":1493960400,
+            "id":2315221,
+            "title":"Weight Gain"
+        },
+        "13":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Wash...",
+                "Blast...",
+                "Rattle...",
+                "Manga...",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so here you have the SWAP Force gang. There's two of each element, and they can swap with each other, too. So I'm going to list 16 of the top halves here, then you pick the bottom halves for them. Take your pick!</span></div></span></div>",
+            "created":1445922000,
+            "id":2053294,
+            "title":"Swap Force"
+        },
+        "131":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Wash Buckler",
+                "Wash Zone",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your bottom half!</span></div></span></div>",
+            "created":1446872400,
+            "id":2058057,
+            "title":"Wash..."
+        },
+        "1313":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Wash Charge",
+                "Wash Blade",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some more options for you to try out!</span></div></span></div>",
+            "created":1446872400,
+            "id":2058058,
+            "title":"More"
+        },
+        "132":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Blast Zone",
+                "Blast Charge",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your bottom half!</span></div></span></div>",
+            "created":1446526800,
+            "id":2056377,
+            "title":"Blast..."
+        },
+        "1323":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Blast Buckler",
+                "Blast Shift",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some more options for you to try!</span></div></span></div>",
+            "created":1446613200,
+            "id":2056720,
+            "title":"More"
+        },
+        "133":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Rattle Shake",
+                "Rattle Buckler",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your bottom half!</span></div></span></div>",
+            "created":1446094800,
+            "id":2054194,
+            "title":"Rattle..."
+        },
+        "1333":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Rattle Blade",
+                "Rattle Ranger",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some more options for you to try out.</span></div></span></div>",
+            "created":1446181200,
+            "id":2054641,
+            "title":"More"
+        },
+        "134":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Manga Charge",
+                "Manga Buckler",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your bottom half!</span></div></span></div>",
+            "created":1445922000,
+            "id":2053527,
+            "title":"Manga..."
+        },
+        "1343":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Manga Zone",
+                "Manga Blade",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some more options for you to try out!</span></div></span></div>",
+            "created":1446008400,
+            "id":2053785,
+            "title":"More"
+        },
+        "135":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Freeze...",
+                "Fire...",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here, we have a couple more options.</span></div></span></div>",
+            "created":1445922000,
+            "id":2053296,
+            "title":"More"
+        },
+        "1351":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Freeze Blade",
+                "Freeze Buckler",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your bottom half!</span></div></span></div>",
+            "created":1447045200,
+            "id":2059156,
+            "title":"Freeze..."
+        },
+        "1352":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Fire Kraken",
+                "Fire Buckler",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your bottom half!</span></div></span></div>",
+            "created":1446440400,
+            "id":2055997,
+            "title":"Fire..."
+        },
+        "1353":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Free...",
+                "Hoot...",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's a couple more options for you to try out.</span></div></span></div>",
+            "created":1445922000,
+            "id":2053297,
+            "title":"More"
+        },
+        "13531":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Free Ranger",
+                "Free Zone",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your bottom half!</span></div></span></div>",
+            "created":1454475600,
+            "id":2098576,
+            "title":"Free..."
+        },
+        "135313":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Free Buckler",
+                "Free Charge",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some more options for you to try out!</span></div></span></div>",
+            "created":1454562000,
+            "id":2099115,
+            "title":"More"
+        },
+        "1353133":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Free Blade",
+                "Free Krakwn",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's some more options for you to try out!</span></div></span></div>",
+            "created":1454648400,
+            "id":2099869,
+            "title":"More"
+        },
+        "13531332":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Weight Gain",
+                "Transformation",
+                "Inflation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>P.S.: Misspelled Free Kraken in the choice. Sorry!<br>\r\n<br>\r\nAnyways, what will happen to the SWAP Force member?</span></div></span></div>",
+            "created":1454907600,
+            "id":2101315,
+            "title":"Free Kraken"
+        },
+        "13533":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Spy...",
+                "Boom...",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's a couple more options for you to try out.</span></div></span></div>",
+            "created":1454389200,
+            "id":2098103,
+            "title":"More"
+        },
+        "14":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Inflation (Air)",
+                "Inflation (Liquid)",
+                "Weight Gain, or Inflation (Food)",
+                "Transformation",
+                "Not here? How about this?"
+            ],
+            "content":"<div class=\"\"><div> <span>Well, now we come to the newest additions to the group. However, I think all of you know better than me. Therefore, you shall choose what the new Skylanders look like and what they do. I'll give a loose guideline to this as well. So, generally, what does your Skylander do?</span></div></div>",
+            "created":1393131600,
+            "id":1750318,
+            "title":"The New Skylanders"
+        },
+        "141":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Inflate with air.",
+                "Inflate with helium.",
+                "Transforms opponent into a living balloon."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, so how does he/she do it?</span></div></span></div>",
+            "created":1393131600,
+            "id":1750321,
+            "title":"Inflation (Air)"
+        },
+        "142":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Inflate with water.",
+                "Inflate with soda.",
+                "Inflate with goo."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, so how does he/she do it?</span></div></span></div>",
+            "created":1393131600,
+            "id":1750322,
+            "title":"Inflation (Liquid)"
+        },
+        "143":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Weight Gain with food.",
+                "Weight Gain without food.",
+                "Inflation with food."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, and how does he/she do it?</span></div></span></div>",
+            "created":1393131600,
+            "id":1750320,
+            "title":"Weight Gain, or Inflation (Food)"
+        },
+        "144":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Transforms them into something alive.",
+                "Transforms them into an inanimate object.",
+                "Make them appear to be something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, so how does he/she do it?</span></div></span></div>",
+            "created":1393131600,
+            "id":1750323,
+            "title":"Transformation"
+        },
+        "1441":{
+            "author_id":"comesail",
+            "author_name":"Alright Stories",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This new branch of Skylanders are known as \"The New Age.\" They defend Earth from attacks by The Doomster. Now, which character do you want to follow?</span></div></span></div>",
+            "created":1573095060,
+            "id":2743216,
+            "title":"Transforms them into something alive."
+        },
+        "14411":{
+            "author_id":"comesail",
+            "author_name":"Alright Stories",
+            "choices":[
+                "Rick",
+                "Next."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Rick: Willing to put his life on the line, he can take a few extra hits than his colleagues.</span></div></span></div>",
+            "created":1573095660,
+            "id":2743218,
+            "title":"Male"
+        },
+        "14412":{
+            "author_id":"comesail",
+            "author_name":"Alright Stories",
+            "choices":[
+                "Amanda",
+                "Next."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Amanda: Elven mages can be dangerous if they have the right spells. She has varied types of spells, from healing to hurting.</span></div></span></div>",
+            "created":1573095780,
+            "id":2743219,
+            "title":"Female"
+        },
+        "145":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Swap",
+                "Shrink/Grow",
+                "No? Well, there's still plenty more where that came from."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>None of those tickled your fancy? Maybe one of these are your Skylander?</span></div></span></div>",
+            "created":1393131600,
+            "id":1750325,
+            "title":"Not here? How about this?"
+        },
+        "15":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "...your body had changed somewhat.",
+                "...your body had changed from the waist down.",
+                "...your body had changed from the waist up.",
+                "...your body had changed completely.",
+                "...nothing out of the ordinary, except for that pendant."
+            ],
+            "content":"<div class=\"\"><div> <span>You listened to the speech that Master Eon made on your TV screen. You sat there unimpressed. \"I've heard him say things like this over and over again. 'You must save the Skylands, blahbity, blar, blar.'\"<br>\r\n<br>\r\nYou just sat there when all of a sudden the power went out. \"Dang it! I have to listen to that stupid speech all over again. Thank you, defective power grid.\" You open the window to scream your head off, when you notice that the lights of every other house in the neighborhood was on. \"What the-?\" You were stopped by a strange glow coming from the center of your room.<br>\r\n<br>\r\nYou slowly approach your TV and see a glow coming from the Portal of Power. You definitely saw this as odd, considering even your TV was off. You looked at it and saw the top was completely flat. You poked it and it acted like Jell-o, bouncing up and down. You poked it again, and suddenly your TV lit up a blinding white. \"What in the-\" You barely said as the bright light got even brighter and engulfed you. Blinded, you blacked out instantly.<br>\r\n<br>\r\n<span style=\"line-height:1.2;\"></span><br>\r\n<br>\r\n\"Ugh...\" You were coming back around. You smelled the green grass in front of you, as well as the blue sky above. <br>\r\n<br>\r\n'Wait a minute? Grass? Sky?\" You were shocked to find yourself in the middle of some field. You felt weird. Like something was wrong with you. You looked down at yourself and found...</span></div></div>",
+            "created":1394254800,
+            "id":1757607,
+            "title":"Yes, you."
+        },
+        "154":{
+            "author_id":"comesail",
+            "author_name":"Alright Stories",
+            "choices":[
+                "Your friend",
+                "Spyro",
+                "An army of Bad Guys"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You found that now you're now about half your height and your skin was covered in white fur. You had your original clothes on, to recognize yourself. You tried looking around and heard a familiar voice. It was...</span></div></span></div>",
+            "created":1560884640,
+            "id":2675273,
+            "title":"...your body had changed completely."
+        },
+        "1541":{
+            "author_id":"comesail",
+            "author_name":"Alright Stories",
+            "choices":[
+                "You turned invisible.",
+                "Skylanders came."
+            ],
+            "content":"<div class=\"\"><div> <span>Your best friend from school was also in this world. He was, instead, his hero from his hand-drawn comics. He had a wrestling mask with a mohawk, a leather jacket with spikes, and jeans and sneakers. The new outfit also came with a cat backpack.<br>\r\n\"Dude, what the heck is going on?\" He asked.<br>\r\n\" As soon as you tell me why I'm missing the top three feet of my body!\" You answered back. Then you saw a horde of monsters heading your way. You try to use anything you had on you, and then, ...</span></div></div>",
+            "created":1560892020,
+            "id":2675318,
+            "title":"A Familiar Face"
+        },
+        "15411":{
+            "author_id":"comesail",
+            "author_name":"Alright Stories",
+            "choices":[
+                "Spyro",
+                "Jet Vac"
+            ],
+            "content":"<div class=\"\"><div> <span>You thought when you were going to die, but at the moment you shut your eyes, you heard your friend scream in pure horror. You were invisible now. The monsters were confused, and your friend was fainting. You were also freaking out.<br>\r\n\"You need help, kids?\" Said...</span></div></div>",
+            "created":1560908640,
+            "id":2675455,
+            "title":"You turned invisible."
+        },
+        "15412":{
+            "author_id":"comesail",
+            "author_name":"Alright Stories",
+            "choices":[
+                "Team 1 (Spyro, Stealth Elf, Eruptor, Jet Vac, Pop Fizz.)",
+                "Team 2 (Cinder, Hex, Camo,)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Just then, an explosion went off in the middle of the horde. Half of the monsters were down and out. It was...</span></div></span></div>",
+            "created":1560982320,
+            "id":2675899,
+            "title":"About time you got here!"
+        },
+        "1542":{
+            "author_id":"comesail",
+            "author_name":"Alright Stories",
+            "choices":[
+                "Pirates attacked.",
+                "He crashed.",
+                "Your fur turned  a different color."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Yep, it was the purple dragon himself. He helped you up and quickly got you to the Core of Light. Hopefully, Eon can explain what the heck is going on with this transformation. Then, a group of...</span></div></span></div>",
+            "created":1560902040,
+            "id":2675397,
+            "title":"Spyro"
+        },
+        "1543":{
+            "author_id":"comesail",
+            "author_name":"Alright Stories",
+            "choices":[
+                "Blue (water)",
+                "Orange (fire)"
+            ],
+            "content":"<div class=\"\"><div> <span>An army of Bad Guys led by a squid pirate stood on the other side of the field. It raised it's sword and went charging, and that's when something happened to your fur. It changed to the color...<br>\r\n(Think about what element a squid would be in, then select what would be the most effective)</span></div></div>",
+            "created":1560907140,
+            "id":2675437,
+            "title":"An army of Bad Guys"
+        }
+    },
+    "info":{
+        "author_id":"kecleon352",
+        "author_name":"Metamorphosis",
+        "brief_description":"Strange events are occurring in the Skylands. How will the Skylanders adapt? Fetish zone.",
+        "created":1392052080,
+        "description":"<td align=\"left\" class=\"norm\">\"Hello. I am Master Eon, and welcome to the Skylands. Ever since Kaos was defeated, the residents of the Skylands have lived in peace. But a new enemy has appeared, bringing chaos and disaster wherever he goes. Even you, the Portal Master, may be effected by this menace. So please take care, as you venture the Skylands with the legendary Skylanders.\"<br>\r\n<br>\r\n*******************************************************<br>\r\n<br>\r\nHello everyone! It's me, the author. I'd just like to point some things out.<br>\r\n<br>\r\nThis is a fetish based story, mainly focusing around Transformations and Inflations. If you don't like reading stuff like this, go somewhere else. For the rest of you, I just want you to remember a couple of things before you add to my story:<br>\r\n<br>\r\nFor one, since this is a T rated story, you cannot add things like gore, sex, harsh language (preferably, no colorful language if you mind) and no popping. Popping is not actually banned with the T rating, but I just don't like it. Everything else goes.<br>\r\n<br>\r\nWhen you enter the story, I will give you instructions as to where to go, so you don't get lost.<br>\r\n<br>\r\nGood story additions will be rewarded with GPs.<br>\r\n<br>\r\nWell, if you're ready, let's begin!</td>",
+        "id":1976536,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1575693240,
+        "modified":1575693240,
+        "pretty_title":"Skylanders: The Winds of Change"
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"cjgatch",
+            "author_name":"SkylerHusky",
+            "choices":[
+                "human",
+                "Anthro"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is your race?</span></div></span></div>",
+            "created":1389667800,
+            "id":1727218,
+            "title":"Who are you?"
+        },
+        "11":{
+            "author_id":"cjgatch",
+            "author_name":"SkylerHusky",
+            "choices":[
+                "male",
+                "female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>male or female?</span></div></span></div>",
+            "created":1389667860,
+            "id":1727219,
+            "title":"Gender"
+        },
+        "111":{
+            "author_id":"infinity421",
+            "author_name":"infinity421",
+            "choices":[
+                "Tanks by time period",
+                "Tanks by nation",
+                "Character slots"
+            ],
+            "content":"<div class=\"\"><div> <span>Okay, so you're going to be a human male. The problem is, there's a <i>lot</i> of tanks, so how are you gonna get the one you want?<br>\r\n<br>\r\nI propose three methods: the first, sorting tanks by time period - First World War, Second World War, etc; the second, by nation - Britain, American, and so forth; and the last, simple character slots so you can make your own character and simultaneously choose their tank. <br>\r\n<br>\r\nSo, what'll it be?</span></div></div>",
+            "created":1389742740,
+            "id":1727608,
+            "title":"male"
+        },
+        "1111":{
+            "author_id":"infinity421",
+            "author_name":"infinity421",
+            "choices":[
+                "WW2",
+                "WW2",
+                "Other time periods"
+            ],
+            "content":"<div class=\"\"><div> <span>So, you want to order tanks by time period? Okay. <br>\r\n<br>\r\nFor the first two time periods, we'll have the First and Second World Wars. Tanks in WW1 were long and slow, designed to cross trenches and support infantry formations. World War One also saw the first APC; the British Mark IX. Unfortunately for characters operating these tanks, the conditions inside were near-hellish, to the point that crews often choked on their tank's own exhaust fumes. <br>\r\nGas masks are recommended. <br>\r\n<br>\r\nWorld War Two saw the birth of tanks as we know them today: fast and heavily armoured vehicles able to take large amounts of punishment and deal out even more. Some iconic tanks from this time period include the Panzer IV, the Tiger, and the M4 Sherman. <br>\r\n<br>\r\nSo, are these time periods good enough? Or do you want tanks that are a bit more high tech?</span></div></div>",
+            "created":1389743520,
+            "id":1727617,
+            "title":"Tanks by time period"
+        },
+        "11113":{
+            "author_id":"cjgatch",
+            "author_name":"SkylerHusky",
+            "choices":[
+                "this time period",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>ok so how about something from Korea or Vietnam<br>\r\n<br>\r\nFor Korea we have again the Sherman and many other tanks from World War II like the T-34 for the north Koreans, but we also have the creation of new tanks later in the war like the Heavy tank the M26 Pershing, M46 Patton or the M36 tank destroyer,<br>\r\n<br>\r\nAnd for the Koreans we have the Russian built T-34 and IS-2 , American lend lease M4A2E8 Sherman and M5A1 stuart.<br>\r\n<br>\r\nNow if your looking for Vietnam we have for the American side the M48 Patton,  M60 Patton, M551 Sheridan. For the Communist side we have T-34/85, T-54, type 59.</span></div></div>",
+            "created":1389801780,
+            "id":1727876,
+            "title":"Other time periods"
+        },
+        "111131":{
+            "author_id":"cjgatch",
+            "author_name":"SkylerHusky",
+            "choices":[
+                "Vietnam",
+                "Korea"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So which will it be the mountains of Korea or the jungles of Vietnam?</span></div></span></div>",
+            "created":1392521760,
+            "id":1746275,
+            "title":"this time period"
+        },
+        "111132":{
+            "author_id":"cjgatch",
+            "author_name":"SkylerHusky",
+            "choices":[
+                "This time period",
+                "go back"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you want something a little more modern? How about the American M1,M1A1,M1A2 Abrams or maybe the Soviet built t-54/54, t-62, t-72, t-80, and the t-90.?</span></div></span></div>",
+            "created":1390097400,
+            "id":1729611,
+            "title":"other"
+        },
+        "1111321":{
+            "author_id":"cjgatch",
+            "author_name":"SkylerHusky",
+            "choices":[
+                "American?",
+                "Other?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What nationality?</span></div></span></div>",
+            "created":1390863540,
+            "id":1733986,
+            "title":"This time period"
+        },
+        "1112":{
+            "author_id":"infinity421",
+            "author_name":"infinity421",
+            "choices":[
+                "British tanks",
+                "American tanks",
+                "Tanks from another nation!"
+            ],
+            "content":"<div class=\"\"><div> <span>Okay, let's start off with Britain and America. <br>\r\n<br>\r\nBritain/the United Kingdom was the first tank-building nation in the world, fielding tanks during World War One against the Central Powers, although Germany was also working towards their own tanks - they built them later in the war than the British, and could not afford to build as many as the British due to the lack of resources that occurred late in the war. Britain has a long and interesting history of building tanks that spans almost a hundred years and includes numerous successes, failures, and concepts that were never realised. <br>\r\n<br>\r\nBritain is also one of the only two nations allowed to use Chobham armour in the construction of their tanks, the other being America. The armour is used in the Abrams, Challenger 1, and Challenger 2 tanks, all of which are among the most heavily armoured tanks currently in existence. <br>\r\n<br>\r\nAmerica's tank-building history is slightly shorter than Britain's, due to Britain inventing the tank. However, America has produced some of the most iconic tanks in history, such as the M4 Sherman and the the M1 Abrams, the latter of which can destroy its own tracks if the engine's speed governer is removed. American tanks tend not to have rifled guns, which means they can be somewhat less accurate than the tanks of other nations. However, well-trained soldiers can work around this minor setback. <br>\r\n<br>\r\nSo, do you want to start the lists of British or American tanks, or do you want tanks from another nation entirely?</span></div></div>",
+            "created":1396488600,
+            "id":1772627,
+            "title":"Tanks by nation"
+        },
+        "11121":{
+            "author_id":"infinity421",
+            "author_name":"infinity421",
+            "choices":[
+                "Challenger 2",
+                "A different British tank"
+            ],
+            "content":"<div class=\"\"><div> <span>Okay, for the British tanks, let's start off with the Challenger 2!<br>\r\n<br>\r\nThe Challenger 2 has been Britain's MainBattle Tank from 1998, replacing the Challenger 1 in this role. Like its predecessor, it incorporates Chobam armour into its design, making it extremely resilient. Its main armament is a L30A1 rifled 120mm cannon. It has a top speed of roughly 60 km/h, and can cross most terrain with ease. It has a crew of four; the commander, the driver, the loader, and the gunner. It is also completely airtight when all hatches are closed, making the crew immune to NCB attacks - Nuclear, Chemical, and Biological. And lastly, like all British tanks and AFVs, the Challenger incorporates a Boiling Vessel - more commonly known as a kettle - into its design, allowing MREs and hot beverages to be consumed while inside the tank, provided there is water for the BV. </span></div></div>",
+            "created":1396491540,
+            "id":1772652,
+            "title":"British tanks"
+        },
+        "111211":{
+            "author_id":"infinity421",
+            "author_name":"infinity421",
+            "choices":[
+                "Continue",
+                "A different storyline"
+            ],
+            "content":"<div class=\"\"><div> <span>Pausing, you clear your throat and adjust your uniform, making sure your shirt was neatly tucked into your trousers, moving your cap slightly. <br>\r\n<br>\r\nYou knock on the wooden door in front of you using the back of your hand. <br>\r\n<br>\r\nA voice sounds from inside the room, \"Come in!\" You gently push the door open. <br>\r\n<br>\r\nThe room greeting you was an elegant one, to be sure. The carpet was a rich and deep red, as were the walls, and several shelves and display cases allow you to see medals and awards placed on and in them. On the far side of the room is a desk, made of teak, with a computer monitor and keyboard placed to the left of the desk. The mouse rests on a small mousepad a short distance away. <br>\r\n<br>\r\nThe center of the desk is occupied by a small stack of papers and brown envelopes, a sheet of stamps resting next to them. The right of the desk plays host to a plastic pencil holder and a pencil sharpener; the graphite nubs of the pencils were just visible over the top of the holder. <br>\r\n<br>\r\nOn the wall to the right of the desk is a large window overlooking the military camp you had been living in. You can see soldiers, most of them human, running for cover as they are pounded by a relentless rainfall, which is constantly tapping against the glass pane. You turn your attention to the figure behind the desk. <br>\r\n<br>\r\n\"Ah, leftenant! Please, have a seat!\"<br>\r\n<br>\r\nYou quickly sit down on the seat provided to you on the opposite side of the desk. Before you is general Everest, commander of Britannia's Fifth Armoured Regiment. He is a middle aged man, his hair greying ever so slightly, several medals pinned to his white uniform. <br>\r\n<br>\r\n\"So, leftenant, I am guessing you want to know the results of your application to the Multinational Task Force Unit Exchange and Cohesion Program?\"<br>\r\n<br>\r\nYou nod. \"Yes, sir.\"<br>\r\n<br>\r\nEverest shuffles the papers and envelopes on his desk for a few seconds, eventually coming across the one that is desired. He hands it to you. <br>\r\n<br>\r\n\"Congratulations, leftenant. You've been accepted.\"<br>\r\n<br>\r\n\"Thank you, sir.\"<br>\r\n<br>\r\nThe general allows a small smile to play across his face. \"I have arranged for your transport to Londinium to be picking you up tomorrow at 1530 hours, that should give you enough time to pack all your belongings. You will be taken directly to Heath airport and will be flying over to Mortov to begin the program, although the plane will arrive a couple of hours after you get to the airport. The flight is rather long, you should be arriving around 0500 the day after tomorrow. I was able to secure you a window seat and the two immediately next to it, that should allow you to get enough rest on the flight over.\"<br>\r\n<br>\r\nThe general licks his lips and takes in a breath before continuing. <br>\r\n<br>\r\n\"You will be given a day to familiarise yourself with the layout of Camp Helm once you arrive in Mortov, leftenant. There should be some personnel on hand to help you should you require any assistance. Are there any questions you would like to ask, leftenant?\"<br>\r\n<br>\r\nYou shake you head. \"None, sir.\"<br>\r\n<br>\r\nThe general stands, prompting you to do the same. Holding his hand out in front of him, you grip it, giving him a firm handshake. <br>\r\n<br>\r\n\"It's been a pleasure having you here, leftenant, a bloody good pleasure. Still, our allies in the Alliance need to be taught, and I know you'll do Britannia proud!\"<br>\r\n<br>\r\n\"Good luck, leftenant!\"</span></div></div>",
+            "created":1396568700,
+            "id":1773032,
+            "title":"Challenger "
+        },
+        "12":{
+            "author_id":"cjgatch",
+            "author_name":"SkylerHusky",
+            "choices":[
+                "male",
+                "female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>male or female?</span></div></span></div>",
+            "created":1389667920,
+            "id":1727222,
+            "title":"Gender"
+        },
+        "122":{
+            "author_id":"cjgatch",
+            "author_name":"SkylerHusky",
+            "choices":[
+                "Kitsune",
+                "Wolf",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is your race?</span></div></span></div>",
+            "created":1390863300,
+            "id":1733983,
+            "title":"female"
+        },
+        "1223":{
+            "author_id":"cjgatch",
+            "author_name":"SkylerHusky",
+            "choices":[
+                "Tiger",
+                "Werewolf",
+                "Even more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Something else?</span></div></span></div>",
+            "created":1390863420,
+            "id":1733984,
+            "title":"More"
+        }
+    },
+    "info":{
+        "author_id":"cjgatch",
+        "author_name":"SkylerHusky",
+        "brief_description":"In this time line humans and Anthros coexist in the confines of a tank.\r\nFeel free to add",
+        "created":1389666780,
+        "description":"<td align=\"left\" class=\"norm\"><b>My first interactive.</b><br>\r\n<b>RULE SUBJECT TO CHANGE</b><br>\r\n<br>\r\n1.no shrinking/ growth.<br>\r\n2.vore is allowed, but only enemy may be digested/ ended, try to keep scat low if possible.<br>\r\n3.magic does exist , but in the form of healing not weapons.<br>\r\n4.no killing fellow soldiers.<br>\r\n5.characters can be killed meaning main characters are not invincible, but can be revived by healers.<br>\r\n6.Sex and romance are allowed.<br>\r\n7.all types of anthros are allowed i.e mythical like katsune or werewolf, but must be human size.<br>\r\n8.Any type of weapons from past to present time are allowed as long as the weapons/ tanks/ vehicles are from the same time period.<br>\r\n9.try to keep weapons systems accurate ie; crew count in vehicles.<br>\r\n10.All soldiers are treated with the same amount of respect regardless of race and gender.<br>\r\n11.Try to keep stories at least two paragraphs.<br>\r\n12. sometimes tank crews double as an infantry soldier too, keep that in mind.<br>\r\n13.you can include soldiers from different MOs' like infantry, or artillery, but the main characters are primarily armor.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<b>I reserve the right to modify or delete sections.</b><br>\r\n<br>\r\n<b>other than that go nuts.</b></td>",
+        "id":1971754,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1396568700,
+        "modified":1396568700,
+        "pretty_title":"Anthro/ human tank crew"
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Species of Monsters",
+                "Defense Techniques",
+                "Vital Skills",
+                "Fight or Flight",
+                "Hunter or Hunted?"
+            ],
+            "content":"<div class=\"\"><div> <span>Since the beginning of history, humanity has been plagued by numerous species of creatures known as monsters. All manner of beasts that inhabit seemingly all types of environments, from the land, sky and sea, to the depths of the world itself. Over the ages, many a man, woman and child has fallen prey to one form of these beings or another. The lucky ones are swallowed whole by their captor. But a select few of these foul beasts subject their victims to far worse fates, such as devouring them alive bite by bite, cooking them, or even sucking out their very soul.<br>\r\n<br>\r\nYet somehow, despite numerous evolutionary disadvantages against our natural enemies, humanity has managed to avoid extinction. At least for the time being. Nobody seems to be able to pinpoint exactly why this is, but it most likely our ability to adapt and overcome, not to mention our propensity to develop various tools and weapons for seemingly any situation. Indeed, these traits may be the only thing keep the whole of humankind from disappearing down the throats of starving beasts. <br>\r\n<br>\r\nThe information and techniques contained herein may very well save your life. Pass it along to any that will listen, and maybe, just maybe, one day humans will live without fear of being eaten. </span></div></div>",
+            "created":1603592340,
+            "id":2928384,
+            "title":"Introduction"
+        },
+        "11":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Beastials",
+                "Winged",
+                "Undead",
+                "Infernals",
+                "More"
+            ],
+            "content":"<div class=\"\"><div> <span>There are many types of monsters, some of which were formerly human. All of them are dangerous, but some more than others. But do not despair, no creature is without a weakness. By learning and exploiting these weaknesses, you will have a distinct advantage against any monster you may encounter. What type of monster do you wish to learn about?</span></div></div>",
+            "created":1603592760,
+            "id":2928386,
+            "title":"Species of Monsters"
+        },
+        "111":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Werewolves",
+                "Centaur",
+                "Drider",
+                "Naga",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, what species specifically?</span></div></span></div>",
+            "created":1603592940,
+            "id":2928387,
+            "title":"Beastials"
+        },
+        "112":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Dragon",
+                "Griffon",
+                "Harpy",
+                "Gargoyle",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What creature specifically?</span></div></span></div>",
+            "created":1603593120,
+            "id":2928389,
+            "title":"Winged"
+        },
+        "113":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Vampire",
+                "Zombie"
+            ],
+            "content":"<div class=\"\"><div> <span>Please note, only two types of undead, zombies and vampires, directly feed on humans. While a subclass of undead such as banshees, liches and other such spirits do exist, this text will not focus on them as they do not devour human prey, having no need for sustenance. Anyone wishing to learn about such beings will have to seek other sources of knowledge.</span></div></div>",
+            "created":1603593600,
+            "id":2928391,
+            "title":"Undead"
+        },
+        "114":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Alp",
+                "Succubus",
+                "Djinn",
+                "Nightmare",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Infernal?</span></div></span></div>",
+            "created":1603593900,
+            "id":2928393,
+            "title":"Infernals"
+        }
+    },
+    "info":{
+        "author_id":"jfoxx",
+        "author_name":"Johnny Foxx",
+        "brief_description":"A handbook for any human that wants to avoid becoming a monster's next meal. ",
+        "created":1603590660,
+        "description":"<td align=\"left\" class=\"norm\">I was going to make this a book item, but then I thought it would be more fun to give others the chance to give their input as well. Here's the format; The first chapter will be a general introduction, followed by a split into different sections for different topics. Feel free to add any tips or techniques you think would help a human survive in a world populated by hungry mythical creatures. Or, you can add to a section giving a basic overview of a certain species of monster. <br>\r\n<br>\r\nMy only real rule is please no super short additions, unless you're just giving more options. <br>\r\n<br>\r\nAnyone that wants to add is more than welcome. </td>",
+        "id":2236116,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1603593960,
+        "modified":1603593960,
+        "pretty_title":"The Monster World Survival Guide"
+    }
+}

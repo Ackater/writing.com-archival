@@ -1,0 +1,596 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Warrior",
+                "Rogue",
+                "Mage",
+                "Ranger",
+                "Artificer"
+            ],
+            "content":"<div class=\"\"><div> <span>You stop at an item store, upon the recommendation of the townsfolk. There you meet the shopkeeper. A dark-elf with striking green eyes and dark silky hair that fell over her shoulders in luscious curls. Over the counter you cant help but notice her low-cut pink blouse, which proudly revealed what was at least a D-cup chest.<br>\r\n<br>\r\nForcing your gaze away you mention that you are starting a new life as an adventurer. The shopkeep smiles and explains that the local government offers starting kits for new adventurers looking to join any of the local guilds. She offers the following classes...<br>\r\n<br>\r\nWarrior:<br>\r\nYour typical sword-wielding hero<br>\r\n<br>\r\nRogue:<br>\r\nOne who uses stealth and cunning to overcome whatever lies in their way<br>\r\n<br>\r\nMage:<br>\r\nA user of magic, capable of casting powerful spells<br>\r\n<br>\r\nRanger:<br>\r\nA fighter attuned with nature and skilled with a bow<br>\r\n<br>\r\nArtificer:<br>\r\nCreator of magical gadgets and machines to do all the heavy lifting for you.<br>\r\n<br>\r\nWhich do you choose?</span></div></div>",
+            "created":1589173200,
+            "id":2833723,
+            "title":"Choose your class!"
+        },
+        "11":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Quest One: The Slime Nest",
+                "Quest Two: The Blacksmith's Curse",
+                "Quest Three: The Mage's Laboratory",
+                "Get a job at the Inn",
+                "Head back out to town"
+            ],
+            "content":"<div class=\"\"><div> <span>The choice seemed obvious, being a hero, slashing through monsters with her sword, defending cute girls with her shield, charging into danger to save the day!<br>\r\n<br>\r\nThe shopkeeper nods and hands you your starting kit. In it you find a tunic with a basic chest-plate, short-shorts, leather boots, leather gloves, and a sword. You equip all of these.<br>\r\n<br>\r\nWhile here, you ask the shopkeeper if she has any quests or jobs for you to do. She nods.<br>\r\n<br>\r\n<b>Quest One:</b><br>\r\nA friend of the shopkeeper has gone missing investigating a local slime nest. It's up to you to find her and bring her home!<br>\r\n<br>\r\n<b>Quest Two:</b><br>\r\nNo one has seen the blacksmith for some time, but locals claim to hear noises and see strange lights coming from the shop. Your job is to break in and find out what's happening.<br>\r\n<br>\r\n<b>Quest Three:</b><br>\r\nThe Mage Guild is conducting experiments on several monsters, and could use a bodyguard in case anything goes wrong.<br>\r\n<br>\r\nThe Shopkeeper also mentions that the local Inn is hiring.<br>\r\n<br>\r\nWhat will you do?</span></div></div>",
+            "created":1591506000,
+            "id":2847747,
+            "title":"Warrior"
+        },
+        "111":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Charge at the slimes with your sword",
+                "Approach the slimes, they may be friendly!",
+                "Try to run past the slimes"
+            ],
+            "content":"<div class=\"\"><div> <span>The first quest seemed the most obvious to you. The Blacksmith and the Mage Guild can wait, but the shopkeeper's friend could be in serious danger. Besides... Your eyes dart back to the shopkeeper's gorgeous body.... It wouldn't be a bad idea to get on her good side...<br>\r\n<br>\r\nThe shopkeeper nods and give you directions to the nest, and after a bit of walking you find the entrance to the cave.<br>\r\n<br>\r\nOutside you see three slimes milling about. They're green slimes, the weakest kind. However, you can't see the inside of the cave, and its very possible that more slimes could be hiding in there.<br>\r\n<br>\r\nWhat do you do</span></div></div>",
+            "created":1591506000,
+            "id":2847757,
+            "title":"Quest One: The Slime Nest"
+        },
+        "1111":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Keep fighting!",
+                "Run away!!!",
+                "Try to run past them!"
+            ],
+            "content":"<div class=\"\"><div> <span>Thanks to the element of surprise, you're able to slash through the first slime, killing it instantly.<br>\r\n<br>\r\nHowever, this alerts the other two slimes, and as you find out, two more were hiding inside of the cave!<br>\r\n<br>\r\nThe slimes surround you.<br>\r\n<br>\r\nWhat will you do?</span></div></div>",
+            "created":1591506000,
+            "id":2847759,
+            "title":"Charge at the slimes with your sword"
+        },
+        "11111":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Let it run away",
+                "Kill it before it can get away",
+                "Grab it before it can get away"
+            ],
+            "content":"<div class=\"\"><div> <span>As you prepare your next attack, the four slimes rush you.<br>\r\n<br>\r\nThanks to your strength, you are able to smack them away, and manage to cut three of them down. Now there's only one left.<br>\r\n<br>\r\nThe slime looks like it's going to run away. It could be trying to escape, but it could also be trying to alert the other slimes in the cave!<br>\r\n<br>\r\nWhat will you do?</span></div></div>",
+            "created":1591506000,
+            "id":2847760,
+            "title":"Keep fighting!"
+        },
+        "111111":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Enter the cave..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The slime slinks off into the shadows. If it was going to alert other slimes, it would have by now, so you seem to be in the clear.</span></div></span></div>",
+            "created":1591938000,
+            "id":2850316,
+            "title":"Let it run away"
+        },
+        "111112":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Strength",
+                "Vitality",
+                "Dexterity"
+            ],
+            "content":"<div class=\"\"><div> <span>With a simple swing of your sword, you effortlessly cut down the remaining slime.<br>\r\n<br>\r\nThe last slime gave you just enough XP to level up!<br>\r\n<br>\r\nYou unlock the ability \"Circle Slash,\" allowing you to spin in a circle to hit all enemies surrounding you.<br>\r\n<br>\r\nFeeling the energy of a new level, you realize you have some remaining energy you can channel to other traits. This time you can dedicate it to Strength, Vitality, or Dexterity<br>\r\n<br>\r\nWhich will you choose?</span></div></div>",
+            "created":1591938000,
+            "id":2850321,
+            "title":"Kill it before it can get away"
+        },
+        "1111121":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Enter the cave..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You concentrate the energy towards increasing your physical strength.<br>\r\n<br>\r\n<b>STRENGTH INCREASED!</b><br>\r\n<br>\r\nYou feel slight muscle form on your arms.</span></div></span></div>",
+            "created":1591938000,
+            "id":2850343,
+            "title":"Strength"
+        },
+        "1111122":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Enter the cave..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You concentrate the energy towards increasing your HP.<br>\r\n<br>\r\n<b>VITALITY INCREASED!</b><br>\r\n<br>\r\nYou feel your hips flare outward ever so slightly.</span></div></span></div>",
+            "created":1592005860,
+            "id":2850346,
+            "title":"Vitality"
+        },
+        "1111123":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Enter the cave..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You concentrate the energy towards increasing your grace and skill.<br>\r\n<br>\r\n<b>DEXTERITY INCREASED!</b><br>\r\n<br>\r\nYou feel slight muscle form on your legs.</span></div></span></div>",
+            "created":1592005920,
+            "id":2850347,
+            "title":"Dexterity"
+        },
+        "111113":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Try to tear the slime off of your face",
+                "Yell for help",
+                "Eat the Slime before it can suffocate you"
+            ],
+            "content":"<div class=\"\"><div> <span>You lunge forward to grab the slime, just barely getting it in your hands as you crash to the ground. However, the slime, being 100% liquid, is easily able to slip free of your grasp.<br>\r\n<br>\r\nBefore you can fully react, the slime has jumped onto your face, completely submerging your head in it's own fluids. You managed to get a gulp of air before this, however you can only hold your breath for so long.<br>\r\n<br>\r\nWhat will you do?</span></div></div>",
+            "created":1591938000,
+            "id":2850322,
+            "title":"Grab it before it can get away"
+        },
+        "1111131":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Dexterity",
+                "Vitality",
+                "Strength"
+            ],
+            "content":"<div class=\"\"><div> <span>You rip and tear away at the slime, tearing it to pieces as you yank it off of your face. It was a desperate and messy fight, but you've won.<br>\r\n<br>\r\n<b>Level up!</b><br>\r\n<br>\r\nYou've unlocked the ability \"Ante Up,\" allowing you to boost your strength but lower your defense for a short period of time.<br>\r\n<br>\r\nFeeling the energy of a new level, you realize you have some remaining energy you can channel to other traits. This time you can dedicate it to Dexterity, Vitality, or Strength<br>\r\n<br>\r\nWhich will you choose?</span></div></div>",
+            "created":1591938000,
+            "id":2850326,
+            "title":"Try to tear the slime off of your face"
+        },
+        "1111132":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "content":"<div class=\"\"><div> <span>You try to shout for help, but your screams are muffled by the slime. Worse, you've just expended what little air you'd been holding in, leaving you prone to the slime's attack.<br>\r\n<br>\r\nThe slime goes into your open mouth, blocking any possibility of air. You struggle fruitlessly, your strength fading, until finally succumbing to the attack. Everything dissolves away into blackness...<br>\r\n<br>\r\n<font class=\"size5\" style=\"\"><b>YOU HAVE DIED!!!</b></font></span></div></div>",
+            "created":1591938000,
+            "id":2850324,
+            "title":"Yell for help"
+        },
+        "1111133":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Let it get away",
+                "Kill it",
+                "Eat the rest of it"
+            ],
+            "content":"<div class=\"\"><div> <span>What, does this slime think it can digest you or something? Well you'll show it!<br>\r\n<br>\r\nYou viciously tear a chunk from the slime and shovel it into your mouth. Chewing, and swallowing the fluid. It had a strange texture, like gelatin if not slightly thicker, but it tasted pretty good, like sweet lime candy!<br>\r\n<br>\r\nOn top of this, upon swallowing the chunk, you could feel a shot of magical energy flow into you, not unlike that of a level up, but you seem to have no control over where it goes, the energy concentrating in your chest.<br>\r\n<br>\r\n<b>CHARM RAISED!</b><br>\r\n<br>\r\nUnderneath your armor you can feel your chest swell, ever so slightly.<br>\r\n<br>\r\nThe slime, shocked from your actions, is now trying to escape once again, albeit far slower now that you've removed a chunk.<br>\r\n<br>\r\nWhat will you do?</span></div></div>",
+            "created":1591938000,
+            "id":2850337,
+            "title":"Eat the Slime before it can suffocate you"
+        },
+        "11111331":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Enter the cave..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The slime slinks off into the shadows. If it was going to alert other slimes, it would have by now, so you seem to be in the clear.</span></div></span></div>",
+            "created":1591938000,
+            "id":2850338,
+            "title":"Let it get away"
+        },
+        "11111332":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Strength",
+                "Vitality",
+                "Charm"
+            ],
+            "content":"<div class=\"\"><div> <span>It almost makes you feel bad how easy it is to finish off the slime. Almost.<br>\r\n<br>\r\nThe slime gave you just enough XP to level up!<br>\r\n<br>\r\nYou unlock the ability \"Circle Slash,\" allowing you to spin in a circle to hit all enemies surrounding you.<br>\r\n<br>\r\nFeeling the energy of a new level, you realize you have some remaining energy you can channel to other traits. This time you can dedicate it to Strength, Vitality, or Charm<br>\r\n<br>\r\nWhich will you choose?</span></div></div>",
+            "created":1591938000,
+            "id":2850339,
+            "title":"Kill it"
+        },
+        "11111333":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Enter the cave..."
+            ],
+            "content":"<div class=\"\"><div> <span>You easily scoop up the rest of the slime and gobble it up before it can get away again.<br>\r\n<br>\r\nWith every bite you feel surges of energy course into you.<br>\r\n<br>\r\n<b>CHARM INCREASED!</b><br>\r\n<br>\r\nYour chest swells even more<br>\r\n<br>\r\n<b>VITALITY INCREASED!</b><br>\r\n<br>\r\nYou feel your hips push outward ever so slightly<br>\r\n<br>\r\n<b>STRENGTH INCREASED!</b><br>\r\n<br>\r\nSlight muscle forms on your arms<br>\r\n<br>\r\n<b>CHARM INCREASED!</b><br>\r\n<br>\r\nYou've gone from A-cup to B-cup.<br>\r\n<br>\r\n<b>SPEED INCREASED!</b><br>\r\n<br>\r\nYour legs lengthen by a few centimetres<br>\r\n<br>\r\n<br>\r\nAs you finish the slime, other physical changes take place. Your hair grows longer, now down to your shoulders, and your eyes turn green.<br>\r\n<br>\r\nYou've never felt such a surge of power before. You feel incredible. Unstoppable. But you also feel... Hungry...<br>\r\n<br>\r\nNew condition: \"Hunger.\" You want to eat more slimes. You have to eat. Your power will grow more with every slime, but it will become harder to quit with each one, and the bonuses will gradually begin to decrease unless you eat more. You will need to resist the urge to end the condition, but you will also lose your bonuses.<br>\r\n<br>\r\nYou wonder why no one else has eaten any of these delicious slimes if they're so good. Is there some sort of side effect?<br>\r\n<br>\r\nWell... It can't be <i>that</i> bad...</span></div></div>",
+            "created":1591938000,
+            "id":2850341,
+            "title":"Eat the rest of it"
+        },
+        "11112":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Try to fight them off!",
+                "Free only your sword arm",
+                "Wait and see what happens"
+            ],
+            "content":"<div class=\"\"><div> <span>You try to get away, but a slime jumps onto your legs and adheres them together, sending you crashing to the ground.<br>\r\n<br>\r\nBefore you can get up, your arms are pinned by two slimes, while the fourth sits on your chest. <br>\r\n<br>\r\nThey seem to be charging up some sort of spell.<br>\r\n<br>\r\nWhat will you do?</span></div></div>",
+            "created":1592006160,
+            "id":2850353,
+            "title":"Run away!!!"
+        },
+        "111121":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Enter the cave..."
+            ],
+            "content":"<div class=\"\"><div> <span>You begin kicking and thrashing around, but you are unable to shake them off.<br>\r\n<br>\r\nTheir chanting grows stronger, as the slime on your chest slinks up to your face.<br>\r\n<br>\r\nThey start to glow, and all of the sudden you can feel them melt into you. Strange magical energy swirls around inside you. Your skin begins to turn green and translucent. Your body feels wobbly.<br>\r\n<br>\r\nIn a flash it's all over. The slimes are gone, but they've done something to you. They've turned you into a slime-girl!<br>\r\n<br>\r\n<b>CHARM GREATLY INCREASED!</b><br>\r\n<br>\r\nYou feel as though your chest-plate is overflowing. Removing it, two large, D-cup breasts bounce freely, pulling your tunic taut.<br>\r\n<br>\r\n<b>VITALITY GREATLY INCREASED!</b><br>\r\n<br>\r\nYour hips have also grown immensely, stretching your shorts which are barely able to contain your soft curves.<br>\r\n<br>\r\nYour hair has also grown, although it's less hair now and more like different colored slime, dark green and reaching down to your back.<br>\r\n<br>\r\nYou gain a new ability, \"Absorb!\" If you overpower an enemy, you can absorb them, gaining traits from them. Absorbing other slimes, however, will simply increase your \"mass,\" although this will also make you stronger.<br>\r\n<br>\r\nYou are unaware as to why the slimes would do this to you. But there's only one way to find out...</span></div></div>",
+            "created":1592007120,
+            "id":2850356,
+            "title":"Try to fight them off!"
+        },
+        "111123":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Enter the cave..."
+            ],
+            "content":"<div class=\"\"><div> <span>You close your eyes and accept whatever is going to happen.<br>\r\n<br>\r\nTheir chanting grows stronger, as the slime on your chest slinks up to your face.<br>\r\n<br>\r\nThey start to glow, and all of the sudden you can feel them melt into you. Strange magical energy swirls around inside you. Your skin begins to turn green and translucent. Your body feels wobbly.<br>\r\n<br>\r\nIn a flash it's all over. The slimes are gone, but they've done something to you. They've turned you into a slime-girl!<br>\r\n<br>\r\n<b>CHARM GREATLY INCREASED!</b><br>\r\n<br>\r\nYou feel as though your chest-plate is overflowing. Removing it, two large, DD-cup breasts bounce freely, pulling your tunic taut.<br>\r\n<br>\r\n<b>VITALITY GREATLY INCREASED!</b><br>\r\n<br>\r\nYour hips have also grown immensely, stretching your shorts which are barely able to contain your soft curves.<br>\r\n<br>\r\nYour hair has also grown, although it's less hair now and more like different colored slime, dark green and reaching down to your back.<br>\r\n<br>\r\nYou gain a new ability, \"Absorb!\" If you overpower an enemy, you can absorb them, gaining traits from them. Absorbing other slimes, however, will simply increase your \"mass,\" although this will also make you stronger.<br>\r\n<br>\r\nYou are unaware as to why the slimes would do this to you. But there's only one way to find out...</span></div></div>",
+            "created":1592007180,
+            "id":2850357,
+            "title":"Wait and see what happens"
+        },
+        "112":{
+            "author_id":"nnnnn89",
+            "author_name":"bom",
+            "choices":[
+                "An interesting trinket",
+                "A new weapon",
+                "A shadowy figure"
+            ],
+            "content":"<div class=\"\"><div> <span>You find the blacksmith's shop. From the outside it looks completely abandoned.<br>\r\n<br>\r\nYou knock on the door and get no response. You then smash down the door and enter forcefully.<br>\r\n<br>\r\nAfter taking a look around the empty room, you spot</span></div></div>",
+            "created":1592110020,
+            "id":2850957,
+            "title":"Quest Two: The Blacksmith's Curse"
+        },
+        "1121":{
+            "author_id":"nnnnn89",
+            "author_name":"bom",
+            "choices":[
+                "Magic power",
+                "An arrow landing in your chest"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You spot an interesting trinket. It's an unfamiliar jewel that has a strange color encased in gold. You pin it on your chest to see if it gives any boost to your power at all.<br>\r\n<br>\r\nThen you are overtaken with the feeling of</span></div></span></div>",
+            "created":1592110980,
+            "id":2850960,
+            "title":"An interesting trinket"
+        },
+        "11212":{
+            "author_id":"nnnnn89",
+            "author_name":"bom",
+            "choices":[
+                "Give the stone back",
+                "Keep the stone",
+                "Give it for a price"
+            ],
+            "content":"<div class=\"\"><div> <span>An arrow managed to pierce your armor and you feel it dug deep in your chest. You would expect to feel pain and blood, but aside from the initial shock, the arrow doesn't feel like it did any damage. You pull it out and find that there is no wound.<br>\r\n<br>\r\nThen you hear a scruffy voice from the other side of the room. \"What? How did you survive that? Oh, I see. You stole my philosopher stone!\" you look and find that the speaker matches the description of the blacksmith, and the gem he's talking about you assume is the one you pinned on your tunic. And did he say philosopher stone? Is that why you didn't take damage from the arrow?<br>\r\n<br>\r\n\"I have been working for years to find out its true recipe, and I'm so close to perfecting it now! Return it to me now so I can complete it!\"</span></div></div>",
+            "created":1592196300,
+            "id":2851394,
+            "title":"An arrow landing in your chest"
+        },
+        "112122":{
+            "author_id":"nnnnn89",
+            "author_name":"bom",
+            "choices":[
+                "I can still cut you to pieces!",
+                "I can still use magic on you!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You refuse. The power of immortality in this lunatic's hands will only cause trouble.<br>\r\n<br>\r\n\"You little bitch. I won't have my life's work stolen by a thief! I may not be able to kill you, but...\"</span></div></span></div>",
+            "created":1592261400,
+            "id":2851810,
+            "title":"Keep the stone"
+        },
+        "1121221":{
+            "author_id":"nnnnn89",
+            "author_name":"bom",
+            "choices":[
+                "Strength",
+                "Vitality",
+                "Dexterity"
+            ],
+            "content":"<div class=\"\"><div> <span>\"...I can still cut you to pieces!\" the blacksmith said. He pulled out an ax and threw it at you faster than you could react. You only managed to dodge it enough so it sliced off your arm and not your chest. Your arm falls on the floor with no blood, instead the would was covered in skin that presumably healed over, but you still feel and control it..<br>\r\n<br>\r\nYou look back at the blacksmith who charges at you with his hammer. But with a longer range weapon and better skill in your advantage, you're able to take him down and kill him after a brief sword fight.<br>\r\n<br>\r\nAfter regaining your bearings you pick up your severed arm and try to reattach it. When you press it against the stump where it goes, expecting it to heal, but nothing happened. This must've been the imperfections the blacksmith was talking about. <br>\r\n<br>\r\nBut on the bright side, you gained enough XP to level up and boost a stat.</span></div></div>",
+            "created":1592269980,
+            "id":2851872,
+            "title":"I can still cut you to pieces!"
+        },
+        "11212212":{
+            "author_id":"nnnnn89",
+            "author_name":"bom",
+            "choices":[
+                "Stitch it back on",
+                "Store it in your inventory",
+                "Leave it at home"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Vitality increased!<br>\r\n<br>\r\nYou feel your hips expand slightly. You feel your more curvy hips with your hand afterwards. Now what to do with your severed arm. You can still feel it, so it would be to throw it away.</span></div></span></div>",
+            "created":1606082880,
+            "id":2944284,
+            "title":"Vitality"
+        },
+        "1122":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Take the weapon! What's the worst that could happen?",
+                "Resist the urge"
+            ],
+            "content":"<div class=\"\"><div> <span>You notice a large sword laying on the counter. Or at least you assume it's a sword, given the shape, but rather than a handle, guard, and blade, the weapon seems to be made of some sort of black metal, forged into intricate spiraling tendrils that curl together into a blade.<br>\r\n<br>\r\nBefore you even realise it, you find yourself running your fingers across the metal of the weapon. A sudden, intense desire to pick up the blade, feel its weight in your hands.<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1594106580,
+            "id":2863173,
+            "title":"A new weapon"
+        },
+        "12":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Quest One: The Slime Nest",
+                "Quest Two: The Blacksmith's Curse",
+                "Quest Three: The Mage's Laboratory",
+                "Get a job at the Inn",
+                "Head back out to town"
+            ],
+            "content":"<div class=\"\"><div> <span>The choice seemed obvious, being a thief, sneaking behind enemy lines, plundering treasures untold, escaping before anyone even knows you were there.<br>\r\n<br>\r\nThe shopkeeper nods and hands you your starting kit. In it you find a black spandex bodysuit, a leather cuirass, a belt with pockets, leather boots, leather gloves, and a pair of daggers. You equip all of these.<br>\r\n<br>\r\nWhile here, you ask the shopkeeper if she has any quests or jobs for you to do. She nods.<br>\r\n<br>\r\n<b>Quest One:</b><br>\r\nA friend of the shopkeeper has gone missing investigating a local slime nest. It's up to you to find her and bring her home!<br>\r\n<br>\r\n<b>Quest Two:</b><br>\r\nNo one has seen the blacksmith for some time, but locals claim to hear noises and see strange lights coming from the shop. Your job is to break in and find out what's happening.<br>\r\n<br>\r\n<b>Quest Three:</b><br>\r\nThe Mage Guild is conducting experiments on several monsters, and could use a bodyguard in case anything goes wrong.<br>\r\n<br>\r\nThe Shopkeeper also mentions that the local Inn is hiring.<br>\r\n<br>\r\nWhat will you do?</span></div></div>",
+            "created":1591506000,
+            "id":2847737,
+            "title":"Rogue"
+        },
+        "121":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Attack the slimes with your daggers",
+                "Approach the slimes, they may be friendly!",
+                "Try to sneak past the slimes"
+            ],
+            "content":"<div class=\"\"><div> <span>The first quest seemed the most obvious to you. The Blacksmith and the Mage Guild can wait, but the shopkeeper's friend could be in serious danger. Besides... Your eyes dart back to the shopkeeper's gorgeous body.... It wouldn't be a bad idea to get on her good side...<br>\r\n<br>\r\nThe shopkeeper nods and give you directions to the nest, and after a bit of walking you find the entrance to the cave.<br>\r\n<br>\r\nOutside you see three slimes milling about. They're green slimes, the weakest kind. However, you can't see the inside of the cave, and its very possible that more slimes could be hiding in there.<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1591506000,
+            "id":2847752,
+            "title":"Quest One: The Slime Nest"
+        },
+        "1211":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Keep Fighting!",
+                "Run away!!!",
+                "Try to run past them!"
+            ],
+            "content":"<div class=\"\"><div> <span>Thanks to the element of surprise, plus your speed and precision, you're able to slash through two slimes, killing them instantly.<br>\r\n<br>\r\nHowever, this alerts the other slime, and as you find out, two more were hiding inside of the cave!<br>\r\n<br>\r\nThe slimes surround you.<br>\r\n<br>\r\nWhat will you do?</span></div></div>",
+            "created":1591506000,
+            "id":2847761,
+            "title":"Attack the slimes with your daggers"
+        },
+        "12111":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Charm",
+                "Vitality",
+                "Strength"
+            ],
+            "content":"<div class=\"\"><div> <span>As you prepare your next attack, the three slimes rush you.<br>\r\n<br>\r\nThanks to your speed, you slice up the remaining slimes instantly.<br>\r\n<br>\r\nYou've won! You gain a level!<br>\r\n<br>\r\nYou gain the ability \"Silence,\" allowing you to completely mute your own movements.<br>\r\n<br>\r\nFeeling the energy of a new level, you realize you have some remaining energy you can channel to other traits. This time you can dedicate it to Charm, Vitality, or Strength<br>\r\n<br>\r\nWhich will you choose?</span></div></div>",
+            "created":1591506000,
+            "id":2847765,
+            "title":"Keep Fighting!"
+        },
+        "121111":{
+            "author_id":"nnnnn89",
+            "author_name":"bom",
+            "choices":[
+                "Enter the cave"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You concentrate the energy towards increasing your persuasion.<br>\r\n<br>\r\n<b>CHARM INCREASED! </b><br>\r\n<br>\r\nYou feel your breasts grow out slightly.</span></div></span></div>",
+            "created":1592270280,
+            "id":2851878,
+            "title":"Charm"
+        },
+        "121113":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Enter the cave..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You concentrate the energy towards increasing your physical strength.<br>\r\n<br>\r\n<b>STRENGTH INCREASED!</b><br>\r\n<br>\r\nYou feel slight muscle form on your arms.</span></div></span></div>",
+            "created":1591938000,
+            "id":2850344,
+            "title":"Strength"
+        },
+        "13":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Quest One: The Slime Nest",
+                "Quest Two: The Blacksmith's Curse",
+                "Quest Three: The Mage's Laboratory",
+                "Get a job at the Inn",
+                "Head back out to town"
+            ],
+            "content":"<div class=\"\"><div> <span>The choice seemed obvious, casting spells and illusions, crafting magical potions and weapons, attaining arcane knowledge untold!<br>\r\n<br>\r\nThe shopkeeper nods and hands you your starting kit. In it you find a mage robe that goes down just past your thighs, leather boots, leather gloves, and a wooden staff. You equip all of these.<br>\r\n<br>\r\nWhile here, you ask the shopkeeper if she has any quests or jobs for you to do. She nods.<br>\r\n<br>\r\n<b>Quest One:</b><br>\r\nA friend of the shopkeeper has gone missing investigating a local slime nest. It's up to you to find her and bring her home!<br>\r\n<br>\r\n<b>Quest Two:</b><br>\r\nNo one has seen the blacksmith for some time, but locals claim to hear noises and see strange lights coming from the shop. Your job is to break in and find out what's happening.<br>\r\n<br>\r\n<b>Quest Three:</b><br>\r\nThe Mage Guild is conducting experiments on several monsters, and could use a bodyguard in case anything goes wrong.<br>\r\n<br>\r\nThe Shopkeeper also mentions that the local Inn is hiring.</span></div></div>",
+            "created":1591506000,
+            "id":2847741,
+            "title":"Mage"
+        },
+        "131":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Shoot a fireball at the slimes",
+                "Approach the slimes, they may be friendly!",
+                "Buff your defense first"
+            ],
+            "content":"<div class=\"\"><div> <span>The first quest seemed the most obvious to you. The Blacksmith and the Mage Guild can wait, but the shopkeeper's friend could be in serious danger. Besides... Your eyes dart back to the shopkeeper's gorgeous body.... It wouldn't be a bad idea to get on her good side...<br>\r\n<br>\r\nThe shopkeeper nods and give you directions to the nest, and after a bit of walking you find the entrance to the cave.<br>\r\n<br>\r\nOutside you see three slimes milling about. They're green slimes, the weakest kind. However, you can't see the inside of the cave, and its very possible that more slimes could be hiding in there. If you were a higher level, you would be able to cast \"Sense Magic,\" but all you know for now is a basic fireball spell and a spell to buff your defense.<br>\r\n<br>\r\nWhat do you do</span></div></div>",
+            "created":1591506000,
+            "id":2847753,
+            "title":"Quest One: The Slime Nest"
+        },
+        "1311":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Keep Fighting!",
+                "Run away!!!",
+                "Buff Defense!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You shoot a fireball into the group, damaging the three slimes!<br>\r\n<br>\r\nYou have their attention now, and two more slimes emerge from inside the cave. They surround you.<br>\r\n<br>\r\nWhat will you do?</span></div></span></div>",
+            "created":1591506000,
+            "id":2847767,
+            "title":"Shoot a fireball at the slimes"
+        },
+        "13111":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Try to fight them off!",
+                "Buff Defense",
+                "Wait and see what happens"
+            ],
+            "content":"<div class=\"\"><div> <span>The five slimes rush you, and you are pushed to the ground. Two slimes pin your arms, two pin your legs, one sits on your chest.<br>\r\n<br>\r\nThey seem to be charging up some sort of spell.<br>\r\n<br>\r\nYou cannot cast fireball, but you can still buff yourself.</span></div></div>",
+            "created":1591506000,
+            "id":2847768,
+            "title":"Keep Fighting!"
+        },
+        "132":{
+            "author_id":"mr_j",
+            "author_name":"Dragos Drakkar",
+            "choices":[
+                "\u2026smoothly masculine.",
+                "\u2026seductively feminine.",
+                "\u2026gravelly inhuman."
+            ],
+            "content":"<div class=\"\"><div> <span>Despite the obvious allure of helping out the shopkeeper\u2019s friend, you decide to check the blacksmith. You figure you might be able to get an upgrade to your equipment out of the task if anything.<br>\r\n<br>\r\nThe elf gives you the directions through the city when you ask, and you are soon on your way.<br>\r\n<br>\r\nYou twirl your new staff as you walk through the twisting maze-like streets. There\u2019s a slight sensation almost like a slow and light heartbeat within the featureless wood. From what little you know, it\u2019s a reaction to your otherwise latent magical potential. It\u2019s also a sign that you made the right choice.<br>\r\n<br>\r\nGripping the staff tighter and thrusting it into the sky, you focus a bit. Your reward is a small burst of sparks that fade away within a few moments. Put enough time and effort into your abilities, and that will be just an imperceptible fraction of what you might be able to do later on. Even still, you grin from the elation of having even this barest scrap of power at your fingertips.<br>\r\n<br>\r\nSome uneventful minutes later, you came to the edge of the city and the blacksmith\u2019s building. The forge is cold and hasn\u2019t seen use in some time. Even your unskilled eye can tell that. You poke around the outside of the shop for a bit, but freeze when you hear a noise from inside. You can\u2019t be sure, but it sounded like a scream. Gripping the staff tighter and making yourself ready, you wait and see if anything else will happen. After seconds turn into minutes though, you start to relax your guard a bit.<br>\r\n<br>\r\nComing back around to the front of the store, you try the door. Knocking at first, repeating several times with waits between gets no results. You end up with a similar response to calling out for the blacksmith to respond. Biting your lip you next try the door but find it locked. Not all that surprising, you figure.<br>\r\n<br>\r\nYou stare at the lock for several more seconds pondering if you should do what you are considering. Then you figure that the blacksmith is almost certain to be in trouble, and that would warrant it. With that decided you take a step back and thrust the point of your staff at the metal. Concentrating on what you hope to be a simple unlock spell, you get rewarded with a metallic clank and the door opening a hairsbreadth.<br>\r\n<br>\r\nYou give a quick glance all around you before moving up to the door. Trying to hear anything beyond the door doesn\u2019t work, so you reach out and cautiously push on the door. You frown as the sunlight illuminates the space beyond the door. Rather than a rustic building like the outside suggests, you are now looking into a dark and gloomy passage made of stone blocks and extending beyond what should be possible given the size of the building from the outside.<br>\r\n<br>\r\nYou frown and bite your lip as you toss a mental coin before taking a quick step past the door. You leap back as quick as you can, but with no result. Several further attempts take you slightly further each time before you retreat back outside.<br>\r\n<br>\r\nOne final attempt gets cut short as the door slams behind you, sealing you inside the dark passage. The tip of your staff lights up enough for you to see a few steps away. The inside of the door has been changed as well, now looking like a castle\u2019s well reinforced door rather than the door you opened from the outside.<br>\r\n<br>\r\nA sudden chill sweeps up your back as a voice calls from out of the darkness, \u201cOh good, another plaything, do come in my dear.\u201d<br>\r\n<br>\r\nYou throw your back against the door, holding your staff out in preparation but nothing comes out of the shadows, and the voice doesn\u2019t speak up again. Now that your fear is starting to fade, you realize the voice sounded\u2026</span></div></div>",
+            "created":1594441020,
+            "id":2865724,
+            "title":"Strange goings on at the blacksmith"
+        },
+        "14":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Quest One: The Slime Nest",
+                "Quest Two: The Blacksmith's Curse",
+                "Quest Three: The Mage's Laboratory",
+                "Get a job at the Inn",
+                "Head back out to town"
+            ],
+            "content":"<div class=\"\"><div> <span>The choice seemed obvious, being a lone ranger, exploring and surviving any enviornment, communing with nature, and sniping threats before they can even blink with your arrows.<br>\r\n<br>\r\nThe shopkeeper nods and hands you your starting kit. In it you find a bright green tunic, light mail armor, short-shorts, leather boots, leather gloves, a belt with hip pouches, a short-bow, and a quiver of arrows. You equip all of these.<br>\r\n<br>\r\nWhile here, you ask the shopkeeper if she has any quests or jobs for you to do. She nods.<br>\r\n<br>\r\n<b>Quest One:</b><br>\r\nA friend of the shopkeeper has gone missing investigating a local slime nest. It's up to you to find her and bring her home!<br>\r\n<br>\r\n<b>Quest Two:</b><br>\r\nNo one has seen the blacksmith for some time, but locals claim to hear noises and see strange lights coming from the shop. Your job is to break in and find out what's happening.<br>\r\n<br>\r\n<b>Quest Three:</b><br>\r\nThe Mage Guild is conducting experiments on several monsters, and could use a bodyguard in case anything goes wrong.<br>\r\n<br>\r\nThe Shopkeeper also mentions that the local Inn is hiring.</span></div></div>",
+            "created":1591506000,
+            "id":2847744,
+            "title":"Ranger"
+        },
+        "141":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Shoot at the slimes with your bow",
+                "Approach the slimes, they may be friendly!",
+                "Try to sneak past them"
+            ],
+            "content":"<div class=\"\"><div> <span>The first quest seemed the most obvious to you. The Blacksmith and the Mage Guild can wait, but the shopkeeper's friend could be in serious danger. Besides... Your eyes dart back to the shopkeeper's gorgeous body.... It wouldn't be a bad idea to get on her good side...<br>\r\n<br>\r\nThe shopkeeper nods and give you directions to the nest, and after a bit of walking you find the entrance to the cave.<br>\r\n<br>\r\nOutside you see three slimes milling about. They're green slimes, the weakest kind. However, you can't see the inside of the cave, and its very possible that more slimes could be hiding in there.<br>\r\n<br>\r\nWhat do you do</span></div></div>",
+            "created":1591506000,
+            "id":2847755,
+            "title":"Quest One: The Slime Nest"
+        },
+        "1411":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Vitality",
+                "Strength",
+                "Perception"
+            ],
+            "content":"<div class=\"\"><div> <span>Thanks to the element of surprise, you are able to shoot and kill one of the slimes easily.<br>\r\n<br>\r\nThe other two charge you, along with two that seemed to have been hiding in the cave, but thanks to distance and their slow speed you are able to shoot them all down before they are able to lay a hand on you.<br>\r\n<br>\r\nYou've won! You gain a level.<br>\r\n<br>\r\nYou gain the ability \"Wind Sprint,\" allowing you to greatly increase your running speed for a short period of time.<br>\r\n<br>\r\nFeeling the energy of a new level, you realize you have some remaining energy you can channel to other traits. This time you can dedicate it to Vitality, Strength, and Perception<br>\r\n<br>\r\nWhich will you choose?</span></div></div>",
+            "created":1591506000,
+            "id":2847781,
+            "title":"Shoot at the slimes with your bow"
+        },
+        "14112":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Enter the cave..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You concentrate the energy towards increasing your physical strength.<br>\r\n<br>\r\n<b>STRENGTH INCREASED!</b><br>\r\n<br>\r\nYou feel slight muscle form on your arms.</span></div></span></div>",
+            "created":1592005740,
+            "id":2850345,
+            "title":"Strength"
+        },
+        "15":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Quest One: The Slime Nest",
+                "Quest Two: The Blacksmith's Curse",
+                "Quest Three: The Mage's Laboratory",
+                "Get a job at the Inn",
+                "Head back out to town"
+            ],
+            "content":"<div class=\"\"><div> <span>The choice seemed obvious, being an inventor, experimenting with machines and chemicals, making intricate contraptions to shape the world in your image!<br>\r\n<br>\r\nThe shopkeeper nods and hands you your starting kit. In it you find a red tunic, short-shorts, a lab coat, leather boots, leather gloves, and a kit full of parts and tools to get you started. You equip all of these.<br>\r\n<br>\r\nWhile here, you ask the shopkeeper if she has any quests or jobs for you to do. She nods.<br>\r\n<br>\r\n<b>Quest One:</b><br>\r\nA friend of the shopkeeper has gone missing investigating a local slime nest. It's up to you to find her and bring her home!<br>\r\n<br>\r\n<b>Quest Two:</b><br>\r\nNo one has seen the blacksmith for some time, but locals claim to hear noises and see strange lights coming from the shop. Your job is to break in and find out what's happening.<br>\r\n<br>\r\n<b>Quest Three:</b><br>\r\nThe Mage Guild is conducting experiments on several monsters, and could use a bodyguard in case anything goes wrong.<br>\r\n<br>\r\nThe Shopkeeper also mentions that the local Inn is hiring.</span></div></div>",
+            "created":1591506000,
+            "id":2847746,
+            "title":"Artificer"
+        },
+        "151":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Attack the slimes with your wrench",
+                "Try to capture them, for science!",
+                "Try to build something"
+            ],
+            "content":"<div class=\"\"><div> <span>The first quest seemed the most obvious to you. The Blacksmith and the Mage Guild can wait, but the shopkeeper's friend could be in serious danger. Besides... Your eyes dart back to the shopkeeper's gorgeous body.... It wouldn't be a bad idea to get on her good side...<br>\r\n<br>\r\nThe shopkeeper nods and give you directions to the nest, and after a bit of walking you find the entrance to the cave.<br>\r\n<br>\r\nOutside you see three slimes milling about. They're green slimes, the weakest kind. However, you can't see the inside of the cave, and its very possible that more slimes could be hiding in there.<br>\r\n<br>\r\nWhat do you do</span></div></div>",
+            "created":1591506000,
+            "id":2847756,
+            "title":"Quest One: The Slime Nest"
+        },
+        "1511":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Keep fighting!",
+                "Run Away!!!",
+                "Grab a slime!"
+            ],
+            "content":"<div class=\"\"><div> <span>You charge toward the slimes, but thanks to the clunking of metal tools in your pack, the slimes are able to take notice of you well before you get to them.<br>\r\n<br>\r\nTwo more slimes emerge from the cave. You are surrounded.<br>\r\n<br>\r\nWhat will you do?</span></div></div>",
+            "created":1591506000,
+            "id":2847784,
+            "title":"Attack the slimes with your wrench"
+        },
+        "15111":{
+            "author_id":"gigajules",
+            "author_name":"Gigajules",
+            "choices":[
+                "Try to fight them off!",
+                "Try to just free your arm",
+                "Wait and see what happens. For Science!"
+            ],
+            "content":"<div class=\"\"><div> <span>You try to hit the slimes, but the damage done is minimal.<br>\r\n<br>\r\nThe five slimes rush you, and you are pushed to the ground. Two slimes pin your arms, two pin your legs, one sits on your chest.<br>\r\n<br>\r\nThey seem to be charging up some sort of spell.<br>\r\n<br>\r\nYou are stuck on your back, you have no access to your tools, though you are still holding your wrench.</span></div></div>",
+            "created":1591506000,
+            "id":2847785,
+            "title":"Keep fighting!"
+        }
+    },
+    "info":{
+        "author_id":"gigajules",
+        "author_name":"Gigajules",
+        "brief_description":"A fantasy choose-your-own-adventure where the main heroine goes through many changes...",
+        "created":1589181180,
+        "description":"<td align=\"left\" class=\"norm\">Your name is Pearl. You are a young woman, have just turned eighteen, heading toward the city of Tutoria to start your new life as an adventurer.<br>\r\n<br>\r\nStarting appearance:<br>\r\n<br>\r\nHeight: 5'4\"<br>\r\n<br>\r\nBuild: skinny<br>\r\n<br>\r\nCup size: A<br>\r\n<br>\r\nWaist size: Extra-small<br>\r\n<br>\r\nHair: black, strait cut<br>\r\n<br>\r\nEyes: light blue<br>\r\n<br>\r\nYou have little to your name but the ragged clothes on your back, but you are determined to become great.<br>\r\n<br>\r\nYour journey begins here...</td>",
+        "id":2221640,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1606082880,
+        "modified":1606082880,
+        "pretty_title":"Jewel Quest"
+    }
+}

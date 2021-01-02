@@ -1,0 +1,1187 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "University",
+                "Town",
+                "Close Commune",
+                "Actually a tourist",
+                "Events/Misc"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now where are we in this area?</span></div></span></div>",
+            "created":1594098000,
+            "id":2863718,
+            "title":"To begin"
+        },
+        "11":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Head Faculty",
+                "Student",
+                "Staff (such as a janitor or clerk)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now who are you?</span></div></span></div>",
+            "created":1594098000,
+            "id":2863719,
+            "title":"University"
+        },
+        "111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Top Brass (such as a dean, the president, or department head)",
+                "Teacher"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now who are you this time?</span></div></span></div>",
+            "created":1594098000,
+            "id":2863722,
+            "title":"Head Faculty"
+        },
+        "1112":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Jubilee Darrieux",
+                "Ava L. Laurence",
+                "Another Teacher."
+            ],
+            "content":"<div class=\"\"><div> <span>Who are you once more?<br>\r\n<br>\r\n<b>Jubilee Darrieux</b><br>\r\nIn-coming teacher of the new French language department, Jubilee has gotten a reputation as being the sunniest woman ever known in recent memory. She's optimistic, she bright, she possess a sharp wit. What's else can be said about the woman, well, she does have a knack for finding herself in places she isn't supposed to be. That isn't going to be a problem...right?<br>\r\n<br>\r\n<b>Coach Ava L. Laurence</b><br>\r\nHead of the school's woman's soccer league, Ava is a gruff whistle-blower. Third daughter of the town's largest meatpacking facility owner, Ava's suffers a stigma that her position was caused by nepotism. Make no mistake though, she runs a tight ship on her team.</span></div></div>",
+            "created":1594098000,
+            "id":2863726,
+            "title":"Teacher"
+        },
+        "112":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Freshmen",
+                "Sophmore",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What age group?</span></div></span></div>",
+            "created":1594098000,
+            "id":2863751,
+            "title":"Student"
+        },
+        "1121":{
+            "author_id":"keroro04",
+            "author_name":"Keroro04",
+            "choices":[
+                "Maya Kammie",
+                "Joy Heather",
+                "Other Freshmen"
+            ],
+            "content":"<div class=\"\"><div> <span><b>Maya Kammie</b><br>\r\nBorn and having lived her entire life in Great Tracts, Maya has gotten used to the various different sizes and bodies of people within the city as well as the various problems that some people can have due to differences in size or weight. Already standing pretty tall at 9 feet and only growing, Maya has done some growing already due to her house being very close to a chemical plant, but she is taking her slow growth in stride rather than freaking out about it.<br>\r\n<br>\r\n<b>Joy Heather</b><br>\r\nA rather minuscule woman standing at a mere 3'0\", Joy Heather is one of the shortest women to enroll within Great Tracts University, taking a major in cooking. Enjoying the growth in others, Joy has been studying the growth of others so she could try in learning how she can make others grow from simply using meals, so she can have all the enjoyment in watching others grow, while also trying to figure out a way to reverse said growth in case someone would get... too big.</span></div></div>",
+            "created":1597640400,
+            "id":2886726,
+            "title":"Freshmen"
+        },
+        "1123":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Junior",
+                "Senior"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about Junior or Senior?</span></div></span></div>",
+            "created":1594098000,
+            "id":2863752,
+            "title":"Other Age"
+        },
+        "11231":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "The Carter Twins",
+                "Sharon Whit",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span><b>The Carter Twins</b><br>\r\nCurrently attending \"exquisitely contained\" classes,the Carter Twins were known troublemakers of the school. Playing pranks on others and being a genuine hassle. The three main reasons that they were never expelled were:<br>\r\n1. They had pretty good grades.<br>\r\n2.Their father is the mayor's secretary<br>\r\n3.They've never been officially caught. <br>\r\nSomething did seemed to have happened over the summer though and the Carter Twins seemed changed. What with wearing very baggy clothing at all times now. Their names are Jenna and Molly; one dyes her hair blonde while the other still has her natural raven locks.<br>\r\n<br>\r\n<b>Sharon Whit</b><br>\r\nA STEM student, Sharon's current endeavor is investigating the town's strange people. She feels she's on the precipice of discovery though she may soon come across more than she bargained for in that regards. She's farsighted and so most of the time her glasses sit on the top of her mousy brown hair. She favors sweaters and skirts mashups for her usual attire.</span></div></div>",
+            "created":1597467600,
+            "id":2886094,
+            "title":"Junior"
+        },
+        "12":{
+            "author_id":"frown",
+            "author_name":"sup",
+            "choices":[
+                "Hospital",
+                "Evergreen Forest",
+                "Restaurant District",
+                "Chemical Plant",
+                "more places"
+            ],
+            "content":"<div class=\"\"><div> <span>The town as previously stated is a perfect blend of cool forests and nice river beaches, a perfect place to start raising a family if you want them to become nice people in the future. But where in this peaceful yet strange little town do we want to start off in?<br>\r\n<br>\r\n<b>Hospital</b>: the towns only medical practice that is fully equipped to help deal and possibly treat some of the weird mishaps that tend to happen to people. <br>\r\n<br>\r\n<b>Evergreen Forest</b>: one of the calmest and most beautiful forests in the entire region and their calming atmosphere make it a perfect camp grounds and hiking destinations. However, they say strange things happen within these woods.<br>\r\n<br>\r\n<b>Restaurant District</b>: This single district contains a number of restaurants that seem to always be a hotspot with strange activity such as a food item gone bad or a dish causing something strange within its patron, either way, no one can really stay away from these places for long.<br>\r\n<br>\r\n<b>Chemical Plant</b>: A defunct chemical plant that used to be the heart of this town till it shut down. While no one goes there, the chemicals inside still remain and sometimes leak out.<br>\r\n<br>\r\nAnd many more places such as these.</span></div></div>",
+            "created":1594962000,
+            "id":2870657,
+            "title":"Town"
+        },
+        "121":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Doctor",
+                "Nurse",
+                "Patient"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now who do we follow?</span></div></span></div>",
+            "created":1597467600,
+            "id":2886082,
+            "title":"Hospital"
+        },
+        "1213":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "Carla Wickman",
+                "Toby Hadley",
+                "Another Patient"
+            ],
+            "content":"<div class=\"\"><div> <span>Alright, now who is our patient here?<br>\r\n<br>\r\n<b>Carla Wickman</b><br>\r\nThe owner of the town's fitness center, Carla is a sporty tomboy who'll do what she can to whip others into shape. Normally, the staff of the hospital would only be seeing her teaching fitness classes, but today she's in as a patient with a very odd problem: she woke up this morning to discover her breasts had grown dramatically, and she's now having serious back pain because of it.<br>\r\n<br>\r\n<b>Toby Hadley</b><br>\r\nOne of the town's mechanics, Toby is an absolutely expert in all things car. If it's engine trouble, brake issues, or problems with the wheels, Toby's the guy to talk to. So why's he here? He hit his thumb with a hammer... and instead of bleeding, the thumb went completely flat.</span></div></div>",
+            "created":1597467600,
+            "id":2886089,
+            "title":"Patient"
+        },
+        "122":{
+            "author_id":"keroro04",
+            "author_name":"Keroro04",
+            "choices":[
+                "Michael Mareow",
+                "Bella Belle",
+                "More People from Evergreen Forest..."
+            ],
+            "content":"<div class=\"\"><div> <span><b>Michael Marrow</b><br>\r\nA camp guide to the Evergreen Forest, Michael Marrow has learned all about the various different kinds of wildlife within the Evergreen Forest, giving him careful knowledge on how to survive within the forest. He gives out tours throughout the summer to people who wish to explore nature, but he is not in charge of any changes caused by the Forest. He stands out at 6\u20190\u201d and has dark brown hair.<br>\r\n<br>\r\n<b>Bella Belle</b><br>\r\nA rather bizarre woman with long green hair who lives at the very center of the Evergreen Forest, living among nature and only rarely comes out to the main city to occasionally stock up on food. She claims to be a nature spirit, but aside from flowers blooming wherever she walks, nobody has been able to approve or deny this. She has a vested interest in protecting the Forest, but thanks to the weird nature of the Forest her body is prone to changing in size constantly, from being a giant to being merely a foot tall.</span></div></div>",
+            "created":1597640400,
+            "id":2886731,
+            "title":"Evergreen Forest"
+        },
+        "1222":{
+            "author_id":"keroro04",
+            "author_name":"Keroro04",
+            "choices":[
+                "\"You know what... sure.\"",
+                "\"Sorry, can't. Too busy cleaning the forest...\"",
+                "Something interrupts Bella before she can answer."
+            ],
+            "content":"<div class=\"\"><div> <span>In the outskirts of the city of Great Tracts lies the Evergreen Forest, a expanse of wildlife and trees that has been used for camping destinations by people all across the city. However, despite the niceness of the woods, contamination from both the common tourist leaving garbage as well as the abandoned chemical plants has warped the wildlife within, giving them weird properties that can change the bodies of those who enter if they are not careful.<br>\r\n<br>\r\nNormally, because of this, most people do not choose to live in these woods. However, in the center of these woods lives a certain woman, all by her lonesome...<br>\r\n<br>\r\n\"Hmph... another human has left trash in these woods... why do I have to always clean it up...\"<br>\r\n<br>\r\nPicking up another plastic bottle would be a green-haired woman with pointed ears by the name of Bella Belle, who at the time was only standing at a mere 1'0\", requiring her to use both hands to carry it above her head. She had found her size to wildly fluctuate over time, and as of now she was was on the shorter end of her usual size, which she did not prefer due to it making her job harder.<br>\r\n<br>\r\n\"It's days like this that make me wish I had direct control over my size...\"<br>\r\n<br>\r\nSlowly carrying the plastic bottle out of the depths of the forest, Bella would eventually climb up a bench in order to reach a garbage can, before throwing in the bottle and watching it land in the garbage can. As she would hop back onto the ground though, the woman would hear a ringing from her phone, and as the woman would pull it out, she would check out who was calling.<br>\r\n<br>\r\n\"Hey It's Bella, what do you want?\"<br>\r\n<br>\r\n\"Yo Bella, it's me Trisha! Wanted to ask if you wanted to come with me to the public pool with me today, They're offering a discount today and I thought you could relief some stress by swimming...\"<br>\r\n<br>\r\nUpon realizing who was on the other end, Bella would sigh heavily as she thought about Trisha. She was one of her few friends outside of the Evergreen Forest, but she seemed to stay consistently at a 7'0\" height while she herself has changed in height with every visit. However, she had never really shown up below 5 feet to Trisha, which worried her a bit on what she would think if she saw her that small.<br>\r\n<br>\r\n\"So, you coming or no?\" </span></div></div>",
+            "created":1597726800,
+            "id":2887261,
+            "title":"Bella Belle"
+        },
+        "1223":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Tori Matthews",
+                "Michelle Barrows",
+                "Evergreen Forest People III"
+            ],
+            "content":"<div class=\"\"><div> <span>Tori Matthews: Located in the section known as The Slough. The 23 year old spends her days gambling away her wealth that she had accumulated from three dead uncles and two dead aunts. Unusually loose with her finances, Tori decides the best way to get her luck back into order is by a handicap.<br>\r\n<br>\r\nMichelle Barrows: Blind in one eye, Michelle Barrows stays away from the big--to her eyes anyway--city. Her solitude is only broken by the young pup named Bartholomew. That and being known by the 'larger' community as the go-to third party that can find more esoteric clothes manufacturers.</span></div></div>",
+            "created":1604725200,
+            "id":2936477,
+            "title":"Evergreen Forest II"
+        },
+        "123":{
+            "author_id":"keroro04",
+            "author_name":"Keroro04",
+            "choices":[
+                "Chefs",
+                "Waiters/Waitresses",
+                "Food Critics"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will we follow?</span></div></span></div>",
+            "created":1597640400,
+            "id":2886911,
+            "title":"Restaurant District"
+        },
+        "125":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Blue Hills Cemetery and Morgue",
+                "Harriet's Hairdressers",
+                "Other Places"
+            ],
+            "content":"<div class=\"\"><div> <span>Blue Hills Cemetery and Morgue-One of the spookiest and most morbid place in the town. Blue Hills is around seventy-five acres of land for those dearly departed. Blues Hills Morgue also contains a small stone mason hut for on premises grave markers.<br>\r\n<br>\r\nHarriet's Hairdressers-<i>The</i> place for all things hair. Started by Marry Harriet, her great-granddaughter Merry Harriet and her brother Greg Harriet now run the store. Fourteen dressers,stylists,and barbers work 10 to 6; 5 out of 7.</span></div></div>",
+            "created":1600146000,
+            "id":2903862,
+            "title":"More places"
+        },
+        "1251":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Tina White",
+                "Jacquelin \"Jack\" Hawksly",
+                "Other Morbid Characters."
+            ],
+            "content":"<div class=\"\"><div> <span>Tina White: The White family has owned the Blue Hills for generation and it has now fallen to Tina, the current matriarch.She intentionally takes a goth look to her since she thinks it's appropriate for her job, but is still a warm and friendly person.<br>\r\n<br>\r\nGeneral Age:32<br>\r\n<br>\r\n<br>\r\nJacquelin \"Jack\" Hawksly. An only child, Jack was always a tomboy growing up. She was in most school sports, gained a love of comics and video games, and went to Great Tracts with intentions of being a engineer.<br>\r\n<br>\r\nAnd for God's knows what reason,ended up as the stonemason for gravemarkers.<br>\r\n<br>\r\nThough what many people don't know is her body's very...flexible to put it bluntly.<br>\r\n<br>\r\nGeneral Age:28<br>\r\n<br>\r\n</span></div></div>",
+            "created":1600146000,
+            "id":2903868,
+            "title":"Blue Hills Cemetery and Morgue"
+        },
+        "12512":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Jack gets back to her stonemasonry",
+                "Jack's allergies flare up",
+                "Jack sees something weird."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Who brought these flowers here?\" Jack asked in annoyance. She stayed fifteen feet away from the mix of daffodils and daisies.Shane looked over at the cemetary's stone mason with half-lidded eyes.<br>\r\n<br>\r\n\"Oh yeah, forgot you're allergic to them, hang on.\" He spoke. With a few quick steps, the small man picked the flowers up from the front desk and put them into the back room. He came back and dusted his hands off.<br>\r\n<br>\r\n\"Why don't you wear a mask?\" Shane questioned Jack as she hesitantly came over. She kept a hand over her mouth and nose for a few moments until she knew she was okay.<br>\r\n<br>\r\n\"Then nobody can see my winning smile.\" She joked. \"Anyways Shane, I got the Gilligan's angel out in shop. Get the 'three stooges' to lift it over to them.\" <br>\r\n<br>\r\n\"You know they hate that name.\"<br>\r\n<br>\r\n\"And are they here right now? No. Then they never heard me use right now.\"<br>\r\n<br>\r\nShane gave her a half-grin and opened his palm up, with that action, Jack handed over a slip. Shane placed it into a box marked 'to the boss' right before he handed an envelope to Jack.<br>\r\n<br>\r\n\"You know the drill. Pictures of what they want and other parameters are in it.\" Shane waved her off as Jack walked back to her quarters.<br>\r\n<br>\r\nShe looked around for a few moments before she stretched her arm out like a hookline and grabbed a hold of a nearby fence post. With a soft 'whee' from her mouth, Jack shot forward like a bullet.<br>\r\n<br>\r\nShe landed with a thud she landed on the soft grass, barely feeling a thing, Jack lengthed her legs to run forth back to her section.<br>\r\n<br>\r\nThe tomboy was never born with these powers, an accident involving some tainted coke had given Jack the ability to stretch like Mr.Fantastic. It also aggravated her already existing allergies to the extreme. After this accident Jhad thought she was a freak,but she soon encountered others. Great Tract's seemingly kept its population of weirdos on the downlow,even though two-thirds of the younger folk in town suffered great life-changing conditions.<br>\r\n<br>\r\n\"<i>Heck my two best friends have a rack that a supermodel would envy and the inflates like a sponge when she hits water.\"</i> Jack mused.</span></div></div>",
+            "created":1600837200,
+            "id":2908971,
+            "title":"Jacquelin \"Jack\" Hawksly"
+        },
+        "125121":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...Yuki.",
+                "...Jess.",
+                "...Both."
+            ],
+            "content":"<div class=\"\"><div> <span>Returning to her workshop, or as she liked to call it the \"quarry\", Jack sat at her main desk and opened the envelope with her next order on it.<br>\r\n<br>\r\nThe pictures in the envelope showed a slate of marble and a sketch of an open book. Behind them was a note with what the customer wanted the epitaph to say. The note read: \"Martin Albert Windlemon. Beloved Grandfather and Librarian. June 7th, 1944 - August 8th, 2020.\"<br>\r\n<br>\r\n\"Rest in Piece, Marty.\" Jack said to herself. \"Whole town's gonna miss ya.\"<br>\r\n<br>\r\nSetting the pictures and note down, Jack went over to what she liked to call her \"mine\", the storage area where she kept stones that would soon be shaped into headstones.<br>\r\n<br>\r\nStonemasonry hadn't been Jack's first choice of job. She had wanted to be an engineer, but took multiple classes to cover her bases in case that didn't work. Sure enough, it didn't. Jack's stonemasonry classes, though, came into use when the original Stonemason of Blue Hills Cemetery retired. And thus, here she was.<br>\r\n<br>\r\nHer rubber powers actually were quite helpful here too. Stretching her arms, she wrapped them around a large piece of marble, and lifted with all her might. She was slightly stronger, but not by much. Lugging the piece of rock out of the \"mine\", Jack set in on her reinforced work station, grabbed her chisel, made her hand grow large, and got to work on shaping the stone.<br>\r\n<br>\r\nShe got about part way through when she heard the door to her workshop open. She was about to shrink her hand down until she heard a voice.<br>\r\n<br>\r\n\"Hey Jack! You in here?\" The voice yelled. A voice belonging to one of the only two people who knew about Jack's secret power. That person was...</span></div></div>",
+            "created":1600837200,
+            "id":2908979,
+            "title":"Worktime"
+        },
+        "1251211":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Yuki and Jack talk for awhile",
+                "Someone absentmindedly walks in on their meeting."
+            ],
+            "content":"<div class=\"\"><div> <span>Yuki.<br>\r\n<br>\r\nShe would've been quite a petite Japanese woman, if one didn't count the bazongas on her chest. They took up the entire view of her chest and if she was any shorter, than she'd would've been quite reminiscent of a certain anime character.<br>\r\n<br>\r\nThe woman used to keep her hair in almost flowing locks, but she seemed to cut it quite short this month. It was done in a generic, Japanese bob-cut. A melon pin was tied in her hair, either out of irony or general love of the fruit.<br>\r\n<br>\r\n<i>\"Ciao</i>~ Jackie!\" Yuki called out. Jack stretched out her hand to give her friend a handshake. Her boobs jiggled in enthusiastic shaking. <br>\r\n<div align=\"center\">------</div><br>\r\nYuki was another of the town's weirdos that somehow stayed hidden away from public eye. The stonemason had discovered the woman one lonely night, which in turn allowed Jack to discover she wasn't the only freak in town.<br>\r\n<br>\r\nYuki's story was quite different than Jack's though. Working for Mrs.Abernathy, the town's largest--in more ways than one--debutante,Yuki felt a subtle envy for the other workers there. Who seemed to also suffer the town's weird affliction. Yuki,being the only normal person there,decided to join the in-crowd.<br>\r\n<br>\r\n\"I only wanted them to get a <i>smidge</i> bigger.\" Yuki told the stretcher.<br>\r\n<br>\r\nFinding a doctor who wasn't a few days drive out of town, Yuki expected him to give her bust a nice boob job. Instead, she received knockers half her size. She of course complained to the man, who told her she needed the funds for their removal. Already out of cash for the first operation, Yuki did her best to scrounge up more for her second.<br>\r\n<div align=\"center\">-------</div><br>\r\n\"I don't think that's hello.\" Jack told the Japanese woman.<br>\r\n<br>\r\n\"I think it is.\" Yuki replied with a slight shrug. The woman still kept her sunny attitude despite the fact her back regularly suffered soreness or the fact she needed to do all of her shopping at specialty stores,at night.</span></div></div>",
+            "created":1600837200,
+            "id":2908996,
+            "title":"...Yuki."
+        },
+        "12512111":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "\"...it's \"Shitty Movie\" Night.\"",
+                "\"...my mother's coming to visit, and I need moral support.\"",
+                "\"...I found a manga you might like.\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"So, how's the money savin' going?\" Jack asked as she began picking away at the marble again.<br>\r\n<br>\r\n\"Slow.\" Yuki replied. \"But I'm getting there. Though at the rate I'm going, I'll probably be stuck with these monsters for life. It'd be so nice to be out in public again.\"<br>\r\n<br>\r\n\"Yeah, I'd love to show off my powers in public, but I get the feeling people would freak.\" Jack replied. \"You'd think all these changes would be more out in the open, but nope.<br>\r\n<br>\r\nYuki shrugged, and pulled her cell phone out of her cleavage. \"Well, at least I have some extra carrying space.\" She said.<br>\r\n<br>\r\nJack looked back at Yuki. Yuki's massive bust filled up her entire lap when sitting, and came up to her chin. Though heavy, they kept a perfectly round shape thanks to the implants. While she knew Yuki's issues with them, Jack did love the sight.<br>\r\n<br>\r\nJack had gained a love of huge breasts in college. She had no interest in sex or romance at all, but there was just something about giant boobs she liked. In her off-time, she browsed the internet for stories of huge breasts.<br>\r\n<br>\r\n\"Anyway, that's not why I came here.\" Yuki said. \"I actually wanted to see if you wanted to come over to my house after work.\"<br>\r\n<br>\r\n\"What for?\" Jack asked, turning back to the stone.<br>\r\n<br>\r\nYuki smiled. \"Well...\"</span></div></div>",
+            "created":1600837200,
+            "id":2909002,
+            "title":"A Friendly Chat"
+        },
+        "125121111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Things go to more personal topics.",
+                "Jack finishes what she can for the day before she hides"
+            ],
+            "content":"<div class=\"\"><div> <span>\"...it's \"Shitty Movie\" Night.\"<br>\r\n<br>\r\nJack head did a 180 as she worked on her piece of stone. <br>\r\n<br>\r\n\"Tonight? Really?\" She asked. Meanwhile her hands searched the workshop for her tools. With the advent of her powers, Jack had significantly changed how she decorated anywhere she lived or worked. Tools could be grabbed with barely any mishaps,either they were attached to easily openable locks or just laying in neat molds.<br>\r\n<br>\r\n\"Yep. I've invited Jess as well as Miranda and Kim and Scotty.\" Yuki said,she stretched a little,which showed off her great big boobs. \"Damn back.\"<br>\r\n<br>\r\nHer breasts were actually lighter than one would've expected, though physics still took a hold on Yuki's small frame. The Japanese woman scratched a little at her side. Jack grimaced in empathy.<br>\r\n<br>\r\n\"I barely know those last three.\" Jack spoke. \"What's their deal?\"<br>\r\n<br>\r\n\"Well Miranda's somewhat taller than most girls.\" Yuki shuffled a bit to make her sore back feel better. \"Kim's quite...big headed. And well Scotty's suffers anger issues.\"<br>\r\n<br>\r\nJack internalized each of Yuki's words. \"Wait, how does that..\"<br>\r\n<br>\r\n\"You'll see at the meeting.\" Yuki interrupted her friend's question. </span></div></div>",
+            "created":1600837200,
+            "id":2909008,
+            "title":"Shitty Movie Night, tonight"
+        },
+        "1251211112":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...Jess, plus Yuki's three other friends.",
+                "...only Jess, the others hadn't arrived yet."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, I'd better get home. I think you have a tombstone to finish, and I gotta get ready for tonight. I've got some real shitty films for us to watch. See you tonight.\" Yuki said. With that, she turned and walked out of Jack's workstations, her boobs bouncing the whole time.<br>\r\n<br>\r\nJack smiled, before turning back to the tombstone. She'd gotten part of it finished, and she hoped to have at least half of it done before she had to leave. Thankfully, since she had a policy that she needed at least a week to finish a tombstone, she had plenty of time. So, she got back to work, chipping away at the stone.<br>\r\n---------<br>\r\nAfter a few hours, Jack had indeed managed to get half of the stone shaped into an open book, but it was time to close shop. Setting her tools aside, she left her workshop and locked it. Looking around to make sure no one was watching, she stretched her arm like a grapple, latched onto a nearby tree, and took off.<br>\r\n<br>\r\nIt only took Jack a few minutes to reach Yuki's house, bounding across the rooftops. Thankfully, she managed to avoid other people. Landing right in front of Yuki's door, she was about to knock before it swung open. Yuki was on the other side.<br>\r\n<br>\r\n\"Rooftops again?\" Yuki asked. \"Someone's going to see you eventually, you know.\"<br>\r\n<br>\r\n\"Not the route I take.\" Jack said. She looked behind Yuki into her living room, and saw...</span></div></div>",
+            "created":1600837200,
+            "id":2909013,
+            "title":"Ending the Work Day"
+        },
+        "12512111122":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Jess and Jack catch up",
+                "Yuki tells the girl the movie.",
+                "The others arrive."
+            ],
+            "content":"<div class=\"\"><div> <span>Jess who was sitting down on the couch. Underneath her shirt and pants was her signature wetsuit. It was a full body shield against most liquids.<br>\r\n<br>\r\nThe covered woman got up and walked over to Jack with a small smile. She overshadowed the girl by about six inches in height. <br>\r\n<br>\r\n\"Jacq-Lin, pleasant to see you again.\" Her almost siren-like voice spoke. If she was attracted to women, Jack would've taken the voice right at that moment.<br>\r\n<br>\r\n\"You to Jess. We've each other in forever.\"<br>\r\n<br>\r\n\"It's only been two days.\" Jess replied. Her head did that weird bob that Jack teased her about. Yuki hastily pushed Jack inside and closed the door.<br>\r\n<br>\r\n\"So what's with the suit? Its not going to rain until Sunday.\" Jack questioned Jess as they walked over to the couch. <br>\r\n<br>\r\n\"You never know, Jacq-Lin, you never know.\" Jess replied. Her hands fidgeted together.<br>\r\n<br>\r\n<div align=\"center\">----</div><br>\r\nJess' story was tragic,well not too melancholic anyways. Once a lover of the town's lakes, something scratched the woman's thigh when she was eighteen years old. Which showed its effects far too quickly for her liking. It was only through a large tide did she managed to get back to shore. Naked mind you, but at least she wasn't growing until she'd explode.<br>\r\n<br>\r\nPacking up her things, the once water faring lass moved into her late Uncle's cabin to escape from any large bodies of water.</span></div></div>",
+            "created":1600837200,
+            "id":2909024,
+            "title":"Only Jess is here."
+        },
+        "125121111222":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...the other three friends.",
+                "...Yuki's mom, making a surprise visit.",
+                "...no one?"
+            ],
+            "content":"<div class=\"\"><div> <span>Jack and Jess were sitting on the couch, while Yuki was sitting in a recliner made specifically to fit her bust. In her hand was a DVD.<br>\r\n\"OK, this movie's gotten review scores that can be counted in the single digits.\" Yuki said. \"It's called 'Night of the Buxom Demons'.\"<br>\r\n<br>\r\n\"Where the hell'd you find a movie called that?\" Jess asked.<br>\r\n<br>\r\n\"Thrift store. Saw the title and knew it'd be up Jack's alley.\" Yuki teased.<br>\r\n<br>\r\n\"Haha.\" Jack replied. \"So, what's the deal with the film?\"<br>\r\n<br>\r\n\"It's about a witch who makes a deal with a really busty succubus to get revenge on her ex-boyfriend. The succubus turns most of the towns women into huge-boobed, brainwashed minions, and now the ex-boyfriend has to work with his current girlfriend to stop all this.\" Yuki explained.<br>\r\n<br>\r\n\"Who comes up with this crap?\" Jack asked. \"What makes the movie shit? That is the whole point of tonight.\"<br>\r\n<br>\r\n\"Oh, you have no idea.\" Yuki replied. \"Awful acting, ugly set designs, plot holes you can drive a submarine through, and characters dumber then hammers. Only thing it has going for it are the boob effects.\"<br>\r\n<br>\r\n\"Sounds horrible!\" Jess said. \"This'll be fun!\"<br>\r\n<br>\r\nJack was just about to reply when she heard the doorbell ring. Yuki got up to see who it was. On the other side of the door was...</span></div></div>",
+            "created":1600837200,
+            "id":2909028,
+            "title":"Night of the Buxom Demons"
+        },
+        "12513":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Clarissa Dirge",
+                "Other Macabre characters."
+            ],
+            "content":"<div class=\"\"><div> <span>Clarissa Dirge. (Goth-Like character. Less so than the owner of this cemetery.)<br>\r\nAge: 26.<br>\r\nFigure:a tiny bit chubby<br>\r\nPersonal Ideas:likes both men and women, she's not a super-famous artist, but she makes enough to get by, spends her weekends at Blue Hill.</span></div></div>",
+            "created":1601614800,
+            "id":2913857,
+            "title":"Other Morbid Characters."
+        },
+        "125131":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Clarissa decides to head home.",
+                "Clarissa begins to grow",
+                "Clarissa is found by Jack"
+            ],
+            "content":"<div class=\"\"><div> <span>Clarissa could feel the night's air touch her skin in quite a delectable way. The goth girl loved it though with every fiber of her being.Her little fat belly jiggled under her grey T-shirt which depicted a skull moon. <br>\r\n<br>\r\n\"Now let's get my creative juices flowing into my old brain box.\" She announced. Clarissa found a nice mound to sit down and stare outwards towards the dark hills and the grey stones. She licked her lips in anticipation of what she would draw during the next hour or so.The young woman was unaware of the invisible presence that watched over her.<br>\r\n<br>\r\n\"And I shoved Jim off in a flash!\" Virginia said to her friend Bea. The two hovered over Clarissa among a group of others, the reason they could hover was because of the one fact that they were ghosts. Some weird quality of Blue Hills allowed the dead to congregate together every night. <br>\r\n<br>\r\nThat wasn't the only thing though, it seemed that the town's strange properties had always been afflicting the land. Many of the ghosts possessed limbs or heights or bodies of quite surreal proportions. One ghost seemed flat as a board while another had a head like a bobbing toy. Some had large lips and others had large manhoods.<br>\r\n<br>\r\nVirginia had some of this going on as well with large hips and a boulder ass, they stretched the little black dress she wore. She was among the largest,though not the largest,of her category. Her friend Bea,who wasn't one these strange figures, looked miniscule do to how much area Virginia covered.<br>\r\n<br>\r\n\"Get outta here, Ginny.\" Bea said. <br>\r\n<br>\r\n\"No,no I'll show you how I did it.\" Virginia said. She floated down to Clarissa. With a small dance, she smashed her fat hip into the woman. A vortex appeared around Virginia which sucked her into Clarissa.<br>\r\n<br>\r\nThe woman,in turn, shivered like she was in a snowstorm.<br>\r\n<br>\r\n\"What was that?\" She asked.</span></div></div>",
+            "created":1602478800,
+            "id":2919641,
+            "title":"Clarissa Dirge"
+        },
+        "1251313":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...her butt began to swell.",
+                "...she lost control of her body."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey! What are you doing here?\" A voice yelled, catching Clarissa's attention. Turning, she saw Jacquelin \"Jack\" Hawksley, the cemetery's stonemason. \"Cemetery's closed.\"<br>\r\n<br>\r\n\"Oh, apologies.\" Clarissa said. \"I just needed-\"<br>\r\n<br>\r\n\"Hey, aren't you Clarissa Dirge?\" Jack said, looking the girl over.<br>\r\n<br>\r\n\"Why, yes I am.\" Clarissa replied. \"I'm just hear for some inspiration, and your tombstones are some of the most beautiful I've seen.\"<br>\r\n<br>\r\n\"Well, I'm flattered, but it's still after hours.\" Jack replied. \"...but, looks like your just drawing. Why don't you finish what you're doing, then leave.\"<br>\r\n<br>\r\n\"Thank you.\" Clarissa replied. Jack smiled and left, as Clarissa went back to her work.<br>\r\n-------<br>\r\nAfter an hour of sketching, Clarissa was done, and left the cemetery. As she was on her way home, she couldn't help but still feel cold.<br>\r\n<br>\r\n'He-hello?' Clarissa suddenly heard a voice say.<br>\r\n<br>\r\n\"Who's there?\" Clarissa asked, confused.<br>\r\n<br>\r\n'Where am I?' The voice asked. 'Who are you?'<br>\r\n<br>\r\n\"I'm Clarissa Dirge.\" Clarissa replied. \"Is something wrong?\"<br>\r\n<br>\r\nBefore the voice could answer, Clarissa had an odd chill go through her body, before...</span></div></div>",
+            "created":1604206800,
+            "id":2932793,
+            "title":"After Hours"
+        },
+        "12513132":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Someone sees Clarissa",
+                "Clarissa and Virginia talk",
+                "Clarissa heads home to secure herself."
+            ],
+            "content":"<div class=\"\"><div> <span>Immediately Clarissa went numb in the legs and became cold as ice.Something had happened to her body,Clarissa's mind scrambled to comprehend what was wrong. It was as if she was a marionette attached to strings. Her body paced over to a very clear puddle of water.<br>\r\n<br>\r\n\"A little chubbier than me when I was alive.\" A alien voice came out of Clarissa's mouth. The woman's eyes bulged open at the sound.Her face twisted into an expression of confusion soon after as if Clarissa wasn't in control,which she wasn't at the moment.\"But where am I?\"<br>\r\n<br>\r\n\"Who the hell are you;what the hell are you?\" Clarissa yelled, back to being the master of her own mouth again.She lost control again, her face raised an eyebrow. With a scratch at her head, Clarissa coughed into a raised fist.<br>\r\n<br>\r\n\"I'll tell you once you answer my question first darling.\" The Not-Clarissa spoke. Once more in control again,Clarissa ran her tongue over her teeth. She tried to find the best words to speak to whoever this was, while at the same time trying her best not to scream. Her nose twitched which was a particular quirk she had when she was distressed.<br>\r\n<br>\r\n\"You're...you're on a concrete path heading out of Blue Hills.\" Clarissa responded.<br>\r\n<br>\r\n\"And who are you exactly?\" spoke Not-Clarissa.<br>\r\n<br>\r\n\"Clarissa Dirge.\"<br>\r\n<br>\r\n\"Hrmph. What year is this missy?\"<br>\r\n<br>\r\n\"Twenty-twenty.\" Clarissa steadied her breath when she answered.<br>\r\n<br>\r\n\"Only been about five years since I last checked in, okay thanks.\" Not-Clarissa spoke with a flush smile. Silence covered the area until Clarissa could find her own voice. <br>\r\n<br>\r\n\"Who are you? What are you?\"<br>\r\n<br>\r\n\"Oh sorry dear, I forgot to answer your little ditties. One moment, don't freak,I'm just going appear like a cloud over your eyes.\" Not-Clarissa spoke. Like a mirage, Clarissa's face shimmered and from it came another form. It was a average looking brunette, though in the twenties she would've been called a beauty. In today's age, she was just average looking sadly enough.<br>\r\n<br>\r\nHer lower half was covered do to the fact that the puddle wasn't big enough to show everything. It looked like a green dress and pearls were wrapped around her neck. <br>\r\n<br>\r\n\"Hello dear.\" The voice spoke,now more inline with the puddle's mirror image. \"My name's Virginia, last name unimportant.I'm what you kills call a ghost.\"</span></div></div>",
+            "created":1607999340,
+            "id":2957099,
+            "title":"Clarissa Dirge:Lost Control."
+        },
+        "1253":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Farshine District",
+                "Larry's Hybrid Drive-Thru Movie and Sit-in Theater",
+                "Other Places IV"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Farshine District:<br>\r\nContains the Great Tract's High School, suburbs, and stadium.<br>\r\n<br>\r\nLarry's Hybrid Drive-thru movie and sit-in theater!<br>\r\nExactly what it says, it's been a town staple since the 60's.</span></div></span></div>",
+            "created":1600318800,
+            "id":2905184,
+            "title":"Other Places III"
+        },
+        "12531":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Lannie Mckinnely",
+                "Sharon Tate",
+                "Other Residents"
+            ],
+            "content":"<div class=\"\"><div> <span>Lannie Mckinnely-<br>\r\nAge:21<br>\r\nA rather reclusive woman, Lannie is known around her suburb as \"the kooky lady whose somewhat nice.\" No matter the weather,she keeps herself dressed under several layers of clothing. Many have noted how hot it must be under there, but none have said anything to her face yet.<br>\r\n<br>\r\nSharon Tate:<br>\r\nAge:22<br>\r\nThe local recreational manager, Sharon is known to be quite friendly and very health conscious. One thing to note is her prescribed pills she takes after every meal,no one knows their purpose.</span></div></div>",
+            "created":1600578000,
+            "id":2906598,
+            "title":"Farshine District"
+        },
+        "125313":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Vanessa Zaki",
+                "Another Resident III"
+            ],
+            "content":"<div class=\"\"><div> <span>Vanessa Zaki;Age:25: A second generation immigrant who currently works as a reclusive editor for the town's news column. She also suffers from quite the peculiar condition. Only arriving in town about two months ago, Vanessa is in for a surprise.</span></div></div>",
+            "created":1604638800,
+            "id":2935769,
+            "title":"Vanessa Zaki"
+        },
+        "1253131":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Vanessa goes see what the town is like.",
+                "Vanessa goes to the library to blow off steam.",
+                "Vanessa stays home instead"
+            ],
+            "content":"<div class=\"\"><div> <span>\"This word is out of place,this word is not in the right context.\" Vanessa spoke to herself. Off to her side was a cup of coffee that steamed. Her hand searched around her nightstand with tepid confusion until she finally got a hold of the brew. She lifted towards her mouth,but with forgetful care, spilled some onto her own brown skin.<br>\r\n<br>\r\n\"Yikes.\" She quickly placed the coffee down followed by her laptop. With a napkin she got right next to her coffee, Vanessa wiped down her gigantic breasts. Two large things that covered about a foot in front of her. Feeling a wetspot under her, Vanessa got up to reveal to the world an equally large ass. They jiggled tightly in her jeans,well,more like mega-jeans. The Egyptian woman looked down at where she sat once before to see a thin coffee stain there.<br>\r\n<br>\r\n\"Dammit. These sheets need to be washed. And I just put them on too.\" Vanessa moaned. She swayed her way to her closet to resheet her bed. <br>\r\n<br>\r\nThe woman known as Vanessa Zaki suffered a strange condition. After her puberty it seemed that whatever curve fairy that controlled the world of woman's assets had forgotten to give a stop to Vanessa.Her T&amp;A were generally great when she wanted to attract some handsome boys in her small town in Egypt,but due to the stigma there,she had to be sent over to her uncle's when she got too big.America was a much more interesting place compared to Egypt's landscape, and even better,she could easily hide her body in the winding paths of a city.<br>\r\n<br>\r\nBut even then her body caught up to her. She thankfully finished college before her body had gotten too the point where she was ridiculous in proportions, but she knew that it was inevitable.So after a quick goodbye to her uncle, Vanessa searched for a place to hide her body. Great Tracts had caught her eye,and with some clever disguises that she made for herself, Vanessa had managed to talk herself into a small home and job at the local news station.<br>\r\n<br>\r\nBack to the woman, Vanessa was currently in the middle of typing on her paper until a thought popped into her mind. Maybe she should go out and see what the place was all about. She had only been here for two months, it didn't hurt to explore the place. She did that when she was younger, seeing the strange new part of America would've gave her younger self a big 'ole smile.<br>\r\n<br>\r\n\"Although, I did do that when I was smaller.\" She bemoaned.</span></div></div>",
+            "created":1604725200,
+            "id":2936481,
+            "title":"Vanessa Zaki"
+        },
+        "12531311":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...the short college student.",
+                "...the woman with the giant implants.",
+                "...the hugely pregnant woman."
+            ],
+            "content":"<div class=\"\"><div> <span>Vanessa decided that a trip around town was indeed exactly what she needed. But she was still quite shy about her ever-growing figure, so she decided that it would be best to wait until night came around. She had heard that Great Tracts was much quieter at night, for reasons unknown.<br>\r\n<br>\r\nWith her mind set, she looked at her clock. 7:44. Not bright, but still not exactly \"dark\". She chose to wait until 8 to actually head out. That, and the news report she was working needed to be turned in first thing in the morning, so she really did have to get it down now.<br>\r\n------------<br>\r\n8 finally rolled around, and Vanessa had just managed to finish the report. Satisfied, she got out of her chair and went to her closet. She grabbed the biggest coat she could, one that would properly hide her cartoonish curves. Putting it on, she went to her front door, and put on her shoes. After grabbing her house keys, she finally left the house.<br>\r\n<br>\r\nShe was glad to have waited until nightfall. Aside from no one seeing her curves, night always seemed much more peaceful to her. It was comfortably quiet, the night was cloudless, allowing Vanessa to see the stars, and the air was nice and cool. It was always nice to go for a walk at night.<br>\r\n<br>\r\nSince she lived in the Farshine District, Vanessa decided to start her walk just wandering the streets of the district. There were a few shops and a park, so perhaps she could check those out. She had heard the shops stayed open late. So, picking a random direction, she began walking.<br>\r\n----------<br>\r\nIt was only a few minutes into her walk that she came across the first person. She had managed to find her way to a small convenience store, and was considering getting something to eat when she saw someone step out carrying a few bags.<br>\r\n<br>\r\nThe person was a pale young man, more then likely one of the nearby university students based on his beard and sweater. The odd thing was that he was unusually short. In fact, he was about 3 feet tall. Vanessa had never seen someone that short before.<br>\r\n<br>\r\nAfter he left, Vanessa entered the store herself. Quickly making her way to the snack foods, she picked up some chips and a few chocolate bars. As she did, she looked over at the alcohol, and saw another person.<br>\r\n<br>\r\nIt was an Asian-American woman, probably in her 20's, and she had what were possibly the largest breasts Vanessa had ever seen. They easily had to be three times the size of Vanessa's own bust. Based on their nearly perfect spherical shape, she had guessed they were implants. But why would someone get implants so large?<br>\r\n<br>\r\nThe woman went to the counter to pay for her booze, and after she left, Vanessa paid for her booze and left. It was there she saw the third and final person of the night.<br>\r\n<br>\r\nThis was another woman, Native-America from the looks of it, and slightly older then the huge boobed woman. She was on the opposite side of the street as Vanessa. The odd thing about was her immense stomach. It looked like a beach ball was under her dress. Vanessa occasionally saw a bump come from it, making her realize the woman was pregnant. Just how many kids was she having?<br>\r\n<br>\r\nVanessa decided she wanted to check out the park, and made her way in that direction. It took her a half-hour to reach it, and when she did, she sat on a bench.<br>\r\n<br>\r\nAs she did, she heard a voice call out to her.<br>\r\n<br>\r\n\"Miss, I think this wallet is yours. You left it at the store.\"<br>\r\n<br>\r\nTurning, Vanessa saw the...</span></div></div>",
+            "created":1604894940,
+            "id":2936939,
+            "title":"Night on the Town"
+        },
+        "125313113":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Small talk about life between the two",
+                "Another person shows up",
+                "Vanessa sees something that caught her eye."
+            ],
+            "content":"<div class=\"\"><div> <span>...Native woman.<br>\r\n<br>\r\nShe had a rough tone to her face, one born of attitude more than any hardship. She wore a flowered maxi skirt along with a red tubetop hidden behind a equally red jacket. All this did nothing to disguise a gigantic belly which hung below all of this. It was huge, almost like a genetic disorder. More mass than what should be humanly possible for a woman her size, even though she was around one-hundred and eighty centimeters tall,give or take. It was large enough to reach the woman's shoulders and far enough that the woman looked to try and compensate for its size.<br>\r\n<br>\r\n\"Um..thank you as well.\" Vanessa did a small bow with her head and reached over to grab her wallet. Her breasts strained against her coat,which made Vanessa note to buy a larger one for herself once she got the chance. She looked over the wallet which had a cute scarab beetle on it. Stereotypical when one considered where she'd come from, but she loved the tiny insects even though she hated most other bugs.<br>\r\n<br>\r\n\"Ehh. My brain isn't all there, I think its the weather.You feel the same,Miss...?\"<br>\r\n<br>\r\n\"Wickely. Erica Wickley.\" She said. Vanessa's eyebrow angled itself at the lady's name, she would've thought it would be something strange. Though Vanessa was named by her parents due to their love of how it sounded phonetically. Anyways, Vanessa stared closer at Erica's face in curisiotiy.<br>\r\n<br>\r\nErica's had a hawkish nose, not unlike her own,but much thinner in some respects. It crowned her beauty. Her hair was cut short,though not to a boyish extent. Her eyes were almond shape, but had another thing mixed in there. Most likely because she was a mix of two races.<br>\r\n<br>\r\n\"Excuse.\" The deep, yet seductively feminine, voice of Erica spoke. \"Are you alright Miss Zaki?\"<br>\r\n<br>\r\nVanessa was startled for a moment.<br>\r\n<br>\r\n\"How do you know my name?\"<br>\r\n<br>\r\nErica, face like a stature,pointed at Vanessa's wallet. The Egyptian lady groaned at her own social faux-pas. Erica didn't seem to mind though,she just stared at Vanessa,calm as a rock.<br>\r\n<br>\r\n\"Are you new to the town?\"The Native woman said it without any hint of displeasure. \"If you'd want I could show you around here.\"<br>\r\n<br>\r\n\"Oh please don't take time out of your life for me, I can't have an expecting mother do such a task.\"<br>\r\n<br>\r\nA dark frown crossed Erica's face,and for a moment Vanessa thought she hit a nerve. But Erica regained her more flaccid stoicism. <br>\r\n<br>\r\n\"No please, I'll be fine. It would burden my conscious if you got lost and I could've helped you.\" Erica kindly lended Vanessa a hand,the full-coated woman hesitantly took it. With that the two began to walk</span></div></div>",
+            "created":1604897340,
+            "id":2936952,
+            "title":"...the hugely pregnant woman."
+        },
+        "1253132":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Yuki Smith",
+                "Mrs.Abernathy",
+                "Another Resident IV"
+            ],
+            "content":"<div class=\"\"><div> <span>Yuki Smith:A half Caucasian-Asian,or more specifically, Japanese-American. Yuki Smith works at Mrs. Abernathy's Mansion as a maid. Due to some envy at the more, larger,members of the staff, Yuki decided to receive some implants to compensate. Unfortunately, the surgeons in Great Tracts are known for going a little overboard and the result is Yuki getting a bust much larger than she wanted. Now doing her best to pay off her first surgery as well as pay off to get them removed, Yuki is going to stay in her current form much more than she wants to.<br>\r\n<br>\r\nMrs.Abernathy:Matriarch of the Abernathy street, which is a good fifteen acre land that covers a major road for the town. Mrs.Abernathy is an old money who owns about three business along the street. <br>\r\n<br>\r\nEither from her genetic line, her own disorders,or just plain being cursed, Mrs. Abernathy's weight has always been adding onto her figure. While generally slim ten years ago due to vigorous training, the woman had blimped into obeses sizes. Strangely no medical complications had ever occurred inside of her.And even more strangely, her stamina and mobility is still that of her previous decade.<br>\r\n<br>\r\nHer own plight has given her some empathy towards the larger populace of the town. Mrs.Abernathy does her best to employ these afflicted young men and women or help them in anyway she can.</span></div></div>",
+            "created":1604811600,
+            "id":2936922,
+            "title":"Farshine District:Another Resident III"
+        },
+        "12531321":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Yuki gets a call from work, Mrs.Abernathy needs someone for a task",
+                "Yuki gets a call from Jack",
+                "Yuki  decides to do her own stuff"
+            ],
+            "content":"<div class=\"\"><div> <span>Cold air touched her nipples. She didn't cover her chest anymore due to how hot she got in the middle of the night. A yawn echoed in her room. A struggle to push herself up occured,which was something that happened everyday now, Yuki's hair was a mess by the time she was done with getting up. Her eyes looked around her room, her small cabinet of anime figures posed in their corner.<br>\r\n<br>\r\nShe rubbed her eyes in dazed confusion. A bit of drool dripped down onto her breast. Nobody would've thought the normally clean and proper woman could look so slobbish,but here she was. Yuki rubbed the side of her right breast,a itch had formed there. Her boob jiggled for a bit from her scratching. When the feeling had left, Yuki dazedly smiled. She yawned another yawn as she got up from her bed. She crashed down onto the floor with a yell.<br>\r\n<br>\r\n\"Goddang boobs, I do this ever other day.\" Yuki yelled. \"I had you both for three months now, why can't I remember?\"<br>\r\n<br>\r\nWith a small hand, Yuki did her best to pull herself back onto her feet. Apparently in her operation she was given a steroid of some sort that allowed her body to not rip itself in two. With that being said, she didn't want breasts that would rip herself in two. She just wanted to go from a B-cup to a D-cup. Not a B-cup to,by her own estimates, a cup that could've fit three heads in. Now back on her feet Yuki shuffled for a bit until she regained her composure. She wiped her mouth and fumbled with her hair.<br>\r\n<br>\r\n\"Bathroom where are you?\" She groaned out. Yuki walked bobbing all the while to her bathroom. She landed her breasts on her sink. Another yawn escaped her mouth's confines. <br>\r\n<br>\r\n\"Oooh man, nips.\" She joked once she saw her bare chest. Yuki opened a cabinet,grabbed a brush, and began her daily routine. Finished about an hour later, Yuki the proper one was back at it again. She walked into her kitchen,which connected to her loft. Bare chested still Yuki prepared a bowl of cereal to eat.<br>\r\n<br>\r\nIt was her off day today and she felt way too placid to prepare actual breakfast. She laid back in her chair to count to plops of cereal into her mouth. <br>\r\n<br>\r\n\"One, two,three,four.\" She mumbled out between each bite. What would Yuki do today?</span></div></div>",
+            "created":1604895000,
+            "id":2936940,
+            "title":"Yuki Smith"
+        },
+        "125313213":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "She goes to visit her 'special' group's hiding spot.",
+                "She wants ice cream from the local place",
+                "She wants to kill some time at the park "
+            ],
+            "content":"<div class=\"\"><div> <span>\"You know what? Its a me day today.\" Yuki proclaimed. She scarred down the rest of her cereal and went back up to dress herself.Most of her upper half wardrobe had to be replace,with only a few select shirts being left for her. She took out one shirt which had belong to a tall and muscular 'ex' of hers. Yuki put the 'T' over her chest and wiggled around a bit. She groaned a little from the sharp pain she received.<br>\r\n<br>\r\n\"I wish my bras would come.\" Yuki spoke.All of her current size bras were being cleaned right now. She had to get everything custom made from a store a mile or two outside the town's limits. Heck most of the women she knew had to get their clothes from that store. Back onto topic, Yuki decided it would be best if she wore no undergarments at the moment besides a pair of white laced panties.<br>\r\n<br>\r\nPutting on a nice pair of jeans, Yuki went back downstairs to start her day off. She walked out of her door and almost faceplanted into the ground. Only by her quick reflexes did she not drop down.<br>\r\n<br>\r\n\"I keep forgetting about that little drop.\" Yuki bemoaned. A neighbor of her's jogged by and gave the Japanese woman a wave. Thankfully,through rumors and Yuki's own talks, the implanted woman didn't need to explain her sudden buxom self. Yes,she did cause eyes to wander onto her, but unlike others of equal busty boobs,Yuki's breasts were easily explained. Though of course people asked why she was so big and that in turn made Yuki have to tell them about her mixup.<br>\r\n<br>\r\n\"What's the first thing on my agenda?\" Yuki told herself. She tapped the side of her head in thought until a bulb flashed on top of her head. She soon walked off to see her task done.</span></div></div>",
+            "created":1605562860,
+            "id":2941224,
+            "title":"Yuki  decides to do her own stuff"
+        },
+        "12531322":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Check on her in-house staff",
+                "Check on her maid service",
+                "Check out her dating service or street"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Mrs. Abernathy? It's six a.m.\" The familiar voice of Cassidy Abernathy's majordomo spoke from beyond her doors. On top of the large emperor sized mattress was the scantily clad form of said woman. A groan echoed from her mouth while she got up from her bed. A yawn followed by her brushing her black locks out of her face gave the woman a nice shift into her normal routine. The bed beneath her creaked while she moved herself onto the floor.<br>\r\n<br>\r\nHer body jiggled like waves of an ocean. The woman grabbed a hold of a picture at the side of her bed,it was her ten years ago. At twenty-five years old, she was slim and bright eyed. Now,well,she still had the bright eyedness but the slim part had given itself up years ago.She was over four-hundred pounds,though her fat seemed to have wormed its way to certain spots. Her body had also been reinforced which allowed her to keep away from most medical complications. Sadly it seemed that the she was still gaining fat at a noticeable rate.<br>\r\n<br>\r\nMrs.Abernathy waddled her way over to the bathroom to prepare herself. While she undressed from the scraps of clothes she considered pajamas,she pressed a red button at the side wall. Immediately two women dressed as maids came in or maybe three for in one of the maid's hands was a seven inch woman done also in style. The one holding her was a tall,almost gigantic dark skinned woman,beside her was a equally tall pale skin lass. Both were around seven feet tall and were very conservatively dressed.<br>\r\n<br>\r\n\"Help me into the bath girls.\" Mrs.Abernathy spoke. She dumped herself into her large bath tub and waited for the water to turn on.A sigh escaped her lips. She gripped at a roll of fat with a few drops of disgust.<br>\r\n<br>\r\n<i>\"Where did this all come from?\"</i> She thought while her fat moved under the flow. The miniature maid stalked her way to Mrs.Abernathy's hair while it soaked. The two tall maids worked her flesh under the water.<br>\r\n<br>\r\nAfter forty minutes of bathroom related cleansing, Mrs.Abernathy walked out in nothing but her towel. Behind her was her maids.<br>\r\n<br>\r\n\"Mrs.Abernathy.\" Came the voice of her majordomo. Who appeared to be a woman with very elf-like ears. \"Your brother Isaac sends his daily news about the family business.\"<br>\r\n<br>\r\n\"Of course,what about my ventures though?\" <br>\r\n<br>\r\n\"What would you like to know about today?\"<br>\r\n<br>\r\n\"How about...:</span></div></div>",
+            "created":1605935400,
+            "id":2943408,
+            "title":"Mrs.Abernathy"
+        },
+        "125313221":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...Jean Paul",
+                "...Amelia",
+                "...Tina."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I would like to know how the rest of the staff is doing.\" Ms. Abernathy said.<br>\r\n<br>\r\n\"Understood.\" The majordomo replied. \"Well, I'm happy to report that head chef Jean Paul has finally been released from the hospital.\"<br>\r\n<br>\r\n\"Oh, that's good to hear.\" Ms. Abernathy replied. \"I still have to wonder how someone who's literally two-dimensional manages to break their leg.\"<br>\r\n<br>\r\n\"Stranger things have happened... too everyone in this manor.\" The majordomo replied.<br>\r\n<br>\r\nMs. Abernathy gave a solemn nod as she looked down at her own obscenely fat body. She then looked at the majordomo, a woman named Tina. Whatever magic, science, or what-have-you was in this town hadn't just changed her ears: it turned her into a full-blown elf.<br>\r\n<br>\r\n\"What about Amelia?\" Ms. Abernathy asked. \"Has she taken her elixer for the day?\"<br>\r\n<br>\r\n\"She has.\" Tina replied. \"We don't have to worry about her widening buttocks for 24 hours.\"<br>\r\n<br>\r\n\"Good. And has her witch friend come any closer to curing her?\" Ms. Abernathy asked.<br>\r\n<br>\r\n\"I'm afraid not.\" Tina replied. \"The curse is apparently stronger then she had initially assumed.\"<br>\r\n<br>\r\n\"I see.\" Ms. Abernathy replied. She then looked at Tina for a moment. \"How have you been lately?\"<br>\r\n<br>\r\nTina looked a bit surprised for a moment, before regaining her composure. \"I have been fine for the most part.\" She replied.<br>\r\n<br>\r\nMs. Abernathy frowned. \"And your fianc\u00e9?\"<br>\r\n<br>\r\nTina smiled. \"He's finally out of surgery.\" She replied. \"Though they had to put a metal rod in his femur.\"<br>\r\n<br>\r\n\"Oh.\" Ms. Abernathy replied. \"I'm so sorry.\"<br>\r\n<br>\r\n\"It's fine. He's a tough man.\" Tina said, smiling.<br>\r\n<br>\r\nMs. Abernathy thought for a moment, and decided to she wanted to spend the day with one of her workers. She decided to spend it with...</span></div></div>",
+            "created":1606330560,
+            "id":2945875,
+            "title":"How's the Staff?"
+        },
+        "1253132212":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Let's go to the garden",
+                "Nope the dining room",
+                "The garage? Somewhere else?"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Christina\" Ms.Abernathy pointed to the large white woman. \"You and Lamia go spruce up the place,leave Charlotte here to fix my schedule.\"<br>\r\n<br>\r\nCharlotte, evidently the small woman, bounced off the large black lady's hand and onto Mrs.Abernathy's perch. She made her way over the large woman's rotund body,her feet made tiny squish noises. Eventually she reached the other side of her where,on a desk, was a miniature version of a workplace desk. The other servants did a bow and walked out of the room leaving the trio behind.<br>\r\n<br>\r\n\"Tina go and get Amelia. And a pot of coffee for me.\" Ms.Abernathy shooed her away. Tina bowed before she headed out the door and away from her boss. Left in the room, Ms.Abernathy looked over to Charlotte as she worked. She tapped her fat breasts in thought seeing her adipose jiggle. She opened her mouth to speak to her servant.<br>\r\n<br>\r\n\"Charlotte,you've been working here for two years now,may I ask a personal question?\"<br>\r\n<br>\r\nThe seven inch woman looked over to her boss with a raised eyebrow. She placed her arms under her chin to stare at her boss. With a few licks of her mouth, she questioned her.<br>\r\n<br>\r\n\"What do you need to know?\"<br>\r\n<br>\r\n\"Were you always so...so small?\" Ms.Abernathy knew it was a sore point among most of her household as the upper echelons of her staff were changed by some outside influence, except Tina who was seemingly born with large ears. Even herself was affected,though she did search for a remedy to that fact. Charlotte leaned back into her tiny seat to ruminate over her boss' question.<br>\r\n<br>\r\n\"No Ms.Abernathy, I wasn't. I was ironically enough the tallest girl in school when I was fifteen.\"<br>\r\n<br>\r\n\"Really, you don't say.\"<br>\r\n<br>\r\n\"True, its all true.\" Charlotte went back to editing Ms.Abernathy's schedule. \"It was when I hit puberty that it turned around. I began to shrink instead of grow, you of course know my shock when that happened.\"<br>\r\n<br>\r\nSoon Charlotte related a short tale of her embarrassing height reduction until she was three feet tall. It was at that point that her parent's hidden her away,her own tale of meeting the town's 'network',and the eventual meeting with Ms.Abernathy. From a five foot-nine lass to the seven inch woman she was today.<br>\r\n<br>\r\nBut this wasn't about her, this was about Amelia. Who at the moment came stumbling through the bedroom door.<br>\r\n<br>\r\n\"Freakin hate this puffy outfi-hello Ms.Abernathy.\" Amelia spoke.Blocked from entering the room was Tina,the obstacle she had to surmount was Amelia's large ass. While Ms.Abernathy's doors were huge,it still be a slow push through to get back inside,combined with Amelia's raised arms, and it was downright difficult.<br>\r\n<br>\r\nDressed in a French maid's outfit,made with three times the material of one,was Amelia her head maid's second-in-command. She bustled in with her ass bouncing inside her skirt like a drum.<br>\r\n<br>\r\n\"Still don't know why I need to wear this, can't I wear my own clothes? I feel more comfortable in that\" If she hadn't been working for Ms.Abernathy for three years now, Tina would've thrown the lady out onto her ass. Which probably could've broken the sidewalk with how heavy it was.<br>\r\n<br>\r\n\"Please Amelia, we don't want to see you in your escort outfit.\" Tina sniped at Amelia. She never did approve of the head maid's choice of second-in-command. Amelia had just enough will not to stick out her tongue at her.<br>\r\n<br>\r\n\"I worked in a burlesque show, there is a difference.\"<br>\r\n<br>\r\n\"To some.\" <br>\r\n<br>\r\nTina rolled her eyes at Amelia's words. She stepped forward to help Ms. Abernathy to her feet. The woman had monstrous proportions,with an ass almost equal to Amelia,though with a little droop to it's size. Her belly strained her pajama's buttons as well as her breasts. Amelia did a small whistle of appreciation, not of lust mind you,but of Tina's expert control that didn't tip their boss over.<br>\r\n<br>\r\n\"Now then, what shall we do today Amelia, you've been chosen to spend time with <i>moi.</i>\" Ms.Abernathy said with a pop of her lips.<br>\r\n<br>\r\nAmelia swished her foot around in thought.<br>\r\n</span></div></div>",
+            "created":1608004440,
+            "id":2957126,
+            "title":"Ms.Abernathy:Tina"
+        },
+        "12531323":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Corrine Lane",
+                "Another Resident V"
+            ],
+            "content":"<div class=\"\"><div> <span>Corrine Lane: A recluse.She was known as the most kind and sweet woman in the district,but two years ago,all that changed. She completely shut herself off from the rest of the community.Nobody knows what brought about this change,but nobody likes it. Will a young woman named Fiona Britley figure out the mystery of Corrine Lane?</span></div></div>",
+            "created":1605133680,
+            "id":2938594,
+            "title":"Another Resident IV"
+        },
+        "125313231":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "\"Get me some water and measure me afterwards.\"",
+                "\"Roll me to the bathroom.\"",
+                "\"Tell me what's happening in the world right now.\""
+            ],
+            "content":"<div class=\"\"><div> <span>A groggy groan echoed from the throat of one sleeping lass. A small burp soon followed from this. The smell of blueberries filled the air around Corrine's nostrils. Her eyes slowly widened,the day had begun or at least she believed so. She mostly kept her windows covered to avoid any unwanted attention to herself.Partly because she was a huge blueberry with a pair of massive tits <br>\r\n<br>\r\nHer sad transformation all began when one day at the plant, a chemical spill happened. It was a disaster and thankfully most people cleared the ground floor to avoid the spill,all except poor Corrine. The plant worker was splashed with a mixture and was immediately brought to the hospital. While she was given a clean bill of health,barely a hour after being let go, consequence revealed its ugly head.Her expansion happening while she traveled back home.Corrine almost drove off the side of the road while she inflated. <br>\r\n<br>\r\nAfter a long and arduous pickup,Corrine's aunt managed to find a willing practitioner to fight on her behalf. Many battles were fought but eventually the plant paid Corrine enough wealth for her to live comfortably for the rest of her days. Which,Corrine did enjoy,but would've enjoyed a cure. Once done, Corrine's aunt managed to find a nice lot of land and used her contacts to anonymously build a place for her niece to live. They had to build the place around Corrine when the contractors were halfway done. <br>\r\n<br>\r\nFinished, Corrine's aunt then had the entire place furnished to suit her nieces needs and even hired a maid to help around. Which caused Corrine no end to her embarrassment. It felt like she had a babysitter again.<br>\r\n<br>\r\nCorrine yawned to announce her daily awakening. Her right eyebrow rose in annoyance.<br>\r\n<br>\r\n\"Did I get bigger again?\" She asked. Her blueberry body suffered an ever so slight expansion,a random event that made Corrine ever so larger each day. Some days she grew four inches around,while others barely a centimeter. She did know she used to be around six feet in diameter,now she was ten feet two years later. The plant eggheads didn't say when,or if,she stopped growing. And Corrine feared she just keep getting larger and larger forever.<br>\r\n<br>\r\n\"Uggggh.\" She moaned out. A knock at the door made her head turn.<br>\r\n<br>\r\n\"Miss Lane?\" The voice of Nia,her aunt's hired maid,came from behind it. \"Do you need any help at this moment?\"<br>\r\n<br>\r\nCorrine smacked her lips together before she spoke.</span></div></div>",
+            "created":1605671580,
+            "id":2941830,
+            "title":"Corrine Lane"
+        },
+        "12533":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "K.P Morgan's Family Store",
+                "Jill's Carpets",
+                "Other Places V"
+            ],
+            "content":"<div class=\"\"><div> <span>K.P Morgan's Family Store(sometimes called Morgan's Store):<br>\r\nAn 85,000 sq feet store, K.P Morgan's has been one of the few stores left in town that isn't a franchise. Passed down from K.P Morgan to his granddaughter K.D Morgan, the store has prospered in modern time and has yet to slow down. Not only through their friendly employees, but through one section which brings many people together. A section devoted entirely to strange and exotic food stuffs that other places dare not to own.<br>\r\n<br>\r\nJill's Carpets:<br>\r\nJust what it says,a normal carpet store. Just a normal carpet store. Normal.</span></div></div>",
+            "created":1602997200,
+            "id":2924310,
+            "title":"Other Places IV"
+        },
+        "14":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Samantha Collins",
+                "Jeanne Weiss",
+                "Maria Rodiguez",
+                "Jared Joe Johnson",
+                "Other people"
+            ],
+            "content":"<div class=\"\"><div> <span>Tourists, amirite?<br>\r\n<br>\r\nSamantha Collins: Top athlete of her cricut, she's taken a small detour to visit her sister who lives in Great Tracts.<br>\r\n<br>\r\nJeanne Weiss: German expressionist artist, she's come to Great Tracts due to rumors of very curvaceous men and women.<br>\r\n<br>\r\nMaria Rodriguez: She's just here to fix a broken pipe with the rest of her crew.<br>\r\n<br>\r\nJared 'Joe' Johnson: A big 'ole hillbilly boy whose family hasn't visited the town for over thirty-five years.<br>\r\n  </span></div></div>",
+            "created":1604206800,
+            "id":2932797,
+            "title":"Tourists"
+        },
+        "141":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Samantha hears a strange noise.",
+                "She sees something, it was big.",
+                "Samantha meets a resident of the town"
+            ],
+            "content":"<div class=\"\"><div> <span>Dressed in her peach colored tracksuit,Samantha jogged down the street of the cool town.It was her off season and the champion of the northeastern woman's track league had decided she want to stay with her sister for awhile.She usually circulated between her parent's and brother's places,but her parents were off on their own vacation and her older brother was in Canada.<br>\r\n<br>\r\nShe had arrived to her sister Kasey about three days ago. Her five-foot nothing sister gave the much taller woman a earful about her unannounced arrival. Eventually the two hugged and Samantha was now living in her sister's attic. Spacious,yet a little cramped, Samantha wished to run out and get to know where she'd be living for the next month or two.<br>\r\n<br>\r\n\"Strange place. A lot of the town has some weird architecture.\" Samantha noted. Most doors seemed huge enough to allow four people into them at one time.They were also tall, with some being ten feet high.This meant windows were small,cramp looking things.<br>\r\n<br>\r\n\"What's with these places? Do they have giants living here? I don't know, it all just seems like a waste of a buildings front.\" Sam stated. \"You could fit a car in some of these doors.\"<br>\r\n<br>\r\nSam continued her jog and mused on the origins for the large openings. The champion stopped for a moment, something was amiss.</span></div></div>",
+            "created":1604206800,
+            "id":2932840,
+            "title":"Samantha Collins"
+        },
+        "145":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Song Hye-Sun",
+                "Jane Doe",
+                "More Visitors"
+            ],
+            "content":"<div class=\"\"><div> <span>Song Hye-Sun: A notable Korean blogger, Song's known for her blogging about supernatural events around the country. Her visit to Great Tracts should've only taken two days,but strangely it seemed that her car had broken down.Now stuck here, Song decided the best thing to do was see what the town is all about.<br>\r\n<br>\r\nJane Doe:A NORMAL HUMAN BEING.</span></div></div>",
+            "created":1604811600,
+            "id":2936811,
+            "title":"Other Visitors"
+        },
+        "1451":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Song travels into the home",
+                "Song sees a variety of colored noses",
+                "Song gets a phone call."
+            ],
+            "content":"<div class=\"\"><div> <span>\"There's random building numbah three. Hi building number three.\" Song fingered gun the beige structure as she moved down the sidewalk. She looked down at her phone to see if she was still on the right path to her destination. <br>\r\n<br>\r\n\"I didn't want to stay here for more than a day,but it looks like I am.\" Song mumbled under her breath. The Korean woman only wanted to visit one of the town's attraction,but fate had other plans. Her car's tires were totaled by nails--who left nails in the middle of a road--which had stranded the young woman. Her car,now in the shop,would take about another day or so of repairment. And from that Song decided to continue her look around town.<br>\r\n<br>\r\nShe could hear a group of youths talk about her in hushed whispers as she turned a corner. It was probably due to the fact she resembled a character from some popular game everyone loved. The woman's name was Devo and she was from Overlord or something. Anyways, she didn't resemble that woman at all. Her hair was black,not brown! True she did stream,but she did only exploration and horror. True she did wear colorful clothing,but only to help her get identified if she got hurt. True she did chew gum and do selfies....anyways she was different from that character.<br>\r\n<br>\r\nShe continued her way towards her destination,while at the same time she pondered where she was. Great Tracts was supposedly the most haunted medium town in America. A very narrow superlative but one that did have some merit to it. With a cemetary, fifteen noted buildings,one abandoned factory,one campfire story woods and mountains,and assortment of 'Mom and Pop' stores, it was easy to see why this was the case.<br>\r\n<br>\r\nSong plopped into her mouth a small piece of gum,she steadily blew it up until it popped. A small ding from her device told her she had arrived at her target. It was a rather average looking building,with architecture a little on the anachronistic side.It was a style that hadn't been seen since the nineteen-fifties. Song scratched her head for a bit before she soon walked up the steps.<br>\r\n<br>\r\n\"Hello?\" She called out.<br>\r\n<br>\r\n\"Oh hey.\" A young brunette woman spoke.She pointed at a sign to her right. Song blinked for a moment, she moved her hand down to her pocket until she found a Hamilton. She gave it gently the receptionist.<br>\r\n<br>\r\n\"Going to look the Hallard House,huh?\" The brunette woman said. \"Seeing what the crazy inventor-ringmaster-philanthropist was all about?\"<br>\r\n<br>\r\n\"Well yeah when you say it like,who would ever want to see what this old creep has in his house?\" Song replied. \"So is this place really as haunted as they say? Can I really see the Hallard family and associates mingle in the halls on a cool day?\"<br>\r\n<br>\r\n\"Maybe. If you see them,tell them that 'Jane' would like to have a word with them. Seems like they keep knocking down picture frames.\" Jane evidently joked. Song nodded and was about to travel deeper into the house right until she was stopped by Jane's voice.<br>\r\n<br>\r\n\"Oh,and also, don't take any pictures or videos inside our buildings. This place doesn't have cameras so I'm banking that you have a smidge of integrity.\"<br>\r\n<br>\r\n\"What happens if I do take a picture?\"<br>\r\n<br>\r\nJane just gave a Song a slight shrug and grin.She creepily wiggled her fingers at Song.<br>\r\n<br>\r\n\"The ghosts will follow you until you leave this town.\" </span></div></div>",
+            "created":1607418780,
+            "id":2953390,
+            "title":"Song Hye-Sun"
+        },
+        "14511":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...cursed mirror in the attic.",
+                "...group of spirits who possess others.",
+                "...succubus in the basement of the house."
+            ],
+            "content":"<div class=\"\"><div> <span>Thanking Jane for the information, Song turned around and walked out of the Hamilton. She wanted to start her investigation on the hauntings of Great Tracts right away. After all, she wasn't exactly planning on being in town much longer once her car got fixed.<br>\r\n<br>\r\nWhile Song did stream horror readings and obscure locales, one thing she was most known for was her investigations. She would do what she could to get to allegedly haunted or cursed locations, so she could prove if they truly are supernatural or not. So far, the investigations haven't really proved... well, anything. Sure, she'd get some odd noises or weird shadows, but those could be easily explained. Otherwise she's found jack squat.<br>\r\n<br>\r\nBut with all the things she'd heard about Great Tracts, Song had a feeling that she was finally going to find something.<br>\r\n<br>\r\nAs she walked down the streets of Great Tracts, she soon realized she had no idea where the Hallard House actually was. She managed to flag down the first person she saw, a young woman who was leaving a grocery store. She was about to ask where the house was, but the words died in her throat when she saw how absurdly large the woman's chest was.<br>\r\n\"Do you need something?\" The woman asked.<br>\r\n<br>\r\n\"Oh, uh, I'm looking for the Hallard House.\" Song replied.<br>\r\n<br>\r\n\"Well, you're nowhere close. The Hallard House is on the complete opposite side of town.\" The woman replied.<br>\r\n<br>\r\n\"Darn.\" Song muttered. \"Thank you Miss...\"<br>\r\n<br>\r\n\"Yuki.\" The woman replied. \"And since you probably noticed, these are implants.\"<br>\r\n<br>\r\n\"But... how...\" Song asked.<br>\r\n<br>\r\n\"Some very overzealous doctors.\" Yuki replied, before walking off.<br>\r\n<br>\r\nSong watched Yuki leave, before turning in the opposite direction and heading for the Hallard House.<br>\r\n--------<br>\r\nAfter a half-hour, Song finally arrived at the Hallard House. As she looked at the large, ancient house, Song thought about the stories of the house. Not only were the spirits of the Hallards allegedly still in the house, there was also stories about a...</span></div></div>",
+            "created":1607552280,
+            "id":2954442,
+            "title":"The Hallard House"
+        },
+        "145112":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Song puts the nose on",
+                "Song doesn't do it until she's out of the home",
+                "Song gains a new audience."
+            ],
+            "content":"<div class=\"\"><div> <span>...group of spirits who possess others. Apparently Mr. Hallard entertained a group of ectoplasmystics who dallied in his abode. Each night they do their best to contact the other side. Their endeavors however caused a fell curse to pass.For when they left this matter world they were drawn to this house instead of reaching the afterlife.<br>\r\n<br>\r\nOr so the rumors and whispers say.<br>\r\n<br>\r\nSong,well,she always believed there was a chance at the supernatural world existing,but she had way too many encounters.She was jaded right now,but she still enjoyed these small spots of history. The home was well maintained and Song thought the company that owned the house probably fixed the place for guests. She was about to take her camera out,until she remembered the woman's words.<br>\r\n<br>\r\n\"I'm gonna make my way to those mystics room and maybe visit the attic or basement.\" She said to herself. Song continued her walk through the home. She could see glass encased objects,little plaques,and the home gewgaws. Unaware of the various intangibles that floated through the home.They barely gave the woman a second glance, well some of them did, due to her features that most of the others didn't possess.<br>\r\n<br>\r\n\"Hrmph? A Korean? I don't think this lass isn't from that encased archipelago.\" One ghost told the other.<br>\r\n<br>\r\n\"Japan isn't a archipelago, its an island.\"<br>\r\n<br>\r\n\"No, if its multiple, its a archipelago.\"<br>\r\n<br>\r\n\"Gentleman and woman, please calm yourself, Mr. Hallard is kind enough to give us sanctuary.\"<br>\r\n<br>\r\nA young brunette, or more accurately, a young dead brunette stared at Song. She raised her finger to her head and pointed at Song. She opened her mouth, which in turn relayed Song's surface thoughts. The four ghosts looked at each other in surprise.<br>\r\n<br>\r\n\"So she wants to see the supernatural right? Why don't we give her a show.\"<br>\r\n<br>\r\n\"Do we call the others?\"<br>\r\n<br>\r\n\"No, the rest of our order doesn't have a sense of humor nor do this home's other occupants.\"<br>\r\n<br>\r\n\"How about that trumpet,put some little ghost touch that we have?\"<br>\r\n<br>\r\nThe four argued for a moment until they were done. Ideas mixed and pulled together until they resulted in a strange concotive plan which involved the nose of dead clown Senior Sadness. Who was thankfully not dead in this home, though he did have strong ties to it. They believed they had everything in order,all except on what the nose did. True they did want to change the woman into a fool,but they did mixed up a word or two in their speedy session of planning.<br>\r\n<br>\r\nWhile all this happened, Song had just walked out of the kitchen to see the clown nose in front of her. It was a room or two away from her,Song didn't know that though.She grabbed a hold of it.<br>\r\n<br>\r\n\"I guess...I can keep it?\" She spoke. A few whispers and nudges by the ghastly apparitions made Song hold onto the costume piece instead of taking it back to its previous spot.<br>\r\n<br>\r\n\"She got! How much do you bet she'll put it on now?\"<br>\r\n<br>\r\n\"Bet with what Mavis?\"<br>\r\n<br>\r\nThe ghost bickered while Song continued to look around the home. All while in her hand she carried the bright red nose.</span></div></div>",
+            "created":1607758080,
+            "id":2955639,
+            "title":"Song: The Guests"
+        },
+        "1452":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...a woman upset about her flat chest.",
+                "...a female jogger.",
+                "...a girl who already seemed to have a big butt."
+            ],
+            "content":"<div class=\"\"><div> <span>Great Tracts has a rather... peculiar quirk in that it seems to attract all manner of people, in all manner of shapes and sizes. Some had body weights in the upper 500's, some had breasts equal to beach balls in size, and others had pregnancies that seemed to last years instead of months.<br>\r\n<br>\r\nThat's where the little towns other quirk comes into play: it's ability to hide all these people. Most are self-imposed, others look normal unless outside forces intervene (though one has no problem going out in public since her bust size is due to implants). Otherwise, to people on the outside, Great Tracts was a normal town.<br>\r\n<br>\r\nSomething a particular person was planning to change.<br>\r\n--------<br>\r\n\"And one and two, and one and two.\" A figure chanted to herself as she watched the workout video in front of her, moving in time with the instructor on screen. Now, in any other situation, this would look normal, were it not for two things.<br>\r\n<br>\r\nFirst, everything in this person's room looked like it was taken right out of the 1980's, with bright pink walls, a brightly colored bed with geometric shapes on it, an 80's styled TV and computer, posters of various 80's bands and singers on the walls, and an 80's radio playing synth-pop.<br>\r\n<br>\r\nThe other odd thing was the fact that the figure in question, who had taken the name Jane Doe, was a Grey Alien. An honest to goodness extraterrestrial.<br>\r\n<br>\r\nShe was a tall woman, standing just over 6 feet in height. She was completely bald with  a slightly enlarged cranium, had big solid black eyes, two small holes for a nose, and full lips. Her skin was, fittingly, slate grey, and her limbs were long. But unlike many depictions of Grey's, she was not skinny. In fact, she was possibly the curviest woman in Great Tracts right now.<br>\r\n<br>\r\nHer breasts were very large, blocking most of her torso from view (she was only slightly smaller then the before-mentioned implant woman), and seemed to actively laugh in the face of gravity, remaining round and firm. Her hips flared out wide enough to touch door frames, and her thighs were very thick. Her butt was equal in size to her bust. She happily referred to it as her \"dump-truck ass\".<br>\r\n<br>\r\nAnd both bust and butt were stuffed tight into a bright pink 80's workout leotard, with day-glo yellow leggings and matching red and white sweat-bands.<br>\r\n<br>\r\nIn short, our alien girl was a BIG fan of the 80's.<br>\r\n<br>\r\n\"OK, I think that's enough for today.\" Jane said as she walked up to her TV, and popped the workout VHS out of the VCR. \"Morning workout's done, so it's time to get to work.\"<br>\r\n<br>\r\nJane smiled as she walked over to her old computer, boobs and butt bouncing the whole way. Though it looked old, said computer (and in fact, all the tech in her house) actually contained advanced technology from her home planet. She's just dedicated to the 80's look.<br>\r\n<br>\r\nSitting down, Jane started up the computer, and checked for any potential test subjects. She instantly found one in the form of...</span></div></div>",
+            "created":1608006780,
+            "id":2957142,
+            "title":"Jane Doe"
+        },
+        "14522":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Jane leaves Cindi to her changed body",
+                "Jane takes Cinidi away",
+                "Someone sees the duo."
+            ],
+            "content":"<div class=\"\"><div> <span>...a slim jogger that ran down the concrete walk of a park. Jane flicked her eyes over the screen, her species retained more information while processing it much quicker than a human. If a human were to look over her array their mind would probably not comprehend what it was seeing. Jane though didn't accept many visitors on her ship that weren't of her own species, so that wasn't that much of a problem.<br>\r\n<br>\r\n\"Ooooh la-la, do I spot a pretty.\" Jane announced. The woman looked somewhat like an Olsen Twin, though with a longer face, younger features,taller body,and shorter hair. She was in a Adidas tracksuit,sky-blue,and with yoga pants tight around her bum. Jane flicked her hair back and forth with the woman's walk.<br>\r\n<br>\r\n\"Got go fix myself up and shunt myself down.\" She said to nobody. Jane clapped her hands together,which in turn caused a floating robotic humanoid to appear next to her in a flash.It was standard to have some form of strange comedic relief in a normal human family right?<br>\r\n<br>\r\n\"Hoooollloooo Miss.\" The butler spoke. <br>\r\n<br>\r\n\"Jeebs, nice to see you again. Got my nose?\"<br>\r\n<br>\r\n\"Yes.\"<br>\r\n<br>\r\n\"Ears?\"<br>\r\n<br>\r\n\"Yes.\"<br>\r\n<br>\r\n\"Makeup?\"<br>\r\n<br>\r\n\"You can do it yourself.\"<br>\r\n<br>\r\n\"Contact lenses?\"<br>\r\n<br>\r\n\"Of course.\"<br>\r\n<br>\r\n\"Hair to cover my beautiful brain?\"<br>\r\n<br>\r\n\"You're already wearing it.\"<br>\r\n<br>\r\n\"Thanks then.\" Jane spoke hastily before she grabbed Jeebs' assortment of loot and ran over to her teleportation platform. She pressed a button on the side of her leotard. A loud woosh came from between her cleavage as er leotard constricted inwards. Her monstrous curves. She shook herself a little before she flicked her sweat band to get down onto the planet. All the while changing in her teleportation beam.<br>\r\n------<br>\r\nCinidi's jog had almost ended. Her breath was slowly going out as she reached her end. <br>\r\n<br>\r\n\"I'm still doing good,NO,better than good.\" She spoke aloud. Her shoes clicked against the concrete walkways until someone stopped her. It was a strangely tall woman whose aesthetic wasn't of this current day and age. She was over six feet tall and sort of long armed. Her eyes were large almond shaped things and she was a little uncanny. More so do to the way her makeup was plasterd on her.<br>\r\n<br>\r\n\"What?\" Cindi spoke in confusion.<br>\r\n<br>\r\n\"Oh, like hi! Just hold still for a moment.\" The woman spoke. She took out her lipstick, aimed it at Cindi's chest,and fired. Instantly a pink beam smacked against her chest. Agog,Cindi looked down only to see not entry wound or burn mark on her. She breathed a sigh of relief until she could feel her boobs expand inside of her shirt and bra.<br>\r\n<br>\r\n\"Hmm. Should be a little faster.\" The woman scratched her head.</span></div></div>",
+            "created":1608093180,
+            "id":2957662,
+            "title":"Jane Doe: Jogger"
+        },
+        "145222":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...dropping her disguise, revealing her alien self.",
+                "...summoning Jeebs.",
+                "...pulling out some... really weird sunglasses."
+            ],
+            "content":"<div class=\"\"><div> <span>Cindi could only stare in shock and anger as her previously modest bust ballooned in her shirt. She was a jogger, a damned good one at that. Won her first marathon in college, and kept winning ever since. No way bigger boobs would help with that.<br>\r\n<br>\r\n\"What the hell was that? What did you do to me?\" Cindi yelled, quite angry.<br>\r\n<br>\r\n\"Woah! Take a chill pill!\" The weird woman in front of Cindi said. \"I'm tryin' to help. Don't you want a totally bodacious bod?\"<br>\r\n<br>\r\nCindi just stared at the woman, utterly bewildered by what she just heard. Even this woman's speech patters were completely out-dated. The last time Cindi heard ANYONE in her life say \"chill pill\" was when she was in middle school... in 1997.<br>\r\n<br>\r\nCindi was about to question what in the actual hell the woman in front of her said before she realized something: she was still growing. By this point, her boobs had achieved basketball size.<br>\r\n<br>\r\n\"How am I supposed to jog like this?\" Cindi asked. The woman seemed to not notice her question, instead staring at her chest.<br>\r\n<br>\r\n\"Huh... shoulda stopped by now.\" The woman muttered. \"They're getting hella big. I should do some checks.\"<br>\r\n<br>\r\n\"HEY! Fix me!\" Cindi yelled, finally getting the woman's attention.<br>\r\n<br>\r\n\"Hey, like, chill!\" The woman said. \"Look, I can help, if ya want. My home's nearby.\"<br>\r\n<br>\r\nCindi wanted nothing more then to find something to shut this woman's mouth, but her boobs were still growing. If this woman made them grow, she can make them shrink.<br>\r\n<br>\r\n\"Fine, you'd BETTER fix this!\" Cindi said.<br>\r\n<br>\r\n\"Radical!\" The woman yelled. \"Name's Jane Doe! You're gonna love my place. It's totally bitchin'!\"<br>\r\n<br>\r\nToday was not going to be Cindi's day, she just knew it.<br>\r\n-----<br>\r\nBeing in Jane's house was a... surreal experience. It felt less like a house and more like a museum to the 80's. Hell, even the outside looked like the house from Family Matters. How dedicated was this woman to a bygone era?<br>\r\n<br>\r\nThere were old TV's, an 80's kitchen, weird 80's art, the couch Cindi was currently sitting on was 80's styled, and a boombox was playing synth-pop. Though as much as Cindi was loathed to admit, the synth-pop wasn't too bad.<br>\r\n<br>\r\n\"So, whaddya think of my place?\" Jane said, sitting next to Cindi on the couch. \"Way cool, right?\"<br>\r\n<br>\r\n\"Look, I just want my boobs back to normal, OK?\" Cindi said, looking down at her chest. Indeed, it was starting to fill her lap.<br>\r\n<br>\r\n\"Oh right! Forgot about that. I'm such an airhead sometimes.\" Jane said, before...</span></div></div>",
+            "created":1608097380,
+            "id":2957679,
+            "title":"House Visit"
+        },
+        "1452223":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "It was Cindi's biology; residents of the town were strange",
+                "Problem on Jane's part, knob was a little higher than normal",
+                "It was the town's aura or atmosphere or something."
+            ],
+            "content":"<div class=\"\"><div> <span>She pulled out some really weird sunglasses. The alien flaunted the specs for a moment while she held the glasses in her hand. <br>\r\n<br>\r\n\"Let's finally get to checking you out, it's been an hour already.\" Jane stated. Cindi's eyebrows rose at the words before she looked down to see her breasts straining her shirt.Two nipple tips poked through the strained material. Her mouth gaped wide open at the sight before she saw Jane holding a gem-like object,<br>\r\n<br>\r\n\"Forget what I said and fall asleep.\" Jane spoke. Cindi did so, though it did nothing to combat her growth. Jane sighed, this was the seventh time she had to do this. She turned on her glasses to investigate Cindi's biology as she reminisced about her prior memories.<br>\r\n----<br>\r\n<i>\"Hello my abode! \" Jane yelled out. Cindi eyed the house warily as Jane waltzed through. She glanced at all the 80's weirdness that Jane had placed around in haphazard amounts.<br>\r\n<br>\r\n\"Wait, how did we get here? I remember a flash of light and now wer-\"<br>\r\n<br>\r\nJane quickly walked over to Cindi. She searched within her chevage to bring out a small gem to deal with the girl's question.<br>\r\n<br>\r\n\"Knew that a zicomatic gem would be in handy.\" Jane stated. \"Forget the light, we walked here.\"<br>\r\n------<br>\r\n\"Mistress? We have a guest?\" Jeebs asked his master. He walked out of his hold to greet Cindi whose boobs were a little larger than before. Cindi gasped at the sight of the robotic butler. Jane,who was in the middle of cleaning herself off, walked back in to spot the scene. Cindi looked over to her to gape once more. <br>\r\n<br>\r\nJane sighed as she pulled her gem back out of her bosom. Jeebs stared at the scene in confusion.</i><br>\r\n-----<br>\r\n<i>Jane sighed and released the seal on her leotard, instantly she blew back up to her previous proportions. Cindi gaped at the sight of this. Jane titled her head in confusion for a moment until she realized what she had done.<br>\r\n<br>\r\n\"Gosh darnit.\"</i><br>\r\n------<br>\r\nJane gazed down with her glasses and inspected ever corner of Cindi's body. Until she realized what setting she was on.<br>\r\n<br>\r\n\"Ooops.\" She cried out with that she switched into the setting she actually wanted. She scratched her chin in thought, what had gone wrong with her ray? </span></div></div>",
+            "created":1608554340,
+            "id":2961008,
+            "title":"Jane:Sunglasses"
+        },
+        "14522231":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...dropping her disguise.",
+                "...calling for Jeebs."
+            ],
+            "content":"<div class=\"\"><div> <span>The sunglasses finally gave Jane a reading, and she figured out what the problem was: seems it wasn't her ray, but Cindi herself. Cindi's body seemed to carry the genetic code for breast hypertrophy, a rare condition that caused uncontrolled breast growth.<br>\r\n<br>\r\n\"Oh, this is completely bogus.\" Jane said. \"Guess my beam kicked her growth into maximum overdrive. HEY JEEBS!\"<br>\r\n<br>\r\n\"Yes?\" Jeebs asked, the holographic human appearing.<br>\r\n<br>\r\n\"I need you to run a scan on Cindi's family history.\" Jane said. \"I need to know if breast hypertrophy runs in her family.\"<br>\r\n<br>\r\n\"I would love to do that... if I knew Cindi's last name.\" Jeebs replied.<br>\r\n<br>\r\n\"Oh... I'm such a dipstick!\" Jane yelled. \"I forgot to ask her name!\"<br>\r\n<br>\r\nA groan from the couch caught Jane's attention. It seemed that Cindi was coming to. Jeebs immediately vanished as Cindi woke up.<br>\r\n<br>\r\n\"Mornin', sleepyhead.\" Jane said. \"You have a totally tubular dream?\"<br>\r\n<br>\r\nCindi stared at Jane, then looked at her boobs. As before, they were still growing, straining her shirt more and more.<br>\r\n<br>\r\n\"OK, I have a possible explanation for your boobs blowing up.\" Jane said. \"But I gotta ask this first: does your family have a history of big boobies?\"<br>\r\n<br>\r\nCindi thought for a moment.<br>\r\n<br>\r\n\"Actually, yes.\" She replied. \"My mom was an G cup before she got a reduction, my cousin is an H cup, and my sister...\" She trailed off.<br>\r\n<br>\r\nJane looked at Cindi worried.<br>\r\n<br>\r\n\"My sister started growing at 21. And once she started growing, it seemed like she never stopped.\" Cindi said. \"Every year, she just got bigger and bigger. She finally stopped growing at 29, and by that point she was so big she couldn't fit through normal doors anymore.\"<br>\r\n<br>\r\n\"I'm sorry to hear that.\" Jane said.<br>\r\n<br>\r\n\"It's not all bad.\" Cindi said. \"She's in the Guinness Book of World Records for biggest natural boobs. Amanda Sayer, quadruple Z cup.\" Cindi sighed. \"I was always worried I'd end up as big as her, or even bigger. And now I might, and it's your fault!\"<br>\r\n<br>\r\nJane sighed, before...</span></div></div>",
+            "created":1608784260,
+            "id":2962671,
+            "title":"Cindi's Biology"
+        },
+        "15":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Holidays",
+                "Adventures",
+                "Everyday Occurrences",
+                "Crossovers"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This will be for miscellaneous adventures or certain events that concern a Great Tracts citizen.</span></div></span></div>",
+            "created":1601614800,
+            "id":2914260,
+            "title":"Events/Misc"
+        },
+        "151":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Halloween",
+                "Thanksgiving",
+                "Other choices."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So what shall it be?</span></div></span></div>",
+            "created":1602133200,
+            "id":2917912,
+            "title":"Holidays"
+        },
+        "1511":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Halloween(2020)",
+                "Halloween future."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So what shall it be?</span></div></span></div>",
+            "created":1602219600,
+            "id":2917914,
+            "title":"Halloween"
+        },
+        "15111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "It opens on a gothic castle",
+                "It opens in on a village",
+                "It opens elsewhere."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I am generally surprised that there is still a movie store with physical discs around this county.\" Missy spoke aloud to no one in particular. It was just to give sound into a silent store. The rainstorm outside with the wind howling was not a comforting sound. So Missy, who got off in about three hours, did her best to occupy herself within the store.<br>\r\n<br>\r\nConverted from a 1830's townhouse, 'The House of the Hill' DVD/Tape store was one of the town's local landmarks.Somehow still being able to bring in more than enough folks to keep the business afloat.Normally very comly, the outside weather made it the darkness of some parts look like the emptiness of space.The interior had become quite foreboding, certain areas had faulty wiring which caused the lights to flicker or caused strange noises to occur.<br>\r\n<br>\r\nMissy occupied herself by reorganizing the basement, where all the old videos were. From DVDs to cassettes to tapes, it always seemed that somebody in town wanted to buy from here. Ironically the deep basement was one of the less terrifying parts of the old house. With actual lights that were still on and a small boombox to hear music on. On her butt, Missy piled together movies into their respective genres before she categorized that into what technology they were made for.<br>\r\n<br>\r\n\"After this, I may try to do the attic.\" Missy said to herself once more.She then remembered the strange memorabilia up there and decided against it.<br>\r\n<br>\r\nShe had come into town a little over a month ago and took her job in the store two days before this point. The brunette with a ponytail was slowly becoming more accustomed to her job though she still found certain peculiarities of the place. For one, she was told never to question the people who came in with gigantic clothing, like coats or skirts or even at one time a wetsuit. The other thing she was told was to never question the contents of the four red box in the basement. Not because it was weird, but because it contained...quite lewd material.<br>\r\n<br>\r\nMissy had already saw the cover of one of the videos and she had turned a bright red. So the woman vowed never to do so again unless told. <br>\r\n<br>\r\n\"All right I think I got the horror section done now lets....wait,what's this?\" Missy spoke. She picked up a blocky tape and looked at the cover. On it was a supermodel looking woman with red lips, red hair,and green eyes. The only conservative part of herself was the oldstyle puritan hat she wore. Everything below was longcoat that flashed a bodysuit that was just three pieces away from becoming a bikini.<br>\r\n<br>\r\nComedically, the woman wore one of the most determined expression Missy had ever seen on a woman's face. She scratched her head in thought. <br>\r\n<br>\r\n\"Van Helsing's Horror Pack\" Missy said. \"Includes:The Fullest Moon,The Blue Lagoon's Deeps, Countess Dracuela, Frakenstein's Wife,Ms Jekyll and Miss.Hyde,The Invisible Woman, Haunting of the Manor,Mummies,and The Phantasm of the Opera.\"<br>\r\n<br>\r\nShe flipped it around to stare at the back. Images showed scenes from what appeared to be a Hammer film,with its signature grainery appearance of the 1930's to 50's. But a woman so lewdly dressed would probably never fly during those days,so what was this?<br>\r\n<br>\r\nCuriosity getting the better of her,Missy went over to the TV that was placed down in the basement-so that clients could see if their disc or tape still worked-and plopped it inside. She went through all the motions until she eventually saw the opening screen.</span></div></div>",
+            "created":1602219600,
+            "id":2917933,
+            "title":"Halloween(2020)"
+        },
+        "151111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Van Helsing goes and meets the occupants of the town/courtyard"
+            ],
+            "content":"<div class=\"\"><div> <span>Missy watched the credit crawl and waited for the opening scene. Almost as if it was a stronger mirror of the outside world, the land of wherever the setting was located was currently going through a deluge.Floods came crashing through the forest's trees. The moon's silver beams were the only lighting in the entire place,though that was soon eclipsed by the shining lights of a carriage's lantern. It's lights pierced the water fog and the shadowed forest it drove through.<br>\r\n<br>\r\n\"We're almost there Miss.\" The driver, a deep voiced man, spoke to whomever was the current occupant of the carriage. The horses whined in distress from the rain,yet still they continued onwards. Soon the shot of an old, gothic castle came into view. The carriage was dwarfed by the size. Even with barely any knowledge of architecture, Missy noted how utterly absurd the size was. The entire thing was more of Versailles palace than a gothic stronghold.<br>\r\n<br>\r\nStill it drove through the foreboding gates, inside the courtyard or was it stadium field, were small houses and taverns. Some folks were watching the rain pour down, while others watched their children play in said rain. One or two looked towards the carriage,but none seemed to deem the vehicle any note.<br>\r\n<br>\r\nOnce it stopped the doors to the carriage slowly creaked open to reveal the titular Van Helsing. Who was still clad in her almost-bikini. Yet this didn't stop her slow strut outside. <br>\r\n<br>\r\n\"Thank you dear driver.\" She spoke to the man. The torrent seemingly not muting her own voice. <br>\r\n<br>\r\n\"Your welcome Professor,I'll be hitching the horses then.\" He replied.With that, he drove off, leaving the scandalously dressed woman alone.Her attire was so out of place compared to the 18th century peasants, that Missy softly chuckled in response.</span></div></div>",
+            "created":1602219600,
+            "id":2918333,
+            "title":"It opens on a gothic castle"
+        },
+        "1511111":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "The door opens, revealing the Countess."
+            ],
+            "content":"<div class=\"\"><div> <span>The scene faded to the inside of the courtyard, with a small group of people walking about. Van Helsing walked through this small group, who regarded her with suspicion. Missy assumed it was because she was a stranger, but Missy still couldn't help but notice the complete disconnect between the normal 18th century outfits, and Van Helsing's scandalous outfit.<br>\r\n<br>\r\nEventually, Van Helsing entered what looked like a tavern filled with people. The owner, a burly man with a large beard, only briefly looked up from the bar-top, before returning to cleaning it. Van Helsing walked up to the bar, and sat down. The owner looked up again, and grunted.<br>\r\n<br>\r\n\"What'll it be, miss?\" The owner asked.<br>\r\n<br>\r\n\"Information.\" Van Helsing replied. \"I want to know all there is to know about the Countess.\"<br>\r\n<br>\r\nAll the sound in the tavern died as everyone stared at Van Helsing. Some looked afraid, others angry.<br>\r\n<br>\r\n\"Lady, you want no business with the Countess.\" One of the bar patrons said.<br>\r\n<br>\r\n\"Oh, and why is that?\" Van Helsing asked. She was met with silence.<br>\r\n<br>\r\n\"Listen to me, lady.\" The bar owner said. \"The Countess is not a person to trifle with. No one in the village dare go near her castle. If ye really want to go to her, though, take this.\" He then pulled out a wooden stake from behind the counter. \"A stake of Hawthorn wood.\"<br>\r\n<br>\r\nVan Helsing looked at the stake, before taking it. She simply nodded before leaving the tavern. She then opened her longcoat and put the stake in a pouch next to three others of the same kind.<br>\r\n<br>\r\n\"Smart girl.\" Missy muttered.<br>\r\n<br>\r\nThe scene then faded into the entrance of the castle. Van Helsing used the large gargoyle knocker on the door.</span></div></div>",
+            "created":1602306000,
+            "id":2918780,
+            "title":"A Vague Warning"
+        },
+        "15111111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "They head into the Envy wing to discuss the Countess' problems."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Oh hello!\" A woman's voice spoke from behind the iron door. Mixed in with that were the sounds of some sort of party going on. A creak of the iron doors made Van Helsing step back a little. A small, round and cute face peaked from the crack. Brunette hair tied into a neat bun with a general demeanor of joyful service. The personality one got if they'd served someone for many years without barely a peep of disagreement.<br>\r\n<br>\r\n\"Who might you be?\" The servant politely inquired. Van Helsing coughed and answered.<br>\r\n<br>\r\n\"Van Helsing. Professor Sarah Van Helsing; PhD and all the other alphabets in the English language. I'm here to see your mistress, there has been rumors of a dark force on your lands. May I come in?\"<br>\r\n<br>\r\nThe small brunette looked at Sarah for a moment before she nodded and smiled. She pushed the door open, which was surprising given how heavy it looked,so the Dutch woman could go inside.Van Helsing stepped in,around the front area of the castle were fifteen or so people speaking with one another. Elsewhere she could hear the faint echoes of a more...rambunctious party going on in the castle. Whether it was from the east of her or the west, Van Helsing could not say.<br>\r\n<br>\r\n\"My lady's annual party.\" The brunette stated. \"She loves to host events that run the line between scandalous and formal,almost like a reflection of herself.I almost forgot:R.M Renfield at your service.\"<br>\r\n<br>\r\nRenfield bowed to Van Helsing, who nodded in turn. She scanned the area to see the figures around her, the professor saw how different yet unified they were all dressed. They wore masks of animals, though they seem to stop at around seven different beasts. Those being:the cow, the raven, the goat,the lion, the pig,the mule,and the boar.<br>\r\n<br>\r\nThe guests clothes also seemed to be quite chaotic, but if one looked a little closer, could see a unifying color scheme. Pieces of red,yellow,green,purple,blue,brown,or orange.<br>\r\n<br>\r\n\"Interesting concept.\" Van Helsing noted. Renfield puckered her lips in thought until she realized what Van Helsing was referring to.<br>\r\n<br>\r\n\"Ah yes,each of those animals and colors are references to the mortal sins that men can enact.The front area of this abode is a lobby for rest. The rest of the wings are devoted towards the pleasures that each sin carries,all except my lady's tower that is, though some do get to explore it.\"<br>\r\n<br>\r\n\"And hopefully you'll shall see it too Ms.Van Helsing.\" A voice said. Van Helsing turned to her left and saw what was quite possibly the most ridiculous thing she had ever seen.<br>\r\n<br>\r\nMissy stared open mouth at the incoming figure.<br>\r\n<br>\r\nShe was ethereal beauty with raven hair done short, yet alluring. Her skin was pale to the point where in some of the lighting she seemed almost blue. Her face had just the right amount of exoctisicm where one could only tell she came from the eurasian connected continent.<br>\r\n<br>\r\nYet these weren't her most eyecatching pieces, instead both Van Helsing and Missy were drawn towards the count's bulbous breasts. They were practically stuffed into a little black dress, which would've been quite beautiful on the woman, if she didn't possess her pair of bazongas. They covered her entire upper chest and reached almost as wide as her shoulders. Gold trimmings were located around her cleavage as though they weren't noticeable enough.<br>\r\n<br>\r\n\"My Countess Draculei.\" Renfield spoke in a hasty tone and bowed.<br>\r\n<br>\r\n\"Greetings my fair servant, come help me guide Ms.Van Helsing here towards a much more...lively area. I feel as though some merriment would be needed in our coming talks.\" Draculei replied. Van Helsing still stared bug-eyed at the large boob woman.</span></div></div>",
+            "created":1602306000,
+            "id":2918825,
+            "title":"The door opens, revealing the Countess."
+        },
+        "151111111":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "The next day, Draculei shows Van Helsing around the castle."
+            ],
+            "content":"<div class=\"\"><div> <span>As the three walked through the halls, Van Helsing noticed the designs of a number of rooms in the castle, each seeming to pertain to one of the seven sins. But those were out of the corner of her eye, since Van Helsing couldn't seem to take her eyes of the Countess's bulbous bust. It jiggled and swayed with each step the Countess took.<br>\r\n<br>\r\nEventually, the three arrived at a large green room, filled with trinkets from other countries. Van Helsing assumed this was the Envy room. Renfield stood by the door.<br>\r\n<br>\r\nDraculei moved to a large green couch and sat down, her bust resting neatly in her lap. She motioned for Van Helsing to join her, which the professor did.<br>\r\n<br>\r\n\"So, to what do I owe the honor of the great Sarah Van Helsing visiting my home?\" Draculei asked.<br>\r\n<br>\r\n\"I've heard tell that this land is besieged by creatures of darkness.\" Van Helsing answered. \"Ghouls and demons attacking the townsfolk. I would like to offer my services to rid this land of them.\"<br>\r\n<br>\r\nMissy rolled her eyes as she watched the scene unfold. It was obvious Draculei was one of those creatures. She just wanted to scream at the screen and warn her, but she knew it'd be no use.<br>\r\n<br>\r\n\"Ah, yes. I've heard those rumors.\" Draculei replied. \"It is quite ghastly what's been happening. I'll gladly take your services. I'll see to it you have a room here to deal with these... creatures.\"<br>\r\n<br>\r\n\"Thank you.\" Van Helsing replied, eyes still glued to the Countess's massive bust. The Countess noticed this and chuckled.<br>\r\n\"They are quite marvelous, aren't they?\" Draculei said, hefting up her bust. \"They began growing some time ago. I must admit, I simply adore them. They are quite soft to the touch. Would you like to feel?\"<br>\r\n<br>\r\nFor a moment, it seemed like Van Helsing would take the offer, but she shook her head.<br>\r\n<br>\r\n\"No, thank you. I should retire for the evening. If I am to rid your home of these creatures, I need to be well rested.\" Van Helsing said. The Countess seemed somewhat sad at her offer being turned down, but dismissed it.<br>\r\n<br>\r\n\"I shall have Renfield take you to a room.\" Draculei said, before motioning for Renfield to do just that. As Renfield led Van Helsing out, Draculei watched, smiling.</span></div></div>",
+            "created":1602478800,
+            "id":2920111,
+            "title":"Rumors"
+        },
+        "1511111111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Let's begin our tour."
+            ],
+            "content":"<div class=\"\"><div> <span>Van Helsing woke up from her nap nd slowly brought herself up to speed. Missy watched as the woman moved like greased lighting and stepped right back into her bikini armor. Although,this one was colored green instead of her usual read. Now that she thought of it, where was Van Helsing's travel bag?<br>\r\n<br>\r\nAnyways, Van Helsing walked out of her room. All across the hallways were strung out guests with gaping mouths with dribbling wine. Van Helsing grimaced at the sight.<br>\r\n<br>\r\n\"Oh don't mind the guests, they'll be out partying once more.\" A woman who appeared to be more comly dressed than the animal wearers spoke. Van Helsing's eyebrow raised up. The woman was a mirror of Draculei, in terms of body proportions. Her bust wasn't as monstrous as her mistress,but they passed the realm of normal possibility.<br>\r\n<br>\r\n\"Alina at your service.\" She bowed which gave ample view of her cleavage. Van Helsing nodded in acknowledgement.The busty woman gently held her hand out to guide Van Helsing out of the cramped corridors. The two soon stepped into the red room of wrath. What appeared to be a cockfighting ring was placed gently in the corner, while on the other side was a ring for bare knuckle brawling.<br>\r\n<br>\r\n\"Sorry for your accommodations, all the other wings were booked\" Alina spoke. Van Helsing ruffled her hat for a bit as it smacked against a random hand stand.<br>\r\n<br>\r\n\"No worries, I am just thankful your mistress has given me temporary shelter.\"Van Helsing responded.The two slowly made their way out from the red room and crossed into a corridor,though all the curtains were up,which made Van Helsing look at Alina for an answer. <br>\r\n<br>\r\n\"Morning hangovers.\" was all she said.<br>\r\n<br>\r\nThe two then walked right and passed an ornate door to be greeted by a small garden. It was surprisingly humble for the large castle-mansion, until Van Helsing realized that it was just another thematic area of Draculei's dwelling. If she had to guess, there were six other gardens just like this.With a pop, Van Helsing looked over to see Alina with a large parasol blocking the sun from her. How she got a parasol so fast, when the professor knew she didn't have one before, Van Helsing didn't bother to ask.<br>\r\n<br>\r\n\"Hello Alina!\" Draculei called out. \"And good morning to you Van Helsing!\"<br>\r\n<br>\r\nA gargantuan parasol blocked the sunlight from Draculei. Still the size strained to cover the well endowed woman, any bigger and it would too cumbersome to be moved at all. The mistress of the castle sat in a chair while Renfield served water to some other lounging guests.<br>\r\n<br>\r\n\"Would you like a tour of my home to see any kinks in my defenses?\" The countess spoke.<br>\r\n<br>\r\nWith a gruff 'yes', Van Helsing walked forth towards the countess.  Alina followed behind with some frugal steps under the sun.</span></div></div>",
+            "created":1602565200,
+            "id":2920319,
+            "title":"The Countess: Around the Castle's Lot."
+        },
+        "15111111111":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "Van Helsing and Draculei get to know each other better."
+            ],
+            "content":"<div class=\"\"><div> <span>\"As you can see, each one of the gardens is designed after one of the Seven Deadly Sins, much like the rooms we passed by last night.\" Draculei said as the three walked through the gardens. That was something Van Helsing certainly noticed. They had just left a garden with hedges and statures depicting a fierce battle, which Van Helsing guessed was Wrath, and they were now entering a garden with statues of beautiful women of various body shapes in provocative poses.<br>\r\n<br>\r\n\"I'm to assume this is Lust?\" Van Helsing asked, keeping her eyes on the garden itself. She knew that if she looked at Draculei, she'd never take her eyes of the Countess's enormous bust.<br>\r\n<br>\r\n\"Yes. Of all the sins, Lust is my personal favorite.\" Draculei answered. \"Beauty is something I quite value, and a sin represent that fits me quite well.\"<br>\r\n<br>\r\nVan Helsing did not reply to that. She simply continued to look at the garden. She noticed several servants milling about, but they all seemed... odd. The male servants were quiet and emotionless, while the female servants all seemed more lively. What's more, the female servants all were buxom as well.<br>\r\n<br>\r\nThe castle tour took the three into a library. It was enormous, and filled with books from various countries.<br>\r\n<br>\r\n\"I've traveled quite a bit, and have amassed a rather impressive collection of tomes. Perhaps they could be useful in your... work here.\" Draculei said. There was silence for a moment, before Draculei suddenly moved in front of Van Helsing. Once she did, Van Helsing's eyes instantly fell on Draculei's bust.<br>\r\n<br>\r\n\"Apologies. I actually quite enjoy the attention my chest gets.\" Draculei said. \"Alina, you may go. I wish to speak with Van Helsing in private.\"<br>\r\n<br>\r\nAlina nodded, before turning and leaving the library.</span></div></div>",
+            "created":1602651600,
+            "id":2921548,
+            "title":"Small Tour"
+        },
+        "151111111111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "The Countess and The Professor Scene 2"
+            ],
+            "content":"<div class=\"\"><div> <span>Van Helsing surveyed the vast room with all of its books that filled the shelves. It was a masterpiece of accumulated works. She was suitably impressed by the countess' efforts.<br>\r\n<br>\r\n\"Did your family help in collecting all of these artefacts? This seems like several lifetimes worth, even I can't believe you filled these hallways by yourself.\" Van Helsing spoke. Draculei gave the hunter a small smile at that.<br>\r\n<br>\r\n\"You could say that,now come, let's see if I have anything for you to look upon.\" The pale beauty said. \"Besides myself of course.\"<br>\r\n<br>\r\nVan Helsing nodded,and with some enthusiasm, walked forth into the vast library. With some interest she could see a few guests studying the tomes here. They had the heads of ravens with yellow patterns, ribbons,and other accoutrements on their person.<br>\r\n<br>\r\n\"Hrmm. Guests from the greed wing.\" Draculei whispered. A few woman worked with these guests, almost as if they were scholars in a academic stronghold. One woman though stood out amongst them. She had a great large bust, more grapefruit shaped than the other bosom filled women. In size she was smaller than both Draculei and Alina, though no lest supernaturally busty.<br>\r\n<br>\r\n\"Solveig, hello dear.\" Draculei said to the woman. \"What guest do we have here?\"<br>\r\n<br>\r\n\"Oh, Lord Beaumont. A Frenchman I believe.\" Solveig spoke with a hint of a Norse accent upon her tongue.The lord did not wear a raven's head but instead a completely yellow robe like a Grecian. He seemed too entranced by his book to recognize the mistress of the manor.<br>\r\n<br>\r\n\"Hrm. Tell the poor fellow you'll be out for a bit.\" Draculei stated. Solveig nodded and talked to the man besides her. He waved her off and so Solveig got up to attend to her lady's need.<br>\r\n<br>\r\n\"My servant Solveig meet Van Helsing,Van Helsing meet Solveig.\" Draculei stated. The two exchanged pleasantries.\"Van Helsing please let my servant help in your search. I need to find a better dress for myself. I'll still be around here, so just give me a small ring of the bell and I'll come and meet you two once more.\"<br>\r\n<br>\r\nWith that Draculei walked off leaving the two behind.<br>\r\n<br>\r\n\"What does she mean she'll be around here?\" Van Helsing spoke<br>\r\n<br>\r\n\"Oh, there are many compartments around the library which allows men and women to quickly undress themselves and call upon   different clothing.That and for some nice peace and quiet if they so choose.\" Solveig said<br>\r\n<br>\r\n\"Don't they have enough peace here?\"<br>\r\n<br>\r\n\"You'll be surprised how many folk want to please themselves in more private offices. Especially since this library has the largest horde of erotic fiction in Europe or at least the top ten.\"Solveig said with some pride which made Van Helsing look upon her with shock. \"Now come then, let's find your books.\"</span></div></div>",
+            "created":1602910800,
+            "id":2923561,
+            "title":"The Countess and The Professor Scene 1"
+        },
+        "1511111111111":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "Van Helsing gets to work reading the books."
+            ],
+            "content":"<div class=\"\"><div> <span>As Solveig led Van Helsing through the library, the professor was still in complete awe at the sheer size of it all. The two made their way through the erotic literature section (which was utterly massive), and entered a section dedicated to creatures and monsters.<br>\r\n<br>\r\n\"Here we are.\" Solveig said. \"I hope that you will find something here that will be of assistance to your work. If you have any questions, you may ask me or any of the other servants.\"<br>\r\n<br>\r\n\"There is one thing I wish to understand.\" Van Helsing said. \"I've noticed that many of the women here are exceptionally buxom.\"<br>\r\n<br>\r\n\"Ah, yes.\" Solveig replied. \"The mistress has very... particular tastes, as it were. To her, large breasts are the epitome of beauty. Anything less the head sized is unacceptable.\"<br>\r\n<br>\r\n\"And how exactly did these women become so buxom?\" Van Helsing asked.<br>\r\n<br>\r\n\"I'm afraid that is my personal secret.\" The voice of Draculei answered. Van Helsing turned to see the Countess, now clad in a tight purple dress that reached the floor, hiding her feet. Her prodigious bosom was still on display.<br>\r\n<br>\r\n\"I see.\" Van Helsing said, once again unable to remove her eyes from Draculei's bust.<br>\r\n<br>\r\n\"I came to make sure you located the books you need.\" Draculei said. \"I've informed my servants that you are to be given free reign of the manor for your job here. I must, however, say one thing: the east tower is my personal quarters, and unless I invite you there, you are to not enter it.\"<br>\r\n<br>\r\nMissy scoffed as she watched the scene unfold. That was incredibly supicious, so Van Helsing would have to pick up on that.<br>\r\n<br>\r\n\"Understandable.\" Van Helsing replied.<br>\r\n<br>\r\n\"Thank you. Now, I have other matters to attend to. Please enjoy the library. And though I understand your work, I do suggest something from my erotic section. They are simply to die for.\" Draculei replied, before turning and leaving in the other direction. Her dress hiding her feet made it seem like she was gliding.</span></div></div>",
+            "created":1602910800,
+            "id":2923589,
+            "title":"The Books on Dark Forces"
+        },
+        "15111111111111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Van Helsing reads all she can, but now must find the monster(s)"
+            ],
+            "content":"<div class=\"\"><div> <span>\"But what about Renfield nevermind.\" Van Helsing mumbled as she went back to work. The professor prodded around the section as she searched for her required texts. To her surprise Draculei's selection about the local area comprised a total of over twenty different books to Van Helsing's guess. She licked her lips for a moment and brought out three of them. With a swift tuck under her arm, the professor had chosen her first few objects of study.<br>\r\n<br>\r\n\"I'll be off Solveig.\" Van Helsing said. \"Tell your master I'll be in my room.\" <br>\r\n<br>\r\n\"Of course.\" Solveig stated, with a bow that jiggled breast meat, the woman waved Van Helsing away. The professor stalked out of the hallway and moved back towards her room. Her pace was somewhere between a run and a walk, so in essence, a speed walk.It seemed though the professor had taken a wrong turn as her eyes looked around to find herself within a blue room. Bottles of wine and rubber were placed haphazardly around the room. Men and women wore blue pieces or had cow head's placed upon their crowns.<br>\r\n<br>\r\nA woman dance on a table and Van Helsing's eyes widened in surprise.She wore the most provocative clothing ever, so much so it would've been less scandalous if she was nude. The general material of it was silk. Even Missy with her modern tastes blushed in embarrassment. In a time where showing ankles was considered sensual, this piece went above and beyond that.<br>\r\n<br>\r\nBut that wasn't the only thing, her breasts were enormous.They eclipsed Alina's and Solveig by a wide margin, with only the countess beating the woman out. It must've been painful for her to move this much, yet the ginormous bust woman still danced away.<br>\r\n<br>\r\n<i>\"What's with this movie and boobs.\"</i> Missy blushed while she pondered.<br>\r\n<br>\r\n\"Oi Lads and lassies, Ole' Magdalene is going to do another jig.\" Magdalene,evidently, declared. With a gentle rumpshack, she did an crotch thrust and began another dance. Van Helsing huffed before she moved out from the den of carnal pleasures.<br>\r\n<br>\r\nNow back into another hallway, Van Helsing did her best to formulate a way back to her room. <br>\r\n<br>\r\n\"Ahem.\" A voice coughed behind her. The Dutch woman turned her head to spy a woman in what appeared to be a Polish styled men's clothing. It didn't quite fit into it well do to the woman's prodigious bust;Van Helsing's best estimates placed her between Alina and Solveig in size. Unlike the two of them the woman seemed to want to make her breasts seem smaller than they were.<br>\r\n<br>\r\n\"My name is Dagmara.\" The woman stated, her brown hair cut short yet feminine.There was a certain tone in her voice though, much more colder than the other two servants were. \"How may I assist you?\"<br>\r\n<br>\r\n\"Yes. I would like to be taken back to my room, I have books you see.\" Van Helsing stated. Dagmara raised an eyebrow but continued on. She asked for Van Helsing's wing,and once answered, barely took a second before she took the professor's hand. With great strides the two shot off until eventually they both arrived back at Van Helsing's room.<br>\r\n<br>\r\n\"Thank-\" Van Helsing looked around but didn't see a trace of the Polish woman.</span></div></div>",
+            "created":1602910800,
+            "id":2923742,
+            "title":"Van Helsing Studies in Her Room"
+        },
+        "151111111111111":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "In the Sloth garden, she sees three strange women."
+            ],
+            "content":"<div class=\"\"><div> <span>With a sigh, Van Helsing sat on the bed, and grabbed the first of her three books. The book was on the history of the surrounding town. Perhaps there was something on the creatures in it.<br>\r\n<br>\r\nAs the minutes ticked by, Van Helsing became truly fascinated with the history of the area. It seemed the area, the Carpathian Mountains, were once under the rule of another noble, a count. But he had perished at some point, and the manor came into the ownership of Countess Draculei. Though oddly, Draculei's own history seemed missing from the book.<br>\r\n<br>\r\nVan Helsing also read that the area was a breeding ground for vampires, attacking livestock to keep themselves feed on blood. With this confirmation, Van Helsing closed the book, and grabbed the next book.<br>\r\n<br>\r\nThe minutes turned into hours as Van Helsing read everything in the three books. It was well into the night, and Van Helsing decided it was time to start looking around the manor, to make sure no monsters attacked the people within.<br>\r\n<br>\r\nLeaving her room, she began walking the halls of the manor. She could still hear the sounds of partying going on in the various rooms. She decided that if they were still partying, they must have been safe, so she ignored the rooms and went out into the night.</span></div></div>",
+            "created":1602910800,
+            "id":2923767,
+            "title":"A Quick Study"
+        },
+        "1511111111111111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Van Helsing is apprehensive to warn Draculei in case a panic is started"
+            ],
+            "content":"<div class=\"\"><div> <span>She stalked past the red room of wrath, where she could hear the merchants and nobility yell vicious jabs at their preferred champion. There was the feeling however that the partying would soon subside as the hour grew longer. Van Helsing didn't care much though for this display of human thirst for blood when there was more supernatural thirst still abound.<br>\r\n<br>\r\nAlready having visited the lust room, Van Helsing decided she wanted to see some other places in the manor. It being so big, her walk down the hallways felt like they took forever. Missy swore she saw a loop just to make the travel feel even longer than needed.<br>\r\n<br>\r\n\"How much more of this movie is there?\" She questioned. The real life woman picked up the remote to see she was only an hour and twelve minutes in. With only another hour and thirty minutes to go. She paused the video and went up to the store to get some snacks she knew the owner left behind. Outside the storm continued on.<br>\r\n<br>\r\nBut let's not concern ourselves with her.Back in Van Helsing's timeframe, the professor moved her way until she neared the sloth room. There men and women in pieces of orange with mule masks and insignias walked lazily among each other. The faint smell of hashish and narcotics could be divined through the air. Van Helsing closed her mouth and nose and quickly moved out into its garden, which was by far the largest she could see. It dwarfed the wrath and lust room in size as though it was declaring \"can you walk end to end of my quarters?\"<br>\r\n<br>\r\nVan Helsing saw in one corner three ladies of unnatural paleness to their skin.One had pale-blonde to her locks, another raven,and one startling white.With the signature bosm filled bodies of the countess' court, Van Helsing wouldn't mind them that much. If not for the fact that the white-haired one seemed to be intent to lay on top of two comfortable looking cushions. Which the other two didn't want to sit on themselves and in fact drove away any drugged out guests.<br>\r\n<br>\r\nVan Helsing walked casually over to them to listen in on their conversation. she sat down onto an unoccupied cushion near the trio and did her best to appear wanting for some hemp or opium.<br>\r\n<br>\r\n\"I can't believe you stayed out that long in the sun, could you believe your punishment if you got any bigger than you did? What the master would've thought? You're lucky you shrunk down to this size.\" One of the two women spoke.<br>\r\n<br>\r\n\"I apologize for my carelessness, my sisters, I seemed that the drugs took quite a hold of me as well as my prey.\"<br>\r\n<br>\r\n\"Quite right. Hopefully by another hour you'll get even smaller, until then we'll have to keep a watch on any of the prey who thinks you'll make a good cushion.\"<br>\r\n<br>\r\n<i>\"Prey? I dare think I've found my beast,or in this case,beasts</i> Van Helsing thought.<br>\r\n<br>\r\n\"Finding everything alright lass?\" A voice declared. Van Helsing looked up to see two twin spheres eclipsed her view. The wobbled back to reveal the smiling face of Magdalene.<br>\r\n<br>\r\n\"Quite alright,just listening in on the nights wing.\" Van Helsing did her best not to stare at the three, yet it seemed that Magdalene had a keen sense of sight.<br>\r\n<br>\r\n\"Oi yeah those three over there, oof, troublemakers they are. Yet they do their jobs well.\" The Irishwoman stated. <br>\r\n<br>\r\n<i>\"And may in fact be creatures of the night.\"</i> Van Helsing thought once more. </span></div></div>",
+            "created":1602997200,
+            "id":2924305,
+            "title":"Secret in the Sloth Garden"
+        },
+        "151112":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Sightings of a massive furry beast",
+                "Sightings of a ghost or something more...alive?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But why did she come?A</span></div></span></div>",
+            "created":1602392400,
+            "id":2919125,
+            "title":"It opens in on a village"
+        },
+        "1511121":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Van Helsing questions the wolf problems this town had."
+            ],
+            "content":"<div class=\"\"><div> <span>Missy watched as the title crawl passed her eyes, she focused in on the lone horseback traveler as they made their way through a mist filled bog. The gasping water released ghastly sounds.It set the mood quite well, plus the sound of a wolf howling didn't do much to diminish the scene.<br>\r\n<br>\r\nThe traveler looked upward towards the moon and revealed itself to be the scantily clad Van Helsing. Her eyes dark with a fierce intelligence, though again, in her pseudo-bikini she wasn't that intimidating. With a bleak blink at the camera, Van Helsing charged passed the bog with her horse. In the background the sounds of wolves grew more and more intense.<br>\r\n<br>\r\nSuddenly, a snarl crashed into the scene and the speeding shape of a dark beast came rushing out of the thicket behind the bog. Van Helsing,with hawk-like reflexes, threw a dagger at the form. A yelp of a dog echoed before the dark shape rushed back into the overgrowth. Now that she thought of though, Missy wondered what wolves were doing so near a bog. Unless they do live near bogs, in which that case, nevermind.<br>\r\n<br>\r\nVan Helsing, meanwhile, didn't seem to contemplate the ecology of wolves. She edged her horse further along the path in an effort to create more distance between her and the pack. A thunder of growls filled the area behind Van Helsing as she rode forth. She soon caught eye of a blinking torch, which made Van Helsing smile in relief.<br>\r\n<br>\r\nBut that mood was soon broken by the sound of the wolves behind her. She cried out in desperation while her horse breathed heavily. The light soon materialized larger and Van Helsing could see the small township in front of her. With a hearty crie,she pushed her stallion to the limits until it passed the torch and ended up in the middle of town. Just as fast, Van Helsing turned around with her saber to slice through any canine attacker. None came though, through deduction of their paw patterns that Van Helsing saw,the professor could see how their steps looked as though they retreated. It was as if something scared them off.<br>\r\n<br>\r\n\"I'll need to keep tabs on that situation.\" Van Helsing mused to herself.</span></div></div>",
+            "created":1602392400,
+            "id":2919344,
+            "title":"Sightings of a massive furry beast"
+        },
+        "151113":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "It starts on a river",
+                "It starts in a tomb",
+                "It starts elsewhere."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, so where else can this story start?</span></div></span></div>",
+            "created":1602219600,
+            "id":2918327,
+            "title":"It opens elsewhere."
+        },
+        "1511131":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "The boat reaches the camp."
+            ],
+            "content":"<div class=\"\"><div> <span>Missy watched through the credit roll of the film, barely keeping her eyes open. While it was nice to know who played who, the credits roll was often the most boring part of the movie.<br>\r\n<br>\r\nFinally, the credits ended, and the actual film began. There was a panning shot of a massive river, surrounded by trees. Thanks to her geography classes, Missy was able to identify it as the Amazon River.<br>\r\n<br>\r\nThe scene then faded to a boat on the river. Standing right at the bow of the ship was Van Helsing herself, still clad in her almost-bikini armor. Missy couldn't help but chuckle at this. There was no way an outfit like that would protect Van Helsing from mosquitos and other parasites.<br>\r\n<br>\r\nA man dressed as a scientist emerged from a door at the boat's cabin. He seemed to ignore Van Helsing's outfit as he brought her a map.<br>\r\n<br>\r\n\"We've almost reached the camp, Professor Van Helsing.\" The scientist said. \"Hopefully, there will be someone still there to tell us what happened.\"<br>\r\n<br>\r\n\"I have a feeling I already know.\" Van Helsing replied, looking at the water.</span></div></div>",
+            "created":1602219600,
+            "id":2918336,
+            "title":"River Trip"
+        },
+        "15111311":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Van Helsing does her investigation."
+            ],
+            "content":"<div class=\"\"><div> <span>Once the boat breached on the sandy shore, Van Helsing was gently brought down by the scientist looking fellow. The duo were soon followed by a mix of men in women, which swelled the pair into a group of seven. The group walked across the sand, the jungle sounds echoed in the shade caused by the canopy.<br>\r\n<br>\r\nSoon they arrived at a camp half-way destroyed. Tents laid wrecked with pieces of broken canoes embedded in some of them.Twelve or so men laid bandaged and moaning. Four nurses worked vigorously to keep them in fair conditions. A burly looking man sat on top of a barrel. Evidence of heavy drinking was scattered around his impromptu seat. He gave the group a hardy wave of acknowledgement.<br>\r\n<br>\r\n\"Greetings, you must be th-\" his words were suddenly stopped by a hiccup.\"The problem solver our foreman hired.James Morris.\"<br>\r\n<br>\r\n\"Dr.Van Helsing.\" said woman replied.<br>\r\n<br>\r\nVan Helsing shook the man's hand and introduced the male scientist as Dr.Maia. A few exchanges of words came from between the trio before they came to the main problem. Around them, the two groups of the uninjured workers and the boat people helped one another out.With the campsite workers going down to the boat to unhook cargo while the boat folk checked on the wounds of the bandaged people.<br>\r\n<br>\r\n\"You can see the effects of whatever attacked us, now how can you help find the cause?\" James questioned.<br>\r\n<br>\r\n\"Well the first thing I have to do James is see what this beast is.\" Van Helsing asked. \"Now can you describe the beast on the night it attacked you?\"<br>\r\n<br>\r\n\"Beasts\" James stressed. \"<i>Plural.\"</i><br>\r\n<br>\r\n\"There was more than one?\" Dr.Maia questioned. James nodded and proceeded to explain what had happened for the last week or so.One worker named Yuri had spotted the largest creature he had ever seen.'So huge it could eat a man whole' he described it. Curiosity getting the better of some of the men, they walked to shore only to be greeted by a smaller beast that was still a foot taller than the tallest worker they had on duty. It thoroughly thrashed all the men there and left soon after. The next time, the men decided to try and trap the larger monster. With carefully placed fishing nets at each point in the river that was large enough to allow such a big beast in, they waited.<br>\r\n<br>\r\n\"And I swear on God's name, we caught that blubbery beast!\" Jame declared.Yet once they canoed out to drag it back to camp,the second beast had somehow allowed the fatter one out. They were of course attacked, and while deadly on land, the water monster proved much more of a combatant in the water.<br>\r\n<br>\r\nWith three men heavily busted up in the tryst, they had miraculously canoed back to camp and ran towards dryer land. But they were followed, the smaller beast grabbed ahold of the vacant canoes. It launched them like cruise missiles and landed into multiple tents with the shrapnel hitting many more. <br>\r\n<br>\r\n\"Which has now left us in this current predicament.\" James finished.\"It has only come back three time since then, but thankfully it only injured one or two men per appearance. Lucky me.\"<br>\r\n<br>\r\nVan Helsing rubbed her chin in thought once James' tale had been spoken.</span></div></div>",
+            "created":1602306000,
+            "id":2918816,
+            "title":"The boat reaches the camp."
+        },
+        "151113111":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "A scream makes Van Helsing return to the camp"
+            ],
+            "content":"<div class=\"\"><div> <span>After making sure the people at the camp were safe, Van Helsing left the camp and started her investigation. She decided the best place to start was near the water's edge, so she made her way back to the river.<br>\r\n<br>\r\nOnce she reached the bank of the river, she began looking around to see if she could find a clue. Almost immediately, she did see something: a set of footprints. Two in fact. One seemed to be leaving the water, the other entering it.<br>\r\n<br>\r\nAs Van Helsing kneeled down to look at them, she noticed that the prints out of the water were deeper in the ground then the ones entering it. She started to assume that it was the heavier creature, until she noticed that both sets of prints looked exactly the same, minus how deep they were.<br>\r\n<br>\r\nAs she recalled the description of the two creatures given to her, she thought of pufferfish, and how they can inflate to ward of predators.<br>\r\n<br>\r\n\"Perhaps the two creatures are actually the same creature, but able to inflate.\" Van Helsing mused. \"But why would the creature attack the camp, I wonder.\"</span></div></div>",
+            "created":1602478800,
+            "id":2920163,
+            "title":"A Clue"
+        },
+        "1513":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Christmas/Holidays holidays",
+                "New Year's Day",
+                "Holidays III"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Christmas or New Year's and the days afterwards?</span></div></span></div>",
+            "created":1607566920,
+            "id":2954562,
+            "title":"Holidays II"
+        },
+        "15131":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Follow Mabel",
+                "Follow Sandra",
+                "Follow Raylah or Chell"
+            ],
+            "content":"<div class=\"\"><div> <span>The cold air danced across the land like a flock of birds. Chilled frost touched windows and Jack Frost breathed his lungs through his mouth. A woman lazily looked through her phone's media feed. She stuck out her tongue at the picture of a cat with a small hat. <br>\r\n<br>\r\n\"Qoot\" She whispered while typing the phrase into the picture's comments. Her breath huffed out once again while she eyed the area around her. It was seven going on eight and the night filled the store's parking lot. The woman stared at the last few people in the store, the folks occupied with their own acquisition of goods.<br>\r\n<br>\r\n\"You're getting ready to go, Mabel?\" A voice spoke. Mabel turned around to see a thin as a stick woman give her a small smile.It was Sandra, a woman who looked twenty pounds away from starvation. People did remark on how she probably needed to see some doctor to account for her light weight. Sandra always seemed healthier after the twenty-fifth though.<br>\r\n<br>\r\nThe pair, or trio as another woman began to walk towards them, knew each other for about three years now. All twenty-two, or twenty in the fourth member's case, the group had become a hardy crew against the tedium that was the lower corporate jobs. Raylah, a African-American lass and the youngest of the group, came up with a candy cane in her mouth. <br>\r\n<br>\r\n\"Sup.\" She pointed with a nod of her head at the motely crew of shoppers.Who at the moment seemed to be ready to leave with their acquired goods. \"You need help with this Map?\"<br>\r\n<br>\r\n\"Didn't you get off at six?\" said girl stated with a raised eyebrow as she readied herself.<br>\r\n<br>\r\n\"Ehh. You know I sleep in some tucked away corner of this place. It's huge, you can find practically any little space for yourself here.\"<br>\r\n<br>\r\n\"Aren't you afraid you'll get trapped in some rat-filled corner?\" Sandra spoke. She also looked ready to help her friend even though she had already clocked her ticket. <br>\r\n<br>\r\n\"Nope, I'll scream and heroically yell for help like the badass that I am.\" <br>\r\n<br>\r\nMabel tuned the two out while she waited for the first of the customers to come. The trio moved like an assembly line fromt he twenty's with their movements. Mabel swung bread and cans passed the barcode scanner while Sandra expertly stacked them into a order hierarchy.Raylah meanwhile handed their bags to their respective customers. In took around twenty minutes,but everything was done by that point. With a small high-five, Mabel walked off to get her things. Sandra and Raylah waited for her to come and soon she did. <br>\r\n<br>\r\nShe was around five-one in height and the site of her tucked into her multitude of layers was adorable.<br>\r\n<br>\r\n\"You're going bake yourself in all that clothing, you sure don't like the cold don't you?\" Raylah spoke as she moved in tandem with her friend's steps.<br>\r\n<br>\r\n\"You said the same thing yesterday,and the day before that, and two years ago. And I keep telling you that me and the cold don't see eye to eye.\" <br>\r\n<br>\r\n\"Because you're so...\" Raylah absentmindedly compressed her hands together.Sandra rolled her eyes while the two went back and forth,she waved over while to a blue Chevy.<br>\r\n<br>\r\n\"Hey everybody.\" A voice called out from a pulled down window. \"Get inside now or I'll freeze myself into my seat.\"<br>\r\n<br>\r\nChell was a Hawaiian lass, though how she got so far inland was anybody's guess. The youngest member of the group, her side job was a Uber drive. It was during a stop that she first encountered the trio.She immediately hit it off with the ladies.<br>\r\n<br>\r\nThe trio piled into the car, with some huffs and moans. Raylah soon took of her coat which had seemed to struggle against her chest.A few quick conversations later the car sped away into the cold,black night.<br>\r\n<br>\r\nA while later a another woman walked to the store,a groan of annoyance escaped her mouth.<br>\r\n<br>\r\n\"I told you Missy that you should've gone eariler,but no, the movie was too entracing.\" Missy spoke while she made her way back down the lightly snowed street.</span></div></div>",
+            "created":1607569740,
+            "id":2954583,
+            "title":"Christmas/Holidays holidays"
+        },
+        "151311":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...finish wrapping those presents.",
+                "...catch a cheesy Christmas movie on TV.",
+                "...invite a neighbor."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Thanks for the ride, Chell!\" Mabel yelled as she stepped out of the Chell's car. \"You're always a lifesaver.\"<br>\r\n<br>\r\n\"Not a problem.\" Chell replied. \"Trust me, I know you hate the cold. A lot of people hate it.\"<br>\r\n<br>\r\n\"Me more so then others...\" Mabel muttered as she shut the car door. With that, Chell's car took off again, and Mabel raced back inside her home. She only hoped that it wasn't too late.<br>\r\n<br>\r\nThe second she walked through the door, she shut it, ran to her kitchen, and started to peel off the multiple layers of winter clothing. It took a couple of seconds, but she managed to do so. Once that was done, she took a look at her butt... and grimaced.<br>\r\n<br>\r\n\"Dammit!\" Mabel yelled. \"Even with all that crap on?!\"<br>\r\n<br>\r\nMabel's butt had swollen slightly. It wasn't a whole lot, but still enough to be somewhat obvious. That was the main reason for Mabel's distaste for the cold: for a while now, she's had a sort of... condition that causes her butt to grow bigger when she's out in cold weather. She'd taken to doing everything she could to stay warm outside, since staying home wasn't always an option. But it seemed no matter what, her butt would grow.<br>\r\n<br>\r\nShe was at least glad she chose to wear sweatpants to work today. Meant she'd at least still fit in something.<br>\r\n<br>\r\nAll she could do now is sit at home, and hope that with the heat cranked up, her butt would shrink down. At least it was better then last year's sudden cold front, which left her stuck at home since her butt had gotten too big to fit through any door. And on her 5'1'' frame, that made her HUGE.<br>\r\n<br>\r\nSighing, Mabel decided to make herself some hot cocoa. As she did, she remembered she still had to finish wrapping her Christmas presents. Though with Christmas itself not for a week, she probably had a little more time. Maybe there was one of those sappy, feel-good Christmas movies on that she could watch and laugh at. She could also invite some neighbors over for... whatever.<br>\r\n<br>\r\nEventually, she decided to...</span></div></div>",
+            "created":1608168360,
+            "id":2958067,
+            "title":"Freezing Booty"
+        },
+        "1513111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Mabel forgot something, she needs to get there in her tiny car",
+                "Mabel continues her talks",
+                "Somebody knocks on her door, who could it be?"
+            ],
+            "content":"<div class=\"\"><div> <span>She wanted to do those Christmas presents she still had in her home. Well, not her home technically, she shared it with one other. Okay, well not normally, the woman just came and went. She used the place more as a storage unit than an actual house. It was only by chance did she manage to get to be her roommate and even then she didn't visit much. But as long as Mabel paid her bills she probably wouldn't. Not that she hated the woman, it's just that she didn't care to see what was happening in her home that she paid for.<br>\r\n<br>\r\n\"Aw phooey anyways to that thought.\" <br>\r\n<br>\r\nMabel touched her bum for a brief moment, it was so cold! She thankfully didn't feel this, in her lower half anyways, and even then her calves could feel it. She had known she could freeze water with how cold her butt could get. But that would change once she heated to a certain point.<br>\r\n<br>\r\nMabel walked over to the AC and turned it up to a warm eighty. She then wrapped a jacket over her bottom while she made her way to the corner where she had her presents. She sat down, feeling how cushioned she was. Mabel then went to work.<br>\r\n<br>\r\nShe wasn't rich by any chance but she saved up for her presents. It was over a month of saving for her to do this, one entire month of work for her loved ones. She breathed out while she wrapped. <br>\r\n<br>\r\n\"Oh I forgot my cocoa.\" She mused. Mabel sat back up to retrieve her cup, she gave another grip to her bottom only to still find it large and cold. Another quirk about her body was that it took much longer for it to heat up than that of a normal person. It was a mixed blessing for she rarely sweated on hot summer's days, while the winter was her kryptonite. <br>\r\n<br>\r\nShe reached for her cocoa, with a gulp, she drank it straight down. Mabel knew she could digest boiling water so she didn't mind the warmth from the cocoa; now why she drank boiling water was another story. The effects gradually showed themselves on her form. Her bottom's tight perkiness jiggled then stopped, then it drooped.<br>\r\n<br>\r\nHer droop of butt wasn't that noticeable, if she was bigger she looked as if she smuggled a water bed in her pants. Mabel hated how the cheeks wobbled with water, it was quite distracting to hear one's own ass claps. Still with how small she was, her water butt would become a thing of the past. It would be around ten or so minutes until she was back to normal.<br>\r\n<br>\r\nA ring of her phone made Mabel look up. She walked back to where she left it and asked a tidy: \"Hello?\"<br>\r\n<br>\r\n\"Hey Mabel!\" A voice on the other end called out. It was Song, a woman Mabel had met over a week ago. She had seen her first before, though more due to her streams than anything else. The Korean woman stopped them though, no reason why. Enough of that though, Mabel had become acquainted with the minor e-celeb through a website she frequented. One thing led to another and the girls became friends. Strange though was how Song never wanted to show her face, she also said she worked in the town now but Mabel never saw her.<br>\r\n<br>\r\n\"How's it been Song?\" She asked. The two talked with one another for a bit while Mabel continued back to her presents.</span></div></div>",
+            "created":1608697080,
+            "id":2961994,
+            "title":"Mabel: ChristmASS Presents"
+        },
+        "151312":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "How Sandra Claus happened",
+                "Sandra stuffing her stocking, aka, eating",
+                "A friend calls in for a little Christmas party."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Have a nice night, Chell!\" Sandra called out as the car pulled away from her apartment complex.<br>\r\n<br>\r\nCold air escaped the woman's mouth as she walked towards her home. Downtown Great Tracts was much more differed than the sparse outer section of the town. Not as crowded as other, larger cosmopolitan areas but still more compact in comparison. Sandra rolled her tongue over her teeth, her phone light flickered across her face. <br>\r\n<br>\r\nShe moved up the flight of stairs that were located in the buildings interior until she found her floor. Down the hall she arrived in front of room four-twelve, with a sigh she took out her key and unlocked her door. <br>\r\n<br>\r\nInside was a very bare room. Instead of a couch, she had a mattress on a abstract thing that was her bedframe. It sat in front of a small Tv. A few drawers were spread around the place. Sandra made her living room her actual room, she didn't like the enclosed nature of a room. Why shouldn't your room be out in the forefront? Where one would've slept she had turned it into a larger closet.<br>\r\n<br>\r\n\"Home sweet home.\" She spoke aloud. Sandra dumped her jacket into a pile of itself and made way to her fridge. With a quick slap onto the handle, she pulled it open. Sandra ducked her head into the cold storage to see what she could eat.<br>\r\n<br>\r\n\"You should've gotten ready by now.\" A voice echoed. Sandra slammed her fridge shut to look at the source of this voice. There, on her bed, was a short woman with strange eyes. Her pupils were snowflakes. That wasn't the only wonderous property she possessed, the woman was small but her portions were of a normal humans. Which essentially meant she didn't appear to suffer dwarfism.<br>\r\n<br>\r\nOver her body she wore what was in popular culture thought to be a Christmas elf costume. Green jagged collar, white and red stockings, bell tip hat, and button upped vest with curled shoes.<br>\r\n<br>\r\n\"Hello Cristobella.\" Sandra droned on. \"How have you've been?\"<br>\r\n<br>\r\n\"Amazing, unless you count the fact my 'Claus' isn't ready yet. Where's your pounds girl?\" Cristobella bemoaned, she hopped off the bed to peer at Sandra's stick like frame. \"Are you so skinny that you can't retain memories anymore? Too filling for your tastes?\"<br>\r\n<br>\r\n\"No Cris. I just needed to get my friends away so I can stuff myself silly.\" Sandra replied with a nod. She went back to scavenging her fridge which bore its rewards, a plate of cookies were brought out, Sandra stuffed three into her mouth. Cristobella huffed at the fact, she waved over to Sandra for a few bits.<br>\r\n<br>\r\nSandra threw out a sweet, it was grabbed from the air and appeared in Cristobella's hand. The 'elf'---for what else could she be---nibbled on the dessert.<br>\r\n<br>\r\n\"You'll need to stuff yourself silly to keep us on schedule.\"<br>\r\n<br>\r\n\"I know Cris, I'm doing my best.\" Sandra drolled on to her handler. She sighed, her memories of that fateful night played on in her head.</span></div></div>",
+            "created":1609037940,
+            "id":2964248,
+            "title":"Sandra Claus"
+        },
+        "152":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "The Current Cast",
+                "The Old Days"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Adventures of:<br>\r\n<br>\r\nThe Current Cast or The Old Days</span></div></span></div>",
+            "created":1603083600,
+            "id":2925064,
+            "title":"Adventures"
+        },
+        "153":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "THE MIGHT ALLIANCE",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>The MIGHT ALLIANCE: Its that hour again, time for THE MIGHT ALLIANCE. Showed exclusively in the town,only here can one watch the adventures of the most bodacious heroines ever to show themselves on TV. Changed by the machinations of their now dead nemesis--season 3 episode 5---The MIGHT ALLIANCE will now have to do their best to deal with the consequences.</span></div></div>",
+            "created":1605036240,
+            "id":2938004,
+            "title":"Everyday Occurrences"
+        },
+        "1531":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Sentinel and Power",
+                "Fade and Generator",
+                "Blue Ice and Thatway"
+            ],
+            "content":"<div class=\"\"><div> <span>Missy chewed on her bowl of popcorn as the familiar tune of The Might Alliance played out. It was a trumpeting song and it was quite catchy to hear. The woman did wonder why such a show would have such a kiddish opening when it was,at least, a teen rating. <br>\r\n<br>\r\n\"I hate that they I can't just use the internet to look clips up.\" Missy spoke aloud. The show,which did syndicate around the country,for some odd reason didn't have the full series online. It ended on episode twelve on season two. And Missy,who was both a resident of the town and a frequent traveler across the country,never seemed to encounter anyone with a smidge of thought about the rest of the series.<br>\r\n<br>\r\n\"Come on!\" She would tell these people. \"It ran for ten seasons! Hour long each. There must be some clips of these episodes online!\"<br>\r\n<br>\r\n\"Nope. I know the show exist but I don't think there's an extra eight seasons of it. The SFX must've cost a fortune as well as those hot broads in it.\" One particular conversationalist responded. Missy frequently huffed at that,but it seemed that anybody outside the town never saw the last eight seasons.She even tried to find a copy of the entire set online,to her surprise,there wasn't one made. There were wiki pages of the show,but just like before,it only talked about seasons one and two.Missy did her best to capture the footage on TV but that endeavor proved to be fruitless. Only seasons one and two seemed to play.<br>\r\n<br>\r\nThe woman thought she had gone mad until she stumbled across a large pile of the copies at her job. Stuck under a copy of some halloween films,Missy asked her boss to take one home. Mrs.Kazinski,the kind old lady,graciously allowed her the prize.<br>\r\n<br>\r\n\"So why did every source I could find said you weren't made.\" Missy spoke to her copy while she drove home. Over the weakened she binged the series rapaciously. She had five discs,each one with two seasons on it. Finished with her first, she placed in the second disc.Scared she wouldn't see anything, Missy was surprised that the contents of the disc were true.<br>\r\n<br>\r\nThere was a third season! And the first four episodes covered all the second season's loose plot threads. With the fourth episode ending on the defeat of the group's main antagonist, Alexi Lancaster. <br>\r\n<br>\r\n\"Wait, then what was the rest of the series about?\" Missy asked when she finished. Feeling a little empty, she made a bag of popcorn and waited for the fifth episode to play,which is where we left off.<br>\r\n<br>\r\nShe saw the familiar title screen play, pure late 90's to early 2000's sensibilities showed. Edgy designs and sensual dances from the main girls showed.<br>\r\n<br>\r\nSoon it faded to black,two figures stood in the familiar cavern lair of The Might Alliance. They seemed to be in a heated argument. Missy quickly recognized who she saw.</span></div></div>",
+            "created":1605056820,
+            "id":2938128,
+            "title":"THE MIGHT ALLIANCE"
+        },
+        "15311":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "We follow Sentinel on patrol",
+                "We follow Power on patrol",
+                "We go to a team meeting."
+            ],
+            "content":"<div class=\"\"><div> <span>Sentinel sat in her chair, her multiple monitors shined in her face. Her helmet,a mix between a spartan's helmet and a knight's faceplate,was placed neatly on her gigantic crescent shape. Her face,a stoic mask of watchfulness,did its best to watch ever corner of the screens. Her right index finger tapped the crescent with rapt attention. <br>\r\n<br>\r\nHer eyes were watching every single drone,news feed,and link to confirm one thing. One obsessive thing that Sentinel felt took years from her life.<br>\r\n<br>\r\n\"You're dead Alexi, you're dead.\" She mumbled. It had been three days since the defeat of her ever present phantom. The one who had killed her sister,and her aunt,was finally gone. Their reach across the state was slowly crumbling. Whatever heirs to Alexi's legacy were doing their best to keep the corpse alive. A small part of her gleefully thought of those foes hounded by the hands of law.<br>\r\n<br>\r\nA knock at her door caused her to jump a little in shock. She turned to see the clam eye,and almost ethereal,beauty that was Power.<br>\r\nHer face always seemed half-way asleep,which gave her a gentle aura around her. Even though Sentinel knew Power could easily knock down a building with one single punch using only her shockwaves.Sentinel among the top ten people in the world who could possibly defeat her. And even then Sentinel didn't know if she would make it out in one piece.<br>\r\n<br>\r\nBut with all that, Power wasn't in anyway frightening. She was just too calming to be around that the thought she could hurt a fly would've been absurd.<br>\r\n<br>\r\n\"Sentinel?\" Her melodious whispery voice spoke. \"I could feel you in the next room.\"<br>\r\n<br>\r\nSentinel also noted that the woman was an empath due to her lineage from a long dead alien colony species. <br>\r\n<br>\r\n<i>\"Flight,empathic understanding,super strength and inviability, near unquenchable stamina,and temporary energy constructs. Damn I wish you were just a little more aggressive.\" </i>Sentinel bemoaned. The waif,well she wasn't that thin,mostly did her best to never truly unleash her,well,power. Instead acting as a pacifistic negotiner until shit truly hit the fan.<br>\r\n<br>\r\n\"I'm...I'm fine Power. I just feel like a weight had been lifted from my back. I just, I don't feel right though.\" Sentinel explained. \"I wanted to see Alexi's face once I got them good in my gigantic hands. I wanted to wring him dry.\"<br>\r\n<br>\r\nPower floated over to her leader,and first friend,with a open hand. She sat down on Sentinel's grey crescent shaped desk. The alien ubermensch,the prime result of over thirty species,waited besides her friend. Sentinel gave a choke of anger while she was calmed by Power's presence.<br>\r\n<br>\r\n\"He's gone Shelly.\" Power quietly spoke. Sentinel reacted to her real name and choked out again.<br>\r\n<br>\r\n\"I know but...but.\" Sentinel unconsciously grew a foot,while unknown to her the heroine's bottom blimped. Power,not knowing that, used a smidge of her own strength to give the grown woman a squeeze. Her chest tingled,but Power didn't feel anything.<br>\r\n<br>\r\n\"Do you want some dinner?\" Power asked. Sentinel nodded and the duo walked out of the monitor room,unaware to their 'minuscule' changes.</span></div></div>",
+            "created":1605072720,
+            "id":2938213,
+            "title":"Sentinel and Power"
+        },
+        "15312":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "Follow Generator on Patrol",
+                "Follow Fade on Patrol",
+                "Follow both Patrolling together"
+            ],
+            "content":"<div class=\"\"><div> <span>Within the main laboratory of The Might Alliance's base, Generator was working on a new communicator for the team. The African-American hero was completely absorbed in her work at the moment. Her light-blue bodysuit was covered in grease from the previous things she had been working on. Her black-and-yellow hair was done up in a bun to keep it out of her eyes.<br>\r\n<br>\r\nAs she worked, she didn't hear the door to the lab open. Strangely, though, there seemed to be no one entering. It was until Generator felt something poke her back that she finally realized someone was in the room with her.<br>\r\n<br>\r\n\"GAH!\" Generator screamed in surprised. \"What the hell, Fade?!\"<br>\r\n<br>\r\nA laugh echoed through the lab as a person faded into existence. Standing behind Generator was Fade. The Japanese-American stopped laughing and wiped some tears from her eyes. She was wearing a grey bodysuit and a pair of goggles. She kept her black hair long. Unknown to Fade, there was a bit of pudge on her otherwise slim frame.<br>\r\n<br>\r\n\"Sorry, I just wanted to get your attention.\" Fade said. \"Everyone's still worked up over Alexi's death.\"<br>\r\n<br>\r\n\"I know. It just feels so... strange they're gone.\" Generator said. \"I mean, it means the city is safer now. Still, though...\"<br>\r\n<br>\r\n\"Look, Alexi's gone. We don't have to deal with all those war machines or mutants anymore. Just usual, run-of-the-mill lunatics.\" Fade said.<br>\r\n<br>\r\nGenerator sighed as she siphoned some electricity from a nearby outlet, not noticing her belly swell slightly. She then sent the current into the communicator she was working on.<br>\r\n<br>\r\n\"OK, that should be good for now.\" Generator said. \"I'm going to head out on patrol.<br>\r\n<br>\r\n\"What timing!\" Fade said. \"I was heading out myself. I wanna see how the city's doing with Alexi dead.\"</span></div></div>",
+            "created":1605123300,
+            "id":2938499,
+            "title":"Fade and Generator"
+        },
+        "153122":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Is she getting fatter?",
+                "Fade gets nothing that showed their illegal activities.",
+                "Fade gets some very juicy info from the group"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Are you going to Eastend or Northernwood?\" Generator spoke while she tugged at her stomach area.<br>\r\n<br>\r\n\"Eastend.\" Fade causally responded. \"I hear there's some gangsters that sill populate that place. I still surprised that Makai Corps didn't run them out.\"<br>\r\n<br>\r\nThe Japanese woman did a few mock kicks to indicate what she wanted to do with those men. Her small paunch and plump thighs jiggled a little. Generator didn't notice the fact while she readied her own body. She did some stretches to work out her kinks.<br>\r\n<br>\r\n\"Sorry, going to go to Northernwood to investigate this case involving a lost robotic turtle.\" Generator spoke as though that was normal. \"So if you want to look into that as well, I would be happy for you to tag along.\"<br>\r\n<br>\r\n\"Nerdy turtles aren't for me,Gen. You can ask Thatway or Bluey for that.\" Fade said. Generator nodded at her teammate's response. The duo then walked out the lab's door and down the corridors of their base. They soon arrived into a garage of epic proportions,though Missy swore that it was CGI in the background. It was probably a set for the foreground.<br>\r\n<br>\r\nFade got on a skateboard,because apparently the writer/producers loved ninety's edge,with a small jump. The board flipped in the air right until Fade came down onto it with a loud thud.Either they used a stunt actress,CGI,or Fade's actress was actually that good.<br>\r\n<br>\r\nGenerator,meanwhile,seemed to prepare herself. She huffed in a few gulps of air. The heroine pointed down, a flash of electrical power came from her hands. It raised her in the air.<br>\r\n<br>\r\nMissy was quite surprised by the show's CGI, it still looked realistic even when compared to current year.<br>\r\n<br>\r\nGenerator shot off,while Fade followed behind. The duo travled out from their cavern while the city loomed in front of them. After ten minutes of banter,which Missy cringed at, ninety's banter man,the two split up.<br>\r\n<br>\r\nFade,on her skateboard mind you,made her way to the Eastend. A place that seemed to be in disrepair with its derelict buildings and rot. Fade looked around,took a small huff, and folded her board in half. It was half its size,Fade seemed to hold it like a shield.<br>\r\n<br>\r\n\"Was it 24th and Main or 24th and Mulberry?\" Fade said. She tried to remember where the rumors were located. \"This is Eastend I'll probably find an unrelated crime occurring even If I can't find my gangsters.<br>\r\n<br>\r\nAnd with that Fade continued onwards into the rundown locale. Her aimless walk soon bore fruit though, her goggles which had an X-ray function could see three shady looking guys inside of a warehouse. Generator's algorithm made quick work identifying who they were.<br>\r\n<br>\r\n\"John The Hammer, Lawrence Ballikai, and Bruno Giovana.\" Fade spoke. She turned invisible. With that she walked into the warehouse.<br>\r\n<br>\r\nThe scene soon switched to show the other members doing their own thing until it shot right back to Fade. Missy watched Fade with a raised eyebrow.<br>\r\n<br>\r\n\"Is something different about her?\" She asked.</span></div></div>",
+            "created":1605133200,
+            "id":2938591,
+            "title":"Follow Fade on Patrol"
+        },
+        "15313":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "We follow Blue Ice on her patrol",
+                "We then follow Thatway's patrol",
+                "We go to a team meeting."
+            ],
+            "content":"<div class=\"\"><div> <span>Blue Ice picked at her nails with her a file. She whistled with a jaunty tune from mouth. Her rhinestones shimmed in the dull light. Her light blue covering was zipped down to reveal a nice white T-shirt. A fine cup of steaming coca was rested near her on a small table of ice.<br>\r\n<br>\r\n\"Hi!\" A bubbly voice yelled out. Blue Ice,now a little more accustomed to her team mate's antics,screamed in shock <i>without</i> knocking her cup of brown liquid chocolate onto the floor.The teleporter,in her light green bodysuit and smiley face helmet, opened her helmet to reveal a pixie faced lass. She stuck her tongue out at the more serious faced woman. Blue Ice's white hair was a mess from the scare. <br>\r\n<br>\r\n\"You little annoying,rabbit hole jumping,pest!\" Blue Ice hissed out. She delivered a bolt of screaming ice at the teleporter,who neatly dodged it.Thatway yelped in both shock and playfulness. She ended up landing on the couch of The Might Alliance's loft,which was located on the second floor. She peered down at Blue Ice in a giggle fit. Blue Ice waved a fist in sorid anger.<br>\r\n<br>\r\n\"Hrmph. You have got to learn how to grow-up. This childness act is quite annoying,how are you to be a good heroine with this attitude?\" Blue Ice questioned once she went back to her chocolate drink.Thatway teleported down to her teammate,helmet off her head.<br>\r\n<br>\r\n\"Lighten up, we just defeated Alexi! GREAT AND POWERFUL, C.E.O OF MAKAI CORPS! They'll never bother us again,\" Thatway spoke. She mimed the defeat of the group's greatest enemy. The pixie blonde laid back on her back with a grin.<br>\r\n<br>\r\n\"And I can tell you're celebrating way too hard after the fact. Look at the pudge on you! \" Blue Ice yelled,she pointed at Thatway's small paunch and thickened thighs. Though those parts seemed more filled than actually fat,kinda like a balloon.That seemed to get under the teleporter's skin.<br>\r\n<br>\r\n\"Hey,I'm sorry that my,oh so sweeter,habits get the better of me when I'm happy.\" Thatway stuck another tongue out. Blue Ice was 'oh-so' tempted to freeze that appendage she so licked to use.Thatway teleported off,this time seemingly for good. Blue Ice went back to her own duties, which was filing her nails and drinking her hot cocoa. Unaware of a blue spot near her navel.<br>\r\n</span></div></div>",
+            "created":1605069720,
+            "id":2938189,
+            "title":"Blue Ice and Thatway"
+        },
+        "153131":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "After thirty minutes (in universe) Blue Ice felt strange.",
+                "Blue Ice sees someone in distress",
+                "Blue Ice gets called over to a weird crime."
+            ],
+            "content":"<div class=\"\"><div> <span>Blue Ice stretched,her blue belly hidden from both her and the camera. She strutted outside the loft with her hot cocoa. The woman passed down clean grey hallways until she reached a door with a neatly made metal title. 'Blue Ice' done in steel painted blue. Said  heroine with that title smiled.<br>\r\n<br>\r\nShe pushed the door open and looked into her room's interior. Out of all the women,she had the most crisp and clean interior. White cabinets mixed with blue highlights,such as the carpet and small chandelier,gave the room a winter vibe. Heiress to the Caesar Family, Blue Ice had grown up surrounded by expensive things. Though that soon changed when Alexi had come, only her brother and her were spared. With every single resource she could gather, the broken heiress searched long and hard for some power source. Finally received her powers from an experimental mutagen,with these new abilities, Blue Ice could gain revenge on the person who killed her family.<br>\r\n<br>\r\nWhich then resulted in her own humiliating defeat,though soon after she met the women who would one day bring down Alexi.Now,three days later, Blue Ic-no Sarah Caesar was left adrift.True she still wished to be a hero,but what about her civilian life? Her brother Carlito was still running the family business,did she wish to just walk back in and become the family matriarch?<br>\r\n<br>\r\n\"Choices,choices.\" Blue Ice spoke. A thought passed through her brain. She drank the rest of her chocolate before she walked out of her room. She needed to clear her head for a few moments,and what better way to do that than a good old fashioned patrol?<br>\r\n<br>\r\nShe made her way to the cavern's entrance and typed in her number. The doors opened,and while that was happening,Blue Ice did some jumping jacks. When the doors opened wide enough, Blue Ice shot forth on a ice flow of her own creation. She easily skated across the frozen water and headed off towards the city.</span></div></div>",
+            "created":1605199980,
+            "id":2939055,
+            "title":"Blue Ice Adventures: Patrol"
+        },
+        "154":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Crossover in story",
+                "Crossovers between other media",
+                "Sorta unrelated crossovers place thing."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Between storylines and other media.</span></div></span></div>",
+            "created":1602997200,
+            "id":2924264,
+            "title":"Crossovers"
+        },
+        "1543":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Halloween of Five GE Ladies",
+                "Another thing",
+                "Another thing II"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Halloween of Five GE Ladies</span></div></span></div>",
+            "created":1602997200,
+            "id":2924265,
+            "title":"Sorta unrelated crossovers place thing."
+        },
+        "15431":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Choice 1",
+                "Choice 2",
+                "Another"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who are the choices?<br>\r\n<br>\r\nChoice 1: Raven,Barbara,Eve,Jezebel, Emily<br>\r\n<br>\r\nChoice 2:Misty,Cynthia,Eve,Barbara,Lana</span></div></span></div>",
+            "created":1602997200,
+            "id":2924286,
+            "title":"Halloween of Five GE Ladies"
+        },
+        "154312":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Scene II",
+                "Elsewhere"
+            ],
+            "content":"<div class=\"\"><div> <span>Misty stretched her back after her morning jog,in the bed next to her slept Cecelia her girlfriend.The two currently laid themselves in a small bed, though with their proportions it should've been much bigger. The duo's breasts were the large spheres of boob flesh that it would take more than four hands to completely cover just one tit. The couple didn't mind how small their space was though, it made their nightly escapades much easier. Although they did knock each other off the bed in one case of rough foreplay.<br>\r\n<br>\r\n\"Its six Misty.\" Cecelia chimed from the bed with a groan. Misty did a small wave, her hoodie soaked with sweat as well as her bust. The two things created a small river of water between themselves. Held together by a special bind, Misty's breasts were packed as close as possible. With a quick tug at her sides, Misty's angled her face away from her bosom so she wouldn't be hit by the slight recoil her breasts did when they were released.<br>\r\n<br>\r\n\"I keep telling you this is the best time for me. No one can see me run around.\" Misty replied. Her breaths caused her breasts to briefly expand larger before they shrunk back down. \"Getting ready for that little convention being held.\"<br>\r\n<br>\r\n\"Why do you need to get ready, its not like a competition or anything. All you have to do is blab and not perv yourself in front of everybody.\" Cecelia groggily stated. Misty smiled to her girlfriend and waltzed over with her great big bust.<br>\r\n<br>\r\n\"Perv myself like this?\" She asked. The Chinese woman laid her bust across the smaller, yet still large boob, woman on the bed.<br>\r\n-----<br>\r\nAt another part of town one woman flex her body as best as she could.<br>\r\n<br>\r\n\"Hold.Holddd!\" Lana screamed out. Her tree-trunk thighs and calves did their best to keep in the air. Her hips strained because of how much pressure she was putting on them. Her foot was pointed like an arrow to the sky.<br>\r\n<br>\r\nThey looked like plush fat that could easily be used as pillows, but Lana knew that their was muscle strong enough to crush watermelons in her legs. Unfortuantley,she wanted her old flexibility back,not these ridiculous things she had now.The former dancer gasped in relief and in frustration as her balance was lost and she was dumped onto her bum. Which itself had grown a little larger yet was dwarfed by her thighs.<br>\r\n<br>\r\n\"God darnit.\" She laughed out. The fat thigh woman had come somewhat to terms with her changed body. Still she wanted those old dance moves she could do when she was smaller. The woman laid down for a few more moments and then pushed herself upwards to get a drink from her small fridge. <br>\r\n<br>\r\nOnce one of the world's most famous dancers, or at least in the top thirty, Lana had since laid out of public sight. Her swollen thighs,monster calves,and earthquake hips not being something she was proud of. <br>\r\n<br>\r\n\"The convention is soon and I want to look at least capable of what I could do before.\" The woman mumbled while she drank from her bottle of water.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1602997200,
+            "id":2924358,
+            "title":"Three Blue Ladies and Two Athletic Hotties"
+        }
+    },
+    "info":{
+        "author_id":"jawsometeeth",
+        "author_name":"Goodvibes",
+        "brief_description":"A perfect place for lads and ladies of all sizes",
+        "created":1594157880,
+        "description":"<td align=\"left\" class=\"norm\">What can be said of Great Tracts? The university is considered the highest class of the entire region, while the town is considered the most perfect blend of cool forests and calm river beaches. With a population of over two-hundred thousand, and with a rising populace to boot, it seems that town's popularity is ever on the rise. But there have been some concerns with the town's populace. Like how two-thirds of anybody ages seventeen to thirty-two have suffered some <i>minor</i> physical mishaps. Maybe its something in the water, or the air, maybe its the science building acting up, or maybe its that old chemical plant leaking into the fields. Whatever the case, its not <i>that</i> bad...right?<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\nFetishes(If it's not on the list, do not add): <br>\r\n<b>1.All types of expansion/inflation(that includes Fruits in the mix)<br>\r\n1a. On Giant(ess), their size should never exceed one-hundred feet. On berries, the size in both diameter or height should never exceed fifty feet. On inflation, whether they be air or water or what else, the size should never exceed eighty feet.<br>\r\n1b. Multiple fetishes can be mashed together.<br>\r\n<br>\r\n2.Shrinkage.<br>\r\n2a. The size should never go below five inches in height.<br>\r\n<br>\r\n3. Bendies, or more accurately, flattening or stretchable bodies. Mr. Fantastic or flatman and the like. <br>\r\n3a. Lengths should never exceed three-hundred feet if they're rubber men/women.<br>\r\n<br>\r\n4.Balloon girls/guys or anthropomorphic pool toys.<br>\r\n<br>\r\n5.Hose stuffing, force feeding,absorption, and all other types of mouth filling.</b><br>\r\n----------------------------------------------------------------------------------------------------------<br>\r\n<br>\r\nBoth Ladies and Lads can expand in this interactive. <br>\r\nNudity is a-okay. Don't be too graphic in that though.<br>\r\nMethods of expansion, whether they be from sight, or sound, or even allergies, doesn't matter.<br>\r\nExpansion* is permanent in all cases except: Breast Expansion, Berrisim, and Ballooning.<br>\r\n<i>A. Breast Expansion should only cut down ten inches all around every milking session.<br>\r\nB. Berrisim should always shrink an afflicted down, unless stated otherwise. It should also lead towards permanent flexibility.<br>\r\nC. Ballooning does/does not lead to flattening, depending on the writer's preference.</i> <br>\r\nSpelling and grammar should both be at an acceptable level of comprehension.<br>\r\nA chapter should have at least <i>1100</i> in characters.<br>\r\n*That are not triggered-as in from allergies or sight or sound,etc.<br>\r\n<br>\r\nEDIT: 9/15/20<br>\r\n<b>Bendies can now be over 500ft in length.<br>\r\nWeight Gain men and women can't be over 3,000 pounds.</b><br>\r\n<b>Maximum Age is now 35 Years Old.<br>\r\nGiantess can now be over 200 ft in height.<br>\r\nShrinking can be under 3 inches in height.</b></td>",
+        "id":2226267,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1609037940,
+        "modified":1609037940,
+        "pretty_title":"Great Tracts:An Expansion Interactive"
+    }
+}

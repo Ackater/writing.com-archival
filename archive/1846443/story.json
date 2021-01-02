@@ -1,0 +1,320 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Prey",
+                "Predator"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a Predator, or Prey?</span></div></span></div>",
+            "created":1328504400,
+            "id":1271920,
+            "title":"Prey or Predator?"
+        },
+        "11":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Kanto",
+                "Johto",
+                "Hoenn",
+                "Sinnoh",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which reigon are you from?</span></div></span></div>",
+            "created":1328504400,
+            "id":1271921,
+            "title":"Region"
+        },
+        "111":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter",
+                "Pikachu",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Pokemon are you?</span></div></span></div>",
+            "created":1328504400,
+            "id":1271922,
+            "title":"Kanto Pokemon"
+        },
+        "112":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter Pokemon",
+                "Togepi",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of pokemon are you?</span></div></span></div>",
+            "created":1328504400,
+            "id":1271925,
+            "title":"Johto Pokemon"
+        },
+        "1121":{
+            "choices":[
+                "Cyndaquil",
+                "Totodile",
+                "Chikorita"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will you be?</span></div></span></div>",
+            "created":1468973880,
+            "id":2183202,
+            "title":"Starter Pokemon"
+        },
+        "113":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter Pokemon",
+                "Poochyena",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Pokemon are you</span></div></span></div>",
+            "created":1328504400,
+            "id":1271926,
+            "title":"Hoenn Pokemon"
+        },
+        "114":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter Pokemon",
+                "Buizel",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Pokemon are you?</span></div></span></div>",
+            "created":1328504400,
+            "id":1271928,
+            "title":"Sinnoh Pokemon"
+        },
+        "115":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Unova",
+                "Kalos"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What Region are you from?</span></div></span></div>",
+            "created":1328504400,
+            "id":1271929,
+            "title":"Region"
+        },
+        "1151":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter Pokemon",
+                "Patrat",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Pokemon are you?</span></div></span></div>",
+            "created":1394251020,
+            "id":1757117,
+            "title":"Unova Pokemon"
+        },
+        "1152":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter Pokemon",
+                "Fletchling",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Pokemon are you?</span></div></span></div>",
+            "created":1394251140,
+            "id":1757118,
+            "title":"Kalos Pokemon"
+        },
+        "12":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Kanto",
+                "Johto",
+                "Hoenn",
+                "Sinnoh",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What Region are you from?</span></div></span></div>",
+            "created":1328504400,
+            "id":1271930,
+            "title":"Region"
+        },
+        "121":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter Pokemon",
+                "Arcanine",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Pokemon are you?</span></div></span></div>",
+            "created":1328504400,
+            "id":1271932,
+            "title":"Kanto Pokemon"
+        },
+        "1211":{
+            "choices":[
+                "Venusaur",
+                "Charizard",
+                "Blastoise"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What starter are you</span></div></span></div>",
+            "created":1328730600,
+            "id":1272936,
+            "title":"Starter Pokemon"
+        },
+        "12112":{
+            "choices":[
+                "Zorua (prey)",
+                "Snorlax (predator)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You walk through the woods looking for something to eat you see some choices but not all of them are good ones</span></div></span></div>",
+            "created":1379892660,
+            "id":1667781,
+            "title":"Charizard"
+        },
+        "1213":{
+            "author_id":"yveshku",
+            "author_name":"Tao Dragon",
+            "choices":[
+                "Ninetales",
+                "Dragonite",
+                "more... (because we know there are more, somehow)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about one of these?</span></div></span></div>",
+            "created":1485973620,
+            "id":2272095,
+            "title":"Other"
+        },
+        "12131":{
+            "author_id":"yveshku",
+            "author_name":"Tao Dragon",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a boy, or are you a girl?<br>\r\n-Prof. Oak, 1996</span></div></span></div>",
+            "created":1485977700,
+            "id":2272110,
+            "title":"Gender "
+        },
+        "121311":{
+            "author_id":"yveshku",
+            "author_name":"Tao Dragon",
+            "choices":[
+                "Go look for food.",
+                "Go exploring."
+            ],
+            "content":"<div class=\"\"><div> <span>You were a wonderful pokemon indeed. Psychic power without the psychic type, beautiful golden fur, the whole deal. Ever since birth, you were used to being the prey. A relatively easy target if not for some hiding places. But you had once come across a fire stone in a cave. And now, you're the predator. The world exploring was much less dangerous for you now.<br>\r\nBut obviously you weren't the top of the food chain. There were still a handful of different species that would make you a meal.<br>\r\nSo despite being higher up, you still had to be cautious about some things. And while berries and other fruits still taste nice, you've had a fair craving for meat as well.<br>\r\nYou just woke up, looking out of your small cave to see the sunrise. It was as beautiful as you were. Now you decide to do...</span></div></div>",
+            "created":1485981120,
+            "id":2272124,
+            "title":"The Mystic Fire Fox"
+        },
+        "122":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter Pokemon",
+                "Skarmory",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Pokemon are you?</span></div></span></div>",
+            "created":1328562660,
+            "id":1271933,
+            "title":"Johto Pokemon"
+        },
+        "1221":{
+            "author_id":"comp234",
+            "author_name":"Harry",
+            "choices":[
+                "Feraligatr",
+                "Typhlosion",
+                "Meganium"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>which one would you like to be?</span></div></span></div>",
+            "created":1385370960,
+            "id":1698843,
+            "title":"Starter Pokemon"
+        },
+        "123":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter Pokemon",
+                "Pelipper",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Pokemon are you?</span></div></span></div>",
+            "created":1328562720,
+            "id":1271934,
+            "title":"Hoenn Pokemon"
+        },
+        "124":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter",
+                "Lucario",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Pokemon are you?</span></div></span></div>",
+            "created":1328562780,
+            "id":1271935,
+            "title":"Sinnoh Pokemon"
+        },
+        "125":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Unova",
+                "Kalos"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you from Unova or Kalos?</span></div></span></div>",
+            "created":1328562840,
+            "id":1271937,
+            "title":"Region"
+        },
+        "1251":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter Pokemon",
+                "Zoroark",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Pokemon are you?</span></div></span></div>",
+            "created":1394250600,
+            "id":1757110,
+            "title":"Unova Pokemon"
+        },
+        "1252":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Starter Pokemon",
+                "Tyrantrum",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Pokemon are you?</span></div></span></div>",
+            "created":1394250780,
+            "id":1757112,
+            "title":"Kalos Pokemon"
+        }
+    },
+    "info":{
+        "author_id":"skywarrior492",
+        "author_name":"Sealwolf",
+        "brief_description":"Live your life as a Pokemon and survive from the forces of nature...and especially vore.",
+        "created":1328561880,
+        "description":"<td align=\"left\" class=\"norm\">In this story, you are a Pokemon who is struggling to survive. You can choose to be either a predator or prey. Also, you can be a pokemon from any region.<br>\r\n<br>\r\nRules of a Predator:<br>\r\nYou can vore prey pokemon in anyway.(Oral, Cock, Unbirth, etc.)<br>\r\nSome predators will try to eat you if you're small enough.<br>\r\nEither from those, you might be able to survive more.<br>\r\n<br>\r\nRules of Prey:<br>\r\nYou will be Vored in any other way.<br>\r\nPrey cannot vore any other prey, they can only eat berries and fruit.<br>\r\nNo matter how many causes happen, you will still be vulnerable. (Prey Lovers Ahoy! XD)<br>\r\nIf you must, your prey can survive and live longer. :)<br>\r\n<br>\r\nOther Rules:<br>\r\nYou can also say that you will die from natural disasters.<br>\r\nThere cannot be humans in this story, I have a problem with that for some reason.<br>\r\nThere cannot be any Legendary Pokemon. Seriously! That will be cheating.<br>\r\n<br>\r\nGood luck and try to survive!</td>",
+        "id":1846443,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1485981120,
+        "modified":1485981120,
+        "pretty_title":"Pokemon Survival"
+    }
+}

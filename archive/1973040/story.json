@@ -1,0 +1,589 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "story",
+                "story",
+                "story",
+                "bio",
+                "private messaging terminal for submitting ideas for expansion ie other dimension"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welcome aboard. This is your captain speaking please head over to one of the data terminals and enter your details. If you need an example feel free to view my bio. Good look and I hope to see you around the station *speaker turns off*<br>\r\n</span></div></span></div>",
+            "created":1390280400,
+            "id":1731093,
+            "title":"welcome aboard"
+        },
+        "11":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "continue",
+                "continue",
+                "continue",
+                "continue",
+                "space for me to descibe more"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Captains log. Day one. I'm alone on the station but soon the crew will be here. End log\" Eoin Sat back in his chair and rubbed his eyes. He dev died to go for a walk on the new station<br>\r\n<br>\r\nHe walked through the quiet corridors of the station looking out onto the earth that he had left to command this station. <br>\r\n<br>\r\nHe looked into the state of the art labs and medical wing to help humans and any new races they discover. Security had camera feeds and the latest gear. <br>\r\n<br>\r\nEvery person on the station would have a private room free for them to decorate and customize.</span></div></div>",
+            "created":1390280400,
+            "id":1731103,
+            "title":"first day aboard"
+        },
+        "111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "male crew member",
+                "female crew member",
+                "Ai"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Eoin returned to his cabin and began going through forms and files that had to be completed for the new equipment and personnel. After a while he heard a knock on the door. It was....</span></div></span></div>",
+            "created":1390539600,
+            "id":1732307,
+            "title":"a knock on the door"
+        },
+        "1112":{
+            "author_id":"kiwifio",
+            "author_name":"KiwiFi",
+            "choices":[
+                "Give job as chef.",
+                "Give job as bartender.",
+                "Give a different job."
+            ],
+            "content":"<div class=\"\"><div> <span>Fiona took a deep breath and entered the captain's cabin. She was very nervous, having not been on a space station before.<br>\r\n<br>\r\n\"Hello Captain, I have just arrived and would like a job. I have had the job of chef and bartender on earth, but I would like to learn new skills. If you could point me in the right direction?\"<br>\r\n<br>\r\n</span></div></div>",
+            "created":1390539600,
+            "id":1732561,
+            "title":"female crew member"
+        },
+        "11123":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "protest",
+                "accept"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Looking up from his work, Eon looked Fiona up and down. He decided that she had potential if pointed in the right direction. \"I'm assigning you to research. Your alone down there right now so I want you to get familiar with the machines\"</span></div></span></div>",
+            "created":1390539600,
+            "id":1732563,
+            "title":"Give a different job."
+        },
+        "111232":{
+            "author_id":"kiwifio",
+            "author_name":"KiwiFi",
+            "choices":[
+                "Asked to be shown around the station.",
+                "Asked a different question."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Thank you, Sir, I'll do my best.\"<br>\r\n<br>\r\nFiona turned toward the door, then paused. Turning back to the captain she...</span></div></span></div>",
+            "created":1390539600,
+            "id":1732640,
+            "title":"accept"
+        },
+        "1112321":{
+            "author_id":"kiwifio",
+            "author_name":"KiwiFi",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Fiona nervously shuffled her feet.<br>\r\n<br>\r\n\"Uh, Sir, if you're not busy, would you be able to show me around the station?\"</span></div></span></div>",
+            "created":1390539600,
+            "id":1732645,
+            "title":"Asked to be shown around the station."
+        },
+        "11123212":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "revenge",
+                "just work in lab"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Later. I'm busy as you should be. Go do your job Fiona\" returns to his work.</span></div></span></div>",
+            "created":1390539600,
+            "id":1732647,
+            "title":"No"
+        },
+        "1112322":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "weird machine",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Can you come down to labs after two hours?\" To which Eoin said \"of course\"<br>\r\n<br>\r\nOnce Fiona got to the lab she saw.....</span></div></span></div>",
+            "created":1390539600,
+            "id":1732644,
+            "title":"Asked a different question."
+        },
+        "11123221":{
+            "author_id":"kiwifio",
+            "author_name":"KiwiFi",
+            "choices":[
+                "Turn the machine on and press buttons at random.",
+                "Look for a manual to find out how to use machine."
+            ],
+            "content":"<div class=\"\"><div> <span>Fiona entered the lab and took in her new surroundings. The entire room was white and sterile looking, <br>\r\nBeakers and test tubes were laid out on a stainless steel table against one wall. A computer sat upon a desk in the corner of the room. <br>\r\nIn the center of the room sat a black machine. Fiona had never seen a machine like this before. It had many buttons and a couple of levers. A small red light glowing at the front made Fiona assume the machine was off.</span></div></div>",
+            "created":1390539600,
+            "id":1732684,
+            "title":"weird machine"
+        },
+        "111232211":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "a necklace popped out",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Fiona went up to the machine and turned it on, well what she assumed was the on button, and began to push buttons. Suddenly there was a rumble from the machine and</span></div></span></div>",
+            "created":1390626000,
+            "id":1732773,
+            "title":"what could go wrong."
+        },
+        "1112322111":{
+            "author_id":"kiwifio",
+            "author_name":"KiwiFi",
+            "choices":[
+                "Put the necklace on.",
+                "Dropped the necklace on the table."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"That's weird,\" <br>\r\nFiona picked up the necklace gingerly. The fluorescent light danced off the dark blue stone as it spun. She glanced up at the security camera and...</span></div></span></div>",
+            "created":1390626000,
+            "id":1732813,
+            "title":"a necklace popped out"
+        },
+        "11123221111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "plans for a device",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>Putting the necklace on she noticed that the necklace had a small usb drive for plugging into a terminal. The drive itself was contained in the sapphire that was the centrepiece of the necklace, surrounded by gold. Curious Fiona plugged it into the data terminals to reveal....</span></div></div>",
+            "created":1390626000,
+            "id":1732832,
+            "title":"Put the necklace on."
+        },
+        "115":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "crew arrival",
+                "something else",
+                "strange email...."
+            ],
+            "content":"<div class=\"\"><div> <span>Maintenance was full of tools and linked directly with the cargobay. The large hanger cut fit three shuttles at once, each the size of a jet.  Sighing with awe at the size and detail of his station's of which he had not visited yet, Eoin began to return to his own cabin.<br>\r\n<br>\r\nInside he began filing reports and waiting for crew to arrive.</span></div></div>",
+            "created":1390280400,
+            "id":1731123,
+            "title":"space for me to descibe more"
+        },
+        "1151":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "in a cabin",
+                "the assembly",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>Members of the crew began to file into the station from the arrivals bay and formed lines leading to the terminals for registering. Eoin could see people talking and joking in the lines and smiled to himself that this was the friendly crew he had on his station.<br>\r\n<br>\r\nAfter the lines had dispersed to the various cabins Eoin planned to have a general assembly to welcome everyone aboard.</span></div></div>",
+            "created":1390280400,
+            "id":1731230,
+            "title":"crew arrival"
+        },
+        "12":{
+            "author_id":"masterstalin",
+            "author_name":"masterstalin",
+            "choices":[
+                "Continue "
+            ],
+            "content":"<div class=\"\"><div> <span>\"Journal Date 4M69.3-16: The Scientific Research Team has been sent to investigate this strange temple we picked up on the ship's scanners. The strange temple is located within the planet's denser parts of the jungle. The location is Coordinates 50.26.60.02.04. We have landed at Coordinates 50.26.60.05.07. just a ways from the temple.\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-16#2: We have gained an strategic advantage by landing near a cliff overlooking the temple and the temple yard. The Research Team has set up riggings so we can get down the cliff. I am now descending the rigging. I have reached the bottom. We are in the yard and the temple is is dire need of repairs, hehe. Oh wait, these things will write down anything I say. CRA...\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-16#3: The Research Team found a way inside through the top of the temple. Now inside the temple, we now see that the material used by whoever used them is very complex. Getting readings of high amounts of helium along with aluminum and some other element even not found on Earth. The second in command is assembling a team to go deeper into the temple's lower levels. I am going with 'em.\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-16#4: I just received word that the day is almost over. Feels like we've just been down here for hours. We will continue to explore and examine the temple tomorrow.\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-17: New day, new discoveries. We continue to finish up our work from tomorrow. We are currently twenty-eight levels into the temple. Jesus, how many levels does this temple have?\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-17#2: We have reached a massive door that appears to be locked. We will try to. FIRE IN THE HOLE! *boom* DAMNIT Jan, do you know how valuable this temple is worth to science? Nope. Great Jan, now you ruined the entire journal entries.\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-17#3: Jan blew up the door and we now are seeing what we are not believing. The civilization that used this temple must of used it for less than religious reasons. Looks like the inside of a ship's bridge combined with a lower level that looks like the rest of the temple containing these weird pods. Further analysis indicate, Jan you screwed up one thing today, you better not screw up anything else. Further analysis indicates that, JAN DON'T PUSH THAT BUTTO<br>\r\n<br>\r\n\"Journal Date 4M69.3-17#4: Jan screwed up yet again. He pushed a button and then all electronics, even the strange ones, turned off. Jan what were you thinking. Hey guys, come look at this. What is it? One of the pods is broken, freshly broken too, like something was trying to escape. It wasn't like that when we found it. In fact, all of them weren't like that, except that one. What were those being using this stuff for anyway?\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-17#5: OH CRAP! JESSICA'S DEAD! OH GOD! OH GOD! SHIT I'M OUT OF HERE!\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-17#6: OK, so Drake bailed on us. It's ok, along as OH SHIT! What is it, oh, my, god!\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-17#7: Something is trying to kill us. It is best to. AAAAAAAaaaaaaaaa. That sounded like it came from the upper levels.\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-17#8: OH god, the entire main group is dead. All of them. All of them are dead. Oh god.\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-17#9: I AM RUNNING BACK TO THE LANDING SHIP! IT, IT KILLED EVERYONE! HOW, I'M OUT! DISTANCE ME FROM THE TEMPLE! GOTTA DISTANCE MYSELF!\"<br>\r\n<br>\r\n\"Journal Date 4M69.3-17#10: I'm on the landing ship. I'm off the planet. It can't get me. It can't get me. What was that? I heard a noise. What, was *Skeeeck* OH FUCKING JESUS GOD!!\"</span></div></div>",
+            "created":1403931600,
+            "id":1818967,
+            "title":"Prologue"
+        },
+        "121":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "continue",
+                "continue",
+                "continue"
+            ],
+            "content":"<div class=\"\"><div> <span>The dawn of a new day on Earth, and so it is on Space Station Alpha. Captain Eoin Larkin, the head of Space Station Alpha, arrived in his office 4 hours early to get a head start on the day. At his control panel, he radios down to security to signify the end of the night shift, as the night guards were wrapping up for the trips back to their rooms within the station.<br>\r\n<br>\r\nHours later, he looks at the clock as it reads 6:58 AM EST. A few more minutes and he would do the best thing someone like him would enjoy: Waking everyone up to establish another busy day of peoples lives come together and give Space Station Alpha life. 6:59 AM EST, the clock reads, as Captain Larkin sips his morning brew. \"I love my job.\" he proudly says.<br>\r\n<br>\r\n7:00 AM EST. He turns a key and pushes a few buttons and within seconds, everyone's alarm clocks start ringing...</span></div></div>",
+            "created":1404104400,
+            "id":1820237,
+            "title":"Continue "
+        },
+        "13":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "The update meeting is delayed when there are some riots down on the planet.",
+                "During the update meeting Peter learns supplies from Sol have been cut back.",
+                "The meeting gives Peter a grim picture, mainly of the rush to get things going.",
+                "Some reports indicate the locals might have had space travel a long time ago.",
+                "Some other issues as Peter is brought up to speed."
+            ],
+            "content":"<div class=\"\"><div> <span>(Note, if anyone add something from here try to keep to the feel of this. I'm trying to go with a 'NASA' style real world feel, with just a form of FTL drive the one 'magic' tech. So no gravity plating, shields, tractor beams, teleporters etc.)<br>\r\n<br>\r\nLight sparkled gently in the distance as the metal object in view slowly grew. The faint sparks of light were the main attention, the gentle blues, greens and browns of the planet below barely noticed. The bubble canopy did at least give a great view as Peter Langstrom's transfer pod was manhandled by the remote guidance of the station's traffic control, though he had seen Earth from orbit too many times to be awestruck as most were whenever they saw such a world from up here. This kind of view was a stark contrast to his time on a Peregrine asteroid patrol boat. Those things were, like most pseudo warships of the Inner belt, a brick with all inhabited sections sealed in the center, seeing out only via cameras on view screens. It was nice to get the civvy 'full view' for a change.<br>\r\n<br>\r\nAs he leaned against the wall next to the canopy, one foot in a restraint to keep him stable against the gentle thrust of the pod, he kept his view ahead. Still hard to believe this was happening. Over a century and a half in space, dozens of probes to nearby systems, and the first alien they meet was actually more primitive than Earth. Hard to fathom really that they'd both developed to that position in so close a time period considering the age of the universe, though still so little was known about the Lenk. He sighed, knowing at least three quarters of his job would be managing relations. He'd been over the notes, the first contact reports, the scientific journals the lab boys back on Ceres had done, but actually being here? Working with these 'people?' This would be... different.<br>\r\n<br>\r\nAnd of course the eyes of all of Sol would be on him.<br>\r\n<br>\r\n\"Final approach. All crew fasten seatbelts.\" Came the automated soft toned voice from the control system.<br>\r\n<br>\r\nLanstrom snorted. He'd flown all kinds of ships in his sixty years in space and he'd be damned if he'd clamp down now. He stayed up against the wall but did loop one hand through another strap to keep him in place along with him resting on the wall itself. Three points of contact and all. Besides, he was the only one on this pod. It was hardly mandatory.<br>\r\n<br>\r\nFinally the tiny glints of light coalesced into a visible form. Mostly it wasn't being so far away, it was just the angle of the light made it difficult to make out much. Now, as he got closer, more of the curve of the station's hull came into view, a dull cylinder, slightly shorter than it was wide, spinning slowly. That was deceptive he knew. The thing was over a kilometer wide, though a lot of that space was the autofacs, cargo shunts and storage depots. The thing hadn't been assembled here, the frame had been brought in by jump freighter then fitted out. The official line was it's purpose was joint meeting spot and orbital rendezvous for trade. He still felt odd about that. The locals had been in space for less than a decade. Them trading for advanced Sol gear? Sounded awful fishy to him.<br>\r\n<br>\r\nAfter five minutes the pod closed in, slowly decelerating the entire time, then puffs of vapor filled his view as it circled. He chuckled as the pod jinked, twisted, then bobbed in place, aligning to the docking bay in the center. He knew those maneuvers hardly needed to be that awkward. Someone on the control board over there was trying to dislodge him. He tightened his grip and tensed his foot and managed to keep stable. Who ever it was seemed to calm down once he'd seen nothing was resulting from his antics. He made a mental note to check the logs later to see who was in control.<br>\r\n<br>\r\nThe light dimmed as the pod entered the bay, sliding slowly inside then gently turning to present it's rear to the inner wall. With a soft clunk the pod sealed against a connection airlock and the 'Docked' light popped up overhead. He chuckled at that too. For some reason no matter how advanced the displays, holoprojectors and other gizmos got, emergency displays were still two color back-lit panels. Supposedly for redundancy and making it almost entirely solid state. 'Can't fail' were words engineers hardly ever used for fear of the Titanic effect. 'Unsinkable' indeed. However in this case those things were claimed to be able to run with the whole rest of the ship shattered and ripped apart. They didn't quite claim they could survive a nuclear blast, but close.<br>\r\n<br>\r\nWith a tap on the wall the hatch gurgled as the airlock cycled, then the inner door popped out and slid into the ceiling. With practiced grace Langstrom pushed forward and floated across the airlock. The thing swung shut behind him and cycled, surprisingly quickly in fact. In barely two seconds the far hatch was opening. He hoped corners hadn't been cut on systems. Hazard checks should be standard during the cycle. Another note for later checking.<br>\r\n<br>\r\n\"Captain on deck!\" Came from inside as he nodded and floated inside, seeing the three people in the standard deep blue Sol Navy uniforms waiting for him. He grabbed the side rail and pulled himself to the floor, his grip soles contacting the central walkway and sticking as the welcoming committee saluted him. He saluted with his free hand and gave the formal greeting since time immemorial.<br>\r\n<br>\r\n\"Permission to come aboard Commander?\"<br>\r\n<br>\r\n\"Permission granted sir.\" The tall blonde man said smiling \"Commander Archibald Flemming, acting commander of Space Station Alpha.\" He motioned to his left to the woman with the white shoulder patch who nodded politely \"This is Doctor Drishti Chakrabarti, head of medical and bio-research.\" He then indicated the stocky man to her left. \"And this is Phillipe Anders, Anthropology and Linguist. Chief Engineer Masters wanted to greet you too, but we have some issues with the filtration system. It seems there is some kind of semi-annual pollen bloom and the last shuttles up from the planet brought too much up with them.\"<br>\r\n<br>\r\nLangstrom blinked.<br>\r\n<br>\r\n\"I'm sorry. This place had been operational, what? Three months? There are quarantine procedures still active aren't there?\"<br>\r\n<br>\r\nFlemming coughed and licked his suddenly dry lips.<br>\r\n<br>\r\n\"We. Ah... have been pushed pretty hard by Central command to get things going quickly. We're supposed to have a full spaceport just outside the city of Keerasto up and running within the week. We had a grade four site going up till a month ago when we started upgrading and it's been shut down since then limiting us to light shuttles. Now... well, suffice to say things are behind schedule.\"<br>\r\n<br>\r\n\"I see. It would seem there has been a great deal missed from my mission briefing. Commander, schedule an hour for full update on the current planetary situation ASAP. Bring whatever experts you need in, virtually or in person, I don't care. But make sure you have all needed information available.\"<br>\r\n<br>\r\n\"Yes sir.\"<br>\r\n<br>\r\nThe tension was definitely higher as he was escorted to the main elevator down to the artificial grav sections on the outer rim. It looked like he'd have his work cut out for him even before he met the locals!</span></div></div>",
+            "created":1586408400,
+            "id":2815950,
+            "title":"Post Contact."
+        },
+        "133":{
+            "author_id":"gimlet",
+            "author_name":"Gimlet",
+            "choices":[
+                "After the meeting he finally gets to meet several Lenk representing their people",
+                "Peter decides to call in some favors back at Ceres Base to improve matters.",
+                "An archaeological group want to go down to Lenk. How did they get permission?"
+            ],
+            "content":"<div class=\"\"><div> <span>\"...to at least seven major cities. We've also had some issues with the ergonomics. They don't use chairs at all and we've had to adapt most of our bathroom fittings to be compliant... and comfortable. It's safe to say so far all of the zero-g facilities on the shuttles are not safe for Lenk in the slightest. We've updated all access panels to show flashing 'Not Lenk Compatible' signs until the lab boys get things sorted.\"<br>\r\n<br>\r\n\"But the political scene?\" Peter asked. \"Last I heard they had managed some form of coalition?\"<br>\r\n<br>\r\n\"Ah... not exactly.\" Professor Anders said, blinking a few times rapidly to himself. Probably updating his tab on something. So many people still used reflexive controls for their tab implants. Langstrom's were fully mentally controlled. Allowed him to keep eye contact firmly while still shifting through data on his internal HUD. \"Shortly after First Contact a year ago they did get an organization together from fifteen of the twenty odd nations on Alpheese. However it was hardly a success. Seven pulled out a few months later, attempting to contact us separately. Things have not gone well since. I'm honestly surprised you don't know all this already sir.\"<br>\r\n<br>\r\nLangstrom sighed. This meeting was getting a lot of sighs it seemed.<br>\r\n<br>\r\n\"Comms on the SIG have been restricted. Outgoing from here at least. Surely you keep up to date on the networks? Have you seen any news regarding Alpheese and the Origaniss system?\" The scientist frowned and shook his head. Peters sometimes wondered how these 'experts' kept at the head of their field they were so out of touch. \"The Grid has been clamoring for info on the aliens for the last year. Very little beyond physiological data and a few nation names has come out. The Inner Alliance and Earth Operations both have clamped down hard. I have no idea how they managed to persuade the belts and outer system to comply, but they apparently have. So far none of the Sol governments have been questioning the silence, just the populace.\" He glanced slowly around the room, filled with eighteen specialists of one form or another, some hear in person, others projections. \"I don't suppose you have any idea the reason for this?\"<br>\r\n<br>\r\nThe various faces looked puzzled, and mostly just shook their heads in silence. Doctor Chakrabarti shook her head more vehemently, though sadly.<br>\r\n<br>\r\n\"So, Sol leaders are clamming up huh? Why does that not surprise me?\"<br>\r\n<br>\r\n\"You have an angle on this Doctor?\"<br>\r\n<br>\r\n\"Only that it's the same thing anything new comes around. The Co-Ecs, the Sens, the committees. They all have been trying to stamp on the SIG networks since it was founded. Up till Higgs they never were successful. The last fifty years though... well, probably thirty. Before that Higgs drives were just too expensive to do much for most folk. Now? They've been cornering the market connecting the local networks with FTL jump transfers and establishing choke points. Now they have their grubby little mitts on all the info they need, and keeping it out of the proles hands.\"<br>\r\n<br>\r\nAh. One of those. Her accent sounded like one of the Outer Belts, or perhaps Outsystem. Where ever she was from (it was blank on her resume, Peter had checked) they obviously had no love of the in-system governments or controls on the System Information Grid.<br>\r\n<br>\r\n\"Doctor, I'll thank you to curtail unsupported rumors to yourself.\" Langstrom said with a scowl, making another note in his tab to look closer in on her background.  \"However in some regards you are correct. I know that at least some Government organisations are directly blocking information coming from the Higgs jumps from Origaniss. Others aren't, but still information is lacking. As I said I'm not sure how these blocks are being enabled, but they are. Honestly I understand why. People already over-reacted when contact was made, even with the sparse info available. Now they fear various organisations using data on the Lenk as leverage for their particular soapbox or policies. You know how the Earth Coalition is, let alone the defense grids and Earth Operations. They don't want any funding pulled from their corner. No-one wants another Ellison Incident, but they also keep attempting to cut funding.\"<br>\r\n<br>\r\nThe Asteroid Defense 'Earth Operations' field was one of his personal gripes, and it's perpetual lack of funding. With so much of the populace now in Habitats around the system you'd think they'd be more open to spending to map and re-direct asteroids that were dangerous? But things had never been easy for Operations, despite some nasty incidents, that some scaremongers still insisted weren't real but faked up just to give credence to Earth Operations' necessity. Idiots! Probably still Flat Earthers. How those people still existed in this day and age still bemused him, even off Earth apparently! Claimed the transports were faked with holographic windows to hide the truth!<br>\r\n<br>\r\nHe shook his head. It was too easy to get his mind focused on such stupidity. He'd had to deal with too much of it in the past.<br>\r\n<br>\r\n\"As far as that affecting us... I'm told the Alliance will be maintaining current funding so that shouldn't be an issue... what?\"<br>\r\n<br>\r\nCommander Anders was looking decidedly frustrated.<br>\r\n<br>\r\n\"Maintaining funding? Our budget has been cut three times in the last month, the resupply ships have been coming less frequently, and all requests for a dedicated jump transport here have been denied. This was supposed to be a shining beacon of our interaction with our first neighbors! Now we're being starved of resources and told to 'make do' until things are sorted out. What needs sorting out?\"<br>\r\n<br>\r\nThat was news to Langstrom. He knew things would be a little tight here, but to cut funding so soon after setting up the station? This place was supposed to eventually have a full station with out-rider facilities handling larger transports directly. A complete stop point for any in coming transports. Had that all been put on hold?<br>\r\n<br>\r\nWith a sigh he continued with the meeting. It seemed his time in charge here would be more political than he expected. And he hadn't even met any of the locals yet!</span></div></div>",
+            "created":1586408400,
+            "id":2815999,
+            "title":"Mixed priorities."
+        },
+        "14":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "bio",
+                "bio",
+                "bio",
+                "bio"
+            ],
+            "content":"<div class=\"\"><div> <span>Name : Eoin Larkin<br>\r\n<br>\r\nBirth place : ireland<br>\r\n<br>\r\nCurrent job on station : Captain<br>\r\n<br>\r\nBackground: history of military and science. Chosen to lead the alpha program for living in space.<br>\r\n<br>\r\nFeatures : tall man with buzz cut hair and stubble on face. Robotic left hand and left eye. Requires maintenance every so often.</span></div></div>",
+            "created":1390280400,
+            "id":1731095,
+            "title":"example bio "
+        },
+        "141":{
+            "author_id":"kiwifio",
+            "author_name":"KiwiFi",
+            "choices":[
+                "bio",
+                "bio",
+                "bio"
+            ],
+            "content":"<div class=\"\"><div> <span>Name:  Fiona<br>\r\n<br>\r\nBirth place:  New Zealand<br>\r\n<br>\r\nBackground:  Held the jobs of chef and bartender on earth. Has no experience  in other areas.<br>\r\n<br>\r\nFeatures:  Shoulder length, mousey brown hair. Short, slender stature. Plain in appearance.</span></div></div>",
+            "created":1390539600,
+            "id":1732554,
+            "title":"bio"
+        },
+        "142":{
+            "author_id":"brandygang",
+            "author_name":"brandygang",
+            "choices":[
+                "Enter Laney Morrigan",
+                "Bio: Police Chief",
+                "Bio"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Laney Morrigan<br>\r\n<br>\r\nBirth Place: San Francisco <br>\r\n<br>\r\nAge: 23<br>\r\n<br>\r\nCurrent Job on the Station: Secondary Security Chief and head of Surveillance Clearance Operations<br>\r\n<br>\r\nBackground: Laney was raised by her grandmother at a young age, and than by her companions and various associates there after in California. Often a hardened and bitter soul by nature, she calmed up when a police chief took her in, even if she was in and out. It was through his advisory and guidance that she received this job, and having seen the worse of gangs and street activity, she knows a thing or two about surveillance and keeping tabs on things. Took a technical training class for Security software and manages all investigative issues on the Station, although it falls onto her superior officer, the Police Chief to actually administer authority and punishment.<br>\r\n<br>\r\nFeatures: Slightly tanned, strong and firm young Women. Hair is dyed red, hazel eyes and wears her knee-high stompers with a vinyl skintight security uniform with various peace-keeping gadgets. </span></div></div>",
+            "created":1391144400,
+            "id":1735853,
+            "title":"Bio: Laney "
+        },
+        "1421":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "she accepts",
+                "she refuses/sneaks off the camera feed",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>Eoin watched Laney enter the station from the security feed. He had read her file before hand and with a bit of convincing from the police chief allowed her on board the station as a member of security. She was , for the time being, simply meant to monitor camera feeds and relay information to the actual officers on the ground. He decided to introduce himself while the station was still quiet and sent her a invitation to his office/cabin.</span></div></div>",
+            "created":1391144400,
+            "id":1735877,
+            "title":"Enter Laney Morrigan"
+        },
+        "14211":{
+            "author_id":"brandygang",
+            "author_name":"brandygang",
+            "choices":[
+                "Something special on the monitor",
+                "A wrapped gift for her"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Yep. Hmmhm. Whatever.\" Laney let the Captain Eoin prattle on about her duties and all the important boring busywork he'd have her doing. He went over all her equipment and areas where she needed to monitor, even though she'd been brief it beforehand a million times. Eventually they were towards the end of her introductory recruitment and she'd thought that here ears were going to fall out. But he finally finished briefing her on proto call and told her there was something special waiting for her in his Office that he promised she would like. She accepted the offer and went to his room. Looking up, she saw..</span></div></div>",
+            "created":1391144400,
+            "id":1735928,
+            "title":"she accepts"
+        },
+        "142112":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "angry response ",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Inside the gift lay her ID , communicator and a platinum credit chip with a note attached \"hey princess, can't make it to the station there's  business down here holding me up good luck up there. I love you, your father\"</span></div></span></div>",
+            "created":1391230800,
+            "id":1736421,
+            "title":"A wrapped gift for her"
+        },
+        "1421121":{
+            "author_id":"brandygang",
+            "author_name":"brandygang",
+            "choices":[
+                "Heading to the Station store",
+                "An alert from Captain Eoin"
+            ],
+            "content":"<div class=\"\"><div> <span>Laney stomped her foot slightly and crunched up the wrapping, squeezing her fist. \"The arrogance of that man. He'd never been there for me and never will.\" She reminded herself. throwing the packaging in the trash, she stored her ID and communicator in her pockets and sighed, licking her lips at the Platinum Credit Chip. \"Atleast he's not cheap. Even absent and a failure as a dad, he's pretty loaded.\" Holding up the Chip, it was with 50000 Credits, enough to provide for her for a while even while her basics were provided on the ship. If he was going to insult her by calling her 'Princess', he might as well treat her like one and let her indulge herself.</span></div></div>",
+            "created":1391230800,
+            "id":1736486,
+            "title":"angry response "
+        },
+        "14211212":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "machine she can use for her own gain/evil purposes",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Laney\" buzzed the communicator \" I know this may not be your first choice but I need to moved from sec to research for a while. It comes with a new holistic cabin like myself. I Need you to look into these strange schematics that appeared on our logs ok?\" The communicator logs off as files appear on your terminal along with a map to your new cabin (holo deck cabins are the future. Reserved for high ranking staff o my they can be programmed to look anyway required)</span></div></div>",
+            "created":1391230800,
+            "id":1736583,
+            "title":"An alert from Captain Eoin"
+        },
+        "142112121":{
+            "author_id":"brandygang",
+            "author_name":"brandygang",
+            "choices":[
+                "Turns the Files in for a Report",
+                "Puts them into the Holodeck's Mainfraim computer and uses them"
+            ],
+            "content":"<div class=\"\"><div> <span>Laney smiled a devious grin and entered the new Holodeck Cabin. As a room of infinite holographic technology and virtual reality, she always wanted to step into one, but she never thought she'd been given full control over one! She read through the schematics, even though she was only a novice and had been studying the technology for roughly 6 months now,  she could identify right away that the coding for the software was all wrong, and encryption code marking it as a legitimate document was falsified, which meant someone else had handed this to the crew and was attempting to get them to use it. She sneered and snicked. \"Even I can write a better makeshift Tranappearance Modification template than this. What a joke.\" Laney said, about to throw away the useless files before backing up the one's she needed to report. <br>\r\n<br>\r\n\"Wait a moment. I could just be responsible, do this lame job and turn it in, or I could take advantage and use this myself.\" The security officer reminded herself. She debated slightly, on one hand this was somewhat a new start for her, she didn't want to go live on the streets or go back to some law paying job again. The Chief Officer who raised her and his teachings stuck a chord with her and she felt somewhat obligated to be good. On the other hand, she was a bit of a rebel and didn't like taking orders, what was she doing out here in this clean suit like some sort of sane, law abiding person? She debated herself on what to do, and than finally decided.</span></div></div>",
+            "created":1391230800,
+            "id":1736790,
+            "title":"machine she can use for her own gain/evil purposes"
+        },
+        "1421121212":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "more schematics for another machine",
+                "plays with her new penthouse"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Laney couldn't resist her curiosity and inputted the files. Suddenly the room began to shift and change into a penthouse from the twentyfirst century. The penthouse and looked amazing everything being real as long as they were in the room.</span></div></span></div>",
+            "created":1391317200,
+            "id":1737032,
+            "title":"Puts them into the Holodeck's Mainfraim com..."
+        },
+        "1423":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "The Captan",
+                "Security Cheif Laney"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Collin Weller<br>\r\nTitle/rank: Corporal <br>\r\nAge: 25<br>\r\nMarital Status: Single <br>\r\nBackground: Weller grew up in Chicago, becoming a police officer at the age of 21. He has quickly became jaded, but is undeniably good at being a police. He recently applied for a security posistion on Station Alpha. <br>\r\nAppearance: standing tall at 6\", with short dark brown hair and green eyes he atleast looks the role. He wears the standard security armor that Other operating police on the station wear. <a rel=\"nofollow\" href=\"http://img1.wikia.nocookie.net/__cb20131129144426/deadspace/images/1/1f/Isaac_Clarke_Security_Suit.jpg\" target=\"_blank\">http://img1.wikia.nocookie.net/__cb20131...</a><br>\r\n<br>\r\nWeller awoke with a jolt as Anna, his personal AI assistant woke him by playing music. Her hologram standing in the corner. She has pale skin, dark brown eyes, and long brown hair. She dons on a brown coat, a black hat, and gloves.\" Good morning master Weller. I have prepared breakfast for you. Would you like to hear the news for the day?\" Her bristish accent replacing the music. \" No, that's ok I'm in a rush today.\" She averted her eyes as spoke as he put on his security armor. Colin took Annas chip and put it in the Terminal on his helmet before he rushed out the door. <br>\r\n<br>\r\n        He arrived at the station early and checked the messages in his helmets display, sighing as he read the name of one of his bosses on the top of the file requesting to speak to him. Who is it?</span></div></div>",
+            "created":1419224400,
+            "id":1906082,
+            "title":"Bio: Colin Weller, Security officer"
+        },
+        "14231":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "continue"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ok I'm going to make this quick\" said Eoin , clearly wiping sleep from his eyes and looking like he slept at his desk \" there's been some odd reports of a fungus or something in the research labs, I need you to head down and see if it's dangerous\"</span></div></div>",
+            "created":1419224400,
+            "id":1906107,
+            "title":"The Captain"
+        },
+        "142311":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "He gets a partner.",
+                "No back up is available."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Colin flicked through the report scrolling across his visor. \" What about back up? Am I the only security officer on assignment, sir? \"</span></div></span></div>",
+            "created":1419224400,
+            "id":1906145,
+            "title":"continue"
+        },
+        "144":{
+            "author_id":"brandygang",
+            "author_name":"brandygang",
+            "choices":[
+                "Melanie introduces herself to the Captain",
+                "Bio",
+                "Bio"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Melanie Malloy<br>\r\n<br>\r\nAge: 16<br>\r\n<br>\r\nEmployment: Contract Scientist, Researcher, Lab Physician, Technology and Weapons expert<br>\r\n<br>\r\nBackground: Electronics, robotics and associated machinery, weaponry production.<br>\r\n<br>\r\nAppearance: Pink hair (naturally brown tho), Twin pigtails, green eyes, short and petite (4' 2\") and yet to hit a puberty induced growth spurt, has a child-like body yet to age to that of a Teenager<br>\r\n<br>\r\nOrigin: The People's Democratic Republic of South America (Formed in 2084), is of Latino-Brazilian ancestory (although the country of Brazil no longer exist now) from her mother's side, who raised her lone in a middle-lower class home<br>\r\n<br>\r\nPersonality: Differs between work and play. She can be happy, perky, giggly, hyperactive, excited and very enthusiastic. However she's capable of great focus, diligence, patience and understanding, and uses her high intelligence to assess the situation rationally, calm and composed as a Government scientific representative. She enjoys some 'girly' things, like pink, fashion, unicorns, and dolls, however it tends to mesh with her more lively pursuits, those of science and technology, robotics, machinery and invention.<br>\r\n<br>\r\nInventions she has patented: <br>\r\n-Flexitech, the stretchy sleek material for a skin-tight nano tech suit for stealth, it can bend light but can also contort and alter itself to fit the wearers needs. It sometimes malfunctions.<br>\r\n-A helmet with a program that lets one access peoples mind and see inside their thoughts and memories and possibly do more, currently missing.<br>\r\n-Programmable Investigative Nano Kernel, or P.I.N.K. is the experimental AI system she created. Currently in testing and subservient to the Ship's main computer, does not have access to all it's functions or controls.<br>\r\n-Delta-7, an advanced automated sentinel robot made for security. Bulky and large, it remains in storage and would only be accessible through PINK. Is also mountable with a co-pilot if they have access to ride in it.<br>\r\n-And finally, a top-secret satellite system embedded in all international software around orbit. When given the codes, the user is allowed full control to all protocol and databases. This can include world-wide control of all intercontinental weapons circling  around the planet, and unlimited information. <br>\r\n<br>\r\n+++++++++++++++++++++++++++++++++++++++++<br>\r\n<br>\r\nProfile: Melanie was always a bright starchild from her earliest days, always tinkering around with her toys and gadgets, making moving parts and teaching herself how to build. A child prodigy, she didn't fit in with other students, especially girls who only cared for games and dolls. The only dolls she built, had gears and later knives to match. This distressed her lone mother greatly, but the child's genius was able to bring money and sustain them for awhile. <br>\r\n<br>\r\nHowever, International officers showed up at Malloy's residence one day, confiscated and gently interrogated Melanie. They found it a security risk, and rather unsound for a 10 year old girl to have stockpiles of weapons and machinery manufactured in the sanctity of her own room.<br>\r\n<br>\r\nFrom than on, she was recruited by a highly secretive and advanced research department where she could channel her skills and uses for the world, instead of against it like they feared. Transferred from base to base for four years, she now joins the Station Alpha research team in space to pursue her own research, and is allowed free access and board to it aswell so long as she's employed there. </span></div></div>",
+            "created":1391317200,
+            "id":1737203,
+            "title":"Melanie Malloy"
+        },
+        "1441":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "continue",
+                "continue",
+                "continue"
+            ],
+            "content":"<div class=\"\"><div> <span>Just as Melanie was going to knock on Eoins door but before she could a voice came from inside \"enter\" and the door opened to reveal Eoin at his desk. \"Ah you must be Melanie , my new head of research and development\" said Eoin looking up as Melanie entered \"oh I believe this belongs to you\" added Eoin putting a helmet on the table. \"What is this?\"</span></div></div>",
+            "created":1391317200,
+            "id":1737244,
+            "title":"Melanie introduces herself to the Captain"
+        },
+        "14411":{
+            "author_id":"brandygang",
+            "author_name":"brandygang",
+            "choices":[
+                "Nanotech Flexitech bodysuit",
+                "Master control to all the world's satelites"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I was alerted you weren't given a Goldchip pass when you first arrived. Please accept this gift on behalf of your new position.\" Eoin said. He handed her the chip, played in pure gold. \"This will allow you access anywhere in the ship, even in VIP Coach positions, or places like my Captains Den.\" He told her. Melanie thanked him and started unpacking all the shipments and equipment she had been worked on, and would continue to aide in her experiments.<br>\r\n<br>\r\n\"Say captain, would you like to see some of my technology at work?\" She asked.<br>\r\n<br>\r\n\"Well that depends. What do you have to show?\"<br>\r\n<br>\r\nShe puled out of a crate..</span></div></div>",
+            "created":1391317200,
+            "id":1737257,
+            "title":"A gold VIP chip"
+        },
+        "144112":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "obeys",
+                "uses a device on him"
+            ],
+            "content":"<div class=\"\"><div> <span>What's your favourite channel? Asked Melanie pulling out a tablet computer \"ummm I guess the Netflix one . Can't believe they got their own channel after leaving the internet\" replied Eoin<br>\r\n Melanie typed into the tablet and showed Eoin the channel \"so what I can do that to\" pulling it up on his own tablet \"oh really?\" Tapping again on her tablet. Suddenly Eoins feed disappeared but hers remained \"ok, now that's interesting. But I have things to do so go ahead to your private lab attached to your cabin. Research what you see fit but I may send things your way\"</span></div></div>",
+            "created":1391317200,
+            "id":1737263,
+            "title":"Master control to all the world's satelites"
+        },
+        "1441121":{
+            "author_id":"brandygang",
+            "author_name":"brandygang",
+            "choices":[
+                "Melanie has other work to do",
+                "Playing around with the satellites some more"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Say captain Eoin, did you know that these Satellites, most of them have been running for the past 50 years, if not decades? They're older than me, crazy right?\" Melanie said.<br>\r\n<br>\r\nEoin gave her a strange look and asked \"What's your point?\"<br>\r\n<br>\r\n\"Oh nothing. Just a funny little thing I found interesting.\" She tapped a few buttons on her tablets, and one satellite came up. It was a surveillance satellite, and zoomed in on his home down. \"What are you doing?\" He asked. The monitor reached back in time and started rapidly going through decades worth of recorded footage, least of all several clips and bits about Eoin personally, including when he was a young boy.<br>\r\n<br>\r\n\"Is that me? Okay this is going too far, stop that and get back to your work. Just because you invented the system doesn't give you permission to look through everyones records and personal lives.\"<br>\r\n<br>\r\n\"Fine.\" Melanie said, sighing she turned the feed off. She began heading towards her lab and sat in a spinning chair surrounded by equipment. \"<i>And I didn't even get to show him the, ahem 'Military' feature of that satellite</i>. Hehehe.\" She thought, opening the feed on a mini-screen in the lab.</span></div></div>",
+            "created":1391317200,
+            "id":1737281,
+            "title":"obeys"
+        },
+        "14411211":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "something devious ",
+                "something good"
+            ],
+            "content":"<div class=\"\"><div> <span>Melanie did other work for her shift and stopped goofing around with the satellites. She researched a new type of metal that had been found on an asteroid near Jupiter and looked into how the brain works. Getting an idea from this last study she began to alter her helmet to.....</span></div></div>",
+            "created":1391317200,
+            "id":1737384,
+            "title":"Melanie has other work to do"
+        },
+        "144112111":{
+            "author_id":"brandygang",
+            "author_name":"brandygang",
+            "choices":[
+                "Create and modify her helmet with the metal",
+                "Give and test the helmet with a random crew member first"
+            ],
+            "content":"<div class=\"\"><div> <span>A sample of the new material laid on the table. A daring thought entered Melanie's head. The rock had properties that could alter brainwaves, and while she wasn't a biology or psychological expert, she knew crafting one out of it and setting the right frequency would create an interesting effect. Something she could probably tool around with and observe and analyze closely for science even as she had fun and experimented with it. This idea tickled both the responsible adult side and the childish little girl in her that wanted to try a trick or to. She handed her helmet to her Robotic brute, Delta and ordered it to..  </span></div></div>",
+            "created":1391317200,
+            "id":1737469,
+            "title":"something devious "
+        },
+        "1441121111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Melanie altered the base metal of the helmet, giving it extreme mind altering effects. Just then Eoin walked in. \"Hey can you have a look at my neural link? It needs it's routine maintenance\"</span></div></span></div>",
+            "created":1391317200,
+            "id":1737482,
+            "title":"Create and modify her helmet with the metal"
+        },
+        "14411211111":{
+            "author_id":"brandygang",
+            "author_name":"brandygang",
+            "choices":[
+                "Herself, Melaine!",
+                "Laney Morrigan, the Security Vice-Chief"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hmm, that helmet of yours? Oh right, I suppose I could try it.\" Eoin said, sitting down in a chair as Melaine instructed him. He relaxed himself as she calibrated the helmet, and before he could ask just precisely what she was doing, she whispered in his ear, \"Nighty night.\" and stuck a needle in his neck. Before he could react or stop her, he felt drowsy and sat still on the chair with the helmet beeping on his head. \"Neural Link:Established. Awaiting-Interface-Template\" It announced robotically.<br>\r\n<br>\r\nMelaine smiled, and told P.I.N.K. to upload the mental Profile on hand of..</span></div></div>",
+            "created":1391317200,
+            "id":1737487,
+            "title":"yes"
+        },
+        "144112111111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "make complex changes",
+                "continue"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Uploading profile. New options available. Due to the complexity of neural augment, alterations to personality can be made. Locating example...... processing....... your college roommate who was turned into a fembot\"</span></div></span></div>",
+            "created":1391317200,
+            "id":1737525,
+            "title":"Herself, Melaine!"
+        },
+        "1441121111112":{
+            "author_id":"brandygang",
+            "author_name":"brandygang",
+            "choices":[
+                "She pressed a button",
+                "P.I.N.K. replays from when it was a human"
+            ],
+            "content":"<div class=\"\"><div> <span>Melanie looked over all the options and kept dabbling with the settings. After a successful scan, her entire mental profile was up onto the screen and it was cataloged like a database. Aspects such as 'Personality' 'Intelligence', 'Behavior Patterns', 'Sexuality', and even 'Memory' were branched out on the screen. Anything she selected could help her utilize an effect to observe on the Captain. A popup of the time her roommate was turned into a fembot popped up, and that made her giggle. She still hadn't told anybody to this day that P.I.N.K. was originally harvested and formed from the remains of good old Lesley's mind.<br>\r\n<br>\r\nShe snapped her fingers. \"Hey, Lesssley.\"<br>\r\n<br>\r\nP.I.N.K. Activated again and spoke robotically, \"Yes-Mistress-Melanie.Awaiting.Orders.\"<br>\r\n<br>\r\nShe pressed a button and told her to have both the Flexitech suit that could alter appearances, the Satellite system, and the full argumentation of the Mental helmet ready.</span></div></div>",
+            "created":1391317200,
+            "id":1737530,
+            "title":"continue"
+        },
+        "14411211111121":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "fembot",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>Melanie pushed a button and Eoin was moved onto a medical table by a robot claw. There P.I.N.K. began to place each of the requested machines on the unconscious body of Eoin. Melanie giggled as she watched. Looking back to her terminal she decided to change a few things. She changed the sexuality to only be attracted to her and made it hyper active, locked away any memories that could get him out of this situation, lowered his intelligence so he could obey all her orders but not disobey. Finally she came to personality and was stumped. \"Lesely, what should I do with his personality?\" Melanie asked questioning her personal ai. \"I believe he should be a....</span></div></div>",
+            "created":1391403600,
+            "id":1737930,
+            "title":"She pressed a button"
+        },
+        "14412":{
+            "author_id":"brandygang",
+            "author_name":"brandygang",
+            "choices":[
+                "Visual cognitive Helmet to analyze thoughts and dreams",
+                "Delta-7, the powerful bulky security droid"
+            ],
+            "content":"<div class=\"\"><div> <span>\"You left your passport at launch, as well as the key to the shipment box containing all your inventions.\" Eoin said. He handed her the passport and the key. \"This will allow you access to your own storage whenever you need it.\" He told her. Melanie thanked him and started unpacking all the shipments and equipment she had been worked on, now given her key and a small mobile device with various passcodes, and would continue to aide in her experiments.<br>\r\n<br>\r\n\"Thank you for returning that sir. Say captain, would you like to see some of my technology at work?\" She asked.<br>\r\n<br>\r\n\"Well that depends. What do you have to show?\"<br>\r\n<br>\r\nShe puled out of a crate..</span></div></div>",
+            "created":1391317200,
+            "id":1737256,
+            "title":"Her passport and gadget"
+        },
+        "145":{
+            "author_id":"jpundercover",
+            "author_name":"JPUndercover",
+            "choices":[
+                "Enter: Taylor and Buck",
+                "Bio",
+                "Bio"
+            ],
+            "content":"<div class=\"\"><div> <span>\"... and I hope to see you around the station.\"<br>\r\n<br>\r\nAs the intercom speaker clicked off, two very different people turned to find a nearby terminal. The first was rather short, just under a meter and a half, and they wore a pair of worn cargo pants and a bulky jacket whose sleeves swallowed their arms in blue fabric. An old, somewhat tattered cap with a bear on the front rested atop a short, scruffy head of brown hair; their face was smudged with such an incredible amount of dirt and dust and oil marks that their blue eyes stood out brightly against the rest of the mess. It was hard to decipher whether this person was male or female, but they seemed quite at home as they looked about with an air of observation and examination.<br>\r\n<br>\r\n\"This place is even better than I thought it would be. Everything's all shiny and top of the line. I wouldn't be surprised if the big tech giants have contracts for all over this place! And any place this big will need plenty of well-to-do hands to keep it running, of course. Let's get this bio thing over with so we can look around before the big crowds come rushing in.\" The person shifted the old, worn backpack on their shoulders and motioned to their companion to follow.<br>\r\n<br>\r\nThis second person was a towering brute of a man, just over two meters and muscled like a bodybuilder. He wore a standard blue jumpsuit, the basic uniform offered to all engineering employees, and his black hair was trimmed very short and out of his brown eyes. Though he had some dirt about him, too, he was significantly cleaner than the shorter person that he plodded after.<br>\r\n<br>\r\nAs the first arrived at a terminal, they pushed up their sleeves so they could enter the required information. \"Name... Birth place? Whatever...Uh, age... Current job? Engineering...\" They turned and squinted up at the man. \"I, uh, better enter your information too. Don't want you to break the keyboard, you big brute.\" He shrugged indifferently and looked out the window at the moon in the distance in the meantime.<br>\r\n<br>\r\n-----<br>\r\n<br>\r\nName: Taylor Wood<br>\r\nBirth Place: United States<br>\r\nAge: 18<br>\r\nCurrent Job on Station: Engineer, General Class (specializations in wiring, robotics, and machine regulation)<br>\r\nTalents: Repairs, Upgrades, Engineering, Robotics, Mechanics, Tinkering<br>\r\nBackground: Born to an average family in the slums of the East Coast, Taylor spent their youth amidst metalworking and electronic factories, and came to develop a fascination for all things technological. Their short stature allowed them to get into tight spaces no one else could fit in, and they quickly became a mechanical savant with an eye for repairs and upgrades and an appetite for engineering knowledge and next-gen tech. Taylor came to Space Station Alpha to work and learn and to find a place to perhaps call home.<br>\r\nFeatures: 142 cm tall, blue eyes, brown hair. White skin, quite pale. Some small scars and a couple tattoos.<br>\r\n<br>\r\nName: Ryan \"Buck\" Jameson<br>\r\nBirth Place: United States<br>\r\nAge: 26<br>\r\nCurrent Job on Station: Engineering Assistant (Heavy Lifting), Volunteer Security Force<br>\r\nTalents: Raw Strength, Expertise with Tools and Some Weaponry<br>\r\nBackground: Buck grew up in a household of two older and seven younger siblings. He took factory jobs and physical labor work as early as 10 in order to pay bills and help his single mother put food on the table for everyone. He still sends half of his earnings back home to help keep things going, though he's become very attached to Taylor as an older brother and protector.<br>\r\nFeatures: 208 cm tall, brown eyes, black hair. Tan skin. Well-muscled and imposingly bulky, with a ridge in his nose from a bone reset after it was broken. Stubble on chin and around mouth.</span></div></div>",
+            "created":1391403600,
+            "id":1737920,
+            "title":"Bio: Taylor and Buck"
+        }
+    },
+    "info":{
+        "author_id":"hypnoslave",
+        "author_name":"Irish Spartan",
+        "brief_description":"Live a life of adventure on space station alpha which orbits earth.  join in.",
+        "created":1390326960,
+        "description":"<td align=\"left\" class=\"norm\">Welcome sir or madam to the crew of space station alpha. This is  your captain speaking. Please create your biography and join a section of the crew. The sections are<br>\r\n<br>\r\nSecurity: job solve problems on the station but will you abuse the power?<br>\r\nScience: help research new technology and techniques for public.. or private use<br>\r\nMedical: help treat wounded patients... wait is that drug cabinet open?<br>\r\nEngineering:fix up the station and make upgrades.<br>\r\nCivilan: you just live here but you may have a job like bartender etc.<br>\r\n<br>\r\nI am your captain until further notice. If I like how someone is adding or I become busy I may promote someone to the rank of captain, or at least to the head of a department.<br>\r\n<br>\r\nRules are to have fun and role play everything is optional but please don't blow the station out of the sky. Alien races accepted but no overpowering them</td>",
+        "id":1973040,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1586418780,
+        "modified":1586418780,
+        "pretty_title":"Space Station Alpha"
+    }
+}

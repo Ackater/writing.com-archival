@@ -1,0 +1,1433 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "21st Century or Later",
+                "20th Century",
+                "19th Century",
+                "18th Century",
+                "17th Century or Earlier"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up one morning finding yourself in a most unusual setting; you are in a bedroom but the surroundings are rather high-tech and at the same time Spartan.<br>\r\n<br>\r\nAfter you get up and get dressed you exit this bedroom and find yourself in a long winding metal corridor, like you get in BBC sci-fi sitcoms. The bathroom is what you'd expect when you go to brush your teeth.<br>\r\n<br>\r\nGoing down a simple set of stairs you come through a doorway into a very familiar looking setting. You are inside a TARDIS! Not <i>the</i> TARDIS, but <i>a</i> TARDIS.<br>\r\n<br>\r\nYou go over to the controls and find one set for time travel and another set for space travel.<br>\r\n<br>\r\nTweaking the time controls you decide to go to:</span></div></div>",
+            "created":1208062800,
+            "id":519458,
+            "title":"Choose your Timeline"
+        },
+        "11":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "21st Century",
+                "22nd Century",
+                "23rd Century",
+                "24th Century",
+                "25th Century or Later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you move the controls towards the future you decide to head for:</span></div></span></div>",
+            "created":1208062800,
+            "id":519460,
+            "title":"Any Later?"
+        },
+        "111":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Recent Past",
+                "Near Future",
+                "Later 21st Century"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which year exactly do you wish to travel to?</span></div></span></div>",
+            "created":1210568400,
+            "id":530954,
+            "title":"How Far?"
+        },
+        "1111":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "2001",
+                "2004",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You look at the time dial and wonder just which year you will visit, eventually you settle for...</span></div></span></div>",
+            "created":1214629200,
+            "id":549249,
+            "title":"Picking a Year"
+        },
+        "11111":{
+            "author_id":"tornadopelt",
+            "author_name":"Tornadopelt",
+            "choices":[
+                "The First Plane Crashes at 8:46 AM EDT"
+            ],
+            "content":"<div class=\"\"><div> <span>The windup noise had finished. You open the door andfind yourself on the roof of the one of the two tallest buildings in Manhattan at the time... the North Tower of the World Trade Center. Wwhen you check the time dial, you are shocked at the date and time. It is Tuesday on the 11th of September wwith the current time being 8:40 AM EDT. You look back outside to see a small glint of light in the distance. As you watch it, you realize that it's getting closer. As the object reflecting the light of the sun grows ever closer in the three minutes you've been here, you hear a sound of... jet engines. Originally, you thought it was a small reflection. Nowyou see that it IS in fact a jet... and it's still getting closer. By this time, the jet should've turned away from where you were at. But it didn't. AND IT WAS STILL GETTING CLOSER. A thrill of terror passes doown your spine as you run back into the TARDIS, keeping the door open in order to see what would happen. In 15 seconds, the jet looks big enough to be a passenger plane. You can make out American Airlines on the side of the jet as it gets closer. Five seconds pass and you realize that the plane is going to hit the North Tower.</span></div></div>",
+            "created":1365915600,
+            "id":1571350,
+            "title":"One sunny Tuesday in September..."
+        },
+        "111111":{
+            "author_id":"tornadopelt",
+            "author_name":"Tornadopelt",
+            "choices":[
+                "Blast In The Past (Alamagordo, NM, 1945)",
+                "Any Way You Want It (Fresno, California, 1983)"
+            ],
+            "content":"<div class=\"\"><div> <span>The moment you shut the door of the TARDIS, you hear a loud explosion and the grinding of metal on metal. You can feel the entire structure shifting, as if the tower would break from the pivot. A few seconds pass as the building returns to its original position. Wwhen you open the door again, a horrifying sight is beheld. A pillar of smoke rises into the air and you can smell the fumes of jet fuel. It is heart-wwrenching. The blackest day in American history is being witnessed by your own eyes. You want to leave... and you do.</span></div></div>",
+            "created":1365915600,
+            "id":1571354,
+            "title":"The First Plane Crashes at 8:46 AM EDT"
+        },
+        "11113":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Yes",
+                "Another year"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want to return to the year 2008?</span></div></span></div>",
+            "created":1233291600,
+            "id":640872,
+            "title":"2008?"
+        },
+        "111132":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "2007 it is",
+                "No, try again"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How's about 2007?</span></div></span></div>",
+            "created":1233291600,
+            "id":640873,
+            "title":"2007?"
+        },
+        "1111322":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about the year 2006?</span></div></span></div>",
+            "created":1233982800,
+            "id":643687,
+            "title":"2006?"
+        },
+        "11113222":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe the year 2003 will do?</span></div></span></div>",
+            "created":1244869200,
+            "id":707625,
+            "title":"2003?"
+        },
+        "111132222":{
+            "author_id":"kazza468",
+            "author_name":"kazza4689",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does 2005 sound? Yes? No? Thank you?</span></div></span></div>",
+            "created":1391490000,
+            "id":1738594,
+            "title":"2005?"
+        },
+        "1112":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "2010",
+                "2011",
+                "Later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which near future year do you wish to visit?</span></div></span></div>",
+            "created":1233982800,
+            "id":643688,
+            "title":"When to go to?"
+        },
+        "11123":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "2012",
+                "Later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe you'd like to try out 2012.</span></div></span></div>",
+            "created":1258088400,
+            "id":791214,
+            "title":"2012?"
+        },
+        "111232":{
+            "author_id":"hurttoto",
+            "author_name":"^HURTTOTO^",
+            "choices":[
+                "2013",
+                "Later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More years</span></div></span></div>",
+            "created":1486974600,
+            "id":2276998,
+            "title":"Later"
+        },
+        "1112322":{
+            "author_id":"hurttoto",
+            "author_name":"^HURTTOTO^",
+            "choices":[
+                "2014",
+                "Later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More years</span></div></span></div>",
+            "created":1486974600,
+            "id":2276999,
+            "title":"Later"
+        },
+        "11123222":{
+            "author_id":"hurttoto",
+            "author_name":"^HURTTOTO^",
+            "choices":[
+                "2015",
+                "Later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Uhhh more?</span></div></span></div>",
+            "created":1486974840,
+            "id":2277000,
+            "title":"Later"
+        },
+        "112":{
+            "author_id":"derekthedalek",
+            "author_name":"Derek Metaltron",
+            "choices":[
+                "London, England",
+                "Tokyo, Japan",
+                "Somewhere Else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, a trip to the 2100's and a hundred years in our future is in order. The question is, where would you like to visit?</span></div></span></div>",
+            "created":1258002000,
+            "id":790998,
+            "title":"22nd Century Destinations"
+        },
+        "1121":{
+            "author_id":"derekthedalek",
+            "author_name":"Derek Metaltron",
+            "choices":[
+                "Check the Warehouse Out?",
+                "Investigate the Gunfire?",
+                "Stay and Scan the Riverside?"
+            ],
+            "content":"<div class=\"\"><div> <span>Picking the destination of London you materialise in the capital of England in current date 2167 AD. Anxious to see how the country has changed in the past century and a half you step outside.<br>\r\n<br>\r\nYou find yourself under a bridge, the murky waters of what must be the Thames washing by as you find yourself having to step over pieces of rumble. You come to notice the worrying fact that there is no sound - surely London should be busting with activity and noise, even if you aren't in the centre? And it isn't the middle of the night; the sun is high in the sky above you.<br>\r\n<br>\r\nTrying to determine what has happened to the city - some conflict, a natural disaster, a plague? - you turn the corner from your TARDIS and notice a bizarre worn poster stating 'EMERGENCY REGULATION - IT IS NOW FORBIDDEN TO DUMP BODIES IN THE RIVER'. The world chill you, making you wonder just what you have gotten yourself in for by coming here. Is this possibly the end of the human race, or merely a down trodden point?<br>\r\n<br>\r\nYour thoughts are interrupted by an alarming noise - gunfire, distant but possibly getting closer. And then out of sight some odd humming noise coming from high in the sky. Perhaps London isn't as deserted as you first thought. Whilst you could try going back into your TARDIS you might as well investigate things further. You could either try the nearby old warehouse, investigate the source of the gunfire cautiously, or explore the rviverside further and see what you could find.</span></div></div>",
+            "created":1258002000,
+            "id":791008,
+            "title":"Quiet Streets of London, 2167"
+        },
+        "113":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "The UK",
+                "The USA",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Setting the controls for the 23rd Century you wonder which part of the world would be best to check out. You decide to go to...</span></div></span></div>",
+            "created":1257915600,
+            "id":790422,
+            "title":"23rd Century"
+        },
+        "1131":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "You're a British Citizen",
+                "English is Your First Language",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to check out what will happen to great Britain 200 years ahead of your own time. Is this because...?</span></div></span></div>",
+            "created":1258088400,
+            "id":791212,
+            "title":"23rd Century UK?"
+        },
+        "11311":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Utopian (Same or Better)",
+                "Dystopian (Same or Worse)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Curious as to what your home country will be like 2 centuries into the future you set the controls for the appropriate time and place. When you get there what sort of a world will you encounter?</span></div></span></div>",
+            "created":1258088400,
+            "id":791213,
+            "title":"Britain in the 23rd Century"
+        },
+        "114":{
+            "choices":[
+                "Earth",
+                "Another body in the solar system.",
+                "Beyond the solar system."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After twisting some more dials and pulling levers, you set course for the 24th Century. You set the time scan to random and prepare to determine your location, which is...</span></div></span></div>",
+            "created":1405054800,
+            "id":1826129,
+            "title":"24th Century"
+        },
+        "115":{
+            "choices":[
+                "buy wepons",
+                "get a flying car",
+                "go find my self a Lady"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>the 25th century WOW! how the hell did I get here? what the F should I do Now... </span></div></span></div>",
+            "created":1208062800,
+            "id":519535,
+            "title":"25th Century or Later"
+        },
+        "1153":{
+            "author_id":"welty69",
+            "author_name":"W E L T Y 69",
+            "choices":[
+                "Look for a Blonde...",
+                "Look for a Human...",
+                "Does it really matter what you have?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Just like the real doctor you need a companion.  you can not just go thru history all on your lonesome, now can you?</span></div></span></div>",
+            "created":1218171600,
+            "id":566983,
+            "title":"go find my self a Lady"
+        },
+        "11532":{
+            "choices":[
+                "Ask the first random person you see.",
+                "Like the Doctor, doing something Dramatic to end up with one."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You land the TARDIS with a thud, and exit it's doors.</span></div></span></div>",
+            "created":1269147600,
+            "id":854414,
+            "title":"Looking"
+        },
+        "115322":{
+            "choices":[
+                "Dude! WTH!?",
+                "Oh, hi."
+            ],
+            "content":"<div class=\"\"><div> <span>Walking to the nearest cafe, you sit, and order a coffee, planning to do something dramatic, but not just yet.<br>\r\n<br>\r\nSipping your coffee, you look around, spotting a girl about 100 yards away, leaving a tip, you get up, and walk towards her.<br>\r\n<br>\r\nHoping to get her attention, you aim your sonic device towards a shrub, and promptly set it on fire.<br>\r\n<br>\r\nShe turns, and you smile.</span></div></div>",
+            "created":1298178000,
+            "id":1057527,
+            "title":"Like the Doctor, doing something Dramatic to en..."
+        },
+        "11533":{
+            "choices":[
+                "A Catgirl",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>No. It doesn't matter if your companion is human or not. The Doctor has had a number of non human companions. So you look around for any potential companions and you spot someone that looks like...</span></div></span></div>",
+            "created":1405832400,
+            "id":1830955,
+            "title":"Does it really matter what you have?"
+        },
+        "12":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "United Kingdom",
+                "United States",
+                "France",
+                "Japan",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where in the 20th Century do you wish to go?</span></div></span></div>",
+            "created":1208149200,
+            "id":519730,
+            "title":"Where?"
+        },
+        "121":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "1990s",
+                "1980s",
+                "Earlier"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, the United Kingdom is your destination. Now when do you wish to go to?</span></div></span></div>",
+            "created":1233291600,
+            "id":640876,
+            "title":"Choose a Decade"
+        },
+        "1211":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Use the Random Year Generator",
+                "Pick the year 1999",
+                "Pick another year"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There a special mechanism on the control panel; if you want you can choose an exact year to travel to or you can activate the random year generator if you just want any time in the chosen decade.</span></div></span></div>",
+            "created":1244869200,
+            "id":707628,
+            "title":"Year?"
+        },
+        "1212":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "1989",
+                "1988",
+                "Earlier"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Right, now that you've got your decision down to one decade which year would you like to visit?</span></div></span></div>",
+            "created":1245042000,
+            "id":708670,
+            "title":"1980s"
+        },
+        "1213":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "1970s",
+                "1960s",
+                "Earlier Still"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about the 60s or the 70s?</span></div></span></div>",
+            "created":1233291600,
+            "id":640877,
+            "title":"Psychadelia or Otherwise?"
+        },
+        "12132":{
+            "author_id":"n.m.e",
+            "author_name":"N.M.E",
+            "choices":[
+                "Narrow down the time period.",
+                "Choose the location."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What specifications do you wish to add?</span></div></span></div>",
+            "created":1448307000,
+            "id":2065961,
+            "title":"1960s"
+        },
+        "12133":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Yes, I Do",
+                "No, Try Earlier"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, maybe you like the simplicity of the 1950s.</span></div></span></div>",
+            "created":1235883600,
+            "id":654305,
+            "title":"1950s"
+        },
+        "121331":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "1959",
+                "Earlier"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, we're heading for the time when rationing had only just ended and nuclear power was the revolutionary idea behind cheap power. Now, what year in the '50s would you like to visit?</span></div></span></div>",
+            "created":1245042000,
+            "id":708672,
+            "title":"1950s"
+        },
+        "1213312":{
+            "author_id":"australorp",
+            "author_name":"Beatrix Amber Robinson",
+            "choices":[
+                "Yes",
+                "No, earlier"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about '58?</span></div></span></div>",
+            "created":1333861200,
+            "id":1311339,
+            "title":"Earlier"
+        },
+        "121332":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "1940s",
+                "Earlier"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the drama of the '40s? The first half was the mainstay of the Second World War and the second half comprised of the scars from the war, like rationing.</span></div></span></div>",
+            "created":1245042000,
+            "id":708676,
+            "title":"The War Years?"
+        },
+        "1213321":{
+            "author_id":"derekthedalek",
+            "author_name":"Derek Metaltron",
+            "choices":[
+                "1940-45 (War Years)",
+                "1945-49 (Post-War Years and Early Cold War)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, we're off to the Nineteen Forties then. So are we feeling Wartime Spirit or misery in the war period, or are we visiting the after years instead?</span></div></span></div>",
+            "created":1257915600,
+            "id":790394,
+            "title":"War or 'Peace'?"
+        },
+        "12133211":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Creating new timelines, see if the impact is positive before attempting to reset",
+                "Socialising, having as good a time as possible"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You set the controls to take you back to England 1940. Is this so you can contribute to the struggle against the Axis or are you just a nostalgic adrenaline junkie?</span></div></span></div>",
+            "created":1338872400,
+            "id":1352994,
+            "title":"Purpose?"
+        },
+        "121332111":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Before the Nazis invade Denmark and Norway.",
+                "Later on."
+            ],
+            "content":"<div class=\"\"><div> <span>Recalling your history you know that the first half of 1940 consists of Nazi invasions of Denmark, Norway, The Netherlands, Belgium, Luxembourg and France almost culminating in the evacuation of Dunkirk. Which point in the timeline would you like to begin contributing?</span></div></div>",
+            "created":1338872400,
+            "id":1352998,
+            "title":"Historical Event Choice"
+        },
+        "12133212":{
+            "author_id":"supermario5",
+            "author_name":"Brown",
+            "choices":[
+                "A pretty teenaged girl fascincated by your appearance ",
+                "Someone more suspensive like a soldier "
+            ],
+            "content":"<div class=\"\"><div> <span>With the usual whooshing sounds the Tardis is known to make you know you've arrived in the correct time period right in the dab of !945's Time Square amid the enormous V-Day celebration the time machine materializes  right on the corner of a secluded street with very few people so there's little chance of you being spotted you walk out of the Tardis as it vanishes before you get a second chance(So you know its merely in a chameleon like invisible state right now to deter curious onlookers)and start walking among the hundreds upon hundreds of crowds dressed in old fashioned clothing as they celebrate the war's end then as you're just aimlessly wandering around hoping nobody can see your weird futurist getup and can just blend in with the crowd one person pulls you into a abandoned lot looking over you curiously \"Say stranger who are you and why are you dressed in that odd sort of fashion?\" You blink as you see its </span></div></div>",
+            "created":1448147580,
+            "id":2065128,
+            "title":"1945-49 (Post-War Years and Early Cold War)"
+        },
+        "121332121":{
+            "author_id":"supermario5",
+            "author_name":"Brown",
+            "choices":[
+                "Take her to the TARDIS",
+                "Bring out your mobile phone as proof.",
+                "Show her another piece of 21st Century technology."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I said who are you and why on earth are you dressed like that?\" As you spun around to see a pretty girl around your age dressed in old fashioned clothes(ones you'd likely see in those old black and white films anyway)glancing interestedly at your modern day 2015 clothes; she has light curly brown hair and dark coloured blue eyes. At first you can't reply either because you're incredibly nervous or the words can't come out of your mouth fast enough.<br>\r\n<br>\r\n\"Ummm that is I'm...\" You start as she's walking around you studying every inch of you like a curious child.<br>\r\n<br>\r\n\"My I've never seen anyone in such odd fashion before. Are you some sort of..?\" Somehow you know what she's thinking and blurt out.<br>\r\n<br>\r\n\"No I'm not a spy nor am I an alien from outer space if that's what you're thinking; I'm as normal as you are... ummm, Miss...\" Then as if she believes you the girl breaks out into a smile.<br>\r\n<br>\r\n\"Mary Sue Reynolds. That's my name but my friends call me Mary. But if you're not a spy or an alien why do you have that odd get-up then?\"<br>\r\n<br>\r\n\"It's difficult to explain, you see I come from the future and-\" But the minute the words 'future' appeared her eyes lit up not from curiosity but from disbelief.<br>\r\n<br>\r\n\"The future? You're pulling my leg! I believe you're some kind of foreigner from overseas...\" You interrupt her.<br>\r\n<br>\r\n\"Look, what was your name again? Mary Sue?\"<br>\r\n<br>\r\n\"Just Mary.\" She replied drily.<br>\r\n<br>\r\n\"Right. I can prove to you I actually and truthfully come from the year 2015. Here, follow me.\" As you...</span></div></div>",
+            "created":1448313000,
+            "id":2065999,
+            "title":"A pretty teenaged girl fascincated by your appe..."
+        },
+        "1213321213":{
+            "author_id":"n.m.e",
+            "author_name":"N.M.E",
+            "choices":[
+                "A video game",
+                "next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What do you show her?</span></div></span></div>",
+            "created":1448317020,
+            "id":2066027,
+            "title":"Show her another piece of 21st Century technology."
+        },
+        "12133212131":{
+            "author_id":"supermario5",
+            "author_name":"Brown",
+            "choices":[
+                "Yes I'd love to see it!",
+                "I think you are crazy!"
+            ],
+            "content":"<div class=\"\"><div> <span>Knowing you couldn't just take her to the TARDIS right now. No doubt someone else would see or at least she was already some guy's girlfriend and you weren't exactly the tough guy yourself, plus you couldn't summon the time machine here in front of a million or so witnesses so, sighing, you reach into your pocket pulling out a thin flat box; at this Mary's eyes light up. \"What's that you're holding?\" Examining the strange colorful illustrations on the cover.<br>\r\n<br>\r\n\"It's called a video game. It's sort of proof of what I'm trying to tell you.\" Carefully taking the PS4 game from you she examines it more closely.<br>\r\n<br>\r\n\"Video game? So what do you do with it?\" She asks after a while.<br>\r\n<br>\r\n\"You're supposed to play it on a TV or television.\"<br>\r\n<br>\r\n\"And what is that?\" The girl asks curiously. You almost flip out at the fact that these people don't know what TV is. Then you think hard and take a good look at your surroundings.<br>\r\n<br>\r\n\"Oh yeah I forget. It's 1945, television's still in the primitive stage.\"<br>\r\n<br>\r\n\"Who are you talking to?\" Mary asks looking questionably at you handing back the game causing you to correct yourself.<br>\r\n<br>\r\n\"Um... myself? Television is sort of like a being in a movie theater except the screen's a lot smaller and you can watch it in your own house(wondering by chance if you would end up creating a time paradox the way you were carrying on; oh well you could always fix stuff later on)I can show you more of the future of you would follow me.\" You suggest. Mary looks confused.<br>\r\n<br>\r\n\"Where to?\" You start stammering for a bit wondering if this was the right thing to do.<br>\r\n<br>\r\n\"To my time machine.\" She looks truly confused now and who could blame her? You had to sound like someone who just escaped from the local insane asylum!<br>\r\n<br>\r\n\"Time machine? You mean you can travel through time?\" You nod.<br>\r\n<br>\r\n\"Yeah, pretty much. So you want to see it? It can take us any place I choose or you want to see and back here in a flash so no one would ever know you're missing Mary.\" You explain wondering what her response would be. Finally, after a long moment, she says with a ghost of a smile appearing over her face...</span></div></div>",
+            "created":1448320440,
+            "id":2066043,
+            "title":"A video game"
+        },
+        "121332121311":{
+            "author_id":"supermario5",
+            "author_name":"Brown",
+            "choices":[
+                "The past (Ancient Times)",
+                "The future/your future "
+            ],
+            "content":"<div class=\"\"><div> <span>\"Certainly. I'd love to see it! Where is it at?\" Mary asked; you direct her away from the thousands of people still filling the streets of Time Square celebrating.<br>\r\n<br>\r\n\"A short distance from here. It may appear a little weird to you but believe me when I say it works perfectly. It transported me all the way here to 1945. Oh and one more thing I should have your total trust and word that you won't tell anyone what you will see or else the whole nation will be pestering me night and day to take them to the distant future or ancient past, alright?\" You give her a stern look and Mary nods.<br>\r\n<br>\r\n\"Yes, not a soul will I tell, you have my word. By the way you never told me your name.\"<br>\r\n<br>\r\n\"Willy.\" You reply \"Now shall we go and hurry before any snoopers have the urge to follow us.\" Without planning it you grab her hand, leading her to the same exact spot you left the TARDIS. Luckily it's still there undisturbed and thankfully no one's around; upon sensing your presence the machine roars back into formation. Upon seeing this the girl lets out a loud scream you quickly clasp a hand over her mouth not wanting to alarm anyone in the distance.<br>\r\n<br>\r\n\"What on earth? This is it? Why it looks like one of those British Police Box things!\" She exclaimed once she got over the shock<br>\r\n<br>\r\n\"Only in appearance, Mary, it's a lot bigger on the inside. Trust me, and there's a lot more to it than meets the eye. It's called a TARDIS and it can take me anywhere I want to go.\" The girl is barely listening as she's busy walking around the police box examining every inch of it. Finally she turns back to you, by her expression it's hard to know what she could be thinking. \"So you were telling the truth after all? This is extraordinary and hard to me to grasp but can we go inside it? I'm anxious to see what it looks like inside. You did say it was bigger on the inside, didn't you?\" You nod, escorting her inside. As the doors slam shut you begin showing her around, mostly how the control panel functioned, you were still new at mastering the fullness of the TARDIS yourself what with there being no instruction manual. \"So how does this Tardis thing work?\" Mary asks after a while of looking at all the numerous too many to count rooms. many fascinated her. You lead her over to the control panel.<br>\r\n<br>\r\n\"By way of this; I'm still fairly new at this and haven't gotten all the bugs out but it works well enough to send me across time and space.\" Then she asks the one question you know she's dying to ask.<br>\r\n<br>\r\n\"Can you take me with you then, Willy? I want to go....\" She pauses briefly before saying</span></div></div>",
+            "created":1448391540,
+            "id":2066309,
+            "title":"Yes I'd love to see it!"
+        },
+        "1213321213111":{
+            "author_id":"n.m.e",
+            "author_name":"N.M.E",
+            "choices":[
+                "Ancient Greece  ",
+                "Medieval Europe",
+                "More Options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"I want to see the past.\" Said Mary, looking around the TARDIS.</span></div></span></div>",
+            "created":1449504300,
+            "id":2071478,
+            "title":"The past (Ancient Times)"
+        },
+        "1213321213112":{
+            "author_id":"supermario5",
+            "author_name":"Brown",
+            "choices":[
+                "Your own timeline ",
+                "Oops wrong future!"
+            ],
+            "content":"<div class=\"\"><div> <span>You immediately begin flipping switches and pressing down heavy buttons \"Too bad this thing didn't come with a instruction manual otherwise I would know what I was doing!\" You thought as you flipped yet another switch marked 'Go' finally the Tardis began to hum and make its usual roaring sound as you knew it was working unfortunately for you the girl you were taking with you into the future was ever so curious about this strange contraption she peers over what the remaining buttons several marked 'Warning Do Not Touch' \"Ohhh what does this one do?\" She asks \"No Mary-Sue wait don't....touch...that...uh-oh!\" The moment she pressed the wrong one there was a even louder roaring sound that sounded like the machine was malfunctioning but how was that possible? The Tardis never broke down during the show \"\"What's wrong?\" The girl asked confused \"What do I do?\" You didn't want to get mad at her but how could you not otherwise? It was impossible to tell what could have happened or what turn of events she could have created by pressing the wrong button finally the humming died away as you sensed the Tardis coming to a full stop \"Well at least we know it's still working!\" You thought to yourself as you whispered to Mary Sue \"Now what I'm about to show you you must swear never to tell anyone of your own timeline when I send you back revealing any part of the future could change the timeline of what's to come!\" She nodded sternly \"Yes I promise not a soul!\" Eager to see what awaited her just outside those double doors you give her a prolonged glance as you open the doors to witness </span></div></div>",
+            "created":1449506760,
+            "id":2071487,
+            "title":"The future/your future "
+        },
+        "1213322":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "1930s",
+                "Earlier"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe the '30s? It's a time that went from the economic traumas of the Great Depression at the start to the start of the Second World War at the end.</span></div></span></div>",
+            "created":1245042000,
+            "id":708677,
+            "title":"The '30s"
+        },
+        "12133222":{
+            "author_id":"derekthedalek",
+            "author_name":"Derek Metaltron",
+            "choices":[
+                "Yes?",
+                "Earlier?"
+            ],
+            "content":"<div class=\"\"><div> <span>The 1920's... a decade of prosperity and success in America as it rose to become one of the most powerful nations on Earth back to its isolation policies as Germany felt the brunt of its defeat in the First World War, Socialism rose to true power within Russia, and back in America there were undercurrents such as Prohibition, racism through the Ku Klux Klan and a crackdown on immigration. In short, a prosperious decade with dark undercurrents below the surface.</span></div></div>",
+            "created":1257915600,
+            "id":790406,
+            "title":"Roaring Twenties"
+        },
+        "122":{
+            "author_id":"norman33",
+            "author_name":"Norman33",
+            "choices":[
+                "The 60s man far out",
+                "The 70s disco time baby",
+                "The 80s rock on"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Twentieth century when America was on top of the world. Well the later half anyway, but which decade.</span></div></span></div>",
+            "created":1209531600,
+            "id":526174,
+            "title":"United States"
+        },
+        "1223":{
+            "author_id":"norman33",
+            "author_name":"Norman33",
+            "choices":[
+                "New York City",
+                "LA /Hollywood",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>The goofiness of the 60s and the 70s doesn\u2019t appeal to you even though being able to see all the Beatles live would be cool. You set the dial to the 80s and hit the switch. Just like with the Doctor things start going whoosh, whose and you hold on for dear life as you\u2019re tossed through space and time. Suddenly you come to a landing with a thud. With great eagerness you turn the knob and head outside. The sounds of rap music fills the air as a guy with a boom box bigger than him goes walking by. You look around with a smile on your face then turn around to shut the door on your TARDIS. You\u2019re a bit surprised when you see it from the outside. Instead of a police box like the Doctor your TARDIS looks like a PORTO-JOHN. \u201cWell at least it doesn\u2019t smell like one\u201d, you say and start walking off to check things out. <br>\r\n<br>\r\nWhat city did you land in?</span></div></div>",
+            "created":1209531600,
+            "id":526176,
+            "title":"The 80s rock on"
+        },
+        "125":{
+            "choices":[
+                "Wake up at the hands of the Nazis",
+                "Wake up and help the wounded",
+                "Punk out and use your watch to go back to the tardis"
+            ],
+            "content":"<div class=\"\"><div> <span>  I observed the colorful buttons and the sort of symbols written on them. I typed in the date I wanted to explore: 05-12-1943 and also typed in the country I wanted to visit, then the area in that country. Germany, Warsaw.<br>\r\n   Locks began rooting from the door behind me and somehow managed to lock the door inside out and outside in. The tardis began shaking me violently this way and that. I felt like I was a part of a salad-in-the-making and began to heave a little: I never liked roller coasters, so why would I like this? A light as white as the heavens above flashed before me from all directions and I shielded myself from this annoyance and fell to the corner of the rectangle I was trapped inside. For what felt like a rocky five hours I sat there in beetle position waiting for the worst\u2026 and then it all just stopped. A warm sensation cuddled inside my stomach when I rose up. The locks were no longer there and I opened the door.<br>\r\n  Before me stood a room of white or rather, an eternally of white backdrop. I was afraid then for my life; I went from a popular school boy soon-to-be-historian to a crazy man possibly entering the end or just another bad dream. How am I supposed to know? I woke up like this after all. I was about to plant my foot onto the white ground but then the tardis began beeping loudly; I turned around and found a watch in the corner where I almost pissed myself. I grabbed it and put it on.<br>\r\n  When I stepped onto the hard ground colors were added to my life slowly and gloomily as if this were just another boring stroke of a water-paint masterpiece. Eventually smells and sounds were added into the picture and I found myself standing beside a woman holding a baby; she was sobbing hysterically and trying to soothe her baby. It was a complete failure, if I must say.<br>\r\n  Instantly I knew where I was because this was where I requested to go: I, Ryan Rakile, stood beside a Jew or Gypsy girl during World War II: the Warsaw Ghetto uprising. The room I was in was very small and had something that couldn\u2019t have been a mattress but looked like a large pillow instead. Weapons hung around the place and the woman was now crawling in the closest corner with her baby in hands. I looked at my watch; my tardis was hidden inside it.<br>\r\n  Naturally I grabbed one of the small guns. I remember studying that there were only 59 pistols used in this fight. I grabbed extra ammo and stored it in my jeans pocket and before I left the room I stopped beside the girl. In German I told her simply that I love her; she stopped her crying and looked up at me with a two-tooth grin. Yes, at times like this they yearned to live- he thought to himself and exited the room.<br>\r\n  A man dressed in rags motioned me over to him. He mouthed crawl in German; I thanked myself for those German classes and I crawled his way. He told me where the enemy was and that the sewers would be the escape route if they were going to burn this hell-hole down like the rest of the places.<br>\r\n  \u201cFew people are left on our side. We are outnumbered by so many but you know what? We will win! We will rise. For now help the wounded; they are in the second room to the right.\u201d The fighter commanded.<br>\r\n  I ran inside the hallway. I was greeted with flying bullets and the sound of a machine gun firing away at her own entertainment. I fell to the floor and crawled quickly, making sure to avoid around the windows. I crawled into the room and I wasn\u2019t sure which did it; the smell or the missing limbs, but I fainted.</span></div></div>",
+            "created":1208667600,
+            "id":522304,
+            "title":"Germany"
+        },
+        "13":{
+            "author_id":"endlesstime",
+            "author_name":"endlesstime",
+            "choices":[
+                "An Elegant Blue Ball Gown",
+                "A Prestige Black Suit",
+                "A Normal Day Gown",
+                "A Normal Day Men\u2019s Suit",
+                "A Maids or Butlers Uniform"
+            ],
+            "content":"<div class=\"\"><div> <span>After some time you land somewhere in the 1800's. Looking down at your clothes, you start to wonder if you should change into something more appropriate, maybe into some period costume. Though you would have to make sure what the time actually was, you wouldn't want to stand out like a sore thumb. Pulling the handbrake, making sure the TARDIS wouldn't fly off without you; you bolt down to the front door, well to what you think might be the front door of the TARDIS. Slightly opening it, you peer outside, studying every little detail that comes your way. <br>\r\n<br>\r\nA slightly stubby man walks past in fancy period costume, strutting his way down the quiet street. A cold breeze picks up as you bundle out of the TARDIS, running toward this little man. He suddenly realizes you're coming straight for him and he gives you a distasteful glare.  You wave your hands hysterically as you chase after him,<br>\r\n\u201cKind Sir! Could you tell me what day it is?\u201d <br>\r\nBefore you know it you\u2019re falling, your foot caught in a rut in the road.<br>\r\n\u201cGood heavens! Are you alright?\u201d<br>\r\nYou nod gracefully as you slowly pick yourself up,<br>\r\n\u201cThank-you for your concern kind sir, but might I enquire to what date it is?\u201d<br>\r\nHe gives you a puzzled look, as you dust off your out of this world clothes<br>\r\n\u201c17th of June of course\u201d<br>\r\n\u201cRight, of course it is! The year?\u201d<br>\r\n\u201c1867, are you sure you didn\u2019t injure your head when you fell?\u201d<br>\r\nYou laugh, \u201cNo I\u2019m fine, thank-you for your time.\u201d <br>\r\nYou run back to the TARDIS and back inside to find the wardrobe. <br>\r\n<br>\r\nYou find it and your amazed by the immensity of this wardrobe, you slowly walk in and see a sign saying, \u2018Earth costume, 1800s\u2019, so you run off in that direction. Looking through the costumes you find the most amazing costume, what is the costume?<br>\r\n</span></div></div>",
+            "created":1217134800,
+            "id":561187,
+            "title":"19th Century"
+        },
+        "131":{
+            "choices":[
+                "Chase After Him and Reply Back",
+                "Ignore Him",
+                "Look for the Police"
+            ],
+            "content":"<div class=\"\"><div> <span>Ah, an elegant blue ball gown. Isn't that nice? You walked out of the TARDIS excited as can be. The Victorian era! You've dreamed about living in the Victorian era and now, now you are , in fact, in the Victorian era.<br>\r\n<br>\r\nYou walked around looking at the beautiful scenery. Well..it wasn't as beautiful as you thought. Sure, the woman wore beautiful dresses and men wore dashing outfits, but there were many people living on the streets. It was quite sad.<br>\r\n<br>\r\nAs you walked around, butterflies appeared in your stomach. Why were you nervous? Well, obviously you are from a time that doesn't speak like you do. What if people thought you were crazy? We would have to find out.<br>\r\n<br>\r\nAfter a while of walking, you bumped into someone. Instead of them saying sorry they just continued walking. This made you angry. \"Hey! You can not just bump into me without saying sorry! Where are your manners?\" <br>\r\n<br>\r\n<br>\r\n\"Sorry...for you being a rat.\" He said before walking away. You gasped. You realized two things. One, he stole your necklace, and two...he's sassy.<br>\r\n<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1453478640,
+            "id":2092645,
+            "title":"An Elegant Blue Ball Gown"
+        },
+        "132":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "An Outside Toilet",
+                "A Grimey Shop",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Once you've put your suit on you then think about the more economic side. In this world money is extremely important so you'll need to be sure that you have money to ensure comfort with the security to prevent pickpockets. Looking round the control room you see something like an ATM set into one of the walls.<br>\r\n<br>\r\nLooking at it the screen first says \"Please choose your time period\" and there are two buttons, one saying 'BCE' (That's BC in Christian terms) and the other saying 'CE' (AD to Christians). You press the 'CE' button.<br>\r\n<br>\r\nThe screen changes and now says \"Choose Millenium\" and you press the 2nd Millenium button. Then 19th Century, and then 1860s before the screen now says \"Choose Currency\" and you pick British Sterling since you can only be in Britain. You are now looking at the transaction screen, whereby you can choose how many of each type of note or coin you will carry.<br>\r\n<br>\r\nAfter some thinking you decide to carry one sovereign (pound coin), two half-sovereigns (ten shilling coins), four crowns (five shilling coins), eight half-crowns (two shilling and sixpence coins), sixteen florins (two shilling coins), thirty-two shillings, sixty-four sixpennies, one hundred and twenty-eight threepennies, two hundred and fifty-six pennies, five hundred and twelve ha'pennies (half penny coins) and one thousand and twenty-four farthings.<br>\r\n<br>\r\nThis means that you now have one pound, one shilling and fourpence in farthings, ha'pennies and pennies; one pound and twelve shillings in threepennies, sixpennies, shillings and florins. Also there's one pound in half-crowns, crowns, half-sovereigns and the sovereign. Giving you a cash total of thirteen pounds and twelve shillings. In this time to physically possess this much cash is a clear sign of wealth especially with your costume. This ATM machine seems to work like a replicator, producing whatever money you require. Also it is all readily packed into a four-dimensional wallet, probably to ensure that it would be difficult to steal the contents.<br>\r\n<br>\r\nExiting the TARDIS you turn to identify that it's disguised as...</span></div></div>",
+            "created":1218085200,
+            "id":566720,
+            "title":"Preparing for your Victorian Day"
+        },
+        "14":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "The American Colonies",
+                "Britain",
+                "France",
+                "Somewhere Else in the Old World",
+                "Somewhere Else in the New World"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now that you've decided when you want to go, where do you want to go?</span></div></span></div>",
+            "created":1210568400,
+            "id":530953,
+            "title":"Where to?"
+        },
+        "141":{
+            "choices":[
+                "The Seven Years War (1754-1763)",
+                "Revolutionary War (1775-1783)",
+                "Shays's Rebellion (1786-1787)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You eventually decide to set the coordinates for the American Colonies in the 18th Century. But at what point?</span></div></span></div>",
+            "created":1394168400,
+            "id":1756897,
+            "title":"The American Colonies"
+        },
+        "1412":{
+            "author_id":"n.m.e",
+            "author_name":"N.M.E",
+            "choices":[
+                "Boston tea party ",
+                "Special timeline Libertys kids",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What point of time of the war?</span></div></span></div>",
+            "created":1448082000,
+            "id":2065050,
+            "title":"Revolutionary War (1775-1783)"
+        },
+        "14123":{
+            "choices":[
+                "The Signing of the Declaration of Independance",
+                "Another Point"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other point have you set it to?</span></div></span></div>",
+            "created":1500947400,
+            "id":2358821,
+            "title":"Next"
+        },
+        "144":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Russia",
+                "China",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to head for...</span></div></span></div>",
+            "created":1214629200,
+            "id":549251,
+            "title":"Where in the Old World?"
+        },
+        "15":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "17th Century",
+                "16th Century",
+                "15th Century",
+                "14th Century",
+                "13th Century or Earlier"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you turn the controls towards the deep past you decide to head for:</span></div></span></div>",
+            "created":1208062800,
+            "id":519461,
+            "title":"Any Earlier?"
+        },
+        "153":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "England",
+                "France",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Having selected the century you decide to head for...</span></div></span></div>",
+            "created":1208754000,
+            "id":522574,
+            "title":"Where to?"
+        },
+        "1532":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Agincourt, 25th October 1415",
+                "Orl\u00e9ans, 1428-1429",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now that the TARDIS knows the areas where you want to go, you can now refine it to seek out historical events and perhaps seek justice with discretion, so as to avoid causality.</span></div></span></div>",
+            "created":1208754000,
+            "id":522587,
+            "title":"Event Selection"
+        },
+        "15323":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Patay, 18th June 1429",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to head for...</span></div></span></div>",
+            "created":1208754000,
+            "id":522590,
+            "title":"Battle of Patay"
+        },
+        "153232":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Rescue Joan of Arc",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you wish to seek out the trial of Joan of Arc and right a wrong in history?</span></div></span></div>",
+            "created":1209272400,
+            "id":524592,
+            "title":"The Trial of Joan of Arc"
+        },
+        "1532321":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "You opt for All of these Items",
+                "You only choose a Small Number of these Items"
+            ],
+            "content":"<div class=\"\"><div> <span>You don't sense anything as the TARDIS whirrs through time and space towards Rouen and the Trial of Joan of Arc. The only thing that tells you of the TARDIS's progress is a set of dials telling you your location in time and space in comparison to where and when you've set it to go.<br>\r\n<br>\r\nOnce the readouts match you activate a television screen to identify the exterior; you are definately in a medieval city but you cannot determine where Joan of Arc is held prisoner. Since it would take a long time searching of foot you look around to see if the TARDIS possesses any technology that might help you to locate and rescue the brave lass. You stumble upon something more Star Trek and less Dr. Who in appearance; it looks like a replicator. Using a touch screen you search through the inventory to select the appropriate devices.<br>\r\n<br>\r\nEventually you find a selection of items that would suit your purpose. A wristwatch teleporter, a stun gun, a semi-automatic sword (for Jedi reflexes), sodium pentathol darts, an ear-implanted universal translator, an electronic text-type translator (in case Joan can't speak English), an astrolobe GPS and night-vision goggles.</span></div></div>",
+            "created":1209272400,
+            "id":524607,
+            "title":"Rouen, 1431"
+        },
+        "15323211":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "You are going to Teleport to the Castle",
+                "You decide to Walk there"
+            ],
+            "content":"<div class=\"\"><div> <span>Not taking any chances you set up a replication queue for all of these items and also find a second replicator to design a uniform that will allow you to wear all these items descretely and then seek out an on-board personnel GPS to locate Joan of Arc.<br>\r\n<br>\r\nThe suit was set to finish replication before your gadgets were all replicated but Joan of Arc was quickly identified on the GPS. She was in the Castle of Rouen's chapter house. Since the date was the 29th May you knew that the trial must be underway. You aim to get her out in the night; it would be more discrete, cunning and thrilling than a daylight rescue straight from the stake.<br>\r\n<br>\r\nWhile you waited for the replication to finish you find a food replicator and order a ham salad and a glass of orange squash to keep you going during the rescue and a bathroom break to avoid any inconvenience.<br>\r\n<br>\r\nThe sun is getting low in the sky, the GPS now shows Joan in a prison cell in the castle. It is time to prepare. You put on your new suit and apply the items into appropriate niches. The teleporter goes on one wrist and the astrolobe GPS goes on the other, there's a scabbard for your sword, a James Bond holster for your stun gun, a pocket for the sodium pentathol darts complete with blowpipe, another pocket for your text-type translator and one final concealed pocket for your night vision goggles.<br>\r\n<br>\r\n\"Once the sun has set,\" You say to yourself, \"I shall commence my daring operation.\"</span></div></div>",
+            "created":1209272400,
+            "id":524614,
+            "title":"Preparing for your own Crusade"
+        },
+        "153232111":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>You set the teleporter to send you as close as possible to Joan without anyone seeing you materialise. Immediately you feel as though you've just gone into a deep sleep and woken up again. The surroundings have changed from a well-lit TARDIS to a twilight castle; burning torches illuminate the passage in which you stand. Knowing that you are now in dangerous territory you treat it as a war game, making sure that you are seen as little as possible.<br>\r\n<br>\r\nSlipping through the passages of the castle you regularly check your GPS to determine that you are going in the right direction. Now and again you hear metal shoes clomping towards you, whereupon you duck into whatever alcoves are available and watch the guards walk by. At one point you hear two guards talking about Joan of Arc; your translator does well in decoding their Middle English.<br>\r\n<br>\r\n\"Why did the French appoint a <i>girl</i> to lead their army? And a peasent girl at that.\" One of the guards comments rhetorically.<br>\r\n<br>\r\n\"We had them backed into a corner,\" Replies the other, \"They'd believe anything that gives them hope. If it wasn't for her this war would've been over by 1428 and England could have been a great power by the glory of God by now.\" The first soldier expressed anger and hate in his next comment.<br>\r\n<br>\r\n\"It is a good thing that she shall burn,\" He says, \"It is unnatural for a simple peasent to see the saints telling her to fight against the might of the English army. If you ask me she's worse than a heretic, she's an agent of the Devil himself!\" You hold yourself back. If you started fighting now you would expose your motives and the whole castle would be heading for you. Instead you decide to use a diplomatic trick.<br>\r\n<br>\r\nYou take out your text-type translator and get it to print off a parchment that would look as though it is an official order from a cardinal. Once that has been done you type in something you wish to say and memorise the Middle English translation before approaching the guards.</span></div></div>",
+            "created":1209272400,
+            "id":524619,
+            "title":"Going for Joan"
+        },
+        "1532321111":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "You Unlock the Cell"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Halt!\" Cries one of the guards. \"Who goes there?\"<br>\r\n<br>\r\n\"Friend.\" You reply.<br>\r\n<br>\r\n\"Advance and be recognised.\" The guard instructs you. You step out of the shadows to greet them. \"What is your business?\"<br>\r\n<br>\r\n\"The Cardinal of Winchester has instructed me to deliver Last Rites to the prisoner.\" You tell them in Middle English, which simply had a slight difference in pronounciation and word order compared to modern English.<br>\r\n<br>\r\n\"I do not remember anything about heretics receiving Last Rites.\" The other guard comments.<br>\r\n<br>\r\n\"I have his instuctions here.\" You say and produce the parchment. The guard takes it from you and they both look at it. You hear them muttering behind it; you remember that literacy was not a qualification for a medieval soldier and smirk with delight before the guards look up from the parchment as you drop your amused expression.<br>\r\n<br>\r\n\"Well, everything seems to be in order.\" One of the guards tells you as he returns the parchment to you. \"Pass.\" You thank them and set off down the spiral staircase as they start to argue about bending the truth.<br>\r\n<br>\r\nAfter a steady trek down the stairs you see a set of cells with only one guard patrolling the dungeon. It figures since if they all escaped then it would take them a while to reach a suitable escape route while fighting a rally of soldiers. You wait until he starts to turn round and then fire the stun gun, knocking him unconscious with barely a sound. Going to give him the once over you find that he does not have the keys. A lowly man is sitting in the corner of the dungeon fast asleep; his hand barely clutches the bottle of ale he must've been swigging and there, hanging from his waist-side, are the keys to the cells. You give him a nudge and he grunts, so you get a malicious idea of how to get him to cooperate. You take a sodium pentathol dart and jab him in the buttock. That gets him out of his chair.<br>\r\n<br>\r\n\"What are you doing?!?\" He yells at you. You look him in the eye and ask him.<br>\r\n<br>\r\n\"Which of those keys is the one to the cell containing Joan of Arc?\" You have a bit of trouble with the Middle English but he doesn't question it. He just takes the keys in his hand and fiddles around with them before he holds up one particular key.<br>\r\n<br>\r\n\"This one,\" He tells you, \"As it has a little lump on the end like a fleur-de-lis.\" You quickly take it from him and point the stun gun at him.<br>\r\n<br>\r\n\"Thank you.\" You tell him. \"Have a good night's sleep.\" You then knock him unconscious back into his chair, the bottle of ale is now dribbling onto the floor.</span></div></div>",
+            "created":1209272400,
+            "id":525672,
+            "title":"Entering the Dungeons"
+        },
+        "15323211111":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Joan Agrees",
+                "Joan Disagrees"
+            ],
+            "content":"<div class=\"\"><div> <span>You unlock the door to the cell and step inside to see the one and only Joan of Arc lying upon a bed of straw, her eyes are wide open and are focused upon you in a bewildered look. You decide to try a little bit of French to reassure and to ask her a question that she will understand.<br>\r\n<br>\r\n\"Bonjour, madame.\" You greet her, she sits up on the straw. \"Parlez-vous Anglais?\" She looks at you with surprise before answering.<br>\r\n<br>\r\n\"I do.\" You sight with relief and approach her.<br>\r\n<br>\r\n\"I'm on your side.\" You whisper to her. \"I aim to prevent you from being burned. We've got to leave tonight.\" Joan looks at you with bewilderment now.<br>\r\n<br>\r\n\"How?\" She asks you. \"I have no armour, no weapons.\" You tap on your teleporter and contact the on-board replicator. One minute later a suit of armour complete with sword and scabbard materialises in the cell. Astonished by this occurance Joan whispers a prayer in French, which you only just catch as a sort of grace.<br>\r\n<br>\r\nYou keep your eyes on the door as Joan changes into her armour, which happens to be an exact replica of her own fleur-de-lis ensemble. You're not just doing it for modesty's sake; you want to make sure that neither the guard or jailor wake and lock you in, since you left the key on the outside.<br>\r\n<br>\r\n\"I'm still not sure about this.\" Joan tells you as she brandishes her sword. \"There's so many of them. Can we really escape?\" You look at her and say.<br>\r\n<br>\r\n\"Stand by me. Let us step out and meet them. For death or glory.\"<br>\r\n<br>\r\n\"For God and for France.\" She responds. You draw your sword and hold it to hers, both crossing in the air.<br>\r\n<br>\r\n\"The guard will be awake soon,\" You tell her, \"I would suggest giving him a surprise.\"</span></div></div>",
+            "created":1209445200,
+            "id":525690,
+            "title":"Meeting Joan"
+        },
+        "153232111111":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Kill Him",
+                "Run Away with Joan"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay,\" You tell Joan, \"Here's the plan. I'll pull the cell door to and look through the bars. Once the guard comes round he will either close the door himself or get the jailor to do it. When either of them approaches we will burst out, swords drawn, ready to challange the guard.\" Joan seems unsure about this; partly because of how she feels about such attacks but mostly because you've slipped back into modern English, which makes you seem like you've got an unusual accent. However she seems okay to settle for your suggestion.<br>\r\n<br>\r\nYou wait for a while until the guard recovers from the stunning. He looks around and sees the key in the lock.<br>\r\n<br>\r\n\"Will that jailor remember to lock the cells when he's given the prisoners their bread and water?\" He muttered as he approached the door reaching for the keys. Now you lift your sword into the air and burst through the door, surprising the guard good and proper. Your sword clashes with his halberd for a while as you push him back and allow Joan to exit the cell.<br>\r\n<br>\r\n\"An intruder!\" The guard cries. He brings the axe side of his halberd towards you as you bring your sword into a guard position against it. \"How did you get in without being noticed, you French fiend?\" You look at him with a cold expression to contrast with his angry face.<br>\r\n<br>\r\n\"I am not French.\" You tell him. \"I was born and lived in England.\" The guard looks surprised for a while before growling.<br>\r\n<br>\r\n\"Traitor! Collaborator! I shall slice you in two in the name of King Henry VI!\" You parry a few more of his moves with the halberd before stating.<br>\r\n<br>\r\n\"Henry VI is only ten years old at this time; you mean Humphrey, Duke of Gloucester.\"<br>\r\n<br>\r\n\"Whoever's in charge,\" The guard growled, \"I shall dispose of you.\" As he brought his halberd down in one final effort to finish you, you dodge and...</span></div></div>",
+            "created":1209531600,
+            "id":526157,
+            "title":"Joan Agrees"
+        },
+        "1532321111111":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "You Fight Guards as you go up the Stairs",
+                "You reach the Top without Incident"
+            ],
+            "content":"<div class=\"\"><div> <span>As the guard's halberd clangs against the stone floor of the dungeon  you swish your sword across the back of his neck, bringing him down bleeding like mad. You move to the stairs that are the only exit from the dungeon and Joan of Arc takes up a similar position on the other side of the doorway.<br>\r\n<br>\r\n\"There are more guards coming down the stairs.\" Joan tells you when you both hear a distant clanking of metal. \"They must have heard us.\" You acknowledge this and say.<br>\r\n<br>\r\n\"We'll take them down when they enter. I'm afraid I haven't introduced myself.\" You tell her your name and explain that though your ancestors lived up to their namesake you are in a different profession. \"Hear they come.\"<br>\r\n<br>\r\nAs the two guards you duped earlier came rushing in you drove your sword across the neck of one of them while Joan cut her sword into the stomach of the other. They lay upon the dungeon floor bleeding to death.<br>\r\n<br>\r\n\"War is a bloody business,\" You comment, \"But needs must.\" Joan thinks for a moment and says.<br>\r\n<br>\r\n\"We will have to give penance for what we have done.\"<br>\r\n<br>\r\n\"And about to do.\" You add. \"Only not here.\" Joan seems to accept this but you know that she's misunderstood what you were referring to. \"Come,\" You say, \"Let us leave this palace of tyranny.\"</span></div></div>",
+            "created":1210568400,
+            "id":530938,
+            "title":"Conferring with Joan"
+        },
+        "15323211111112":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Head for the North Gate",
+                "Head for the West Gate"
+            ],
+            "content":"<div class=\"\"><div> <span>Upon reaching the top to brace yourself against the wall and check to see if any guards or knights are in the corridor beyond. Upon noticing that there is no one you step out of the doorway with Joan of Arc following you. You look at your GPS.<br>\r\n<br>\r\n\"We must head west-north-west of here.\" You tell her, she looks at you slightly confused.<br>\r\n<br>\r\n\"But that is towards English lands.\" She tells you.<br>\r\n<br>\r\n\"It's the last thing they'll expect and we will find shelter out there, I promise.\" You answer sincerely.<br>\r\n<br>\r\n\"Well,\" She informs you, \"The castle of Rouen has a north gate and a west gate.\" You look at your GPS to check the street layout of 15th Century Rouen.</span></div></div>",
+            "created":1210568400,
+            "id":530941,
+            "title":"Which Way?"
+        },
+        "153232111111122":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "\"We can close the portcullis behind us.\"",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Let us head West.\" You say and head in direction from which you came.<br>\r\n<br>\r\n\"Wait!\" Joan alerts you. \"If you go that way you'll have to deal with the great hall, a room where knights gather in the night. Follow me.\" You concur with her and follow her down another corridor.<br>\r\n<br>\r\nI won't go into too much detail about the breakout. Needless to say you came across a few small groups of guards and fought hard to stave them off before you came to the West gate, whereupon Joan of Arc knocked a lever with her sword and the drawbridge fell.<br>\r\n<br>\r\n\"Okay,\" You comment once this was done, \"Now how do we open the portcullis?\"<br>\r\n<br>\r\n\"You see that lever over there?\" She points with her finger and you acknowledge. \"Turn it towards you while I do the same with that one over there and the portcullis will open.\" As you do so you ask her.<br>\r\n<br>\r\n\"How can we delay anyone persuing?\" She turns to you and says...</span></div></div>",
+            "created":1210568400,
+            "id":530952,
+            "title":"Escaping Csstle Rouen"
+        },
+        "1532321111111221":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "You Break Through",
+                "Reinforcements Arrive, Time for Plan B"
+            ],
+            "content":"<div class=\"\"><div> <span>\"If we can chop the ropes once we're outside,\" Joan tells you, \"That should give us enough time to make our escape.\" Understanding this you both depart the castle. Looking at both sides of the outside of the portcullis you see the ropes that are used to open it except that the levers to open it are not on the outside. With swift movements you both chop the ropes and the portcullis slams down and you make a break for it.<br>\r\n<br>\r\nFor a while you and Joan make an easy getaway through the streets of Rouen as you follow your GPS to the TARDIS but, as always, something turns up.<br>\r\n<br>\r\nLess than one hundred yards from your desitnation you find yourself facing a consignment of the town guard.<br>\r\n<br>\r\n\"Traitor!\" The leader cries. \"You shall die for this, but I'm a reasonable man so I'll give you this chance to surrender and be granted last rites and a proper burial.\" You frown at him and declare.<br>\r\n<br>\r\n\"This will be a shock to friend and foe alike. I am not a Catholic.\" Joan gasps at this but doesn't overreact. \"I came to right a wrong; the France I know has no part of the mainland belonging to England, Joan was only doing what was right and I will not allow the innocent and the good to die just because they unwittingly invoke the jealousy of King Louis's court and the wrath of the wrongdoers.\"<br>\r\n<br>\r\n\"Then,\" The guard replies, \"You will face the penalty for heresy, both of you.\" They all draw swords as you and Joan bring your swords up in front of your faces.<br>\r\n<br>\r\n\"Where I come from heresy is not a crime but a right.\" You comment as they approach.<br>\r\n<br>\r\nThe fight is long and hard as you cut down four guards in the first five minutes and Joan takes out the man who confronted you. You know it's only a matter of time before reinforcements arrive so you start chopping your way through the remaining soldiers.</span></div></div>",
+            "created":1219035600,
+            "id":571773,
+            "title":"Danger in the Town"
+        },
+        "15323211111112212":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "She Faints",
+                "She Reacts More Mildly"
+            ],
+            "content":"<div class=\"\"><div> <span>After taking out the leader of the group you were fighting you hear Joan say.<br>\r\n<br>\r\n\"Mother of God!\" Turning round you see a consignment of longbowmen loading their bows; you can see no alternative now. You use the coordinates from the GPS to program the teleporter to home in on 5 yards in front of the main door to the TARDIS, as you do this you say to Joan.<br>\r\n<br>\r\n\"Unless you wish to appear as a pincushion hold onto me tight and we shall escape.\" Bewildered but trusting Joan commences as the men take aim; you wait for just the right moment. \"So long...\" You say as the soldiers shoot and you press the button to energise the teleporter, causing the arrows to jab into a plaster wall behind where you were standing.<br>\r\n<br>\r\n\"Suckers.\" You finish upon materialising in an alleyway some 500 yards away from where you started. Joan is looking round in confusion from being in one place in one instance and then out of sight of the archers in the next. \"I don't think we have time for me to explain fully,\" You comment to her, \"The fiends will continue to search the town. But you must brace yourself for what you are about to see.\" It seems that Joan is taking the events in the belief that they're divinely controlled and, so, continues to trust you.<br>\r\n<br>\r\nWalking up to the TARDIS, disguised as a shed of some sort, you open the door after hearing the seal release upon your touch and walk inside beckoning Joan to follow before shutting the door behind you, making sure that none will follow the both of you inside. How does Joan react to the interior.</span></div></div>",
+            "created":1259384400,
+            "id":798396,
+            "title":"Beam Me Up!"
+        },
+        "153232111111122122":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Go to another time",
+                "Show her historical records"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Sweet Jesus!\" Joan comments upon seeing the metal interior. \"How is it that the Lord allows for a building to be bigger inside than outside?\" You decide to explain things as best you can.<br>\r\n<br>\r\n\"Fear not, Miss Joan.\" You declare. \"That which was seen outside was but a facade to make this appear normal within the 15th Century. You are now in the midst of a transport that allows travel through time and space; I was surprised myself to have awaken within this but, rest assured, such machines are not commonplace in my own timeline.\" She seems to be grasping the situation as she attempts to adapt to the environment.<br>\r\n<br>\r\n\"If thou is a pilgrim of time,\" She asks, \"When does thee come from?\"<br>\r\n<br>\r\n\"My time is the early years of the 21st Century. A lot has happened between now and then, though many things in this machine are not from my timeline but must be from later centuries to my own.\"<br>\r\n<br>\r\n\"So,\" Joan asks, \"The Lord allows you to go anywhere you like in time?\"<br>\r\n<br>\r\n\"Whoever built this and managed to set me within it does so.\" You answer. \"As far as I can see any divine force must have allowed thus to have happened.\" There is no further comments from Joan so you continue. \"It seems that we can visit many different histories due to interfering with the timeline as we know it. Such must be permitted or I couldn't have rescued you from the fascists of this year's England.\"<br>\r\n<br>\r\n\"Fascists?\" Joan asks, unfamiliar with the word.<br>\r\n<br>\r\n\"I do not think I have time for a full definition but I use the term for those who advocate persecution of those who are different from themselves.\" To try and help Joan understand things better you...</span></div></div>",
+            "created":1259384400,
+            "id":798405,
+            "title":"Joan of the TARDIS"
+        },
+        "1532321111111221222":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "There's a Big Difference",
+                "There's Little Consequence"
+            ],
+            "content":"<div class=\"\"><div> <span>To give her a better understanding of what's going on you go over to a computer terminal and go through the available data systems before finding a set of historical records divided into timelines labelled according to how many you've affected, so number one is the original timeline that you come from. You search for Joan of Arc and get the information you were looking for before skipping through to the point where you interfered.<br>\r\n<br>\r\n\"Miss Joan,\" You start.<br>\r\n<br>\r\n\"Please,\" She interrupts, \"You may call me Joan.\"<br>\r\n<br>\r\n\"Joan,\" You correct yourself, \"Can you read?\"<br>\r\n<br>\r\n\"A little.\" She answers. \"Could you help me gain greater literacy practice?\"<br>\r\n<br>\r\n\"I can try,\" You respond, \"But not just now.\" You commence to explain to Joan that, had you not rescued her, she'd be burned alive at the stake and her ashes thrown in the river before going on to explain that the Pope would overturn the verdict after the war was over and she'd be made a Saint and this would make her one of the most well-known canons in the 20th Century.<br>\r\n<br>\r\n\"But,\" She asks, \"If you rescued me what will happen now?\" Intrigued yourself you open the second timeline history and check the details.</span></div></div>",
+            "created":1259384400,
+            "id":798410,
+            "title":"Joan and History"
+        },
+        "15323211111112212221":{
+            "author_id":"n.m.e",
+            "author_name":"N.M.E",
+            "choices":[
+                "The time of King Arthur and Camelot.",
+                "See the revolutionary war for America!",
+                "Another Choice"
+            ],
+            "content":"<div class=\"\"><div> <span>It says here that my actions where like the hand of God himself making you look like a goddess and the sister to the Lord's son; you are now apart of the bible!(You make sure she understands the word as a Catholic before continuing.) This sped up the equality of women by 5 centuries leading them to fight alongside men in wars plus a number of saintly shrines and even churches and chapels were built in your name, Joan.So where would you like to go next?</span></div></div>",
+            "created":1417237200,
+            "id":1895500,
+            "title":"There's a Big Difference for girls anyway."
+        },
+        "153232111111122122211":{
+            "author_id":"n.m.e",
+            "author_name":"N.M.E",
+            "choices":[
+                "History's not Mythology; you got the wrong time.",
+                "You and Joan arrive in Camelot. "
+            ],
+            "content":"<div class=\"\"><div> <span>\"How about here?\" Said Joan. <br>\r\n<br>\r\n\"The time of King Arthur? Are you sure about this Joan it is a very dangerous place but with our change in history......Well I suppose it should be safe enough for you since you wouldn't be... Well never mind. Off we go!\"</span></div></div>",
+            "created":1447995600,
+            "id":2064587,
+            "title":"The time of King Arthur and Camelot."
+        },
+        "153232111111122122213":{
+            "author_id":"tornadopelt",
+            "author_name":"Tornadopelt",
+            "choices":[
+                "Leave this year - Joan is shocked beyond belief",
+                "Joan can't take her eyes off of it"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, Joan, you may not realize it, but where I come from, we have explosions that would make a petard... look like a breeze,\" you said.<br>\r\n<br>\r\nJoan asked, \"Shall we see these explosions of which you speak?\"<br>\r\n<br>\r\nYou nod in reply, before offering her a pair of welding goggles. \"You'll need these where we're going,\" you said.<br>\r\n<br>\r\nReluctantly, Joan put the goggles on and asked, \"Why do I need to wear these... blacked out glasses?\"<br>\r\n<br>\r\n\"If you were to look at the explosion directly, without goggles, you'd permanently lose your eyesight. The flash would be so bright it would look like God brought the sun's power down to Earth for a brief time,\" you replied.<br>\r\n<br>\r\nAlmost immediately, Joan paled and nodded. \"So, when are these explosions created?\" she asked, curious to see how far the human race had advanced.<br>\r\n<br>\r\n\"1945,\" you replied, pulling levers and using the time controls. A quick, small shake later, and your TARDIS settled to a stop. \"I present to you, Joan... the year of the atom bomb.\" Opening the doors, you showed Joan the Alamogordo test site from afar.<br>\r\n<br>\r\nSirens could be heard as a countdown began. \"Attention all personnel, it is now one minute to zero-time. Put on goggles or turn away. Do not remove goggles or face burst until ten seconds after first light.\"<br>\r\n<br>\r\nImmediately, Joan pulls down her goggles, wearing them in a bit of apprehension as the doors stayed open. The countdown continued and she asked, \"What's going on?\" with a hint of fear.<br>\r\n<br>\r\n\"You're about to witness the power of mankind's ultimate weapon,\" you replied. \"Don't worry, the TARDIS shields us from the shockwave and the heat wave. Still...\"<br>\r\n<br>\r\nJoan whimpered a bit before the loudspeakers said, \"T-minus 15 seconds.\"<br>\r\n<br>\r\nYou and Joan still back up a bit and are prepared to close the doors of the TARDIS, just in case. \"T-minus ten, niner, eight, seven, six, fiver, four, three, two, one, zero.\"<br>\r\n<br>\r\nA bright flash suddenly lit the area up brighter than the sun ever could. The brilliant white flash was dulled due to the goggles, but it was still like the sun HAD been brought to Earth. The light began to dim, though, and soon, 10 seconds had passed. Reluctantly, you both raise the goggles up from your eyes to your head. A brilliant ball of fire rose up into the air as the mushroom cloud began to develop. \"Joan... welcome to the age of the atom bomb,\" you said somberly.</span></div></div>",
+            "created":1423458000,
+            "id":1930715,
+            "title":"The Flash"
+        },
+        "15323211111112212222":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Arkwright",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Fascinating,\" You say as you compare the new facts to the originals, \"The rescue attempt caused the English to commence a major search and encouraged the French to rise up.\" Joan's face brightens at the sound of this. \"Because of reports by eye-witnesses the Pope immediately demands the English to withdraw from all French territory except for Calais and instigates a peace treaty between the two countries.\" Joan is over the moon at this news. \"By 1489 Joan of Arc is canonised and the timeline generally continues as normal. The main difference is that Joan is not a martyr but many Catholics believe her to be in the grace of God.\"<br>\r\n<br>\r\n\"So,\" Joan ponders, \"By rescuing me you have given the French people a stronger resolve and brought about peace earlier than otherwise and, thanks to your instant travel amchine...\"<br>\r\n<br>\r\n\"It's called a teleporter.\" You correct her.<br>\r\n<br>\r\n\"Some believe that I was rescued by an angel.\" That seemed to be the case but you point out.<br>\r\n<br>\r\n\"Scepticism will continue as normal. Non-Catholics will say that the figure I was happened to be a French spy who used some kind of prototype smoke bomb to make it appear as though we vanished.\" Joan calmly accepted this as she now wondered what would happen now. \"You will have to make up a surname for yourself; the given name will pass easily but to call yourself 'd'Arc' would more than likely earn you a one-way ticket to the nut house.\" Joan was bewildered by this expression but tried to figure a suitable surname to go by.</span></div></div>",
+            "created":1259384400,
+            "id":798416,
+            "title":"St. Joan is Still Saint"
+        },
+        "153232111111122122222":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Dousin",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After due consideration Joan decides that she'll be known as Joan...</span></div></span></div>",
+            "created":1260248400,
+            "id":802993,
+            "title":"Dousin?"
+        },
+        "1532321111111221222221":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "You show her a bedroom she can use",
+                "She asks to be taken to another time"
+            ],
+            "content":"<div class=\"\"><div> <span>\"...Dousin.\" Joan tells you. \"It seems to be inconspicuous.\" You acknowledge this and now decide to help her adapt to the hi-tech environment. First you show her the flight controls with consoles for times and places written down in modern English, however she has trouble reading most of the details and the Arabic/Indian numerals are alien to her, being more used to Roman numerals. You then show her the food replicator.<br>\r\n<br>\r\n\"What would you like to eat?\" You ask her. Uncertain at first Joan asks for some meat and accompanying sides. After due consideration as to what this means you go through the menu and select roast chicken, baked potatoes, courgette and button mushrooms. Joan watches in astonishment as food materialises in the alcove under the touch panel; taking the plate in hand she inquires as to the yellow-grey-brown lumps on the plate. \"They are potatoes,\" You answer, \"Root vegetables from a far-off land that shall be named North America.\" Curious Joan sits at a convenient table and tucks in.<br>\r\n<br>\r\nWhen she has finished her meal you then show her the mechanical replicator, setting most of the gadgets you have used in the dispensary tray and setting the dematerialisation process in motion before selecting a discreet two-way translator for Joan, she asks as to how things appear and disappear.<br>\r\n<br>\r\n\"Matter-to-energy.\" You explain. \"It will be proved that, theoretically, matter can be turned into energy and energy can be turned into matter by the early 20th Century but actual conversion at this level is futuristic even by my standards.\" Next you use the suit replicator; indicating to Joan where her suit of armour comes from. When you've changed into clothing that you find more comfortable and appropriate for your time period Joan asks for the same. When it came to deciding on what to wear it was useful to Joan that the menu displayed images of the garments; she now wears a pair of blue jeans, a white blouse, a blue jacket, green socks and black high-heeled shoes. What happens next?</span></div></div>",
+            "created":1260248400,
+            "id":802996,
+            "title":"Joan has a Look Round"
+        },
+        "15323211111112212222212":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "The Time of Jesus",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>She addresses you by name and you respond inquiringly.<br>\r\n<br>\r\n\"Might we pay a visit to another time?\" She asks, you respond affirmatively.<br>\r\n<br>\r\n\"When would you like to go?\" You ask.<br>\r\n<br>\r\n\"Right now.\" Joan Dousin replies.<br>\r\n<br>\r\n\"You misunderstand,\" You respond, \"I mean what time period would you like to visit.\" Getting the message Joan ponders for a moment, eventually asking to visit...</span></div></div>",
+            "created":1260248400,
+            "id":802998,
+            "title":"Joan Dousin Wishes to Travel"
+        },
+        "153232111111122122222121":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Neutralising Danger",
+                "Destroying Danger"
+            ],
+            "content":"<div class=\"\"><div> <span>You're actually surprised at first before reminding yourself that you're dealing with a devout Christian.<br>\r\n<br>\r\n\"Very well,\" You answer, \"But which part of his time?\" Joan decided to visit a time when he would've been considered an adult before you even asked but she now finds it difficult to pick a particular time.<br>\r\n<br>\r\n\"After John the Baptist baptised him,\" She replies, \"But before his entrance to Jerusalem.\" Understanding this you attempt to figure the time that lapsed between these two periods. Eventually you figure that it has to be either the year 29 or 30; you set the time for October 29CE and the place as Galilee before engaging the engines. Joan looks over your shoulder as the current time readout races backwards.<br>\r\n<br>\r\nAt first it flows back in seconds, then it accelerates to minutes, followed by hours. Joan wonders how the outside world is changing; she thinks it over as she understands that she's now going back through the time of her trial; when she looks at the chronometer again she realises that the both of you have just gone past the event of her capture. Before long the flow of time means that one year's difference is one minute to you as the fifteenth century pours away revealing the fourteenth.<br>\r\n<br>\r\nIt take about fifteen minutes for the TARDIS to reach Galilee on the 29th October 29CE. Joan wishes to see the outside but you remind her that you have to dress for the part and have adaquete protection from military might.<br>\r\n<br>\r\nThe suit replicator produces desert garments that would certainly not seem out of place but the colours might raise some eyebrows, as for protection you go for...</span></div></div>",
+            "created":1260248400,
+            "id":803005,
+            "title":"Going Back to Roman Galilee"
+        },
+        "1532321111111221222221212":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Dubiously",
+                "Hospitablely"
+            ],
+            "content":"<div class=\"\"><div> <span>A passionate hatred of the Ancient Romans persuades you to go for more aggressive options to defend yourself. You notice that the options for replication are very Star Trek and not really Dr. Who so you opt for a phaser sidearm, a stab-proof vest and, once again, a wrist-teleporter while Joan chooses the stab-proof vest, the same kind of sword you used while rescuing her and something to conceal the weapon, meaning she'll have to hold you in order to teleport again. You're both wearing two-way translators anyway and commence to step outside as soon as you pick up the GPS.<br>\r\n<br>\r\nYou find yourself on a hillside facing towards the Sea of Galilee; currently you're in the shade. Turning round you see that the TARDIS has disguised itself as a shrine with a door. You signal to Joan to follow you down to the plain below.<br>\r\n<br>\r\nOnce there you notice some men picking olives from trees; measuring up the situation you can't be sure how they'll take you're arrival. You set the phaser to stun. As you walk through the grove one of the men spots you and brings the others' attention on you. They react...</span></div></div>",
+            "created":1260248400,
+            "id":803007,
+            "title":"First Contact"
+        },
+        "153232111111122122222122":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "The Height of the Roman Empire",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Joan wishes to visit the time of...</span></div></span></div>",
+            "created":1271134800,
+            "id":867508,
+            "title":"Circa 100CE?"
+        },
+        "1532321111111221222221222":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Alexander the Great",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Joan would like to visit the time of...</span></div></span></div>",
+            "created":1271134800,
+            "id":867509,
+            "title":"The Macedonian Empire?"
+        },
+        "15323211111112212222212222":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "BC(E)",
+                "AD/CE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Or does Joan wish to travel to a BC year?</span></div></span></div>",
+            "created":1271134800,
+            "id":867510,
+            "title":"Pre-Christian?"
+        },
+        "153232111111122122222122221":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Caesar",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Joan wish to travel back to the time of Gaius Julius Caesar?</span></div></span></div>",
+            "created":1271134800,
+            "id":867511,
+            "title":"IVLIVS CAESAR?"
+        },
+        "1532321111111221222221222212":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about the time of Marius's military reforms?</span></div></span></div>",
+            "created":1271134800,
+            "id":867512,
+            "title":"GAIVS MARIVS?"
+        },
+        "15323211111112212222212222122":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "The Time of Creation",
+                "Some Other Time"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Being a curious Christian Joan wishes to visit...</span></div></span></div>",
+            "created":1338872400,
+            "id":1353087,
+            "title":"In Search of Creation"
+        },
+        "153232112":{
+            "author_id":"wolfang",
+            "author_name":"Francis Wolfang",
+            "choices":[
+                "Stun the guard and switch his cloathes with Joan's.",
+                "Enter the room and think of something else."
+            ],
+            "content":"<div class=\"\"><div> <span>It was one hour before the sun would set, so you decided to go there by foot. You entered a forest, which the GPS indicated as a shorcut. At the middle of the forest, you saw a knight coming from his hunt for trophys or just from abusing his power on the French. You moved ahead of him and waited behind a tree on his path. When he past by you, you jumped on him an stunned him with your gun. You tied him to a tree, stole his armor and horse, deciding to take Joan disguised as one of their own men. You rode to the end of the forest to castle.<br>\r\n<br>\r\nThe entering part was quite easy since the guards recognized your armor and bowed when you passed, not noticing your face behind the helmet. Inside your took off the armor and hid inside a room because guards were patrolling the corridors. For your surprise, the room you entered belonged to a member of church, so you headed to the wardrobe and took a church cloak and put it on.<br>\r\n<br>\r\nHeading to the dungeon, now dressed as a priest, you searched for Joan's cell.<br>\r\n<br>\r\n\" Hey, who are you ? \". You looked back and saw a guard coming your way. Thinking fast, you reached your pocket inside the vests and found onething you didn't realized you had it: Psychic paper. You headed to the guard and spoke with a loud and religious voice \" How dare you speak to a member of His Santity's House ?\". \" I've never seen you here before, and i've not been noticed of any visits to any of the low-lifes i keep in My dungeon. You picked your glove and slapped him with it saying \" Keep your mouth shut, don't you recognize a member of the High Church of Canterbury ? \" ypu showed him the paper, hoping it showed him a seal of the church. It worked. The guard threw down his sword and bowed to your feet asking for pardon. You told him \" Don't worry, God will surely forgive you \" You had no idea where those lines were coming out from you. Maybe it was the cloak. \" I'm here to talk to that who challenged the church of England \". The guard, now totally convinced, fetched the keys and lead you to the right door.</span></div></div>",
+            "created":1259298000,
+            "id":798002,
+            "title":"You decide to Walk there"
+        },
+        "1533":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "China",
+                "Spain",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are going to head for...</span></div></span></div>",
+            "created":1208754000,
+            "id":522593,
+            "title":"Other Countries"
+        },
+        "155":{
+            "choices":[
+                "Ancient Greece (time of persian war)",
+                "England (war against France)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here is a selection of countries but you aren't limited to them just encouraged to use em.</span></div></span></div>",
+            "created":1209186000,
+            "id":524493,
+            "title":"13th Century or Earlier"
+        },
+        "1551":{
+            "choices":[
+                "A man somehow recruits you into the persian war along with Sparta",
+                "A voice from the statue comands you to wait",
+                "You decide to leave this boring period, it's squares-ville"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide this would be a good place to start since you know most about ancient Greece and mythology. You buckel up and concentrate andbefore you know it you're in a weird temple. You're at the feet of a gigantic statue of a pretty, yet wise godess. She's holding a spear and sheild with a chariot wheel leaning against her. Using your knowledge, you can tell this is a statue of Athena the goddess of war tactics and inventer of the chariot. You decided to leave when...</span></div></div>",
+            "created":1209186000,
+            "id":524498,
+            "title":"In Athens"
+        },
+        "15512":{
+            "choices":[
+                "Continued"
+            ],
+            "content":"<div class=\"\"><div> <span><i>\"Hold it!\"</i> Instructed a strong voice from nowhere. There was a blinding light and you quickly sheild your eyes. <i>\"You are Stephen Renman, are you not?\"</i> You look over, once the light died away. There stood a woman in surprisingly modern clothes, a snoopy hoodie, tightish jenes and striped socks with tennis shoes. She was about your age, sixteen and had a framiliar wise look, polishing her spear. \"Y-yes I am and who are you?\" you stammer. <i>You don't recognize me? Well take another look at the statue.\"</i> You look and notice the staue has the same greay eyes and all-knowing expression. \"Is that your m- I mean is Athena your mother?\" <i>\"No, not quite but you're close. I am Athena, you see, I can change my apearance at will and I thought I might as well make myself look a little more familiar to you. I came like that ONCE in front of a human and they just won't let it go, I hate how I look in all those statues and pottery.\"</i> She looked up at the statue in distaste. All this is a little much for you to handel and all you can do is stare into her pretty face. She rolls her eyes like many know-it-alls often do and started fiddling with her spear. \"So, why exactly do you want from me?\" You ask timidly. <i>\"Why else would a god or goddess appear in front of a young mortal? I have a quest for you, silly hero.\"</i> Your heart lept, you've hungrily read all of the epics and imagined being Eulypsis or Hercules. \"I accept\"</span></div></div>",
+            "created":1209186000,
+            "id":524522,
+            "title":"Athena's request"
+        },
+        "155121":{
+            "choices":[
+                "Odysseus",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>You suddenly gained the courage out of nowhere but loved it. <i>\"Maybe you should hear what it is first, hm?\"</i> She said, clearly amused. <i>I love mortals, they can only be brave or wise at on time. Ok, you know about the Persian war, right?\"</i> \"Um, well...\" She sighed. <i>\"Ok, the Persians very mad at the Greeks because they're colonizing everywhere even in the middle of Persia, the Greeks around there have been taken hostage and Persia wants us off the face of the map and they have allies all over Asia. We are very out numbered even with Athen's navy and Sparta's army. The immortals are the main problem, I want you to go to their training grounds and defeat all of their back ups, they never let their numbers drop below 1500 and if we cut off their help they'll have no choice.\"</i> You believe this quest unreasonable and impossible but then again, she is the goddess of war tactics and she knows a lot more than you. \"Do I get any magical items to help me out?\" <i>\"Yes, all of the gods chipped in and will help you on your way. None of us want to see Greece die because our existance is tied to it. First, you get magical wing shoes from Hermis, second you get a sword that is charged with electricity and has two snakes around it forming the cadusseus from Zeus and Hermes, next you get a magic bow and arrow from Apollo, it has a direct link to him and lastly, Hades has agreed to allow one hero out of the underworld to help you on your journey.\"</i> \"What about the other gods like Posseidon and Aphrodite?\" <i>\"Well...\"</i> She said, clearly hoping you wouldn't ask that. Just then a beutiful blue girlcame in and quickly hugged you. She had beutiful pale green hair a kind, cute face and a perfect body that seemed to adjust itself to whatever body type you liked, including hair style. <i>\"They sent HER to 'help' in your journey. Aphrodite is the goddess of love and would love yours to end in a tradgedy so be careful. She knows all the water ways like no other and can maintain a ship by herself.\"</i> \"What is she?\"  <i>\"She's a Naede, part of Posseidon's court, Her name Filisius. Now, who do you want to bring back from the dead to help you?\"</i> </span></div></div>",
+            "created":1209272400,
+            "id":524540,
+            "title":"Continued"
+        },
+        "1553":{
+            "choices":[
+                "Rome (tough gladiators and more)",
+                "Egypt ",
+                "man you're picky, other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>not your style? Well try these:</span></div></span></div>",
+            "created":1209186000,
+            "id":524495,
+            "title":"Other"
+        },
+        "15531":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "For the Romans",
+                "Against the Romans"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You towards the days of the Roman Empire. There are various things that you can do and various approaches you can take. Before you choose any particular location or a particular time, are you...?</span></div></span></div>",
+            "created":1218949200,
+            "id":571312,
+            "title":"Ancient Rome/Roman Empire"
+        },
+        "15533":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Hastings, October 1066",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want to go to the Battle of Hastings?</span></div></span></div>",
+            "created":1209531600,
+            "id":526158,
+            "title":"Hastings?"
+        },
+        "155332":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Crusades",
+                "Somewhen Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>No, then maybe you're heading for the Crusades.</span></div></span></div>",
+            "created":1213333200,
+            "id":543753,
+            "title":"Crusades"
+        },
+        "1553321":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "First Crusade (1095-1099)",
+                "Later Crusade"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Crusade will you head for?</span></div></span></div>",
+            "created":1214629200,
+            "id":549253,
+            "title":"Which?"
+        },
+        "15533212":{
+            "author_id":"derekthedalek",
+            "author_name":"Derek Metaltron",
+            "choices":[
+                "Off to Crusade!",
+                "Off to Sherwood!"
+            ],
+            "content":"<div class=\"\"><div> <span>The year is 1191, the place the Holy Land. The country is gripped in conflict between god fearing men both Christian and Islamic. Two legendary warriors - King Richard of England and the fearsome Saladin - wage war over control of Jerusalem and several other cities, vast armies of warriors at their disposal. All the while in England, Richard's younger brother viles for control of the country, leaving a band of warriors alone to oppose him in the depths of Sherwood Forest...<br>\r\n<br>\r\nSo where to visit, traveller? The Holy Land or Ye Old Merry England?</span></div></div>",
+            "created":1257915600,
+            "id":790401,
+            "title":"Conflict in the Holy Land and Beyond"
+        },
+        "1553322":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Find a Tribal People",
+                "Another Destination"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you be heading for a time and place before the 14th Century when there was no civilisation at all?</span></div></span></div>",
+            "created":1214629200,
+            "id":549255,
+            "title":"Tribal Times?"
+        },
+        "15533222":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Hittite Empire",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe you're interested in the less well-known civilisation of the Hittites from Anatolia AKA Asia Minor.</span></div></span></div>",
+            "created":1232168400,
+            "id":634435,
+            "title":"Hittites?"
+        },
+        "155332222":{
+            "author_id":"derekthedalek",
+            "author_name":"Derek Metaltron",
+            "choices":[
+                "Yeah!",
+                "Someone Else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well you could always opt for a period of history before humans appeared at all, somewhere in the vast era of Prehistory. Does that sound interesting?</span></div></span></div>",
+            "created":1244869200,
+            "id":707643,
+            "title":"Prehistory"
+        },
+        "1553322221":{
+            "author_id":"derekthedalek",
+            "author_name":"Derek Metaltron",
+            "choices":[
+                "Yes please!",
+                "Another Prehistoric Age?"
+            ],
+            "content":"<div class=\"\"><div> <span>Ok, so we're opting for Prehistoric Times - a vast range of millions of years from the earliest life through Dinosaurs to Prehistoric Mammals all the way to Early Man! The question is, what period to visit?<br>\r\n<br>\r\nOne logical choice to start with is the Mesozoic Period - essentially the Age of Dinosaurs, lasting from 220 Million to 65 Million Years ago, and divided into three segments - the Triassic, Jurassic and Cretaceous periods, a time when the world was hot, the continents were almost one fused landmass and great lizards strode earth, sea and sir. Is this where you want to visit?</span></div></div>",
+            "created":1257915600,
+            "id":790390,
+            "title":"The Distant Past"
+        },
+        "15533222212":{
+            "choices":[
+                "Dinosaurs are not really gone!",
+                "other plots/ other stories"
+            ],
+            "content":"<div class=\"\"><div> <span>How about the last day of the dinosaurs, or you stop them from going extinct. Example: stop the metor, stop the aliens (if they were involved, maybe with controlling the metor) Maybe the metor was the alien's U.F.O and the goverment of the world has been hiding it? Or that the dinosaurs are not really gone?<br>\r\n</span></div></div>",
+            "created":1400821200,
+            "id":1801243,
+            "title":"Another Prehistoric Age?"
+        },
+        "1553322222":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Greece",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe you'd like to visit Ancient Greece when they weren't at war with Persia.</span></div></span></div>",
+            "created":1270616400,
+            "id":863878,
+            "title":"Ancient Greece"
+        },
+        "15533222221":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Athens, birthplace of democracy (but did have its non-democratic years)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ancient Greece was a confederation of city states who shared the same beliefs but had different socio-economic, political and ethical stances. Which one do you wish to visit?</span></div></span></div>",
+            "created":1270616400,
+            "id":863879,
+            "title":"Choose the City"
+        },
+        "155332222211":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Democratic Athens",
+                "Different Time"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, if you're visiting Athens will it be during the age of democracy or not, bearing in mind that the first democracy did not have the freedoms of speech we associate with such a system.</span></div></span></div>",
+            "created":1270616400,
+            "id":863881,
+            "title":"When?"
+        },
+        "155332222212":{
+            "author_id":"colin",
+            "author_name":"Hereward",
+            "choices":[
+                "Sparta it is",
+                "No thanks, something less fierce"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>If you feel that you can handle a rigourous military regime where it is a test for coming of age to kill a helot (slave) as long as you don't get caught, maybe you're willing to visit the world's first junta.</span></div></span></div>",
+            "created":1270616400,
+            "id":863880,
+            "title":"Sparta?"
+        },
+        "1553322222122":{
+            "author_id":"sansastark12",
+            "author_name":"SONOFARTHUR",
+            "choices":[
+                "YES",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about the trojan war?</span></div></span></div>",
+            "created":1607031420,
+            "id":2950553,
+            "title":"No thanks, something less fierce"
+        },
+        "15533222221221":{
+            "author_id":"sansastark12",
+            "author_name":"SONOFARTHUR",
+            "choices":[
+                "troy",
+                "greece"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>ok will you fight for troy or Greece</span></div></span></div>",
+            "created":1607031540,
+            "id":2950558,
+            "title":"YES"
+        },
+        "15533222222":{
+            "choices":[
+                "Yes finally Jesus Christ",
+                "Nope, if your that picky how about an episode where the Doctor met Satan"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Based on the an episode in the new Doctor Who series, where the doctor talks about Jesus, P.S I think it was the 1st or 2nd doctor in the new BBC Doctor Who<br>\r\nSee if anyone can find the episode please.</span></div></span></div>",
+            "created":1400821200,
+            "id":1801240,
+            "title":"JESUS "
+        }
+    },
+    "info":{
+        "author_id":"colin",
+        "author_name":"Hereward",
+        "brief_description":"Ever imagined travelling through time and space to sample different lifestyles?",
+        "created":1208120940,
+        "description":"<td align=\"left\" class=\"norm\">Have you ever envied Dr. Who? Have you ever wanted to travel through time and space in your very own TARDIS? Have you ever wanted to see for yourself what history has produced? Now you can.<br>\r\n<br>\r\nTake the controls of a TARDIS and travel through time and space to wherever and whenever you want to go. Go back in time to sample the varying cuisines of various cultures, or go forward in time to see what the future holds. The TARDIS contains various gadgets to ensure your safety wherever and whenever you go.<br>\r\n<br>\r\nWhatever you would like to do throughout time can be done here, with a few exceptions. Experience lifestyles or change history (as long as you can retain the original and maybe reset the default if things don't turn out right), whatever it is you wish to do.<br>\r\n<br>\r\nJust to clarify, the TARDIS element is more about travel through time and space, not actually entering the universe of Doctor Who.<br>\r\n<br>\r\nUpdate: The TARDIS is the only real Dr Who item in this story. This is more about travelling anywhere and anywhen rather than going on the kind of adventure usually seen in Dr Who.<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\nNo sexual content<br>\r\nNo toilet scenes<br>\r\nMinimal swearing<br>\r\nNo naked scenes<br>\r\nEnjoy yourself!</td>",
+        "id":1413582,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1607031540,
+        "modified":1607031540,
+        "pretty_title":"Your Own TARDIS"
+    }
+}

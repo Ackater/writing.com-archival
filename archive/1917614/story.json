@@ -1,0 +1,824 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Wastelander #1",
+                "Wastelander #2",
+                "Wastelander #3",
+                "Wastelander #4",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welcome to the Fallout: New Vegas interactive, wastelander! Now...<br>\r\n<br>\r\nWho are you?</span></div></span></div>",
+            "created":1360040400,
+            "id":1525070,
+            "title":"Welcome!"
+        },
+        "11":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Out in the desert",
+                "The Lucky 38",
+                "Novac",
+                "Jacobstown",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Jacob<br>\r\nSex: Male<br>\r\nAlliance: Caesar's Legion (Formerly)<br>\r\nTop 5 Skills: 1. Guns <br>\r\n2. Melee Weapons <br>\r\n3. Speech<br>\r\n4. Medicine<br>\r\n5. Survival<br>\r\nTop 3 perks: 1. Computer Certified<br>\r\n2. Rifleman<br>\r\n3. Ninja<br>\r\nRelationship: N/A (Heterosexual)<br>\r\nFav. Weapon: Katana, Bozar.<br>\r\nArmor: Joshua Graham's armor, Ulysses mask.<br>\r\n<br>\r\nWhere is he?</span></div></div>",
+            "created":1360040400,
+            "id":1525387,
+            "title":"Wastelander #1"
+        },
+        "111":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Another character finds him",
+                "Another character finds him",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Jacob fell face first, getting a mouthful of sand. He spit it out quickly and worked his way to his hands and knees, which was a feat all on it's own. The sand even burned to touch. \"Gotta...find...water..\" Jacob said in a raspy voice. He noticed a small rocky formation where there was a small over hanging rock with shade underneath it.<br>\r\n<br>\r\nNow motivated, Jacob crawled across the hot Mojave sand and collapsed on his back under the rock. Jacob reached into his knapsack and pulled out a Rad-Away. He set the pouch next to him as he took the needle in his hand. He was moving over his left arm to inject it into his vein, but his hand was shaking so much. Worried he'd make the situation worse, he threw the needle aside and laid on his back.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1360040400,
+            "id":1525391,
+            "title":"Out in the desert"
+        },
+        "1111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "Jacob passes out",
+                "Friendly intoduction"
+            ],
+            "content":"<div class=\"\"><div> <span>A muscler man walked towards Jacob. He wore power armour but with the DC symbols on him. Strapped to his back was a plasma rifle and at his hip hung his flaming sword. He walked up to Jacob and pulled a 10mm pistol from his suit and placed it against Jacobs head. Normally he would shot the man but he held back and holstered his gun instead offering the man water</span></div></div>",
+            "created":1364792400,
+            "id":1562573,
+            "title":"Vault dweller 101"
+        },
+        "11111":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Take him",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Jacob saw the man of the Brotherhood he had joined stand over him. Jacob tried to make sense of what was happening when the radiation that affected him finally made him lose consciousness. <br>\r\n<br>\r\nWhat does the vault dweller do?</span></div></span></div>",
+            "created":1364792400,
+            "id":1562577,
+            "title":"Jacob passes out"
+        },
+        "111111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "Jacob wakes",
+                "Jacob continues to sleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The vault dweller saw the man pass out and checked his pulse, seeing the man was still alive he picked up Jacob with no effort thanks to both his own strength and his mechanical suit. He carried Jacob to a nearby house</span></div></span></div>",
+            "created":1364792400,
+            "id":1562585,
+            "title":"Take him"
+        },
+        "1111112":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Tend to Jacob",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Jacob's current radiation level and dehydration wasn't gonna wake him anytime soon. The man carried him into a small house and laid him down. The man doubled back by the windows. Hoping no one saw him.<br>\r\n<br>\r\nWhat happens next?</span></div></span></div>",
+            "created":1364792400,
+            "id":1562589,
+            "title":"Jacob continues to sleep"
+        },
+        "11111122":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "Jacobs awake",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The man had destroyed towns, sold children into slavery and worse so he did the logical thing that occurred to him. He shot Jacob in the leg his expertise in both medicine and guns meant the bullet did a lot of pain but not damage</span></div></span></div>",
+            "created":1364792400,
+            "id":1562599,
+            "title":"Rude awakening"
+        },
+        "111111221":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "The man responds",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Jacob awakes with a start, clenching his teeth as pain bounces around his leg. Jacob's vision blurs and sees the man above him holding a gun. Jacob was still weak. He could only look at the man. \"W-Who....who..a-are you...?\" Jacob got out in a weak voice.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1364792400,
+            "id":1562610,
+            "title":"Jacobs awake"
+        },
+        "1111112211":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "Truth",
+                "Lie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>My name is not important at least not yet\" said the vault dweller his voice distorted by his helmet mic. \"I come from the DC area, who are you and what do you do?\"</span></div></span></div>",
+            "created":1364792400,
+            "id":1562615,
+            "title":"The man responds"
+        },
+        "11111122111":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Helps him",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Jacob out of breathe tried to explain. \"I...I was part of the Legion. But...\" Jacob the coughed ferociously, \"....I..left...almost died in a radiation pit...\" Jacob coughed some more. \"W-water...pl-please...I might have radiation s-sickness as w-well...\" Jacob coughed more.<br>\r\n<br>\r\nWhat does he do?</span></div></div>",
+            "created":1364792400,
+            "id":1562642,
+            "title":"Truth"
+        },
+        "111111221111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "Truth",
+                "Lies"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>My name is Eoin I come from the DC area we have fresh water there now\" said the man as he pulled out a bottle of water handing it to Jacob. \"So why leave the legion? Also what is that?\"</span></div></span></div>",
+            "created":1364878800,
+            "id":1563082,
+            "title":"Helps him"
+        },
+        "1111112211111":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Eoin tells truth",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Jacob quickly downed most of water bottle before speaking again, \"The Legion's led by Caesar...They traveled here from the East as slavers...They're fighting for the Mojave against Vegas and the NCR. The NCR believe they should control the Mojave. I mostly joined the Legion out of hatred for them...I...was sent away after I refused an order to kill woman and children...I became a wanderer and wandered into the wrong radioactive pit...then you know the rest...from DC? What are you doing here?\"<br>\r\n<br>\r\n</span></div></div>",
+            "created":1364878800,
+            "id":1563294,
+            "title":"Truth"
+        },
+        "11111122111111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "Continue",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>The brotherhood has cleaned up most of DC and we have a constant supply of fresh water\" said Eoin \"I was came here to make contact with the brotherhood and to see if the rumor of electricity was true. Also I haven't heard of this NCR or .... What was it new Vegas? Also what's wrong with killing women and children I blew up a town full of em\"</span></div></div>",
+            "created":1365397200,
+            "id":1568188,
+            "title":"Eoin tells truth"
+        },
+        "111111221111111":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Continue",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Jacob turned away a little bit, \"I guess we can all handle different things. That not being one of mine.\" Jacob felt lightheaded again as the radiation began taking over. \"You...you don't happen to have Rad-away do you?\"<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1365397200,
+            "id":1568194,
+            "title":"Continue"
+        },
+        "1111112211111111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "Speech",
+                "Other skill"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>My suit keeps most of the radiation out but yes I do have some what's it worth to you?\" Asked Eoin<br>\r\n<br>\r\nWorth to me! I might die without it!\" Exclaimed Jacob<br>\r\n<br>\r\nI'm well aware\"</span></div></span></div>",
+            "created":1365397200,
+            "id":1568198,
+            "title":"Continue"
+        },
+        "11111122111111111":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Last thing you want is news getting out of a former legionnaire dying here with you. Both the NCR and Legion would be breathing down your neck, as well as Mr. House. And I'm sure none of them would mind having some more property up by D.C.\" Jacob said.<br>\r\n<br>\r\nDoes that get Eoin to give him Rad-Away?</span></div></div>",
+            "created":1365397200,
+            "id":1568223,
+            "title":"Speech"
+        },
+        "111111221111111111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "Continue",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ha! Ill give it to you but not for your words. It's been a while since I met someone with a silver tongue. Also your army's wouldn't stand a chance. We have a giant robot repaired and ready and a defence satalite ready to fire</span></div></span></div>",
+            "created":1365483600,
+            "id":1568544,
+            "title":"Yes"
+        },
+        "1111112211111111111":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Yes, he trusts him",
+                "No, he wants nothing to do with him."
+            ],
+            "content":"<div class=\"\"><div> <span>Jacob was surprised, but not surprised by his comment. \"I always heard about a machine up by D.C capable of mass destruction,\" Jacob said. The Rad-Away emptied and looked back to Eoin. \"Y'know, I think I actually could help you.\" Jacob said. <br>\r\n<br>\r\nDoes Eoin let him speak his plan?</span></div></div>",
+            "created":1368162000,
+            "id":1587552,
+            "title":"Continue"
+        },
+        "11111122111111111111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "Jacobs plan",
+                "Interruption"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Continue, I'm listening\" said Eoin beginning to clean and repair weapons one of which looked alien in origin</span></div></span></div>",
+            "created":1368421200,
+            "id":1589294,
+            "title":"Yes, he trusts him"
+        },
+        "111111221111111111111":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Jacob pointed to a faint scar above on his forehead, leaving some of it covered by hair. \"See this? It started when I met a man named Benny. He robbed me of a device I didn't know I had and put a bullet in my head. After I recovered, I searched for him and found him. He was the proprietor of a casino on the Strip. When I came, he fled toward Caesar's camp and was captured. That's when I joined the Legion. Then, they wanted me to destroy the robot army Mr. House, the machine that runs the Strip had. Instead, I upgraded the army. Then I killed Mr. House, locking him inside his own pod, away from the world. I worked with the Legion until I disobeyed a direct order and fled. Luckily...\" Jacob reached into a pocket and fished out a poker chip. \"This is the switch that I need to put into the system and take control of Vegas. Keeping it away from the grasp of the NCR and the Legion, and make New Vegas truly independent. But it'd be tough alone...\" Jacob worked a weak grin. <br>\r\n<br>\r\n\"So what do you say?\" Jacob began again, \"Wanna help take over Vegas?\"<br>\r\n<br>\r\nWhat does Eoin say?</span></div></div>",
+            "created":1368421200,
+            "id":1589319,
+            "title":"Jacobs plan"
+        },
+        "1111112211111111111111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "New Vegas ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sure why not\" said Eoin standing up \"piece of advise don't mention this to anyone else\"</span></div></span></div>",
+            "created":1368421200,
+            "id":1589346,
+            "title":"Yes"
+        },
+        "11111122111111111111111":{
+            "choices":[
+                "Tell the truth.",
+                "Lie."
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0As they entered through Freeside, Eoin caught sight of a man coming from Silver Rush. He wore a set of white T-51b Power Armor, and traveled with a rather large, green companion, and a dog. When the figure caught sight of him, he drew a Ripper and charged. Eoin drew an alien rifle and fired, the armor shrugging off the powerful bolts of energy. The man swung , barely missing Eoin. He brought the Ripper in an upward curve, and struck, leaving a gash through his armor.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"You traitor!\" The man shouted, as he got behind Eoin, grabbed one of his arms, and held the Ripper against his neck. \"How did you blow up the bomb? There's no way. I disabled it! Spill it, before I spill you!\"</span></div></div>",
+            "created":1407040920,
+            "id":1836715,
+            "title":"New Vegas "
+        },
+        "11111122111111111111112":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Jacob stood with Eoin's help. \"Thank you. But before we return to Vegas, we should meet with the different groups in the Mojave. I believe I may have found the Brotherhood of Steel's bunker in Hidden Valley. Shall we go there?\"<br>\r\n<br>\r\nWhat does Eoin decide?</span></div></div>",
+            "created":1368421200,
+            "id":1589356,
+            "title":"Other"
+        },
+        "111111221111111111111122":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "Journey to newvegas",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>No let me see this Vegas first then ill go alone and meet with them\"</span></div></span></div>",
+            "created":1369112400,
+            "id":1594496,
+            "title":"No"
+        },
+        "1111112211111111111111222":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>Jacob reached up and grabbed the Eoin's armored hand. \"Wait. I need to come. There are gangs on the streets I'm affiliated with and I can help in Vegas and with the Brotherhood, y'know I just got a message saying I'm now a part of the BoS. I need to head there to receive training.\" <br>\r\n<br>\r\nDoes Eoin let him come?</span></div></div>",
+            "created":1369112400,
+            "id":1594503,
+            "title":"Other"
+        },
+        "12":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Helios One",
+                "Mojave Outpost",
+                "Camp Forlorn Hope",
+                "CampSearchlight"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Todd<br>\r\nSex: Male<br>\r\nHeight:6,2 <br>\r\nWeight: 190<br>\r\nAlliance: NCR<br>\r\n5 Essential skills.<br>\r\nSpeech<br>\r\nGuns<br>\r\nSurvival<br>\r\nSneak<br>\r\nMelee Weapons<br>\r\n<br>\r\nTop 3 Major perks:<br>\r\nCommando<br>\r\nStrong Back<br>\r\nShotgun Surgeon<br>\r\nRelationship: Single (Hetero)<br>\r\nFavorite weapons: Assault Carbine, Hunting Shotgun.<br>\r\nBeginning Weapons: Service Rifle, 9mm pistol, Combat Knife.<br>\r\nArmor: NCR Trooper Armor, Trooper Helmet. <br>\r\nBackground: You came from an average family living in a town with no name. You were the only son your parents had, the other child was your younger sister. Your father left at a real young age, Mom worked at the local saloon with the rest of her family in town. You, like many other kids at this time where world weary. Your sister did not share your pessimistic outlook, you spent your entire childhood learning how to take care of her, this leads you to be charismatic, protective, and how to problem solve. <br>\r\n<br>\r\nThe day that changed your life was when you were nineteen an NCR Veteran Ranger stopped by when traveling through. You connected to him as the father figure you never had, and he was just wanted to pass on his stories and experiences. You ended up enlisting in the NCR in the next few months, Your sister cried for days it seemed, your mom was you remember waving goodbye to them as you fell in with the patrol. That leads you to now as you near your first station of your military career. <br>\r\n      <br>\r\n <br>\r\n<br>\r\nWhere are you stationed at.<br>\r\n </span></div></div>",
+            "created":1373000400,
+            "id":1623050,
+            "title":"Wastelander #2"
+        },
+        "122":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Their throats had been slit. ",
+                "They had been mostly eaten.",
+                "Simple gunshot wounds."
+            ],
+            "content":"<div class=\"\"><div> <span>As of right now your fireteam was held up in the berrics waiting in anticipation. You were sitting on your bunk looking around Sgt. More team one sitting at the bar shooting whiskey, second in command of the team and his nerves were shot before the real first shot, he turned to notice you looking at him so you turned away. You turned your attention to Alice Page, she was the medic and your age. She was reading a magazine shaking like a leaf, she was petite in stature only standing at a less than imposing 5,2 her hair brown tied back in a bun, it is normally quite long, her large brown eyes quivering. <br>\r\n<br>\r\n     Jackson the designated marksman stared off into space rotating the cross on his dog tags, he had his hunting rifle with scope on the bunk with him. The last was the giant of a man John..... you're not sure what his last name is. He stands 6,5 and has seemingly every explosive ever made on him, He didn't say much. And finally the black sheep of the group, he was brilliant in science, but avoided eye contact and people in general. He was just awkward. Before you could really asses the group any more Ranger Carth flung the door open and barked orders at the group of four to get outside. <br>\r\n<br>\r\n     \"This is the brass ring men, we lost contact with a town a few mile down the road, we would have sent a platoon out to investigate, but the truth is we're in a tough spot. If it really is the legon, we can't spare any more reinforcement, although I got permission to take direct control of this. First order get to the town alive.\" You reached the town by sundown, the ghost town was even more foreboding when its shrouded in moonlight. \"Spread out and search for survivors, or whatever caused it.\"<br>\r\nAlice followed you towards a house \"..... I guess i'll take point, get my back and stay focused.\" She didn't respond she just stared frightenedly at you. (Speech) \"Hey its going to be ok. We need to focus someone could be in serious need of help, and you're their best bet.\" She focused back on you and nodded, You swap your rifle for your shotgun and slowly turn the knob, the door creaked open slowly. Inside the house looked like hell. A trail of blood going into both rooms. You check left then right, all clear. You walk into the childs bedroom to find a pool of blood, no body. The parents room had one body, Alice began examining the corpse, after analyzing it she told you the cause of death was                   </span></div></div>",
+            "created":1373000400,
+            "id":1623281,
+            "title":"Mojave Outpost"
+        },
+        "1221":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Surrender",
+                "Blaze of glory",
+                "Betrail"
+            ],
+            "content":"<div class=\"\"><div> <span>\" The throat has been slit with a knife, thoroughly. The trail seems to head towards the door. Whoever did this was in a hurry.\" Alice spoke slowly but was suddenly very professional, it seems that her anxiety was gone now. \" Any incriminating markings, or insignias.\" You ask putting two and two together. \" No I guess while just have to wait and see.<br>\r\n<br>\r\nYou decide to go back out and regroup. The Ranger approaches you taking off his hat to scratch his head in stress. He began to speak only to be interrupted by a round    striking him in the heart, you couldn't do anything he was gone you grabbed his tags and took cover behind a house Sgt. More ordered to fall back to the large building behind the town. He flung the door open, John tied a bouquet to the door knob, as well as placing a mine on the staircase. You picked the lock to the top floor, then relocked it, you all sit in the dark waiting , you peer out the window to see the men were Fiends. You all took positions and layed down a field of fire bringing down a considerable portion of the ranks. This didn't matter as more came in to fill in their ranks. Laying down suppressive fire on you as well, this continued for seemingly ever until you ran out of rifle ammo, leaving you with a shotgun.    <br>\r\n<br>\r\n            More asks John for a grenade, he then obliges him and hands him the grenade. \"I'm going to give you all time, figures something out... good luck.\" he walks downstairs and fires on the group with a handgun until that ran dry as well. He grabbed the frag and attempted to throw it when it blew up in his hand, severing is arm. The men simply stepped over the slowly dying man. You waited for one after another the men to walk up the stairs to begin laying into them with your shotgun as the others continued to do what they could about the group. The men eventually stopped charging as you ran out of ammo, the head of this raiding party walked calmly in with an entourage of guards. You could surrender and save the lives of your comrades, or fight your way out. Or you could betray your comrades and offer to join the fiends.     </span></div></div>",
+            "created":1373000400,
+            "id":1623341,
+            "title":"Their throats had been slit. "
+        },
+        "12211":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "This is the best chance you have.",
+                "Rethink the plan."
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up to find Alice working on a bullet wound on your arm, \"This is going to hurt, you may need something to dull the pain.\" A man wearing a ballistic vest and gasmask style breather handed you a flask of whiskey. You're took three long gulps, then gave the sign that you were ready you place the wooden cork in your mouth to prevent biting your tongue. You feel Alices tool pry the wound open, your glad you prepared for this, she pulled the bits of bullet out and then poured purified water over the wound, the icey substance numbing the pain further before she wrapped it in a thick piece of cloth.You looked around and took in the others.<br>\r\n<br>\r\n       You stood up to greet your new cell mates, \" So you're the newest additions to our club. Well I'm Jacob been here for a day and a half.\" You proceeded to introduce yourself but soon turned your attention to the girl standing in the corner. She radiated self entitlement, she was about 5,7 with her blonde hair tied in a ponytail, you noticed the tags on her neck.. she is part of the Brotherhood of Steel. John was in the cell as well as two other wastelander, one with a large beard who had been captured a long time ago, and the other a Ghoul named Harland.\" I was held up in the Repconn site in a standoff with super mutants, I eventually had to go hunting when these bastards caught ambushed me.\" THe guard entered the room and banged a sawed off shotgun on the bars. You all complied and followed him him out onto of a large stone building, where the head Fiend, Tuco stood. \" Let this be a lesson to anyone who wants to kill a guard, or try to bribe them.\" You watch as another group that had Markus, AKA the black sheep walk out into the barron canyon. The had made it halfway through when a Death Claw came sprinting out a large cave on the right hand side and provided to tear into the group of people. <br>\r\n<br>\r\n        You found yourself back in the cell the group \" I don't know about the rest of you, but I don't intend on dieing here\" The next few hours are spent discussing how to escape and devised a good plan. You discovered that the guards didn't take your bobby pins, kill the guard, then raid the nearby weapons cash. It was around 10:30 PM som many of the inhabitants were asleep. You may have to fight your way out, after that you could sneak passed the Deathclaw and place countermeasures. SHould you stick with the plan, or go with another plan?          </span></div></div>",
+            "created":1373086800,
+            "id":1623768,
+            "title":"Surrender"
+        },
+        "122111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Stay and talk.",
+                "Sneak out."
+            ],
+            "content":"<div class=\"\"><div> <span>Jacob sat slouched on the on the left side of the cell door, you on the right side. You both had leather belts to take the guards by surprise, John had a broken chair leg, frankly you felt bad for whoever got hit by him. Harlow had a glass bottle broken into two making two corresponding knife like weapons, one for himself and Alice. The high and mighty knight in the corner ignored you like always, probably underestimating your chances. Alice called the guards for help, \" Come quick! something terrible has happened.\" The head guard walked in with four others \"someone better be dead or dying in here I shit you not!\" the lead guard said in an aggravated tone. He unlocked the door and three guards went in tow stood guard outside, within grabbing distance. <br>\r\n<br>\r\n     Jacob and yourself leaped at the guards. You used the belt as a garrote and began strangling the guard. The two guards slammed into the cell as you both broke their necks in almost rehearsed sync. The guards at this point aimed their rifles at the two of you, Harlow drove the guard stabbing him in the chest multiple times, the guard dropped to the floor, with blood flowing out of his multiple wounds and his mouth, his shocked expression still on his face. Alice dove at the female guard stabbing her in between the shoulder blade, the woman dropped her weapon as Alice provided a quick kill shot as her assailant fell. The last man was focused on John only armed with a kitchen knife tried to slash at him only to have his hand be caught then elbow broken brutally by the table leg. Before he could even scream the metal leg struck him on the temple ending his fight. You all scavenged for weapons before you turned your attention to the blonde woman in the corner. \" Do you want to come with us?\" You ask her,\" she scoffed as if she found the idea of you helping her was comedic. (Speech) \"Listen I get it your prideful, but not invincible. This may be your only way out.\" She gave you a puzzled look \" Really why do you want to help me. I may be in a opposing faction.\" She asked as though you were trying to trick her. \" As of right now, we're all prisoners in a life and death situation.. Petty things like that will only get us killed.\" She nodded and took the weapon you offered her.<br>\r\n<br>\r\n    You walked up to the armory door and began to slowly and methodically pick the lock, as to not draw more attention. Inside Jacob grabbed his Katana and placed the Bozar on his back. Janet the Steel woman grabbed a laser rifle and waited. Alice put on her original gear as did John.Harlow took his rifle and eyed a flamethrower, Jacob eyed him in surprise at his choice \"What? When our covers blown a little fire will stall these bastards.\" You yourself took a hatchet, Service rifle, and a 9mm submachine gun.<br>\r\n<br>\r\n       Your group began silently neutralizing many of the sleeping pillagers You methodically made your way through until an alarm began sounding. Guards began rushing your group only to be effectively cut down one after another until you reached the next group of prisoners. Many NCR soldiers. You flung the door open they were more than happy to oblige by killing any of the men they could find, providing a distraction while your group worked their way towards the clan leaders chamber. You see the man standing with a large chainsaw revving up. He attempted to charge you only to be torn apart by well placed shots from your allies. Harlow effectively set the body guards ablaze, they fell to the ground until the sprinkler system kicked on. \" Grab all the water you can carry, take only safe food.\" Your group did this and met the new survivors at the entrance. Jacob took the lead \" Everyone were moving, whatever happens out there stay together and keep moving.\" The Deathclaw stood no chance as well placed shot after well place shot brought the beast to its knees. <br>\r\n<br>\r\n        Your group moved on until they all reached an abandoned prospector cave. You head in with the group and sit down, but should you stay with the group or move on alone.                  </span></div></div>",
+            "created":1373086800,
+            "id":1623943,
+            "title":"Prison Break"
+        },
+        "1221111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "The Outpost  ",
+                "Novac"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk over to the group as they trade stories. Jacob starts \"I  used to be in the legion, I defected.\" He felt the eyes upon him bearing down upon him. \"It used to seem so appealing you know that lifestyle. Just something about being an outlaw appealed to me, but enslaving women and children. One time on a routine patrol type search and sweep ended in many of the men pillaging a village. He ordered the execution of the men and as he approached woman standing in front of her young daughter, I snapped and fired a round at him. I spent the next few days avoiding their assassins, hell I still am.\" You all sat in silence until you decided to start<br>\r\n<br>\r\n\"I joined the NCR to protect from that, only now I realize, sometimes my enemy is still human. In my infantry training, i'm not sure if everyones is like this, they trained us to kill made it seem trivial. All that training, all those nights of me lying in bed telling myself I couldn't wait to get out there and fight, nothing really prepares you for all the blood and all the screaming. I guess thats how it is for all of us.\" The silence returns again this time broken by Alice, \"You guys have family?\" You felt relived in the change of pace,\" Yah a sister, names Casey about sixteen now, for years she was all that mattered to me, my Dad left at a young age and mom worked all the time, I'd rather not say what she did to get money. I learned how to fight, pick locks, and talk just to keep Casey safe. I remember one time I was twelve and she asked me if I would always be there, here I am abandoning her just like my father.\" Well what about you Harlow? How did you grow up.\" Harlow sighed \"If you want to hear an inspirational story about how I overcame my affliction and was strong because of it, you're wrong. I was the only ghoul in the family, my mother was addicted to jet, she used it so much that I became irradiated. I ran away as soon as I knew how to shoot a gun.Thats all I have to say about that.\"<br>\r\n<br>\r\n    You quickly began getting tired and unfolded a sleeping bag. In the morning you would be heading for<br>\r\n</span></div></div>",
+            "created":1373086800,
+            "id":1623984,
+            "title":"Getting to Know each other."
+        },
+        "12211111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Meeting with the Colonel .",
+                "Consider this your resignation."
+            ],
+            "content":"<div class=\"\"><div> <span>After about five hours of nonstop walking with a few breaks in between to keep hydrated, you and your group had reached the outpost. You said your goodbyes to Jacob telling him that if he ever needs help out in the wastes to look you up. You walk into the main station to be met by surprised stares. You recall the entire experience leaving out the details of your comrades that left. \"Let me get this straight. You're telling me that you almost single handedly saved eight soldiers, escaped, fought wiped out the Fiend clan and survived one day and night? Thats one Hell of a resume, and a PR smackdown. I'm going to get into touch with Camp MCCarran. Colonel Hsu has been wanting a another face to associate with the NCR. \" You only half listened to him as you stood up after he dismissed you.\" You shambled over to the berrics and fell into the an empty bunk, you take off your helmet and body armor but then realize you don't care.    <br>\r\n<br>\r\n       You woke up half a day later after an uninterrupted. Now you had to decide, should you travel to Camp Mccarran, or leave the NCR? </span></div></div>",
+            "created":1373173200,
+            "id":1624585,
+            "title":"The Outpost  "
+        },
+        "122111111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Speacal training.",
+                "Enough, hes done with the NCR."
+            ],
+            "content":"<div class=\"\"><div> <span>Todd  traveled on the highway  with a Caravan. They walked on passing by a falling down rollercoaster. The day had passed like a cool summer day, the group all decided to spend the night at Goodsprings. Todd walked into the saloon, shaking off the cold of night. He sat down at the bar. Trudy the owner turned to take his order \" What can I get.... Todd?!\" She said in excitement, Trudy and himself spent the next couple of minutes catching up. \"Wheres Casey and my mother at?\" She gave him a look with a hint of sadness in her eyes.\" Your Mother stopped working, Casey had to start working at the General Store, if fact she might be there right now.\"<br>\r\n<br>\r\n             Todd left the saloon seething with rage. He had to calm down, so he wouldn't end up getting too angry. He took a deep breath and opened the door. What he sll next almost enraged him again \"I'll be with you in a moment. Casey alone trying to place a large metal box on a shelf she could barely reach. She turned to see who it was only to drop the box, the heavy metal create landing next to her foot nearly crushing it. She just stood their for a moment  in silence giving todd a moment to get a good look at her appearance. She wore a green shirt with a blue jacket  over the shirt, she wore blue jeans that seemed as if they never had ever had dirt on them, her brown eyes staring up at him, and lastly her brown hair in a ponytail. Casey suddenly ran to him standing on her toes to hug him. She was still speechless \" I got you some things for your birthday, sorry I missed it.\" They both sat down at a small table he reached into his survival pack retrieving a Bottle of Nuka-Cola Victory as well as seven small boxes of Gumdrops and Bubblegum. These may seem like cheap last minute gifts but they actually are quite difficult to find or buy for that matter. Casey's eyes showed the appreciation he had hoped for as she took the bottle containing the crimson substance.            <br>\r\n<br>\r\n             Todd waited a moment then decided to just jump right in. \"So.. your working now?\" She looked back up at him in surprise \"I.. just until Mom gets back on her feet.. oh crap that reminds me.\" She hurries over to the dropped box lifting the lid to reveal a now broken toaster. \"Damn it I just keep screwing up\" She was on the verge of tears \" How much was it?\" Todd asked as he approached his upset sibling. \" Five caps, or NCR dollars.\" He took out ten caps and ten NCR dollars \"heres another gift. Five caps and NCR credits, and another five of each for you.\" Todd said as he placed the money in her hand. \" So why are you here so late?\" She asked after finding her voice \"I could ask the same of you.\" \"Hey don't treat me like a kid, I can take care of myself. Done ever since you left.\" Todd scratched his head swallowing hiding the pain. \" I'm Serious what if someone came in here. Robbing you would be the least of your worries. What would you do.\" She suddenly became defensive pulling out a small switchblade \"with this\" Todd almost laughed at the sight of her holding the knife, she couldn't be any taller than five three. This made her even angrier, \"Then Ill use this.\" She went to the counter grabbing a silenced .22 pistol, not much of an improvement as shooting anything larger than a gecko would only make it pissed off.<br>\r\n<br>\r\n            Before you could talk any more your mother walks in. \" Casey, what did I tell you about wasting food! When I buy food I get..\" Todd stood up revealing himself to their mother.\" What are you doing here?\" Todds rage boiling over \" Really after all I hear about how you treat my sister thats how you start a conversation. How could you do this to your own daughter?\" She retaliated by cursing at him for a few seconds until he walked out. As Todd reached the other side of the street Casey ran after him quickly impeding his progress \"Look just stay she doesn't mean it when she says that.\" \"No Casey that is no way to talk to a sixteen year old.\" She interrupted you with anger in her eyes \"Sixteen... You're unbelievable you leave for a year and already forget my age! I just turned Fifteen, Moms right you did change.\" She stormed off leaving Todd standing in front of the Caravaners... Not a word was spoken as you all continue on your way.<br>\r\n<br>\r\n            Todd reached Camp McCarren still shaken a bit from your altercation. Todd enter the main terminal, you sit down in the waiting area. Soon he called you in and and told you to sit down. He outstretched his arm to offer Todd a cigarette, Todd declined \" I wish I had that resolve, damn things will kill me yet. So you're this Todd Wainio I've been hearing so much about recently. I tell ya I wish we had more honest, dedicated soldiers for the public to identify with. Listen I have the authority to recommend you for higher training, or let you out altogether. Either way you need to make your choice soon so I can start the paperwork.\" Todd sat for a few moments thinking about everything and decided.   <br>\r\nSpecial?                 </span></div></div>",
+            "created":1373259600,
+            "id":1624909,
+            "title":"Trouble on the Homefront."
+        },
+        "1221111111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Rangers",
+                "Heavy Trooper"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Alright I have all your requisitions in order for special divisions. We have two positions that I believe you would be a good fit for. One being the Heavy Troopers, or we have a new Ranger position. Its an experimental stage, still need a proof of concept, if you're willing I think It could be the start of a new force.\" Todd thought about the positions and decided on going with his gut.       </span></div></div>",
+            "created":1373259600,
+            "id":1625002,
+            "title":"Speacal training."
+        },
+        "12211111111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Receive his first major assignment. ",
+                "More personal story for now."
+            ],
+            "content":"<div class=\"\"><div> <span>Two days later: The training Todd Wainio would be going through was known as ARC, Advanced Recon Commando. He along with the other candidates waited at a landing pad on a section of the airstrip. The Vertibird arrived at around 0700 hours, the armor was an Olive drab green. The   hydraulic lift opened with a metallic clang as it scrapes the landing pad. Outsteps a man in wearing a personalized stealth armor sporting a dark blue color instead of black, the mask only was in the same tone had one distinct eye the other no defined eyepiece. He removed his mask revealing his greying hair, eye patch covering his right eye, and three three one on where his eye would be and one where his jugular vein would be. His weapons were two corresponding 10mm submachine guns, a customized anti-material rifle, and a long weapon resembling a Machete Gladius only it was longer and more narrow. The man stood inspection the men as he looked less than pleased. \"So you're the soldiers that stand out in the NCR? No wonder they hired me. You all may refer to me as Slade, for the next three months you all will be in your own personal Hell.\" He then ordered Wainio and his comrades onto the the aircraft as it lifted of the ground and made its way to Lake Mead.<br>\r\n<br>\r\n              ( Fast Forward to three weeks later.) Wainio and his companions stood on the stone dock standing at attention in front of Slade currently wearing his mask again. \"Today is Combat training...\" Before he could even continue he noticed one soldier, Freeman whispering. \" Today is combat training, Freeman get the Hell up here!\" He did reluctantly \"Listen I'm not going to fight a blind man.\" They heard Slade laughing at the comment \"Then you won't have any trouble\" He tossed him a considerably large blade and readied it, Freeman swung and missed. He then charged at Slade, this repeated until Slade struck his arm with the  blunt side of the blade slicing the tendong, the arm fell limply to his side as he collapsed in blinding pain. \"Can you stand, or fight?\" Slade asked rhetorically... no response.<br>\r\n<br>\r\n               (Two months later, final training) One by one the men dropped out as the training became more and more brutal. Wainio stood alone now sore, battered, and bruised but these injuries were fadein. These were only from the last section in interrogation, he had to withstand and then get a piece of information from an initiate. \"Wainio you'r all that stands now, only one final test. Survival stay there night on the east island, pass this and receive your armor.\" Todd remembered very little as he blocked out most of the night up until this point. He had been hunting a Mirelurk and was now being hunted. A pack of them scanned the treeline as he crouched behind a collapsed tree as he heard the sounds of the nocturnal predators growing near. He gripped the combat knight as he flanked the clumsey beast and stabbed the blade in between its breastplate. It let out a haunting cry as its heart slowed to a stop. He turned to see the two moving in, one lunged at him pinning him to the ground. Its gnashing teeth attempting to bite, his knife wielding arm her grabbed a considerably sized stone and slammed it into the beasts head. The last predator fled in fear of seeing its kin die with such ease.<br>\r\n<br>\r\n                     Todd returned the next day victorious and for the first time he had known him, Slade looked hopeful. He bulled out a briefcase holding a suit. \"Here put this on.' the armor refit itself to his body.Its white plates reacting to the light. \" Hello. Its nice to meet you. Who may I hide you from today?\" a female voice asked him \"Synchronizing with cardiovascular system.\" He suddenly felt a sharp pain on his spine, then calmness to replace the feeling. HIs pipboy updated to show heart rate, temperature, mood, it also allowed for active camouflage, trauma plates  and blood pressure. \"In the event of severe trauma. I will attempt to keep you alive and send out short wave radio signals.\" Todd may not realize it, but he no longer only stood for being a soldier, but may stand as a beacon hope to the more than just the NCR. He must now decide on what to do.                </span></div></div>",
+            "created":1373346000,
+            "id":1625610,
+            "title":"Rangers"
+        },
+        "122111111112":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Its not even a question.",
+                "Shes already gone."
+            ],
+            "content":"<div class=\"\"><div> <span>Todd walked along the highway as he replayed events in his head. No matter how many times he replayed his last conversation with his sister, it never got any easier. It had haunted him at every turn for the last three months, thinking about what he had said and hating himself for it. He had just passed the sign to Goodsprings taking a deep breath as he walked down the path. <br>\r\n<br>\r\n         He opened the door to his mothers house as the sounds of the radio from inside playing a soundtrack to his concentration. He spotted his mom drinking a bottle of wine another empty on the floor, she glared at him. \"Wheres Casey?' Wanio asked in shame standing uneasily \" Shes gone.\" She said nonchalantly almost throwing him into a rage\"Gone... What the Hell do you mean gone?\" His mother still looking uninterested \"Powder Gangers took her away.\" Todd hated having to pry for info about his sister from his own mother before asking how long she had been gone. \"A week I think....Maybe three days.\" Todd grabbed the Wine bottle before hurling it into a garbage can. Should he go after her?    </span></div></div>",
+            "created":1373432400,
+            "id":1625863,
+            "title":"More personal story for now."
+        },
+        "1221111111121":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "He has it coming.",
+                "leave him for the locals."
+            ],
+            "content":"<div class=\"\"><div> <span>Wainio opened the door to the General Store, he found Chet working who gave him sigh. He went through the whole spiel about how he was sorry and then into the incident. \" Casey was working late two days ago. She was supposed to be working with her mother. I had left to get a shipment from a caravan. While I was out five Powder Gangers entered, when they approached the counter she stabbed one in the leg with a switchblade, didn't stop them only made them more aggressive. They ended up taking her away, i'm not sure where but one comes around about ten at night. He would probably know where he usually is seen overlooking the town up on the ridge by the tower.\" Todd left chest a tip on the counter and walked out.   <br>\r\n<br>\r\n         Todd was crouched behind a part of the cliff face as he engaged the camouflage system on his stealth suit and waited. Almost as if it were flawlessly orchestrated moment in time as the gang member arrived on time. Wainio snuck up right behind the man before shoving him causing the mand to tumble off the cliff face, he rolled down the large hill until he slammed perfectly on his back sending him into unconsciousness.<br>\r\nWill Todd interrogate him?<br>\r\n      </span></div></div>",
+            "created":1373432400,
+            "id":1625875,
+            "title":"Its not even a question."
+        },
+        "12211111111211":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Judge, Jurry, Executioner.",
+                "Take him to authorities."
+            ],
+            "content":"<div class=\"\"><div> <span>The Powder Ganger was finally coming to after quite some time of being unconscious. he struggled against the lethal belts that act like restraints holding him to his rusted confines of a broken heater. Wainio walked over to him before sitting in a desk in front of him.\" Two days ago you and your friends kidnapped a girl. Where is she.\" The Powder Ganger \" I don't know any girl. But if you give me some caps maybe I'll forget about this whole thing.\" Todd shook his head in acknowledgement he then took out a hatched before sweeping it across the back of his knee slicing his tendons causing him to cry out in pain, his body trying to collapse only to be held up by the heater holding him in place.<br>\r\n<br>\r\n               The wounded man spit in pain \" yy..You son a bb.bitch, I won't talk.\" Todd repeated the attack to his other leg before standing back up getting in the mans face \"Your not worth my time punk, if you don't talk ill leave you for the Coyotes. Talk!\" The man started realized that he was in serious trouble, and things were getting worse \"Ok, ok Lefty was bragging about how he  robbed a town blind and caught some girl, said she was his new pet...\" Wainio lunged at him \"Where are they!\" He barked scaring the gangster \" I..I don't know he could be anywhere by now.\" He grabbed the injured by the head slamming  him into the lockers before straightening him out until his arms where strength then a heavy textbook down on one of his elbows causing the already stressed bone to give way. \" ....\"Cough\" The NCR Prison, I..I swear to God! I cooperated, can I go now?\" Todd stood back and thought for a second.</span></div></div>",
+            "created":1373605200,
+            "id":1627120,
+            "title":"He has it coming."
+        },
+        "122111111112111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Stealth, Rushing in would just end worse.",
+                "He's in the mood for a fight."
+            ],
+            "content":"<div class=\"\"><div> <span>Todd lifted the man into a Lex Luger torture rack  and carried the man out the door before then setting him down in the middle of nowhere. The Powder Ganger was now in a kneeling position looking at the coyotes coming to claim an injured prey. \" Walk.\" Wainio said finally sounding less aggressive. The injured man looking around nearly \"I..I can't walk you bastard!\" Todd shrugged before turning away \" Then good luck. he began walking down the path towards the highway heary the man yelling after him, parily cursing him and partially pleading. He heard  loud howling turning back just in time to see multiple figures circling him before the Alpha of the pack plunged its deadly maw into the condemned man's throat. <br>\r\n<br>\r\n           Wainio scanned the prison complex bathed in moonlight . He looked over his weapons, he currently had an Assault Carbine , Hunting Shotgun, a hunting rifle with scope, and his hatchet. He could either go in stealthily or guns blazing.   </span></div></div>",
+            "created":1373605200,
+            "id":1627134,
+            "title":"Judge, Jurry, Executioner."
+        },
+        "1221111111121111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "He lets you in.",
+                "He"
+            ],
+            "content":"<div class=\"\"><div> <span>Todd walked calmly up to the guard standing behind the large gate of the prison, he like his allies wore the Powder Ganger outfit. \" You lost buddy? What are you doing here.\" (Speech) \" Some Caravan runner told me to deliver a share of chems for protection.\" Does he buy it. </span></div></div>",
+            "created":1373605200,
+            "id":1627136,
+            "title":"Stealth, Rushing in would just end worse."
+        },
+        "12211111111211111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "They can't just stop.",
+                "Leave for Vegas."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Oh did Ringo send you? Makes sense that coward is way behind on his payment.\" He slides the gate open before closing it and locking it. He turns to the door again, making sure the guards on the towers weren't looking he quickly grabbed the man's head before swiftly and brutally breaking the guards neck with little sound. Wainio picks the lock to the front door and slowly opens it. There were five men in the visitation area drinking a Sarsaparilla before Wainio grabbed him from behind before plunging the axe into his neck. The others turned to see what the noise was only to see their friend now heavily bleeding fall to the floor. \"What was th--\" The man was interrupted by a shell striking him in the chest causing it to split like an egg. The other men were started giving Todd a perfect opportunity to fire on two of them, before catching the rounds in the leg. He crouched behind the reception desk as round after round flew above his head, the pain in his left arm burning like it was burning. He waited until he heard the sound of clips being slid out of handguns before popping up and effectively hitting and killing two while the others were gravely injured.\" Wait don't shoot, I surrender!\" The last remaining man said throwing down his weapon. \"The girl where is she?\" The nervous man swallowed loudly \" In cellblock A.\" Todd let the man live as he left the waiting room. <br>\r\n<br>\r\n              Wainio silently and methodically took care of the remaining guards in the towers. He then took two sticks of dynamite setting them up with a remote charges on the closest guard tower . He slowly drew his Carbine before switching the safety off and tactically opening the door. He found a group of four standing in front of a cell mocking the inhabitant. He took carefully placed shots dropping three, the Lefty pointed a revolver at his assailant only to be shoot in return. The shots taken were nothing short of incredible, he took two precise shots one round hitting his Pulmonary Artery mortally wounding him. Wainio walked over to the cell to find a young girl laying on the bed facing the wall while using her hands to cover her ears. He slowly picked the lock before he slowly placed a hand on her shoulder \"NO... please.\" She said before turning to see who it was. She broke into tears as she jumped to her feet hugging him. They stood there for what seemed like forever he remembered the situation. Casey stood over the bleeding man taking her switchblade back and holding it to his throat \"Let em bleed.\" She turned and followed her brother out. They instantly found themselves surrounded by eight men aiming at them, Todd shoved her behind an overturned wooden table before diving after pressing the ignition. The explosion launched shrapnell killing three, the tower's metal began to moan and sway before falling on the remaining. The duo stood after the carriage settled \" Holy shit! You killed all of them.\" She turned away as the dust settled showing remains that churned her stomach.<br>\r\n<br>\r\n                    The walked on down the highway under the lonesome moon. \"So I guess you're taking me back to stay with mom now.\" Todd stopped prompting Casey to stop next to him \"Actually I think it would be better if you went with me. Unless you would rather.\"He couldn't finish his sentence as she squealed with delight. \" Now come on, lets find a place to sleep.\" This left him to think, should they continue on with more assignments?</span></div></div>",
+            "created":1373605200,
+            "id":1627169,
+            "title":"Revenge"
+        },
+        "122111111112111111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span>The duo walked down the moonlight lit road. Stoping by Goodsprings. Casey Disappeared for a few minutes and returned carrying a blue backpack that had buttons stuck to it and she now wore a long sleeve blue shirt Jeans. As they walked by Prim Todd noticed a wanted poster on the overpass wall. \"Wanted: Dead or Alive Texas Red. Responsible for the deaths of twenty men. Reward two thousand NCR Dollars. Claim reward at Boulder city or Outpost 188.\"<br>\r\n<br>\r\n                Todd walked into the Boulder City saloon \"Sir, she's not welcome in this establishment.\" The bartender stated after pointing at Casey, who looked both annoyed and surprised at the comment. Wainio stepped forward \"Don't worry we wont be long. I'm actually looking for Texas Red, heard you may know where he is. \" Sorry don't know about him. (Speech) \"Listen hes a murderer, not some common thief. He needs to be stopped.\" The barkeep sighed and then nodded \"Ok I guess your right, he is held up in a rundown shack in the valley to the west of Boulder city.\" Wanio thanked the man for the info and purchased a good supply of water and left a very generous tip.   <br>\r\n<br>\r\n                  Wainio and Casey sat motionless in a shaded hidden rock overlooking the valley. He took out his new hunting rifle attaching a scope to the rifle before loading the weapon and pulling the bolt slide up and down and then focused his sight on the shack. Time seemed to stop as a man walked out fitting the description. He was meeting with another gang member, Todd placed his finger on the trigger took a deep breath and fired. The other man heard the shot and ran for cover, Texas red stood still seemingly mocking his assailant. Wainio prepared to fire again when the body fell lifeless to the ground. <br>\r\n<br>\r\n               In the heat of the moment the two failed to notice a man sneaking up behind the two. The man drew a kitchen knife. \"Oh shit, Todd look out!\" he turned striking the man in the jaw with the butt of the rifle breaking his nose. Another  man charged him. Todd grabbed the mans hand holding the gun as it went off simultaneously. Todd felt a round hit his stomach as he collapsed. The man was immediately on top of him trying to strangle him. Wainio noticed the knife laying just out of reach, he expected to die only to see Casey jump on the mans back stabbing him repeatedly with her switchblade until he succumed to his wounds. \"Todd, Todd! what do you need me to do?\" He grabbed three stimpacks and stabbed them into the wounded area. He slowly rose and made his way down the valley to the body on the ground. Casey still in shock of killing a person just starred at her feet. Todd grabbed someting to ID the body and turned it in. <br>\r\n<br>\r\n              Latter in the eavening as the sat by a campfire Todd received a Radio transmission. Should they investigate?         </span></div></div>",
+            "created":1374123600,
+            "id":1630190,
+            "title":"They can't just stop."
+        },
+        "1221111111121111111":{
+            "author_id":"hypnoslave",
+            "author_name":"Irish Spartan",
+            "choices":[
+                "find him",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>*radio static* \"\"Hello? is there anyone out there? my name is Eoin. I was traveling from DC. I found an abandoned ..... NCR fort and found bodies of the dead inside. I want to ask for local assistance in finding the commanding officer to inform them of what has happened. i am not affiliated with them, so if you are anti NCR please do not be hostile\"\" *message loops*</span></div></div>",
+            "created":1374123600,
+            "id":1630205,
+            "title":"yes"
+        },
+        "13":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Let's go with this.",
+                "Next"
+            ],
+            "content":"<div class=\"\"><div> <span>Name; Geoff Rider<br>\r\nSex; Male<br>\r\nHeight; 6 ft<br>\r\nAge 23<br>\r\nAlliance; None<br>\r\ntop five skills<br>\r\n1. Guns<br>\r\n2. Melee Weapons<br>\r\n3. Sneak<br>\r\n4. Unarmed<br>\r\n5. Lockpicking<br>\r\n<br>\r\n3 perks<br>\r\nStrong back<br>\r\nGunslinger<br>\r\nToughness<br>\r\n<br>\r\nArmor; Fathers armor \"Riot Gear\"<br>\r\n<br>\r\nWeapons: Fathers .44 Revolver with heavy frame.<br>\r\nSawed-off Shotgun<br>\r\n.357 Magnum<br>\r\nBroad Machete<br>\r\nSwitchblade<br>\r\n<br>\r\nBackground: Geoff Is the son of the late Leon and Alice Rider. His father was not just the greatest bounty hunter of the Mojave, but the best damn bounty hunter in California easily. His father was tracked by a gang leader, ambushing his families home. <br>\r\n<br>\r\n       His father left Geoff not only his armor and weapon, but training him through his life. These talents are now tools of revenge.</span></div></div>",
+            "created":1382850000,
+            "id":1685250,
+            "title":"Wastelander #3"
+        },
+        "131":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "He has business with the NCR.",
+                "The Legion.",
+                "Another group."
+            ],
+            "content":"<div class=\"\"><div> <span>Six men sit in a parlor. They are all well dressed in suits and each have a shot glass and bottle of Whisky. A radio playing a rather cheerful toon.\" The great cons are pushing out the Fiends, from... here to... here. We cant simply wait until only one, weakened gang remains...\" The man is interrupted by a knock on the wooden door, the wooden pannel gently opened. Standing in the hall way were two people, a petite woman dressed in a maids atire leading an imposing figure wearing armor and a helmet.<br>\r\n<br>\r\n        \" Excuse me Mr. Thompson, a bounty hunter has arrived to discuss the job.\" Mr. Thompson eyed the man questioning his attire. \" Yes I can see that, please.\" He gestured at the remaining open chair, his guest accepted. \" I didn't expect a sell sword to reply so quickly. The job is one of dire importance to my business. I need the Great Kahns removed as a threat. I require you to meet with Papa Khan, as my informents have told me he is discussing a peace treaty with the NCR. Kill the diplomat, you will be paid 20,000 caps after the contract is complete.\"<br>\r\n<br>\r\n     The men uneasily drank the whiskey, all accept for their guest. The stranger unholstered a revolver. The men now feeling the effects of the whiskey fumbled for their own weapons, only to receive a bullet in the chest in response. The only exception was for Thompson who was shot in the right collarbone. \" Ahh... hach cough, shit!\" The stranger surveyed the room before removing his helme revealing his face. \" Weez, what do you want?.. Money!?\" Tompson asked as the gun was placed over his heart and fired. <br>\r\n<br>\r\n     Geoff exited the mansion whipping the blood away with an Abraxo cleaner. It was time to meet his real contractor.</span></div></div>",
+            "created":1382850000,
+            "id":1685310,
+            "title":"Let's go with this."
+        },
+        "14":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "This sounds good.",
+                "Other",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Sayid<br>\r\nAge: 23<br>\r\nAffiliation: The Enclave<br>\r\nAppearance: Around six feet tall. Medium length hair. His skin tone reflects his heritage.<br>\r\nBio: He has decided from Middle eastern ancestors. The naming is the only tradition passed on to him. He is a raidio-op and talented with firearms. He doesn't trust plasma weapons.<br>\r\nTop Skills: <br>\r\n1. Repair<br>\r\n2. Guns<br>\r\n3. Speech<br>\r\n4. Locksmith<br>\r\n5. Melee<br>\r\nPerks:<br>\r\n1: Jury Rigging<br>\r\n2: Center of Mass<br>\r\n3: Commando<br>\r\nWeapons: <br>\r\nRipper with both, carbide teeth, and Hd chain to allow the saw to tear through armor. A Trail Carbine, with scope. And a battle riffle.<br>\r\nFood, aid, and misc:<br>\r\nScrap electronics. 5 Purified water. 2 Sunset Sasperellas. 3 Med-x.<br>\r\nArmor: <br>\r\nHellfire armor and helmet. It is standard for combat engineer due to it being less bulky, but provides less protection. When in a relaxed setting ( I.e. Vegas strip, Enclace base etc.) he wears Merc Grunt clothing.</span></div></div>",
+            "created":1384146000,
+            "id":1693071,
+            "title":"Wastelander #4"
+        },
+        "141":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Yes.",
+                "No.",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Quick current history lesson.<br>\r\nMuch has changed for the Mojave chapter Enclave. Finally able to begin gaining a foothold by protecting towns that NCR ignore due to little strategic value. This led to a massive increase in recruits and volunteers. The recruits came from numerous places and backgrounds would-be scholars provided protection and technology, townspeople, Brotherhood outcasts, NCR defectors, refugees looking for revenge on the legion, or the simple drifter seeking a higher purpose, no matter what the Enclave accepted.<br>\r\n<br>\r\n      The NCR has began to worry and take notice. But not all attention is bad, the Brotherhood of steel of Hidden Valley has accepted a peace offering. This is where we stand now.<br>\r\n<br>\r\n     Note: The characters name is pronounced Sayhid ( Za-heed). Just in case anyone was confused.<br>\r\n<br>\r\n      Sayhid downed the bottle of Sasperella and tossed the empty bottle into the nearby ditch. He was with a group sent to meet with the brotherhood. Their were four of them the all rested in the shade of the large hill. It was the spot they were to meet with a brotherhood force to show they were able to work together. In his squad it comprised of Lt. Garth a terrible leader who was far young to young and inexperienced to lead. Dr. Lena Heedy who was almost mythicallay skilled in medical terms. She couldn't have been much older than himself. She stood at 5'6 with long blonde hair with a band along her forehead.She looked so small and fragile out in the Mojave Desert, she looked up from her book feeling his meeting his gaze, smiling. And a demolitions expert, Scotch, Sayhid didn't want to know how he got that nickname.<br>\r\n<br>\r\n      Sayhid thoughts were interrupted by a few hulking forms down the road. Something seemed off. Does the meeting go as planned?</span></div></div>",
+            "created":1384146000,
+            "id":1693110,
+            "title":"This sounds good."
+        },
+        "15":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "#1",
+                "#2",
+                "#2",
+                "#3",
+                "more."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More characters</span></div></span></div>",
+            "created":1384232400,
+            "id":1693480,
+            "title":"More Choices"
+        },
+        "151":{
+            "choices":[
+                "New Vegas Strip.",
+                "Out in the desert.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Abraham<br>\r\nAllegiance: DC Brotherhood of Steel, Lyon's Pride<br>\r\nArmor: Winterized T-51b<br>\r\nMain base: A fucking alien mothership.<br>\r\nKarmic balance: Very good.<br>\r\n<br>\r\nPreferred Weapons: Vengeance, Missile Launcher, Plasma Rifle, Eugene, Jack, Fat Man, Bottlecap Mine, The Terrible Shotgun, MPLX Novasurge.<br>\r\n<br>\r\nPurpose: After wiping the DC ruins clean of Super Mutants, Abraham set off to find new adventure, as he found it difficult to just sit around with a whole world of the unknown. Wound up in the Mojave after some time walking Route 66 with Fawkes and Dogmeat. Still has the DC Brotherhood's insignia on his armor.<br>\r\n<br>\r\nWhere is he now?</span></div></div>",
+            "created":1386133200,
+            "id":1703401,
+            "title":"DC to Mojave"
+        },
+        "1512":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Yes, a Mojave BoS Paladin.",
+                "A Courier",
+                "Other/No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does he happen to stumble across someone?</span></div></span></div>",
+            "created":1386133200,
+            "id":1703423,
+            "title":"Out in the desert."
+        },
+        "15121":{
+            "choices":[
+                "The Paladin allows him to proceed.",
+                "He laughs."
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Citizen,\" the Paladin began. \"It is ordered that you hand over your advanced weapons, as you are passing through Brotherhood territory. This is an order. Not a request.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"I don't think so,\" Abraham said, as he kept walking. The Paladin set out his arm at chest level, as a motion for Abraham to stop.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"I see you've got Brotherhood armor. What detachment are you from, son? Or, did you just pick that up off some poor sod's corpse?\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Lyons' Pride, DC Ruins. I came to this desert of my own accord.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Elder Lyons?\" The Paladin snickered, before busting out laughing. \"That old fool can't even get his troops to march in straight lines! Tell me, what makes you so special?\" He quickly became quiet as he found an electrically charged sword against his neck.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Never insult Elder Lyons in front of me. My father died protecting a massive purifier from the Enclave. I owe Elder Lyons my life for how he saved me, after a massive radiation burst knocked me out for two weeks. I may not know what I'm here for, just as I didn't know what I was in for when I left Vault 101, all those years ago. The radiation, Enclave, Deathclaws, aliens, and country folk. They all made me stronger.\"</span></div></div>",
+            "created":1407039720,
+            "id":1836710,
+            "title":"Yes, a Mojave BoS Paladin."
+        },
+        "15122":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "...hostile.",
+                "...neutral at the moment."
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Lawrence<br>\r\n<br>\r\nGender: Male<br>\r\n<br>\r\nApparel: Ulysses' Mask, Joshua Graham's Armor<br>\r\n<br>\r\nWeapons: A Light Shining in the darkness, Survivalist's Rifle, Dinner Bell, Superheated Cosmic Knife, Holorifle+<br>\r\n<br>\r\nTop 5 Skills: Speech, Sneak, Guns, Medicine, Repair.<br>\r\n<br>\r\nMain Base: Lucky 38 Presidential Suite<br>\r\n<br>\r\nBio: A courier shot through the skull out for revenge tracked his killer across the Mojave and took back his Platinum Chip, handing it over to Yes Man. Now he wanders the Mojave, looking for Old World relics.<br>\r\n<br>\r\n-----------<br>\r\n<br>\r\nIt'd been three days since he had found anything useful, and all it was was a bottle a wine. Lawrence sat on a sand dune and pulled Purified Water from his bag and pulled his mask down to take a sip. When was he gonna find something good again, like his mask and Holorifle. <br>\r\n<br>\r\nJust then, a figure appeared wandering toward him. The figure is...</span></div></div>",
+            "created":1386133200,
+            "id":1703433,
+            "title":"A Courier"
+        },
+        "151221":{
+            "choices":[
+                "Two figures appear from the dust cloud.",
+                "More Legionnaires approach."
+            ],
+            "content":"<div class=\"\"><div> <span>A Legion soldier charged at Lawrence with a machete.<br>\r\n<br>\r\n\"You will pay dearly for your crime of treason!\" He exclaimed. A dog that looked a lot like Cheyenne tackled the soldier, digging its claws into his chest, and viciously biting his face until he went limp. Whistling could be heard from just beyond a nearby dust cloud that had enveloped an area of the road to his left. The dog went running happily back, but not before sniffing Lawrence and growling.<br>\r\n<br>\r\n\"Dogmeat! Come here!\" A man shouted, calling the canine. The dog disobeyed, taking a defensive stance and snarling at Lawrence, who just gave a slightly drunken stare.</span></div></div>",
+            "created":1386219600,
+            "id":1703867,
+            "title":"...hostile."
+        },
+        "1512211":{
+            "choices":[
+                "Legion troops.",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Dogmeat!\" The man called again. Lawrence peered off to his left to see a figure emerge from the dust cloud. It looked like he was in Brotherhood Power Armor. But it was white, not steel, and in his right hand was a strange looking plasma pistol. Looking again, he noticed a much larger form emerge from the dust cloud. This one was green, with what appeared to be a blue jumpsuit that had stretched and torn. The dog went running back to its master, before its attention was turned to something past Lawrence. Emerging from another dust cloud were...</span></div></div>",
+            "created":1386386640,
+            "id":1704279,
+            "title":"Two figures appear from the dust cloud."
+        },
+        "15122111":{
+            "author_id":"vokorra",
+            "author_name":"Voraha",
+            "choices":[
+                "Abraham shoots the Legionaire",
+                "Lawrence is hit by the Grenade"
+            ],
+            "content":"<div class=\"\"><div> <span>Five Legion Vexillarius' marched into their sight. One held a 40mm Grenade Launcher, another a Machete, the rest had Marksman rifles. Lawrence sighed as the man with the machete rushed Lawrence. Lawrence waited for the man to swing before ducking under the shot and firing a round from 'A Light Shining in the darkness' into the man's chest, bringing him down. The three others opened fired as Lawrence dove behind a rock. He peeked around and picked off the three before the fourth and the grenade launcher on him.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1386559440,
+            "id":1705204,
+            "title":"Legion troops."
+        },
+        "151221111":{
+            "choices":[
+                "He inquires about the pistol.",
+                "Asks about his companion."
+            ],
+            "content":"<div class=\"\"><div> <span>The distinctive sound of a plasma pistol firing a three-round burst stood out amongst the much louder firing of the rifles. But the shots were too slow in reaching their mark, as the grenade found its mark, shrapnel embedding itself into Lawrence's body. Through blurred, bloody vision, he saw bullets deflecting off the power armor-clad figure, and angering his much larger companion. Within the period of only a few seconds, seconds which felt like an eternity through the pain, the fire-fight was over. The stranger turned his attention to Lawrence, drew out a Stimpak, and injected Lawrence with its contents. He was up within seconds, and noticed the odd-looking plasma pistol in the stranger's holster. Then turned his attention to the hulking, green figure not ten feet away.</span></div></div>",
+            "created":1386560640,
+            "id":1705217,
+            "title":"Abraham shoots the Legionaire"
+        },
+        "1512211111":{
+            "choices":[
+                "\"Tell me,\"",
+                "\"I'd rather not know.\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"That plasma pistol,\" Lawrence began. \"It's not like any I've ever seen. It looks... heavier.\"<br>\r\n<br>\r\n\"It's called an MPLX Novasurge,\" Abraham said, turning his attention from Dogmeat to Lawrence. \"And it's a bastard you don't want to be on the business end of. Heh. You wouldn't believe where I got it.\"</span></div></div>",
+            "created":1387339680,
+            "id":1709596,
+            "title":"He inquires about the pistol."
+        },
+        "152":{
+            "author_id":"falloutnew",
+            "author_name":"giant man",
+            "choices":[
+                "countinue"
+            ],
+            "content":"<div class=\"\"><div> <span>I hope the maker of the story dosent mind but im here to make fallout 4. True fans of fallout are waiting for it but who knows it may never come true sience the ending of fallout new vegas i have wished for fallout 4. I have imagined many ways how it would look but now i have made my best version yet. I will tell you the trailer. So at the beginning there woupd be videos about the u.s goverment and the war but this video would start failling and sudennly computer buried benath earth would be shown and it would turn on.the computer satrts to say his text. For years we have been following one same plan. For years ive been buried beaneth this ruble. Everyone thought i was dead we were dead but you were wrong. Let me just say few words. This is john henry eden speking an preapere for liberty to come. This would be the trailer now the intro. War war never changes this sentence has been said out in many parts of the world. New vegas. The capital wasteland and few other places but this words have never reached new york a city with a lot of casulties.before the war nyc contained only three vaults at the outskirts of the city. That wasnt enough to fit the whole city not even close. When the bombs the people at the nyc went hoding in the metro systems surving. You are a young boy who will grow and become a liberator or a dominator.</span></div></div>",
+            "created":1407022800,
+            "id":1836608,
+            "title":"fallout 4"
+        },
+        "1521":{
+            "author_id":"falloutnew",
+            "author_name":"giant man",
+            "choices":[
+                " continue"
+            ],
+            "content":"<div class=\"\"><div> <span>Well before anything else you choose your apparence and iwould be a man with blond hair and i would be cascuian.<br>\r\nYou are woken up by your father. You live in a small metro wagon in blue water metro city. He says son your mom is ill and you know the authorities rearly heal sick peole so i need you to get as a stimpack from poision metro city. Take thesse caps and bribe the guard and buy a stimpack and take this little combat knife i hear there are some radtoches there. You get out of thr wagon and go to the big gate and the guard asks yo where are you going you give him 100caps and he lets you out you wander through the dark tunnel beating radroches and suddenly a shadowly fgure aproches and speaks to you he looks like a zombe. On by the way you are ten years old. He says hey kid you never seen a ghoul i guess. You ask who his. He says that dosnent matter and we must part ways but that youll meet again. You reach the other statio  and buy a stimpack and head back beating few mpre roaches. Once you get back to your wagon a polife man stops you he says where are you going you say to home then he kinda feels bad and he goes to speak to anoher police man thenbhe comes back he says your parents were killed and we are taking you to our psycologist</span></div></div>",
+            "created":1408749600,
+            "id":1845716,
+            "title":"countinue"
+        },
+        "15211":{
+            "author_id":"falloutnew",
+            "author_name":"giant man",
+            "choices":[
+                "countinue"
+            ],
+            "content":"<div class=\"\"><div> <span>You are questioned by the psichologist and he discovers a stimpack. He knows that they dont give away stimpacks and sends you to the doctors cause you might be irradiated the doctors put you through some tests. They discoverd that youal arent irradited but hey send you to the authorities for questioning. You are questioned by the authorities why did you leave you tell them because my sudenly you are inturapted by guhshots. The same ghoul from the tunnnel comes in and shoot the guards. He says lets go kid we havent much time.</span></div></div>",
+            "created":1408783800,
+            "id":1846080,
+            "title":" continue"
+        },
+        "152111":{
+            "author_id":"falloutnew",
+            "author_name":"giant man",
+            "choices":[
+                "the outside world awaits"
+            ],
+            "content":"<div class=\"\"><div> <span>For 6 years the ghoul took care of you. He taught you how to use guns. He took you outside and showed what it was like out there. But you never went out there after that. Funny thing thou you had been living with him for six years but he had never told you his name. For an unknown reason you started to call him ghost. It was suppoused to be another simple day of scavenging but suddenly you were woken up by ghost. \"Come on kid we gotta go it aint safe here no more\" he said. \"Whats going on'' you said. \"Here listen to this\" said ghost. He gave you a radio and you actually could hear more than nothing you heard a voice. \"Dear america i am ariving at nyc for an operation. Im sure you have heard of our terrible failure at washington d.c. but it will not happen again.we will take over new york city. But this is more of a warning than an announcment. All the people that will be met will be purged because you all are dirty dirty people. This is john henry eden signing off\".<br>\r\n</span></div></div>",
+            "created":1426632120,
+            "id":1949569,
+            "title":"new life"
+        },
+        "1521111":{
+            "author_id":"falloutnew",
+            "author_name":"giant man",
+            "choices":[
+                "look for posion metro city",
+                "explore the reamins of nyc"
+            ],
+            "content":"<div class=\"\"><div> <span>As you take a step outside you see that there are some weird flying birds in the sky. Suddenly this metal bird landed nearby and ghost pulled you out of the enclaves sight. Ghost said \"listen they are very dangerous and well armed. I will distract them so you can get somewhere safe take this 44 magnum pistol now go.\" He ran in front of the enclave troppers and soon you heard shooting ao you started to run away as fast as possible and you didnt look back. After you thought you had made a safe distance between the \"metal cockroches\" you neede to think where you can go. The only places you knew where you home station and you dont want go back there and posion metro city. Posion metro city would be good place where to go to but you had no idea where it was since you had ran away too far from your camp. You can always go exploring. Which are you gonna pick?</span></div></div>",
+            "created":1441826400,
+            "id":2032202,
+            "title":"the outside world awaits"
+        },
+        "153":{
+            "author_id":"imageveiwer",
+            "author_name":"Imageviewer",
+            "choices":[
+                "Human",
+                "Ghoul",
+                "no something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You are the Shaded courier, an illusive courier who's identity no one knows because of your unique abilities (powers) or pre-war technology that allows you possess anybody or turned them into a skinsuits, you move through the deserts of New Vegas how ever you please, taking jobs and exploiting your resources to your hearts desire.<br>\r\n<br>\r\nNo one but you knows your identity, but the question is, who or what are  you?</span></div></div>",
+            "created":1517324040,
+            "id":2446786,
+            "title":"#2"
+        },
+        "1532":{
+            "author_id":"imageveiwer",
+            "author_name":"Imageviewer",
+            "choices":[
+                "start of the fallout game, wellsprings",
+                "a vault",
+                "no more"
+            ],
+            "content":"<div class=\"\"><div> <span>Species Ghouls.<br>\r\n<br>\r\nOnce human, exposer to large amounts of Radiation has deformed/ transformed them into disfigured and zombie like creatures who make up half of the Atomic wastelands population aside from the other mutated horror's.<br>\r\nsome ghouls have lived on from the atomic war or are new made thanks to large dose's of radiation.<br>\r\n<br>\r\ntheir new forms give them certain perks that regular people do not have, or example they're immune to the toxic affects of Radiation, meaning any hazardous terrain with high levels of radiation no human can survive in, they can live there with no fear of dying toxic energy, benefit #2 is that they wont be bothered by their feral counterparts who's minds have been deteriorated by too much exposer to the radiation turning them into mindless zombie's that hunt anything in their sites except for their own kind.<br>\r\n<br>\r\nthey can heal from Radiation entirely.<br>\r\n<br>\r\nthe disadvantages of being a Ghoul is that they are not always welcomed In most populated area's of the Mojave wasteland due to their appearance and the theory that they deteriorated into their feral kind, they are the 2nd mutated disliked sentient species of the wasteland 2nd to super mutants. <br>\r\n<br>\r\nnow that you have picked your character where will you begin?</span></div></div>",
+            "created":1517414460,
+            "id":2447475,
+            "title":"Ghoul"
+        },
+        "15323":{
+            "author_id":"imageveiwer",
+            "author_name":"Imageviewer",
+            "choices":[
+                "the Mojave desert",
+                "no somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about wandering the Mojave desert?</span></div></span></div>",
+            "created":1517421420,
+            "id":2447499,
+            "title":"no more"
+        },
+        "154":{
+            "author_id":"carrotboi",
+            "author_name":"CarrotBoi",
+            "choices":[
+                "Mojave Outpost",
+                "Camp Mccarran",
+                "Next character"
+            ],
+            "content":"<div class=\"\"><div> <span>Name: Blake Winters<br>\r\n<br>\r\nSex: Male<br>\r\n<br>\r\nHeight: 6'1<br>\r\n<br>\r\nWeight:200 pounds<br>\r\n<br>\r\nFaction:NCR<br>\r\n<br>\r\nCurrent rank:Staff Sergeant (current leader of Able squad)<br>\r\n<br>\r\nProficent skills<br>\r\n<br>\r\nGuns<br>\r\nMelee weapons<br>\r\nSurvival<br>\r\nSneak<br>\r\nMedicine<br>\r\n<br>\r\n<br>\r\nPerks<br>\r\n<br>\r\nStrong back<br>\r\nTerrifying presence<br>\r\nSniper<br>\r\n<br>\r\n<br>\r\nRelationship status:Hetero (single)<br>\r\n<br>\r\nFavorite weapons:Anti material rifle, Assault Carbine, Ranger Sequoia<br>\r\n<br>\r\nStarting weapons:Hunting rifle (with scope),9mm pistol,Combat knife<br>\r\n<br>\r\nArmor:NCR trooper armor(mantle), trooper helmet<br>\r\n<br>\r\n<br>\r\nBackstory: You came from a small town called Goodsprings you had tough early life like most in the Mojave but at least you had your Mother and little sister,After your Dad left you focused on becoming self dependent so you could take care of your little sister and protect them from the dangers of the Mojave. But a old NCR ranger came through telling stories of the NCR and it's laws so you decided when you were old enough too you enliste in the NCR figuring it was the best way to ensure your families saftey. Of course your Mom and Sister objected not wanting you to risk your life but you enlisted anyway. <br>\r\n<br>\r\n<br>\r\nTurns out you were \"lucky\" enough to take part in Opertion Sunburst to take Helios 1 from the Brotherhood 6 months after you were 1st deployed during the battle you displayed courage  dragging over a dozen wounded back to NCR lines saving many lives being promoted from Private to Corporal (skipped 3 ranks) then a year later your luck just kept rolling in and you took part in the 1st Battle of Hoover Dam were you helped buy time for the tactical retreat into Boulder City then after the trap was sprung afterwards you took part in the counter attack on the Dam were due to some squads now lacking commanding officers you took command were you showed understanding of squad tactics and leadership so after the battle you were promoted from Corporal to Staff Sergeant. (skipped 1 rank)<br>\r\n<br>\r\n<br>\r\nNow today you'r meeting you'r new squad (Able) in......<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1558688340,
+            "id":2663471,
+            "title":"Leader of Able "
+        }
+    },
+    "info":{
+        "author_id":"vokorra",
+        "author_name":"Voraha",
+        "brief_description":"Add your Courier of New Vegas join the experience!",
+        "created":1360094940,
+        "description":"<td align=\"left\" class=\"norm\">This is very similar to my Skyrim Interactive. Take a character you've made in Fallout: New Vegas and tell your story with them. One large aspect I enjoy using is having one author's character meeting another's. There are only a few rules:<br>\r\n1. Add chapters! Encourage others to add.<br>\r\n2. Don't take control of a story.<br>\r\n3. Have fun!</td>",
+        "id":1917614,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1558688340,
+        "modified":1558688340,
+        "pretty_title":"Fallout: New Vegas Interactive"
+    }
+}

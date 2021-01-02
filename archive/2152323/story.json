@@ -1,0 +1,564 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"kleinermann",
+            "author_name":"ztttttttt",
+            "choices":[
+                "Deine Mutter betritt das Badezimmer.",
+                "Du gehst in das Zimmer von Julia um sie um Hilfe zu bitten.",
+                "Du hast Lisa im Wohnzimmer fernsehen geh\u00f6rt und machst dich auf den weg dort hin"
+            ],
+            "content":"<div class=\"\"><div> <span>Es ist Wochenende und du liegst noch im Bett weil du beschielst dich noch etwas auszuschlafen.<br>\r\nNach einer Weile beginnst du dich komisch zu f\u00fchlen. Du stehst auf und gehst in das Badezimmer um zu sehen was mit dir pl\u00f6tzlich los ist.<br>\r\n auf dem weg dort hin wird es immer schlimmer und du kommst gerade noch in das Badezimmer und schlie\u00dft hinter dir die T\u00fcr. Dir wird es immer schwindliger und nach kurzer Zeit verlierst du das Bewusstsein.<br>\r\n<br>\r\nAlso du aufwachst hattest du noch etwas Kopfschmerzen aber es wurde langsam besser. Du machst deine Augen auf und stellst fest das alles um dich herum riesig geworden ist. Als du aufstehst stellst du fest das nicht alles riesig ist sondern das du geschrumpft bist.<br>\r\n<br>\r\nWas passiert als n\u00e4chstes ?</span></div></div>",
+            "created":1521090000,
+            "id":2464855,
+            "title":"Auf einmal begann dein Abenteuer."
+        },
+        "11":{
+            "author_id":"ninajason",
+            "author_name":"Nina",
+            "choices":[
+                "Sie bemerkt dich",
+                "Sie bemerkt dich nicht",
+                "Jemand anderes klopft an die t\u00fcr",
+                "Du verlierst das gleichgewicht",
+                "Mehr"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Deine mutter kam in das badezimmer als sie sich ihr makeup auftragen will. Du versuchst ihre aufmerksamkeit zu gewinnen.</span></div></span></div>",
+            "created":1534914000,
+            "id":2537352,
+            "title":"Deine Mutter betritt das Badezimmer."
+        },
+        "111":{
+            "author_id":"blueviper10",
+            "author_name":"Oberyn",
+            "choices":[
+                "Anna merit, dass es ihr sohn ist",
+                "Sie denkt, dass er ein K\u00e4fer ist und macht etwas",
+                "Sie denkt, dass er ein k\u00e4fer ist, doch macht nichts"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Anna sah sofort, dass etwas auf dem Boden war, doch sie war sich nicht sicher, was es ist.</span></div></span></div>",
+            "created":1572498000,
+            "id":2740746,
+            "title":"Sie bemerkt dich"
+        },
+        "1111":{
+            "author_id":"blueviper10",
+            "author_name":"Oberyn",
+            "choices":[
+                "Du entkommst schnell und gehst",
+                "Du bleibst in der Tasche",
+                "Du gehat in der K\u00fcche raus"
+            ],
+            "content":"<div class=\"\"><div> <span>Anna denkt, dass du ein K\u00e4fer bist. Doch du hast Gl\u00fcck, sie hat ein unwahrscheinlich grosses Herz. Anstatt dir irgendetwas zu tun nimmt sie dich sachte in die Hand und \u00fcberlegt, was sie machen soll. Und dann kommt ihr die Idee: Sie steckt dich in ihre Hosentasche, bis sie das N\u00e4chste mal vor die T\u00fcr geht und w\u00fcrde dich dann frei lassen.</span></div></div>",
+            "created":1572498000,
+            "id":2740748,
+            "title":"Anna merit, dass es ihr sohn ist"
+        },
+        "11112":{
+            "author_id":"redviperdorne",
+            "author_name":"Oberyn",
+            "choices":[
+                "Sod l\u00e4sst dich frei",
+                "Sie cergisst dich"
+            ],
+            "content":"<div class=\"\"><div> <span>Da Anna dir in jedem Fall helfen wird bleibst du. Du machst es dir gem\u00fctlich, doch nach ein paar Minuten wird die neu gewonnene Ruhe gest\u00f6rt. Aber du bist nicht wie erwartet im Garten, sondern in der K\u00fcche. Anscheinend nahm sie dich nur Raus, damit die Sachen, die sie rein legt dich nicht t\u00f6ten. Du willst dich nicht bewegen, da du ihre Reaktion nicht voraussagen kannst. Kurz darauf nimmt sie dich in ihre Hand und steckt dich zwischen ihren G\u00fcrtel und ihre Jeans. Was passiert danach? Deine Entscheidung...</span></div></div>",
+            "created":1574113920,
+            "id":2748444,
+            "title":"Du bleibst in der Tasche"
+        },
+        "111122":{
+            "author_id":"redviperdorne",
+            "author_name":"Oberyn",
+            "choices":[
+                "Sie wacht auf und bemerkt dich",
+                "Sie schnieft dich ein"
+            ],
+            "content":"<div class=\"\"><div> <span>Sie vergisst dich und es wird Abend(heute war ihr freier Tag). Sie schl\u00e4ft immer mit Klamotten, doch ihren G\u00fcrtel zieht sie immer aus. Nachdem dieser weg ist, liegt sie im Bett und du auf ihr. Du beschlie\u00dft, sie zu wecken. Als du an ihrem Gesicht ankommst passiert folgendes</span></div></div>",
+            "created":1574201280,
+            "id":2748897,
+            "title":"Sie cergisst dich"
+        },
+        "1111221":{
+            "author_id":"redviperdorne",
+            "author_name":"Oberyn",
+            "choices":[
+                "Sie  quetscht dich",
+                "Sie ist bett "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Sie \u00f6ffnet ihre Augen und bemerkt dich. Gl\u00fccklich war sie allerdings nicht.</span></div></span></div>",
+            "created":1574289000,
+            "id":2749405,
+            "title":"Sie wacht auf und bemerkt dich"
+        },
+        "1111222":{
+            "author_id":"blueviper11",
+            "author_name":"Oberyn",
+            "choices":[
+                "Nichts, sie steckt dich in den Mund",
+                "Sie bemerkt etwas"
+            ],
+            "content":"<div class=\"\"><div> <span>Ein kr\u00e4ftiger Zug in die Nase zog dich in selbige. Jetzt hast du den Salat. Doch zum Gl\u00fcck war das entkommen kein gro\u00dfes Problem, da deine Mutter etwas in der Nase sp\u00fcrte und dich rauspopelte und abschmierte. Doch da entstand das neue Problem: ihr Hosenstal war offen, sie trug keine Unterw\u00e4sche und dreimal darfst du raten, wo sie dich hinschmierte. In ihren Jungle. Es war schwer sich zurechtzufinden und entkommen schien unm\u00f6glich. Nach einer kurzen Zeit kamst du auf eine Schlucht zu, in welche du reinfielst.<br>\r\n<br>\r\n<br>\r\nDas verst\u00f6rendste von allem war das pl\u00f6tzliche Erwachen deiner Mutter, die zu st\u00f6hnen anfing und ihre Finger ins Spiel kommen l\u00e4sst. Sie dr\u00fcckt dich in ihren Pool aus freuden-Fl\u00fcssigkeit. Sie war in diesem Rausch regelrecht gefangen und tat Dinge, die sie sonst nicht tuen w\u00fcrde. Sie h\u00e4tte niemals ein Lebewesen f\u00fcr einen Orgasmus verletzt, doch heute war es ihr egal. Kurz vorm verscheiden war sie fertig und du konntest auftauchen. Doch die Folter war nicht komplett. Sie fing an, ihre Fl\u00fcssigkeit mit ihren H\u00e4nden abzusch\u00f6pfen und sie zu essen. Die Zeit der Ruhe war kurz, bevor du dran warst. Voller Lust wollte sie sich den Finger in den Mund schieben, als...</span></div></div>",
+            "created":1582146480,
+            "id":2789760,
+            "title":"Sie schnieft dich ein"
+        },
+        "11112221":{
+            "author_id":"blueviper11",
+            "author_name":"Oberyn",
+            "choices":[
+                "Ihr Sohn",
+                "Ein K\u00e4fer "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Nichts, ich weiss, ich bin grausam. Sie steckte dich in den Mund und lutsche. Doch aus Gl\u00fcck bemerkt sie dich. Was denkt sie bist du?</span></div></span></div>",
+            "created":1582152960,
+            "id":2789803,
+            "title":"Nichts, sie steckt dich in den Mund"
+        },
+        "111122212":{
+            "author_id":"blueviper11",
+            "author_name":"Oberyn",
+            "choices":[
+                "Tante Barbara kommt",
+                "Eine Schwester kommt"
+            ],
+            "content":"<div class=\"\"><div> <span>\u201eOh, du armer K\u00e4fer. Tut mir leid, dass du leiden musstest\u201c<br>\r\n\u201eDu machst dir keine Begriffe\u201c murmelst du, wohlwissend, dass sie dich nicht h\u00f6ren k\u00f6nnen wird\u201c<br>\r\n\u201eIch bring dich raus\u201c<br>\r\nDieser Satz machte dich etwas gl\u00fccklicher. Sie fing an, dich in ihre Tasche zu stecken, als pl\u00f6tzlich..</span></div></div>",
+            "created":1582670040,
+            "id":2792850,
+            "title":"Ein K\u00e4fer "
+        },
+        "1111222121":{
+            "author_id":"blueviper11",
+            "author_name":"Oberyn",
+            "choices":[
+                "Sie sieht dich",
+                "Sie saugt dich ein"
+            ],
+            "content":"<div class=\"\"><div> <span>Ich darf alles machen, also tue ich es. Tante Barbara kommt rein und es wird seltsam. Sie fragt deine Mutter, ob sie es sich selbst besorgt hat und beginnt auf einmal n\u00e4her zu kommen. Nach ein paar unangenehmen Sekunden des Starrens began sie auf einmal, deine Mutter zu k\u00fcssen.( Ich meine, die Story ist 18+) Du konntest nicht aufh\u00f6ren wegzuschauen, bis du nicht mehr wegkommen kannst. Deine Tante liegt jetzt auf deiner Mutter. Statt wegzulaufen gehst du zwischen die Beiden und versteckst dich im Haarbusch, um sp\u00e4ter ihre Aufmerksamkeit zu bekommen. Doch Tante Barbara(die so aussieht wie die Mutter von Bibi Blocksberg) began, sich runter zu arbeiten, bis sie bei deiner Position ankam und mit dem Mund weiterarbeitete. Was passiert als n\u00e4chstes?</span></div></div>",
+            "created":1582728360,
+            "id":2793185,
+            "title":"Tante Barbara kommt"
+        },
+        "11112221211":{
+            "author_id":"blueviper11",
+            "author_name":"Oberyn",
+            "choices":[
+                "Dich zu \u201everwaren\u201c",
+                "Dir zu helfen und dich zu supporten"
+            ],
+            "content":"<div class=\"\"><div> <span>Sie sieht dich mit verwirrten Augen an. Kurz darauf schreckt sie zur\u00fcck<br>\r\n\u201eWas ist los\u201c fragt deine Mutter, verwirrt.<br>\r\n\u201eSchau in deinen Schritt\u201c erwiderte sie mit ekel im Gesicht<br>\r\nEin Blick gen\u00fcgte und deine Mutter wusste, was abgeht. Sie nam dich mit gr\u00f6\u00dfter Vorsicht auf ihre Hand. <br>\r\n\u201eSchatz, wie gehts dir?\u201c<br>\r\n\u201eWie es mir geht!? Du hast mich mehrmals fast gekillt, mit mir in dir masturbiert und meine Tanze h\u00e4tte mich w\u00e4hrend eurem T\u00e4chtelm\u00e4chtel fast geschluckt. Mir gehts beschissen\u201c<br>\r\n\u201eEs tut mir leid\u201c<br>\r\n\u201eSpar dir das. Nichts kann das hier wieder gut machen!\u201c sie beschlie\u00dft,...</span></div></div>",
+            "created":1582758540,
+            "id":2793432,
+            "title":"Sie sieht dich"
+        },
+        "111122212112":{
+            "author_id":"blueviper11",
+            "author_name":"Oberyn",
+            "choices":[
+                "Thema: Inzest",
+                "Wie ist das passiert?"
+            ],
+            "content":"<div class=\"\"><div> <span>Dir zu helfen. Was anderes kommt f\u00fcr sie nicht in frage. Ihr ist es nicht mal mehr wichtig, dass du niemandem von ihrem inzestu\u00f6sen Treiben erz\u00e4hlst. <br>\r\n\u201eWas tun?\u201c fragt Tante Barbara, die definitiv vom Inzest ablenken wollte.<br>\r\n\u201eDu besch\u00e4ftigst die Kinder, wir finden eine L\u00f6sung\u201c<br>\r\n\u201eKlingt gut\u201c<br>\r\nGesagt, getan und ihr beide seit allein, was passiert?</span></div></div>",
+            "created":1582759920,
+            "id":2793451,
+            "title":"Dir zu helfen und dich zu supporten"
+        },
+        "1111222121121":{
+            "author_id":"blueviper11",
+            "author_name":"Oberyn",
+            "choices":[
+                "Sie macht sich an dich ran",
+                "Sucht ihr beide nach einer L\u00f6sung"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u201eWas war das mit Tante Barbara, warum?!\u201c<br>\r\n\u201eWir waren als kinder oft allein und eines f\u00fchrte zum Anderen. Ach ja, bitte erz\u00e4hl es niemandem, ok?\u201c<br>\r\n\u201eWarum sollte ich?\u201c<br>\r\n\u201eGut, dass alles gekl\u00e4rt ist\u201c<br>\r\nDanach</span></div></span></div>",
+            "created":1582830180,
+            "id":2793916,
+            "title":"Thema: Inzest"
+        },
+        "11112221211211":{
+            "author_id":"blueviper11",
+            "author_name":"Oberyn",
+            "choices":[
+                "Dich in ihre Vagina zu stopfen",
+                "Dich zu k\u00fcssen, zu lecken"
+            ],
+            "content":"<div class=\"\"><div> <span>Nachdem ihr es gekl\u00e4rt habt, kommt sie gef\u00e4hrlich nahe an deinen Intim-Bereich, als sie dich aufheben wollte.<br>\r\n\u201eWas machst du da?\u201c<br>\r\n\u201eGar nichts, nur eine Ungeschicklichkeit meinerseits\u201c<br>\r\n\u201eOk\u201c sagst du ohne zu wissen, was sie vorhatte.<br>\r\nStatt ihn dein Zimmer, wo sich alles ereignete, bringt sie dich ins Schlafzimmer und naja, es wurde weird.<br>\r\n\u201eWarum hier hin?\u201c<br>\r\n\u201eVielleicht willst du ein chillen, das magst du doch so, oder?<br>\r\n\u201eWas soll das hier? Willst du... Warte, was??!!\u201c du begingst zu kotzen.<br>\r\n\u201eAch komm, du willst es doch auch\u201c<br>\r\n\u201eWas ist falsch mit dir?\u201c<br>\r\n\u201eWillst du es herausfinden?\u201c sagte sie, als sie dich packte und in der Luft hob und fing an,...</span></div></div>",
+            "created":1582845000,
+            "id":2794000,
+            "title":"Sie macht sich an dich ran"
+        },
+        "11113":{
+            "author_id":"redviperdorne",
+            "author_name":"Oberyn",
+            "choices":[
+                "Zu warten",
+                "Versuchen rauszukommen"
+            ],
+            "content":"<div class=\"\"><div> <span>F\u00fcr die n\u00e4chsten paar Minuten bliebst du in ihrer Tasche. Dann erreicht ihr die K\u00fcche, in welcher du rausspringst. Als sie dein Verschwinden bemerkt, f\u00e4ngt sie dich bin in weniger Sekunden ein und macht diesmal etwas anderes. Sie tr\u00e4gt ein Western-Karo Hemd mit Taschen, in welche sie dich reinsteckt. Du beschlie\u00dft...</span></div></div>",
+            "created":1573794000,
+            "id":2747224,
+            "title":"Du gehat in der K\u00fcche raus"
+        },
+        "111131":{
+            "author_id":"blueviper11",
+            "author_name":"Oberyn",
+            "choices":[
+                "Sir schluckt ausversehen",
+                "Sie nimmt dich raus und bringt dich vor die T\u00fcr"
+            ],
+            "content":"<div class=\"\"><div> <span>Sie w\u00fcrde dich eh wieder einfangen, also wartest du ein bisschen. Nach zehn Minuten wird es dir dann langweilig und du beschlie\u00dft zu handeln. Du schaffst es unbemerkt zu entkommen und kletterst ihren Hals hinauf. An der Kehle abgekommen bemerkt sie dich und nimmt dich ein drittes Mal in die Hand und sprach: \u201eNa gut, ich hab noch eine Methode\u201c auf einmal \u00f6ffnet sie ihren Mund und steckt dich rein. Sie kaut nicht, trotzdem bist du mit Angst erf\u00fcllt. Ein falscher Schritt und du bist Tod. </span></div></div>",
+            "created":1573880400,
+            "id":2747615,
+            "title":"Zu warten"
+        },
+        "111132":{
+            "author_id":"redviperdorne",
+            "author_name":"Oberyn",
+            "choices":[
+                "Sie sieht dich ",
+                "Sie isst dich"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Du willst deine Freiheit und schaffst es sogar. Zu deinem (Un)gl\u00fcck war deine Mutter gerade beim Essen. Du springst in das Essen, einen Salat. Auf einmal bist du auf einer Gabel drauf, die deine Mutter sich gerade in den Mund schieben will.</span></div></span></div>",
+            "created":1574289360,
+            "id":2749409,
+            "title":"Versuchen rauszukommen"
+        },
+        "1112":{
+            "author_id":"redviperdorne",
+            "author_name":"Oberyn",
+            "choices":[
+                "Sid isst dich",
+                "Sie ist nett zu dir ",
+                "Sie versteckt dich"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>(Bevor wir anfangen, ich hab die Zweige verwechselt, sry) Sie merkt sofort, wer du bist.<br>\r\n\u201eAlex, bist du es\u201c<br>\r\n\u201eJa, Mama, ich bin so froh\u201c<br>\r\n\u201eIch auch\u201c<br>\r\nWas passiert als n\u00e4chstes?</span></div></span></div>",
+            "created":1574369460,
+            "id":2749821,
+            "title":"Sie denkt, dass er ein K\u00e4fer ist und macht etwas"
+        },
+        "114":{
+            "author_id":"ninajason",
+            "author_name":"Nina",
+            "choices":[
+                "In der toilette",
+                "Im w\u00e4schekorb",
+                "Etwas anderes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Als deine Mutter ihr gesicht waschte spritzte wasser \u00fcberall hin. Als du ein bisschen abstand halten wolltest, rutscht du aus und landest..</span></div></span></div>",
+            "created":1541134800,
+            "id":2572056,
+            "title":"Du verlierst das gleichgewicht"
+        },
+        "1141":{
+            "author_id":"kleinermann",
+            "author_name":"ztttttttt",
+            "choices":[
+                "Du bist zu langsam um auf die Seite zu laufen und sie entleert sich auf dir. ",
+                "Sie bemerkt dich aber es ist ihr egal und sie beginnt mit ihrer Morgentoilette "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Du warst leicht benommen und als du wieder voll bei Bewusstsein warst bemerkst du das deine mutter mit dem r\u00fccken zum klo steht und sich beginnt die Hose herunter zu ziehen .Sie setzt sich hin und du schwant \u00fcbles. </span></div></span></div>",
+            "created":1592101020,
+            "id":2850913,
+            "title":"In der toilette"
+        },
+        "115":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "... Hast dich entschieden dich zu verstecken. ",
+                ".... Versuchst Aufmerksamkeit zu erregen du brauchst ja schlie\u00dflich Hilfe. ",
+                "... Zu sp\u00e4t ein Schatten ist \u00fcber dir!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was solltest du nun tun?<br>\r\n<br>\r\nSolltest du dich verstecken wenn ja wo?<br>\r\nOder<br>\r\nVersuchen auf dich aufmerksam zu machen?<br>\r\n<br>\r\nDu hast dar\u00fcber nachgedacht und.... </span></div></span></div>",
+            "created":1552194000,
+            "id":2628321,
+            "title":"Mehr"
+        },
+        "1153":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "... Du hast recht es ist vorbei schmerzhaft aber kurz. ",
+                ".... Du lebst aber klebst an ihrem Fu\u00df",
+                "Mehr"
+            ],
+            "content":"<div class=\"\"><div> <span>Als du die Dunkelheit bemerktest, schaust du nach oben und k\u00f6nntest es nicht glauben.<br>\r\n<br>\r\nDer gigantische Fu\u00df deiner Mutter kam auf dich herab.<br>\r\n<br>\r\nVor dem schock bist du nach hinten gefallen.<br>\r\n<br>\r\nDann war es aus ihr Fu\u00df war auf dir. Du dachtest du bist erledigt zerquetscht unter dem nackten Fu\u00df deiner Mutter..... </span></div></div>",
+            "created":1552194000,
+            "id":2628324,
+            "title":"... Zu sp\u00e4t ein Schatten ist \u00fcber dir!"
+        },
+        "11532":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "\u00dcberpr\u00fcft das Ger\u00e4usch",
+                "Ach kann ich sp\u00e4ter auch noch machen"
+            ],
+            "content":"<div class=\"\"><div> <span>Die Schmerzen waren unertr\u00e4glich der Geruch noch schlimmer. Immer wenn Anna uf dem Boden trat war es als w\u00fcrdest du vor Schmerzen sterben. Anna ging zum Waschbecken um sich die Z\u00e4hne zu putzen. Als es dir gelingt ein Ger\u00e4usch zu erzeugen \"Mmmmmommmphhb\" . HUCH WAS WAR DENN DAS\" sagte Anna unschuldig fragend. </span></div></div>",
+            "created":1552194000,
+            "id":2628326,
+            "title":".... Du lebst aber klebst an ihrem Fu\u00df"
+        },
+        "115321":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "Anna sp\u00fcrte etwas an ihrer sole",
+                "Anna merkte nichts. "
+            ],
+            "content":"<div class=\"\"><div> <span>\"NAJA ICH GLAUB DAS GER\u00c4USCH KAM VON UNTEN ABER DA IST NICHTS\" Nat\u00fcrlich konnte sie dich nicht sehen du warst ja unter ihrer Fu\u00dfsohle.<br>\r\n<br>\r\nAls du merktest das ihre aufmerksamkeit da war, strengtest du dich so richtig an du wolltest schreien \"Mum ich bin unter dein Fu\u00df rette mich\" doch es kam nichts, du warst zu schwach das einzige was passierte war das deine Zunge die Sohle deiner Mutter ber\u00fchrte. Dies f\u00fchrte dazu das ihr Fu\u00df Schweiz in dein Mund geflossen ist. Das war mit Abstand das ekelhafteste was du je geschmeckt hast. </span></div></div>",
+            "created":1552194000,
+            "id":2628330,
+            "title":"\u00dcberpr\u00fcft das Ger\u00e4usch"
+        },
+        "1153211":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "..... ALEX BIST DU DAS\"",
+                "...... SIEHST JA MISERABEL AUS BESSER DEIN LEBEN ZU BEENDEN TUT MIR ECHT LEID\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"OHH WARUM WIRD MEIN FU\u00df FEUCHT\" fragte sich Anna als sie sich auf die Toilette sa\u00df und ihren linken Fu\u00df anhob und ihre Sole analysierte. Du dachtest ja endlich bitte helf mir. Als Anna sagte \"WAS BIST DU DENN F\u00dcR EIN INSECT DU SIEHST FAST AUS WIE EIN MENSCH MIT KLEIDUNG NUR PAPIER D\u00dcNN.\" sie wartete kurz und addiert \"DAS MIT DEM PAPIER D\u00dcNN D\u00dcRFTE WOHL ICH GEWESSEN SEIN TUT MIR LEID KOMISCHES INSECT\" was verdammt sie glaubt Ich bin ein Insect was soll ich tun?<br>\r\n<br>\r\n<br>\r\nAnna nahm deinen Kopf mit ihrem Daumen und Zeigefinger und rie\u00df dich ohne Vorsicht von ihrer solle. Du wolltest schreien doch konntest nicht.<br>\r\n<br>\r\n\"SO JETZ BIST WEG VON MEINEN SCHWEI\u00df F\u00dc\u00dfEN KLEINES INSECT\" Anna drehte dich um \"MAL SEHEN WIE DU VON VORNE AUSSIE....... WAAAAAS OH MEIN GOTT DU..... </span></div></div>",
+            "created":1552194000,
+            "id":2628337,
+            "title":"Anna sp\u00fcrte etwas an ihrer sole"
+        },
+        "11532111":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "Kannst du mich nicht mitnehmen",
+                "Alles gut (Lisa soll sich um dich (k\u00fcmmern)) "
+            ],
+            "content":"<div class=\"\"><div> <span>\"WAS WIE WARUM WIE UHHH\" Anna schnappte nach Luft und fing an sich langsam zu beruhigen \"OK DU SCHEINST GERADE NICHT IN DER VERFASSUNG ZUM REDEN ZU SEIN ALSO BERUHIGE ICH MICH ERSTMAL\" Du warst schlie\u00dflich platt gedr\u00fcckt. Anna beendete ihren Toilettengang und ging mit dir ins Wohnzimmer und Lage dich auf den Tisch w\u00e4hrend sie auf der couch sa\u00df und dich beobachtete..... 5 min sp\u00e4ter plopptest du auf und warst nun wieder 3d. <br>\r\n<br>\r\n<br>\r\n\"ALEX DU HAST MIR EINIGES ZU ERKL\u00c4REN\" Du warst immer noch fertig von der torture und sagtest \"ic.. Ich w...w...wei..s auch n....n...ni...cht\" Anna hebte ihre linke Augenbraue \"ALSO BIST DU EINFACH OHNE GRUND AUF EINMAL SO KLEIN?\" \"Ja Mum So \u00e4h ist es\" dann bewegte sich Annas Zeigefinger zu ihrer lippe \"ABER DU MUSST WISSEN WARUM DU UNTER MEINEM SCHWITZIGEN FU\u1e9e WARST\" \"nur weil du auf mich gelaufen bist\" dabei verschr\u00e4nktest du deine arme<br>\r\n<br>\r\n\"OH DAS TUT MIR LEID ALEX ABER MIR KANNST DU AUCH KEINE SCHULD GEBEN,<br>\r\n<br>\r\nABER GENUG DAVON ICH MUSS GLEICH ZUR ARBEIT ALSO WIRD LISA SiCH UM DICH K\u00dcMMERN\" du begannst zu zittern bei dem Gedanken das Lisa sich um dich (k\u00fcmmert) sie w\u00fcrde deine Situation direkt ausnutzen. <br>\r\nAnna schmunzelte und fragte \"IST DIR KALT SOLL DICH MEIN FU\u00df AUFW\u00c4RMEN ODER WARUM ZITTERST DU\" \"Mum das ist nicht lustig\" Anna seufzte \"ICH WEI\u00df ABER WARUM ZITTERST DU DENN\" <br>\r\n<br>\r\n\"es ist nichts\" du wandest deinen Blick ab. <br>\r\n<br>\r\nAnna drehte deinen Kopf so das du ihr wieder in die Augen schaust \"HMMM VIELLEICHT ERF\u00c4HRT LISA JA MEHR VON DIR WENN DU MIR NICHT VERTRAUST\" Anna war bereits dabei Lisa zu rufen als du sie unterbrachst \"WAS IST DENN JETZ SCHON WIEDER\" <br>\r\n</span></div></div>",
+            "created":1555390800,
+            "id":2645503,
+            "title":"..... ALEX BIST DU DAS\""
+        },
+        "115321111":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "Bei der Arbeit ",
+                "Nach der Arbeit "
+            ],
+            "content":"<div class=\"\"><div> <span>Anna verzog ihr Gesicht und hebt ihre rechte Augenbraue an. Ihr Gesicht sah angeeckelt aus doch du wei\u00dft nicht warum \"Mum warum schaust du so?\" \"DU W\u00dcRDEST DAS BEVORZUGEN ANSTATT DAS DEINE SCHWESTER AUF DICH ACHTET?\" Du nicktest extrem viel \"ja aufjeden Fall immer!\" \"DU SCHERZT DOCH GERADE ODER?\" \"Nein wieso sollte ich?\"<br>\r\n\"WEIL ICH ACHT STUNDEN ARBEITE UND ICH DURCH DEN VORFALL MIT DIR NICHT DUSCHEN KONNTE\" du hebtest deinen Daumen hoch und sagtest l\u00e4chelnd \"und dann richst du halt muss dir nicht peinlich sein tu einfach so als w\u00e4re ich garnicht da.\".............nach 2 min schweigen erhob sich Anna \"OK WENN DU DAS UNBEDINGT M\u00d6CHTEST UND DU BIST DIR GANZ SICHER DAS DU DAS WILLST MIT MIR KOMMEN UND DAS ICH SO TUE ALS W\u00c4REST DU GARNICHT DA?\" \"Klar mum was ist schon dabei?\" \"OK DANN ZIEH ICH MICH NUR SCHNELL UM\"...... 5 min sp\u00e4ter kam Anna wieder ins Wohnzimmer in ihrer B\u00fcro Uniform es war ein dunkel blaues jacket das ihrer Figur schmeichelt ihre Haare waren zusammengebunden und ihr Gesicht hatte nur leichtes betonendes makeup ihre untere Bekleidung war ein ebenfalls dunkler eng anliegende Rock nun war sie nur noch h\u00fcbscher<br>\r\nSie kam immer n\u00e4her als dir auffiel das sie noch barfu\u00df war und ihre Schuhe und Socken in der Hand hielt \"Mum Warum bist du noch barfu\u00df?\" jedoch kam keine Antwort sie hatte bereits Kopfh\u00f6rer ohne Kabel in den Ohren und h\u00f6rt wohl Musik. Nun sa\u00df sie sich neben dich und legte dich auf den Boden. Du mittlerweile am schreien \"Mum Was tust du da hallo!!! \" doch wie zuvor keine Antwort Anna hob lediglich ihren rechten fu\u00df und stapfte auf dich bis du erneut platt an ihrer solle klebtest. Sie hob ihr Bein nam ihre Kopfh\u00f6rer raus und pullte dich ab<br>\r\n<br>\r\n\"ICH KANN ES IMMER NOCH NICHT FASSEN DAS DU DAS HIER WILLST ABER ES WAR DEINE ENTSCHEIDUNG VORALLEM DA\u00df MIT DEM TU SO ALS W\u00c4RE ICH GARNICHT DA UND DANN RIECHST DU HALT EIN BISSCHEN H\u00c4TTE ICH NICHT VON DIR ERWARTET NAJA IMMERHIN WEI\u00df ICH JETZ VON DEINEM FU\u1e9eFETISCH HEY WEISST DU WAS ICH GEH HEUTE BARFU\u00df ARBEITEN. \" l\u00e4chelte Anna <br>\r\nAls sie dich wieder gegen ihren Fu\u00df dr\u00fcckte diesmal aber darauf achtet das dein Kopf in der zwischenh\u00f6hle ihres dicken und und zweiten Zeh fest fixiert ist\" SO SOLLTE DAS ATMEN LEICHTER FALLEN DAMIT DU ES AUCH SCH\u00d6N GENIE\u00dfEN KANNST ALSO DANN VIEL SPASS ALEX DENN AB JETZ EXESTIERST DU F\u00dcR MICH NICHT MEHR\" Das letzte was Du sehen konntest war das L\u00e4cheln deiner Mutter bevor du mit ihrem Fu\u00df in ihren hochhackigen Schuhen verschwunden warst. <br>\r\n<br>\r\n<br>\r\nGerade eben ist deine Welt g\u00e4nzlich zusammengefallen. <br>\r\n</span></div></div>",
+            "created":1555390800,
+            "id":2645514,
+            "title":"Kannst du mich nicht mitnehmen"
+        },
+        "11532112":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "ALEX\" (Sie erkennt dich nun) ",
+                "\"NOCH AM LEBEN SEH ICH NAJA IN DER RICHTIGEN FORM BIST DU JA\" "
+            ],
+            "content":"<div class=\"\"><div> <span>Du warst zu platt und schwach um zu protestieren du sagst nur wie deine Mutter ihre Jeanshose runter zog und zu pissen anfing pssssss \"SO JETZ ZU DIR WIE BEENDE ICH DEIN LEBEN\" nach kurzer Zeit sagte Anna \"OH ICH WEI\u1e9e DA ICH DICH AN MEINEM FU\u00df GEFUNDEN HABE WERDEN DIESE IHREN JOB JETZ BEENDEN\" da kicherte Anna leicht.<br>\r\n<br>\r\nDeine Mutter legte Dich zu ihren F\u00fc\u00dfen und hob ihr rechtes Bein um ihren Fu\u00df auf dir zu platzieren. Sie erh\u00f6hte langsam... Sehr langsam den Druck als w\u00fcrde sie dich bzw das insect in ihren Augen qu\u00e4len wollen. Nach 2 Minuten begann sie dich wie eine zigarette auszudr\u00fccken. <br>\r\n<br>\r\nDiese uns\u00e4glichen Schmerzen du w\u00fcrdest immer platter und weiter auseinander gedr\u00fcckt wodurch deine Fl\u00e4che gr\u00f6\u00dfer wurde. Dein Mund nun komplett ge\u00f6ffnet und der Fu\u00df deiner Mutter vor und zur\u00fcck gehend wudurch Deine zung nach und nach allen Dreck und Schweiz vom fu\u00df entfernte. <br>\r\n<br>\r\nAnna hob dich auf \"BIST DU JETZ TOT ICH HOFFE F\u00dcR DICH DENN SONST....\" </span></div></div>",
+            "created":1552194000,
+            "id":2628344,
+            "title":"...... SIEHST JA MISERABEL AUS BESSER DEIN LEBE..."
+        },
+        "115321121":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "Links(unbewusst zerquetscht) ",
+                "Rechts(bewusst zerquetscht) "
+            ],
+            "content":"<div class=\"\"><div> <span>Anna beendete ihren Toiletten Gang ging ins Wohnzimmer und lag dich auf den Tisch und sagte \"WAS WIE WANN ICH UHH, OK WARUM BIST DU SO KLEIN? \" nun da du nicht mehr zerquetscht wirst bist du wieder in alter Form. Du antwortest \"ich wei\u00df es nicht Ma\" du sagst das deine Mutter \u00fcberlegte was sie als n\u00e4chtes sagt.<br>\r\n\"WARUM WARST DU UNTER MEINEM LINKEN FU\u1e9e ?\" du sagst nur \"du liefst auf mir drauf Mum.\" Anna zog ihre rechte Augenbraue hoch \"WARUM HAST DU NICHTS VORHER GESAGT ODER GERUFEN?\" Dir war nicht klar was diese Fragen zur allgemeinen Situation n\u00fctzen. Also antwortest Du \"ich dachte Du w\u00fcrdest mich ohnehin nicht h\u00f6ren und ich war erstarrt vor Angst\". Deine Mutter sah dir direkt in die Augen und fragte \"Warum wurde mein Fu\u00df feucht?\" Nun warst du sichtlich verwirrt \"wieso feucht?\" \"NAJA ALS ICH SAGTE DAS EIN GER\u00c4USCH VON UNTEN KAM WURDE MEIN LINKER FU\u00df FEUCHT\" Alex wusste nicht wo das hinf\u00fchren sollte \"warum fragst du das Mum?\" \"ANTWORTE EINFACH JA SCHATZ\"  du dachtest nur nagut \"ich versuchte zu schreien wudurch mein Mund sich ge\u00f6ffnet hat und meine Zunge deine Fu\u00dfsohle ber\u00fchrte\" Anna kicherte als du das sagtest <br>\r\n<br>\r\n\"ALSO HAST DU FREIWILLIG AN DER FU\u00dfSOHLE DEINER MUTTER GELECKT?\" Du siehst nun wie Deine Mutter leicht schmunzelte. \"Nein\" erwidertest Du mit einem angewiederten Blick. Anna nicht weiter auf das nein eingehend fragte \"WELCHER FU\u1e9e GEFIEL DIR MEHR ALEX DER LINKE ODER DER RECHTE? Du bist nun schon sauer und erwiederst\" Keinen von denen k\u00f6nnen wir jet\" Du wurdest von Anna unterbrochen \"AWWWW KLEIN ALEX MAG BEIDE F\u00dc\u00dfE GLEICHERMA\u00dfEN ABER KOMM DU MUSST EIN FAVORITEN HABEN,WENN DU ES NICHT SAGEN WILLST IST ES OK DU KANNST AUCH EINFACH ZUM FAVORITEN GEHEN UND DIESEN LECKEN UM DEINE ZUNEIGUNG ZU ZEIGEN\" w\u00e4hrenddessen platzierte Anna ihre beiden F\u00fc\u00dfe auf den Tisch direkt vor dir. \"ICH WARTE ALEX UND MEINE F\u00dc\u00dfE AUCH\" du warst fassungslos \" Mum bitte tu mir das nicht an!\" deine Mutter sagte nichts \" Mum bitte h\u00f6r doch\" da sagte deine Mutter \"ERST MUSST DU DICH ENTSCHEIDEN SOHNEMANN\" </span></div></div>",
+            "created":1552194000,
+            "id":2628355,
+            "title":"ALEX\" (Sie erkennt dich nun) "
+        },
+        "1153211211":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "Dem was deine Mutter will hast keine andere wahl",
+                "Nein niemals"
+            ],
+            "content":"<div class=\"\"><div> <span>Du gingst zu ihrem linken Fu\u00df und fingst langsam an deine Zunge zu n\u00e4hern als deine Zunge Annas Fu\u00dfsohle ber\u00fchrte kicherte sie nur \"DAS WAR DOCH KEIN LECKEN ALEX DAS KANNST DU BESSER!\"Du wusstest protestieren bringt nichts und zogst Deine Zunge einmal hoch und runter. Anna lachte nur.\" Mum kann ich jetz... \"du w\u00fcrdest erneut unterbrochen\" EIN BISSCHEN MEHR ANSTRENGEN BITTE SONST IST MEIN LINKER FU\u00df GANZ ENTT\u00c4USCHT. \" Du f\u00fchltest Dich derart erniedrigt doch hattest keine Wahl und fingst an ihre sole zu lecken von oben nach unten 10 Minuten lang dann sagte deine Mutter lachend\" WOW ALEX DU LECKST MEINEN FU\u00df JA ECHT GERNE HAHAHA DAS DU DAS FREIWILLIG MACHST H\u00c4TTE ICH NICHT ERWARTET ABER AUFHALTEN WILL ICH DICH NICHT MACH RUHIG WEITER. \" Du schweigtest f\u00fcr eine kurze Zeit und sagst\" Du sagtest mir ich soll das tun bevor wir weiter reden was jetz zu tun ist\" Anna l\u00e4chelte und erwiderte \" NEIN ICH SAGTE KOMM DU MUSST EIN FAVORITEN HABEN,WENN DU ES NICHT SAGEN WILLST IST ES OK DU KANNST AUCH EINFACH ZUM FAVORITEN GEHEN UND DIESEN LECKEN UM DEINE ZUNEIGUNG ZU ZEIGEN. DU SIEHST DU HATTEST EINE WAHL DU H\u00c4TTEST AUCH EINFACH SAGEN K\u00d6NNEN DAS DU MEINEN LIKNEN FU\u1e9e LIEBER HAST. UND DU HAST DICH ENTSCHIEDEN AUS FREIEN ST\u00dcCKEN DIE SOHLE ZU LECKEN UND DANN NOCH F\u00dcR GANZE 10 MINUTEN ALSO HATTEST DU MEHRERE ENTSCHEIDUNGEN.<br>\r\n<br>\r\n<br>\r\n1: LECKEN JA NEIN DU ENTSCHIEDS JA<br>\r\n<br>\r\n2: AUFH\u00d6REN ZU LECKEN NEIN SCHLIE\u00dfLICH HAB ICH DICH GERADE UNTERBROCHEN WER WEI\u00df WIE LANGE DU GELECKT H\u00c4TTEST. <br>\r\n<br>\r\n3: DU H\u00c4TTEST JEDESMAL FRAGEN K\u00d6NNEN REICHT DAS MUM UND ICH H\u00c4TTE DIR EINE EHRLICHE ANTWORT GEGEBEN.<br>\r\n<br>\r\nZU DENKEN DAS ICH EIGENTLICH NUR EIN WITZ MACHEN WOLLTE DU ALSO GARNIX H\u00c4TTEST MACHEN BRAUCHEN. KANNST DU MIR JETZ KEINE SCHULD F\u00dcR DEINE AKTIONEN GEBEN. \" Du standst einfach regungslos da und wusstest nicht was du sagen solltest du nach dieser ausf\u00fchrung von Fakten h\u00e4ttest du unbewusst und doch irgendwie freiwillig die Sohle deiner Mutter geleckt. Anna bewegte dann ihren linken Fu\u00df zu dir und packte deinen Kopf mit ihrem dicken und zweitem Zeh. Zwischen den Zehen war der Gestank noch schlimmer. Dann lie\u00df sie dich auf ihre Hand fallen und fl\u00fcsterte verspielt \"HAST DU NUN FREIWILLIG DIE LINKE FU\u00dfSOHLE DEINER MUTTER GELECKT ODER NICHT? Um dir zuzufl\u00fcstern neigte sie sich nach vorne und du sahst ihren Ausschnitt\" HMM ANTWORTEST DU MIR NOCH? \" Du hast Dich entschieden Dir fallen keine Gegenargumente ein und antwortest mit\" <font class=\"size2\" style=\"\">ja</font>\"Anna fing an erneut zu grinsen und sagte\" KOMM SCHON ALEX KANNST DU AUCH EINEN GANZEN SATZ DARAUS MACHEN\" \"worauf willst du hinaus Mum? Anna kicherte\" ICH WILL DAS DU SAGST JA MEINE LIEBEVOLLE MUTTER ICH HABE DEINE WUNDERSCH\u00d6NE FU\u00dfSOHLE FREIWILLIG MIT VOLLER FREUDE GELECKT UND W\u00dcNSCHTE MIR DAS ICH DAS IMMER MACHEN DARF! \" du warst erneut erstarrt und antwortest mit</span></div></div>",
+            "created":1552194000,
+            "id":2628361,
+            "title":"Links(unbewusst zerquetscht) "
+        },
+        "11532112112":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "Lisa deiner gro\u00dfen meist dominant auftretenden schwester",
+                "Julia deine kleine Schwester ihr kamt immer gut miteinander aus. "
+            ],
+            "content":"<div class=\"\"><div> <span>\"nein das werde ich nicht sagen Mum ich m\u00f6chte deine F\u00fc\u00dfe nie wieder sehen\" da beginnst du zu weine. Anna erwiderte schnell \"OH DA HAB ICH WOHL \u00dcBERTRIEBEN WAS. HEHE NAJA HATTE GENUG SPA\u00df DICH ZU QU\u00c4LEN. ALLES IST JETZ WIEDER GUT Versprochen.\" Dabei l\u00e4chelte Anna unschuldig.\" Ich muss nichts mehr mit deinen F\u00fc\u00dfen machen? \" Anna sah dir wieder direkt in die AUGEN\"DU H\u00c4TTEST NIE ETWAS TUN M\u00dcSSEN ES SEI DEN DU M\u00d6CHTEST. ICH WERDE MIR DENNOCH MERKEN DAS DU DEN FU\u1e9e W\u00c4HLTEST DER NICHT WUSSTE DAS DU UNTER IHM WARST HEHE. \" Du warst verwirrt bist du jetz befreit oder nicht \"Mum was unternehmen wir jetz kann ich jetz kann ich wieder gro\u00df werden.\"<br>\r\n<br>\r\n\"ICH WEI\u00df ES NICHT ABER ICH MUSS JETZ ZUR ARBEIT IN DER ZWISCHEN ZEIT KANN EINE DEINER SCHWESTERN AUF DICH AUFPASSEN.\" sie legte dich den Boden und rief nach</span></div></div>",
+            "created":1552194000,
+            "id":2628370,
+            "title":"Nein niemals"
+        },
+        "115321121121":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "Sie kommt runter ",
+                "Keine reaktion"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"LISA KOMMST DU KURZ RUNTER!\" </span></div></span></div>",
+            "created":1552194000,
+            "id":2628371,
+            "title":"Lisa deiner gro\u00dfen meist dominant auftretenden..."
+        },
+        "1153211211212":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "Alex ist unter deinen Rechten fu\u00df",
+                "Oh ich dachte der Witz sei besser"
+            ],
+            "content":"<div class=\"\"><div> <span>\"HMM SIE MUSS WOHL NOCH SCHLAFEN ALEX DU SOLLTEST SIE WECKEN ICH HAB KEINE ZEIT MEHR BIS HEUT NACHMITTAG.\" Da ging sie aus dem Haus. Wow Wie soll ich sie den jetz wecken hmm mir f\u00e4llt schon was ein dachtest du dir und gingst zu ihr zimmer als die T\u00fcr sich \u00f6ffnete und deine gro\u00dfe Schwester herraustrat und ihr Fu\u00df nun \u00fcber dir hing riefst du\" Lisa nichmnnmmmppphh\" Lisa sah sich verwirrt um \"HUH WAR DA WAS HMM NAJA WENN NIEMAND ZWEIMAL RUFT KANNS NICHT WICHTIG SEIN\" g\u00e4hnte Deine Schwester als sie zur\u00fcckging und sich anzog sie trug eine enge Hotpants sowie ein sommerliches Oberteil welches ihren Ausschnitt auspr\u00e4gte dazu eine dunkelbraune Strumpfhose. Du befandest dich am rechten Fu\u00df so das dein Kopf zwischen den dicken und zweiten Zeh fest fixiert befand, so da\u00df dein Gesicht fest gegen ihre Haut gedr\u00fcckt wurde. als du versuchtest zu reden dr\u00fcckt sich ein st\u00fcck ihrer Haut in deinen Mund somit bist du nicht mehr in der Lage deine Mund zu schlie\u00dfen. Es war gerade erst 10:30 deine Mutter kommt erst 17:30 nach Hause verdammt jede Minute wurde schlimmer du musstest den Schwei\u00df deiner Schwester trinken dein gesamter K\u00f6rper abgesehen von dein Kopf war platt wie Papier erneut. Du warst miserabel und wusstest nicht wie sp\u00e4t es war als die ersten Toten hautst\u00fccke in deinem Mund landeten doch du war nicht in der Lage diese runterzuschlucken dein K\u00f6rper war zu d\u00fcnn feste Dinge zu schlucken.eine ewigkeit sp\u00e4ter \u00f6ffnete sich die Haust\u00fcr \"OH HI MUM WIE WAR DEIN TAG?\" Lisa fragte interessiert. \"OH WUNDERBAR ICH HATTE HEUTE VIEL SPASS WIE IST ES MIT DIR UND ALEX GELAUFEN?\" Lisa schaute verwirrt \"WISSO WAS IST MIT ALEX\" Anna sagte nur \"KOMMISCH ER SOLLTE DICH EIGENTLICH WECKEN DAMIT DU AUF IHM AUFPASST WEIL ER MYSTERI\u00d6SER WEISE GESCHRUMPFT IST.\" Lisa lachte \"DU MACHST WIZE\" Anna suchte nach dir als sie deinen Kopf sah konnte sie ihr kichern nicht zur\u00fcckhalten. Du konntest es nicht fassen deine Mutter lachte \u00fcber deine Situation. Lisa fragte \"WARUM LACHST DU JETZ MUM?\" Anna antwortete </span></div></div>",
+            "created":1552194000,
+            "id":2628374,
+            "title":"Keine reaktion"
+        },
+        "11532112112121":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "... DAS DU IHM DAS ANTUST\"",
+                "....... WENN ER DAS GERNE MACHT H\u00c4TTE ICH IHN JA AUCH BENUTZEN K\u00d6NNEN. "
+            ],
+            "content":"<div class=\"\"><div> <span>Lisa schaute nach unten und sagte \"WARUM IST ER SO KLEIN UND UNTER MEINEN RECHTEN FU\u1e9e?\" Anna antwortete \"WARUM ER KLEIN IST KEINE AHNUNG ABER UNTER DEINEM FU\u00df IST ER WOHL AUS DEM SELBEN GRUND WARUM ER UNTER MEINEM WAR BIST WOHL AUCH AUF IHN GETRETTEN.\" Lisa sa\u00df sich auf die Couch und wunderte sich \"WIE HAST DU HERAUSGEFUNDEN DAS ER UNTER DEINEN F\u00dc\u00dfEN WAR\" Anna antwortete \"ER LECKTE ZUERST MEINE SOLE DADURCH WURDE ES FEUCHT DACHTE ABER ERST ES W\u00c4RE EIN INSECT GEWESSEN.... sie erz\u00e4hlt alles also wirklich alles....... Nachdem alles gesagt wurde sieht Lisa zu dir herab (ja obwohl sie wissen wo du bist bist du immer noch dort.) und sagte \"UM ZUSAMMENZUFASSEN ERSTMAL ERKL\u00c4RT DAS DIE ANGENEHME FEUCHTIGKEIT IN MEINEM ZEHZWISCHENRAUM HEI\u00dfT DU LECKST DA SCH\u00d6N DENN SCHMUTZ UND SCHWEI\u00df RAUS. ZUM ZWEITEN DU HAST FREIWILLIG DIE SOLE UNSERER MUTTER GELECKT 10 MINUTEN LANG..... .WURDEST ZWEIMAL UNTER F\u00dc\u00dfEN GEFUNDEN..... MUM ICH GLAUB WIR HABEN HIER EINEN FU\u1e9eFETISCHISTEN. \"<br>\r\n Anna lachte dar\u00fcber und sagte\" DAS GLAUBE ICH NICHT SIEH IHN DIR DOCH AN ER SIEHT JA FAST TRAUMATISIERT AUS SEI SO GUT UND LASS IHN RAUS JA. \" Lisa erwiderte\" OK ICH LASS IHN RAUS\"<br>\r\n<br>\r\n<br>\r\nSie nahm dich in die Hand und ging ins Badezimmer \" MUM KOMM MIT\" \"OK WAS HAST DU VOR LISA\" \"ICH MUSS ALLES GESCHEHENE ANALYSIEREN AM BESTEN INDEM ES NACHGESTELLT WIRD JETZ LAUF \u00dcBER IHN WIE DU ES MIR BESCHRIEBEN HAST\" Anna grinste \"ICH HABE IHM VERSPROCHEN DAS ER NICHTS MEHR MIT MEINEN F\u00dc\u00dfEN ZUTUN HABEN WIRD\" Lisa trat dann auf dir drauf \"WAR ES UNGEF\u00c4HR SO ODER WO WAR ER AN DEINEM FU\u1e9e?\" Anna sah zu Lisas linken Fu\u00df undm sagte \"JA SO WAR DAS\" Lisa nickte und ging zum Waschbecken \"WAS PASSIERTE JETZ MUM?\" \"NUN JETZ LECKTE ER MEINEN FU\u00df\" \"ALLES KLAR ALEX FANG AN....... ALEX ERDE AN ALEX DU MUSST DIE FU\u1e9eSOHLE DEINER SCHWESTER JETZ LECKEN ICH WARTE.\" Als du dich weigerst hob sie ihren Fu\u00df an und stampfte auf den Boden was dir nur noch weitere Schmerzen bringt \"DAS HABE ICH NICHT GEMACHT LISA!\" \"ES IST ZU SEINEM BESTEN MUM WIR M\u00dcSSEN ALLES WISSEN UND DURCHDENKEN UM ALEX ZU RETTEN\" \"OK LISA HAT RECHT LOS NUR EINMAL LECKEN ALEX SO SCHLIMM KANNS NICHT SEIN HASTS BEI MIR JA AUCH GEMACHT\" als Anna das sagte musste sie erneut kichern.<br>\r\n<br>\r\nDu hattest keine Wahl und vmstreckst deine Zunge raus<br>\r\n<br>\r\n\"AH JA ALLES KLAR JETZ AUF DIE TOILETTE ZUM GL\u00dcCK MUSS ICH PINKELN\" sie rie\u00df dich vom linken Fu\u00df lag dich unter ihrem rechten und tat wie Mutter beschrieb presste langsam immer st\u00e4rker runter und begann danach dich wie eine Zigarette auszutretten als du platt warst nahm sie dich hoch \"HIER ERKANNTE ICH IHN UND BRACHTE IHN INS WOHNZIMMER\" sagte Anna \"OK DANN MACHEN WIR DAS DOCH ZUERST MUSS ICH NOCH\" Du sagst wie Deine Schwester in die Toilette schei\u00dft. Danach dreht sie sich zur Seite \"WIR  HABEN KEIN TOILETTENPAPIER MEHR\" \"OH ICH HOL WELCHES LISA\"  Lisa l\u00e4chelte ehm klar. als Anna das Badezimmer verl\u00e4sst grinste Lisa dich an \"WIE NAH WARST DU DRANN ALS TOILETTENPAPIER ZU DIENEN?\" als sie das sagte n\u00e4herte sie dich ihrer piss nassen vagina du bist nun 10 cm entfernt von ihrer vagina \" ODER NOCH N\u00c4HER KLEINER ALEXIIIII\" nun warst du nur noch 5 cm entfernt \"NAJA 100% ALLES GLEICH SIMULIEREN K\u00d6NNEN WIR JA EH NICHT MEHR HAST DICH JA GEWEIGERT MEIN FU\u00df ZU LECKEN ALSO MACHT DAS WOHL KAUM EIN UNTERSCHIED\" und damit begann sie dich brutal gegen ihre vagina zu dr\u00fccken mit kreisenden Bewegungen wischt sie mit dir ihre gesamte fotze sauber w\u00e4hrend du ihre pisse schlucken musstest lachte sie nur HAHAHAHAHIHIHIHI \"WIE F\u00dcHLT SICH DAS AN DU PERVERSES INSECT HUH KANNST DU NICHT REDEN HMMM SELBST DAF\u00dcR ZU DUMM WAS HA ICH KANN NICHT GLAUBEN DAS DU MICH DARUM GEBETEN HAST.\"<br>\r\n<br>\r\nWarum sagt sie du h\u00e4ttest sie darum gebeten du warst v\u00f6llig zerst\u00f6rt von all diesen Gedanken der Geschmack Geruch Schmerz warum war sie so<br>\r\n<br>\r\n\" LISA ICH KANN NICHT GLAUBEN...... </span></div></div>",
+            "created":1552194000,
+            "id":2628391,
+            "title":"Alex ist unter deinen Rechten fu\u00df"
+        },
+        "115321121121212":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "Klo Junge(Anna entscheidet du bist jetz bis ans Ende deiner Tage Klopapier bis)",
+                "\"BEEILE DICH LISA ICH MUSS AUCH MAL\" (story geht weiter) "
+            ],
+            "content":"<div class=\"\"><div> <span>Grinste Anna schelmig. Du konntest es nicht fassen Lisa war schon immer gut darin zu l\u00fcgen, wobei nein eigentlich ist unsere Mutter nur unglaublich naiv. Lisa sagte nur \"JETZ KANNST DU MIR JA DIE ROLLE GEBEN UND DIESES PERVERSE PISS LAPPEN INS WASCHBECKEN LEGEN ICH WASCHE IHN DANN GLEICH.\" in diesem Moment nahm Anna dich aus Lisas Hand, ohne ihr das Klopapier zu geben. Lisa schaute verwirrt \"EH MUM ICH BRAUCH DIE ROLLE MEIN ARSCH MUSS AUCH GES\u00c4UBERT WERDEN.\" Anna der weil ignorierte Lisa als die dich gewaschen hat \"ICH KANNS NICHT FASSEN DAS DU DAS WIRKLICH WILLST ICH MEINE F\u00dcSSE SIND SCHON EKLIG ABER DAS...\" seufzte deine Mutter und drehte sich zu Lisa \"HIER DU KANNST IHN JETZ WIEDER VERWENDEN.\" Lisa sah geschockt aus und erwiderte \"MUM... ICH.. UH WEI\u00df NICHT... ER FRAGTE NICHT NACH... NAJA DER.... HINTERT\u00dcR FALLS DU VERTSEHST. \" Anna derweil war sah dich entt\u00e4uscht an \"WAS SAGTE ER DENN GENAU?\" Lisa nerv\u00f6s nach links und rechts. Haha jetz hast du keine Antwort was Lisa. Mom jetz musst du merken das dass ein abgekatertes Spiel ist jawohl! \"NUN ER WOLLTE DAS ICH IHN NUTZE ER SAGTE....... LISA ICH.. \u00c4H... WEI\u00df NUN DAS DAS VIELLEICHT.... ETWAS KOMISCH KLINGT ABER ICH WEI\u00df DAS ICH NUR DICH FRAGEN KANN DA DU SO VERST\u00c4NDNISVOLL BIST. ICH M\u00d6CHTE..... NUN IRGENDWIE WEITER DOMINIERT WERDEN ICH KONNTE DIES VOR MUTTER NICHT SAGEN. ICH FRAGTE IHN DANN WAS ICH TUN K\u00d6NNTE ER ZEIGTE NUR AUF MEINE VAGINA UND SAGTE SAUBER MACHEN WIRST DU SIE JA EH ODER NICHT? JA SICHERLICH ERWIEDERTE ICH ALS ICH MERKTE WORAUF ER HINAUS WOLLTE DANN TAT ICHS\" Deine Mutter sah dich an und sah eine Tr\u00e4ne an dir runterkulern \"LISA ICH WEI\u00df NICHT SO RECHT VIELLEICHT SOLLTE ICH ALEX FRAGEN WAS GENAU PASSIERT IST?\" ja ja ja yes yes yes si si si vielleicht \u00e4ndert sich alles \"Danke\" endlich bekommt \"Lisa\" das was sie verdient und ich kann \"Mum\" sagen das \"ich\" kein \"Klopapier sein will\"<br>\r\n<br>\r\nDu bemerktest nicht das du langsam reformiertest und einzelne Worte von dir nicht gedacht sondern gesagt wurden. Lisa sah dich mit grossen Augen an doch sie realisierte schnell was geschehen war und grinste dich unschuldig an \"ABER ABER ALEX DAF\u00dcR SIND GROSSE SCHWESTERN DOCH DA\" ein kichern erhellte denn Raum. Du jetz unsicher was geschehen ist \"wie was hab ich gesagt was ist los? Anna lag dich auf dem Boden und sagte\" NUR DIE WARHEIT SCHATZ UND DA DU WOHL GERNE DOMINIERT WIRST BIN ICH SO FREI MEIN VERSPRECHEN ZU BRECHEN\" derweil sahst Du nur ihren Fu\u00df \u00fcber dich heben \"nein Mum warte ich neimmmmmph\" da stampfte Anna uf dich und fing dann an auf einem Bein auf dir zu h\u00fcpfen \"NA WIE GEF\u00c4LLT DIR DAS DU KLEINES NUTZLOSES Insect\" Deine nun wieder platt gedr\u00fcckt Form \u00dcbergang Sie Lisa die nur noch \u00fcber alle Ohren grinste sie sagte nichts fing nur na dich langsam ihren Hintern zu n\u00e4hern als du dann kontakt zu ihrer scheisse hattest fing sie wieder mit kreisbewegungen an um sicherzustellen. Das dein Mund sich auch ja \u00f6ffnet. </span></div></div>",
+            "created":1564376400,
+            "id":2694057,
+            "title":"....... WENN ER DAS GERNE MACHT H\u00c4TTE ICH IHN ..."
+        },
+        "11532112112122":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "Zur party",
+                "Party \u00fcberspringen"
+            ],
+            "content":"<div class=\"\"><div> <span>Als Anna das sagte waren deine Hoffnungen zerst\u00f6rt warum sagt sie nicht wo ich bin.... Du errinerst dich deine Mutter sagte dir sie w\u00fcrde sich merken das du ihren linken Fu\u00df der nicht wusste das du unter ihm bist gew\u00e4hlt hast... verdammt denkt sie wirklich das mir das gef\u00e4llt.<br>\r\n<br>\r\nAnna dachte derweil ich muss Lisa ja kein schlechtes Gewissen machen ich kann ihn ja morgen fr\u00fch oder heute abend befreien ausserdem m\u00f6chte er es lieber als ich nicht w\u00fcsste das er unter meinen F\u00fc\u00dfen war also eine klare win win situation. <br>\r\n<br>\r\n\"UHH JA SEHR WITZIG MUM ICH GEH DAN MAL ZUM TANZABEND.\" Anna sah nocheinmal herab zu dir l\u00e4chelte und umarmte Lisa \"WHOA MUM JETZ MACHST DU MIR ANGST\" Anna sagte \"HEY WEI\u00dfT DU WAS ICH FAHR DICH HIN UND ZUR\u00dcCK\" Lisa war jetz total durcheinander \"WIESO DAS? \"  Anna presste Lisa jetz direkt an sich und hob ihre linken Fu\u00df an um so mit ihrem linken Fu\u00df deinen Kopf noch weiter gegen die fu\u00dfhaut deiner Schwester zu pressen \"LISA DU BIST ERWACHSEN SO KANNST DU RICHTIG FEIERN.\" \"UHH OK MUM K\u00d6NNEN WIR DANN LOS?\" <br>\r\nAnna dachte nur wenn Lisa betrunken einschl\u00e4ft ist es einfacher dich ohne das sie es merkt zu entfernen hmmhmm ich bin so klug..... </span></div></div>",
+            "created":1552194000,
+            "id":2628377,
+            "title":"Oh ich dachte der Witz sei besser"
+        },
+        "115321122":{
+            "author_id":"dandalionas",
+            "author_name":"Dandalionas",
+            "choices":[
+                "\"JA DU BIST JETZ MEIN KLOPAPIER F\u00dcR Immer\" ",
+                "\"ACH WEIST DU ALEX ICH W\u00dcRDE DICH NIEMALS RUNTERSP\u00dcLEN\" (alles Absicht) "
+            ],
+            "content":"<div class=\"\"><div> <span>Anna presste stark und schei\u00dfte nun auch in die Toilette \"DAS WIRD DEINE ENDSTATION KLEINER H\u00c4TTEST VORHER STERBEN SOLLEN\" kicherte deine Mutter als sie deine Papierform nutzte um ihre pisse abzuwischen \"VERGISS NICHT ES WAR DEINE ENTSCHEIDUNG NICHT ZU STERBEN\" grinste Anna du hattest keine Wahl als ihre pisse deinen Mund sowie deine Zunge ber\u00fchrte m\u00fcsstest du schlucken du dachtest das vorher war schlimm. \"HEY DU BIST GUT ZUM ABWISCHEN VIELLEICHT BEHALTE ICH DICH ALS KLOPAPIER\" nun wurdest Du nach hinten gebracht um ihren Arsch abzuwischen da sagten Anna</span></div></div>",
+            "created":1552194000,
+            "id":2628345,
+            "title":"\"NOCH AM LEBEN SEH ICH NAJA IN DER RICHTIGE..."
+        },
+        "12":{
+            "author_id":"ninajason",
+            "author_name":"Nina",
+            "choices":[
+                "Sie rennt in julias zimmer hinein",
+                "Julia geht zu nadine",
+                "Du suchst etwas zum verstecken",
+                "Du rennst wider raus",
+                "Mehr"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Du rennst schnell zu deiner schwester julia. Als du das zimmer betrittst hast du gemerkt das ihr zimmer nicht gerade aufger\u00e4umt war. Pl\u00f6tzlich h\u00f6rst du die klingel als du dich wieder erinnerst das deine cousine nadine zu besuch kam. </span></div></span></div>",
+            "created":1534914000,
+            "id":2537350,
+            "title":"Du gehst in das Zimmer von Julia um sie um Hilf..."
+        },
+        "121":{
+            "author_id":"ninajason",
+            "author_name":"Nina",
+            "choices":[
+                "Du steckst an ihrer sohle fest",
+                "Sie l\u00e4ift weiter als du am boden bleibst",
+                "Mehr"
+            ],
+            "content":"<div class=\"\"><div> <span>Du h\u00f6rst wie fussschritte n\u00e4her kommen als dann die t\u00fcr aufging. Eine riesige nadine ware vor dir. Nadine laufte vorw\u00e4rts als ihr gigantischer fuss \u00fcber dir war. Die sohle war nass von ihrem schweiss. Sie trug rosa socken. Ihr fuss krachte runter  als du unter ihr warst. Der gestank war unertr\u00e4glich und das gef\u00fchl gr\u00e4sslich</span></div></div>",
+            "created":1535086800,
+            "id":2538330,
+            "title":"Sie rennt in julias zimmer hinein"
+        },
+        "123":{
+            "author_id":"ninajason",
+            "author_name":"Nina",
+            "choices":[
+                "Du versteckst dich in einem schuh",
+                "Du versteckst dich in einen trainingsbeutel",
+                "Du versteckst dich unter dem bett"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Du suchst dir ein gutes versteck</span></div></span></div>",
+            "created":1535432400,
+            "id":2540102,
+            "title":"Du suchst etwas zum verstecken"
+        },
+        "1231":{
+            "author_id":"ninajason",
+            "author_name":"Nina",
+            "choices":[
+                "Julia gibt die schuhe zu nadine",
+                "Julia geht mit nadine spielen",
+                "Mehr"
+            ],
+            "content":"<div class=\"\"><div> <span>Du h\u00f6rst wie nadine immer wie n\u00e4her ist als du ein versteck suchst. Du rennst schnell zu ein paar schuhe die unter dem bett lagen. Es waren julias alten sneaker die schon viel zu klein f\u00fcr sie waren. Du rennst hinein und konntest ein strenges  aroma riechen. </span></div></div>",
+            "created":1536123600,
+            "id":2543396,
+            "title":"Du versteckst dich in einem schuh"
+        },
+        "13":{
+            "author_id":"ninajason",
+            "author_name":"Nina",
+            "choices":[
+                "Gehst die treppe runter",
+                "Wartest bis jemsnd kam",
+                "Gehst in julia's Zimmer",
+                "Versuchst in denn w\u00e4schekorb zu klettern",
+                "Eine andere idee"
+            ],
+            "content":"<div class=\"\"><div> <span>Du h\u00f6rst wie der fernsehr l\u00e4uft. Du dachtest es w\u00e4re lisa da sie jedes wochenende ihre Serien am morgen schaut. Da dir nichts besseres in denn Sinn kam machstes du dich auf dem weg zu ihr.<br>\r\n<br>\r\nAuf dem weg bleibst du stehen. Es gab ein problem. Die treppen waren viel zu gef\u00e4hrlich um runter zu gehen da du nicht wusstes wer noch runter gehen w\u00fcrde.<br>\r\n<br>\r\nWas tust du als n\u00e4chstes</span></div></div>",
+            "created":1566450000,
+            "id":2706199,
+            "title":"Du hast Lisa im Wohnzimmer fernsehen geh\u00f6rt un..."
+        },
+        "134":{
+            "author_id":"ninajason",
+            "author_name":"Nina",
+            "choices":[
+                "Deine Mutter w\u00e4scht die sachen inklusive dir",
+                "Julia war im stress und schnappe sich ein kleidungst\u00fcck mit dir",
+                "Anderes"
+            ],
+            "content":"<div class=\"\"><div> <span>Du schaust dich um. Du sahst einen W\u00e4schekorb voll mit Kleider vor julia's Zimmer stehen, dass bedeutete das deine Mutter gerade die W\u00e4sche macht. Schnell rennst du zum w\u00e4schekorb und kletterst ihn hoch. Als du am rand ankamst merkst du zuerst denn Geruch der Kleider. Sie rochen Verschwitzt und eklig. Deine Mutter kam aus dem Zimmer und hob denn W\u00e4schekorb auf. Du begannst das gleichhewicht zu verlieren und f\u00e4llst in die dreckige W\u00e4sche</span></div></div>",
+            "created":1574320140,
+            "id":2749602,
+            "title":"Versuchst in denn w\u00e4schekorb zu klettern"
+        }
+    },
+    "info":{
+        "author_id":"kleinermann",
+        "author_name":"ztttttttt",
+        "brief_description":"Eine kleiner Geschichte wie deine Familie dich benutzt wenn du schrumpfst.",
+        "created":1521129480,
+        "description":"<td align=\"left\" class=\"norm\">Du-Alex 15 <br>\r\nJahre Anna-Mutter 40 Jahre <br>\r\nLisa-Schwester 20 Jahre <br>\r\nJulia-Schwester 14 Jahre <br>\r\nTante-Barbara 38 Jahre<br>\r\nNadine-Cousine 12 Jahre<br>\r\n<br>\r\nErlaubt ist alles au\u00dfer das jemand stirbt oder verst\u00fcmmelt wird. Sonst sind der Fantasie keine Grenzen gesetzt.</td>",
+        "id":2152323,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1592101020,
+        "modified":1592101020,
+        "pretty_title":"Geschrumpft zuhause  bei der Familie "
+    }
+}

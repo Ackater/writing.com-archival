@@ -1,0 +1,547 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Horde",
+                "Alliance",
+                "Twilights hammer",
+                "Burning legion",
+                "More options"
+            ],
+            "content":"<div class=\"\"><div> <span>So you want to adventure across Azeroth and realms beyond, do you? well we've just got to sort out a few things first, like are you a lone adventurer part of the horde or alliance, maybe you're a part of another side group who knows. It's up to you now.</span></div></div>",
+            "created":1587013200,
+            "id":2819729,
+            "title":"Choices"
+        },
+        "11":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Orc",
+                "Troll",
+                "Undead",
+                "Tauren",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lok'tar Ogar. i see you are a member of the horde, but just what type of horde are you</span></div></span></div>",
+            "created":1587013200,
+            "id":2819736,
+            "title":"Horde"
+        },
+        "111":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Man",
+                "Woman"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>An Orc, Mighty warriors who once conquered their home world of Draenor, now they dwell on Azeroth in the mighty Nation of Durotar. now are you a man or a woman</span></div></span></div>",
+            "created":1587121800,
+            "id":2820091,
+            "title":"Orc"
+        },
+        "112":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "man",
+                "woman"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A Troll of the Mighty Darkspear tribe. Your people followed Thrall and his orcs to Durotar before settling on the echo isles. now are you a man or a woman</span></div></span></div>",
+            "created":1587121920,
+            "id":2820094,
+            "title":"Troll"
+        },
+        "1121":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Warlock",
+                "Shaman",
+                "Witch doctor"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> you are Sholjan a darkspear youngblood looking to find his way in the world, but what powers does he have</span></div></span></div>",
+            "created":1587877200,
+            "id":2824840,
+            "title":"man"
+        },
+        "11213":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "The bloodscalp Tribe",
+                "The Skullsplitter tribe",
+                "The Mosh'ogg Ogres"
+            ],
+            "content":"<div class=\"\"><div> <span>as a witch doctor Sholjan possesses knowledge of a variety of magics ranging from arcane to necromantic, as a result he can call upon the Loa Bwonsamdi to empower him on his quest across Azeroth.<br>\r\n<br>\r\nYou have been sent to help the Horde expand it's control of stranglethorn vale by destroying or subjugating the Bloodscalp and Skullsplitter tribes, due to demand for troops on other war fronts you must complete this task by yourself.<br>\r\n <br>\r\nThe journey to Grom'gol is long and you have arrived hungry, you must begin your campaign soon and before you can start you need to pick a target.</span></div></div>",
+            "created":1587877200,
+            "id":2824844,
+            "title":"Witch doctor"
+        },
+        "112131":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Call upon bwonsamdi to cast spells",
+                "call upon the elements to help you in hand to hand "
+            ],
+            "content":"<div class=\"\"><div> <span>The Bloodscalp are the closest and most aggressive of your foes, it would be wise for you to deal with them first. You begin to question the local garrison about your northern neighbours, and the expressions on their faces do not comfort you, Trolls are savage opponents and few know this better than the warriors of the Horde, for them to be disturbed by the actions of the Bloodscalp is foreboding to say the least. You are able to get the location of the last Bloodscalp sighting, a few miles into the jungle a patrol had found the mutilated corpses of a nighttime patrol the morning of your arrival, if you're lucky (or unlucky) they might still be in the area.<br>\r\n<br>\r\nWithout any further delay you set off to begin your war on the Bloodscalp, if you succeed you can bring glory to the horde but if you fail you will disappear without anyone knowing your fate.<br>\r\n<br>\r\nThe site of the attack would take anyone else hours to reach but as a jungle troll yourself  the terrain poses little challenge and soon you have reached your destination, you hide in the foliage and observe the site for a while, Gurubashi trolls rarely leave bodies behind, never mind  for this long, they will be back to claim their prize, and that is when you will strike. It doesn't take long before a party of five Bloodscalp hunters make their way to the bodies exiting the tress only 40 feet from your current position, upon closer inspection only one of them appears to be an actual hunter the rest are young bloods in training. you prepare to attack but how do you intend to do it</span></div></div>",
+            "created":1587877200,
+            "id":2824848,
+            "title":"The bloodscalp Tribe"
+        },
+        "1121311":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "eat the prisoner",
+                "eat all of them"
+            ],
+            "content":"<div class=\"\"><div> <span>You begin your litanies, the volume of your invocations barely rising above a murmur, soon you can feel the dark powers of the Loa of Death coursing through your body, you are ready.<br>\r\n<br>\r\nwith a bellowing warcry you emerge from cover and begin your assault, Shadow bolts fly from your hands freely as you focus the brunt of your onslaught on the leader of the party, before he is able to rally the young hunters against you he is silenced by your dark power. The shock of your assault scatters the young bloods, their panic allows you to cut them down with ease save for one whom you intend to interrogate, were these people anything other than Gurubashi trolls you might have felt bad, after all they are your peoples most hated enemies excluding the Naga, they would have shown you no mercy were the roles reversed, in fact they would have likely drawn it out longer.<br>\r\n<br>\r\nYou begin preparations for your interrogation, your captive is unconscious, but she won't remain that way for long, you bind her arms and legs. In truth this was no interrogation, you intended to use your power to invade her mind and extract all the knowledge of the Bloodscalp that you could manage so that you can use it in your campaign against her tribe. It doesn't take long for her to come round, as soon as she is fully awake you begin the process, it was a savage ritual, very few could survive with their minds intact after it had been performed on them, not that it mattered you had no intention of leaving her alive. Soon it was over, the knowledge of her tribes hunting grounds, settlements and their water sources was all yours, all that's left is for you to dispose of the evidence, though how you intended to do this hadn't quite been figured out....</span></div></div>",
+            "created":1587920940,
+            "id":2825051,
+            "title":"Call upon bwonsamdi to cast spells"
+        },
+        "11213112":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Poison the Bloodscalp tribe",
+                "Start a war between the Bloodscalp and Skullsplitters",
+                "Assassinate the leaders"
+            ],
+            "content":"<div class=\"\"><div> <span>Supplies are low across all theaters of war, the alliance has been spreading the horde thin as of late and you hadn't had a decent meal for a while, it would be unwise to leave all this fresh meat lying about, you start with your captive who is now in a catatonic state due to your 'interrogation', she offers no resistance as you take fer head into your throat, she tastes faintly of ozone, a suspected side effect of your magic leaving its mark, your stomach growls impatiently, it demands to be fed as soon as possible. you carry on and work your way down eventually reaching her hips which pose some difficulty, though with a few strong gulps, you bring them in with the rest of her body. Soon she has been consumed entirely her body forming a large bulge in your stomach, your not done yet however, your appetite demands more and soon you are wolfing down the other trolls, by the time your finished you can barely move, the weight of your prey making it almost impossible to stand. you use the last of the power you had gained through your prayers to teleport yourself to Grom'gol where you would plan your next attack.<br>\r\n<br>\r\nAs soon as you arrived you were met with looks of shock from the guards, many had assumed you would have died, few can survive in the jungle due to the Bloodscalps recent aggression, with their help you are taken to your quarters where you review you options, your pondering is accompanied with the chorus of glorping, churning, and gurgling coming from your stomach as it breaks down your meal. You have a few options, you can create potions to poison the Bloodscalp water supplies, this would allow you to either kill them off reducing the tribe to a shadow of it's current power, or you can use mind altering elixirs to bring them under your thrall bolstering the Horde's presence in the vale. Your abdomen contracts crushing your meal and causing some of the bones within to audibly snap, forcing a thunderous belch up your throat. You begin to map out he territories of the Bloodscalp, noting that hey share many hunting grounds with the Skullsplitters, it wouldn't be hard to stir up a large conflict between the two, it would certainly take the pressure of the Grom'gol garrison. Finally you have one more option, you could stir up the local raptors in order to draw the Bloodscalps attention allowing you to lead a small raid to assassinate their leadership. What will you do?</span></div></div>",
+            "created":1587927900,
+            "id":2825131,
+            "title":"eat all of them"
+        },
+        "112131121":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Mind-control",
+                "Poison"
+            ],
+            "content":"<div class=\"\"><div> <span>this plan would let you defeat the Bloodscalp with relatively little effort, and a huge pay off, the only problem is the amount of poison you would need, the Bloodscalps are many in number and they control a large territory, pulling off an effective poisoning would be extensive and would take some luck. Mind control potions would give the Horde a huge leg up in the area, but it would be expensive, the potions are more potent but they require a lot of rare ingredients, though the chances of success are quite high. on the other hand a simple poison would be easy to make in large batches though you are unsure of how many you could kill. the night has began to drag on as the moon rises high above the jungle canopies, whatever your choice is it can be made in the morning when you present your plan to the commander for now you need to sleep and digest your meal. you clamber in to your cot and are immediately reminded of the massive meal you had consumed earlier, it's weight pressing down on you like a stack of rocks, despite this you are still able to get to sleep.<br>\r\n<br>\r\nYou wake up just before dawn, by now most of your meal has digested leaving you with a gut about 4 feet across, you have a feeling that will change soon as you go to relieve yourself of your former meals. it takes you a while but you eventually finish, your stomach is now somewhat normally sized. You were able to reach a conclusion on what elixir to use, now you just have to present it to the commander. Which did you choose?</span></div></div>",
+            "created":1587930060,
+            "id":2825152,
+            "title":"Poison the Bloodscalp tribe"
+        },
+        "1121311211":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Demand a chance to demonstrate your plan",
+                "Challenge Itsu to a duel"
+            ],
+            "content":"<div class=\"\"><div> <span>You go to meet with the commander, a Tauren warrior by the name of Itsu Flamehoof, a grizzled old veteran who dwarfed even the other Braves who had been sent to man the outposts, his attitude towards the Bloodscalps will prove to be a difficult obstacle in your plan, he has spent years at war with them and you doubt he will accept them as allies without a fight. Even so you cannot be deterred you wouldn't have been sent on this mission if you weren't capable of achieving complete victory and this is how you intend to claim that prize.<br>\r\n<br>\r\nThe meeting is going poorly, as you had anticipated the Commander is loathe to allow the Bloodscalps to avoid being slaughtered for their crimes, never mind being used to fight alongside his own soldiers, you press your case however re asserting the authority given to you by Orgrimmar, but soon things come to a head, you have two choices left to you. Prove your plan to Itsu, or force him to bend his knee to you in a duel. What will you do?</span></div></div>",
+            "created":1587930780,
+            "id":2825158,
+            "title":"Mind-control"
+        },
+        "11213112112":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Use bwonsamdi's power to defeat him from afar",
+                "Use Shamanism to crush him up close"
+            ],
+            "content":"<div class=\"\"><div> <span>Arguing your case has gotten you nowhere, Itsu refuses to backdown asserting that your inexperience and low rank give you little authority over him and his soldiers. With no other recourse left you challenge him to a duel, if you win then you will be free to carry out your plan free of interference even if Itsu survives, however only death awaits if you fail, you are given until noon to prepare you must decide how you intend to defeat Commander Flamehoof without dishonoring your self. What will you do?</span></div></div>",
+            "created":1587931380,
+            "id":2825163,
+            "title":"Challenge Itsu to a duel"
+        },
+        "112131121122":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Deliver a powerful uppercut to his jaw",
+                "Dodge out of the way",
+                "Punch the maces full force"
+            ],
+            "content":"<div class=\"\"><div> <span>You spend your time preparing for a close up battle, you select a pair of gauntlets you can use to as fist weapons, you are rather poor with most weapons like axes or maces but you can punch hard and fast, a skill you hope to enhance by petitioning all four elements, you hope to acquire the aid of flame and wind to give your punches extra power and speed, though your wishes only come half true, instead of all four you are only able to acquire the aid of the earth and the winds, whilst not ideal you still have a decent chance at victory.<br>\r\n<br>\r\nAs the sun reaches it's peak in the sky both you and Itsu have gathered in the center of Grom'gol the soldiers are quiet, the air is thick with tension, you ready yourself for one of the most brutal fights in your life, in truth you would have rather avoided a close quarters fight but any thing less would have appeared dishonorable to the Orcs and Tauren who man the outpost, and without them you would have no chance of success.<br>\r\n<br>\r\nWith a thunderous roar the adjudicator declares the start of the duel, and in mere moments you and Itsu have come within inches of each other. You score the first blow by landing a flurry of blows to his abdomen which had been left unarmored save for some mail that extended from beneath his breast plate, the attack fails to wind him as you had hoped, Itsu had recovered quickly from your attacks and responded in kind swinging his mace withe surprising accuracy, this fight will be a lot harder than you first believe, whilst you are able to dodge or deflect most of his attacks one slips through slamming into your left shoulder and forcing you to your knees, he prepares another strike aimed directly for your head, before it lands you...</span></div></div>",
+            "created":1587932460,
+            "id":2825168,
+            "title":"Use Shamanism to crush him up close"
+        },
+        "1121311211221":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Itsu attacks first",
+                "You attack first"
+            ],
+            "content":"<div class=\"\"><div> <span>you jump up channeling the might of the elements into your right fist, with all your might you deliver a blow that brushes the right side of Itsu's jaw, he staggers backwards roaring in pain swing his mace wildly, you take the opportunity to move out of striking distance before beginning to circle around the commander. Despite the gravity of his injury Itsu soon regains his composure, and he too begins circling. You have lost most feeling in your left arm, Itsu's mace has severely damaged the nerves, you only have your right hand left to attack with, there are no second chances for you now, if you fail to defeat Itsu with your next attack you will surely die. That being said Itsu is fairing no better, the shattered fragments of his jaw have tore holes across the lower right half of his face causing severe bleeding, another strong blow should render him unable to continue. it all comes down to who strikes first, a fact both of you are aware of....</span></div></div>",
+            "created":1587941040,
+            "id":2825252,
+            "title":"Deliver a powerful uppercut to his jaw"
+        },
+        "11213112112211":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Leave Itsu to die",
+                "Order the medics to heal him",
+                "eat him to send a message"
+            ],
+            "content":"<div class=\"\"><div> <span>Itsu's instincts are sharper than yours, and he has already started his next attack, he thunders towards you, for the first time in your life you truly understood what it meant to feel another warriors killing intent, for the first time you truly understood what it meant to feel the raw aggression and pressure a warrior emits as he enacts his killing blow, it's as if the very soul of Itsu himself had left his body to ensure you couldn't escape. The world seemed as if it was in slow motion, you could see the mace slowly tear towards you with the force to crush stone and shatter steel. But in that moment something awoke inside you, a primal instinct that commanded you to resist this fate with all you had,you threw one last punch channeling whatever remaining strength you had into one last act of defiance, you would not accept this death standing still<br>\r\n<br>\r\n<br>\r\nThe jungle grew silent around Grom'gol as a deafening crack and thunderous roar echoed out from the courtyard, there in the dust lay the remains of the Mak'gora, a battle fought in order to decide the fate of the Stranglethorn vale and all who dwelled there. in the dust of the Grom'gol courtyard, Itsu Flamehoof Commander of Grom'gol outpost, bane of the Mosh'ogg, and nemesis of the Bloodscalp lay in the dust his ribcage shattered, his sternum crushed. Sholjan had claimed victory in battle and now the fate of his opponent rested in his hands.<br>\r\n<br>\r\nThe choice is yours, what will you do?<br>\r\n</span></div></div>",
+            "created":1587942060,
+            "id":2825260,
+            "title":"Itsu attacks first"
+        },
+        "112131121122112":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Go on your own",
+                " Take two grunts with you to provide assistance"
+            ],
+            "content":"<div class=\"\"><div> <span>You order Itsu's life to be saved, Grom'gol would need it's commander in the coming days, you never wanted to kill him, he was simply doing his duty to his men.<br>\r\n<br>\r\nYou set about preparing for your attack against the Bloodscalp, they were getting bold as it was, it won't take them long to try and capitalise on the infighting between you and the commander. Your first priority is acquiring the resources necessary to brew your potions, to that end you met with the quarter master, your demands were tight to meet but few dared oppose you after that display, you only lack a few ingredients, and you know exactly where to get them, the only problem is it would risk a confrontation with the alliance forces in Stranglethorn, Grom'gol was under manned already,  and provoking an all out war in the vale before your ready could see the Horde driven out completely. it is a necessary risk though, all you need to do is decide how to approach the problem of acquiring the supplies you need</span></div></div>",
+            "created":1587942720,
+            "id":2825266,
+            "title":"Order the medics to heal him"
+        },
+        "1121311211221121":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Hide",
+                "Run through the other tunnels"
+            ],
+            "content":"<div class=\"\"><div> <span>The Bloodscalps will not stay idle, now that Itsu has been put out of commission they will be eager to seize the opportunity to take Grom'gol for themselves, if you have any chance of success you must act quickly. To that end you decide to make the journey alone bizzarely there are no trolls stationed at Grom'gol and as a result bringing soldiers will only slow you down. The journey takes a good many hours, your time mainly being spent dodging hostile patrols, and navigating the difficult terrain, by the time you arrive the moon had begun to rise in the sky , this will only make your job harder than it already was.<br>\r\n<br>\r\nIf you were to complete your potions you would need to delve into a hidden ruin close to Fort Livingston, it was once an ancient Gurubashi temple dedicated to Hakkar, the Blood god. these catacombs were home to many sacrifices and dark rituals conducted to appease Hakkar, and as a result the dark Loa's corruption had managed to survive there for millennia. Few would dare risk an expedition into the depths, but the Blood gods corruption had created a plethora of new herbs and fungi with potent mind altering properties, properties that you could put to use against the Bloodscalp tribe.<br>\r\n<br>\r\nyou light a torch and begin your descent, praying to the pantheon of Loa worshiped by the Darkspear trolls, partly to prepare yourself for any threats lurking in the dark, and partly to calm your nerves. to say the tunnels reeked was an understatement, for centuries this temple had been left to rot, and it showed, not one surace was free from some form of plant growing there, and rather disturbingly you could recognise none of them, you make a note in your mind to notify the apothecaries society in Undercity of this location once your done in Stranglethorn. You stop dead in your tracks, something was wrong here, very wrong, centuries of festering mould and stagnating water withstanding, there was one more thing you could smell. Blood. Fresh blood. It begins to dawn on you that you aren't alone down here, someone lives here, someone you don't want to run into when your exploring an old ruin. Your life is now in more danger than you could ever have predicted.<br>\r\n<br>\r\nYou carry on further into the ruins,whether you are being watched is uncertain, the shadows are playing tricks on your mind, the sound of your footsteps echo around you, your sanity has begun to falter as the dark energies of the temple and your own fears ravage your mind. Despite every instinct you possess screaming for you to turn back, you find what you need, more than enough of the fungi you need. But that wasn't the only thing you found. If there was any doubt as to what was going on here left in your head before, it has been all but eradicated now, scattered across the room there are about twelve bodies as far as you can see, all of them have been disemboweled.<br>\r\n<br>\r\nyou can hear the soft padding of foot steps in the tunnels behind you, and the voice of a troll singing some form of song to himself. Your portals can't teleport you back to Grom'gol, what do you do?</span></div></div>",
+            "created":1588061940,
+            "id":2826086,
+            "title":"Go on your own"
+        },
+        "11213112112211211":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "You get caught",
+                "You attack him",
+                "You sneak out"
+            ],
+            "content":"<div class=\"\"><div> <span>You don't know any way out, other than the way you came in, you hide behind a collapsed pillar in the corner and put out your torch. you can hear the voice as it approaches<br>\r\n<br>\r\n\"<i>Say your prayers little one. Don't forget, my son. To include everyone</i>\"<br>\r\n<br>\r\nThe voice grows closer withe each line, and as it's volume increases so does the light in the chamber, looking up you can see spirit lanterns burst to life with each word that echoes through the halls.<br>\r\n<br>\r\n\"<i>Tuck you in, warm within. Keep you free from sin. Till the sandman he comes</i>\"<br>\r\n<br>\r\nyou watch the entrance, you can't take your eyes away, you have never heard this song before, yet despite that it is bizarrely familiar, entrancingly so.<br>\r\n<br>\r\n\"<i>Sleep with one eye open. Gripping your pillow tight!</i>\"<br>\r\n<br>\r\nThe stranger finally enters the chamber, less than ten meters away from you is a large Zandalari troll, a completely naked Zandalari troll, in the low light you can make out the patterns of the gold tattoos that cover his arms and chest. His hands are carrying two gnome mages both unconscious, placing them on the altar it becomes apparent to you what you are witnessing, and it disturbs you.<br>\r\n<br>\r\nWhat happens now? </span></div></div>",
+            "created":1588063800,
+            "id":2826090,
+            "title":"enter the sandman"
+        },
+        "11213112112212":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Oral",
+                "Anal",
+                "Cock"
+            ],
+            "content":"<div class=\"\"><div> <span>Itsu has instinct and experience on his side, but you have conviction unparalleled in the horde, you rush forward every last scrap of power being channeled to your fist, where this any other member of the Grom'gol garrison, you would have won, but Itsu was a force unto himself, and he was prepared to deal with you with no mercy.<br>\r\n<br>\r\nWith a flick of his wrist and a well placed sidestep, Itsu puts you on your ass, before stomping on you chest, forcing the air out, leaving you completely winded. The fight is done and Itsu has won, he orders you bound and taken to his quarters whilst he attends to his wounds. You are left there for about an hour before Itsu returns, his jaw completely healed. To your surprise he congratulates you on a well fought battle and as a result has chosen to give you a reward.<br>\r\n<br>\r\nThat reward being to decide which part of his body he devours you with, as he says this he removes his armor leaving him completely nude, his Black and white fur accentuates his muscular form, for a Tauren you find him to be quite attractive.<br>\r\n<br>\r\n\"So what will it be?\" he asks, he approaches to within a foot of yourself, close enough for you to hear the demands of his empty stomach as it growls and moans for food. What will it be</span></div></div>",
+            "created":1588064580,
+            "id":2826097,
+            "title":"You attack first"
+        },
+        "112131121122121":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "content":"<div class=\"\"><div> <span>You choose to be devoured 'normally', your defeat was bad enough you don't need another final disgrace before you die. Itsu accepts your choice and undoes your binds,  when he is done he picks you up and opens his jaws wide, you can see all the way to the back of his throat, your view is somewhat obscured by his large tongue, soon it is all you can see as your head is forced roughly into the Tauren's hungry maw. He takes his time slowly pushing you further inside, by the time your head has reached his throat you are thoroughly drenched in his saliva. with a sudden jolt you are pulled in, the contractions of his throat are rough and powerful, they are also pulling you in faster than you thought possible, within seconds Itsu has pulled your chest into his throat and he shows no intention to slow down. His tongue laps at your stomach and soon your legs as you are pulled deeper into the Taurens throat, the contractions have grown even stronger, eager to carry you to Itsu's cavernous stomach, soon he is lick at your feet as your head is forced through the sphincter at the top of his stomach, the smell of his breakfast mixed with his digestive enzymes hits you hard, the caustic fumes burn your eyes and nostrils causing you to squirm, this only amuses the predatory commander as he takes on final gulp plunging you into the acidic chyme below. Before you even have time to scream the walls crush inwards forcing the air out of your lungs, Itsu belches out the last of your air before patting his swollen gut, the soft thudding sound would be soothing were it not for you being digested alive.<br>\r\n<br>\r\n\"You would have made a good soldier one day, but you chose to pick a fight you couldn't win. You would have ended up like this if you carried on this path anyways, be glad i shall make it quick, soon you will be one with the earth mother then you will know peace.\" those were the words you had heard in your last moments, you weren't sure if they were meant to comfort or scold you, not that it mattered blackness filled your mind as you slipped out of your mortal coil. Bwonsamdi had taken you, Orgrimmar would send a replacement, and the war would carry on as it always had and always will.<br>\r\n<br>\r\nItsu donned his armor and returned to his duties, he would carry out his war on the natives of Stranglethorn as he had before, whether or not the agents sent by the war-chief wished to help him or not. Part of him was disheartened to have dealt with you in this manner, you would have made a good soldier indeed. over the rest of the day you would slowly be broken down, reduced to nutrients for the Commander, his stomach slowly shrinking and becoming more rounded, by the evening you were fully digested and ready to be disposed of. in the end all that remained of you in this world was a layer of fat on Itsu's gut and a pile of waste in the outpost's latrine. <br>\r\n<br>\r\nThis is the end of Sholjan's story</span></div></div>",
+            "created":1588078140,
+            "id":2826209,
+            "title":"Oral"
+        },
+        "113":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Man",
+                "Woman"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>one of the free undead raised from the corpses of Lordaeron, your people face the threat of extermination from the alliance and the risk of abandonment by the horde. So man or woman</span></div></span></div>",
+            "created":1604912280,
+            "id":2937029,
+            "title":"Undead"
+        },
+        "1132":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "yes! for the horde",
+                "No! time to go it alone"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>your name is Irila Poxwalker, a warlock in life and in death, you have been raised in deathknell by the local forsaken. do you join them?</span></div></span></div>",
+            "created":1604924940,
+            "id":2937177,
+            "title":"Woman"
+        },
+        "11321":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "1. Kill local farmers",
+                "2. gather ingredients for an alchemists experiment",
+                "3. kill local murlocs"
+            ],
+            "content":"<div class=\"\"><div> <span>you are ressurected, and soon tasked with disposing of the mindless undead created by the forsaken in their attempt to raise a new army. you cut through the armies of zombies and skeletons with ease, each defeated foe returning fragments of your former power to your rotting corpse, eventually you succeed in clearing out the foes surrounding deathknell and are sent to calston estate.<br>\r\n<br>\r\nonce you arrive you are given a choice of quests which one do you take?<br>\r\n</span></div></div>",
+            "created":1605470700,
+            "id":2940530,
+            "title":"yes! for the horde"
+        },
+        "113211":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "it goes of without a hitch",
+                "it goes terribly wrong"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Though heavily wounded the forces of the scarlet crusade still linger in the Tirisfal glades, they cower in isolated encampments and outposts, clinging to their towers and walls. The largest and final encampment rests north of Solliden farmstead, and is supplied by the human farmers who dwell there, it is your job to wipe out the farmers and cut off the scarlet crusaders supplies.\"<br>\r\n<br>\r\n the Deathguard's instructions are clear, and his reward is valuable, you take the quest and set off north towards the farms, infamy and fortune awaits as well as a mountain of corpses.<br>\r\n<br>\r\nafter an hour of trudging through the dark forests of tirisfal, you reach your target the farm houses are dimly lit and half shrouded in fog, yet despite the poor visibility you can make out the farmers toiling in their fields, unaware of the grim fate that awaits them.<br>\r\n<br>\r\nhow does the attack go?<br>\r\n</span></div></div>",
+            "created":1605471420,
+            "id":2940539,
+            "title":"1. Kill local farmers"
+        },
+        "1132111":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "tumbles down the stairs and into your mouth (oral vore)",
+                "tumbles down the stairs and into your rear (anal/unbirth)",
+                "tumbles down the stairs and dies (hard vore)"
+            ],
+            "content":"<div class=\"\"><div> <span>without any guards the farmers fall quickly, your spells cutting them down before they have the chance to scream or call for help. Field after field is cut down without any trace of the horrors occurring within except for the occasional burst of light and the corpses left in your wake. soon you have slaughtered the farmers in the field and move inside.<br>\r\n<br>\r\nthose inside fair no better, moving room to room you continue your dark harvest, slaughtering the elderly and the young without hesitation. finally you make your way to the last room in the house, as you climb the stairs a young woman bursts out of the door in an attempt to escape, however in the process he crashes into you and...</span></div></div>",
+            "created":1605472080,
+            "id":2940544,
+            "title":"it goes of without a hitch"
+        },
+        "11321111":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Take it",
+                "Carry on to Brill"
+            ],
+            "content":"<div class=\"\"><div> <span>you both tumble down the stairs at a breakneck pace ( which fortunately for you wasn't too much of a problem), creating a mighty din along the way, once at the bottom, and after your head stopped spinning, you realised that the woman's head and shoulders were now lodged firmly within your throat. You clench your jaw, biting her firmly to hold her in place as you wrestled her arms to her side, a moment later you shove her deeper into your throat and prepare to swallow with all your might, you weren't much of a predator in your last life, but there's no reason you can't start now. Slowly more and more of the girl is consumed with a great deal of effort on your end, and an even greater amount of resistance from your prey, though it isn't long until you reach her hips, with another deep swallow they too are drawn in, and her torso is forced into your stomach. Adjusting your position, you stand up and tilt your head back and allow gravity to pull the rest of the poor woman into your bloated gut, with a final glrrk and snap of your teeth your prey is trapped wholly within your stomach, a mighty belch erupts from your mouth as your stomach tighten forcing out the air trapped inside.<br>\r\n<br>\r\ndusting your self off you begin to leave, though your gut weighs you down significantly, forcing you to waddle slowly and deliberately out of the farm house and into the fields, you take a moment to admire your work, before you lies a morass of wilted crops and twisted corpses, soon you begin to admire your new silhouette as well where once there was a lithe convex corpse clad in mismatched, tattered robes, now stood a lithe corpse clad in tattered robes with a large distended abdomen. what once was a concave gap in your form was now a taught pallid orb, writhing with the struggles of it's captive, glimpses of the defunct organs within visible through the tears in the outer layer of rotting flesh. once you were done you set off back to the Calston estate to inform the Deathguard of your success.<br>\r\n<br>\r\nas you marched back, victim was subjected to an endless barrage of crushing muscles, and caustic necrotic juices that ate away at her flesh, after ten minutes of this onslaught much of her skin hade melted into a thick black sludge in the pit of your gut, after another 5 her muscles had began to come apart into thick chunks, and her bodily functions ceased, her soul becoming trapped within your own body, doomed to remain there until your death. after half an hour all that was left was a thick black sludge slowly being pumped into your intestines.  through the use of your dark magics you were able to use the nutrients contained within to repair and rejuvenate parts of your own body.<br>\r\n<br>\r\nonce you reach Calston the only sign of the victim left on your body is the paunch left on your gut. you hand in the quest and are rewarded with a handsome sum of gold and silver, as you turn to leave the deathguard offers you another job</span></div></div>",
+            "created":1605478920,
+            "id":2940572,
+            "title":"tumbles down the stairs and into your mouth (or..."
+        },
+        "113211111":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "hide",
+                "stand and fight"
+            ],
+            "content":"<div class=\"\"><div> <span><i>the death guard pulls out a bottle of viscous green goo and hands it to you</i><br>\r\n<br>\r\n\"Killing the farmers will only do so much to root out the crusaders, now comes the next part of the plan. You are going to take this to the well outside the walls of their hold out and poison it, this will infect everyone who drinks from it with the plague of undeath. With no food and water that turns them into ghouls the crusade will have no choice but to leave tirisfal for good\"<br>\r\n<br>\r\n<i>you turn to walk away when the deathguard speaks up again</i><br>\r\n<br>\r\n\"oh and be careful the crusaders patrol the area nearby so try not to get caught\"<br>\r\n<br>\r\nwith that warning in mind you set off again ready to bring death to your enemies, ever since you ate that girl you have felt alive again though this feeling will likely fade overtime you revel in it, on the voyage back towards Solliden you can't stop thinking about it ,maybe you should try to eat people more, after all who's going to stop you?<br>\r\n<br>\r\nas your walking by the fields you destroyed earlier you notice that the scouts from the outpost have begun to investigate the area there isn't much cover nearby but you could hide in the toolshed nearby, alternatively you could try and defeat the scouting party, ther are only three of them, it would be difficult but not impossible.</span></div></div>",
+            "created":1605525420,
+            "id":2940867,
+            "title":"Take it"
+        },
+        "115":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Pandaren",
+                "Goblins",
+                "Elves"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>i can't fit all of them on one page so here you go the last horde races</span></div></span></div>",
+            "created":1587013200,
+            "id":2819737,
+            "title":"More options"
+        },
+        "1152":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "man",
+                "woman"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Goblins of the Bilgewater cartel were forced to join the horde as a result of the cataclysm, and as such have found themselves in many conflicts across their tenure, now are you a man or a woman</span></div></span></div>",
+            "created":1587897720,
+            "id":2824839,
+            "title":"Goblins"
+        },
+        "12":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Human",
+                "Elves",
+                "Dwarf",
+                "Gnome",
+                "more choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>For honor! For Stormwind! as a member of the alliance it's your duty to protect your allies against your foes, chief among them, the Horde. Now who are you</span></div></span></div>",
+            "created":1587013200,
+            "id":2819739,
+            "title":"Alliance"
+        },
+        "125":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Pandaren",
+                "Worgen",
+                "Draenei"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>i've only got five links cut me some slack!</span></div></span></div>",
+            "created":1587013200,
+            "id":2819740,
+            "title":"more choices"
+        },
+        "1253":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Man",
+                "woman"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>the survivors of the exodar have joined the alliance lending their vast knowledge of science and magic to their new comrades. Draenei adventurers now roam azeroth and beyond for gold and glory</span></div></span></div>",
+            "created":1594828680,
+            "id":2869075,
+            "title":"Draenei"
+        },
+        "12532":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Elwynn forest",
+                "Azuremist isles",
+                "Dark shore"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are Aala , a Paladin at the beginning of her journey to greatness, but where will it start?</span></div></span></div>",
+            "created":1594828800,
+            "id":2869077,
+            "title":"woman"
+        },
+        "14":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Succubus",
+                "Eredar",
+                "Satyr",
+                "Dreadlord",
+                "Shivarra"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Universe must burn! For Sargeras wills it, and as his servant it's up to you to make that happen, now what kind of demon are you?</span></div></span></div>",
+            "created":1587058140,
+            "id":2819741,
+            "title":"Burning legion"
+        },
+        "15":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Venture company",
+                "Scourge",
+                "Naga",
+                "Dragon flights",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So the big boys aren't doing it for you, that's okay I've got some more options in the back.</span></div></span></div>",
+            "created":1587013200,
+            "id":2819733,
+            "title":"More options"
+        },
+        "152":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Lich",
+                "Death Knight",
+                "Necromancer"
+            ],
+            "content":"<div class=\"\"><div> <span>When the Lich King fell many of his lieutenants broke away in the ensuing chaos, including you. Northrend is now trapped in a conflict between local warlords and the Lich king Bolvar. Before you take your place in this war, we must find out what form of Scourge warrior you are.</span></div></div>",
+            "created":1587121620,
+            "id":2820088,
+            "title":"Scourge"
+        },
+        "1522":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Man ",
+                "Woman"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a Death Knight, an undead weapon of war like no other. when the Ebon Blade betrayed the Lich King and Captured Acherus, you like many others of your kind had your rank stripped and retinues decreased, though you still have some servants to aid you in your conquests.</span></div></div>",
+            "created":1587099600,
+            "id":2820095,
+            "title":"Death Knight"
+        },
+        "15222":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "The Borean Tundra",
+                "Zul'Drak",
+                "Sholazar Basin"
+            ],
+            "content":"<div class=\"\"><div> <span>You are Oneida Storm-walker, a former brave who died in battle against the scourge, whilst fighting in the Plague lands. You possess great physical strength as well as potent dark magics you possess only a necromancer, a human woman by the name of Lydia Ogden, in your retinue, and if you hope to conquer this world you will need an army, however where to build one is up to you.</span></div></div>",
+            "created":1587099600,
+            "id":2820099,
+            "title":"Woman"
+        },
+        "152223":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "The Frenzy Heart",
+                "The Nesingwary expedition",
+                "The wildlife"
+            ],
+            "content":"<div class=\"\"><div> <span>You make for Sholazar Basin, the dense Terrain will allow you to hide your presence whilst you conquer and convert the local Wolvar and Gorlocs. Other Scourge warlords have sought to set up shop there as well, conflict will be inevitable, but who ever emerges will have the power to expand further, and deeper into the darkest reaches of Northrend. you enter in the south of the Basin, you have a few options to consider, you could begin attacking the frenzy heart Wolvar to your east, or the Nesingwary Outposts to your west. or finally you canslaughter the Gorlocs and Gorrilas to create a force of Undead beasts</span></div></div>",
+            "created":1587099600,
+            "id":2820102,
+            "title":"Sholazar Basin"
+        },
+        "1522232":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Use your magics to capture them",
+                "follow them to their camp"
+            ],
+            "content":"<div class=\"\"><div> <span>As a rule more advanced races tend to make better servants when raised from the dead, and the best source for those would be the Nesingwary expeditions outposts. Since the fall of Arthas more and more outposts have been established with some even reaching outside the basin, despite fierce resistance from the local Wolvar and wildlife young hunters still seek to make a name for themselves in the wilds of Sholazar.<br>\r\n<br>\r\nYou and Lydia trek for a few hours until you come across a rather poorly hidden trap, you look around to see if you can locate the hunter who had left it. and sure enough you have spotted the tell-tale glint of metal within the bushes. you begin to approach them, but as soon as you take the first step your prey begins to run, what do you do?</span></div></div>",
+            "created":1587099600,
+            "id":2820163,
+            "title":"The Nesingwary expedition"
+        },
+        "1523":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "Man",
+                "Woman"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>as a necromancer you possess the power to create vast legions of undead warriors to do your bidding, though you are on your own you feel confident in your ability to rise above all others and conquer Northrend for yourself</span></div></span></div>",
+            "created":1587122340,
+            "id":2820096,
+            "title":"Necromancer"
+        },
+        "155":{
+            "author_id":"gongofko",
+            "author_name":"Gongofknockout",
+            "choices":[
+                "independent",
+                "Defias Brotherhood",
+                "Pirates"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>last call, here are the final choices</span></div></span></div>",
+            "created":1587013200,
+            "id":2819734,
+            "title":"More options"
+        }
+    },
+    "info":{
+        "author_id":"gongofko",
+        "author_name":"Gongofknockout",
+        "brief_description":"A vore interactive in the Warcraft universe",
+        "created":1587056940,
+        "description":"<td align=\"left\" class=\"norm\">everything but extreme scat and watersports is allowed. if there is an option that hasn't been filled out yet then feel free to do it yourself. (this should go without saying but underage is a no-go)</td>",
+        "id":2219253,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1605644220,
+        "modified":1605644220,
+        "pretty_title":"Warcraft vore"
+    }
+}

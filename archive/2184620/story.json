@@ -1,0 +1,120 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"laurie-razor",
+            "author_name":"Laurie Razor",
+            "choices":[
+                "Horror",
+                "Sci-Fi",
+                "Mystery",
+                "Fantasy",
+                "Speculative Fiction"
+            ],
+            "content":"<div class=\"\"><div> <span>Welcome to the Ibis Tree.<br>\r\n<br>\r\n<span class=\"cgreen\"><b><br>\r\n<font class=\"size35\" style=\"\">I</font> ask that you take all that's written, leave what is not,<br>\r\n<font class=\"size35\" style=\"\">B</font>egin golden voyages, undiscovered ports await,<br>\r\n<font class=\"size35\" style=\"\">I</font>nspire travelling artists to wade deep through your thought,<br>\r\n<font class=\"size35\" style=\"\">S</font>ow the seeds of intrigue for new life to germinate!</b></span><br>\r\n<br>\r\nIn this brief introduction I shall try and answer as many questions as possible about this project starting with:-<br>\r\n<br>\r\n<div align=\"center\"><font class=\"size4\" style=\"\">What is a <i>\"branchology\"</i>?</font></div><br>\r\n<br>\r\nA branchology is a portmanteau comprising of the words \"branching\" and \"anthology\"; each choice(branch) leads to a new story by a new author.<br>\r\n<br>\r\n<div align=\"center\"><font class=\"size4\" style=\"\">What is the purpose of <i>The Ibis Tree</i>?</font></div><br>\r\n<br>\r\nThe Ibis Tree was created to both challenge and index talented genre authors on writing.com. Authors get to write a short story to promote their portfolio, whilst readers get a chance to happen across a new writer that they may have missed on this site.<br>\r\n<br>\r\n<div align=\"center\"><font class=\"size4\" style=\"\">Why is this called<i>The Ibis Tree</i>?</font></div><br>\r\n<br>\r\nThe namesake for this project comes from the Ancient Egyptian deity <i>Thoth</i> who was commonly depicted as having the head of an Ibis(although later depictions tell of him having the head of a baboon.<img style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/monkey.png\" alt=\"*Monkey*\" title=\"Monkey\" border=\"0\" width=\"15\" height=\"15\">)<br>\r\n<br>\r\nThoth was the god of the moon, magic, writing and wisdom.<br>\r\n<br>\r\nHim being the scribe of the gods, the inventor of writing, and the author of every branch of knowledge, both human and divine, make him the perfect namesake for this project.<br>\r\n<br>\r\n<div align=\"center\"><font class=\"size4\" style=\"\">Why should I contribute a story?</font></div><br>\r\n<br>\r\nTo demonstrate your skills and further promote your portfolio.<br>\r\n<br>\r\n<div align=\"center\"><font class=\"size4\" style=\"\">What should I write in the choice boxes?</font></div><br>\r\n<br>\r\nPlease write the word <i>Story</i> followed by a number corresponding to the choice.<br>\r\n<br>\r\nE.g. Story 1, Story 2, etc.<br>\r\n<br>\r\n<div align=\"center\"><font class=\"size4\" style=\"\">Where should I start?</font></div><br>\r\n<br>\r\nThere are two paths that you can choose here. <br>\r\n<br>\r\nOption A:- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Click the Story Outline and find a title that intrigues you.<br>\r\n<br>\r\nOption B:- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Choose a genre and explore!<br>\r\n<br>\r\n<div align=\"center\"><font class=\"size5\" style=\"\">\t<script language=\"JavaScript\"><!--\n\t\tvar notex, thisx, mmove;\n\tfunction showPopNote2(notex, event, thisx, mmove) {  var thisxPosY = $(thisx).position();  var ccTop = 15;  if ($('#Content_Column_Wrapper').length) {  var ccPos = $('#Content_Column_Wrapper').position();  ccTop = ccPos.top;  }  var thisxBot = thisxPosY.top + $(thisx).height(); $('#bigPopNote' + notex).appendTo('#Content_Column_Wrapper'); $('#bigPopNote' + notex).css({'top':event.pageY-ccTop + 15, 'position':'absolute'});  if ($('#bigPopNote' + notex).width() < $('#bigPopNote' + notex).parent().width() - 50) { $('#bigPopNote' + notex).css({'left':event.pageX-50});  }  document.getElementById('bigPopNote' + notex).style.display = 'block';   if (mmove == 1) {  thisx.style.borderBottomStyle = 'solid'; }  thisx.clicked = 0;  }\n\tfunction clickPopNote2(thisx) {  thisx.clicked = 1;  }\n\tfunction hidePopNote2(notex, event, thisx) {  document.getElementById('popnote' + notex).style.borderBottomStyle = 'dotted';  if (thisx.clicked != 1) {  document.getElementById('bigPopNote' + notex).style.display = 'none';  }  }\n\t\t\t\t//--></script><span id=\"popnote15912818211\" onmouseover=\"showPopNote2('15912818211', event,this,1);\" onmouseout=\"hidePopNote2('15912818211',event,this);\" onclick=\"clickPopNote2(this);\" style=\"border-bottom:2px dotted ;\" title=\"\">Genres</span> <div id=\"bigPopNote15912818211\" style=\"position:absolute;display:none;z-index:200;\" onmouseover=\"$(this).show(); event.preventDefault(); return false;\" onmouseout=\"$(this).hide();\"><div align=\"center\">\n\t<table border=\"0\" class=\"shadowBox\" style=\"margin-top:5px;padding:15px;border-color:#000000;\"><tr><td align=\"left\"> These definitions are rough at best. If you have any ideas for alternative definitions, please feel free to email me.</td></tr></table></div></div> </font></div></span></div></div>",
+            "created":1551883920,
+            "id":2626999,
+            "title":"The Ibis Tree Mission"
+        },
+        "11":{
+            "author_id":"laurie-razor",
+            "author_name":"Laurie Razor",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Story 5"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Definition:-<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Any fiction which induces feelings of horror, terror or disgust by shock or frightening the reader's sensibilities. <br>\r\n\t<br>\r\n<div align=\"center\"><b>Scary stories only beyond this point.</b></div></span></div></span></div>",
+            "created":1551886080,
+            "id":2627007,
+            "title":"Horror"
+        },
+        "111":{
+            "author_id":"laurie-razor",
+            "author_name":"Laurie Razor",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4"
+            ],
+            "content":"<div class=\"\"><div> <span>She is awake.<br>\r\n<br>\r\nThere is something different about this one.<br>\r\n<br>\r\nNormally when they awaken, alone in this empty, locked room with only a camera and a light on the high ceiling, they scream, hit at the door and curse in panic, but this one is calm.<br>\r\n<br>\r\nShe sits in the middle of the room cross-legged and stares up at the camera, at me.<br>\r\n<br>\r\nHas she been here before?<br>\r\n<br>\r\nDoes she know what is about to happen, because I don't.<br>\r\n<br>\r\nMy place is to observe and obey, not to question them, though this woman makes me surprisingly curious.<br>\r\n<br>\r\nHer blue-eyed stare bores straight through to the very depth of my being.<br>\r\n<br>\r\nWho is this lady?<br>\r\n<br>\r\nShe seems so familiar.<br>\r\n<br>\r\nWhen I picked her up from the bus station, she looked like a gypsy, a long free-flowing red dress accented by golden greenery, barefoot, with low hanging brass earrings.<br>\r\n<br>\r\nI pricked her back with my syringe before covering her mouth, she didn't struggle even then.<br>\r\n<br>\r\nThe next time I see them, I must ask.<br>\r\n<br>\r\nIn the monitor, her large brown eye still stay on me; wait, brown eyes?<br>\r\n<br>\r\nA moment ago her eyes were the most piercing shade of blue, weren't they?<br>\r\n<br>\r\nIs this a test?<br>\r\n<br>\r\nHer eyes couldn't have changed hue like that.<br>\r\n<br>\r\nShe is standing up, I don't like this.<br>\r\n<br>\r\nThey should hear about this, I know that I should call them, but some part of me wants to see what she will do next.<br>\r\n<br>\r\nIs she waving to me?<br>\r\n<br>\r\nOh, she flinched, they are at the door.<br>\r\n<br>\r\nThe thick reinforced door swings open, just as it should; two large beings wearing gas masks and boiler-suits enter, just as they should; they shut the door and the yellow gas starts filling the room, again, just as usual.<br>\r\n<br>\r\nWhy is the feed still playing?<br>\r\n<br>\r\nThis is not normal.<br>\r\n<br>\r\nOnce the gas pours in, the feed should end, that's the way that it has been since they recruited me.<br>\r\n<br>\r\nI am not usually privy to what happens next; I do my part and I'm paid, I don't ask questions.<br>\r\n<br>\r\nThis is their way.<br>\r\n<br>\r\nWhat has changed?<br>\r\n<br>\r\nSomething is wrong.<br>\r\n<br>\r\nMy hand shoots for my phone, I call them.<br>\r\n<br>\r\nIt rings, then nothing.<br>\r\n<br>\r\nThe yellow gas sucks out of the room, clearing the feed, she is alone, in the same place, still staring at me.<br>\r\n<br>\r\nWhere are the boiler suits?<br>\r\n<br>\r\nNobody is picking up.<br>\r\n<br>\r\nI guess I'll go down to the room and wait for someone to arrive.<br>\r\n<br>\r\nWait, what is she holding?<br>\r\n<br>\r\nIt looks like a tennis ball, but the video keeps going out of focus.<br>\r\n<br>\r\nShe throws it at the camera and the feed cuts out.<br>\r\n<br>\r\nI know for a fact that there was nothing left in the room, apart from the blue medical-robe that I dressed her in, a camera and a light bulb.<br>\r\n<br>\r\nMaybe one of the boiler suits gave her something.<br>\r\n<br>\r\nI pocket my phone, run and open my front door.<br>\r\n<br>\r\nMy door swings wide open, hitting me in the jaw and knocking me to the floor.<br>\r\n<br>\r\nShe is here.<br>\r\n<br>\r\nThere's no way that she could be, but she is.<br>\r\n<br>\r\nShe holds what looks like a furry grey bowling ball; this ball is larger than the one on the feed.<br>\r\n<br>\r\nI lie back on the carpet, she walks around me and holds the ball over my face. <br>\r\n<br>\r\nHer almond-green eyes reassure me that this is the way that things are now. <br>\r\n<br>\r\nNot their way, the way of all things.</span></div></div>",
+            "created":1553313180,
+            "id":2633556,
+            "title":"They are not, not anymore"
+        },
+        "12":{
+            "author_id":"laurie-razor",
+            "author_name":"Laurie Razor",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Story 5"
+            ],
+            "content":"<div class=\"\"><div> <span>Definition:-<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"What if?\" stories whose common themes include space, the future, alien races and technology.<br>\r\n\t<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Sci-Fi commonly has at least some basis in the realm of real-world science.<br>\r\n\t<br>\r\n<div align=\"center\"><b>If you are still unsure please post under the <i>Speculative Fiction</i> genre.</b></div></span></div></div>",
+            "created":1551886200,
+            "id":2627010,
+            "title":"Sci-Fi"
+        },
+        "13":{
+            "author_id":"laurie-razor",
+            "author_name":"Laurie Razor",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Story 5"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Definition:-<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Tales involving a puzzle or crime to be solved.<br>\r\n<br>\r\n<div align=\"center\"><b>For true sleuths only.</b></div></span></div></span></div>",
+            "created":1551886260,
+            "id":2627013,
+            "title":"Mystery"
+        },
+        "14":{
+            "author_id":"laurie-razor",
+            "author_name":"Laurie Razor",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Story 5"
+            ],
+            "content":"<div class=\"\"><div> <span>Definition:-<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0A genre in which the plot could not happen in real life.<br>\r\n\t<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0A departure from accepted rules by which we perceive the world around us.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Stories involving magic in the world and magic within ourselves.<br>\r\n<br>\r\n<div align=\"center\"><b>Adventure awaits.</b></div></span></div></div>",
+            "created":1551886560,
+            "id":2627017,
+            "title":"Fantasy"
+        },
+        "15":{
+            "author_id":"laurie-razor",
+            "author_name":"Laurie Razor",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Story 5"
+            ],
+            "content":"<div class=\"\"><div> <span>Definition:-<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0An umbrella genre, covering all stories that include supernatural or futuristic elements.<br>\r\n\t<br>\r\n<div align=\"center\"><b>Basically, if your story doesn't fit into the other four categories, it goes here.</b></div></span></div></div>",
+            "created":1551886680,
+            "id":2627018,
+            "title":"Speculative Fiction"
+        }
+    },
+    "info":{
+        "author_id":"laurie-razor",
+        "author_name":"Laurie Razor",
+        "brief_description":"A WDC Branchology Project",
+        "created":1551878520,
+        "description":"<td align=\"left\" class=\"norm\"><span class=\"cgreen\"><div align=\"center\"><font class=\"size5\" style=\"\"><b><img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/baretree.png\" alt=\"*BareTree*\" title=\"BareTree\" border=\"0\" width=\"15\" height=\"15\">What is <i>The Ibis Tree</i>?<img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/baretree.png\" alt=\"*BareTree*\" title=\"BareTree\" border=\"0\" width=\"15\" height=\"15\"></b></font></div><br>\r\n<span class=\"cbrown\"><font class=\"size35\" style=\"\"><br>\r\nThe Ibis Tree is a branching flash-fiction anthology of genre shorts written by the WDC Community <br>\r\n<br>\r\nIts purpose is to be a living, constantly growing archive of short stories by many talented genre writers, so as to expose as many folk as possible to writers that they otherwise may have overlooked.<br>\r\n<br>\r\nA communal story hub for fantastical visionaries and spectators alike.<br>\r\n<br>\r\n<font class=\"size4\" style=\"\">Genres include:-</font><br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/skull.png\" alt=\"*Skull*\" title=\"Skull\" border=\"0\" width=\"15\" height=\"15\"> Horror<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/aliengr.png\" alt=\"*AlienGr*\" title=\"AlienGr\" border=\"0\" width=\"15\" height=\"15\"> Sci-Fi<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/pipe.png\" alt=\"*Pipe*\" title=\"Pipe\" border=\"0\" width=\"15\" height=\"15\"> Mystery<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/castle.png\" alt=\"*Castle*\" title=\"Castle\" border=\"0\" width=\"15\" height=\"15\"> Fantasy<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0<img loading=\"lazy\" style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/monster1.png\" alt=\"*Monster1*\" title=\"Monster1\" border=\"0\" width=\"15\" height=\"15\"> Speculative Fiction<br>\r\n<br>\r\n</font></span><br>\r\n<br>\r\n<span class=\"cgreen\"><div align=\"center\"><font class=\"size4\" style=\"\"><b>The Rules</b></font></div><br>\r\n<font class=\"size35\" style=\"\"><br>\r\n1:- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Nothing above an 18+ rating.<br>\r\n<br>\r\n2:- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Original works only. <br>\r\n<br>\r\n3:- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0One short story per chapter. <br>\r\n<br>\r\n4:- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0One chapter per person.<br>\r\n<br>\r\n5:- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Add at least three choices at the end of your chapter.<br>\r\n<br>\r\n6:- \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Add your story to the appropriate genre path.<br>\r\n<br>\r\n<b>Any failure to comply with these rules will result in a warning email which may then be followed by your chapter being deleted.</b><br>\r\n</font></span><br>\r\n<span class=\"cblack\"><br>\r\nFeel free to contact me with any questions.<br>\r\n<br>\r\nIf you are interested, you can read more about <i>The Ibis Tree</i>'s mission in the first chapter.</span></span></td>",
+        "id":2184620,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1553315460,
+        "modified":1553315460,
+        "pretty_title":"The Ibis Tree"
+    }
+}

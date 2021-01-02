@@ -1,0 +1,957 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "You find the other Jedi",
+                "You go after Grievous alone"
+            ],
+            "content":"<div class=\"\"><div> <span>You are Max Raven,a Jedi in the Old Republic. Master Yoda has sent you along with Anakin Skywalker and Obi-Wan Kenbobi to rescue the Supreme Chancellor from General Grievous. Your Jedi Starfighter flies along side the legendary duo. The three ships dive and you are now in the heat of battle. Vulture droids are flying around taking out clone fighters one by one. Five come straight for you. <br>\r\n<br>\r\n\"R5, let's try and lose them!\" you shout to your astromech.<br>\r\n<br>\r\nYou pull your fighter into a sharp turn and lose Anakin and Obi-Wan! The vulture droids crash into the Separatist cruiser you just turned by.</span></div></div>",
+            "created":1119157200,
+            "id":257297,
+            "title":"The Battle"
+        },
+        "11":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "You arrive at Mustafar",
+                "You arrive at Utapau",
+                "You arrive at Kashyyk",
+                "You arrive at Tattooine",
+                "You are in the middle of space"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide that you can't take either Grievous or Dooku alone. You turn your fighter towards the direction you saw your companions travel. You feel a tremor in the Force as you look down and see a ship leaving the flagship! General Grievous and Count Dooku were trying to slip away with the Chancellor! You weren't about to let that happen.<br>\r\n<br>\r\nYou drop your fighter directly behind the escaping craft. Then you suddenly realize you can't follow them through hyperspace! As soon as they make the jump to lightspeed, they were gone. The ship is too small to board and you can't shoot it down because you'd kill the Chancellor. Then you realize you can fire a tracking device at it.<br>\r\n<br>\r\nYou line up with your sights on the ship. As soon as it clears the battle, it's gone. you fire your tracking device and it sticks to the hull of the enemy ship and activates. It worked!<br>\r\n<br>\r\nThe ship makes the jump to hyperspace and you set your navicomputer to follow the tracking device. Your fighter suddenly jerks and you leave the battle and make the jump to hyperspace.</span></div></div>",
+            "created":1120107600,
+            "id":258855,
+            "title":"Leaving the Battle"
+        },
+        "113":{
+            "author_id":"godoferrets",
+            "author_name":"FerretLord",
+            "choices":[
+                "\"We are here to enslave the Wookies.\""
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You arrive at Kashyyyk, the wookie planet. Around you are many wookies. One grunts at you. R5 translates, \"What are you here for?\" <br>\r\nYou say...</span></div></span></div>",
+            "created":1139068500,
+            "id":299711,
+            "title":"Kashyyyk"
+        },
+        "115":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Counter Dooku's attacks and go on the offensive",
+                "Stay on the defensive"
+            ],
+            "content":"<div class=\"\"><div> <span>Your fighter exits hyperspace and you jerk forward. You see the other ship ahead of you but you see that you're in the middle of space. Where was its destination. Then you see it. It was a rendezvous with a Separatist cruiser. You burn your thrusters and fly up to the cruiser's docking bay. As you approach, you glance over and see the ramp lowered on the ship you followed. First, General Grievous stepped off the ship. The Chancellor followed, his hands bound. Count Dooku followed him out.<br>\r\n<br>\r\nYou slow yours ship and land in the hangar next to them. You pop the hatch open and jump out the cockpit, your lightsaber ignited in your hand. <br>\r\n<br>\r\nYou hear Count Dooku tell Grievous to get the Chancellor to the bridge.<br>\r\n<br>\r\n\"I'll take care of this one,\" you hear him say.<br>\r\n<br>\r\nCount Dooku lights his crimson lightsaber. He jumped at you and you blocked and parried the attack. You realize Dooku has the distinct advantage;he has you on the defensive. Dooku delivers blow after blow, your blade blocking each attack.</span></div></div>",
+            "created":1120107600,
+            "id":258857,
+            "title":"Middle of Nowhere?"
+        },
+        "1151":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Get to the Bridge!"
+            ],
+            "content":"<div class=\"\"><div> <span>You parry one of his attacks and swing at him, putting the Sith lord on the defensive. You swing attack after attack, Dooku blocking them all. Suddenly an idea pops into your head. You run back to your ship, with Dooku following. You run and jump using the side of your fighter as leverage. You are behind Count Dooku and stab him in the back. You hear the Sith lord gasp his last breath as he drops to the floor. You shut down your lightsaber and run to the door and continue to chase Grievous.</span></div></div>",
+            "created":1123789860,
+            "id":266886,
+            "title":"On the Offensive"
+        },
+        "11511":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Run to the escape pods",
+                "Run back to your fighter"
+            ],
+            "content":"<div class=\"\"><div> <span>You run to the bridge, cutting down battle droids as you go. When you arrive at the bridge, it was empty. You walk over to the viewport and see a ship leaving the cruiser. Grievous and the Chancellor! You watch as the ship makes the jump into hyperspace. As you turn, you see a timer activate. Grievous had activated the ship's self-destruct sequence! If you don't get out of here in five minutes, you're dead.</span></div></div>",
+            "created":1123790340,
+            "id":266889,
+            "title":"Their Escape"
+        },
+        "115112":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Allied ships come and help you out",
+                "Separatist ships come with intent to kill"
+            ],
+            "content":"<div class=\"\"><div> <span>You realize that your fighter is closer than the escape pods. You run out of the bridge and ruh down the empty corridors back to the hangar bay. Not surprisngly, it was empty. the only ship present was your own fighter. You run across the hangar and jump into your cockpit as the hangar's guns activate. They lock on to your fighter. You put the shields on full power as the guns begin to fire. Your repulsorlifts activate and you burn your thrusters to get away from the ship in time. One of the blasts was a direct hit as you fled from the hangar. Behind you, the cruiser explodes, leaving nothing behind. <br>\r\n<br>\r\nAs you turn toward the exit vector that Grievous fled, your ship begins to lose power. The blast that hit you hit your power supply!</span></div></div>",
+            "created":1123790820,
+            "id":266890,
+            "title":"Escape!"
+        },
+        "1151122":{
+            "author_id":"jldagh",
+            "author_name":"Jaren",
+            "choices":[
+                "self destruct your ship, refusing to be captured, tortured, and killed.",
+                "Let yourself be captured and hope for rescue before you're killed"
+            ],
+            "content":"<div class=\"\"><div> <span>As your ship slowly shuts down, its damaged power supply unable to support all its functions, your situation suddenly gets drastically worse. A Trade Federation battleship drops out of hyper directly in front of you. They lock onto you with a tractor beam and begin pulling your ship into their hanger. You see rows upon rows of battle droids waiting for you in the docking bay. You know you'll be killed slowly once they have you.</span></div></div>",
+            "created":1198862520,
+            "id":480204,
+            "title":"Big trouble"
+        },
+        "11511221":{
+            "author_id":"jldagh",
+            "author_name":"Jaren",
+            "content":"<div class=\"\"><div> <span>You wait until your ship is inside the hanger before you activate the self-destruct. As your ship settles on the hanger floor and the droids close in on you, you hit the activation button. As the timer ticks down to zero a faint memory comes to mind, a smiling loving face looking down at you, in a white room. There are others gathered around congratulating the woman. You realize who she is. \"Mother...\" You say aloud. It is the last thing you ever say. The countdown reaches zero and ship explodes, blasting a giant gash in the federation vessel. Their power cores overloads and blows, destroying the ship. In moments, there is nothing left but drifting wreckage and debris. </span></div></div>",
+            "created":1198862940,
+            "id":480208,
+            "title":"self destruct your ship, refusing to be capture..."
+        },
+        "1152":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "content":"<div class=\"\"><div> <span>Dooku still has you on the defensive. Then suddenly he pushes your blade to the side. You bring it back and block, but his blades slides down yours and makes contact with your wrist. You cry out in pain as your hand is amputated. You look up at Dooku as the Sith Lord plunges his blade into your back. He switches off his lightsaber and your body crumples to the floor. You have failed. The galaxy may never be free again.</span></div></div>",
+            "created":1120107600,
+            "id":258859,
+            "title":"Failure"
+        },
+        "12":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Stay where you are and contact R5 to get the elevator moving again",
+                "Get out and try to find another way up"
+            ],
+            "content":"<div class=\"\"><div> <span>You know General Grievous is very dangerous. However, your companions are no where in sight, though not dead, as you can feel their presence through the Force. Grievous's ship is in sight. You fire your guns and take out the shields around the hangar bay. You burn you thrusters and make it though just before the door closes.<br>\r\n<br>\r\nYou pop open the cockpit and jump out igniting you lightsaber. The blue blade destroys several battle droids as you land on your feet. Two super battle droids appear from the doorway. You throw your lightsaber and spear one and throw the other down the garbage chute with the Force. You pick up your lightsaber and run down the corridor.<br>\r\n<br>\r\nTwo destroyer droids cut you off. As you block their shots you contemplate what to do. Then you see the elevator just beyond the droids. Time to do something drastic. You dash forward and propel yourself over droids using the Force to make the jump and you run into the elevator, closing the door behind you. Inside the elevator, a squad of battle droids await you. You use your lightsaber and cut them all down to size. The elevator stops halfway up the spire. </span></div></div>",
+            "created":1119157200,
+            "id":257301,
+            "title":"Grievous's command ship"
+        },
+        "121":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Runs down the elevator shaft and find something flyable in the hangar",
+                "Find some other way out of the current situation"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide that you don't have enough time to find another way up. You pull out your comm and call R5.<br>\r\n<br>\r\n\"R5, come in.\"<br>\r\n<br>\r\nYou hear little beeps respond on the other end.<br>\r\n<br>\r\n\"Reactivate elevator 326 and get me to the top of this spire. The Chancellor may not have much time.\"<br>\r\n<br>\r\nYou hear an acknowledgement on the other end. The elevator jumps and you're shot upward, not knowing what to expect on that observation deck.<br>\r\n<br>\r\nThe doors open and you see the Chancellor tied down in a chair on the other side of the room.<br>\r\n<br>\r\n\"This is too easy,\" you mutter too yourself.<br>\r\n<br>\r\nYou walk down the stairs and too the Chancellor.<br>\r\n<br>\r\n\"Max, behind you!\" you hear the Chancellor shout.<br>\r\n<br>\r\nCount Dooku appears at the door you had just emerged from, accompanied by two super battle droids. You take off your robe and grip your lightsaber. Count Dooku grips his. His red blade ignites as does your blue blade. He jumps at you an your blades clash.<br>\r\n<br>\r\nThe blades come apart and you both swing again. This time, however,Dooku's blade was raised a little too high. You cut the handle of his lightsaber in two, leaving the Sith lord defenseless. He throws you across the room using the Force. <br>\r\n<br>\r\nThe observation deck shakes as another elevator speeds up the spire. This distracts Dooku. You leap up and swing your blade at him. He jumped backwards dodging you blade. The elevator doors open and reveal Anakin and Obi-Wan. The have their lightsabers at the ready, but Dooku grabs Obi-Wan with theForce and throws hims across the room. Just then you stab him. You can hear Dooku gasping his last breath you turn off you lightsaber and his body crumples to the floor. You saved Obi-Wan's life. Anakin frees the Chancellor. The four of you enter the elevator and go down below heading for the hangar. The elevator stops. The ship tilts in one direction and you come to one realiztion. The sip is going down.</span></div></div>",
+            "created":1119157200,
+            "id":257303,
+            "title":"Count Dooku"
+        },
+        "1211":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Stay and listen to what Grievous has to say",
+                "Grab your lightsaber and fight your way out"
+            ],
+            "content":"<div class=\"\"><div> <span>Anakin forces the elevator open with the Force. You see that the elevator had been destroyed, no doubt to the raging battle outside. <br>\r\n<br>\r\n\"I don't think we have any choice but to run,\" you say.<br>\r\n<br>\r\n\"I agree. We don't have much time until this thing blows,\" replies Obi-Wan.<br>\r\n<br>\r\nThe four of you run down the elevator shaft, but then there is a sudden change in the angle of the shaft. A sudden realization comes to you. The ship is straightening out. You see an elevator door at your feet. Before it's too late, you force it open with the Force.<br>\r\n<br>\r\n\"This way!\" you shout to the others.<br>\r\n<br>\r\nThey follow you and the four of you are now safe in one of the many corridors of the ship. You lead the way but are cut off by three destroyer droids. Ray shields are activated all around you and the others. You're trapped. You and your companions are escorted to the bridge and are met by General Grievous.<br>\r\n<br>\r\n\"General Kenobi! And Anakin Skywalker. I would have though someone with your reputation would be a little older,\" says Grievous.<br>\r\n<br>\r\n\"General Grievous. You're shorter than I expected,\" replies Anakin.<br>\r\n<br>\r\n\"We have a job to do here, Anakin. Try not to upset him,\" warns Obi-Wan.<br>\r\n<br>\r\n\"And Master Raven! You too are younger than I expected,\" Grievous says to you.<br>\r\n<br>\r\nYou hold back your comment, taking notes of what Obi-Wan had said.<br>\r\n<br>\r\nThe three lightsabers are in view. You could easily grab them with the Force.</span></div></div>",
+            "created":1119243600,
+            "id":257430,
+            "title":"General Grievous"
+        },
+        "12112":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Go with Obi-Wan to report to the Jedi Council",
+                "Go with Anakin and meet with the senators"
+            ],
+            "content":"<div class=\"\"><div> <span>Without hesitating, you grab your lightsaber. You cut your binds as do the others. Your lightsaber swings around and destroys the super battle droid holding the Chancellor. Obi-Wan was engaged in a fight with one of the general's bodyguards. Anakin fought a different bodyguard. Grievous was no where in sight. <br>\r\n<br>\r\n\"All the escape pods have been launched,\" you observe.<br>\r\n<br>\r\n\"Anakin, can you fly this ship?\" Obi-Wan asks.<br>\r\n<br>\r\n\"You mean do I know how to land what's left of this thing,\" Anakin replies.<br>\r\n<br>\r\n\"Well?\"<br>\r\n<br>\r\n\"I'd say the ability to pilot this thing is irrelevant. Everybody strap in!\"<br>\r\n<br>\r\nYou feel the ship lurch forward as it starts to descend to the surface of Coruscant. The ship lurches forward again and you come to the realization that you just lost part of the ship.<br>\r\n<br>\r\n\"We lost something,\" remarks Anakin.<br>\r\n<br>\r\n\"Don't worry, we still have half a ship,\" replies Obi-Wan.<br>\r\n<br>\r\n\"Now we're really picking up speed,\" Anakin says.<br>\r\n<br>\r\nEverything starts to glow as the ship enters the atmosphere. Anakin hits the switch for all the flap to spring out of the hull, using air resistance to slow the ship's descent. <br>\r\n<br>\r\n\"Fire ships!\" Obi-Wan observes.<br>\r\n<br>\r\nFire ships were trying to put out the flames all around the outer hull of the ship. Anakin crash lands the ship on a landing strip.<br>\r\n<br>\r\nA shuttle brings you back to the Senate. The Chancellor is met by all the senators.</span></div></div>",
+            "created":1119243600,
+            "id":257433,
+            "title":"Crashing"
+        },
+        "121121":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "with Anakin to protect the Chancellor",
+                "with Obi-Wan to apprehend Grievous"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk with Obi-Wan and get on the shuttle. The two of you ride in silence the whole way to the Jedi Temple. You walk with Obi-Wan and find yourself in the Council's chambers. In front of you are such great Jedi as Yoda and Mace Windu.<br>\r\n<br>\r\nYou always feel honored when in their presence. <br>\r\n<br>\r\nMaster Windu speaks first. \"Master Kenobi, please deliver your report.\"<br>\r\n<br>\r\n\"Yes, Master. On our way in, we got separated. Anakin and I remianed alongside each other. Max got separated and found the flagship where the Chancellor was being held before us. His focus was on the mission as it should have been. When Anakin and I arrived, Max had already found the Chancellor and was engaged in a duel with Count Dooku. Young Raven here killed Count Dooku and saved the Chancellor.\"<br>\r\n<br>\r\n\"And what of Grievous?\" Ki-Adi-Mundi asked. The Council members all nodded in agreement to the question.<br>\r\n<br>\r\n\"We were captured and broght before him. I was engaged with the General's bodyguards. Max was engaged with super battle droids trying to help the Chancellor. Anakin engaged General Grievous.\"<br>\r\n<br>\r\n\"And?\" Master Windu asked.<br>\r\n<br>\r\n\"The General escaped. We know he left in an escape pod. However, I noticed as Anakin tried to fly our damaged cruiser to the planet's surface that his pod was picked up by a smaller, faster cruiser. One that is much more difficult to track. I saw it make the jump into hyperspace. We don't know the destination. He got away.\"<br>\r\n<br>\r\n\"Max, have anything to add do you?\" This time it was Yoda who spoke.<br>\r\n<br>\r\n\"No, Master. All that had happened in the time elapsed from when I got to the flagship and when Obi-Wan and Anakin arrived was many small engagements with battle droids and destroyer droids.\"<br>\r\n<br>\r\n\"Very well. Both of you are dismissed.\" Master Windu said.<br>\r\n<br>\r\nYou and Obi-Wan both bowed and left the Council.<br>\r\n<br>\r\nYou and Obi-Wan walk down along the corridor and are then again summoned by the Council, this time with Anakin.<br>\r\n<br>\r\nThe three of you stand before the Council. <br>\r\n<br>\r\n\"A mission for you, we have.\" Yoda said.<br>\r\n<br>\r\n\"Obi-Wan you are to lead a clone army to Utapau, the location we believe General Grievous has fled to. Anakin, the Chancellor has requested that you be appointed as his personal bodyguard. Max, we are sending you</span></div></div>",
+            "created":1119762000,
+            "id":258331,
+            "title":"Jedi Council"
+        },
+        "1211211":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Continue listening to the Chancellor",
+                "Anakin walks in"
+            ],
+            "content":"<div class=\"\"><div> <span>Max, we are sending you with Anakin as a bodyguard of the Chancellor,\" Master Windu tells you.<br>\r\n<br>\r\nYou are shocked to find that the Council did not wish you to go with Obi-Wan on the hunt for Grievous. However, you do not show your anger. You remain calm and simply bow to the Council and say \"As you wish, Master.\"<br>\r\n<br>\r\nYou and Anakin are dismissed from the Council.<br>\r\n<br>\r\n\"I can't believe they didn't send us with Obi-Wan,\" Anakin remarks.<br>\r\n<br>\r\n\"We must trust the Council's decision,\" you reply.<br>\r\n<br>\r\n\"Yes, we must have faith in the Council. Still, I fear Obi-Wan may not be able to handle Grievous alone.\"<br>\r\n<br>\r\n\"Anakin, for all we know this is just a wild bantha chase. The Council is not completely certain this is where Grievous is hiding.\"<br>\r\n<br>\r\n\"You're beginning to sound like Obi-Wan. I think they should send you. You're the one who killed Count Dooku and saved all our lives.\"<br>\r\n<br>\r\n\"Yes, but I have faith in Obi-Wan. He will do his job well.\"<br>\r\n<br>\r\n\"I agree.\"<br>\r\n<br>\r\nThe two of you walk in silence to the office of the Supreme Chancellor. Chancellor Palpatine greets you both.<br>\r\n<br>\r\n\"Ah, Anakin, Max! Welcome!\"<br>\r\n<br>\r\nYou and Anakin both bow. You sense a tremor in the Force and start to feel cold. The Dark Side? Here? That was impossible. You think nothing of it and go on with your assignment.<br>\r\n<br>\r\nAnakin says that he must leave for a little while to check on security. He tells you to stay behind and guard the Chancellor.<br>\r\n<br>\r\n\"Well, young Raven, now that we're alone I would like to talk with you.\"<br>\r\n<br>\r\nHe pauses as he sits down.<br>\r\n<br>\r\n\"I know you have ambitions, Max, as does Anakin. I believe you have the potential to be the greatest of all the Jedi. Have you ever heard of the tale of Darth Palaguis the Wise?\"<br>\r\n<br>\r\n\"No.\"<br>\r\n<br>\r\n\"No? I'm not surprised. It's not a tale the Jedi would tell. It's a Sith legend. You see, Darth Palaguis was able to manipulate the Force and was able to create life. In a sense, he was able to stop those he cared about from dying.\"<br>\r\n<br>\r\n\"What happened to him?\"<br>\r\n<br>\r\n\"He taught everything he knew to his apprentice. Tehn one night, his apprentice killed him in his sleep. Ironic, don't you think? He was able to stop others from dying, but couldn't save himself.\"<br>\r\n<br>\r\n\"Is it possible to learn this power?\"<br>\r\n<br>\r\n\"Not from a Jedi.\"<br>\r\n<br>\r\nYou take in all that was said to you. You always wanted to become the greatest of the Jedi. You wanted to become more powerful than even Master Yoda. </span></div></div>",
+            "created":1119848400,
+            "id":258448,
+            "title":"Not from a Jedi"
+        },
+        "12112111":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Lead the Jedi into a trap.",
+                "Lead the attack in the name of democracy."
+            ],
+            "content":"<div class=\"\"><div> <span>You need to keep listening. You want this power.<br>\r\n<br>\r\n\"I can teach you in the ways of the Force, Max,\" the Chancellor says.<br>\r\n<br>\r\n\"How do you know the Force?\" you inquire.<br>\r\n<br>\r\n\"I have been trained by many Jedi and Sith alike.\"<br>\r\n<br>\r\n\"You know the Dark Side?\"<br>\r\n<br>\r\n\"Max, to become a successful leader, one must accept a broader view of the Force, not just the narrow views of the Jedi.\"<br>\r\n<br>\r\nSuddenly it hits you. The Supreme Chancellor is the Sith Lord the Jedi have been looking for!<br>\r\n<br>\r\n\"You're the Sith Lord!\"<br>\r\n<br>\r\nYou ignite your lightsaber and point it at Palpatine.<br>\r\n<br>\r\n\"Are you going to kill me, Max?\"<br>\r\n<br>\r\n\"I certainly would like to.\"<br>\r\n<br>\r\n\"Good. I can feel your anger seething. Join me, Max, and we can end the deception of the Jedi. Max, the Jedi, hate democracy, hate the Republic. They want complete control. Together, we can end their treason!\"<br>\r\n<br>\r\n\"The Jedi would never commit treason. They use their power for good. They protect the Republic.\"<br>\r\n<br>\r\n\"Max, good is a point of view. The Jedi are no longer needed to protect the Republic. We have our clone armies to do that now.\"<br>\r\n<br>\r\nYou lower your lightsaber. You find yourself not knowing what to do. You could lead the traitorous Jedi into a trap in the Chancellor's office. Or you could lead the attck against the Chancellor.</span></div></div>",
+            "created":1119934800,
+            "id":258541,
+            "title":"The Sith Lord Revealed"
+        },
+        "121121111":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Strike down the Chancellor",
+                "Become a Sith Lord"
+            ],
+            "content":"<div class=\"\"><div> <span>You leave the Chancellor's office and rush to the Jedi Temple. You find Master Windu in the Council chambers.<br>\r\n<br>\r\n\"Master Windu!\"<br>\r\n<br>\r\n\"Max, what's wrong?\"<br>\r\n<br>\r\n\"The Chancellor is the Sith Lord we've been looking for.\"<br>\r\n<br>\r\n\"Are you certain?\"<br>\r\n<br>\r\n\"Yes.\"<br>\r\n<br>\r\n\"Very well. We will go and arrest the Chancellor.\"<br>\r\n<br>\r\nJust then Anakin walks in.<br>\r\n<br>\r\n\"Anakin, you'd better remain here. The Chancellor is the Sith Lord. I'm taking some Jedi and going to arrest him.\"<br>\r\n<br>\r\nAnakin looked shocked. However, he nodded in agreement. <br>\r\n<br>\r\nAfter Mace leaves, you follow him out. You jump in your speeder and fly over to the Chancellor's office, while staying out of sight of the military transport above you, carrying the Jedi.<br>\r\n<br>\r\nYou find yourself a little late as you here from down the corrdior Mace Windu saying, \"Chancellor Palpatine, in the name of the Galactic Senate, you are under arrest!\"<br>\r\n<br>\r\nYou can also here the hum of active lightsabers.<br>\r\n<br>\r\nThe you here the Chancellor say, \"Are you threatening me, Master Jedi?\"<br>\r\n<br>\r\nYou then here another lightsaber snap on.<br>\r\n<br>\r\nYou run down the corridor to the Chancellor's office. As you enter, you look to the ground and see three bodies, all Jedi. You look to the other end of the office. The Chancellor and Master Windu exchnaging blows with their lightsabers. You see flashes of purple and red as they swing again. The Chancellor's lightsaber flies free from his hand and goes down on the floor on the other side of his office. Mace Windu's lightsaber was at the Chancellor's throat.<br>\r\n<br>\r\nYou ignite your own lightsaber and jump across the room. Just as Mace is about to swing his blade for the kill, you block in the Chancellor's defense.<br>\r\n<br>\r\n\"Max, what are you doing?\"<br>\r\n<br>\r\n\"You can't kill him. He must stand trial!\"<br>\r\n<br>\r\n\"He's too dangerous to let live!\"<br>\r\n<br>\r\nYou then push on Mace's blade and he step backwards to regain his footing. You stand combat ready.<br>\r\n<br>\r\n\"I will do what I must,\" Master Windu says.<br>\r\n<br>\r\nBoth of you swing your lightsabers. They clash and you do it again. You anger at the Jedi makes each blow of yours more powerfulMace can't hold you back and your blade cuts through felsh and bone as it removes his hand.<br>\r\n<br>\r\nOut on the balcony, Master Windu is stepping back, not knowing what to do. You step closer, a dark look on your face. Mace knows that you have turned to the Dark Side. Then the Chancellor step up from behind you. He fired lightning out out of his hands and Master Windu screams as he goes flying off the balcony to his death. You shut down your lightsaber.</span></div></div>",
+            "created":1119934800,
+            "id":258543,
+            "title":"The Trap"
+        },
+        "1211211112":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Kill Cerra quickly",
+                "Fight Cerra"
+            ],
+            "content":"<div class=\"\"><div> <span>\"You have done well, Max.\"<br>\r\n<br>\r\nYou turn towards your new master. You kneel.<br>\r\n<br>\r\n\"I give myself to your teachings.\"<br>\r\n<br>\r\n\"Good. I can feel your anger. From this day on you will be known as Darth Vader.\"<br>\r\n<br>\r\n\"Yes, my master. Thank you.\"<br>\r\n<br>\r\n\"Every single Jedi is now an enemy of the Republic. Do not hesitate. Show no mercy.\"<br>\r\n<br>\r\n\"Yes, my master.\"<br>\r\n<br>\r\nYou lead the clone army on Coruscant on the Jedi Temple. You think to yourself that it should not be too difficult since Master Windu is dead, Yoda is on Kashyyk, and Obi-Wan is on Utapau. The gatekeepers at the Temple see you marching up. They step back fearfully then step forward igniting their lightsabers. You ignite your lightsaber and quickly stab both of them. You watch their bodies drop to the ground.<br>\r\n<br>\r\n\"Shoot all the Jedi and shoot to kill,\" you order to your clones.<br>\r\n<br>\r\nYou march into the Jedi Library. You walk up to the master there.<br>\r\n<br>\r\n\"I need access to the Temple's beacon,\" you demand.<br>\r\n<br>\r\n\"On who's authority?\" she inquires.<br>\r\n<br>\r\n\"The Supreme Chancellor of the Galactic Republic.\"<br>\r\n<br>\r\n\"The Chancellor does not have that power. Only the Jedi Council can authorize use of the beacon!\"<br>\r\n<br>\r\nWith that, she ignites her lightsaber. You ignited yours and grab her by the throat. You thrust your bladeinto her stomach and drop her lifeless body to the ground.<br>\r\n<br>\r\nThe padawans that saw this violent act all ignited their lightsabers. The clones started firing. You walk up to two padawans that stood close together. With one swing you cut them both down. Jedi were dying left and right. You see a rayshield go over the door to leave the room and you look up to the upper level to see Jedi and one in thje control room. You use the Force and jump un to the upper level. You stab a Jedi and cut the one next to hikm in half. These padawans are not match for you.<br>\r\n<br>\r\nAnother Jedi you stab in the side. You see a rayshield over the small control room. Then you eye the panel next to it. You thrust your lightsaber into the wall and cut the panel off. Then you thrust your blade into the circuitry inside. The rayshield in the control room lost power.<br>\r\n<br>\r\nThe Jedi inside ignited his blade and lunges at you. You sidestep and stab him in the back. You hit the switch to shut down the ray shield. You walked over to the edge of the upper level and jumped back down. The cones had already blown through the door. You see a tall statue of an ancient Jedi. Many Jedi were fighting the clones below it. With all your powers you grab the statue with the Force and pull it down. All the Jedi are crushed. You grab a piece of it and though it through the next door.<br>\r\n<br>\r\nInside was Cerra Keto, one of the most promising Jedi swordsmen.</span></div></div>",
+            "created":1119934800,
+            "id":258563,
+            "title":"Attack on the Temple"
+        },
+        "12112111122":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Go to the Council chambers",
+                "Go activate the beacon"
+            ],
+            "content":"<div class=\"\"><div> <span>Cerra ingnites two green blades. You hold up your single blue blade. She jumps at you. You block one blade, then another. She launches attack after attack. You counter each move. This is apparently a fair fight. With the Force, she opens the door into the next room. You are fighting among holograms of some of the greatest Jedi who ever lived. She then lowers her defense for one second for an offensive attack. You use it to your advantage. As her blade comes at you, your blade cuts intop her wrist. Her hand went flying off the rest of her arm. She cried out in pain, but still fought you. As she prepares another offensive strike, you stab her in the stomach and though her through the next door and off a balcony. <br>\r\n<br>\r\nYou walk out to see her body to see it has landed at the feet of her master, Cin Dralig, the master swordsman of the Jedi. This is the man who taught you to use your blade. He ignites his green blade as you jump down to his level.<br>\r\n<br>\r\nHe rushes at you and swings his blade. You jump over him and he turns and swings again. This time you block and counter his attack. The next strike comes for your head. You duck as it misses, but not by much. <br>\r\n<br>\r\nIn this instance, he lower his defense. You jump up and stab him through the chest. You hear Cin Dralig gasp his final breath as he drops to the ground, dead.<br>\r\n<br>\r\nThere is only one place left to clear, the Council chambers.</span></div></div>",
+            "created":1119934800,
+            "id":258565,
+            "title":"Tougher Opponents"
+        },
+        "121121111221":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Ask Anakin to join you",
+                "Kill Anakin"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide you must finish off the Jedi first. The clones march behind you as you walk down the corridor to the Council chambers. On your way, you see a youngling cowering in fear behind a statue. You ignite your blade and stab the boy. You switch off your lightsaber as you approach the chamber. A clone opens the door as a Jedi leaps out. When you turns around all the clones around you were dead. Anakin Skywalker stood there, his lightsaber humming. He turns to a combat stance.<br>\r\n</span></div></div>",
+            "created":1119934800,
+            "id":258566,
+            "title":"Confronted by Anakin"
+        },
+        "1211211112211":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "content":"<div class=\"\"><div> <span>\"Anakin, join me!\" you demand of Anakin.<br>\r\n<br>\r\n\"I will never join you!\" he barks back.<br>\r\n<br>\r\nHe delivers a powerful blow to you but you manage to parry the strike. This time you deliver th powerful strike. Anakin blocks and pushed back, making your bladeswing back, lowering your defenses. Anakin thrusts his blade into you chest. You gasp your last breath and fall to the ground lifeless.</span></div></div>",
+            "created":1120021200,
+            "id":258703,
+            "title":"The End of the Attack"
+        },
+        "1211211112212":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Go to the Mustafar system"
+            ],
+            "content":"<div class=\"\"><div> <span>\"It seems to be one of the last surviving Jedi. Time to finish what I've started.\"<br>\r\n<br>\r\n\"Not if I have anything to say about it!\" Anakin replies.<br>\r\n<br>\r\nYour lightsaber snaps on. Anakin rushes at you. You sidestep and he quickly turns and swings his blade. You block and push him back into the Council chambers. Anakin lifts upa chair with the Force and throws it at you. You swing your lightsaber and cut it in half. <br>\r\n<br>\r\n\"Your attempts to stop me are futile, Anakin!\" you say as you move closer.<br>\r\n<br>\r\nAnakin lunges at you. You parry and couter his move. He blocks your counter. You deliver a powerful blow to his blade. You push his lightsaber away from his body. You quickly pull back and hit it out of the way again, then quickly jab your blade into Anakin's stomach. You hear him gasp his last breath as he slips into the netherworld. You switch off your lightsaber.<br>\r\n<br>\r\nYou walk with the clones to the Temple's beacon. You put out the signal for all surviving Jedi to go back to the Temple, that the war is over.<br>\r\n<br>\r\n\"Lord Vader,\" your master says as he walks in.<br>\r\n<br>\r\n\"Yes, my master,\" you say as you kneel before him.<br>\r\n<br>\r\n\"I am sending you to the Mustafar system. There you will kill the leaders of the Trade Federation.\"<br>\r\n<br>\r\n\"Yes, my master.\"<br>\r\n<br>\r\nWith that you hop in your Jedi starfighter and leave Coruscant on your first mission as a Sith. </span></div></div>",
+            "created":1120021200,
+            "id":258713,
+            "title":"The Fall of Anakin"
+        },
+        "12112111122121":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "It is Obi-Wan",
+                "It is Yoda"
+            ],
+            "content":"<div class=\"\"><div> <span>You come out of hyperspace and take your first glance at the firey planet of Mustafar. You angle your fighter and fly down into the planet's atmosphere. Now you see the molten seas of lava and the charred, rocky mountains. Now the station your master has sent you to is in sight. You slow your ship and land on a landing platform. You walk down the corridor to the Trade Federation leaders.<br>\r\n<br>\r\n\"Lord Vader! Welcome!\" the Viceroy says as you walk in.<br>\r\n<br>\r\nYou snap on your lightsaber. You can see them cowering in fear. You strike down the Neimodian closest to you. With the Force you seal all the doors, making escape impossible. You kill each of the Trade Federation leaders one by one. The last one remaining is the Viceroy.<br>\r\n<br>\r\n\"Please!\" he pleads. \"Darth Sidious promised us peace!\"<br>\r\n<br>\r\nYou strike him down, ignoring his plea for mercy. You shut down your lightsaber and walk over to the comm system.<br>\r\n<br>\r\nYou kneel as the image of your master appears.<br>\r\n<br>\r\n\"It is done, my master. The Trade Federation is no more.\"<br>\r\n<br>\r\n\"Excellent! You have done well, Lord Vader. Now send the signal for all Trade Federation battle droids to shut down.\"<br>\r\n<br>\r\n\"Yes, my master.\"<br>\r\n<br>\r\nThe transmission ends and you stand. You walk over to the command console and send the signal for all droids to shut down. You look out one of the now open doors and see a ship landing. You then sense a tremor in the Force. A surviving Jedi?</span></div></div>",
+            "created":1120021200,
+            "id":258775,
+            "title":"Mustafar"
+        },
+        "121121111221211":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "You jump and Obi-Wan hits you",
+                "You jump and Obi-Wan misses"
+            ],
+            "content":"<div class=\"\"><div> <span>You step out onto the landing platform as the ship lands. The ramp lowers and Obi-Wan Kenobi appears in the doorway. <br>\r\n<br>\r\n\"Max, you have gone too far!\" he shouts over the roars of erupting volcanoes.<br>\r\n<br>\r\nHe walked down the ramp to you.<br>\r\n<br>\r\n\"Now,\" he says, \"you have become the very thing which you swore to destroy!\"<br>\r\n<br>\r\n\"Don't lecture me, Obi-Wan. I see through the lies of the Jedi. Now I have brought peace and safety to my new Empire!\"<br>\r\n<br>\r\n\"Your new Empire? Max, my allegiance is to the Republic, to democracy!\"<br>\r\n<br>\r\n\"If you're not with me, then you're my enemy.\"<br>\r\n<br>\r\n\"Only a Sith deals in absolutes. I will do what I must.\" He grips his lightsaber handle.<br>\r\n<br>\r\n\"You will try,\" you say as you whip out your lightsaber and snap it on.<br>\r\n<br>\r\nYou flip over to Obi-Wan and your blades meet. You both move your lightsabers lightning fast, each blade moving in a blue blur. The blades stop as they come in contact once more. Both men are pushing at each other with an equal amount of force. Then you both push at each other with the Force. Both of you fly to opposite ends of the control room. You get up and leap at Obi-Wan. You miss him and cut through the control panel. <br>\r\n<br>\r\nAlarms start whailing as all the heat shields around th station fail and it starts to lose altitude. The door on the other side of the control room opens and you both move out, striking each other's blades as you move. Obi-Wan picks up a metal crate with the Force and throws it at you. You cut it in half and both ends land at each side of you. Obi-Wan can see the look of hatred in your eyes. You walk closer to him. Your blades come together once more in a blue flash. Obi-Wan loses his footing on the edge of the ledge and falls to a platform below. <br>\r\n<br>\r\nHe looks up at you as you jump down swinging your blade and you miss him as he rolls out of the way and jumps back to his feet. Your blades meet yet again. Obi-Wan's lightsaber gets pushed back and you kick him in the chest. Obi-Wan step back out onto a bridge. He blocks a powerful bow from you. As the two of you fight far out onto the bridge, a wave a lava comes over the end you had just come from.<br>\r\n<br>\r\nYou both take cover behind a pillar as molten rock rains from the sky. After it stops, you both run up towards the other end of the bridge as the end you were on drops down below into the lava, while one ends melted. You both hang on for your life and still you swing your lightsaber at Obi-Wan and still he blocks. He grabs onto a cable as do you and you both swing in opposite directions. You then go back towards Obi-Wan and come back towards you. Your blades meet again as you swing by each other.<br>\r\n<br>\r\nThere was a little floating platfrom out in the sea of lava. Obi-Wan lets go of the cable and guides himself to the platform using the Force. You swing back to the bridge and hang on. You then realize the bridge is falling back down into the molten sea. You see a droid floating and it has heat shields. You jump from the bridge as it falls into the sea of fire and you land on the droid. You are now flying parallel with Obi-Wan.<br>\r\n<br>\r\nThe droid nears the flying platform and the two blades meet again. Obi-Wan swings at your head you duck and swing for his knees. He jumps and you miss. You jump off the droid and onto the platform. The blue blades lock once more.<br>\r\n<br>\r\n\"Max, Chancellor Palpatine is evil!\" he shouts at you.<br>\r\n<br>\r\n\"From my point of view the Jedi are evil!\" you shout back.<br>\r\n<br>\r\n\"Then you are lost!\" he replies.<br>\r\n<br>\r\nHe jumps back off the platform and onto a rock formation.<br>\r\n<br>\r\n\"It's over, Max! I have the high ground!\" he shouts down to you.<br>\r\n<br>\r\n\"You underestimate my powers!\" you shout up to him.</span></div></div>",
+            "created":1120021200,
+            "id":258787,
+            "title":"Duel to the Death"
+        },
+        "1211211112212111":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "You die a slow and painful death",
+                "The Emperor comes and saves you"
+            ],
+            "content":"<div class=\"\"><div> <span>You jump up at Obi-Wan. He swings his lightsaber. You fall backwards, now without arms and legs.<br>\r\n<br>\r\n\"You were like my brother, Max!\" he shouts. \"I trusted you! I would have given my life for you! You were supposed to destroy the Sith not join them!\"<br>\r\n<br>\r\nYou look up at him, feeling more anger than pain.<br>\r\n<br>\r\n\"I hate you!\" you shout, anger filling your voice.<br>\r\n<br>\r\nAs you lay next to the sea of lava, your body catches on fire. You hang on to life using your hatred and your determination to kill Obi-Wan Kenobi and finish what you have started. You moan as your body is burnt. Obi-Wan picks up your lightsaber and leaves you to die.</span></div></div>",
+            "created":1120021200,
+            "id":258815,
+            "title":"Burning"
+        },
+        "12112111122121111":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You realize that help will never come. Your master has abandoned you. You close your eyes as the sea of fire engulfs your body until you can no longer feel anything. Life begins to slip away as you lose consciousness...</span></div></span></div>",
+            "created":1120021200,
+            "id":258816,
+            "title":"Death"
+        },
+        "12112111122121112":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "content":"<div class=\"\"><div> <span>The fire covering your body begins to smolder. You have no limbs or hair. You look up and see a shuttle landing on the ridge above you. The Emperor walk down to you along with clones.<br>\r\n<br>\r\n\"Good, he's still alive,\" you here him tell the clones. \"Bring a medical capsule. Quickly!\"<br>\r\n<br>\r\n\"Yes, sir!\" you hear the clone acknowledge his order.<br>\r\n<br>\r\nYou are aboard the shuttle flying back to Coruscant. The shuttle lands at the Senate. The Emperor leads the clone troops who bring your mutilated body in the medical capsule.<br>\r\n<br>\r\nWhen you wake up, you are on a steel table in an operating room. You have mechanical legs and the droids are beginning to work on arms. You scream in pain as they touch your scarred tissue. You slip into unconsciousness once more.<br>\r\n<br>\r\nThis time when you wake up, you are wearing a black life suppoort suit. You see a machine lowering a mask onto you, obviously to help with your breathing.<br>\r\n<br>\r\nThe table you are on rises. The Emperor walks up next to you.<br>\r\n<br>\r\n\"Lord Vader? Can you hear me?\" he asks.<br>\r\n<br>\r\n\"Yes, master,\" you reply.<br>\r\n<br>\r\nYou look to the side and see him nod in approval. Then there is a question you must ask.<br>\r\n<br>\r\n\"What became of Obi-Wan? Is he still alive?\" you inquire of your master.<br>\r\n<br>\r\n\"Ah, it seems he has gone into exile on systems not under our control. He is still alive.\"<br>\r\n<br>\r\n\"Noooooooooo!\" you scream, your hatred taking over your actions.<br>\r\n<br>\r\nYour hands rip off the clamps that hold them down, as do your legs. The power of the Force you possess crushes objects around you. You take your first steps with your mechanical legs. You hear your master laughing.<br>\r\n<br>\r\nYou walk to the viewport of the bridge of the Star Destroyer you are aboard. Your master stands ther with Grand Moff Tarkin. You are observing the construction of a superweapon which will be the ultimate power in the galaxy. You will use it to destroy whatever system Obi-Wan Kenobi is located.<br>\r\n</span></div></div>",
+            "created":1120021200,
+            "id":258820,
+            "title":"Rise, Lord Vader"
+        },
+        "1211211112212112":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "content":"<div class=\"\"><div> <span>You jump up and Obi-Wan swings at you. He missed! You turn and stab him in the back. You can hear Obi-Wan's last breath as you shut down your lightsaber and roll his dead body into the firey pit below.<br>\r\n<br>\r\nYou look up and see your master's shuttle landing. You go and meet him.<br>\r\n<br>\r\n\"You have done well, Lord Vader. Now there is no one left to stop us!\" he declares. \"Take this,\" he says as he hands you a new lightsaber. \"This is your new weapon, the weapon of a true Sith!\"<br>\r\n<br>\r\nYou examine the new weapon. You turn it on a gaze at the crimson blade. You thrust it forward and kill your former master. His body falls, to the ground, now lifeless.<br>\r\n<br>\r\nYou hold up your new weapon and shout, \"Now the galaxy belongs to me!\"</span></div></div>",
+            "created":1120021200,
+            "id":258788,
+            "title":"The Galaxy is Yours"
+        },
+        "121121111221212":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "He jumps up and stabs you.",
+                "His hand slips"
+            ],
+            "content":"<div class=\"\"><div> <span>You see Master Yoda step off the ship. He is the last surviving Jedi. You ignite your lightsaber and hold it up. You must finish what you have started. You see Yoda drop his cane and pull out his lightsaber.<br>\r\n<br>\r\n\"Much to learn you still have,\" he tells you.<br>\r\n<br>\r\n\"No, Master, it is you who will learn from me...in your demise!\"<br>\r\n<br>\r\nYou jump at Yoda and he jumps at you. His green blade hits your blue blade. Yoda pushed yours blade aside and jumps over your head. You turn and block his attack. He pushed you back again, but this time you parry and counter his move. You use the Force to throw a large metal crate at the little green Jedi master.<br>\r\n<br>\r\nYoda flips and cuts the crate in half. He jumps at you. The parry his attack and he now hangs over the side of the landing platform, the sea of lava flowing benaeth him.</span></div></div>",
+            "created":1120021200,
+            "id":258821,
+            "title":"Master Yoda"
+        },
+        "1211211112212121":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "content":"<div class=\"\"><div> <span>Yoda jumps up, lightsaber in hand, and stabs you through the chest. You gasp your last breath and the final image your eyes ever see is the angry face of Yoda staring at you, his lightsaber still in your chest. The picture darkens as life begins to slip away from you...</span></div></div>",
+            "created":1120021200,
+            "id":258822,
+            "title":"Yoda's Revenge"
+        },
+        "1211211112212122":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Strike the Emperor down",
+                "Continue to to his bidding"
+            ],
+            "content":"<div class=\"\"><div> <span>You step over to the ledge and see Yoda hanging on for his life. You are about to strike him down, but you switch off your lightsaber as you see Yoda's finger slipping as he loses grip of the landing platform. Yoda drops his lightsaber, which is then melted in the firey pit of him doom below. Yoda tries to grip the ledge tighter, but fails. He loses his grip completely and you watch the Jedi master fall into the lava below. Yoda is no more.<br>\r\n<br>\r\nYou have succeeded! The Jedi are no more! You have brought peace and order to your new Empire. Then a thought hits you. You could be Emperor. Or would you rather be the Emperor's servant to do his bidding. You look up and see his shuttle descending. It lands next to you.</span></div></div>",
+            "created":1120021200,
+            "id":258823,
+            "title":"Death of a Jedi Master"
+        },
+        "12112111122121221":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "content":"<div class=\"\"><div> <span>The Emperor walk down the ramp to you.<br>\r\n<br>\r\n\"You have done well, Lord Vader,\" he tells you.<br>\r\n<br>\r\nYou can't hold back your rage any longer. You must rule the galaxy! You ignite your lightsaber and strike down the Emperor. In his eyes you see a look of terror as you turn on him. In his death, he knew he created a monster. The galaxy is yours!</span></div></div>",
+            "created":1120021200,
+            "id":258824,
+            "title":"Death of a Sith Lord"
+        },
+        "12112111122121222":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You kneel before your master in his presence. In your mind you know he is too powerful for even you to take down. You will live out the rest of your days as a Sith apprentice.</span></div></span></div>",
+            "created":1120021200,
+            "id":258825,
+            "title":"The Sith Apprentice"
+        },
+        "121121111222":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "content":"<div class=\"\"><div> <span>You walk back to the Jedi Library followed by clones. As you step up to the beacon, you feel a tremor in the Force. Anakin! You turn and you see your clone troops firing at a target outside of your field of vision. You come out and see Anakin there, deflecting blaster bolts with his lightsaber and using the Force to guide them to their intended targets: the clones.<br>\r\n<br>\r\nYou ignite your lightsaber as the last clone drops.<br>\r\n<br>\r\n\"It's too late Anakin! I have activated the beacon. All surviving Jedi are retunring to the Temple! They will then die, but not as soon as you!\"<br>\r\n<br>\r\n\"It's not too late! If I kill you, who's left to kill them?\"<br>\r\n<br>\r\n\"The Emperor will send more clones.\"<br>\r\n<br>\r\n\"You know that clones are no match for Jedi, Max.\"<br>\r\n<br>\r\n\"Very well. Then I shall kill you now!\"<br>\r\n<br>\r\nYou jump at Anakin and he jumps at you. You both have yout lightsabers pointed outward. As the two of you come together, you stab each other. Both of you gasp your last breaths and your eyes go dead as do his. You both hit the floor, dead.</span></div></div>",
+            "created":1120021200,
+            "id":258826,
+            "title":"Death Match"
+        },
+        "121121112":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Stop Anakin",
+                "Let him kill Master Windu and turn to the Dark Side"
+            ],
+            "content":"<div class=\"\"><div> <span>You rush back to the Jedi Temple. You hurry and find Master Windu.<br>\r\n<br>\r\n\"Master Windu!\"<br>\r\n<br>\r\n\"Max, what is it?\"<br>\r\n<br>\r\n\"Chancellor Palpatine is the Sith Lord we've been searching for.\"<br>\r\n<br>\r\n\"Are you certain?\"<br>\r\n<br>\r\n\"Yes.\"<br>\r\n<br>\r\n\"Very well. Come, I will need all the help I can get to arrest the Chancellor if he truly is a Sith Lord.\" He looks to three other Jedi standing there. \"You three, come with us.\"<br>\r\n<br>\r\nThey nod and walk with you and Master Windu to a military transport. You remain quiet the length of the ride to the Senate. You arrive at the Chancellor's office.<br>\r\n<br>\r\n\"Chancellor Palpatine, in the name of the Galactic Senate, you are under arrest,\" you hear Master Windu say.<br>\r\n<br>\r\n\"Are you threatening me, Master Jedi?\" the Supreme Chancellor asks.<br>\r\n<br>\r\nOut of nowhere and lightsaber appears in the Chancellor's hand. The crimson blade ignites and he rushed forward at the five Jedi. The first Jedi goes down as he's stabbed. You and Master Windu ignite your lightsabers. Another Jedi is killed as the Chancellor cuts his throat. The other Jedi ignited his lightsaber, blocks one swing from the Chancellor, but is then stabbed. He too falls to the ground. The Chancellor rushes at Master Windu, who skillfully blocks every swing from the Chancellor.<br>\r\n<br>\r\n\"Max, go and get help!\" he yells to you.<br>\r\n<br>\r\nBefore you can react, you see Anakin walk in. He ignites his lightsaber. Instead of going for the Chancellor he goes for Master Windu!</span></div></div>",
+            "created":1120107600,
+            "id":258961,
+            "title":"Chancellor Palpatine, the Sith Lord"
+        },
+        "1211211121":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "choices":[
+                "Anakin defends",
+                "Anakin is too slow to react"
+            ],
+            "content":"<div class=\"\"><div> <span>You jump in front of Anakin and block his lightsaber.<br>\r\n<br>\r\n\"Anakin, what are you doing\" you inquire of the Jedi.<br>\r\n<br>\r\n\"I should be asking you that question! You're traitors! The Chancellor was right! The Jedi are trying to overthrow the government!\" he shouts back at you.<br>\r\n<br>\r\n\"No, Anakin! We're saving it!\" you answer back.<br>\r\n<br>\r\nAnakin pushes on your blade. He gives you no choice. His loyalty to the Chancellor exceeds his loyalty to the Jedi. You start to push back. Anakin pulls his lightsaber away from yours, but swings it in a different direction. You block the attack. Then the fight begins. He swings at your head, and you duck and counter the attack. You both look over and see the Chancellor on the floor and Mace Windu standing above him, his lightsaber at the Chancellor's throat.<br>\r\n<br>\r\n\"No!\" Anakin shouts.<br>\r\n<br>\r\nHe jumps away from you and goes for Mace Windu. Just as Master Windu is about to swing his blade and kill the Chancellor, Anakin slices through his wrist, cutting off the Jedi master's hand. Master Windu screams in pain.<br>\r\n<br>\r\nThe Chancellor fires lightning out of his hands and throws the Jedi master out the window and down into the night traffic of Coruscant.<br>\r\n<br>\r\n\"No!\" you shout and jump at Anakin.</span></div></div>",
+            "created":1120107600,
+            "id":258962,
+            "title":"Death of a Master"
+        },
+        "12112111211":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "content":"<div class=\"\"><div> <span>Anakin sees you coming and blocks your lightsaber. You can see his eyes are that of pure hatred and you see he is lost. You push on his blade, but it's not enough. He pushes back your blade and it swings away from your body. Then he plunges his blade into your chest and it appears again behind your back. The last thing your eyes see before they slip into lifelessness is the satisfied look on the Chancellor's face.</span></div></div>",
+            "created":1120107600,
+            "id":258970,
+            "title":"Failure to Save Democracy"
+        },
+        "12112111212":{
+            "author_id":"vader",
+            "author_name":"vader",
+            "content":"<div class=\"\"><div> <span>Anakin is too slow to react as he sees you coming at him. You swing your lightsaber and decapitate him. The Chancellor rise and fires his lightning at you. You block it with your lightsaber. You throw it back with the Force. The Chancellor stops as he gets zapped. You rush forward and stab the Chancellor. You hear him groan and you see his body go limp.<br>\r\n<br>\r\nYou havesaved the Republic. You have saved democracy.</span></div></div>",
+            "created":1120107600,
+            "id":258963,
+            "title":"End of the Sith"
+        },
+        "121122":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Agree to go with Obi-Wan to Kill General Grevious",
+                "Trust that the Jedi Council will choose wisely and remain on Coruscant"
+            ],
+            "content":"<div class=\"\"><div> <span>Anakin and yourself are treated to a standing ovation by the Senate. The war is almost over. The Outer Rim Sieges proceed apace.Only General Grevious stands between the Republic and total victory against the Separatists.<br>\r\n<br>\r\nTo your suprise Chancellor Palpatine takes you aside after the Senate disperses. The pride you feel is only tempered by the jealous look shot at you by Anakin.<br>\r\n<br>\r\n'You show great potential as Jedi, young Raven' The Chancellor intones with his deep voice. 'I can see you becoming the most powerful of all the Jedi. Your victory over Count Dooku proves that. I only hope that the Jedi Council's Training will help you fulfill your full potential.'He says enigmatically.<br>\r\n<br>\r\nThe Supreme Chancellor informs you that the Jedi Council is deciding who to send to kill General Grevious. He offers to use his influence to have you sent with General Kenobi. 'So long as you remember the favour when you sit on the Jedi Council, as you surely soon will'<br>\r\n<br>\r\nThe chance to show what you can do excites you. Many Jedi have died in the clone wars, a seat on the Council is not an unrealistic ambition for  a Jedi of your potential. Especially one who helped end the war by bringing Grevious to justice. Nevertheless, the Chancellor's words send a chill down your spine. What would he want in return?  </span></div></div>",
+            "created":1119848400,
+            "id":258412,
+            "title":"Ambitions of a Jedi"
+        },
+        "1211221":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Go and find General Kenobi",
+                "Remain where you are and wait for him to return"
+            ],
+            "content":"<div class=\"\"><div> <span>With the Chancellor's influence the Council agrees to send you with Obi-Wan to kill general Grevious. After a long hyperspace flight your two ships arrive at Utapau and land inside one of the large circular canyons that penetrate the surface of the planet.<br>\r\n<br>\r\nThe inhabitants seem nervous and whisper to you and Obi-Wan that thousands of battle droids inhabit the upper levels an are keeping them prisioner.<br>\r\n<br>\r\n'You stay here' orders Kenobi 'pretend your are unaware of the Grevious and allow yourself to be captured. I will be nearby.' <br>\r\n<br>\r\nAfter refuelling your ships, the General intructs his R5 unit to pilot his ship to orbit. He conceas himself.<br>\r\n<br>\r\nYou are escorted to the upper levels of the great city where you find yourself surrounded by battle droids. Keeping Obi-Wans plan in mind you allow you lightsaber to be conficated and you are taken before General Grevious.<br>\r\n<br>\r\n'So a Jedi' Grevious coughs. 'Are you all they sent' he asks mockingly<br>\r\n<br>\r\nYou call your lightsaber to your hand, instantly cutting two droids in half. A group of heavy battle driods rush between you and Grevious peppering you with laser fire. You deflect it all but are forced to retreat. <br>\r\n<br>\r\nWith a groan a large metal container breaks lose from it's restraints and crushes the droids attacking you. Obi-Wan leaps from an overhead beam landing softly in front of General Grevious.<br>\r\n<br>\r\n'Well you're a bold one' Grevious laughs. 'Battle droids kill the other Jedi! I will deal with General Kenobi'<br>\r\n<br>\r\nA whole line of battle droids open fire on you. YOu draw deeply on the force deflecting all the bolts. Several of battle driods are taken out by their own shots. You push a droid off the platform to smash on the lower level. For every droid you destroy more arrive to take their place. <br>\r\n<br>\r\nThrough their armoured ranks you see Kenobi fighting Grevious. Grevious has a lightsaber in each of his 4 hands and evidently knows how to use them. Nevertheless as you look you see Obi-Wan cut one off.<br>\r\n<br>\r\nSuddenly Clones are everywhere, dropping from  hovering troop transports. The air is full of Republic ships. You slice your way through the distracted ranks of battle droids as the clones attack.<br>\r\n<br>\r\nGeneral Grevious, now weaponless is thrown by Kenobi down to the lower level. Kenobi gives chase.<br>\r\n<br>\r\nPretty soon the battle is over. The droids are all destroyed. You are weary from hours of fighting. A clone commander hands your Kenobi's weapon. 'I think he dropped this sir. </span></div></div>",
+            "created":1120107600,
+            "id":258882,
+            "title":"Battle on Utapau"
+        },
+        "12112211":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Agree for Now",
+                "Decline"
+            ],
+            "content":"<div class=\"\"><div> <span>Before you can leave your communicator springs to life displaying the Supreme Chancellor. You make your report.<br>\r\n<br>\r\n'Very good. Now is the time for you to repay my generosity.' He replies menacingly.His eyes glow with power 'Kill Kenobi and take your place at my side as the most powerful of the Jedi. As a Sith.'<br>\r\n<br>\r\nYOu realise with a start that Palpatine is the Sith you've all be looking for. Then you wonder why you never saw it before.</span></div></div>",
+            "created":1120107600,
+            "id":258883,
+            "title":"A Perilous Offer"
+        },
+        "121122111":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Strike him down",
+                "Throw him his saber and tell him of the Sith"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>'Of course, I will repay you' You shut down the communicator and go looking for Obi-Wan. You find him on the platform with his ship.<br>\r\n<br>\r\nHe stand over the dead body of General Grevious. He greets you with a smile.He is unarmed</span></div></span></div>",
+            "created":1120107600,
+            "id":258885,
+            "title":"Kenobi's Fate"
+        },
+        "1211221111":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>You thumb your lightsaber's ignition switch and strike Kenobi down with one smooth motion.<br>\r\n<br>\r\nLying on the ground he inhales a rattling breath and blows a sinlge sharp note through his fingers. Curious you step foward, then spin around as a large green lizard barges into you sending you off the platform and plummeting to your death in the chasm below!</span></div></div>",
+            "created":1120107600,
+            "id":258886,
+            "title":"The Green Lizard"
+        },
+        "1211221112":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Return to Coruscant"
+            ],
+            "content":"<div class=\"\"><div> <span>'By Jabba's Belly!'He exclaims 'We must contact the Jedi Council immediately. Thank you Max.' He clasps your arm.<br>\r\n<br>\r\nWalking to his ship Kenobi instructs his astromech droid to put him through to the Jedi Temple. He gets nothing but static. 'Max I think we're being jammed!' <br>\r\n<br>\r\nYour danger sense sends a tingle down your spine and you spin around igniting your lightsaber just in time to deflect a turbolaser blast back at the clone artilery battery placement on the opposite side of the city. 'The Clones are turning on us!' You shout. <br>\r\n<br>\r\nObi-Wan is busy holding the gangway to the landing platform against a squad of Clones. He has killed a couple but there is no end to their numbers. The clones are an efficient army, you realise and given their numbers and replenishment rates, they could be a real threat to the Jedi.<br>\r\n<br>\r\nObi-Wan puts two fingers of his left hand to his mouth and emits a high pitch whistle. The Clones on the gangway to the platform are thrown aside by a large green Lizard! One of the clones gets off a shot but this seems to enrage it further, sending it into a killing frenzy. Making the most of the commotion Kenobi jumps into his craft and beckons you on to the wing.<br>\r\n<br>\r\nHolding onto the canopy with all your might and using the force to balance you manage to keep from falling as the General lifts off. He pilots the ship to another platform where your own fighter rests.<br>\r\n<br>\r\n'Come on Max! He cries as you force leap onto your craft. You let out a sigh of relief as you both throttle into orbit. <br>\r\n<br>\r\nYou receive a homing message from the jedi Temple instructing you to return home. You are intercepted on route however by the Corellian Corvette of Senator Organa of Alderran. On board is Yoda, returned from Kashyyk.<br>\r\n<br>\r\n'Betrayed we have been' says Yoda 'More Jedi falling into this trap we must prevent.'<br>\r\n<br>\r\n'We must shut down the homing beacon' Says Obi-Wan<br>\r\n<br>\r\n'And deal with the Sith!' You add with feeling<br>\r\n</span></div></div>",
+            "created":1120107600,
+            "id":258892,
+            "title":"Escape from Utapau"
+        },
+        "12112211121":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Go with Yoda to kill the Emperor",
+                "Go with Obi-Wan to kill Anakin"
+            ],
+            "content":"<div class=\"\"><div> <span>The ship arrives back at Coruscant. Conveniently Senator Organa has been summoned to the Senate. Yourself, Master Yoda and Master Obi-Wan make your way to the Jedi Temple and quickly overcome the Clones guarding it. Inside it is a scene of desolation. Dead Jedi and padawans lie everywhere. They took a heavy toll on the invaders but fell to the last man. Then you discover a group of younglings.They haven\u2019t been killed by blaster fire. 'These younglings were killed by lightsaber.' says Yoda gravely<br>\r\n<br>\r\nObi-Wan reprogrammes the homing beacon to tell all other surviving Jedi to stay away from the temple. Finally as you are about to leave Obi-Wan insists on seeing the holovideo recording of what happened in the temple. \u2018If watch the holorecording you do, only pain will you find\u2019 says Yoda wisely<br>\r\n<br>\r\nIn shock you and Kenobi watch Anakin stride into the Temple a hood drawn over his features, at the head of a clone army. He strikes down the younglings without mercy. \u2018Skywalker has become twisted with evil\u2019 Yoda remarks.<br>\r\n<br>\r\n\u2018Please send me to kill the Emperor\u2019 Implores Kenobi \u2018you cannot make me kill Anakin\u2019<br>\r\n<br>\r\n\u2018Have the power to defeat the Emperor, you do not\u2019 replies Master Yoda \u2018Even with Jedi Raven to help you.I must face him.\u2019<br>\r\n<br>\r\n\u2018But I don\u2019t know how to find Anakin!\u2019Obi-Wan replies<br>\r\n<br>\r\n\u2018Search your heart Obi-Wan, you will find a way. Obi-Wan could do with your help Raven, but also so could I.\u2019<br>\r\n<br>\r\nThe choice is yours.<br>\r\n</span></div></div>",
+            "created":1120194000,
+            "id":259046,
+            "title":"Return to the Temple"
+        },
+        "121122111211":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Draw your lightsaber",
+                "Do nothing until Yoda does"
+            ],
+            "content":"<div class=\"\"><div> <span>You accompany the great Master Yoda to the Senate via secret passageways you had no idea existed. Any clones you encounter seem to take an instant interst in everything but your presence-the skill of Yoda to use the minimum force to maxium but subtle effect. As you approach your destination you feel Yoda pull more and more of the force to him. You do likewise until you both shine like supernovae of the force as you enter the Emperors chambers. <br>\r\n<br>\r\nYoda deals with the two red robed guards with a quick gesture; they rebound from the wall of the chamber and fall senseless to he floor.<br>\r\n<br>\r\n'Ah Master Yoda, you survived.' says the Emperor as he rises from his seat. 'And his pupil Jedi Raven.My Clones have been most careless in letting you two live. A mistake I don't intend to repeat.'<br>\r\n<br>\r\n'Your short reign is at an end Emperor'says Yoda quietly but confidently 'And far too long it was.'<br>\r\n<br>\r\n</span></div></div>",
+            "created":1120453200,
+            "id":259444,
+            "title":"Confrontation witht the Emperor"
+        },
+        "1211221112111":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Throw your Lightsaber at the Emperor",
+                "Remain where you are in case he sends more lightning"
+            ],
+            "content":"<div class=\"\"><div> <span>You ignite you lightsaber just as the Emperor cries 'Now Feel the full powr of the Darkside!'<br>\r\n<br>\r\nMalignant blue bolts of lightning leap from the Empeors finger tips and send a judder down your lightsaber as they are caught on it's yellow shaft.<br>\r\n<br>\r\nUnarmed Yoda is flung to the floor by the blast. You step in front of your Master protecting him from the Emperor.<br>\r\n<br>\r\n'Impressive, Max. You have mastered your fear. Now unleash your anger and your journey to the Darkside will be complete!'   </span></div></div>",
+            "created":1120453200,
+            "id":259447,
+            "title":"Master your fear"
+        },
+        "12112211121111":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>You throw your Lightsaber in an arc hoping to cut the Emperor in two. <br>\r\n<br>\r\nWith startling suddeness Palpatine dodges aside and your lightsaber hits the wall. Before you can call it to you it flys straight back at you. <br>\r\n<br>\r\nIt is you that is cut in half!</span></div></div>",
+            "created":1120453200,
+            "id":259449,
+            "title":"Sliced and Diced"
+        },
+        "12112211121112":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Attack the Emperor"
+            ],
+            "content":"<div class=\"\"><div> <span>You remain where you are protecting Yoda as he regains his feet. <br>\r\n<br>\r\nWith a grunt of effort Yoda throws the Emperor across the room where he falls to the floor in a pile of limbs.<br>\r\n<br>\r\nYou run fowards to finish it but Paplatine jumps back to his feet and ignites his lightsaber, backing through a door and up a staircase into the main Senate chamber.<br>\r\n<br>\r\nYoda jumps ahead of you and engages the Emperor ina furious lightsaber battle. Yoda never stops jumping and striking at Palpatine from all angles with his little green lightsaber. Suddenly Yoda knocks the Emperors saber from his hand sending it falling down intothe senate chamber.<br>\r\n<br>\r\nBefore Yoda can strike him down however a furious bolt of lightning disarsm the little green warrior!<br>\r\n<br>\r\nThe Emperor cackles in triumph throwing more evil energy at the Master. Instead of killing him however, Yoda extends his arms absorbing the foul dark energy. Lgithing sarkles in Yoda's narrowing eyes as he and the Emperor engage in the ultimate battle of wills.<br>\r\n<br>\r\nYou could finish this here you realise. </span></div></div>",
+            "created":1120479360,
+            "id":259451,
+            "title":"Test of Wills"
+        },
+        "121122111211121":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>You force jump towards the Emperor bringing your lightsaber down in a overhead swing. The Emperor ducks and raises his hands throwing more terrible energy from his finger tips. You grit your teeth with effort as the force of its impact against your lightsaber drives you slowly backwards towards the edge of the platform and the long fall beneath.<br>\r\n<br>\r\nYou suddenly feel another force however, purer and strong beyond measuring fill your body and you know Yoda is joining his stregth with yours. You take a step foward, then another, throwing the Emperor's lightning back upon himself and sending him to his knees. The lightning cuts out and he is left on the floor writhing and smoking in agony. <br>\r\n<br>\r\nYou know what has to be done. The corrupt courts of Coruscant must never sit in judgement on this man. Your lightsaber descends in one final blow of conviction. The Emperor is no more!</span></div></div>",
+            "created":1120479960,
+            "id":259453,
+            "title":"Final Judgement"
+        },
+        "1211221112112":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>'Now feel the full power of the darkside!' He cries.<br>\r\n<br>\r\nPowerful bolts of malignant electricity leap from the Emperors finger tips throwing you to the floor like a rag doll . You try and absorb it's energy but the force hitting you is too ill, too vile...<br>\r\n<br>\r\n'You disappoint me' you hear the Emperor say 'You could have been my greatest pupil.'<br>\r\n<br>\r\nYou slip away into unconsciousness and never wake..... </span></div></div>",
+            "created":1120453200,
+            "id":259446,
+            "title":"The Full Power of the Dark Side"
+        },
+        "121122111212":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Execute a flying sidekick into Anakin to knock him into the lava",
+                "Wait for a less risky opportunity"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide Master Yoda needs no help from you. You accompany Obi-Wan to destroy the evil Sith Anakin has become. Not knowing where he has gone, you go to speak to Padme his secret Wife.<br>\r\n<br>\r\n'You're going to kill him aren't you.' She says despairingly.<br>\r\n'We'll do what we must.' Replies Kenobi<br>\r\n<br>\r\nPadme refuses to believe tha Anakin has turned to the Dark side and killed younglings.<br>\r\n<br>\r\nIt doesn't take a genius to figure out Padme will run straight to her lover and before long you and Master Kenobi are stowed away on her sleek Naboo space yacht as she pulls away into the busy night sky of Coruscant and out into space.<br>\r\n<br>\r\nBefore long you arrive at the highly volcanic planet of Mustafa. You and Kenobi step onto the ramp leading onto the landing platform just in time to see Anakin holding Padme aloft with the force, choking her.<br>\r\n<br>\r\n'Let her go!'Commands Obi-Wan<br>\r\n'Look at what you have become.' you say sadly. 'You have fallen way below expectations Skywalker. It will be a mercy to put you out of your misery.'Pamde crumples to the floor.<br>\r\n<br>\r\n'Ha! You'll never stop me Raven. I have become so powerful. I will destroy the Emperor and become the lord of the Galaxy!' <br>\r\n<br>\r\nAfter a few minutes you and Kenobi stop laughing. 'Where d'you get your lines Ani?'You say as Kenobi checks Padme's life signs.'You must let me have you writer's number.' You say mockingly 'He's a genius!' your voice is dripping with sarcasm.<br>\r\n<br>\r\n'You will pay for your lack of respect Raven!' Anakin cries melodramatically as he triggers his lightsaber.<br>\r\n<br>\r\n'Let's do this thing!' You say igniting your yellow lightsaber as Master Kenobi does likewise.<br>\r\n<br>\r\nYou and Kenobi advance on Anakin attacking him in tandem. You may not have trained much with Obi-Wan before but the force is your ally and together you force Anakin back onto a narrow pathway above the Lava. Just as you think you have Anakin you slip and the dark Jedi almost gets you. Pulling back just in time Anakins saber draws a thin line of blood from your arm. Before he can finish you Kenobi steps in and takes the battle to Anakin. Their duel is epic and ranges all over the complex. You get to your feet and follow the fighters waiting for an opportunity to finish it. They are very evenly matched, Master versus former pupil, both kow each others styles inside out. Luck may well decide the outcome you think, or a small error in judgement.<br>\r\n<br>\r\nYou catch up again with the fighting Jedi as they leap from a large floating tower as it plummets over a molten 'water'fall. Both land on small droids designed to harvest precious metals from the flow of Lava. Shields protect them from the immense temperatures only a metre below them.<br>\r\n<br>\r\nWatching from an overhead walkway you see an opportunity to strike. You couls jump down and kick Anakin from his perch, though it would be very risky.</span></div></div>",
+            "created":1121077320,
+            "id":260774,
+            "title":"Double Team"
+        },
+        "1211221112121":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Anakin spins around to late to deflect your kick but not to0 late to drop his lightsaber and grab a hold of your foot as you both tumble into the boiling lava.........</span></div></span></div>",
+            "created":1121093340,
+            "id":260785,
+            "title":"Out of the Frying pan into the fire"
+        },
+        "1211221112122":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>You climb down from the overhead pylon onto the far side of the iver of lava just as Anakin leaps onto Obi-wans ride and attacks him. Kenobi evades his attacks and back flips onto the shoreline below where you are standing. You know your time has ceom, you cannot rely on Obi-wan, dsepite his power he might hestiate to land the killing blow on his former pupil.<br>\r\n<br>\r\n'It's over Anakin.'Says Kenobi 'I have the higher ground.'<br>\r\n<br>\r\n'You underestimate my powers....' Anakin screams as your yellow ligthsaber flies true sything through the flymsy heat shelds and destroying the robot trasnport he is standing on. he dissappears in a burst of flame, in agony. A fitting end for a Sith.<br>\r\n<br>\r\nReturning to Space you learn that Yoda failed in his bid to destroy the Emperor. Massive clone security prevents another attempt. The three of you, the only surviving Jedi that you know of agree to go into hiding until things are more favourable. Yoda dissapears to the Outer-rim, Obi-wan to watch over one of Padmes twins, a boy called Luke. You are sent to Alderaan to watch over the other twin a girl called Leia.<br>\r\n<br>\r\nWhen they are grown and trained the Jedi may yet Return...........</span></div></div>",
+            "created":1121093940,
+            "id":260786,
+            "title":"Return of the Jedi"
+        },
+        "121122112":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>'You will never Succeed!' You cry 'The Jedi will stop you!'<br>\r\n<br>\r\nYou feel a warning from the force.<br>\r\n'There he is.' YOu hear the Clone Commander speak. You throw the communicator to the floor and grasp your lightsaber. <br>\r\n<br>\r\nToo late you are lanced through by blaster fire from all sides.</span></div></div>",
+            "created":1120107600,
+            "id":258884,
+            "title":"The Stubborn Man"
+        },
+        "12112212":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Accept for now",
+                "Refuse"
+            ],
+            "content":"<div class=\"\"><div> <span>As you settle down to wait your communicator springs to life displaying the Supreme Chancellor. You make your report.<br>\r\n<br>\r\n'Very good. Now is the time for you to repay my generosity.' He replies menacingly.His eyes glow with power 'Kill Kenobi and take your place at my side as the most powerful of the Jedi. As a Sith.'<br>\r\n<br>\r\nYOu realise with a start that Palpatine is the Sith you've all be looking for. Then you wonder why you never saw it before. <br>\r\n</span></div></div>",
+            "created":1120107600,
+            "id":258887,
+            "title":"A Perilious Offer II"
+        },
+        "121122121":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Strike him down",
+                "Tell him of the Sith"
+            ],
+            "content":"<div class=\"\"><div> <span>'Of course, I will repay you' You shut down the communicator and go looking for Obi-Wan. You find him on the platform with his ship.<br>\r\n<br>\r\nHe stand over the dead body of General Grevious. He greets you with a smile.He is unarmed <br>\r\n</span></div></div>",
+            "created":1120107600,
+            "id":258893,
+            "title":"Kenobi's Fate II"
+        },
+        "1211221211":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>You thumb your lightsaber's ignition switch and strike Kenobi down with one smooth motion.<br>\r\n<br>\r\nLying on the ground he inhales a rattling breath and blows a sinlge sharp note through his fingers. Curious you step foward, then spin around as a large green lizard barges into you sending you off the platform and plummeting to your death in the chasm below! <br>\r\n</span></div></div>",
+            "created":1120107600,
+            "id":258894,
+            "title":"The Green Lizard II"
+        },
+        "1211221212":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are joining another story thread.<br>\r\n<br>\r\nGo to the bottom of the page, press view story outline and select Escape from Utapau. No Cheating!</span></div></span></div>",
+            "created":1120107600,
+            "id":258895,
+            "title":"Intermission"
+        },
+        "121122122":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>'You will never Succeed!' You cry 'The Jedi will stop you!'<br>\r\n<br>\r\nYou feel a warning from the force.<br>\r\n'There he is.' YOu hear the Clone Commander speak. You throw the communicator to the floor and grasp your lightsaber. <br>\r\n<br>\r\nToo late you are lanced through by blaster fire from all sides. <br>\r\n</span></div></div>",
+            "created":1120107600,
+            "id":258888,
+            "title":"The Stubborn Jedi"
+        },
+        "1211222":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Contact Obi-Wan via long range transmitter",
+                "Confront Anakin and give him a chance to explain"
+            ],
+            "content":"<div class=\"\"><div> <span>Despite the promised glory of following General Kenobi in tracking down General Grevious you have misgivings about the motives of the chancellor. A warning from the force perhaps?<br>\r\n<br>\r\nInstead you spend your time instructing padawans with Anakin, who to your suprise was not sent with his master, Obi-Wan. You sense deep unease in your peer, who refuses to be drawn on what is troubling him. <br>\r\n<br>\r\nYou are very succesful in guiding the youngest padawans in their first lessons in controlling the force, and Master Yoda decides it is time for you to have your own apprentice. You are given Olan Cornelius to instruct;a young human from the Corellian system. He is eager to learn and you spend many hours helping him grow in the way of the force. <br>\r\n<br>\r\nOne day your meditations are disturbed by the 10 year old come running into your chambers.<br>\r\n'Anakin and Master Windu are fighting!'<br>\r\n<br>\r\nYou both run into the quadrangle of the Temple where Jedi have their physical training. Taking the crystals out of alignment within the hilt of their sabers allows Padawans to strike each other without fear of inflicting more than light burns and electric shocks.<br>\r\n<br>\r\n<br>\r\nMaster Mace Windu and Anakin Skywalker are fighting at a frenetic pace, their Sabers a blur of blue and purple. Anakin is very agressive, striking relentlessly, seeking a way through Windu's defenses. For a while it looks like the Older man is going to be backed into a corner and defeated. However the Master is steadfast in his defence gradually absorbing Skywalker's attacks driving him backwards with long, powerful and well aimed swings. Anakin fights back, fury pouring from beneath his brows,taking several burns but refusing to yield. Eventually Master Windu bats the younger mans blade aside and holding Anakin down with a blanket of the force points his saber at Skywalkers throat.<br>\r\n<br>\r\nBreathing heavily he speaks;<br>\r\n'You fight well and with much passion Anakin. But remember you must be at peace with yourself to fully know when to put in the finishing blow and when to save you energies.'<br>\r\n<br>\r\nAnakin looks livid and for a moment you think he will strike his instructor. But then he runs from the open courtyard heading. <br>\r\n<br>\r\n'There is too much anger in that young man. It thwarts him in becoming one with the force.' Mace Windu looks troubled 'Go after him Raven and watch over him. I'm not sure what path the force has planned, and my heart fears for him.'<br>\r\n<br>\r\nYou run after Anakin but despite your shouts he just lengthen his strides out of the Temple. Then with a look of contempt he vaults a nearby building and dissappers. Gathering the force to you you leap onto the roof also and see him getting into a sky cab. Following at a discrete distance you see Anakin land on the roof of Senator Amadala's quarters. Unable to control your curiosity you follow and are shocked by what you see. In the doorway leading from the balcony to the senator's rooms ANakin and SEnator Amidala are locked in a lover's embrace. And the Jedi's hands are lovingly stroking her obviously pregnant belly!<br>\r\n<br>\r\nThis clear breach of the Jedi code must be reported. But your feel for Anakin nevertheless. Going straight to the Council would see him expelled from the order.</span></div></div>",
+            "created":1119848400,
+            "id":258418,
+            "title":"Anakin's Anger"
+        },
+        "12112221":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Give Anakin the slip in the Temple Vaults and go to find Master Yoda",
+                "Go woth Anakin to where he says the Jedi rebels are meeting"
+            ],
+            "content":"<div class=\"\"><div> <span>Returning to your quarters in the Jedi Temple you contact Obi-Wan via long range transmitter. Obi-Wan is just about to land on the planet Utapau.<br>\r\n<br>\r\n'I am troubled by your news Max, and suprised I did not see this for myself, although it does not altogether suprise me.' the general says 'In my absence you must be a friend to Anakin. If possible seek out Yoda's advice. I see the dark hand of the Sith in Anakin's actions.'<br>\r\n<br>\r\nJust as the transmitter shuts off you hear a knock on your door. You get a shock when you sense it's Anakin.Had he heard any of your conversation with Obi-Wan?<br>\r\n<br>\r\n'What's going on Max?'<br>\r\n'Not much, you reply. Just checking up on the latest Holonews.' You try and reply casually.<br>\r\n<br>\r\nAnakin looks at you suspicously then says<br>\r\n'Hey, Chancellor Palpatine has appointed me as his personal representative on the Jedi council. Isn't that great? But they haven't given me the title of Master yet, despite the fact few of them can match me with a lightsaber!' He boasts.<br>\r\n<br>\r\n'Be patient Anakin' you reply 'You are not a Master yet'<br>\r\nHe looks at you sharply at hat last remark then changes tack.<br>\r\n'Anyway buddy'he says sarcastically 'The supreme Chancellor has ordered us to look into possible treason against the senate, right here in the Temple. Apparently some of the younger Jedi have been holding anti-republican meetings in the temple vaults. Lets go.'<br>\r\n<br>\r\nYou feel a chill run down your spine. The Jedi have always been the guardians of the Old Republic. If Anakin saw you following him to Senator Amidala's quarters this could be a trap. On the other hand someone needs to keep an eye on Anakin, otherwise things could get nasty.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1119934800,
+            "id":258518,
+            "title":"Suspicious Anakin"
+        },
+        "121122211":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Try to Force Jump up onto the statue",
+                "Try and summon your lightsaber"
+            ],
+            "content":"<div class=\"\"><div> <span>You wait till Anakin is ahead of you in the catacombs then give him the slip running back up into the Temple. You get to Master Yoda's quarters only to find he isn't there. A Holographic recording informs you he has gone to the Kashyyk system.<br>\r\n<br>\r\nYou have to tell someone about Anakin. Running towards Master Windu's chamber you barge into Anakin running the other way.<br>\r\n<br>\r\n'Hey what happened to you! Coward!'<br>\r\n<br>\r\nHe draws keys on his lightsaber. 'Or are you a traitor too!'<br>\r\n<br>\r\n'Far from it Anakin but I think you might be. In fact I know you've broken the Jedi code by marrying!'You reply<br>\r\n<br>\r\nAnakin lashes out at you, fury burning in his eyes. You duck the swipe igniting your own lightsaber.<br>\r\n'I sensed you following me spy!' He says 'But no-one need know but us-and you've got a short lifespan ahead of you!'<br>\r\n<br>\r\nHe attacks wildy forcing you back. You draw deeply on the force to defend yourself. With so many Jedi away there are no other Jedi's about to help you. After a long battle you both step into a large room with a huge Jedi statue standing in the centre. A couple of young Padawans  see you and go running.Anakin steps towards you laughing.<br>\r\n<br>\r\n'And now my friend it is the end of the road for you!' He cuts in high you duck swinging upwards missing Anakin by a whisker. You are thrown back against the statue by his almighty force push. You shake your head to clear it and bring your lightsaber up just in time to parry Anakin's killer stroke. You side kick Anakin in the stomach using the force to push him away and he goes down in a heap. Before you can close in he's back on his feet however swinging at you. You parry his blows and sink your lightsaber into his shoulder. Anakin cries out, but isn't finished. He punches you in the face with he pommel of his lightsaber sending you tumbling back, disarming you. Turning off your lightsaber and holding tightly in his left hand he advances on you keeping his injured side away. <br>\r\n<br>\r\nWhat do you do?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1120021200,
+            "id":258720,
+            "title":"Battle in the Jedi Temple"
+        },
+        "1211222111":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>You have an idea. Backing up against the statue you wait for the final blow. Then just before it lands you jump directly upwards using the force to propell you landing on the top of the stature. Anakins blade sythes right through the statues legs and it topples foward. You fall from your perch landing amongst the debris.<br>\r\n<br>\r\nYou call you lightsaber from Anakin's dead hand.<br>\r\n<br>\r\nSuddenly Jedi surround you. Jedi do not kill Jedi. You will have a long time in prision to contemplate your mistakes.</span></div></div>",
+            "created":1120021200,
+            "id":258721,
+            "title":"Crime and Punishment"
+        },
+        "1211222112":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You try and summon your lightsaber from Anakin's hand but despite his injury, he is holding it too tightly.<br>\r\n<br>\r\nYou'll never know the fate of the Old Republic..........</span></div></span></div>",
+            "created":1120021200,
+            "id":258722,
+            "title":"Folly"
+        },
+        "121122212":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Stand with the Young Padawans. Anakin must be stopped!",
+                "Stand with your friend and strike down the traitors!"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to go with Anakin to where he says the rebel Jedi have been meeting. You feel nervous as you head down into the dark catacombs with Anakin, your thumb never straying far from the activation button of your lightsaber. In truth you are more worried about Anakin than the Jedi rebels. Pretty soon you emerge into a large room lit half lit with burning torches. No one is here. <br>\r\n<br>\r\n\u2018Let\u2019s lie in wait.\u2019 Says Anakin. \u2018My information indicated the traitors will be along soon. You sit opposite Anakin in the shadows behind a large pillar and wait. Stretching out with the force you try and find Master Yoda. Nothing. You heard that Kashyyk was under threat from a separatist droid army. Master Yoda must have gone to help the Wookies you realize. Come to think of it most of the experienced Jedi are scattered over the Galaxy leading the clone armies. The Jedi Temple suddenly feels very vulnerable. Nevertheless you take comfort in the solid presence of Master Mace Windu several levels above you. You think about contacting him through the force but are interrupted by Anakin.<br>\r\n<br>\r\n\u2018Wake up dreamer\u2019 He says cruelly, \u2018Our quarries have arrived\u2019 4 teenage Padawans have entered the room. Before they\u2019ve even had a chance to speak Anakin steps out and lights his saber. \u2018In the name of the Senate surrender!\u2019 <br>\r\n<br>\r\n\u2018Oh look its Palpatine\u2019s lap dog\u2019 the lead padawan, a young human man of about 16 or 17 laughs. You think his name is Jeneel. The other three padawans are younger still and look nervous. \u2018We\u2019ve done nothing wrong says one of the boys, we just don\u2019t agree that the Chancellor has so much power. He wants to be Emperor!\u2019<br>\r\n<br>\r\n\u2018Condemned by their own lips don\u2019t you think Max\u2019 Anakin sounds triumphant. \u2018NOW DROP YOUR LIGHTSABERS\u2019 His voice is dripping with the force and the three accomplices step back cowed. Jeneel stands firm however and raises his green saber. \u2018We will NOT bow to tyranny!\u2019<br>\r\n<br>\r\nBefore you can stop them Anakin and the padawan have crossed lightsabers. Jeneel is good, probably not more than a few years from passing his trials and becoming a Jedi knight. But he is no match for Anakin Skywalker. Anakin easily blocks a high slice and with astonishing violence overpowers the younger man, driving his opponents saber down to their side and with a long stroke takes off Jewel\u2019s right arm above the elbow.<br>\r\n<br>\r\n\u2018Anakin no!\u2019 You cry. Padawan Jeneel faints in a pool of his own blood. Despite their youth his three companions light their sabers and step forward to protect their fallen leader. Before the battle can be joined once more, you thumb your lightsaber\u2019s ignition button and holding its pale yellow blade before you step into the centre of the room.<br>\r\n<br>\r\n\u2018They\u2019re traitors!\u2019 Anakin screams<br>\r\n\u2018But they\u2019re only boys!\u2019 You reply<br>\r\n\u2018Make your choice Max Raven\u2019 Anakin spits \u2018You are either with me or you\u2019re my enemy and the enemy of the Senate!\u2019<br>\r\n</span></div></div>",
+            "created":1119934800,
+            "id":258521,
+            "title":"Battle Lines"
+        },
+        "1211222121":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Remain behind and settle things for good with Anakin",
+                "Go with Mace Windu to arrest the Chancellor"
+            ],
+            "content":"<div class=\"\"><div> <span>'You've gone too far this time Anakin.' You say calmly. 'Now lower your lightsaber and we'll sort this all out'<br>\r\n<br>\r\nAnakin sneers 'I knew one day you'd be my enemy Max. And that was confirmed when I sensed you following me to Senator Amidala's rooms. You will not harm my wife!' He steps forward suddenly and attacks!<br>\r\n<br>\r\nHe is very quick and attacks without pause, rage blazing from his eyes, which have taken on a strange yellow tint. You relax and allow the force to guide your defense waiting for him to tire. It does not happen however and you fell panic creeping in. Anakin has pushed you back from the room you were originally in, deeper into the catacombs beneath the Jedi Temple. Is is taking all your energy to keep Anakin at bay, you are too preoccupied to send a call for help with the force. Your only hope is that one of the young Padawans will raise the alarm before one of you gets hurt.<br>\r\n<br>\r\nStill on the defensive you find yourself backing onto a thin stone walkway above a dark crevasse. The only light is cast by the blue and yellow of your lightsabers.Behind you at the far end of the rocky bridge, the passageway is blocked with rubble from a past rock fall.<br>\r\n<br>\r\n'You're trapped now my friend!'Anakin smiles. 'And after I've killed you I will take my place next to the Chancellor as the greatest Jedi.If any other Jedi get in the way I'll kill them too!' <br>\r\n<br>\r\nAnger surges through your veins and your defense turns into attack. You both stand in the centre of the bridge refusing to give an inch,your lightsabers striking and blocking faster than the eye can follow. Calming your mind you have an idea. Feinting high with your saber you sweep Anakin from his feet and raising your saber high striking down for the killing blow. He rolls aside and your lightsaber sweeps through the stone of the bridge at it's thinest point. With a groan the rock can no longer support it's own weight and it splits and starts to breaks up. You call on the force to backflip into the blocked passageway behind you. Looking back you see Anakin get to his feet and just manage to makethe open passageway opposite befoe the bridge dissapears,  dissintegrating into the blackness below. Anakin's blue lightsaber dissapears as he runs back up the passage. <br>\r\n<br>\r\nYou try and use the force to contact Master Windu but the darkside is clouding the force and you can only sense Mace Windu is worried about a plot to kill the Jedi. You try and reinforce that thought in his mind.<br>\r\n<br>\r\nEven Master Yoda might struggle to make the leap to the far side of the crevasse,you think- so you turn around and start cutting your way through the rock fall behind you. Using the force to lift boulders out of your way you find yourself walking uphill until eventually, several hours later you come out into a room you guess is below the main Senate assembly chambers. You reach out with the force to open the door and dusting yourself off make your way towards the entrance of the building. The force gives you seconds of warnign and you duck into an empty doorway as Anakin rushes past loking haggard and shocked. He has evidently come from the Chancellor's private chambers. Carefull not to be seen you follow him back to the Jedi temple and confront him just as he reaches Mace Windu.<br>\r\n<br>\r\n'I'll deal with you later' Anakin looks you in the eye.<br>\r\n'Yes we have unfinished business' You reply<br>\r\n<br>\r\nAnakin speaks directly to Mace Windu.<br>\r\n <br>\r\n'I have something terrible to tell you, the Chancellor is the Sith Lord we have been looking for'<br>\r\n<br>\r\nMace Windu thinks for a moment then says<br>\r\n'Yes he is the one who is plotting to destroy the Senate. We are on our way now to relieve the Chancellor of power, Obi-Wan has destroyed General Grevious.' The Master looks at you and Anakin in turn. Finally he speaks.<br>\r\n<br>\r\n'Anakin remain here. I know Palpatine is very powerful' He says cutting off Anakin's reply. 'But we will prevail. Remain here until I return.' Then the Master regards you.'If you feel ready, come with me, Raven.'</span></div></div>",
+            "created":1119934800,
+            "id":258524,
+            "title":"Sith Lord Revealed"
+        },
+        "12112221211":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Fight Anakin",
+                "Countinue to try and reason with him"
+            ],
+            "content":"<div class=\"\"><div> <span>'I don't feel ready to face the Sith Lord' you lie to Master Windu. 'I will remain in the Council Chambers with Anakin'<br>\r\n<br>\r\nAfter a few minutes of waiting in the empty chambers Anakin turns to you.<br>\r\n<br>\r\n'I must aid the Chancellor, he is my only chance of saving Padme' Anakin explains to you that the Sith Lord may be able to teach Anakin how to save his pregnant wife from dying in childbirth, a nightmare he has being having repeatedly.'<br>\r\n<br>\r\n'That's crazy Anakin!' you reply 'You can't trust the word of an evil Sith! and beside your dreams only show one possible outcome of the future. You may be the cause of Padme death by following this evil course!'<br>\r\n<br>\r\n'Stand aside Max! I don't want to kill you!'<br>\r\nHe shouts<br>\r\n</span></div></div>",
+            "created":1120021200,
+            "id":258685,
+            "title":"With Anakin in the council chambers"
+        },
+        "121122212111":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Quickly stab upwards",
+                "Use the force to through an object into Anakin's back"
+            ],
+            "content":"<div class=\"\"><div> <span>You lightsaber battle ranges far and wide over the council chambers, neither of you gaining an advantage. Anakin fights like a man possessed, desperate to do what he thinks is right to save his wife. You fight for the survival of the ~Jedi and to do what you think is right. <br>\r\n<br>\r\nYou are too closely matched to end the fight quickly, unless one of you gets lucky. You realise that you do not need ot defeat Anakin only delay him from interfering with the arest of the chancellor. You abandon any thought of attack and just stop Anakin from escaping the Council chambers, sinking deeply into the force. His attacks increase in ferocity and desperation. One wrong move could end the fight either way.<br>\r\n<br>\r\nSuddenly your luck turns and you slip over onto one knee. Triumph in his eyes Anakin raises his lightsaber to strike you down. </span></div></div>",
+            "created":1120021200,
+            "id":258686,
+            "title":"Fight in the Council Chambers"
+        },
+        "1211222121111":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>You stab your yellow lightsaber upwards impaling Anakin upon it's fiery blade. He loks astonished before the light fades from his eyes.<br>\r\n<br>\r\nYou thumb your lightsaber switch allowing his body to fall to the ground and make all speed to the Chancellor's private chambers.When you get there you find an exhausted Mace Windu standing over a decapitatd Sith Lord. The republic is saved. You relate to the MAster what happened with Anakin and see acceptance in his eyes.<br>\r\n<br>\r\n'We've lost a great Jedi today. But we could have lost our freedom. You did the right thing. Thank you'</span></div></div>",
+            "created":1120021200,
+            "id":258688,
+            "title":"Luck is what you make of it"
+        },
+        "1211222121112":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Anakin ducks the table you have thrown with the force and slices open your throat with a slash of his blue lightsaber.<br>\r\n<br>\r\nYou can only hope that your delay enabled Mace Windu and the other Jedi to defeat the Chancellor.....</span></div></span></div>",
+            "created":1120021200,
+            "id":258687,
+            "title":"Gamble with a table"
+        },
+        "121122212112":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>'Anakin listen to me....'<br>\r\n<br>\r\n<br>\r\nYour words die as Anakin slices away your throat with his lightsaber and stabs you in the heart.</span></div></span></div>",
+            "created":1120107600,
+            "id":258900,
+            "title":"Silence is Golden"
+        },
+        "12112221212":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Throw your lightsaber at Anakin",
+                "Allow him to attack Mace Windu"
+            ],
+            "content":"<div class=\"\"><div> <span>Anakin Skywalker must pay for his crimes but apprehending the Sith Lord is too important so you agree to accompany Mace Windu and another Jedi. On the way in the troop transport you fill the Master in on Anakin\u2019s actions and behavior whilst under your observation.<br>\r\n<br>\r\n\u2018Palpatine has used Anakin\u2019s fears for his wife to turn him against the Jedi. I ordered him to remain in the council chambers until we return. If he obeys me we should be able to guide him away from the dark path.\u2019<br>\r\n<br>\r\nMace Windu has a dreadful singularity of purpose as he brushes aside aides and functionaries as you make your way towards the supreme chancellors private chambers. <br>\r\n<br>\r\n\u2018In the name of the galactic senate we are placing you under arrest chancellor Palpatine.\u2019 Mace says as the three of you trigger your lightsabers.<br>\r\n<br>\r\n\u2018Are you threatening me Master Windu?\u2019 Taunts Palpatine as he suddenly ignites his hidden blood red lightsaber. He lets out a terrible cry and launches himself at you and your comrades. How did we miss a Sith of such power? You think as the other Jedi brought with you is stabbed through the heart by the Sith\u2019s blade. You and Master Windu attempt to fall back to the corridor leading from the Chancellor\u2019s study to his larger audience chamber. For a minute you face the Sith Lord alone one on one down the corridor. He is relentless, his rage could fill oceans. His mastery of the darker passions is beyond understanding. Fighting the urge to turn tail and flee you block stroke after terrible stroke. Finally as you back into the main reception one pieces your side and you fall gasping to the floor. As the Sith Lord stabs viscously downwards the purple blade of Mace Windu deflects it, saving you. Holding your bloodied side with your left hand you use the force to throw a cushioned seat at the Sith. He slices the bulky chair in two but before he can attack again you have regained your feet and have retreated out of range. Mace Windu steps between you and the chancellor and the Sith Lord attacks him with the unbelievable focused aggression of one knowledgeable in the dark side. Mace Windu falls back initially but then he gradually masters the Sith Lords attacks, countering the increasingly desperate strikes of his opponent with long powerful but controlled strokes, like those you saw him use against Anakin in the Sparring ring.  One of those long strokes shatters the long transparent window letting in the raging wind of Coruscant\u2019s atmosphere. The Sith Lord is on the retreat now, Mace Windu counters a viscous thrust from the ruby lightsaber and disarms the chancellors kicking him to the floor and pointing his purple lightsaber at Palpatine\u2019s throat.<br>\r\nBy this time you have lost a lot of blood and have collapsed into one of the other comfortable seats the Chancellor provides for his guests. You close your eyes using the force to close the wound in your side. When you open your eyes again it is to the terrible flicker of malignant electricity flying from the Senators fingers to the trembling lightsaber of Mace Windu, who is redirecting their terrible energies upon the now scarred face of his tormentor. Anakin stand between them and you looking from one of them to the other, unsure of what to do. He is oblivious to your presence.<br>\r\n<br>\r\n\u2018Help Anakin\u2019 The Chancellor implores \u2018Can hold on much longer\u2019 Electricity is all around him \u2018It\u2019s the only way to save Padme\u2019<br>\r\n\u2018Don\u2019t listen to him Anakin\u2019 Windu cries against the wind. \u2018I must finish him\u2019 and as the electricity ceases raises his ling lightsaber for the final stroke. <br>\r\n<br>\r\n\u2018No!\u2019 Cries Anakin rushing forward, his own lightsaber lit.<br>\r\n<br>\r\nYou are too weakened to move swiflty.</span></div></div>",
+            "created":1119934800,
+            "id":258537,
+            "title":"Arrest of the Chancellor"
+        },
+        "121122212121":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "THe END",
+                "THE END"
+            ],
+            "content":"<div class=\"\"><div> <span>You throw your yellow lightsaber at Anakin, gritting your teeth to hold it steady with the force. The shimmering blade cuts deeply into Anakin's back killing him instantly. Master Mace Windu decapitates Darth Sidous with a powerful blow. The Sith Lord's head tumbles out into space, and falls from view. As it falls the head lets out a terrible scream carried to your ears by the wind.<br>\r\n<br>\r\nSupported by Mace Windu you make your way back to the Jedi Temple to receive medical attention. In time you will make a full recovery. Mace Windu takes you to your quarters. Just before you fall into a deep Jedi Healing Trance Mace Windu speaks. His words are the last thing you remeber before you fall asleep.<br>\r\n<br>\r\n'The Jedi and I personally owe you a great debt of gratitude. Do not let it trouble you that you had to strike down Anakin. For evil to triumph, only requires that good men do nothing. And you are a good man and a Jedi.'<br>\r\n<br>\r\nWhen you awaken the rest of the Jedi Council has returned from their various missions and the Galaxy is now, largely at peace. Now that Darth Sidous and his apprentice are dead the Darkside no longer taints the force and the Jedi are coming to realise just has close to the abyss they had come. One wrong step and the machinations of the Sith Lord would have come to fruition, the Jedi would be dead and he would reign as Emperor.<br>\r\n<br>\r\nYou are awarded a seat on the coucil Master Max Raven and go on to become one of the most powerful, and good Jedi the galaxy has ever seen, keeping peace and order in the Republic.<br>\r\n<br>\r\nTHE END</span></div></div>",
+            "created":1120021200,
+            "id":258682,
+            "title":"A New Era"
+        },
+        "121122212122":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>You are just too tired to stop Anakin.<br>\r\n<br>\r\nAnakin slices Mace Windu's hand off, preventing him from killing the Sith. With a cackle of delight Palpatine flings the Master out into the open air with a powerful bolt of lightning.<br>\r\n<br>\r\nThen they turn to you. The last thing you see is purle and blue bolts of evil energy coursing between the new Emperor's fingertips and your already damaged body.<br>\r\n<br>\r\nTHE END.</span></div></div>",
+            "created":1120021200,
+            "id":258684,
+            "title":"Apathy's End"
+        },
+        "1211222122":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Agree to Set a Trap for the Jedi",
+                "Refuse to betray your Masters"
+            ],
+            "content":"<div class=\"\"><div> <span>The Padawans are no match for Anakin and yourself, the two most talented Jedi of your generation. Within a minute they all lie dead on the stony floor of the chamber. You feel powerful, unstoppable. <br>\r\n<br>\r\n\u2018The Chancellor will be pleased\u2019, says Anakin \u2018Let us go and report to him\u2019<br>\r\nThe Chancellor is very pleased that have destroyed a threat to the republic. \u2018Well done my friends, you have done me a great service. Come walk with me\u2019<br>\r\n<br>\r\nThe supreme Chancellor walks out of his office into an anteroom with twisted statues adorning the walls. Following him with Anakin you feel a tremor in the force.<br>\r\n<br>\r\n\u2018You two have tremendous potential in the force, and I fear it will never be fulfilled at the Jedi Academy.\u2019<br>\r\n<br>\r\n\u2018You know the ways of the force?\u2019 You and Anakin exclaim together.<br>\r\n<br>\r\n\u2018Yes, I learnt much of the force from my Master..\u2019<br>\r\n<br>\r\nRealisation hits you and you draw your lightsaber. Anakin does likewise. \u2018You are the Sith Lord we have been searching for?\u2019 you say incredulously.<br>\r\n<br>\r\n\u2018Are you going to kill me?\u2019 The Sith Lord replies. \u2018Anakin, you know that together we can laugh at death and stop those we most love from dying. Would the Jedi teach you that? Can they? And Jedi Raven, will you stand aside and allow Anakin to become the greatest Jedi the galaxy has ever known under my tutelage? Did you not enjoy striking down our enemies? If you with to be truly unstoppable you must learn from all sides of the force, not just the narrow aspect the Jedi teach!\u2019<br>\r\n<br>\r\nPalpatine\u2019s words ring in your ears. You want all that power so badly. But can you really betray the Jedi who\u2019ve taught you since you\u2019ve been a small boy?<br>\r\n</span></div></div>",
+            "created":1120021200,
+            "id":258704,
+            "title":"Temptations of the Sith"
+        },
+        "12112221221":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Stab Anakin from behind",
+                "Lower your Lightsaber"
+            ],
+            "content":"<div class=\"\"><div> <span>You cannot turn down the chance of all that power. You must have it all. You and Anakin agree to set a trap for the Jedi.<br>\r\n<br>\r\nReturning to the Jedi Temple you inform Master Windu that Chancellor Palpatine is the Sith you have been looking for. He sets off at once for the Senate with several Jedi. You and Anakin follow. When you burst into the Chancellor reception Mace Windu stands over the Sith Lord pointing his lightsaber at his throat. <br>\r\n<br>\r\n\u2018No!\u2019 you and Anakin shout together. \u2018Anakin slices away Mace Windu\u2019s hand and a vivid bolt of blue fire throws Mace Windo through the shattered window of the chamber to fall to his death on the distant streets below.<br>\r\n<br>\r\nAnakin looks down on the plummeting body as the Sith Lord gets to his feet chuckling and eying you and Anakin. You realize in a flash that their can only be one Sith apprentice!<br>\r\n</span></div></div>",
+            "created":1120021200,
+            "id":258705,
+            "title":"The Sith Apprentice"
+        },
+        "121122212211":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>Laughing you stab your lightsaber right through Anakin's back and into his heart. Hs life blood spurts into the wind. He dies without seeing his killer.<br>\r\n<br>\r\nDarth Sidious chuckles, 'Well done my boy, you will make a fine Sith.'<br>\r\n<br>\r\nYou kneel and pledge yourself to his service.<br>\r\n<br>\r\n'Very well, rise Darth Vader.'<br>\r\n<br>\r\n</span></div></div>",
+            "created":1120021200,
+            "id":258709,
+            "title":"Darth Vader"
+        },
+        "121122212212":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>YOu lower your yellow blade.Despite your differences you cannot kill Anakin. Maybe you both can serve the Dark Lord. <br>\r\n<br>\r\nSuddenly Anakin's body stiffens and he spins around his blue blade seperating your head from your shoulders.<br>\r\n<br>\r\nHe knew too, there could only be one.</span></div></div>",
+            "created":1120021200,
+            "id":258711,
+            "title":"You are foolish to lower your defences"
+        },
+        "12112221222":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>'Never you shout!' You raise your lightsaber to strike down the Sith Lord.<br>\r\n<br>\r\nBefore you can destroy the vile man you scream in agony as your a blue lightsaber is stabbed through your body.<br>\r\n<br>\r\nObviously Anakin made a different choice.</span></div></div>",
+            "created":1120107600,
+            "id":258898,
+            "title":"Stabbed in the Back"
+        },
+        "12112222":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Light your Saber",
+                "Keep your hands at your sides"
+            ],
+            "content":"<div class=\"\"><div> <span>You jump down onto the balcony and challenge Anakin.<br>\r\n<br>\r\n'What's this Anakin, am I missing something?' You say<br>\r\n'You will be Max' Anakin taunts lighting his saber<br>\r\n<br>\r\n'Don't fight!' Padme Screams<br>\r\n<br>\r\n'Let me take you to the council Anakin. There are tough times for the Jedi.They may be merciful' you emplore. <br>\r\n<br>\r\n'I don't need their approval!' 'He screams 'Or yours!' </span></div></div>",
+            "created":1120107600,
+            "id":258875,
+            "title":"Confrontation"
+        },
+        "121122221":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "choices":[
+                "Cut Anakin as he passes over you",
+                "Allow him to reach your vehicle"
+            ],
+            "content":"<div class=\"\"><div> <span>You trigger your lightsaber just before Anakin throws his through the air.Ready for his attack you slice the handle of Anakin's lightsaber in two. It falls to the ground useless. You walk towards Anakin your yellow blade raised.<br>\r\n<br>\r\n'Come with me now Anakin. The Jedi Council will decide your fate.' <br>\r\n<br>\r\nIn the background Padme is crying. Suddenly Anakin vaults into the air over you trying to reach your sky car.<br>\r\n</span></div></div>",
+            "created":1120107600,
+            "id":258878,
+            "title":"Escape Gambit"
+        },
+        "1211222211":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>Anakin falls to the deck his eyes lifeless. You realise in shock that you've killed an unarmed man. Anakin broke the Jedi code, yes, but this does not excuse your crime. <br>\r\n<br>\r\nPadme screams 'You murderer!' You hear her security guards running towards the balcony.<br>\r\n<br>\r\nYou will spend the rest of your days on the run. Or thinking about your mistakes from a cell.</span></div></div>",
+            "created":1120107600,
+            "id":258879,
+            "title":"On the Run"
+        },
+        "1211222212":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><div> <span>You allow Anakin to reach your vehicle. Then you hear him bang his fists on the dashboard in frustration. Laughing you hold up the ignition keys.<br>\r\n<br>\r\nA sullen Anakin and Padme accompany you to the Jedi Council. Anakin is not expelled but confined to quarters for personal contemplatiuo of the force for 6 months. He accepts his punishment. When Obi-Wan returns from destroying General Grevious he is able to guide Anakin back towards the path of self-sacrifice and goodness and Anakin gains some sense of contentment.<br>\r\n<br>\r\nYou continue teaching your Padawan who is improving well. He will one day be a great Jedi. Weeks later Supreme Chancellor Palpatine makes his bid for power. Across the the galaxy the clones turn on their Jedi Leaders. Many are killed. You stand in the Temple side by side with Master Mace Windu and fight off the clones' attack. You then fight your way to the Senate. TO your shock you realise that the Chancellor is Darth Sidious, the Sith Lord you've been looking for.<br>\r\n<br>\r\nTogether you and Mace Windu defeat him. With his death the Clones fall in to dissarray and are killed or captured, or lost in the Outer Rim Territories.<br>\r\n<br>\r\nThe future will be a challenge, but one the Jedi, and you Master Max Raven and a reformed Anakin Skywalker,(who has just had twins!) will have a great part to play.</span></div></div>",
+            "created":1120107600,
+            "id":258880,
+            "title":"Prevention is better then cure"
+        },
+        "121122222":{
+            "author_id":"mbw22uk",
+            "author_name":"Telamon",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Anakin throws his blue lightsaber through the air. It neatly cuts your head from your shoulders.<br>\r\n<br>\r\nThe last thing you hear is Padme screaming.</span></div></span></div>",
+            "created":1120107600,
+            "id":258876,
+            "title":"Decapitation"
+        },
+        "1212":{
+            "author_id":"worddude97",
+            "author_name":"Worddude97",
+            "choices":[
+                "Full of droids ready to attack you",
+                "Pretty much empty"
+            ],
+            "content":"<div class=\"\"><div> <span>\"What about the escape pods?\", you ask the group, shouting so that your voice is heard over the 'shoosh' of the elevator, and the cracking and breaking of the ship's infrastructure around you.<br>\r\nAnakin and Oni-Wan look at eachother for a moment after you consider this, as though having a telepathic conversation with one another. Your gaze shifts to the Chancellor who looks perplexed at what is happening all around him.<br>\r\n\"It could work\", Obi-Wan mutters.<br>\r\n\"As long as the ship stays more or less intact. Separatist battle cruisers always have their escape pods at the back\", Anakin adds.<br>\r\n\"Idiots\", the Chancellor states under his breath, although you get the feeling that only you heard him.<br>\r\nThe elevator harshly comes to a stop with a cracking sound, giving the impression that it may have been forced to stop. The sound of an explosion rings through the ship, putting you somewhat at unease. After a few seconds, a corresponding heavy vibration passes through the elevator, making the walls shake, and you and Obi-Wan lose your respective balances (the Chancellor stays upright because Anakin immediately goes to his side). The elevator door hasn't yet opened since the elevator became stationary and you can see from the look painted across Anakin's face that he is quickly growing impatient. The others must have been too. Anakin activates his lightsaber, and you stand and watch as the blue blade extends from his hilt before being plunged into the door. He quickly yet ever so carefully pulls his saber along the edges of the door, leaving only orange scorch marks where the cut sections of metal are still hot.<br>\r\n\"Good thinking Anakin\", Obi-Wan states as Anakin works his way around the door. <br>\r\nOnce he has gotten the whole way round the metal door, Anakin deactivates his lightsaber, and pushed the door out of places using the force. You stand and watch as as it flies away from its frame, and immediately hear the crunching of metal against metal as the door slams into several droids who had been stood on the other side of the elevator shaft.<br>\r\n\"This is our floor\", Anakin comments as you all step out of the elevator and I to a corridor which is...</span></div></div>",
+            "created":1487001600,
+            "id":2277077,
+            "title":"Throwing It Out There!"
+        },
+        "122":{
+            "choices":[
+                "General Greivous....and he has Shaak Ti!",
+                "more droids"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You jump out of the elevator and go to find another way up. You run around a corner and are met with...</span></div></span></div>",
+            "created":1175818440,
+            "id":396005,
+            "title":"Another Way up"
+        },
+        "1222":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Cockpit\" fight grevious",
+                "Bridge\" fight dooku",
+                "Main hangar\" regroup with obi-wan and anakin"
+            ],
+            "content":"<div class=\"\"><div> <span>You quickly dispatch all the droids with your lightsaber. You glance at the wreckage as youy walk away./<br>\r\n\"Oh, that never gets old\" you say with a smile.<br>\r\nYou turn to a computer on a wall, and open up the map.<br>\r\n\"Alright\" you say \"I'm off to the-</span></div></div>",
+            "created":1276580940,
+            "id":899797,
+            "title":"more droids"
+        },
+        "12222":{
+            "author_id":"borrat2011",
+            "author_name":"borrat",
+            "choices":[
+                "kill Dooku",
+                "spare Dooku"
+            ],
+            "content":"<div class=\"\"><div> <span>The door opens to the bridge to meet Dooku.<br>\r\n<br>\r\nWith your little attention span you zone out as the speech about the end of the Jedi are at hand. (must be in the evil hand book. Bore the enemy with lectures then kill them.) Dooku grips his light saber and you grab yours. you dash forward saber activated, coming blade to blade with your foe you get the felling of his hatred. Several good hits and with a slide of hand you reveal  a second light saber. Getting Dooku off guard taking his hand off.</span></div></div>",
+            "created":1324698120,
+            "id":1245529,
+            "title":"Bridge\" fight Dooku"
+        }
+    },
+    "info":{
+        "author_id":"vader",
+        "author_name":"vader",
+        "brief_description":"You are a Jedi and must choose between the life of a Jedi or a Sith.",
+        "created":1119232380,
+        "description":"<td align=\"left\" class=\"norm\">You are a Jedi Knight in the Old Republic. You can either stop the Republic from becoming the Empire or replace Anakin Skywalker as the Emperor's servant.<br>\r\n<br>\r\nAnything goes with this one, just no cross-overs with other stories and keep it clean. I won't delete much.</td>",
+        "id":982370,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1487001600,
+        "modified":1487001600,
+        "pretty_title":"Day in the life of a Jedi"
+    }
+}

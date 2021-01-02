@@ -1,0 +1,656 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Elder",
+                "Younger"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>On the Elder or Younger?</span></div></span></div>",
+            "created":1592715600,
+            "id":2854760,
+            "title":"Now where do we begin?"
+        },
+        "11":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Human",
+                "Elves",
+                "Dwarves",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But where on this ancient continent shall we visit?</span></div></span></div>",
+            "created":1593061200,
+            "id":2856514,
+            "title":"Elder"
+        },
+        "111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Sudekth Dynasty",
+                "The Northern Wastes",
+                "Elsewhere"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well who are you?</span></div></span></div>",
+            "created":1593320400,
+            "id":2858257,
+            "title":"Human"
+        },
+        "1111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Kehmesstra",
+                "Ashira",
+                "Some other human"
+            ],
+            "content":"<div class=\"\"><div> <span>Are you:<br>\r\n<br>\r\n<b>Princess Kehmesstra</b><br>\r\nOne of sixteen children of current Elector Sura-Kane, the one who comes first. Your father is the leader of all of the Sudeken Dynasty,child of the previous leader Sudeken, your grandfather.He has left you in charge of taking care of your youngest sibling, Marmetra. You'd rather be off in luxurious debauchery with your friends, but your father has tasked you with an order and whatever he's says goes.<br>\r\n<br>\r\nYour complexion is of the sands itself and your hair is reminiscent of the flames that burn outside your palace-mansion.Your waist is covered with a blue, silk band depicting a school of dolphins dipping into it engraved currents. A ruby necklace covers your neck in an quite eye-catching fashion.<br>\r\n<br>\r\n<b>Royal Mitra Ashira</b><br>\r\nYou are caretaker to five of the sixteen children of Sura-Kane. Unfortunately, you're caretaker of the five most rambunctious of his children, especially Princess Kehmesstra. But you take this task with your head held high for you are a Royal Mitra and you do your duty with the pride.<br>\r\n<br>\r\nYour face is covered with a red-iron mask showing the face of a murderous Shi-Mara; half-man, half-feline beast. Underneath though you've been told that you are quite a beauty. Your choice of weaponry are usually twin pikes,both of whic have an inner tube running through their shaft. In said tubes runs venom of the dreaded Fariahama Schropion which boils the body of whoever is unfortunate enough to be pricked.</span></div></div>",
+            "created":1593320400,
+            "id":2858295,
+            "title":"Sudekth Dynasty"
+        },
+        "11113":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Shanadore",
+                "Ava",
+                "Other Humans"
+            ],
+            "content":"<div class=\"\"><div> <span><b>Grand Magus Shanadore</b><br>\r\nHead of the largest, and most prestigious, college of magic on the continent. (Human anyways) You have reigned for over twenty-five years, but look barely a day over twenty-one. You are also among the greatest magical force the Sudeken,some say Sudekth, wields. Not counting of course Scholar-General Kali-Nalla, Mystical-Advisor Shahn-Shatire, and Mobec Armen-jazheer. Okay,so you're the fourth most powerful mystical power the Sudeken,some say Sudekth, wield. That is still impressive mind you. You can cast illusions of entire armies, blind hundreds of men with a flick of your fingers, drive people and animals temporarily mad, and bind demons under oaths.<br>\r\n<br>\r\nYou have it all, though today it seems that something is amiss. Whether it be the taste of your early morning coffee or the smell of your binding candles, some essential part of the universe has turned upside down.<br>\r\n<br>\r\nYou wear a distinctive green-bronze necklace depicting a rhino, the animal your mother named as your guardian.<br>\r\n<br>\r\n<b>Third-Year Initiate Ava</b><br>\r\nIt is your first year at the college and yet for some reason everything has managed to blow up in your face! Well,okay it was sorta your fault when the Face-Stealing Wind came rushing through the boys' dorm. But how were you supposed to know your pronunciation wasn't right? And it was kinda your fault the Nasty Lads stole the entire kitchen staff's fingers. But you got them back right? Was it your fault that some girl accidentally drank <i>your</i> Gorgon's Breath potion. She got fixed eventually!<br>\r\n<br>\r\nStill the only reason you haven't been kicked out of the college is both because of your mother's connections and your own considerable skill. Your a prodigy of summoning, considered Grand Magus' Shanadore's successor. So you have at least nepotism and pure skill going for you.<br>\r\n<br>\r\nYou wear the distinctive green-bronze necklace of a oliphant, the elephant's dumber more destructive brother. Honestly, you don't know why your mother picked this necklace out for you.</span></div></div>",
+            "created":1593493200,
+            "id":2859469,
+            "title":"Sudeken/Sudekth Dynasty II"
+        },
+        "111132":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Ava messes up her ritual",
+                "Ava is called away to the department's head office.",
+                "Another choice."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'm here Professor!\" Ava declared as she rushed into auditorium three. The ten or so other initiates stared as Ava came barreling in with all of her paperwork. Some even stepping back a little in fear of the papyrus the young lady carried. Professor Ali-Yajah peered down her beak-like nose in disapproval.<br>\r\n<br>\r\n\"Ava. You've cared to join us right on schedule.\" Professor Ali noted. Ava nodded and found her place in the semi-circle the students were formatted into.Ava dusted her initiate <i>skfah</i> as she listened in on the Professor's lecture;from beside her a voice whispered into her ear.<br>\r\n<br>\r\n\"Ava. Where were you?\" Kamala, her only friend in the college, questioned.<br>\r\n<br>\r\n\"I was forced to go over my notes by an oath-spell I put upon myself. I forgot to calibrate my time, I was reading all the way up to one in the morning.\" Ava answered. Kamala grimaced at her friend's explanation.<br>\r\n<br>\r\n\"You should've asked Allahambra, he's a much better oath-spell caster than you.\"<br>\r\n<br>\r\n\"But he doesn't like me after the wind, you know.\"<br>\r\n<br>\r\n\"I think he got ove-\"<br>\r\n<br>\r\n\"Girls?\" Professor Ali spoke \"Do you both have something to add?\"<br>\r\n<br>\r\n\"No Professor Ali-Yajah.\" Kamala and Ava said in unison. The professor nodded and went back to her lecture.<br>\r\n<br>\r\n\"To go over this once again, demons are prototypes of the god's hands. Hundreds of thousands of ideas that were cast aside as the world was slowly hammered into place. Now for why the god's didn't decide to execute these half-bred monstrosities, none can say.\" Professor Ali explained as she began to draw a circle of salt.<br>\r\n<br>\r\n\"Nor do we know why they respond to the calls of mortals. Well, no, we do know their reasons varies from demon to demon,but I meant to say why the god's have allowed this to go on unabated. Not to mention the horde of abominations that afflict the southern tip of our continent, but that is an explanation for another day.\"<br>\r\n<br>\r\n\"We, as in human society, have bargained with a select few demons over hundreds of year that we now have become somewhat familiar with their quirks and characteristics. We call these class of demons, devils. There are only one-hundred and thirty devils out of thousands of different demons. Only these demons are allowed to be summoned by practitioners,my students.\"<br>\r\n<br>\r\n\"Question, what if we summon a demon not on that list?\" A girl named Aljiarah questioned.<br>\r\n<br>\r\n\"Then you've screwed up and you should hope it's only stone-classed so you can easily strangle it where it stands. If not and you've actively summoned a demon, then you're a sorcerer and I shall personally cut your head from your shoulders.\" Professor Ali responded as she began to melt candle wax onto specific point in the salt circle.<br>\r\n<br>\r\n\"Now i'm going to be summon a silver-class devil for this demonstration. Higher than your stone, copper, and iron class that you initiates have hopefully read up on.\" Ali explained. She reached into her long cloak and pulled out a scroll. It was a black papyrus and blue letters glowed on its surface. Ali lit the parchment on fire and quickly planted it into the circle's middle, careful not to break it.<br>\r\n<br>\r\nThe piece didn't collapse into a pile of ash but instead a shimmered like a mirage. A few moments later a figure materialized. It was over ten cubits in height, which caused the students to peer upwards. A tail of a snake slowly twisted up towards the body of a slimy, pale looking torso of a woman. Her stomach was reminiscent of an extremely pregnant goblin, but instead of soft flesh, it was a metal face with its eyes closed. Farther upwards,the devil's neck was long and as twisting as its tail. The neck terminated in one of the most gorgeous faces that Ava had ever seen. It was perfect, that was until Ava stared closer at it.She then switched thought of it as too perfect,it hit a valley of uncanny that made her shiver.<br>\r\n<br>\r\n\"I am a Sister Succubus. What task have you've chosen for me teacher of generations?\" The succubus asked. Professor Ali snapped her fingers and a assistant came rushing with an old looking rabbit. The poor thing's eyes were cloudy with age, it bucked  it's legs in silent pain.Professor Ali took the rabbit and gently guided it into the circle.<br>\r\n<br>\r\n\"I wish for a longer-life for this age wracked beast, sister.\" Ali gently spoke. \"I wish for a second chance.\"<br>\r\n<br>\r\nThe succubus looked down at the grey rabbit and nodded. With a swift motion like a hawk on a squirrel, the rabbit was picked up and stuffed into the succubus' belly face's mouth. Three of the students gasped, Ava included. The face's eyes opened up and it began to shake. It soon coughed out a bundle of something and audible gasps came from several mouths. The slimy bundle ruffled itself for a bit,and to the student's amazement, it was the rabbit. Whole and de-aged.<br>\r\n<br>\r\n\"Is that all you ask of me,teacher?\" The succubus <br>\r\n<br>\r\n\"That is all.\" Professor Ali spoke.\"Now listen closely students. <i>I relieve you of your duty,one who came before us.</i>\"<br>\r\n<br>\r\nThe succubus nodded and faded away, leaving behind the black papyrus. Professor Ali stretched for a bit and looked around.<br>\r\n<br>\r\n\"Can you believe those things were supposed to be how new babies were born?\" She joked. \"But to explain what happened, that was, for all intents and purposes, a successful summoning. It should never take longer than that, they should never be conversed with for a long time, nor should you be rude to them. Now on to your own summoning, and if all of you follow your steps, these should be even shorter than this demonstration.\"<br>\r\n<br>\r\nThe students crowded around Professor Ali as she handed out piece of paper as well as partner students together.</span></div></div>",
+            "created":1593666000,
+            "id":2860188,
+            "title":"Ava"
+        },
+        "1112":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Grune of Tribe Mkngurt",
+                "Hir-Dur of Tribe Gikngurt",
+                "Some other being"
+            ],
+            "content":"<div class=\"\"><div> <span>And now who are you?<br>\r\n<br>\r\nAre you:<br>\r\n<br>\r\n<b>Gurne of the Tribe Mkngurt</b><br>\r\nA clan leader who works under the patriarch of Tribe Mkngurt. Grune has been his co-commander in leading her tribe to glory against the Northern beasts and the nine other tribes in their lands. She stands over five cubits in height and wears the skinned hide of a black wolf as bra,loincloth,and armor. In her right hand she wields a bone club ripped straight from the ethereal flesh of a giant and in her other hand she wields a fetish from her grandmother. A ebony staff carved with images of a folktale from her tribes mythology.<br>\r\n<br>\r\n<br>\r\n<b>Hir-Dur of Tribe Gikngurt</b><br>\r\nA minor member of a even minor clan of her tribe, Hir-Dur is shunned as an outcast of her tribe. Not only because of her height (being only three cubits and a foot) but because of the mark of the moon on her rump.Considered a mark of great taboo;she is not being outright despised, Hir-Dur isn't welcomed either.Instead she contribute to her clan, and through them her tribe, by acting as a herald. <br>\r\n<br>\r\nHir-Dur cloaks herself heavily in the skin of a mammoth she had once found on her journey. Her only weapon is a black-ice pickaxe with the handle made of walrus tooth.</span></div></div>",
+            "created":1593320400,
+            "id":2858267,
+            "title":"The Northern Wastes"
+        },
+        "11121":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "She touches the strange idol, not knowing what it was (Fetish)",
+                "She wisely backs off from the idol's form. (Normal Route)"
+            ],
+            "content":"<div class=\"\"><div> <span>A smash of a mighty club knocked the bloodied snout wolf to the ground. It didn't move back up.The barbarian woman, five cubits in height, sent another ravaging hound across the snowy distance.The sound of cracked ribs could easily be heard as it landed in a heap. Ten wolves came to feast on a lone warrior, three had already fallen to her weapons. Her grandmother's staff was buried into the head of another beast.<br>\r\n<br>\r\n\"Come you bloodied curs, come mongrels of the snow tips, come man's enemies.\" Grune declared. She puffed her chest up to appear more intimidating. \"I wear on my shoulders a king of your kind. I killed him when him stalked into my tribe's longhouse, thought himself a ruler. I showed him, showed him he was't even worthy of my patriarch's time.But even then, he was a worthy creature. Tore meat from my body like the hunters of my tribe do to seals. I still killed him though, strangled him with my bare hands.\"<br>\r\n<br>\r\nShe snarled at the wolves,who seemed to become fearful of the raving woman. She stalked forward and the wolves backed up.<br>\r\n<br>\r\n\"Yet you lesser beasts think you could compare yourselves to him? Oh what ghastly little beasts you are,barely even a fart compared to the black wolf I wear now as my coverings.\" She spoke. \"So come, come closer and let me do to you what I did to him.\"<br>\r\n<br>\r\nThe wolves wisely ran off leaving their three dead to the barbarian woman. Grune laughed and set down her bone club to retrieve<br>\r\n the staff from the wolf's head.<br>\r\n<br>\r\n\"Weak.\" She mumbled. Grune looked around the white horizon, she did her best to find the tomb her patriarch spoke of. Rumors of a discarded tribe-tomb had recently been whispered among the clans. The tribe patriarch didn't speak much about it of course, rumors were not things to concern oneself with. It wasn't until a clan scout had spoken of seeing the rumored tomb that the patriarch decided it needed to be raided. It was decided Grune would be the first tribeswoman in to kill anything that might threaten their search party.<br>\r\n<br>\r\nThe barbarian jumped immediately onto the idea,and just as her patriarch had finished his declaration, had already rushed out to find the tomb. She had managed to get a copy of the scout's map, who already multiplied his notes, and set forth into the white wilds.<br>\r\n<br>\r\nIt had already been two days since she had went forth from her home. According to the map, she should've be around the area where the tomb was located.<br>\r\n<br>\r\n\"Where are you my sweet flower?\" She whispered. Her eyes gazed like a hawk until she happily laughed in fruition. There! In the distance was the distinctive carved stone doors of a tomb. She laughed again and picked up her club. She then bound her staff onto her back, while she also placed a wolf carcass onto her shoulder.<br>\r\n<br>\r\n\"I need some protein.\" She mumbled as she set forth. A hour later Grune was at the door, she gazed upwards. Two points high, one of the largest doors she'd ever seen. She shrugged and pushed, like all tomb doors, they surprisingly didn't offer much resistance to any force. She walked inside, quickly dropping her wolf carcass onto the ground, and readied her weapons. <br>\r\n<br>\r\nShe stared but no monster came rushing at her. Grune was confused. She walked farther, now noticing the light that emanated from within. Rows of everlasting torches lined the walls of the room. Off to the other side she could see a door half-open. She looked down to the floor and noticed the corpses of long-dead Northernmen. Clutched between the ice-cold fingers of one of the men was an idol that caught Grune's eyes. She crouched closer to examine it.</span></div></div>",
+            "created":1593406800,
+            "id":2858372,
+            "title":"Grune of Tribe Mkngurt"
+        },
+        "111211":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Her furskin bra begin to constrict.",
+                "She felt her muscles begin to expand",
+                "Another Option (Grune)"
+            ],
+            "content":"<div class=\"\"><div> <span>It was carved out of ivory with dashes of red paint sprinkled across the surface. The idol resembled a man, in the loosest sense of the term, what with its gaping maw and its disproportionate arms and legs.Its ears were reminiscent of an oliphant and its nose was more beak-like than humanely comfortable.<br>\r\n<br>\r\n<i>\"What manner of idolatry is this?\"</i> Grune thought as her hand came closer to stroke its surface. She slowly unclasped the hands of the dead man and pulled the strange idol out from his hands. She felt warmth course through her hand as she examined the idol's curves and ridges. Grune laid her armaments down to the ground to slowly prod at the stature's body.<br>\r\n<br>\r\n\"I see no evil of the White Beyond.\" Grune spoke. She sat down and placed the idol near her side. The barbarian woman began to ponder what had transpired inside of the blaspheme tomb. What horrors could've ravaged these explorers?<br>\r\n<br>\r\nGrune shook her head, whatever it may have been, she was chosen for a reason. Whatever she would fine, she'd kill it or drive it off, all for her tribe and clan. Unbeknownst to the barbarian, a subtle and invisible fiend had began pouring out of the maw of the idol. Slowly, like a creeping beast, it began to curdle and grope with airy hands. It drew itself ever so closer to Grune until it shot a misty hand straight through her body. Grune gasped and looked down, she felt a cold pain blossom inside her bosom.</span></div></div>",
+            "created":1593493200,
+            "id":2859399,
+            "title":"Grune (Fetish Path)"
+        },
+        "1112111":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "She ignores this change and heads into the tomb",
+                "She waits for her tribesmen not wanting to venture forth farther into the tomb.",
+                "Grune checks the idol to see if that had some cure."
+            ],
+            "content":"<div class=\"\"><div> <span>Grune looked down,the furskin bra she wore seemed to be tighter than usual. She clutched her chest as cold flame blossomed. The barbarian,who could take the bite of a wolf right into her arm, screamed. She thrashed onto the cold floor in electric pain until eventually the experience stopped. Hot breath escaped her lips as she laid on the floor. She had knocked away a skeleton with its armor, her eyes dripped clear tears.<br>\r\n<br>\r\n\"By the gods of this world, I hope I shall never feel that again.\" She declared. She craned her neck upwards A gasp escaped her lips as Grune sat herself upwards. The unfamiliar sight of cleavage greeted her eyes. While normally much larger than southern woman, Grune was unaccustomed to the twins she had no come into possession of. They swung gently from her torso in an almost hypnotic way. Grune hesitantly clutched one as though it were a phantasm. It felt real, she could feel the blood inside of it and the faint beat of a hear behind the fleshy sphere.<br>\r\n<br>\r\n\"What manner of sorcery is this?\" Grune questioned, no answer came back. She stood on her legs to peer down, the sight of her boobs filled her vision. <br>\r\n<br>\r\n\"Have I've been cursed by that idol?\" She stated. \"Was that some manner of evil that I've come into contact with?\"</span></div></div>",
+            "created":1594536240,
+            "id":2866620,
+            "title":"Her furskin bra begin to constrict."
+        },
+        "11121113":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "The idol's face was now carved with a broad, triumphant smile.",
+                "Grune continued to hunt for some way back... She needed it.",
+                "Putting the idol aside, Grune entered the tomb.",
+                "Something else..."
+            ],
+            "content":"<div class=\"\"><div> <span>Grune snatched the idol up. Holding it tightly, her clenched fist on the verge of crushing it into dust.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://i.pinimg.com/originals/c6/2b/2d/c62b2d4d005a9f473e06578ea4463ab0.jpg\" target=\"_blank\">https://i.pinimg.com/originals/c6/2b/2d/...</a><br>\r\n<br>\r\nShe thought of fighting with her new degrading bust swaying before her. The chilling, metallic hiss as she drew her sword. Knowing that any opponent would now be lost in her cleavage rather than a worthy rival aware of her prowess with a sword.<br>\r\n<br>\r\nFeelings of shame and unwanted distraction were not the weapons she wanted to wield. Turning it this way and that in her grip, she hunted for some sign. A way for her to be restored, an offering that could be made. What the proper form of respect was to be shown.<br>\r\n<br>\r\nRaising it high above her head, Grune was ready to throw it down and smash it to smithereens. Heat flashed from her hand, as though it were plunged into a furnace for the briefest of moments. Her gaze snatched by the idol, she knew destroying it would bring forth a worse curse.<br>\r\n<br>\r\nToo late, she realised the idol had already struck. The mere thought of it's destruction had triggered its' defences. Grune's hand dropped defeated to her side. The grip on the idol still tight enough to avoid dropping it. She glared at her new bust, already degrading, now beyond bearing.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://i.pinimg.com/originals/36/dc/8b/36dc8b0852c0d5bbd36295f0d319a5fd.jpg\" target=\"_blank\">https://i.pinimg.com/originals/36/dc/8b/...</a><br>\r\n<br>\r\nGrune saw a life ahead of her, serving as a source of food. Producing endless milk to feed her people, forced to take on a womans' role, to be subservient and weak. Not to carve her future in the Annals of the tribe, but to breed and feed the next generation.<br>\r\n<br>\r\nHer furskin outfit already straining, it might be her imagination, or the chill air, but she was afraid that she was leaking...<br>\r\n<br>\r\nStamping on the remains of the skeleton, she crushed the defeated bone into dust.</span></div></div>",
+            "created":1594840200,
+            "id":2869154,
+            "title":"Grune checks the idol to see if could help..."
+        },
+        "112":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Isha maha Sushin",
+                "Innara maah Tsashina",
+                "Another Elf"
+            ],
+            "content":"<div class=\"\"><div> <span>Now who are you?<br>\r\n<br>\r\n<b>Isha maha Sushin</b><br>\r\nHead of Nioi's \"Strike Squadron Four\", Isha maha Sushin leads with a tempered hand when dealing with her daily work of conquering the rest of the continent. Her squadron's is tasked with <i>entrasoona</i>,which entails sabotaging city defenses for Strike Squadron Three to come in and plant an Ent-seed into its bowels. Isha wields a hunter-bow which temporarily blinds whoever is hit by its arrows.<br>\r\n<br>\r\nIsha maha Sushin, unlike a majority of leaders of a Strike Squadron, wears not their heavy-plate, but instead a runic,slim fitting suit. A serpent consuming a rat is depicted above her cleavage.<br>\r\n<br>\r\n<b>Innara maha Tsashina</b><br>\r\nDomni of the College of Lioi as well as its leading alchemist. Innara is known for her sanguine attitude among her fellows peers. Not outlandishly clownish, but more approachable than other Domni. Still, Innara dutifully follows whatever task that is laid at her feet.<br>\r\n<br>\r\nInnara's most distinctive feature is her red-necklace of beads. More splendid than other variants of its kind, her necklace has become a iconic piece among the scholars of Lioi. What is not known is that within each bead is a contained alchemical potions that even she can't keep a track of. </span></div></div>",
+            "created":1593320400,
+            "id":2858310,
+            "title":"Elves"
+        },
+        "1121":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Story",
+                "Fetish-Story"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Story or Fetish-Story?</span></div></span></div>",
+            "created":1593493200,
+            "id":2859428,
+            "title":"Isha maha Sushin"
+        },
+        "11211":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "She discusses what her mission will be.",
+                "She has a talk with Mizauna"
+            ],
+            "content":"<div class=\"\"><div> <span>It was time for the Yiramati to commence,the bi-weekly forum/get-together. Isha sighed as she rounded the corner, giving the elves at the door a customary bow. She wiggled herself in her robes,readying herself for the ongoing storm that was Strike Squadrons' control room. <br>\r\n<br>\r\n\"Salutations.\" She announced. The heads of both Yasha, head of Strike Squadron Five, and Multiyada, head of Strike Squadron Seven, turned towards her. The two seemed to be doing their usual discussion known as \"trying to strangle each other\", the two commanders necks were both covered by their opponent. They quickly unwrapped their hands and steadied themselves.<br>\r\n<br>\r\n\"Greetings.\" Yasha spoke. <br>\r\n<br>\r\n\"Good to see you.\" Multiyada replied after. Isha smiled and sat down into her usual seat. <br>\r\n<br>\r\n<span class=\"chotpink\">\"Gods, to this day I still don't know why High Command chose these two.\" </span>The voice of her long time friend and leader of Strike Squadron Three, Mizauna, chimed in.It was through a mind-link the two had set up a year or so ago that allowed them a nice chat room to drown out the others insipid fighting.<br>\r\n<br>\r\n<span class=\"cindigo\">\"Because they're damned good at their jobs and they don't strangle each other on the field.\"</span> Isha replied. \"<span class=\"cindigo\">Lovely to see you again Mizauna. I didn't see you at the last Yiramati.\"<br>\r\n</span><br>\r\n<br>\r\n<span class=\"chotpink\">\"I couldn't make it. We had a loyalty-building exercise that day. Sorry for leaving you to these idiots.\"</span><br>\r\n<br>\r\n<span class=\"cindigo\">\"One always follows the others. If it wasn't for the fact we've met Multiyada's wife, I would've thought they were a married couple.\"</span><br>\r\n<br>\r\nMizauna laughed a bit until two more commanders walked into the room. Strike Squadron's second and first commanders, Yishi and Zeguchi, their faces a little darker than usual. Isha sat up while the other three grew concerned.<br>\r\n<br>\r\n\"Salutations everyone.\" Zeguchi spoke. The four others greeted their personal commander with formal bows. Zeguchi waved them off.<br>\r\n<br>\r\n\"It appears that commanders of the six, eight,nine,ten,and eleven squads have chosen to not appear today.\" Yishi noted.<br>\r\n<br>\r\n\"This is optional and those five also have names.\" Yasha responded.<br>\r\n<br>\r\n\"If they had the courtesy to show up, I'd have the courtesy to remember those names.\"<br>\r\n<br>\r\n\"So what's the problems, bossman?\" Multiyada questioned.<br>\r\n<br>\r\nZeguchi pulled out a runic stone and tapped on its side. An image blared from the polished stone showing image of a human carrying what appeared to be a...<br>\r\n<br>\r\n\"An Ent-Seed!\" Multiyada exclaimed. Mizauna gasped while Isha peered closer at the image.<br>\r\n<br>\r\n\"How has this happened? Commander of the third,are you not in charge of the storage of our life-givers? Our <i>parents</i>?\" Yada demanded. Mizana was just about to speak against Yasha's accusation, until she was stopped by Zeguchi's hand.<br>\r\n<br>\r\n\"It is not one of our's Yasha. The report is that it came from Shioi.\" <br>\r\n<br>\r\nThe group gasped as they heard that dreaded name, the name of the fourth Great-Ent tree forest. Long since been destroyed by human and Akantati hands.<br>\r\n<br>\r\n\"How?\" Mizauna spoke. <br>\r\n<br>\r\n\"If those dammed hairless apes dared touched the land,I'll...tell Adama.\" Multiyada spoke with a devilish grin.<br>\r\n<br>\r\n\"Why didn't you bring this up with High-Command?\" Yahsa asked. \"The Ulimati is coming in five days, you could've had Adama, Zitachi,and Urna all clamoring right now.\" <br>\r\n<br>\r\nZeguchi shared a gaze with Yishi so quickly that no one else saw it, all except Isha that is.<br>\r\n<br>\r\n\"We'd like Isha to investigate this claim.\" Zeguchi explained. \"Give enough intelligence for us to form a counterattack.\"<br>\r\n<br>\r\nThe elven woman blinked in surprise. The others turned to stare at her.</span></div></div>",
+            "created":1593493200,
+            "id":2859431,
+            "title":"Story(Isha)"
+        },
+        "1122":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Were you always so busty?",
+                "Is she getting fatter?",
+                "Is/was/has she..."
+            ],
+            "content":"<div class=\"\"><div> <span>A normally tranquil evening in the bowels of the College of Lioi was interrupted by the sound of a blasting wood, profanity, and screams echoed throughout the tree-school. Elven fire-marshals rushed towards the disturbance, as quickly as they could before the fire consumed the rest of their school. Upon arriving, the magicians did their best to quell and disrupt the elementals birthed in the ranging inferno. Moments later, a hurtling and screaming being rushed out of the fire. The marshals were just about to bind the fiery being, right before it burst in an explosion of water. There, panting in shock, was the bare form of Innara maah Tshaina.<br>\r\n <br>\r\n\"Oh what the hell did I mix?\" Innara spoke. She looked around to see one of the fire-marshals rolling their eyes.<br>\r\n<br>\r\n\"We should've known.\" Another whispered right before he got back to containing the raging blaze. Innara huffed and quickly tapped her Domni ring. Specially crafted to act as a transporter for any Domni's personal items, Innara mainly used it to store her personal equipment. In just a flash, the white-haired elf was covered in her signature black cloak and purple scholastic robes.<br>\r\n<br>\r\n\"Innara.\" The deep voice of head fire-marshal Nikhoro came from behind the alchemist. Innara turned to see the elven male with his distinctive glare.<br>\r\n<br>\r\n\"Nikihoro.\" Innara responded. \"It appears that my latest endeavor has decided it wants to follow the path of its predecessors.\"<br>\r\n<br>\r\n\"What is it this time? Will we be dealing with mad homuncului again or what about incarnated imps?\" Nikihoro questioned.<br>\r\n<br>\r\n\"Oh please,Nikihoro.\" Innara responded. \"Those only happened once and each several years apart.\"<br>\r\n<br>\r\n\"And yet I can still see them in my sleep. So what was it you had cooking this time Domni Alchemist?\"<br>\r\n<br>\r\n\"Well. It was a study of transmutation that quite fascinated my mind.\" Innara began to explain. The pair moved farther away from the blazing door to allow more fire-marshals into the space. <br>\r\n<br>\r\n\"It was an Akantat mixture.\" Innara stopped as she looked at Nikihoro's face. The fire-marshal's eye was raised eyebrow.<br>\r\n<br>\r\n\"Yes. Yes. I know, that the dammed lizards are not to be trifled with, but these notes that I had managed to acquire were of the most excellent quality. They could've potentially revolutionize our plans against the <i>gakijin </i>and <i>dwarvana-oro.\"</i><br>\r\n<br>\r\n\"Let me guess.\" Nikihoro interrupted. \"They were lost in the fire?\"<br>\r\n<br>\r\n\"Absolutely not. I had them specifically coated by Mojimata. Those things could probably survive the eruption of this entire college if it came down to it. But I shan't elaborate on that subject.\"<br>\r\n<br>\r\n\"Yeah, I don't wanna think about the college erupting.\" Nikihoro chimed in. Innara waved him off.<br>\r\n<br>\r\n\"In any case, I was doing all the steps that were written on the paper, but it seemed that I accidentally translated 'I,G,C,' and 'D' for 'H,F,B' and 'C' in those papers.\"<br>\r\n<br>\r\n\"Wait, how'd you figure that out?\"<br>\r\n<br>\r\n\"I did it while I was burning. You know how my fire-proofing potion speeds up my thoughts. It helps bleed off that thermal energy and convert into my own.\" Innara happily explained. \"But yes, it seems that instead of whatever normal concoction I would've gotten if I had done it to perfect, instead I received a geyser of blue-gas.\"<br>\r\n<br>\r\n\"Do you require aid?\" Nikihoro questioned, concern on his face. Innara waved him off. <br>\r\n<br>\r\n\"No. I believe i'm fine.\" Innara told him. \"Of course I was sputtering and cursing for a few moments, but in all honesty, I seemed to be quite well. That was until my concoction burst into flame, which caught fire on all the more flammable equipment, and now here we are.\"<br>\r\n<br>\r\nNikihoro nodded as he digested her story. \"All right Innara, I heard enough. My elves and I will contain this mess, but you're lucky it wasn't Ishagojo this time around.\"<br>\r\n<br>\r\n\"Yes the boy is always doing his best to throw the book at me.\" Innara huffed. \"Now anyways, let me go explain to my colleagues what mishap I had concocted this time.\"<br>\r\n<br>\r\nJust as she was about to walk off, Innara heard Nikihoro speak.<br>\r\n<br>\r\n\"Quick question. Innara...\"</span></div></div>",
+            "created":1593406800,
+            "id":2858356,
+            "title":"Innara maah Tsashina"
+        },
+        "11222":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Everything is fixed and she tries to cure herself",
+                "She is called away",
+                "She begins to grow fatter"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I beg your pardon?\" Innara spoke as she heard those words. Nikihoro looked her straight in the face and she could see he was quite serious. <br>\r\n<br>\r\n\"Its noticeable around your waist Domni Innara.\" Nikihoro stated. Innara placed a hand against her stomach and gasped in shock. He was right. She had somehow gained a small paunch where her normally flat elven physique was. Innara blushed, On a human this pudge wouldn't have been nothing, but on an elf? Ooh, it would've been the talk of the college if it got out.<br>\r\n<br>\r\nWhere had she gotten this intake of fat from? She scratched her chin in thought. <br>\r\n<br>\r\n\"Excuse me for a moment.\" She spoke. Passing one of the fire-marshals, she stuck her head into the still raging inferno for a few moments. One of the younger fire-marshals gasped in shock and was about to rush into save the Domni, but was stopped by one of his older colleagues.<br>\r\n<br>\r\nSoon Innara had brought her head back out, unlike before Innara seemed  more composed of her infernal wrappings. Nikihoro walked over and quickly snapped the fire away. Innara nodded to thank him.<br>\r\n<br>\r\n\"I figured out where this pudgy corpulence originated from.\" She happily said as she lead Nikkihoro away from prying eyes. The lead fire-marshal stared at the alchemist with a raised eyebrow.<br>\r\n<br>\r\n\"What was supposed to be a potion of out-fusion has become one of infusion\" She joked with a small grin. \"It was supposed to turn one intangible, but it seems that my mistake has given me quite the figure. Large like a human.\"<br>\r\n<br>\r\n\"Are you going to be okay?\" Nikkihoro questioned.<br>\r\n<br>\r\n\"Quite so.I just need my lab. After all this fire is put out, I shall easily search for a remedy for my affliction.\" She answered. Innara poked her stomach in joking assurance. Nikkihoro shook his head before he went back to help his men with the inferno.</span></div></div>",
+            "created":1593406800,
+            "id":2858385,
+            "title":"Is she getting fatter?"
+        },
+        "11223":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Was your posterior always so big?",
+                "A actually normal question. (Serious, storyline path)",
+                "Another thing"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Actually...</span></div></span></div>",
+            "created":1593406800,
+            "id":2858358,
+            "title":"Is/was/has she..."
+        },
+        "113":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Clemsistra",
+                "Karanteos",
+                "Another Dwarf"
+            ],
+            "content":"<div class=\"\"><div> <span>Who are you?<br>\r\n<br>\r\n<b>Clemsistra of Layer-Seven</b><br>\r\nNot to be confused with Clemsistra of Layers One to Six,Clemsistra is a dwarven demonkaii. A demon-slayer located at the lowest, and worst, level of all the guardhouse. Here abyssal demons, the dammed,colossi,and gods know what else try to grind towards the surface.It is up to her and her fellow Layer Sevens to stop them<br>\r\n<br>\r\nShe stands three cubits in height and is covered by the strongest plates dwarven hands can build. She wields in one hand a snap-gun larger than a dwarf's leg. <br>\r\n<br>\r\n<b>Karanteos of Layer-Five.</b><br>\r\nCalled a 'Calmer' by dwarven names, Karanteos helps the dwarfs of layers six to seven adjust to downtime. One of the best of her business. Strong-willed,but not to the point of intimidating. Friendly, but not to the pint of looking like a pushover. Karanteos is well-loved by the Layer-Six and Seven crew after a hard day's fight.<br>\r\n<br>\r\nShe wields no weapon. Her most distinguishable feature is a scar over her forehead which she had received from a dwarf that was drunk. It reminds many of a smiling mouth.</span></div></div>",
+            "created":1593406800,
+            "id":2858380,
+            "title":"Dwarves"
+        },
+        "114":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Ronchoi",
+                "Another place",
+                "Another Species."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ronchoi: The City of the Free<br>\r\n<br>\r\nor another place on this continent.<br>\r\n<br>\r\nor another species besides the trinity.</span></div></span></div>",
+            "created":1593320400,
+            "id":2858311,
+            "title":"Other"
+        },
+        "1143":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Goblins",
+                "Orcs",
+                "Another"
+            ],
+            "content":"<div class=\"\"><div> <span>Goblins:<br>\r\nA species that was \"up-lifted\" by the Akantai, Goblins are known for being quite friendly to all who come across their compounds. Amphibious, most Goblins are willing to trade and deal with species who wish to deal with all matters concerning the coasts and depths. Adventurers,and loyal companions, to whoever gain their friendship, Goblins would be among the most beloved species. If not for two qualities.<br>\r\n<br>\r\nOne are their teeth which contain a poison. Non-deadly to anything larger than a cat, instead the effects are what worries people. Once injected into a living being system the poison will expand them to the point of immobility. While small animals will explode, larger being such as humans or elves would be all-right. Thankfully the effects are temporary, unfortunately it takes around seven to nine months to be reverted back to normal. And female Goblins are known to be quite bitey if they feel that their mates are endanger of being swoon away by another female. <br>\r\n<br>\r\nTwo is a three-month period that happens every five years. Called the \"Rambling\" by the Goblins and \"the Horror\" by the other species. In this period of time, Goblins of all the land come down with an urge to cause havoc.As added horror, the Goblins will do their best to spawn as many offspring as possible.The resulting boom of births,in turn, cause the Goblins to raid and feed their expanding families. Sometimes even expanding folks to use as hostages to leverage food.<br>\r\n<br>\r\nOrcs:<br>\r\nPraetorian guards of the Akantati, Orcs were once the everlasting fear-mongers of the entire continent.Now with their masters ever so slowly becoming inert, Orcs have had time to contemplate their existence. Typically building communes around the base,and sometimes inside the lower levels, of the Black Towers of their Akantati overlords. Orcs are do not speak with their mouths, but instead through a system of mind communication.Which in turn is their greatest assets.<br>\r\n<br>\r\nAn orc versus any other species, both on equal footing, will lose. But once an orc joins with another of its kind, it changes. It becomes more refined, more dexterous, more deadly. The orc will complement the movements of its fellow as though both were one mind in two bodies. This deadly power multiplies with the more orcs that are in close proximity with each other.It is known that three-hundred orcs managed to fight against a thirty-five hundred opponents. All but nine-hundred and twenty were killed by these deadly warriors.</span></div></div>",
+            "created":1593320400,
+            "id":2858325,
+            "title":"Another Species."
+        },
+        "11431":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "Sun-Dune of Clan Tree-Fire",
+                "Stone-Feather of Clan Ice-Mountain",
+                "More Goblins"
+            ],
+            "content":"<div class=\"\"><div> <span>So, who are you going to be?<br>\r\n<br>\r\n-----<br>\r\n<br>\r\nSun-Dune of Clan Tree-Fire: If there's a treasure out in the world that hasn't been found yet, Sun-Dune will likely be the one to find it. She's been treasure hunting for some time now. Interestingly, she has no interest in the riches themselves. She's merely in it for the thrill of the treasure hunt. Outside of treasure hunting, she's a great friend.<br>\r\n<br>\r\nIn her time, she has come across a number of cursed treasures, but so far she's be lucky to avoid the curses (largely due to the bad luck of her travelling companion, an inquisitive elf girl, getting the curses herself). But there's always that chance...<br>\r\n<br>\r\nStone-Feather of Clan Ice-Mountain: Stone-Feather wanted a family, and when the Rambling occurred, she was all ready to finally have one to cause chaos. She raided many villages to get ready, and finally got pregnant... one week AFTER the Rambling ended. Caught by some humans, she was made to work so she could pay off what she stole. She did so, proving that outside of the Rambling, she was a diligent and fairly loyal woman.<br>\r\n<br>\r\nIt's been 4 months, and Stone-Feather is in the last week of her pregnancy. Now quite large, Stone-Feather is ready for her off-spring. But Elder is a strange land: anything could happen...</span></div></div>",
+            "created":1593493200,
+            "id":2859359,
+            "title":"Goblins"
+        },
+        "114311":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "It was the morning,time to head inside the barrow",
+                "The two are ambushed."
+            ],
+            "content":"<div class=\"\"><div> <span>\"The fishy is in my hand!\"Sun-Dune exclaimed as she came walking back to her firesite, she dripped murk from her small body.<br>\r\n<br>\r\n\"I'm glad you're bac-gods,put on some clothes!\" Tahsi, her elven companion, declared. She shielded her eyes from the bare-skin goblin, who only rolled her frog-like eyes in evident annoyance.<br>\r\n<br>\r\n\"Calm down you long-leg stiffy.\" Sun-Dune spoke as she laid the fishes near the two's makeshift-kitchen \"I never get why you clothed folk get all ranckey with us in the skinnies. My clan had to wear loincloths to keep our relations in good order.\"<br>\r\n<br>\r\nSun-Dune began to cut open one of the large,colorful fishes down the middle. The other she bit into, nonchalantly she placed the fish into a huge pot as it slowly began to swell. The fish bulged for a bit making creaking noises from its mouth. Sun-Dune quickly placed a cover over the pot and latched it tight.<br>\r\n<br>\r\n\"I don't even understand it either.\" Sun-Dune gesticulated. \"My body's covered in my goblin-gel, you can't even see my jiggly bits. Besides your chest is even larger than mine.\" <br>\r\n<br>\r\nTahsi huffed in offense. She covered her tiny bosom in response.<br>\r\n<br>\r\n\"I am not that large.\" Tahsi exclaimed. \"You little frog.Even if I am large, it was because you cursed me!\"<br>\r\n<br>\r\nSun-Dune grinned back at her, already finished preparing the fish for Tahsi to prepare her food. A little explosion echoed from the pot. <br>\r\n<br>\r\n\"Gruel's almost done.\" She noted. \"and it was not me long-ear, not me. Its those ranckey artifacts we keep running across, and they like your magic more than they like mine.\"<br>\r\n<br>\r\n\"You don't have magic;only Akantat, elves, humans,demi-divine,harpies,and a select few chosen mortals have the touch.\"<br>\r\n<br>\r\n\"You're telling me my luck isn't magic?\" Sun-Dune spoke with a tone of mock hurt. \"Unthoughthinkable. You're also telling me that my partnership with an elf isn't magic as well?\"<br>\r\n<br>\r\nTahsi gaffed at that. \"We elves believe your kind to be one of few good things the Akantar have ever made.\"<br>\r\n<br>\r\n\"I'm honored.\" Sun-Dune spoke. She opened the pot to see the slushy remains of the fish still in it. She smiled as she sniffed the stew. Sun-Dune grabbed a bowl of water, some salt and pepper, and a pinch of crushed garlic, to swirl into the mix. Tahsi gagged and focused on her own dish. After twenty minutes, the two had prepared their meals.<br>\r\n<br>\r\nRefined suu-shin for Tahsi and whatever horrific gunk that was Sun-Dune's meal.<br>\r\n<br>\r\n\"Just like my second sister used to make.\" Sun-Dune's eyes crossed for a moment. \"Or was it my third sister from my mom's second clutch?\"<br>\r\n<br>\r\n\"Good, you're all set?\" Tahsi asked. \"Now can you please cover yourself up? Don't you worry of the weather afflicting you?\"<br>\r\n<br>\r\n\"Not one bit, my partner. Lived in the stilt swamps all but two-years of my twelve year life.\" Sun-Dune declared. \"Ooh maybe this year I can experience my first on hand 'rambling'. I only got a good fifty-three years left.\"<br>\r\n<br>\r\nTahsi grunted in response.<br>\r\n<br>\r\n\"Best you enjoy your meal now because tomorrow we're heading into The Fleecer's Barrow.\"<br>\r\n<br>\r\nSun-Dune looked at her elven friend. \"You've been saying that for the past two-days now. What's so special about it anyways?\"<br>\r\n<br>\r\n\"Besides the fact its one of the last hundred or so unconquered treasure holds on this continent?\" Tahsi replied. \"It was home to The Fleecer, an Akantat thief, said to have stolen a god's weapon.\"<br>\r\n<br>\r\nThe elf seemed more excited than the goblin, who only raised an brow at the mention of her master-god and the treasure.<br>\r\n<br>\r\n\"Sounds splickty.\" Sun-Dune replied. \"I'll sleep good on that thought.\"<br>\r\n<br>\r\nSun-Dune pushed her pot away and began to clean her mess up. She wondered what tomorrow would bring her and her partner in hunting.</span></div></div>",
+            "created":1593493200,
+            "id":2859454,
+            "title":"Sun-Dune of Clan Tree-Fire"
+        },
+        "114313":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Rock-Bone",
+                "Human-Kiss",
+                "More Goblins III"
+            ],
+            "content":"<div class=\"\"><div> <span><b> Rock-Bone of Clan Rot-Mold</b><br>\r\nA inquisitive young shaman for her tribe, Rock-Bone spends four hours each day communing with an effigy of her clan's god. When not in religious affiliation, Rock-Bone acts as a communicator with the local Ent-Forest near her commune. The elves and the goblins have been friends for over thirty-five years;while treating the local human satrap with respect, the goblins will always do their best to hide their allies.<br>\r\n<br>\r\nLike all goblins, Rock-Bone is nude,her goblin-gel suit covers her loose bits. In a show of modesty for her elf companions, she wears the skinned hide of a hyena.<br>\r\n<br>\r\n<b>Guide Mother Human-Kiss of Clan Pale-Fish/Nylissa</b><br>\r\nBoth an honorary title and a title brought upon by her own deeds, Human-Kiss is a member of a tribunal of goblin clans. Unlike most clans who are unique,but do to humans mistake classify them as part of the same group do to their close proximity to one another, Human-Kiss and her fellow leaders actively try to assimilate with one another. <br>\r\n<br>\r\nThe epithet 'Guide' refers to her general role in the doing her best in mending human relations as well as dealing with rambunctious youths who try and insight minor 'ramblings' in the community. Her title of 'Mother' refers to the fact she is the most prolific mother of the entire clan. With over eighteen kids at the ripe age of 32.<br>\r\n<br>\r\nLike all goblins she is nude, her only article of clothing is a bone necklace of an alligator. When dealing with clothed races, Human-Kiss prefers a silk cloth around the crotch and a bone chest piece for a bra.</span></div></div>",
+            "created":1593579600,
+            "id":2860147,
+            "title":"More Goblins"
+        },
+        "1143131":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Rock-Bone and Yokozuah continue their discussion on race relations.",
+                "Rock-Bone has to break up a fight between elf and goblin; goblin bites elf",
+                "Another Topic"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Shaman Rock-Bone.\" A familiar voice spoke from outside her tent. The shaman opened her eyes to see the familiar face of Yokozuah. The elf ambassador wore a no weapon but her loose orange robes.Rock-Bone relaxed in her cushion-throne, splaying her legs open. She giggled as Yokozuah adverted her eyes.<br>\r\n<br>\r\n\"Um Shaman, would you be so kind?' Yokozuah spoke. Rock-Bone walked off to get her hyena-skinned cloak. She draped it around herself and sat back down.<br>\r\n<br>\r\n\"You skinnies, no, clothies. Ever getting so flustered by goblins.\" Rock-Bone noted as Yokozuah sat down next to her.<br>\r\n<br>\r\n\"Its to distinguish us from the animals, Shaman.\" <br>\r\n<br>\r\n\"By just covering yourself with more animal?\" Rock-Bone asked. \"Paah!\"<br>\r\n<br>\r\n\"Don't you goblins ever think about armor or the weather?\" Yokozuah explained as she took out packets of some sort of powder. She slowly poured the powder into a pot that was off to the side of Rock-Bone's tent-home. The elf then took out a container, opening the top to pour in clear water into the pot. She stirred, whispering a few words which caused the bottom of the pot to boil.<br>\r\n<br>\r\n\"Weather?\" Rock-Bone yawned. \"Get too hot on land, go into water. Water get's ticklish? Don't care, goblin-jelly. Water get's hot? Goblin-jelly once more. Armor too heavy, if we're fighting, goblins are probably fighting something big. Kill us in one blow, armor and or no armor. Its rackenty, but its life.Besides the point, you clothies get all uncomfortable when we're not even hurting you. What happens when you see proud goblin rushing at you with his great body on display. You act all barfy, I've seen it before.\"<br>\r\n<br>\r\nRock-Bone stated as she saw Yokozuah finish making her tea. The shaman got up to hand the elf a ladle, who in turn gladly poured some into a small, elaborate cup she brought with her. Rock-Bone poured the contents, straight down her gullet, not caring for its boiling hot intensity.</span></div></div>",
+            "created":1593666000,
+            "id":2860198,
+            "title":"Rock-Bone"
+        },
+        "1143132":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "...fix some of the buildings.",
+                "...get the carts back.",
+                "...help the woman infected with the double dosage."
+            ],
+            "content":"<div class=\"\"><div> <span>The village was in shambles. A minor-rambling had happened, and a group of goblins had completely raided the village, taking most of their food and supplies. Worse still, several people had been inflated by the goblins venom, leaving several huge human balloons around.<br>\r\n<br>\r\nIt was a sight that upset and annoyed many... and among them was Guide Mother Human-Kiss.<br>\r\n<br>\r\nHer job was to try and mend human-goblin relations, and these minor ramblings were really making that job exceptionally hard. But she still had to try. Hence why she was in this village, trying to help with rebuilding it.<br>\r\n<br>\r\nAs she looked over the damage that had been done to the village, she was completely shocked. A normal minor-rambling just took supplies and inflated people. But this... there were buildings that had been completely demolished, some even still on fire. Along with the supplies, a number of carts that sold food had been stolen as well. And worst of all, from what she understood, one of the women in the village had gotten a double dosage of the usual inflation venom. Very few knew what that did, but she was going to fix this. At least, as much as she could.<br>\r\n<br>\r\nShe had brought a few of her kids from her recent clutch to help with the rebuilding efforts, but she was going to do her part as well. The first thing she planned to do was...</span></div></div>",
+            "created":1593838800,
+            "id":2861493,
+            "title":"Human-Kiss"
+        },
+        "11431323":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Dinah accepts her help",
+                "Dinah rejects her help"
+            ],
+            "content":"<div class=\"\"><div> <span>Human-Kiss,named after the first thing her parents saw, walked through the wreckage. She wiped her head and tugged at her armor piece, why was it so hot all of a sudden? She licked her slimy face with her tongue in worry. Many people were crying out besides their wrecked homes, while others did their best to put out the fires. A man quite familiar to Human-Kiss walked up to her, his hand gripped his shotel with quiet intensity. <br>\r\n<br>\r\n\"Kiss.\" Ashbel spoke, making it obvious he was dropping the 'human' part of her name. Human-Kiss grimaced at the response, she and Ashbel were usually on much more cordial terms. Not today it seemed.<br>\r\n<br>\r\n\"I do so apologize.\" Human-Kiss spoke. \"It was an oversigh-\"<br>\r\n<br>\r\n\"AN OVERSIGHT!\" Ashbel screeched before his voice calmed down. He rubbed his eyes a little, sweat dripped down the sides.\"I remember my mother's stories about how your kind came in these numbers twenty-five years ago.Twenty-five years ago, your clan was supposed to have fixed the mistakes of the past.\"<br>\r\n<br>\r\nHuman-Kiss knew what he was talking about. This was an almost mirror of the Tribunal-Ramblings, the one that formed the tribunal in the first place. They were supposed to have planned against such a thing ever occurring again. How'd this become so destructive was an investigation Human-Kiss was not looking forward to.<br>\r\n<br>\r\n\"I know, Townsman Ashbel, I know. It was a mistake and fourteen goblins who were associated with this have already been apprehended.\" Human-Kiss spoke. Her time with the humans had made her adopt a more \"sophisticated\" way of speaking compared to her kin,though she could still posses that distinct goblin dialect.<br>\r\n<br>\r\n\"Allow my children to assist you.\"<br>\r\n<br>\r\nAshbel sighed.<br>\r\n<br>\r\n\"I don't think the town is quite ready to see any more goblins at this time.\"<br>\r\n<br>\r\n\"Then allow us to help, let us keep our previous relations still strong.\" Human-Kiss pleaded. \"I've heard about the one poor miss that was bitten more than usal, please let me see to her at least.\"<br>\r\n<br>\r\nAshbel gave another sigh, but he straighten himself. \"Let's go see Dinah.\"<br>\r\n<br>\r\nHe walked past Kiss and made sure to cover her from angry eyes. About one-third of the young folks of the town were spherical, or puffy, looking versions of themselves.Some yelled as Human-Kiss walked by, while others cried at the sight of her. Human-Kiss lowered her head in shame.<br>\r\n<br>\r\n\"What can you tell me about Dinah?\"<br>\r\n<br>\r\n\"She's our town arms-master, she takes care of our militia's stockade. In fact, the reason why she was bitten so many times was because she was trying to protect as many people as she could.\" Ashbel explained. \"Also, don't bring up her size at the moment,its not something she wants to dwell on,seeing as she's going to be like that for seven to nine months.\"<br>\r\n<br>\r\n\"<i>Or more</i>.\" Human-Kiss thought.<br>\r\n<br>\r\nThe two eventually came to the afflicted woman and Human-Kiss gasped in shock. Two children, one a baby the other a toddler, were right besides a large sphere of light-brown. She was larger than some of the mud-houses the town was made up of. Her breasts were huge,nearly the size of two goblins in a fetal position.Each tipped by dark brown nipples.Her womanhood was only protected by a sheet of linen and the fact she was placed onto her bottom.<br>\r\n<br>\r\n\"Dinah?\" Ashbel spoke. \"Its me. We have a visitor.\"<br>\r\n<br>\r\nHuman-Kiss coughed and gave a meek \"Hello\" to the giant ball that used to be a woman.</span></div></div>",
+            "created":1593912180,
+            "id":2861512,
+            "title":"...help the woman infected with the double dosage."
+        },
+        "114313231":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "\"...2 years.\"",
+                "\"...4 years.\"",
+                "\"...the rest of your life.\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"Another goblin?\" Human-Kiss heard Dinah asked. With how big Dinah was, she sounded really far away. \"Don't you think this is enough?\"<br>\r\n<br>\r\n\"Dinah, I wish to assist you.\" Human-Kiss said. \"This minor-rambling wasn't supposed to happen.\"<br>\r\n<br>\r\nDinah was silent for a moment. \"...I've heard your name around. You've been trying to improve human goblin relations.\" She said. There was a moment of silence, before Dinah sighed. \"I guess I don't have much else to lose.\"<br>\r\n<br>\r\n\"Thank you.\" Human-Kiss said. She then began to examine Dinah's swollen body. \"No human should be getting this big. This looks like a double... no, triple dose.\"<br>\r\n<br>\r\n\"It was chaos. It's not just Dinah, but the guard captain, the blacksmith, and even most of the town council were inflated.\" Ashbel said.<br>\r\n<br>\r\nThat made Human-Kiss stop. Something about that seemed... wrong. The council, the blacksmith, the weapons-master and the guard captain?<br>\r\n<br>\r\n\"Was anyone else inflated?\" Human-Kiss asked.<br>\r\n<br>\r\nAshbel thought for a moment, then shook his head. \"No, just them.\" He said.<br>\r\n<br>\r\nHuman-Kiss looked at the buildings that were attacked, and realized another thing: while all of them had some form of damage, the ones that were nearly obliterated were all important structures, like the shops and the council hall.<br>\r\n<br>\r\n\"...this wasn't random.\" Human-Kiss said. \"All these buildings and people, and they mainly attack the heads of the town? Ashbel, somethings wrong.\"<br>\r\n------<br>\r\nA short distance away from the town, hidden in the trees a female goblin was watching everything unfold.<br>\r\n<br>\r\n\"Pah! Dumb humans! Traitor goblin!\" The goblin said to herself.<br>\r\n<br>\r\nAs she watched Human-Kiss examine the bloated woman, she was already planning out the next town to start a \"minor-rambling\". At least, that's what the humans thought it would be.<br>\r\n-----<br>\r\nIt took a few hours, and a couple of healers, but Human-Kiss finally got an answer for Dinah's predicament.<br>\r\n<br>\r\n\"This will sound odd, but something in your body is replicating the goblin venom.\" Human-Kiss said. \"By my guess, you'll be inflated for much longer.\"<br>\r\n<br>\r\n\"How long?\" Dinah asked, worried.<br>\r\n<br>\r\nHuman-Kiss frowned. \"I'd say...\"</span></div></div>",
+            "created":1594259460,
+            "id":2864431,
+            "title":"Reluctant Acceptence"
+        },
+        "1143132311":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Human-Kiss goes back home to deal with the assailants.",
+                "One of her kids comes to show her mother evidence of who orchestrate this crime."
+            ],
+            "content":"<div class=\"\"><div> <span>\"..two years.\" Human-Kiss replied. Dinah audibly gulped,while Ashbel looked aghast at the words. <br>\r\n<br>\r\n\"Two years, by the gods, are you serious?\" Ashbel questioned. Human-Kiss nodded and turned back around. The toddler and the baby were gently playing with each other. The toddler rubbed the top of her brother's head,who seemed to enjoyed it rather than become annoyed.<br>\r\n<br>\r\n\"Are those her...?\"<br>\r\n<br>\r\n\"Yes.\" Ashbel replied curtly. \"Father died a year ago to elves and Dinah's been doing her best raising the two.\"<br>\r\n<br>\r\nHuman-Kiss could relate to having a dead mate, she lost her first-husband years ago. And she also knew that humans took longer to heal from that sort of pain. Human-Kiss stared at the large woman's pulsing sphere body, her breasts wobbled from the breeze.<br>\r\n<br>\r\n\"Can we get back onto topic of my fuc-I mean, my giant sphere-like body!\" Dinah yelled. Her children looked at their mother, who in turn, couldn't see them.<br>\r\n<br>\r\n\"I seen it before, oh yes,I've seen it before.\" Human-Kiss explained. She poked at Dinah, who flapped her hands in distress. \"Some interior chemistry causes a severe reaction. Like how some people swell up when stung by a sting-bug,but in the <i>very </i>lethal way of swelling. Same principle as you, yes.\"<br>\r\n<br>\r\n\"Is there anyway to fix this?\" Dinah spoke. She had to yell most of her words do to how big she'd gotten, which made some passerby's stop and listen. Ashbel noticed and helpfully shooed them away.<br>\r\n<br>\r\n\"You'd need to sweat it out or...you know...do what comes best when given water,yes.\" Human-Kiss explained.<br>\r\n<br>\r\n\"You're not talking about.\"<br>\r\n<br>\r\n\"Yes.\"<br>\r\n<br>\r\n\"I'm the size of a fu-a mud-house\"<br>\r\n<br>\r\n<i>\"Well larger.</i>\" Human-Kiss thought.<br>\r\n<br>\r\n\"I'd probably drown, my neck and mouth are too small to allow that much water in. Hell, they town will die of thirst if they'd waste it all on me!\" Dinah pointed out. \"And my neck,or at least where I think my neck is at, is becoming a waterfall right now. God, what if I die of heatstroke in this weather?\"<br>\r\n<br>\r\n\"There's the old Dinah fire.\" Ashbel whispered as he walked next to Kiss. <br>\r\n<br>\r\n\"Whose going to take care of my kids?\" She bemoaned. Human-Kiss looked at the toddler and babe and felt the familiar maternal instinct kick in.<br>\r\n<br>\r\n\"I'd could be of assistance, with your kids anyways.\"<br>\r\n<br>\r\n\"Well Levi is still suckling. I need to-\"<br>\r\n<br>\r\n\"I wouldn't recommend that Dinah.\" Human-Kiss interrupted. \"Although, it may help with your current predicament..\"<br>\r\n<br>\r\n\"Don't worry Dinah, I'll get a suckling maid to help with little Levi here.As for Cleo, Kiss here has experience with tots.\"Ashbel assured.<br>\r\n<br>\r\nThe couldn't read Dinah's expression, but she seemed to agree.<br>\r\n<br>\r\n\"Fine, you can watch my kids, but I'll still do my job as town's quartermaster,I am not loosing that.\" Dinah declared. Human-Kiss nodded. \"And also, don't go teaching my kids that nude dung you goblins have,I may not have a cover right now but thats an exception.\"<br>\r\n<br>\r\n\"Agree.\" Human-Kiss responded.</span></div></div>",
+            "created":1594263120,
+            "id":2864448,
+            "title":"\"...2 years.\""
+        },
+        "11431323112":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "\"...send a message.\"",
+                "\"...frame the humans.\""
+            ],
+            "content":"<div class=\"\"><div> <span>At that moment, one of Human-Kiss's children ran into the hut. It was Silver-Rain, her oldest daughter from her first clutch. She seemed to be carrying something.<br>\r\n<br>\r\n\"Ma!\" Silver-Rain yelled. \"Found this in the fishy market! Er, what's left.\"<br>\r\n<br>\r\nSilver-Rain handed the object to Human-Kiss. It looked like the remains of a necklace. It was made from burnt splinters and rope from a fishing net. The instant Human-Kiss saw the necklace, she became worried.<br>\r\n<br>\r\n\"No, it can't be...\" Human-Kiss muttered.<br>\r\n<br>\r\n\"What is it?\" Ashbel asked. \"Something about that necklace?\"<br>\r\n<br>\r\n\"Yes. I think I know who's behind this, yes.\" Human-Kiss muttered.<br>\r\n<br>\r\n\"Who?\" Dinah asked.<br>\r\n<br>\r\n\"Dark-Fang.\" Human-Kiss replied. The instant she said that name, Silver-Rain shuddered.<br>\r\n<br>\r\n\"Who is this Dark-Fang?\" Ashbel asked.<br>\r\n<br>\r\n\"A hob-goblin. Clanless. Insane.\" Human-Kiss said. \"She wants to undo all the work the tribunals made. Drive the humans out.\"<br>\r\n<br>\r\n\"You sure it's her, ma?\" Silver-Rain asked.<br>\r\n<br>\r\n\"Not entirely, but this is a clue.\" Human-Kiss said. \"Dark-Fang likes making necklaces out of the remains of villages she destroys. Sees it as a symbol.\"<br>\r\n<br>\r\n\"You're saying she planned this?\" Ashbel asked. \"I thought minor-ramblings were random?\"<br>\r\n<br>\r\n\"Most of the time, yes.\" Human-Kiss explained. \"But if Dark-Fang is behind this, then this wasn't a rambling. It was an attack disguised as one. Explains why only your high authorities were inflated, and why only important buildings were destroyed, yes.\"<br>\r\n<br>\r\nHuman-Kiss thought for a moment. Then she realized something.<br>\r\n<br>\r\n\"Ashbel, what's the closest town to this one?\" She asked.<br>\r\n<br>\r\n\"An elf village.\" Ashbel said. \"You think she'd attack it? Why? Goblins are on better terms with elves.\"<br>\r\n<br>\r\nHuman-Kiss pondered for a moment. \"If she were to attack it, I think it would be to...\"</span></div></div>",
+            "created":1594265340,
+            "id":2864466,
+            "title":"Dark-Fang"
+        },
+        "114313231122":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Three of Kiss' children will deal with Dark-Fang",
+                "Ashbel and a unit will deal with Dark-Fang's hassle"
+            ],
+            "content":"<div class=\"\"><div> <span>\"...frame you humans.\"<br>\r\n<br>\r\n\"Heh. She could've easily asked us,we'd have done that for free.\" Dinah spoke. Human-Kiss looked at the ball with a quizzical eye,then she remembered that most human nations were at war with the elves. Her sentiments were probably what the rest of her town thought of their neighbors.<br>\r\n<br>\r\n\"May head to a more <i>secluded</i> area?\" Ashbel spoke. Human-Kiss nodded leaving behind her daughter to deal with Dinah's problem.<br>\r\n<br>\r\nAshbel led the goblin to his townhouse. Much larger than the rest of the town's mud homes, it was still a rough red cube. The only thing that made it seemed important were the banners that hung from its front. Ashbel let Human-Kiss in first before he walked into the home. The made their way to a corner where a rug was placed at. They both sat down and began to speak once more.<br>\r\n<br>\r\n\"I don't want to start anything with those elves.\" Ashbel said. \"Its not that I don't have love for them, which I don't, but the town can't handle a strikeforce. They'll tear us apart if they'd come. I also need to make sure the town doesn't scream loud enough for the army to come marching onto your settlement. We'd both don't want that, do we? So what advice can you offer?\"<br>\r\n<br>\r\n\"I can always offer three of my strongest children. They'll do it splickety. But Dark-Fang will deal with our justice, not yours.\"<br>\r\n<br>\r\n\"Why can't you just send her to us?\"<br>\r\n<br>\r\n\"Because goblin hands deals with goblin,so by that point, its goblin problem now.\"<br>\r\n<br>\r\n\"And this isn't because....?\"<br>\r\n<br>\r\n\"We're helping you, aren't we?\" Human-Kiss smiled at Ashbel. \"Goblin deals with goblin problems. However, if you go out and deal with her, you can do whatever you'd like.\"<br>\r\n<br>\r\n\"But then who'll deal with the town?\"<br>\r\n<br>\r\nHuman-Kiss waved a little which made Ashbel scratch his chin in thought.<br>\r\n</span></div></div>",
+            "created":1594712640,
+            "id":2868214,
+            "title":"\"...frame the humans.\""
+        },
+        "11433":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Salamandaria",
+                "Gnomes",
+                "Elder: Other Species III"
+            ],
+            "content":"<div class=\"\"><div> <span><b>Salmandaria</b><br>\r\nRed-skinned, pupil-less, horned nomads. Salamandaria are another \"up-lifted\" species created by the Akantati.  Made mostly as messengers and Akantati hunter-chefs, these days the Salamandaria live a life of quiet solitude. They trade exclusively with Orcs, while sharing good relations with dwarves. Elves kill them on sight,though that could be when elves meet most Akantat species. Humans generally distrust them, though some communities have been known to work closely with these nomads.<br>\r\n<br>\r\nMost Salamandaria, barring their eldest,appear human-like in their stature. However, they covert their horns over their figures, ignoring their supple forms. Many merchants looking for profit have been known to wear stylized helmet-horns as a way to appear more <i>attractive</i> for the Salmandaria.<br>\r\n<br>\r\n<b>Gnomes</b><br>\r\nSurprisingly not another \"up-lifted\" race, Gnomes came into the world relatively later compared to the other species on the continent. About three-thousand or so years, give or take. <br>\r\n<br>\r\nGnomes live in one city-state, many would consider such an idea unwise, if plague or war came where would they go? That is if not for the fact Gnomeoploi is known as one of the Ten Wonders of The World. It spans over thirty points high and over half a league in depth.Sky ferries land around their sprawling towers and even dwarven engineers look upon in envy. Their plumbing is fantastical, medical facilities are superb, and their weaponry fierce. Only their strict neutrality and erudite ways are they kept protected from the same fear and disgust that they Akantati possess. With barely any interference by Akantati hands,the gnomes are considered a 'pure' race by elves. <br>\r\n<br>\r\nGnomes are obsessed with hats,with the material and coloration being their set of standards. Silk,red, and tipped are considered the highest of their kind; blue,cotton,and floppy are considered the lowest of the common folk.<br>\r\n<br>\r\nGnomes are taller than dwarves, but are smaller than humans are average. Only their scruffy tails and almost hand-like feet are they distinguished from a smaller human.</span></div></div>",
+            "created":1593493200,
+            "id":2859408,
+            "title":"Elder: Other Species II"
+        },
+        "12":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Drakenweld",
+                "The Red Woods",
+                "The Barrows",
+                "Mount Festivity",
+                "Broken Isles of Grand-Admiral Teach"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now where do you wish to begin on this young and free continent?</span></div></span></div>",
+            "created":1592715600,
+            "id":2854766,
+            "title":"Younger"
+        },
+        "121":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Meridolla",
+                "Teresa",
+                "Another Inhabitant"
+            ],
+            "content":"<div class=\"\"><div> <span>Who are you?<br>\r\n<br>\r\n<b>Meridolla the Vanterbeak:</b><br>\r\nA half-nymph,half-human thief who prowls the streets of Summercrest. Only known for her sweet love of liquor and thrills, Meridolla is the good-to burglar for high-end. Though rumors of a somewhat embarrassing quirk in her biology has gone around...<br>\r\n<br>\r\nShe carries a blackjack holstered in a rat hide. Her hair changes during the season, like all nymphs. She starts green in spring, blonde in summer, red in autumn, and white in winter.<br>\r\n<br>\r\n<b>Teresa</b><br>\r\nA daughter of a baker who resides in one of Drakenweld's small towns, Teresa spends her days learning her parent's craft. She dreams of becoming the town's local champion and even shoot higher than that. Fortunately for her, it seems that a local pellar could be the catalyst for her sucess.<br>\r\n<br>\r\nA little plump in the middle, Teresa is still a beauty to behold. Her skin fair, her eyes bright, her voice a melody, everything a local town's lad could ever dream of.</span></div></div>",
+            "created":1593493200,
+            "id":2858889,
+            "title":"Drakenweld"
+        },
+        "122":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Velvet Hood",
+                "Razpunella",
+                "Another Red Woods Inhabitant"
+            ],
+            "content":"<div class=\"\"><div> <span>Who are you?<br>\r\n<br>\r\n<b>Velvet Hood</b><br>\r\nFamous folk-hero to the towns that seed the outskirts of The Red Woods. Her tale was spread when it was told of how she managed to kill a wolf-disguised as her grandmother. Unfortunately, her grandmother was already long-dead. After that day, Velvet Hood had become a hunter of intelligent wolves everywhere.<br>\r\n<br>\r\nKnown for a titular hood, Velvet also carries the pelt of the first wolves she ever killed over her shoulder. A distinctive, dwarven made  snap-shot is hidden within her hood.Silver knifes are also hidden within the recesses of her clothes and boots.<br>\r\n<br>\r\n<b>Razpunella</b><br>\r\nIt is said that a woman with hair as orange as the sun hides within a tower hundreds of cubits in height. It is said that everyday, afternoon, the mysterious woman dubbed Rapzpunella, let downs her hair. It is told in peasant speech that whoever is lucky enough to crawl up this hair stalk will be bethrone to the woman.</span></div></div>",
+            "created":1593320400,
+            "id":2858328,
+            "title":"The Red Woods"
+        },
+        "1221":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "Hood hummed a tune, as she gutted the carcass.",
+                "The snap of a dry twig, sent her hood back, as she scanned the trees.",
+                "A distant howl alerted her to a nearby pack of wolves...",
+                "Hood cut enough meat for each villager to have a little treat.",
+                "Something else..."
+            ],
+            "content":"<div class=\"\"><div> <span>Velvet Hood moved with the silent grace of experience. Her carefully hidden weapons concealed in the lining of her cloak. Some slender blades easily accessible from the heavy hem. <br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://i.pinimg.com/originals/84/0f/2c/840f2c12b797bf73132db73c80f952a8.jpg\" target=\"_blank\">https://i.pinimg.com/originals/84/0f/2c/...</a><br>\r\n<br>\r\nThe cord securing it around her neck looked decorative and fashionable. But, it was blessed with great strength, being used as a garotte on a number of occassions.<br>\r\n<br>\r\nHood's greatest weapon, was her vulnerability, far more perceived than real. She looked a juicy target for any wanderer unfamiliar with the forest. A few bandits taking advantage of the tree cover, were surprised ... fatally, on ambushing her.<br>\r\n<br>\r\nA carefully draped hand shifting in a display of faux modesty covering a distracting bust, was used to fluster and mislead any villain. Few escaped her traps to spread the word of her danger.<br>\r\n<br>\r\nHer isolated cottage ensnaring many with evil intent, and the nearby village considering her blessed. Her 'lucky' escapes sign of divine favour.<br>\r\n<br>\r\nSilently, she drew a throwing blade from it's concealed location. It flew silently towards the deer. She was going to eat well tonight. The stag was startled and stunned. As Velvet Hood emerged sprinting deftly over the uneven ground. She reached it with a speed that seemed almost inhuman. A quick mercy, and the beast was dead. She Wiped the blade clean on some nearby moss, the silver blades caught the light.</span></div></div>",
+            "created":1593579600,
+            "id":2860080,
+            "title":"Velvet Hood: An Introduction..."
+        },
+        "12214":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "The village eat the wolves, they taste quite delicious for muscular animals",
+                "They don't eat it, instead they serve it food for the hogs they keep."
+            ],
+            "content":"<div class=\"\"><div> <span>Velvet walked off with as much meat as she could carry. She left the rest to the birds and the scavengers. A whistle escaped her lips as she made her way through the woods, though no animal dared seemed to try and get closer. Well, all except one. <br>\r\n<br>\r\nBrown eyes pierced through the shadowy chaos, each pupil contemptuously looking straight at her.<br>\r\n<br>\r\n\"Good afternoon, Velvet.\" The voice was deep,but distinctively feminine. <br>\r\n<br>\r\n\"Good afternoon to you Lady Maw.\" Velvet nodded. Out from the shadows came the largest mountain lion one could ever see. Its shoulder met the tip of Hood's head. She smiled with a mouthful of dagger teeth.<br>\r\n<br>\r\n\"I don't suppose you have any meals for a poor old lady looking out for her young ones?\" Lady Maw spoke as she paced with Velvet. Known head-honcho of this part of the forest, Lady Maw was usually well avoided by anything less armored than a great bear or a pack of talking wolves. Velvet though had become well acquainted with the old lion. Maw pointed out where the wolves congregated and in turn Velvet kept Maw fed and away from the villages.<br>\r\n<br>\r\n\"They're behind me Maw, fresh about ten minutes ago.\" Velvet explained. Maw licked her lips in delight before she bounded off. The lioness turned around for a moment to speak her mind.<br>\r\n<br>\r\n\"Oh, rumor has it that a pack has been planning to attack you.\" Maw explained. \"I just thought it would be a warning to you Hood.\"<br>\r\n<br>\r\nVelvet smiled and waved off the lioness as she disappeared into the gloom. Velvet continued forth until finally she had arrived back to her usual headquarters. While she did mainly move from village to village, her heart always belonged to the place her grandmother lived.<br>\r\n<br>\r\n\"Look, Hood's back.\" A child yelled as he pointed at the incoming heroine. The crowd came upon her with delighted vigor. Velvet held a hand up to clam the crowd down, right before she showed them her stockpile of wolf meat. The crowd oo'ed in enthusiastic applause. Hands reached out to see and touch the wolf meat.</span></div></div>",
+            "created":1594160400,
+            "id":2863738,
+            "title":"The Village Meat Day"
+        },
+        "1223":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "Nia Red Daisy",
+                "Other Red Woods Inhabitants"
+            ],
+            "content":"<div class=\"\"><div> <span>Who else could you be?<br>\r\n<br>\r\n<b>Nia Red Daisy</b><br>\r\nNia is a half-nymph who hasn't exactly had the best of times. She lived in Mount Festivity for a few years, but ended up feeling like she didn't belong due to her half-human heritage. So, she packed up her things, and left Mount Festivity to find a place where she feels she can belong.<br>\r\n<br>\r\nShe's mostly been traveling with various adventuring parties, working with them on adventures. Her current path is taking her through the Red Woods. She has a tendency to accidentally inflate her curves when she gets excited.<br>\r\n</span></div></div>",
+            "created":1594572300,
+            "id":2866985,
+            "title":"Another Red Woods Inhabitant"
+        },
+        "12231":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "A tavern for work",
+                "Drakenwald",
+                "Before she could reply,the group is besieged by bandits"
+            ],
+            "content":"<div class=\"\"><div> <span>\"And so the great king died~ Nia's companion Canterwaul sung. The group clapped in amazement, the only one not doing so was Shiasama the elf, who was currently driving the wagon's horses.<br>\r\n<br>\r\n\"Amazing, I can't believe such culture exists\" Nia spoke, obvious wonder on her face.<br>\r\n<br>\r\n\"You bet you fine ass they do.\" Canterwaul spoke, her obsidian eyes blinked in glee. The bard always loved meeting fresh faces for her stories. Amanda and Krissatossa sat back on the wagon's interior as the elementa continued to amaze the half-nymph. Nia ate up her act with rapt attention.<br>\r\n<br>\r\nShe had only been with this group for three weeks, but already she felt the spark of kinship between them. The one group to accept a woman dressed in her own long hair.<br>\r\n<br>\r\nNia Red Daisy was a half-nymph who had recently left The Mount to explore and get away from her mother's full nymph friends. They hated the half-nymph's prodigious expansion of her own curves, though that ability was common among other half-nymphs as well.<br>\r\n<br>\r\n\"So where are we heading towards now boss?\" Nia asked Shiasama as they drove down the night road.<br>\r\n<br>\r\n\"Well...\" The elf said.</span></div></div>",
+            "created":1596687420,
+            "id":2881145,
+            "title":"Nia Red Daisy"
+        },
+        "123":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Langley",
+                "Sarah",
+                "Some Other Pweaon"
+            ],
+            "content":"<div class=\"\"><div> <span>Who are you?<br>\r\n<br>\r\n<b>Miss Langley</b><br>\r\nA halfling of course, whose spends most of her days like all other halflings, which is to say with great gluttony. A part of the halfling yearns for adventure.It just that she doesn't know how,where,or what should would accomplish. That was until a traveling minstrel a choice few halflings to join him on an endeavor that could quite possibly be what she desires.<br>\r\n<br>\r\nLike most halfling women, Miss Langley's shape would be an absurd hourglass if she'd be the size of a normal human woman.<br>\r\n<br>\r\n<b>Sarah of Riveta</b><br>\r\nA member of the wandering scholars, Sarah has journeyed to the Barrows to seek its customs. Unfortunately it seems that she'd underestimated the enticing foods of the halfling home and has entrenched herself into their delights. As the days go by, Sarah's will begins to drain as well.<br>\r\n<br>\r\nSarah wears a bandanna depicting her order's symbol, that is to say an eye wrapped in flames.</span></div></div>",
+            "created":1593908760,
+            "id":2861495,
+            "title":"The Barrows"
+        },
+        "124":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Shani",
+                "Penelope",
+                "Another Character"
+            ],
+            "content":"<div class=\"\"><div> <span>Who are you?<br>\r\n<br>\r\n<b>Shani</b><br>\r\nHalf-blood nymph and basically the guardian watcher of the Mount. Her mother has tasked her with watching potential threats and visitors everyday. She'd rather be out frolicking with satyrs than be on a rock holding a golden ram horn. But what can can she do? <br>\r\n<br>\r\nShani, like her mom and sisters and aunts, wears nothing but her elongated hair as a dress. A godvia or ever changing locks. <br>\r\n<br>\r\n<br>\r\n<b>Penelope of Town Horsen</b><br>\r\nA stable girl, Penelope had been playfully brought to the mount by her friends. A usually more conservative girl in terms of partying, Penelope has decided to let go of her restraints, just for the day. Her eyes dart to frolicking satyrs or provocative dances by stage performers or bare skin nymphs singing on lyres. Everything has overwhelmed the girl's senses and she may break in a way that is either going to be messy or damn lusty.<br>\r\n<br>\r\nPenelope wears her bun tied as humanely possible, a needle she can use to fight off opponents is tucked into the buns stem.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1593579600,
+            "id":2859491,
+            "title":"Mount Festivity"
+        },
+        "1242":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "Penelope was working the bellows, when the shadow filled the doorway.",
+                "A cry came from just down the road, desperate and feminine.",
+                "Penelope sat at the table outside, the village tavern. Enjoying the evening air.",
+                "Her hair down, as evening swept across the village, dusk falling.",
+                "Something else..."
+            ],
+            "content":"<div class=\"\"><div> <span>Like everyone in this part of the forest, Penelope Cooper was an adept horsewoman. It was the only way to travel... Literally, the next village over, was more than a days' walking, and the dangers of the night too common for that to be risked.<br>\r\n<br>\r\nThe forest hamlet had a small forge, where Penelope worked. She fixed the tack, and shoed the horses. She had a particular flair. The tack picking up decorative little designs. Even the hooves seemed to be more works of art than simple items.<br>\r\n<br>\r\nShe had no lack of suitors, and a way with horses that was better than brute strength. Any rider passing through had trouble believing she was the villages farrier. She just didn't seem to have the build for it.<br>\r\n<br>\r\nA blessing, or a curse. Penelope was unsure which. Changing her mind from time to time. But, the rumours of her father's dalliance with a forest nymph was behind her 'blessings'.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://i.pinimg.com/originals/00/ce/3b/00ce3bf66d3d330ca326b7adea65aac4.jpg\" target=\"_blank\">https://i.pinimg.com/originals/00/ce/3b/...</a><br>\r\n<br>\r\nShe had a sense that was attuned to the natural world: the creatures and plants responded to her. Arcane knowledge was revealed to her.</span></div></div>",
+            "created":1593579600,
+            "id":2860099,
+            "title":"Penelope Cooper."
+        },
+        "12423":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "A few games before Penelope tells them to go home",
+                "Penelope meets a strange human(?) who offers some tonics to her."
+            ],
+            "content":"<div class=\"\"><div> <span>Wind touched her skin as the Mount's climate tempered and cooled. It was heading into late summer and the harvests were going good at the moment. Horsen was breeding its top cattle, as well as sending out its titular animals to Drakenweld and The Red Woods protectorate. Penelope wiped her head and listened into the tavern's bards as the sung bawdy tales.<br>\r\n<br>\r\n\"Afternoon Penelope.\" The voice of one of the town's aldermen spoke. Penelope smiled as Igor, the town's uncle as many thought, came walking towards her.<br>\r\n<br>\r\n\"And afternoon to you as well Igor.\" She replied. Penelope got up and bowed to the man, a slight smile on her face. <br>\r\n<br>\r\n\"My nephew's wants you to have a message, Penelope.\" Igor spoke. \"Says he and three or four of his close friends are going to the Mount.\"<br>\r\n<br>\r\nPenelope's eyebrow rose at that remark.<br>\r\n<br>\r\n\"Isn't Wallace is a little young to see Festivity?\" She questioned. \"I mean he's near my age, so that isn't too much of a difference, but don't many villages forbid youths from going there? Especially those who love vice?\"<br>\r\n<br>\r\n\"I know. I know. But the boy's been doing some good around the village that I may have bent the rules for him.\" Igor answered.<br>\r\n<br>\r\n\"Isn't that nepotism?\"<br>\r\n<br>\r\n\"It is, but Wallace's been working hard, it felt like it was the only fair reward.\" Igor shrugged.\"Besides, I've only given him permission to go around the carnival,masquerade, and merchant quarters. I forbid him to go see the pleasure tents or the 'ascension' houses.\"<br>\r\n<br>\r\nIgor stretched his body a little, his old bones creaked.<br>\r\n<br>\r\n\"I know you're a good lass and I wish for you to watch him, the same couldn't be said for the rest of his friends.\"<br>\r\n<br>\r\nPenelope smiled. \"Fine, I'll keep Wallace's hanse in line.\"<br>\r\n<br>\r\nIgor offered her his hand, which she gladly took. The two shook and Penelope walked off towards the place Igor said Wallace would be. Soon arriving at the outskirts of the village, Penelope saw Wallace speaking to his group. Jeremiah, Lon-Zah, Shallah, and Turk.<br>\r\n<br>\r\n\"Penelope! Hello!\" Lon-Zah spoke. The boy's elven heritage could be seen clearly on his tall frame. Penelope waved politely as she approached. Wallace, a red-haired youth, gladly waved back.<br>\r\n<br>\r\n\"You got my message? Are you ready to depart? Wait, are you coming in the first place?\" The lad spoke. <br>\r\n<br>\r\n\"Yes, I'll come Wallace, its nice to see you as well.\" Penelope replied. The other three friends started to speak with the newcomer as they traveled down the beaten roads. It was about a fifteen minute walk to the mount, the group prattled about what they'd do once they got to the fabled place.<br>\r\n<br>\r\nSoon they came across a fork in the road.One path in the road traveled westward while the eastern path lead towards two women in the distance. The group walked east until they saw the women. Both were obviously nude with the only decency that covered them were their long orange hair.<br>\r\n<br>\r\n\"Halt!\" One spoke. \"Relinquish all weapons if thou desires to head forward.\"<br>\r\n<br>\r\nThe hanse showed no weapons on their persons and were quickly let go without much hassle. <br>\r\n<br>\r\nTurk looked back at the two, and with confidence he wouldn't be heard, spoke of his observations.<br>\r\n<br>\r\n\"Those two nymphs were dammed beautiful!\" He whispered.<br>\r\n<br>\r\n\"Those weren't nymphs;half-nymphs.\"Shallah responded.<br>\r\n<br>\r\n\"How you that?\" Turk shot back.<br>\r\n<br>\r\n\"Trues nymphs make those two look like rags.\" She answered. \"And I also saw that ever so distinctive half-nymph trait. Get them a smidge excited and...\"<br>\r\n<br>\r\nShallah placed her hands on her chest and brought them forward, a 'boing' sound escaped her lips.She then did the same for her buttocks.<br>\r\n<br>\r\n\"The silent nymph was doing her best to stay quiet for her friend, she was using her hair as a cover.\"<br>\r\n<br>\r\n\"Really?\" Turk said slackjawed with the distinct show of sleaze on his face. Shallah nodded. <br>\r\n<br>\r\n\"Read up on them if you want to learn more you little sex-goblin. On second thought, no, you'd probably never leave the house if you'd learn about their quirks.\"<br>\r\n<br>\r\nTurk was about to say something more, if he wasn't stopped by the sight of Mount Festivity's  merry party. The mountain loomed in the background of hundreds of different caravans, palace-tents, yurks, wigwams, and what have you. A swirling cloud covered the tip of the mount, with the occasional blast of lighting illuminating it.<br>\r\n<br>\r\n\"We're here!\" Wallace happily declared.</span></div></div>",
+            "created":1593752400,
+            "id":2860729,
+            "title":"Penelope sat at the table outside, the village ..."
+        },
+        "125":{
+            "author_id":"jawsometeeth",
+            "author_name":"Goodvibes",
+            "choices":[
+                "Lass Au Dame",
+                "Mannic the Maniac",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Who shall we follow?<br>\r\n<br>\r\nLass Au Dame:<br>\r\nYoung grey-hair beauty and captain of a small schooner.Only possessing a crew of fifteen women, Lass Au Dame is still a force to be reckoned with. Many older, more superstitious pirates speak ill of her do to the old stigmata of women commanding ships. Lass Au Dame fears not of their words and is only concerned with her crew's fortunes.<br>\r\n<br>\r\nMannic the Maniac:<br>\r\nCrazed Marauder of the oceans, Mannic yearns to posses the largest collection of trophies in the world. Trophies in Mannic's case being the broken weapons of his opponents, or in some cases, their teeth,horns, and claws. Mannic commands a force of over thirty-five equally blood crazed men, though small this group of pirates are a force to be reckoned with.</span></div></div>",
+            "created":1592715600,
+            "id":2854770,
+            "title":"Broken Isles of Grand-Admiral Teach"
+        },
+        "1251":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "He flattened a map across the table.",
+                "He signalled the barman for a beer, for himself.",
+                "Leaning forward, \"Do you have it?\" Lass hissed.",
+                "Something else..."
+            ],
+            "content":"<div class=\"\"><div> <span>Captain Lass Au Dame was popular with her crew. She rewarded them generously with a good share from any raids. Whether they were on rebel ships, or from other ventures.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://i.pinimg.com/originals/11/4b/61/114b61ad1eb1ded0eff3ddbc76f9bc53.jpg\" target=\"_blank\">https://i.pinimg.com/originals/11/4b/61/...</a><br>\r\n<br>\r\nShe leaned into the clich\u00e9s, when in port she was giggly and girly. An act that entertained her crew. But, in certain harbours, her reputation was known, and she was feared and respected.<br>\r\n<br>\r\nSitting in 'The Doxie's Head', the graphic sign hanging outside the tavern was lewd and beyond suggestive. The giggly fa\u00e7ade toned down for this place. It would draw more attention than she wanted, and would fit. It was just too sleazy a bar, for an innocent to wander into.<br>\r\n<br>\r\nAs a drinking place, it wasn't a place where women were welcomed... Well, not as customers. The few women who worked there, were kept upstairs fulfilling their roles as 'private entertainers'.<br>\r\n<br>\r\nThe sounds still reaching downstairs, the cries too loud, too enthusiastic to be genuine. The 'Damn Captain' hid her smile behind a beer.<br>\r\n<br>\r\nWiping away, a foamy moustache, she let loose a belch. In an instant, her dagger was drawn. An unwise pickpocket found his wrist gashed.<br>\r\n<br>\r\n\"Some roses have thorns.\" Lass warned, with a smile. Kicking the chair opposite into his path. The pickpocket crashed over it, one hand around his opposite wrist. Blood seeping between his fingers.<br>\r\n<br>\r\nThere were scattered bursts of laughter, Lass wasn't known in this bar. The pickpocket dismissed as an unwise pervert groping too widely, and unwisely.<br>\r\n<br>\r\nThe pickpocket rose quickly, but unsteadily sending an arc of crimson beads flying into the air.<br>\r\n<br>\r\n\"I hope this isn't an inopportune time.\" The man said, as he picked up the toppled chair, and sat down beside Lass.</span></div></div>",
+            "created":1593579600,
+            "id":2860088,
+            "title":"Captain Lass Au Dame: A meeting."
+        },
+        "12511":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "You all trek onboard your ship.",
+                "Captain Hawking offers his ship for the journey.",
+                "You shrug off Captain Hawking's friendly arm on your shoulder.",
+                "Something else..."
+            ],
+            "content":"<div class=\"\"><div> <span>The map looks genuine, suitably aged, and tatty. You have to shake hands before he'll even allow you to examine it properly.<br>\r\n<br>\r\n\"So... we make a combined crew.\" His statement, a demand more than a question. You don't like the idea of mixing men into your crew, they're easily distracted, and sometimes distracting.<br>\r\n<br>\r\n\"Captain Lass Au Dame.\"<br>\r\n<br>\r\n\"Captain Hawking.\"<br>\r\n<br>\r\nYou nod your agreement, a wide leer crossing his face. His gaze keeps drifting to your bust. You slip your portion from it's hiding place, concealed in the folds of your clothes. A large circle of glass, with a design etched into it. Sliding it over the map, you find where it's details line up with those on the map.<br>\r\n<br>\r\nThe etching being marked with a clich\u00e9d<span class=\"clred\"><b> X</b></span>, and a dotted line. Your course, you see is quite particular, guiding you past certain perils. Navigating a path through some corral, that'd rip the bottom out of even the shallowest draft.<br>\r\n<br>\r\nExchanging a look of joy, you're both surprised by the lack of treachery so far. A friendlier handshake gets exchanged, as you both rise from your seats. There's a chorus of creaks and scrapes from around the bar. Numerous chairs around different tables protest as they're shifted aside.<br>\r\n<br>\r\nCaptain Hawking's men seem to make up a large part of the taverns patrons. Their predatory grins are brief, as your own crew reveal themselves mingled amongst them. Various weapons slipped from sleeves, hair-do's and cleavages. In these close quarters, they'll be more effective than the cutlasses hanging from their belts.<br>\r\n<br>\r\nYour eyes narrow, as you take in the Captain's reaction. His fist smashed down onto the table, and he throws his head back. An echoing, belly laugh bursting from him.<br>\r\n<br>\r\n\"A good match... We make a good match...\"<br>\r\n<br>\r\nThe tension evaporates, and you signal for your girls to sheath their blades. Leaving the tavern, the place looks abandoned once you all head out to the quayside.</span></div></div>",
+            "created":1593752400,
+            "id":2860986,
+            "title":"He flattened a map across the table."
+        },
+        "125111":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "A hunting party look to replenish both ships stores.",
+                "The two captain exchange stories of daring-do, and buckling-swash...",
+                "The crews were unaware of the observers in the hidden citadel.",
+                "High above the ships a hawk circled, fascinated by the scene below.",
+                "Something else..."
+            ],
+            "content":"<div class=\"\"><div> <span>Captain Lass felt nervous with another captain on her ship. But with the artefacts only working in combination it was inevitable that they set off together. Lass' ship, the Saucy Keel cutting a swift trough through the water despite the broad transom. The two crews worked in almost harmony hanging the sails, and steering the vessel.<br>\r\n<br>\r\nIt was hardly a surprise when Captain Hawking's ship followed. His apology sincere, if a little late, and the assurance that with only a skeleton crew it was there as a safety measure. On Lass' ship, and with her holding both the glass and the map, the course was smooth. Even if Teach Hawking did seem to loom over her, whenever she checked their course.<br>\r\n<br>\r\nThe Sun set as the ships made their way through the islands. Carefully, they skirted the various whirlpools and arcane creatures of the deep. Their fragile craft little more than floating kindling to some of the darker denizen from the watery depths.<br>\r\n<br>\r\n- - - - -<br>\r\n<br>\r\nTheir progress stalled, as the winds rose. Too tempestuous to continue, they sheltered in an isolated bay. The shores were sandy, but the jungle was dense and sudden. The noise of raucous animals filling it.<br>\r\n<br>\r\nCaptain Lass receiving a tour of 'The Sturdy Sqwuak'. Lightning cracked and thunder rumbled, but the bay while lit dramatically was quiet. As a present, Teach provided the stores for the evening meal. A welcome change from the Saucy Keel's supplies.</span></div></div>",
+            "created":1594844220,
+            "id":2869172,
+            "title":"You all trek onboard your ship."
+        },
+        "1251111":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "One of the hunting parties seems to have gone missing...",
+                "The Sun rose over the crews, setting them into bustling life.",
+                "Captain Lass woke to find Hawking missing...",
+                "Captain Hawking woke to a surprise...",
+                "Something else..."
+            ],
+            "content":"<div class=\"\"><div> <span>Several row boats came and went to the shore, as the storm raged. While the tropical trees creaked in the wind, their fruits were harvested, and traps set for any curious animals. A couple went hunting for something larger deeper in the trees.<br>\r\n<br>\r\nAs the storm faded, campfires lit the shores, as the crews stretched their legs with the rare freedom from the tight ship confines.<br>\r\n<br>\r\nThere was something approximating a feast as the crews bonded. An informal mix of a picnic and an impromptu orgy. The chance to relax, tense muscles and ease unfamiliar pressures meant scattered couples disappeared into the nearby greenery. The scattering sound of giggles, and groans, were mixed with some more energetic noises.<br>\r\n<br>\r\nThe two captains toasted their good fortune, and the good humour of the assembled men... and women.<br>\r\n<br>\r\nThe food was spiced with a variety of local herbs, both known and unknown. It provided much needed variety, if a little surprise in certain mouthfuls when it was surprisingly hot.<br>\r\n<br>\r\nOnly a few remained on the ship, to ensure they stayed securely anchored. The majority stretched out in the sand and descended into a restful sleep.<br>\r\n<br>\r\nCaptain Lass on one side of the spread rug that served as a table. While Captain Hawking rested on the opposite side. Scratching his belly, something wasn't agreeing with him. With a look to the sleeping captain, he decided to return to sleep on his ship.<br>\r\n<br>\r\nCaptain Lass had welcomed him as an honoured guest, but it was still a ship with very limited space. A spare hammock hung above the cargo wasn't restful. As a captain, he was more used to having his one (albeit tiny) cabin, and a bed build into the walls of the ship.<br>\r\n<br>\r\nAt the moment, that would seem like the greatest luxury. Rowing back, he hoped the exercise would tire him out, and make sleep come easier. Securing the rowing boat in place, he stepped onto the Sturdy Sqwuak. Immediately, he felt at home. The gentle rocking familiar to his feet, he nodded to the bridge and the crewman keeping a watch there.<br>\r\n<br>\r\nRaising a hand, he covered his mouth as a yawn escaped. Descending the tight spaces of the ship, he reached his cabin, and went to sleep.</span></div></div>",
+            "created":1594913220,
+            "id":2869764,
+            "title":"A hunting party look to replenish both ships."
+        },
+        "12511114":{
+            "author_id":"rjh-kk",
+            "author_name":"Mr. George",
+            "choices":[
+                "She repeated her true name, to their amused derision and disbelief.",
+                "Straightening up, he proved his true identity.",
+                "Leaping overboard, she swam to the rowing boat, and made for the shore...",
+                "In the distance, on the shore. Chaos was erupting there too...",
+                "Something else..."
+            ],
+            "content":"<div class=\"\"><div> <span>It didn't remain a surprise for long, as Captain Hawking woke to her new body. The full bust, the broad hips, and as she tried to leap from the bed, she discovered how heavy and full her ass now was. Landing on the lightly rolling deck, she stumbled, crumpled and fell to the floor. Her new centre of balance far different than she was used to.<br>\r\n<br>\r\nTrying to pull on his former clothes was an exercise in frustration. Those hips were just too wide for anything she'd worn before. Her face contorted, as she came to the realisation of what she'd have to wear. The limited selection she kept stowed away for her visitors. Whether a harbour whore, or a lusty wench. She'd have to wear one of those outfits.<br>\r\n<br>\r\nIt was humiliating, as she took in her new form. Even dressed, it was covering an obviously womanly body. <br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://i.pinimg.com/originals/c2/12/9a/c2129a740b65ec66f6353715a78aaa52.jpg\" target=\"_blank\">https://i.pinimg.com/originals/c2/12/9a/...</a><br>\r\n<br>\r\nShe had to slide sideways out the door, and the climb to the deck was a nightmare. Feeling the width, with every rung of the ladder. The swaying of her alien bust, and the ripple and roll of that ass behind her.<br>\r\n<br>\r\nEmerging into the dawn light, wasn't a relief, as she was ambushed. Wrestled to the deck.<br>\r\n<br>\r\nFighting, and struggling to explain, Captain Hawking found her new body was weak and vulnerable. The assault more intended to humiliate and embarrass her, than contain a dangerous enemy.<br>\r\n<br>\r\nHer rump and tits slapped relentlessly, she had to defend them with her arms tight against her chest to prevent the tweaking, smacking, tickling attack. This damned body was too sensitive, she cursed.<br>\r\n<br>\r\nHer arms were easily held tight against her heightening her vulnerability. She wriggled and struggled, but it was futile. Pinned to her side, her slender arms were useless.<br>\r\n<br>\r\nDriven against the deck railing, the air was driven from her lungs. Captain Hawkings watched as his dinner spewed forth into the sea, as she fought to regain her breath.<br>\r\n<br>\r\nIn breathless outrage, she felt her crew playing the bongos, on her exposed ass cheeks. Roaring laughter, as she shrieked her outrage.<br>\r\n<br>\r\nAt least that was less degrading than the teasing caresses that followed. As her cheeks burned red and raw from the onslaught, she was held in place. The caressing hands that came next made her squirm, and grind against the railing. A fire ignited, she was mewling and whimpering with need, as she bawled, and yelped, yipping out her name in a mantra.<br>\r\n<br>\r\n\"Captain... Teach... Hawking...\" she repeated it, again and again. The relentless attention making it high and shrill one moment, and rapid and licentious the next. It was only the misunderstanding that she was the captain's doxy that made it end. A murmur of suspicion passing through them, until no-one wanted to tease the captain's favourite.<br>\r\n<br>\r\nCaptain Hawking whirled around, face flushed, breathing rapid, she looked as she felt. Hot and bothered, agitated and shameless.</span></div></div>",
+            "created":1594919160,
+            "id":2869797,
+            "title":"Captain Hawking woke to a surprise..."
+        },
+        "12513":{
+            "author_id":"arkham0025",
+            "author_name":"DJ",
+            "choices":[
+                "\"...a cascade of misfortune.\" (Normal story)",
+                "\"...a mountain of a rear end.\" (Expansion story)"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ay, I do.\" The man said, as he reached into one of his pockets. As he did this, Lass glared at him.<br>\r\n<br>\r\n\"If ye knew it was me, why'd ya try to pickpocket me?\" Lass asked, more annoyed then confused.<br>\r\n<br>\r\nWhile Lass wasn't completely known at this port, some here had still heard of her, including this pickpocket Lass had business with.<br>\r\nAfter some fumbling, the pickpocket pulled out two things, a ring and a necklace.<br>\r\n<br>\r\n\"Here ye go. The Jewelry of Captain Nalia Black. Or two of 'em at least.\" The pickpocket said, before handing the jewelry to Lass. Lass eagerly took them, grinning madly.<br>\r\n<br>\r\n\"Took so many years, but they're finally mine.\" Lass said. \"I just need the earring, and Captain Black's treasure will be in me hands.\" On that, she proceeded to put the ring and necklace on. It was then that she noticed the pickpocket now seemed worried.<br>\r\n<br>\r\n\"Ah, Lass. I probably should mentioned the jewelry has a... curse.\" The pickpocket said. \"You see, Nalia was a paranoid woman, and thought her treasure would be stolen. So she cursed her jewelry. Any lady pirate who tried to find her treasure would find themselves with...\"</span></div></div>",
+            "created":1597770000,
+            "id":2887485,
+            "title":"The Jewelry of Captain Nalia Black"
+        }
+    },
+    "info":{
+        "author_id":"jawsometeeth",
+        "author_name":"Goodvibes",
+        "brief_description":"A Fantastical World Of Expansions and Fetishes.",
+        "created":1592796780,
+        "description":"<td align=\"left\" class=\"norm\">Nine-thousand years of history spread across two continents.These twin continents known as Elder and Younger, upheld as sleeping Gods to some common folks,host over thirty species of intelligent beings and thousands of other wondrous beasts. Beyond the eastern ocean of these two continents lies the home of the Gods and other mysteries. Beyond the western ocean lies the home of the dead. Above the north lies the home of lower powers(I.E higher-nymphs, demi-gods, and lesser supernatural beings.) And below in the south lies the home of abominations (I.E demons, infernal powers, heretical arch-sorcerers.)<br>\r\n<br>\r\n<div align=\"center\"><font class=\"size4\" style=\"\">Rules:</font></div><br>\r\nThis is obviously a fetish-piece of work, if my normal writings are of any indication. So let's lay down the ground-rules.<br>\r\n<br>\r\n<b>One:</b> The following fetishes are allowed in this work<br>\r\n<div align=\"center\">Expansion/Inflation of any sort. (Lips, foot, phallus, giantess, etc)<br>\r\nGender Bending<br>\r\nSpecies Transformation<br>\r\nBDSM<br>\r\nHumiliation (so tickle stuff is fine,face-sitting is a-okay as well)<br>\r\nObject Transformation(preferably into a inflated toy)</div><br>\r\n<br>\r\nIf its not on the list, don't add it in. So no age regression, scat, gore(unless its a fight scene), or any other stuff.<br>\r\n<b>One-A:</b> On expansion, keep to the same expansion for the MC. That is all that i'm asking for. <br>\r\n<b>One-B:</b> Popping is allowed if its for a side character. Don't be graphic, but don't make them completely disappear either.<br>\r\n<br>\r\n<b>Two:</b> Men and Women can both expand. I am not just prevalent in one gender. If you are going to expand though add a (M) or a (W) in the expansion path.<br>\r\n<br>\r\n<b>Three:</b> Nudity is a-okay in this interactive. Heck, go for full on nudist beach here. On the issue of sex, allude to it but don't be graphic. Men on men are okay, so is women on women. Both lesbian and gay relations are okay.<br>\r\n<br>\r\n<b>Four:</b> There are thirty races and I have plans for <b>fifteen</b> of them,so I'm willing to listen if people want to add more. Email me what you want to add and we'll talk<br>\r\n<br>\r\n<b>Five:</b>A minimum of 1100 characters in this add. Unless its a bridge text, you must add this many characters in.<br>\r\n<br>\r\n<b>Six:</b> Go wild with character creation. A list will be up soon enough for people to see as to what species there are.<br>\r\n<br>\r\n<b>Seven:</b> Gore is only allowed if its a fight scene. If that's the case, then add in a (G) for indication.<br>\r\n<b>Seven-A:</b>Don't go too into grimdarkness in this work. Its still a fetish piece and that stuff isn't always welcomed in the story.<br>\r\n<br>\r\n<b>Eight:</b> If you plan on adding more locations in, email me.<br>\r\n<br>\r\n<b>Nine:</b>Same with fleshing out microcosm in the regions.<br>\r\n<br>\r\n<b>Ten:</b>Please have fun in this.<br>\r\n<br>\r\n<br>\r\nEdit: 6/28/20<br>\r\nI will be okay if you introduce a title character by proximity. Such as a character meeting said title character or if you're doing a character who is focused around a species but isn't necessarily of said species.<br>\r\n<br>\r\nAlso I cut down the rule sizes for easier digestion.</td>",
+        "id":2224992,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1597770000,
+        "modified":1597770000,
+        "pretty_title":"The Twins: A Fetish Filled Fantasy"
+    }
+}

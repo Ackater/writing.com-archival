@@ -1,0 +1,1598 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Head to the frozen North.",
+                "Head East.",
+                "Head to the great Southern desert.",
+                "Head west into the great Western empire."
+            ],
+            "content":"<div class=\"\"><div> <span>You are a wizard who has been hired by the powerful but declining Rulian Empire to retrieve their sacred magic rhun stones, stolen by a powerful dragon.  You set off on your long and perilous journey, sure to encounter danger, epic battles, goblins and other fantasy type stuff.  Your journey begins in the center of the White Continent, Iceanosha.  You must set off and find the rhun stones retrieve them and return them to their masters or face dire consequences. Your spells include fire of furry, ice of sorrow, wind of terror, and ground of protection.  Your spells can never be taken from you, and you may gain new spells and abilities on your travels.  Your inventory is empty as you begin your quest with only your skills.</span></div></div>",
+            "created":1210482000,
+            "id":559037,
+            "title":"1"
+        },
+        "11":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Agree to help out.",
+                "Go find a barrel to sleep in.",
+                "Offer your services for a price."
+            ],
+            "content":"<div class=\"\"><div> <span>You head north to your homeland, hoping to find aid.  You walk for two long days and finally reach a village where a relative lives.  You go to his house it is your cousion...... Steve or Stan, its not important.  He says he has important work to do and asks if you will watch over his kids.</span></div></div>",
+            "created":1210528800,
+            "id":564724,
+            "title":"Head to the frozen north"
+        },
+        "111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Eat them",
+                "sell them",
+                "clear the growing pile of excrement"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He runs off and leaves you with all 16 of his kids.  Which by the way are goats not human children.  </span></div></span></div>",
+            "created":1210741200,
+            "id":531777,
+            "title":"Agree to help out"
+        },
+        "1111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "save them for later",
+                "toss them to the homeless"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You slaughter and roast all 16 of the baby goats you eat a few then realize there is far too mutch for you alone to eat.</span></div></span></div>",
+            "created":1210741200,
+            "id":531778,
+            "title":"Eat them"
+        },
+        "11111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "tell him you have no money",
+                "promise to pay him later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You wrap the goat meat in \"magic foil\" and stuff them in your pack.  Your cousin then returns and sees what you have done.  He demands you repay him.</span></div></span></div>",
+            "created":1210741200,
+            "id":531780,
+            "title":"save them for later"
+        },
+        "111111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He becomes furious and beats you over the head with one of the goats legs-you fail!</span></div></span></div>",
+            "created":1210741200,
+            "id":531781,
+            "title":"tell him you have no money"
+        },
+        "111112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "go make some money quick",
+                "challange him to a magical dual"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You promise to pay him back later, but really plan on skipping town.  He knows better and brands you with a cursed rune.  If you don't repay him within a week you will die a painful death.</span></div></span></div>",
+            "created":1210741200,
+            "id":531782,
+            "title":"promise to pay him later"
+        },
+        "1111121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Thank him",
+                "kick him in the groin"
+            ],
+            "content":"<div class=\"\"><div> <span>You head out to try and make some money.  You try to find a job, you beag for money you teach children basic magic.  after six days you only have a few silver coins and a peice of leather.  You return to plee with your cousion for yout life.  You give him all you have made and he seems satisfied, and removes the rhun.</span></div></div>",
+            "created":1210741200,
+            "id":531783,
+            "title":"go make some money quick"
+        },
+        "11111211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "make camp under a bush",
+                "eat one of those goat legs you saved"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You thank him for sparing your life, you are then banished from the village.  You are alone in the harsh north and winter is setting in.</span></div></span></div>",
+            "created":1210741200,
+            "id":531786,
+            "title":"Thank him"
+        },
+        "111112112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Give them the goat leg",
+                "run"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You pull out one of the goats legs you saved in the \"magic foil\".  It smells delicous, but the smell atracts a pack of wild wolves</span></div></span></div>",
+            "created":1210741200,
+            "id":531787,
+            "title":"eat one of those goat legs you saved"
+        },
+        "1111121121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Shout obscenities",
+                "toss out one of the goats legs"
+            ],
+            "content":"<div class=\"\"><div> <span>You toss them the goat leg.  the wolves growl and eye the \"magic foil\" you toss it to them.  They grab it and run.  you are confuised, so you follow them.  They stop at the entrance of a cave and transform into men.  They enter the cave leaving one man behind to stand guard.</span></div></div>",
+            "created":1210741200,
+            "id":531790,
+            "title":"Give them the goat leg"
+        },
+        "1111121122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You flee only to be chased down and eaten by the wolves-You fail!</span></div></span></div>",
+            "created":1210741200,
+            "id":531788,
+            "title":"run"
+        },
+        "11111212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He becomes infuraited and strikes you down with a magic lightning bolt-you fail!</span></div></span></div>",
+            "created":1210741200,
+            "id":531784,
+            "title":"kick him in the groin"
+        },
+        "1111122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "wand",
+                "\"magic foil\""
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You both go to the dualing ring at he edge of town where a crowd has gathereed to see someone get mamed.  \"Begin\" shouts one of the village elders.  You reach for your...</span></div></span></div>",
+            "created":1215752400,
+            "id":554931,
+            "title":"challange him to a magical dual"
+        },
+        "11111222":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "counter attack",
+                "keep on the defensive"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You pull out the magic foil just in time to deflect a magic beam.  It bounces off into the crowd and kills several wemon and children.</span></div></span></div>",
+            "created":1215752400,
+            "id":554933,
+            "title":"\"magic foil\""
+        },
+        "111112221":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Summon a beast from the after world",
+                "Strike him down with a bolt of lightning"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to use a powerful attack and end this quickly.</span></div></span></div>",
+            "created":1215752400,
+            "id":554934,
+            "title":"counter attack"
+        },
+        "1111122211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Command the dragon to attack",
+                "Tell the dragon to go home and get its daddy"
+            ],
+            "content":"<div class=\"\"><div> <span>You recite the forbiden chant knowing the beast you summon could very well destroy the entire village.  The elder sees what you are trying to do and warns you that the beast you summon reflects your inner strength and your depest fears.  He says you may not be able to control it and it will be bound to your faith for all eternety.  you dont listen to him and complete the chant.  A crack opens in the ground, and the sky darkens.  out of the crevas appears a fearcim black dragon it rears up and stands almost eight inches tall.  You realize you are going to lose this battle.</span></div></div>",
+            "created":1215752400,
+            "id":554939,
+            "title":"Summon a beast from the after world"
+        },
+        "11111222111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Accept his surrender",
+                "Taunt him"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The dragon exhales a jet of black flames that has just enough power to set your cousions boots on fire.  As his feet begin to burn he lets out a yell.</span></div></span></div>",
+            "created":1366207800,
+            "id":1573557,
+            "title":"Command the dragon to attack"
+        },
+        "1111122212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Go East",
+                "Go West"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You raise your hands and try to shoot out a deadly bolt of lightning, only to remember this is te one spell you could never master.  The lightning mis fires and you are blown away in a cloud of smoke.  you land in a dank swamp several miles away.</span></div></span></div>",
+            "created":1215752400,
+            "id":554935,
+            "title":"Strike him down with a bolt of lightning"
+        },
+        "11112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Fake an injury",
+                "pretend to be asleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you toss out the last goats leg just as your cousion returns.  You realize you are in trouble.</span></div></span></div>",
+            "created":1210741200,
+            "id":531832,
+            "title":"toss them to the homeless"
+        },
+        "111121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "sneak out the door",
+                "knock him out before he catches on"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You punch yourself in the gut and pretend you were just robbed and all the goats were stolen by..... ahhhhh..... a wolf thing.  Your cousion decides to look around for evidence.</span></div></span></div>",
+            "created":1210741200,
+            "id":531835,
+            "title":"Fake an injury"
+        },
+        "1111211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "kick him",
+                "jump over him"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You try to sneak out while your cousion is looking for evidence.  Your way is bolcked by a bloated homeless bumb.</span></div></span></div>",
+            "created":1210741200,
+            "id":531836,
+            "title":"sneak out the door"
+        },
+        "11112111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "tell him you can break out",
+                "hide in the corner"
+            ],
+            "content":"<div class=\"\"><div> <span>The bum lets out a shout.  Your cousion runs to the door and sees the homeless guy withe a full belly and a pile of goat bones.  he's on to you, he calls te village officals.  You get sent to prision for stealing his goats.  Your cell mates name is Ice.</span></div></div>",
+            "created":1210741200,
+            "id":531838,
+            "title":"kick him"
+        },
+        "111121111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you tell Ice you can breah out with your magic.  He breaks your spine-You fail!</span></div></span></div>",
+            "created":1210741200,
+            "id":531839,
+            "title":"tell him you can break out"
+        },
+        "111121112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You crawl into the corner and hope for the best.  The worst happens (ever seen OZ) lets just call this one.</span></div></span></div>",
+            "created":1210741200,
+            "id":531840,
+            "title":"hide in the corner"
+        },
+        "1112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Go west",
+                "Go south"
+            ],
+            "content":"<div class=\"\"><div> <span>You take the goats to te market and sell tem one by one.  You make a handsom profit and head for home when you see your cousion being harrassed by a  prostitute he owes money to.  You offer to pay off his debt.  He thanks you and asks where you got the money from.  You ask him why he owes so much money to a woman of the night.  He says he he will see you at home and runs off abruptly.  you skip town.</span></div></div>",
+            "created":1210809540,
+            "id":584466,
+            "title":"sell them"
+        },
+        "11121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Approch the camp and ask for food.",
+                "Sneak in closer."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You head off west to find a place to spend the night.  After an hour or so you see smoke rising in the distance.  You approch carefully and find an encampment at the base of a hill.  Two men are sitting at a large fire preparing food.</span></div></span></div>",
+            "created":1221858720,
+            "id":584469,
+            "title":"Go west"
+        },
+        "1113":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You try to shovel all the waste out the window, but inhale too many toxic fumes-You fail!</span></div></span></div>",
+            "created":1210741200,
+            "id":531734,
+            "title":"clear the growing pile of excrement"
+        },
+        "112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Cast ice of sarrow.",
+                "Run!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find an empty back alley where you start a fire and fall asleep.  You awaken an hour or so later to find your fire has engulfed several houses.</span></div></span></div>",
+            "created":1210804860,
+            "id":564726,
+            "title":"go find a barrel to sleep in."
+        },
+        "1121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Ask about the dragon.",
+                "Ask for money.",
+                "Ask for wemon."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You cast ice of sarrow and stop the fire saving two families.  You are hailed as a hero and offered what ever you desire from the villiagers.</span></div></span></div>",
+            "created":1210813020,
+            "id":564727,
+            "title":"Cast ice of sorrow"
+        },
+        "11211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Go west",
+                "Go another direction"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are told to head west to the forbidion mountains.  Dragons are known to nest there.</span></div></span></div>",
+            "created":1210741200,
+            "id":531831,
+            "title":"Ask about the dragon"
+        },
+        "11212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Accept.",
+                "Decline."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The village elders say that they dont have much but offer you: 22 silver coins, a cow, and a cupon for half priced mutton at the local \"Burger Emperor\".</span></div></span></div>",
+            "created":1210813380,
+            "id":564729,
+            "title":"Ask for money"
+        },
+        "112122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Beg for mercy",
+                "Run"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The loval villagers and \"burger emperor\" employees are furious and kick you out of town.</span></div></span></div>",
+            "created":1210827600,
+            "id":532096,
+            "title":"Decline"
+        },
+        "1121221":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "eat it",
+                "say you ate just ate something"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You get on your knees and plee with the villagers to let you stay.  they say you may stay if you eat an entire mutton meal from the  \"Burger Emperor\".</span></div></span></div>",
+            "created":1210827600,
+            "id":532097,
+            "title":"Beg for mercy"
+        },
+        "11212211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You try to choke down the over cooked mutton and side of slop.  Ahhhh its too gross-You fail!</span></div></span></div>",
+            "created":1210827600,
+            "id":532099,
+            "title":"eat it"
+        },
+        "11212212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "try to eat it",
+                "stuff the food into your beard"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You tell tha villagers you are not hungary, thay insist.  they set the dish down in front of you.</span></div></span></div>",
+            "created":1210827600,
+            "id":532102,
+            "title":"say you ate just ate something"
+        },
+        "112122121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "stick around",
+                "leave this place"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you take a bite and choke it down.  You say it is good.  The villagers are satisfied.</span></div></span></div>",
+            "created":1210827600,
+            "id":532103,
+            "title":"try to eat it"
+        },
+        "112122122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Act cool",
+                "Say you have to go to the bathroom"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you stuff the food into your beard.  You then compliment the cheff.  A stray dog appears and smells hte mutton in your beard.</span></div></span></div>",
+            "created":1210827600,
+            "id":532105,
+            "title":"stuff the food into your beard"
+        },
+        "1121221221":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Cast fire of furry",
+                "Cast ice of sarrow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The dog comes closer and closer.  He has caught sent of the mutton.</span></div></span></div>",
+            "created":1210827600,
+            "id":532107,
+            "title":"Act cool"
+        },
+        "11212212211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The fire rages out of controol killing all-You fail!</span></div></span></div>",
+            "created":1210827600,
+            "id":532108,
+            "title":"Cast fire of furry"
+        },
+        "11212212212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Let the crown carry you away",
+                "offer to show off more of your skills"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You cast ice of sarrow and freze the dog.  The villagers seem surprised.  You explain that is how you saved the village.</span></div></span></div>",
+            "created":1210827600,
+            "id":532110,
+            "title":"Cast ice of sarrow"
+        },
+        "1121221222":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "use your magic comb",
+                "use your hands"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You go to a run down out house and try to scrape the mutton out of your beard.  </span></div></span></div>",
+            "created":1210827600,
+            "id":532112,
+            "title":"Say you have to go to the bathroom"
+        },
+        "11212212221":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "For get it",
+                "try to recover it"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You pull out your magis comb only to drop it down the hole.</span></div></span></div>",
+            "created":1210827600,
+            "id":532113,
+            "title":"use your magic comb"
+        },
+        "112122122211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "stuff the chipmonk in your bag",
+                "toss it down the hole"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You grab a chipmonk and use it to brush the mutton out of your beard.  some one knocks at the door \"hurry up!\"</span></div></span></div>",
+            "created":1210827600,
+            "id":532116,
+            "title":"For get it"
+        },
+        "112122122212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You reach in to try and recover your magic comb.  Lets just say-You fail!</span></div></span></div>",
+            "created":1210827600,
+            "id":532114,
+            "title":"try to recover it"
+        },
+        "11213":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You get some nasty VD from a prostiture and go blind-you fail!</span></div></span></div>",
+            "created":1210741200,
+            "id":531826,
+            "title":"Ask for wemon"
+        },
+        "1122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You flee only to trip in the darkness and fall on a rusty nail.  You get tetanus which turns into lockjaw-You fail!</span></div></span></div>",
+            "created":1210741200,
+            "id":531830,
+            "title":"Run"
+        },
+        "113":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your cousion is insulted and tosses you out on the street.  You fall in a cold dirty puddle and contract pnomonia-You fail!</span></div></span></div>",
+            "created":1219947960,
+            "id":575431,
+            "title":"Offer your services for a price."
+        },
+        "12":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are killed by barbarian tribesmen of the east -You fail!</span></div></span></div>",
+            "created":1210482000,
+            "id":530562,
+            "title":"Head East"
+        },
+        "13":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Confront him",
+                "Run!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You go down a path and see a strange sword, you see no one around as far as can be seen.  you take the sword, add it to your inventory. You then encounter what appears to be an elf.</span></div></span></div>",
+            "created":1210482000,
+            "id":530565,
+            "title":"Head to the great southern desert"
+        },
+        "131":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Return to your masters",
+                "Head south "
+            ],
+            "content":"<div class=\"\"><div> <span>You approach the creature and ask \u201cHey are you some kind of elf?\u201d OH NO! He is a cantoshin warrior and in his langue elf means impunent one.  He hacks you to pieces with his sword and uses your flesh to set goblin traps.  Your wrestles sole happens to posses a goblin shaman who eats several pounds of your flesh, you are now a goblin\u2026 neat. Be warned some goblin instincts still control this body! A new journey has begun, returning your human form, or just do what ever, the choice is yours </span></div></div>",
+            "created":1210482000,
+            "id":530570,
+            "title":"Confront him"
+        },
+        "1311":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Steal every thing you can carry ",
+                "Try to trade with them"
+            ],
+            "content":"<div class=\"\"><div> <span>Your Rulian masters tell you to retrieve the rhuns so they may be able to help you, also they give you a magic cloak of non-visibilit.  This cloak will allow you to move unseen, but you will not be able to see when you have it on.<br>\r\n<br>\r\nThis time you head west and meet some merchants who are camped out for the night. </span></div></div>",
+            "created":1210482000,
+            "id":530571,
+            "title":"Return to your masters"
+        },
+        "13111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Walk in to a shop ",
+                "stumble down main street "
+            ],
+            "content":"<div class=\"\"><div> <span>You use your \u201ccloak of non-visibility\u201d sneak in and steal: 7 silver coins, an old ax, a length of rope, a small ornate mirror, a jar of dragon teeth, an old book, and 3 jugs of rum!!!!<br>\r\n<br>\r\nThe next morning you are going over all of your loot you get drunk on one jar of rum and awaken in the western city of Distonia. </span></div></div>",
+            "created":1210482000,
+            "id":530573,
+            "title":"Steal every thing you can carry"
+        },
+        "131111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Talk to shop owner",
+                "Go off in search of an adventure "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find an old merchant who offers you a bow and quiver that belonged to a legendary warrior.  You inquire who this warrior was, the merchant asks if you want it or not. You offer him the jar of dragon teeth, he accepts.  </span></div></span></div>",
+            "created":1210482000,
+            "id":530574,
+            "title":"Walk in to a shop"
+        },
+        "1311111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Keep following them",
+                "Run for freedom"
+            ],
+            "content":"<div class=\"\"><div> <span>You are nabbed by the shop keeper and robbed, you lose all items.  You awaken in a market trapped in a cage you see the price tag on your cage is only 5 silver.  A rich prince sees you and buys you taking you to his palace on the out skirts or the city.  His palace is massive and over looks a vast lake.  He tosses you in an arena and him and two of his friends start to fire arrows at you as a cruel form of entertainment.  You run and jump and narrowly manage to save your self.  The king and his friends are amazed to find a goblin who is so skilled.  You tell them your story.  The Prince says he bought you to practice killing goblins for his great journey and says he needs your help, and reminds you that you are legally his property and must obey his commands.  You have no choice you go with the prince and his two companions on their mysterious journey.  You hike through the wilderness with your company</span></div></div>",
+            "created":1210482000,
+            "id":530577,
+            "title":"Talk to shop owner"
+        },
+        "13111111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "You refuse",
+                "You walk into the cave"
+            ],
+            "content":"<div class=\"\"><div> <span>You trek on for two long hard weeks, across the mountains of the frozen north.  You must forage for food, and fend off wild animals.  Eventually you are led to a goblin cave where your master tells you to sneak in and steal the crown of the goblin king.</span></div></div>",
+            "created":1210482000,
+            "id":530728,
+            "title":"Keep following them"
+        },
+        "131111111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Go right ",
+                "Go left"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your master persuades you to enter the cave, with his sword. The goblin cave is dark and smells bad.  You push on, until you reach a fork in the tunnel.  The one to the right emits a light.  While the one to the left emits strange sounds. </span></div></span></div>",
+            "created":1210482000,
+            "id":530581,
+            "title":"You refuse"
+        },
+        "1311111111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Make a clean getaway.",
+                "Grab as much loot as you can carry and then make a break for it."
+            ],
+            "content":"<div class=\"\"><div> <span>You go down the right tunnel. The light grows brighter, you enter a large cavern filled with treasure.  They're no guards, or dragons, or dangerous things.  You take a moment to admire the vast treasure sparkling in the light.  Suddenly you realize the light is pouring in through a window.  The treasure is pilled up to the base of the window.  You could this route to escape from this hellish goblin cave, and your insane master.  But the treasure is tempting.  </span></div></div>",
+            "created":1210482000,
+            "id":531686,
+            "title":"Go right"
+        },
+        "13111111111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "follow the army",
+                "lay low"
+            ],
+            "content":"<div class=\"\"><div> <span>You climb the treasure pile and leap out the window.  You roll down a mountain hitting every stone and tree on the way down.  You stop at the edge of a vast waste land that stretches on as far as can be seen.  You know with a glance these are the killing fields of legend, a place where vast armies once clashed and countless souls met a painful end.  It is then you hear a deafening roar.  You scan the horizon and see a herd of giant land dragons lumbering across the waste-land.  You hide behind a rock as the beasts draw ever closer you see the beasts are burdened with war towers, on them ride the ferric soldiers of the eastern empire.  Hundreds of horses surround the dragons and thousands of foot soldiers, at the rear of the army ride the legendary wolf riders of the northern territory.  </span></div></div>",
+            "created":1210741200,
+            "id":531691,
+            "title":"Make a clean getaway."
+        },
+        "131111111111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Run to warn your kinsmen",
+                "keep following the army"
+            ],
+            "content":"<div class=\"\"><div> <span>You carefully follow the path of the vast army as they march, making sure you hide behind rocks and shrubs.  The army marches north to the territory of the wizards guild.  The north is a harsh cold land filled with bearded tribes men feared for their ruthlessness as much so as their elemental magic.  This was your homeland before you set off on your journey and were turned into a goblin. </span></div></div>",
+            "created":1210741200,
+            "id":531693,
+            "title":"follow the army"
+        },
+        "1311111111111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><div> <span>You run to a find a settlement or anyone who you can warn.  As night falls you spot  a tower, you run to the door and pound on it until some one answers.  You are surprized to see your uncle.  \u201cA goblin!!!\u201d  He grabs a club and bashed your skull in \u2013you fail!<br>\r\n<br>\r\n</span></div></div>",
+            "created":1210741200,
+            "id":531694,
+            "title":"Run to warn your kinsmen"
+        },
+        "1311111111112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><div> <span>As night falls the army stops and sets up camp.  When darkness falls you sneak into the camp and approach a large tent surrounded by banners.  This must be the commanders tent, there are sure to be great riches in side.  You slip under the side and see the commander sleeping on a pad.  You rummage through his possessions and find nothing of interest.  As you are about to leave you see the commanders sword.  Swords of the east are the finest in the world, and the commanders sword is sure to be worth a fortune.  You snag it.  With great caution you poke your head out of the tent, it is bitten off by a giant wolf \u2013You fail!</span></div></div>",
+            "created":1210741200,
+            "id":531697,
+            "title":"keep following the army"
+        },
+        "131111111112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Eat the lizard",
+                "leave it alone"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The army passes leaving you alone in the waste land, it is getting late and cold you have no food.  You manage to catch a lizard.</span></div></span></div>",
+            "created":1210741200,
+            "id":531700,
+            "title":"lay low"
+        },
+        "1311111111121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The lizard is poisonous \u2013you fail!</span></div></span></div>",
+            "created":1210741200,
+            "id":531701,
+            "title":"Eat the lizard"
+        },
+        "1311111111122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Wish for great riches ",
+                "Wish to be human again "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You release the discussing creature.  It scampers away, then turns to look at you \u201cThank you for your gracious deed.  I am infact an eastern dragon, and for your kind dead I will grant you one wish.\u201d </span></div></span></div>",
+            "created":1210741200,
+            "id":531704,
+            "title":"leave it alone"
+        },
+        "13111111111221":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><div> <span>A huge pile of gold and silver coins, Giant crystals, fine jewelry and every other manner of riches fall in front of you.  You roll in the treasure all night, you awake the next morning to realize you have no way to transport the treasure.  Soon after you die of starvation \u2013You fail!</span></div></div>",
+            "created":1210741200,
+            "id":531707,
+            "title":"Wish for great riches"
+        },
+        "13111111111222":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Forget it and go on your way ",
+                "Kill the dragon for this injustice "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In a cloud of smoke your human form is returned.  You jump for joy and shout you realize your prized beard is gone.  </span></div></span></div>",
+            "created":1210741200,
+            "id":531710,
+            "title":"Wish to be human again"
+        },
+        "131111111112221":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><div> <span>You return to your Rulian masters and give them the runes you found in the goblin cave.  They examine the stones and retreat to a back room where they search ancient scrolls and books, and argue for some time.  They return \u201csince you brought us stones we will give you 100 gold pieces, but since this collection is cantoshin not Rulian we will not give you the promised riches -End</span></div></div>",
+            "created":1210741200,
+            "id":531711,
+            "title":"Forget it and go on your way"
+        },
+        "131111111112222":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Return to your Rulian masters and give them the stones ",
+                "Head south to see what you can find "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You crush the tiny dragon, with his dying breath he cruses you and you return to your goblin form.</span></div></span></div>",
+            "created":1210741200,
+            "id":531712,
+            "title":"Kill the dragon for this injustice"
+        },
+        "1311111111122221":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Go East ",
+                "Go South"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You return to your Raliuan masters and present to them the rune stones you found in the goblin cave.  They examine them and tell you they are unexcitable, because the set is incomplete.  They toss you out with no reward.</span></div></span></div>",
+            "created":1210741200,
+            "id":531713,
+            "title":"Return to your Rulian masters and give them the..."
+        },
+        "13111111111222211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Continue East",
+                "Ask the thief if he wants to travel with you"
+            ],
+            "content":"<div class=\"\"><div> <span>You head east, as you approach the mountains that border the ever-expanding territory of the Eastern Empire as you do you meet a thief who is fleeing the territory of the empire after a failed robbery.  You ask where he is planning to go he says west.  You warn him the west is filled with lunatics.  He warns you that the men of the east care little for goblins.</span></div></div>",
+            "created":1210741200,
+            "id":531714,
+            "title":"Go East"
+        },
+        "131111111112222111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are killed by soldiers of the Eastern Empire \u2013You fail!</span></div></span></div>",
+            "created":1210741200,
+            "id":531716,
+            "title":"Continue East"
+        },
+        "131111111112222112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Yell at the tavern keeper for a drink ",
+                "Take a seat and wait to be served "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The thief agrees and suggests you head to a city in the south he has herd of.  He then introduces him self as Ichi.  You head south and reach the city that nigh. You enter the dark city, and head for the first tavern to grab a drink.  </span></div></span></div>",
+            "created":1210741200,
+            "id":531717,
+            "title":"Ask the thief if he wants to travel with you"
+        },
+        "13111111112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Cry",
+                "Sodomize the unicorn in return!"
+            ],
+            "content":"<div class=\"\"><div> <span>Once outside you examine your treasure to find nothing of value aside from an egg.  That hatches into a unicorn on the spot.  The unicorn offers you two wishes, one for each of his horns.  You point out that unicorns only have one horn.  the unicorn proceeds to sodomize you with his horns. once complete he abandons you in a heap of pitiful goblin flesh.  </span></div></div>",
+            "created":1493763720,
+            "id":2314102,
+            "title":"Grab as much loot as you can carry and then mak..."
+        },
+        "131111111121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Approach leprechaun.",
+                "chase after your ear."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>While sobbing in the darkness of the cursed goblin wood a leprechaun is drawn form the forest by your pitiful cries.  He approaches and suddenly bites off your ear.  He spits it our and your ear runs away into the woods.</span></div></span></div>",
+            "created":1493763960,
+            "id":2314108,
+            "title":"Cry"
+        },
+        "1311111112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You go left following the sounds, you stumble into a depraved Goblin orgy.  Gross!  You return to the fork and take the other path.  You decide to go back and take the path to the Right.<br>\r\n<br>\r\nReturn to previous chapter.</span></div></span></div>",
+            "created":1210482000,
+            "id":531689,
+            "title":"Go left"
+        },
+        "131111112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "look at potions",
+                "look at scrools"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk into the cave and come to a split you hear something dpwn ome cave you peek down that tunnle to see a discusting goblin orgy. EWWWW!  you take the other path.  Soon you come to a metal door guarded by a large goblin.  He asks what your business yor say the goblin king sent you to recover something.  The guard steps aside and lets you into the room.  You find your self in some type of goblin alchmey lab filled with scrools and potions.</span></div></div>",
+            "created":1214456400,
+            "id":548624,
+            "title":"You walk into the cave"
+        },
+        "1311111121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "drink the purple one",
+                "drink the red one"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There are several potions on a table.</span></div></span></div>",
+            "created":1214456400,
+            "id":548628,
+            "title":"look at potions"
+        },
+        "13111111211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Chug potion",
+                "test in on a rat"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You pick up the purple potion and pop off the cork.  It smells terible.  you are begening to have secont thoughts.</span></div></span></div>",
+            "created":1214456400,
+            "id":548629,
+            "title":"drink the purple one"
+        },
+        "131111112111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You chug the potion down.  You feel fine, then your skin falls off and you are eaten by rats.  You fail!</span></div></span></div>",
+            "created":1214456400,
+            "id":548635,
+            "title":"Chug potion"
+        },
+        "131111112112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "drink potion",
+                "leave"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You snach a rat off the floor and pour some of te potion down its throat.  It convulses, then its furr falls off.</span></div></span></div>",
+            "created":1214456400,
+            "id":548632,
+            "title":"test in on a rat"
+        },
+        "13111111212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "make a disguise",
+                "make a run for it"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you drink the red potion and faint.  you awaken later to find your human form restored.  Now you must escape te goblin cave unseen.</span></div></span></div>",
+            "created":1214456400,
+            "id":548638,
+            "title":"drink the red one"
+        },
+        "131111112121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "sneak past guard",
+                "see what else you can find"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You search the lab and find a claok and a skull.  you fashion them into a disguise.</span></div></span></div>",
+            "created":1214456400,
+            "id":548637,
+            "title":"make a descise"
+        },
+        "13111112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You flee from your party as you flee you fall into a cave, you are then eaten by a wolf-you fail!</span></div></span></div>",
+            "created":1210482000,
+            "id":530578,
+            "title":"Run for freedom"
+        },
+        "1311112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Go to a pub.",
+                "Go to the library."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There are no adventures to be found.</span></div></span></div>",
+            "created":1210482000,
+            "id":559009,
+            "title":"Go off in search of an adventure"
+        },
+        "13111121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Go check it out.",
+                "Get a drink."
+            ],
+            "content":"<div class=\"\"><div> <span>You find a pub on th ecorner and walk in, as you try to find a seat you see a bulliten one post catches your eye.  It reads: \"Mages, Warriors and sailors wanted, good pay three meals a day.  Only the brave and hardy need apply.\"  below is an address to report to.</span></div></div>",
+            "created":1216702800,
+            "id":559018,
+            "title":"Go to a pub."
+        },
+        "131111212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Go back to sleep.",
+                "Get something to drink."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You spend all seven of your silver coins on several drinks and pass out drunk.  You wake up several hours later in a barrel of garbage in a back alley.</span></div></span></div>",
+            "created":1216702800,
+            "id":559021,
+            "title":"Get a drink."
+        },
+        "1311112121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Kick it away.",
+                "Look to see what it is."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You go back to sleep, only to awaken later when you feel something nugging your foot.  </span></div></span></div>",
+            "created":1216702800,
+            "id":559023,
+            "title":"Go back to sleep."
+        },
+        "13111121212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Snatch the rats off of your foot.",
+                "Cast fire of furry to scare them off."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You look down to see several giant rats nibbling at your boot.</span></div></span></div>",
+            "created":1216702800,
+            "id":559024,
+            "title":"Look to see what it is."
+        },
+        "131111212122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Run!",
+                "Finger the bum across the alley."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You can's see straight and shoot a fire ball out into the street and catch a rough looking fellow on fire.  He looks mad!</span></div></span></div>",
+            "created":1216702800,
+            "id":559026,
+            "title":"Cast fire of furry to scare them off."
+        },
+        "1311112121222":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Approch the bum.",
+                "Ask how he did that?"
+            ],
+            "content":"<div class=\"\"><div> <span>You point at a bum sleeping in a pile of garbage across the alley.  The singed roughian stomps tword him.  \"Get up bum!\" he shouts.  The man does not respond the roughian rears back to hit him, but before he can the bum shoots a lightning bolt at him.  You are impressed by this level of magic.</span></div></div>",
+            "created":1216702800,
+            "id":559029,
+            "title":"Finger the bum across the alley."
+        },
+        "13111121212222":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "answer \"YES!\"",
+                "answer \"To aid me on my quest.\""
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You ask the bum how he was able to do that.  \"Magic\" he replies.  You ask if he could teach you.  the bum laughs \"Why so you you can start fights and annoy your enemies?\"</span></div></span></div>",
+            "created":1216702800,
+            "id":559031,
+            "title":"Ask how he did that?"
+        },
+        "13111122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Get an Atlis to plan your quest.",
+                "Find a useful book."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There are many books and scrools to choose from</span></div></span></div>",
+            "created":1216702800,
+            "id":559012,
+            "title":"Go to the library."
+        },
+        "131111221":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Howl out in pain",
+                "Cry"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You go to the map room and grab a giant atlas from it's stand.  The book is imensley heavy and you drop it on your foot smashing it.  </span></div></span></div>",
+            "created":1344479880,
+            "id":1400744,
+            "title":"Get an Atlis to plan your quest."
+        },
+        "1311112211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Throw the book at him",
+                "Ask for help"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You let out a great shriek as hte massive book smashes your foot.  The librarian runs in to the room and sees you.  \"Quiet down\" he shouts.</span></div></span></div>",
+            "created":1344480060,
+            "id":1400747,
+            "title":"Howl out in pain"
+        },
+        "13111122112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Tell him you are going to visit family",
+                "Tell him of your quest"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The librarian laughs but helps you lift the massive book off of your foot.  As he does so he asks why you need such a manuscript.</span></div></span></div>",
+            "created":1344480240,
+            "id":1400748,
+            "title":"Ask for help"
+        },
+        "131111221122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Cheer",
+                "Thank him humbly"
+            ],
+            "content":"<div class=\"\"><div> <span>The librarian is intrested in your quest and brings you some books on ancient rhuns.  You sort through them and find images of the 12 rhunes you seek.  The librarian ponders for a moment then excuses himself.  After a moment he returns with a stone and hands it to you.  It is the rhun.  he says you may keep it.</span></div></div>",
+            "created":1344480480,
+            "id":1400752,
+            "title":"Tell him of your quest"
+        },
+        "131111222":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Get book on magic.",
+                "Get book on survival."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The library has books on magic to increse your skill, and books on survival to help you if you get lost in the wilds.</span></div></span></div>",
+            "created":1216702800,
+            "id":559015,
+            "title":"Find a useful book."
+        },
+        "131112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Talk to the guards ",
+                "Keep walking"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You walk down the crowded street and encounter a gate where two amour clad men stand guard. </span></div></span></div>",
+            "created":1210482000,
+            "id":530602,
+            "title":"stumble down main street"
+        },
+        "1311121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The guards kill you-you fail!</span></div></span></div>",
+            "created":1210482000,
+            "id":530604,
+            "title":"Talk to the guards"
+        },
+        "1311122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Run ",
+                "Fight"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You encounter a bandit who demands your valuables.</span></div></span></div>",
+            "created":1210482000,
+            "id":530605,
+            "title":"Keep walking"
+        },
+        "13111221":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You trip and fall into an open sewer-you fail!</span></div></span></div>",
+            "created":1210482000,
+            "id":530606,
+            "title":"Run"
+        },
+        "13111222":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You stand your ground and pull out your sword, the bandit kills you-you fail!</span></div></span></div>",
+            "created":1210482000,
+            "id":530607,
+            "title":"Fight"
+        },
+        "13112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You approach the camp and are spotted. \u201coh no a goblin raid\u201d someone shouts. You are killed by the merchants who then strip you of your positions-you fail!<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1210482000,
+            "id":530572,
+            "title":"Try to trade with them"
+        },
+        "1312":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Approach the dragon",
+                "run",
+                "hide"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find your self in the great desert of the south, you can feel tremors shaking the ground.  You see a giant sand dragon coming closer to you.  </span></div></span></div>",
+            "created":1210482000,
+            "id":532119,
+            "title":"Head south"
+        },
+        "13121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Pet it",
+                "sing to it"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You try to approch the massive dragon to see if you can ride it.  You slowly move in closer and closer.  You are now close enough to touch the dragon.</span></div></span></div>",
+            "created":1215752400,
+            "id":554924,
+            "title":"Approach the dragon"
+        },
+        "131211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Run!",
+                "Offer the Dragon a Snack."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You reach out and pet it's iron hard scales.  One cuts open your hand and you begin to bleed.  The dragon moves it's head and sniffs the air.</span></div></span></div>",
+            "created":1344479100,
+            "id":1400736,
+            "title":"Pet it"
+        },
+        "131212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Climb on it's back",
+                "Step back"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You sing to the dragon in your shrill goblin voice.  The great beast is intranced by the goblin song and falls asleep.  </span></div></span></div>",
+            "created":1215752400,
+            "id":554925,
+            "title":"sing to it"
+        },
+        "1312121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "claw your way free",
+                "rest for a moment"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You try to climb on the beasts back only to throw it off balance and have it fall on top of you.</span></div></span></div>",
+            "created":1215752400,
+            "id":554927,
+            "title":"Climb on it's back"
+        },
+        "13121211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>In your desprate attempts to free your self you startle the beast and cause it to leap up and trample you under its feet-You fail!</span></div></span></div>",
+            "created":1215752400,
+            "id":554929,
+            "title":"claw your way free"
+        },
+        "13122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "talk to them",
+                "run"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You run but tire quickly.  You see a pile of rocks you may be able to hide in.  you jump in and find a band of desert goblins.</span></div></span></div>",
+            "created":1210827600,
+            "id":532124,
+            "title":"run"
+        },
+        "131221":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Comply",
+                "Beg for quarter"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They order you to leave their territory.</span></div></span></div>",
+            "created":1210827600,
+            "id":532125,
+            "title":"talk to them"
+        },
+        "1312212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Tell them the truth",
+                "Tell them you are a goblin from the north"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You plee with them and tell them you have nowhere else to go.  They ask how you came to be here.</span></div></span></div>",
+            "created":1210827600,
+            "id":532127,
+            "title":"Beg for quarter"
+        },
+        "13122121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "drink rum",
+                "eat lizard"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>they laugh and say you are funny.  They invite you to their cave, where they offer you rum and a fried lizard</span></div></span></div>",
+            "created":1210827600,
+            "id":532129,
+            "title":"Tell them the truth"
+        },
+        "131221211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "break into song",
+                "dance on the table"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The rum is very strong.  You are drunk in a few sips.</span></div></span></div>",
+            "created":1210827600,
+            "id":532131,
+            "title":"drink rum"
+        },
+        "1312212111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "vomit in a jar",
+                "passout in the corner"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You begin to sing the other goblins join in.  you grow dizzy.</span></div></span></div>",
+            "created":1210827600,
+            "id":532136,
+            "title":"break into song"
+        },
+        "13122121111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Vommit in jar, again",
+                "go out side"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you vomit in a jar and set it on the table another goblin picks it up and drinks from it.  He too vomits.  You feel like you could vomit again.</span></div></span></div>",
+            "created":1210827600,
+            "id":532139,
+            "title":"vomit in a jar"
+        },
+        "13122121112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Leave on your journey",
+                "steal a few things and leave"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You awaken the next morning to find all the other goblins passed out.</span></div></span></div>",
+            "created":1210827600,
+            "id":532138,
+            "title":"passout in the corner"
+        },
+        "1312212112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Tou stand up on the table only for it to break beneath your weight.  You fall and break your neck-You fail!</span></div></span></div>",
+            "created":1210827600,
+            "id":532132,
+            "title":"dance on the table"
+        },
+        "131221212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Say its great, and ask for more",
+                "say its okay"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You try to eat the fried lizard.  It is tough and taste less.  The cheff asks if it is good.</span></div></span></div>",
+            "created":1210827600,
+            "id":532140,
+            "title":"eat lizard"
+        },
+        "1312212121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Tell them there is enough here for every one",
+                "ask for some watter"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They toss down a pile of fried lizards, then say they need to go out and catch more.</span></div></span></div>",
+            "created":1210827600,
+            "id":532142,
+            "title":"Say its great, and ask for more"
+        },
+        "13122121211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Tell story of the wolf",
+                "Tell story of mad king"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The goblins all grab a lizard from your plate untill it is empty.  They all sit around looking tired and ask if you will tell another story.</span></div></span></div>",
+            "created":1210827600,
+            "id":532144,
+            "title":"Tell them there is enough here for every one"
+        },
+        "131221212112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Go to sleep as well",
+                "Sneak out"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You tell the story of the mad king.  The goblins all fall asleep.</span></div></span></div>",
+            "created":1210827600,
+            "id":532145,
+            "title":"Tell story of mad king"
+        },
+        "1312212122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "accept",
+                "decline"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The other goblins laugh as you choke down hte last bit of lizard.  They ask if you will join tem on a raid tommrow.</span></div></span></div>",
+            "created":1210827600,
+            "id":532141,
+            "title":"say its okay"
+        },
+        "13123":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You hide in a bush which te dragon steps on crushing you-You fail!</span></div></span></div>",
+            "created":1210827600,
+            "id":532120,
+            "title":"hide"
+        },
+        "132":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>While running away like a coward you trip on a stone and fall, impaling your self on the sword you found just moments before -You fail!</span></div></span></div>",
+            "created":1210482000,
+            "id":530568,
+            "title":"Run!"
+        },
+        "14":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Head North up stream",
+                "Go south down stream"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You head west for quite some time until you reach a river, beyond it lies a treacherous mountain range.  </span></div></span></div>",
+            "created":1210482000,
+            "id":554028,
+            "title":"Head west into the great western empire"
+        },
+        "141":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Cast fire of furry ",
+                "Ice of sorrow"
+            ],
+            "content":"<div class=\"\"><div> <span>You soon find your self in an uncharted trading post, it is not late so you drop by the tavern.  You over hear three warriors arguing about how to slay \u201cThe Red Dragon\u201d you approach them and tell them your story.  They agree to hepl as long as they can keep a share of the dragons treasure.  The four of you head north together and camp out for the night, when you are attacked by Goblins! </span></div></div>",
+            "created":1210482000,
+            "id":530586,
+            "title":"Head North up stream"
+        },
+        "1411":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The goblins are all destroyed, but the fire rages out of control killing all-you fail!</span></div></span></div>",
+            "created":1210482000,
+            "id":530588,
+            "title":"Cast fire of furry"
+        },
+        "1412":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Charge the entrance ",
+                "Set an ambush"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The goblins are destroyed you are a hero!  Your followers swear to follow you to the ends of the earth The next morning you and your party set off to the dragons layer, you arrive there by noon.  </span></div></span></div>",
+            "created":1210482000,
+            "id":530589,
+            "title":"Ice of sorrow"
+        },
+        "14121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "You cast ice of sorrow ",
+                "You cast wind of terror "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you charge you see the dragon at th ecaves entrance.</span></div></span></div>",
+            "created":1210482000,
+            "id":530592,
+            "title":"Charge the entrance"
+        },
+        "141211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><div> <span>The dragon counters with fire.  You defend your self with ground of defense but your allies flee. You cast ice of sorrow again and the dragon flies away injured.  You loot his layer and find the rhun stones which you return to the Rhulian lords they reward you with 500 gold pieces and an amulet of light.  You can now retire.<br>\r\n<br>\r\nGood Work!!!!!<br>\r\n</span></div></div>",
+            "created":1210482000,
+            "id":530597,
+            "title":"You cast ice of sorrow"
+        },
+        "141212":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your attack fails you are killed-You fail! <br>\r\n</span></div></span></div>",
+            "created":1210482000,
+            "id":530593,
+            "title":"You cast wind of terror"
+        },
+        "14122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The ambush is taking too long.<br>\r\n<br>\r\nReturn to previous chapter.</span></div></span></div>",
+            "created":1210482000,
+            "id":530590,
+            "title":"Set an ambush"
+        },
+        "142":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Go to the pub",
+                "get on a ship"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You head down stream to the ocean and find a port town.</span></div></span></div>",
+            "created":1210482000,
+            "id":532148,
+            "title":"Go south down stream"
+        },
+        "1421":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Go to pirate camp",
+                "go find a place to sleep"
+            ],
+            "content":"<div class=\"\"><div> <span>You go to a local pub, and ask for a drink.  The bar keeper says that there is not a single barrel or rum or bottle of wine for twenty miles or better.  You ask why.  the bar keeper says a band of pirates from Kartath has hijacked every shipload of spirits that has gone down the coast for the past five months.  He says they have camped a few miles up coast if you want to risk bartering with them.</span></div></div>",
+            "created":1210827600,
+            "id":554029,
+            "title":"Go to the pub"
+        },
+        "14211":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Jump out and surprise them.",
+                "Sneak up and take a better look."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You go down a path approching the pirate camp.  You smell food cooking on the fire and hear someone playing a flute.</span></div></span></div>",
+            "created":1210827600,
+            "id":559469,
+            "title":"Go to pirate camp"
+        },
+        "142111":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Wake up the pirates.",
+                "Rob them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You leap out to find every one is asleep, and what you thought was a flute was a hot pot whistling over the fire.</span></div></span></div>",
+            "created":1216789200,
+            "id":559470,
+            "title":"Jump out and surprise them."
+        },
+        "1421112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Drop the goods and run.",
+                "Cast a magic spell."
+            ],
+            "content":"<div class=\"\"><div> <span>You scurry around the camp and take find a sword a bag of silver coins and two bottles of rum.  You are satisfied with your hall and decide to leave before some one wakes up.  As you leave your new sword pokes one of the sleeping pirates and wakes him up, you spot him before he sopts you.</span></div></div>",
+            "created":1216789200,
+            "id":559474,
+            "title":"Rob them."
+        },
+        "14211121":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Cover your self with a branch.",
+                "Prepate an ambush."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You drop all of your goods and run off into the woods.  When you think you are far enough away you hide behind a large tree.  As you catch your breath you hear something comming.</span></div></span></div>",
+            "created":1216789200,
+            "id":559475,
+            "title":"Drop the goods and run."
+        },
+        "142112":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Snag a barrel",
+                "Attack before they see you"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see one man sleeping and anoter playing the fluit.  There are tents that may conceal more men, and a pile of barrels by the tents.</span></div></span></div>",
+            "created":1210827600,
+            "id":532278,
+            "title":"Sneak up and take a better look"
+        },
+        "1421122":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "choices":[
+                "Cast fire of furry",
+                "Cast Ice of sarrow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to attack.</span></div></span></div>",
+            "created":1210827600,
+            "id":532281,
+            "title":"Attack before they see you"
+        },
+        "1422":{
+            "author_id":"a-smith",
+            "author_name":"Andrew Smith",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You hop on a ship going north.  yo ussail for days, your supplies are running low and the skies look forbiding.  a storm strikes and sinks the ship-You Fail!</span></div></span></div>",
+            "created":1210827600,
+            "id":532149,
+            "title":"get on a ship"
+        }
+    },
+    "info":{
+        "author_id":"a-smith",
+        "author_name":"Andrew Smith",
+        "brief_description":"The bizarre and pointless adventures of a wizard. (a work in progress)",
+        "created":1210528320,
+        "description":"<td align=\"left\" class=\"norm\">The lost continent of Icenosia is a land of Magic, monsters, and great empires.  To the South the vast desert filled with feirce nomads.  In the East an evil empire of dragon riding warlords.  A frozen wasteland to the North.  And the reminants of a once great fallen empire in the West.  These lands are filled with more history that any one man can recal, and more mystries than one could begin to imagine.  In this land lives a lone wizard from the frozen north.  His skills are great, but is that enough for him to survive in this unforgiving land?<br>\r\n<br>\r\nA mishap occurs that turns this wizard into a goblin.  Will he try to regain his humanity or will he just screw around?  Either way your sure to have fun and a laugh or two.</td>",
+        "id":1424867,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1493763960,
+        "modified":1493763960,
+        "pretty_title":"Wizards and Goblins and What Not"
+    }
+}

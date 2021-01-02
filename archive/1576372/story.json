@@ -1,0 +1,418 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "You move on out. You have somewhere you'd like to be before altering you size.",
+                "You move on out, there's some one you want to be with before you alter it. ",
+                "Both 1 and 2. ",
+                "You activate something one of the car's other gadgets before you go change size.",
+                "You want to make your self different now! "
+            ],
+            "content":"<div class=\"\"><div> <span>It was 8:00AM on the second day of summer. and you sat in front of your finally finished car. She had the beautiful build of a Brand new Ferrari!, and it could hit up to 300MPH with the nitrous-oxide boosters active! It was cherry, and it had more cool gadgets then James Bond could dream of! You had spent the better part of the last four years building it with one crowning feature in mind! The Matter Alteration device, that would allow you to alter the size of the vehicle,  Making it and anything in it as big or small as you liked! Now to live your fantasists! You'd packed the car with food and other useful items for your 'little road trip'. And as you got in, you new you had all the time in the world. <br>\r\n<br>\r\nYou turn on the car, and then... </span></div></div>",
+            "created":1246251600,
+            "id":716184,
+            "title":"It begins! "
+        },
+        "11":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "At the beach! cruising people in there swimsuits! ",
+                "At the movies, Free admisstion! ",
+                "At this local park you hang out at, time to get a small animals eye veiw! ",
+                "At a party you know about, you want to get there early to get a good spot! ",
+                "At your boy freind/girlfreinds house!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, so, where do you want to be. </span></div></span></div>",
+            "created":1246251600,
+            "id":716186,
+            "title":"You move on out. You have somewhere you'd l..."
+        },
+        "111":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Straight Male",
+                "Straight Female",
+                "Other. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One thing first! What are you? </span></div></span></div>",
+            "created":1246251600,
+            "id":716188,
+            "title":"At the beach! cruising people in there swimsuits! "
+        },
+        "1113":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Guy Male",
+                "Lesbian Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, so your a... </span></div></span></div>",
+            "created":1246251600,
+            "id":716189,
+            "title":"Other. "
+        },
+        "112":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Straight Male",
+                "Straight Female",
+                "Other. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Wait, what are you? </span></div></span></div>",
+            "created":1246251600,
+            "id":716191,
+            "title":"At the movies, Free admisstion! "
+        },
+        "1123":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Guy Male",
+                "Lesbian Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, so you would be a?</span></div></span></div>",
+            "created":1246251600,
+            "id":716194,
+            "title":"Other. "
+        },
+        "113":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Straight Male",
+                "Straight Female",
+                "Other. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Right, and your a?</span></div></span></div>",
+            "created":1246251600,
+            "id":716195,
+            "title":"At this local park you hang out at, time to get..."
+        },
+        "1133":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Guy Male",
+                "Lesbian Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Right you said you where?</span></div></span></div>",
+            "created":1246251600,
+            "id":716196,
+            "title":"Other. "
+        },
+        "114":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Straight Male",
+                "Straight Female",
+                "Other. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, your a?</span></div></span></div>",
+            "created":1246251600,
+            "id":716197,
+            "title":"At a party you know about, you want to get ther..."
+        },
+        "1143":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Guy Male",
+                "Lesbian Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I'm sorry, What did you say? Your a...</span></div></span></div>",
+            "created":1246251600,
+            "id":716198,
+            "title":"Other. "
+        },
+        "115":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Straight Male",
+                "Straight Female",
+                "Other. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah, your significant other. So, then your...</span></div></span></div>",
+            "created":1246251600,
+            "id":716199,
+            "title":"At your boy freind/girlfreinds house!"
+        },
+        "1153":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Guy Male",
+                "Lesbian Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Right, I'm sorry, your...</span></div></span></div>",
+            "created":1246251600,
+            "id":716200,
+            "title":"Other. "
+        },
+        "12":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "You want your Girlfreind in the car. (Your a straight guy.) ",
+                "You want your boyfreind in the car. (Your a straight girl.) ",
+                "You want a freind to be in the car. (could be anyone, either of you. ",
+                "You want your boy freind in the car. (Your a gay guy.) ",
+                "You want your girl freind in the car. (Your a lesbian girl.) "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah, ok, you'd like some company. care to Elaborate? </span></div></span></div>",
+            "created":1246251600,
+            "id":716201,
+            "title":"You move on out, there's some one you want ..."
+        },
+        "121":{
+            "author_id":"thehobbit101",
+            "author_name":"Bilbo Baggins",
+            "choices":[
+                "1/2 inches",
+                "1 millimeter",
+                "1/10th millimeters"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided you wanted to show your girlfriend your awesome new ride and maybe have an adventure with her at a tiny size. So you call up your girlfriend Sue and tell her that you will be stopping by her house to show her something cool. <br>\r\nWhen you get there you see her outside waiting to see what it was you wanted to show her. When you pull up she comes to the car and asks if its the car you wanted her to see. So you tell her to get in and that you will show her what this car can do.<br>\r\nSo she gets in and buckles up, then you point out the dial and switch near the wheel and you tell her that this car can change size. At first she doesn't believe you so you decide to give her a demonstration and start the car up. You then set the dial to a certain size and push the button, then you and Sue looked around at the growing around you two.<br>\r\nYou two stop shrinking and look around at how massive everything is around you. Sue finally believes you but is still surprised that you actually made a shrinking machine. She then asks you what size you set the dial too. You reply saying...</span></div></div>",
+            "created":1449585840,
+            "id":2071881,
+            "title":"You want your Girlfreind in the car."
+        },
+        "1211":{
+            "author_id":"thehobbit101",
+            "author_name":"Bilbo Baggins",
+            "choices":[
+                "She drops her pill bottle and mistakes your car for a pill.",
+                "Spots the car and thinks its a toy, so she wants to give it to her niece. ",
+                "You decide to shrink smaller to avoid being found but she drops something on you"
+            ],
+            "content":"<div class=\"\"><div> <span>You tell her that you shrunk the car to the size of half an inch. Sue thinks that this is cool but asks if they can grow back to normal size so they could drive to a different spot to shrink. You said sure and turn the dial to your cars original size. But the dial wont budge and you can only turn it downwards. Before Sue starts to freak out you tell her you can fix this, but then large booms can be heard coming this way. You thought you had shrunk on the road but you aren't good with parking and you actually parked half way on the side walk. So when you two shrunk you shrunk onto the sidewalk. <br>\r\nThe footsteps start to get loader and loader, so Sue decides to look behind you guys in order to see who was coming. She could see it was her 50 year old Indian neighbor Shoma coming there way unaware of the tiny car. You both are in shock and driving away did not come to mind. When she gets close suddenly... </span></div></div>",
+            "created":1449588120,
+            "id":2071886,
+            "title":"1/2 inches"
+        },
+        "14":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "GPS. ",
+                "A cloaking device to make the car still harder to notice. Just to start with. ",
+                "A uniqe device that will let the car go straight up surfaces and upside down. ",
+                "A Minor trasnformation mode that makes it so you can safly go on/under water. ",
+                "The works! "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe not a bad idea. So, what's coming online? </span></div></span></div>",
+            "created":1246251600,
+            "id":716207,
+            "title":"You activate something one of the car's oth..."
+        },
+        "141":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Straight Male",
+                "Lesbian Female",
+                "Other. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You turn on your GPS, and they way yours is wired, it will take shrinking into account. It'll also help you locate not just a location, but a person by there electronics. <br>\r\n<br>\r\nOh, wait, I for got, who are you? </span></div></span></div>",
+            "created":1246311180,
+            "id":716210,
+            "title":"GPS. "
+        },
+        "1413":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Guy Male",
+                "Lesbian Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Oh, so your a...</span></div></span></div>",
+            "created":1246311180,
+            "id":716211,
+            "title":"Other. "
+        },
+        "142":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Straight Male",
+                "Straight Female",
+                "Other. "
+            ],
+            "content":"<div class=\"\"><div> <span>You decided that once your small, you don't want to be seen once your small, at least not until you choose, and then by a person of your choice. Being grabbed by a kid who thinks your car is a toy doesn't sound like fun! You hit the cloaking device and it renders the car invisible, just like one of Bonds cars! It also silences the car as much as possible. At this size, it can barely be herd. Once you shrink, your gonna be undetectable! <br>\r\n<br>\r\nSay, who are you by the way?</span></div></div>",
+            "created":1246311480,
+            "id":716213,
+            "title":"A cloaking device to make the car still harder ..."
+        },
+        "1423":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Guy Male",
+                "Lesbian Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, so your a...</span></div></span></div>",
+            "created":1246311480,
+            "id":716214,
+            "title":"Other. "
+        },
+        "143":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "A straight male. ",
+                "A straight female. ",
+                "Other. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You ever scene those commercials for those tiny little toy cars that stick to a surface while running? Well, This car can do that at normal size, or any changed size! A cool bit of added mobility. <br>\r\n<br>\r\nSay, your...</span></div></span></div>",
+            "created":1246311660,
+            "id":716215,
+            "title":"A uniqe device that will let the car go straigh..."
+        },
+        "1433":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Guy Male",
+                "Lesbian Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah ok, then your...</span></div></span></div>",
+            "created":1246311660,
+            "id":716216,
+            "title":"Other. "
+        },
+        "144":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Straight Male",
+                "Lesbian Female",
+                "Other. "
+            ],
+            "content":"<div class=\"\"><div> <span>You press the button, and except for one vent, the car seals put air tight. That way, if your submerged suddenly, that vent will seal up, and oxygen tanks built into the car will keep you able to breath for up to 24 hours. It will also sprout a propulsion system, allowing you to use the care more like a speed boat, or a submarine, depending on what you want. You'd thought this a good thing if you where going to be tiny and anywhere near fluids or people with fluids or body's of water! <br>\r\n<br>\r\nSay, your a... </span></div></div>",
+            "created":1246311900,
+            "id":716220,
+            "title":"A Minor trasnformation mode that makes it so yo..."
+        },
+        "1443":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Guy Male",
+                "Lesbian Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah, then your a...</span></div></span></div>",
+            "created":1246311900,
+            "id":716221,
+            "title":"Other. "
+        },
+        "145":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Straight Male",
+                "Straight Female",
+                "Other. "
+            ],
+            "content":"<div class=\"\"><div> <span>You hit a series of command into the control consel. and your car turns on it's toys. Your cloaked for stealth, using a super GPS for navigation, and you've got almost total mobility no matter what happens! Your almost ready. But first, who are you? </span></div></div>",
+            "created":1246312020,
+            "id":716223,
+            "title":"The works! "
+        },
+        "1453":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Guy Male",
+                "Lesbian Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Right then your... </span></div></span></div>",
+            "created":1246312020,
+            "id":716224,
+            "title":"Other. "
+        },
+        "15":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Your a straight guy. ",
+                "Your a gay guy. ",
+                "Your a Straight girl. ",
+                "Your a Lesbian girl. ",
+                "Your bia. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, so before you go down in the world, your what exactly? </span></div></span></div>",
+            "created":1246251600,
+            "id":716202,
+            "title":"You want to make your self different now! "
+        },
+        "151":{
+            "author_id":"xkiba4lifex",
+            "author_name":"Lover Of All Giantesses",
+            "choices":[
+                "Go for Sally",
+                "Go for Trish",
+                "Follow The Jogger"
+            ],
+            "content":"<div class=\"\"><div> <span>You jump in your giant car and open the garage doors, ready to go out and have some fun. The suburban street you've been living on for the past while is open to you. You could wait and take the car some place else, possibly somewhere more fun like a beach or a mall, but honestly you couldn't resist the temptation anymore. You've been waiting four years for this. Turing the keys in the ignition, the car starts up. You then move over right above the radio. There was a little nozzle there, a nozzle that you couldn't help but turn.<br>\r\n<br>\r\nYour turn it left.... far left. Of course not fully but enough for the car to be affected. You watch as your car starts to shine, the exterior and interior both having an amazing aura about it. With a big smile you can see the whole garage start to grow right in front of your eyes. Needless to say it was an amazing sight seeing your dream come true.<br>\r\n<br>\r\nYou keep shrinking till you and your car was nothing but a toy. Equal to that of a Barbie doll. You stop shrinking as you look around, seeing the garage. Looking ahead you see the street much bigger. Not wasting anytime you start driving, moving out of the garage. You pass through the door and see the wide world. Everything was such a bigger sight. The houses, the trees, the grass. And although seeing them so big was amazing, you were more focused on someone else. You can spot over the grass of your front lawn a jogger. She was dressed in a blue top with blue leggings. She had brunette hair tied back and headphones on. Seeing her you hit accelerate, driving forward until you stop. Right in front of the T Section which was the street path. You look with amazement as the girl comes closer. Passing by you like a giant, completely unaware of your presence. Well unaware maybe not... but just thinking your a remote control car with a doll in it.<br>\r\n<br>\r\nHer sneaker slams down in front of you as she passes. Within seconds she was far away, letting you catch a good sight of her rear. Moving and bouncing with every step that she took. This girl has no idea that your perving on her. Your tempted to chase after her with the car, but you know thats the kind of stuff you would get caught out doing. You need to play it more careful.<br>\r\n<br>\r\nSitting in your little Rally, you start thinking about what you can do now. You've lived on this street for a while and theres two people that you really want to visit.<br>\r\n<br>\r\nThe first was Sally. A little girl lived not so far away, not only would it be amazing seeing a little girl huge but her mother Samantha was absolutely gorgeous, barely in her thirties you could fall for her in a second.<br>\r\n<br>\r\nOn the other hand was Trish, the definition of a Milf. Her daughter was in collage with you and shares her mothers look. That would be a nice peeping session</span></div></div>",
+            "created":1541767440,
+            "id":2575351,
+            "title":"Driving For A Gal"
+        },
+        "1513":{
+            "author_id":"endo12",
+            "author_name":"Endo",
+            "choices":[
+                "Take a shower",
+                "Have something to eat",
+                "Lie down and rest"
+            ],
+            "content":"<div class=\"\"><div> <span>You figure that the jogger is so immediate that it makes the most sense. Besides, she was a fine specimen and you'd not be thrilled about letting such an opportunity run away from you. You give chase and soon catch up, the sight of her bouncing buttocks hypnotising you as she runs. As she slows down at the end of her jog, you follow her as she turns toward her house.<br>\r\n<br>\r\nYou shrink the car further until it is a mere speck and fire the in-built grappling hook onto her shoe. Launching yourself up, you are catapulted onto the woman's calve as she goes inside. She stretches, pleased with herself after a good run.<br>\r\n<br>\r\nWhat does she do next?</span></div></div>",
+            "created":1542109980,
+            "id":2577119,
+            "title":"Jog On"
+        },
+        "15133":{
+            "author_id":"xkiba4lifex",
+            "author_name":"Lover Of All Giantesses",
+            "choices":[
+                "You grow a bit to interactive with her Vagina more",
+                "You stay the same size and have fun going deeper",
+                "Being the gentleman you skip pass going to her breasts (Yeah... Gentleman)"
+            ],
+            "content":"<div class=\"\"><div> <span>The woman takes a turn as she heads for her bedroom, Something that you couldn't help but be ecstatic about. While building and modifying this car, one of your dreams were to drive all over a giant sexy girl, and by the way it looked like it was progressing, that dream was about to become a reality. She arrives at her room as she flops down onto her bed, tired from her run as she plans just to rest a while. <br>\r\n<br>\r\nYour car became loose as it landed onto the folds of the bed sheet, right next to her foot. She doesn't seem to be taken off any clothes, indicating to you that this isn't a long rest but more of something for 10 to 15 minutes. Meaning you need to go now. Reposition you speck size car, you launch your grappling hook right into the woman foot. You start to retract it as you get closer. The grappling hook was so small she hasn't felt it, which you suppose is good. If she did she was probably think it was a mosquito or something, smacking you and the car into nothing. You get to the top of her foot as you look at her leg. Right all the way down into her leggings. It hugged her body but due to your size you could fit in between her leggings.<br>\r\n\u2028Wasting no time you start driving forward, going up her leg. You don't hold back, putting your foot on the pedal and driving full froth. It looked like you just drove quite the distance, but realistically you only moved from the bottom of her foot to her ankle. You slow down as you enter the crevice of her leggings. It was dark, but thankfully you had a spotlight installed into the car as well. Turning it on, you could see the darkness of the cave. <br>\r\n<br>\r\nSeriously you have the bat mobile for perverts. Driving up you couldn't help but take in the sights. Honestly it looked pretty simple, just dark walls with skin coloured ground, but the thought that this vast unending cave was just a woman leg turned you on beyond belief.<br>\r\nYou want to take your time and relax in here, but you know she won't stay down forever. Once she gets up your going to be in very much trouble, which means you need to have your fun and evacuate before anything bad happens. <br>\r\n<br>\r\nAfter taking some pictures with you phone you continued driving, not slowing down as you have a plan. You keep moving up and up, past her calves, past her knee, past her thick thighs and finally you saw in the distance your target. Her White and hugging panties. They were so big compared to you that you marvelled at the size of it. At least twice as big as the Great Wall Of China. But honestly your more interested in the thing behind it, the giant awaiting pussy of the jogger. You can only imagine what that \u2018cave\u2019 would look like.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1542113340,
+            "id":2577135,
+            "title":"Onto The Jogger's Bed"
+        },
+        "155":{
+            "author_id":"honor",
+            "author_name":"DefensiveFighter",
+            "choices":[
+                "Guy. ",
+                "Girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And your a?</span></div></span></div>",
+            "created":1246251600,
+            "id":716203,
+            "title":"Your bia. "
+        }
+    },
+    "info":{
+        "author_id":"honor",
+        "author_name":"DefensiveFighter",
+        "brief_description":"You now have the worlds coolest car, which shrinks! Oh the fun!",
+        "created":1246308840,
+        "description":"<td align=\"left\" class=\"norm\">Ok, Your a collage student, and your a brilliant science major. Your main hobby's are cars and racing. And your a closet Macrophile. Over several years, you've been building a custom car from the ground up, and it has enough cool toys to keep up with anything James bond would drive! And one thing that makes it better to you! It's got a matter alteration device built into it! So, you can make yourself as big or small as you like, and take the car along! <br>\r\n<br>\r\n<br>\r\nThis story is mostly intended to be the adventures of you with an awesome car, and getting to combine it with your fetish! I put this up because I honestly didn't think enough has been done on the idea of a tiny person with vehicles in the interactive's on this site! <br>\r\n<br>\r\nRules: <br>\r\nNo toilet stuff. <br>\r\nTry not to kill the character to much or to early, as it will make it lame. <br>\r\nKeep guy on guy interaction to a minimum. If I see the story flush with it, I'll ban it outright. Girl on girl is ok. <br>\r\nYou have to use the car to change size. And let's keep growing beyond normal size minimal. Also, If there not in the car, they can't be made to grow. Keep in mind, they idea is to have fun driving in a vehicle in a world that's MUCH bigger then you. <br>\r\nTry to be at least Semi literate! <br>\r\nHave fun!<br>\r\n<br>\r\nI'll add occasionally, but for the most part, this is intended for other people to write! </td>",
+        "id":1576372,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1542113340,
+        "modified":1542113340,
+        "pretty_title":"Mini Rally. "
+    }
+}

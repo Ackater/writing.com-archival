@@ -1,0 +1,176 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "Male",
+                "Female",
+                "Genderless",
+                "Herm",
+                "????"
+            ],
+            "content":"<div class=\"\"><div> <span>You find you're self in a room a large sports bag sits at you're side containing a series of assorted items usually needed for trips like the one you are about to take.<br>\r\nOn the other side of the room is a large desk behind of which sits a sort anthro mouse she looks up at you expectantly waiting patiently as you recollect you're baggage and step up to her.<br>\r\nShe smiles at you in a friendly manner.<br>\r\n\"Hello all i half to do is ask you a few questions... I know this it obvious but the computers are voice activated and the station's master would rather use the customers own voice.... The Emlari are adamant about that even if they are directly linked into the computer system...So... What is you're gender?\" </span></div></div>",
+            "created":1358857800,
+            "id":1514037,
+            "title":"In Customs"
+        },
+        "11":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "Human",
+                "Morleen",
+                "Emlari",
+                "Anthro",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She nods looking down at the screen.<br>\r\n\"Alright and what species are you?... where do you hail from?\"<br>\r\n<br>\r\n{note for anthros due to the large amount of animals to choose from i have decided to add genus then creature itself} </span></div></span></div>",
+            "created":1358860620,
+            "id":1514057,
+            "title":"Male"
+        },
+        "111":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "No.",
+                "Yes i just found this strange bag beside me convinently",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She nods looking over you in an assessing look.<br>\r\n\"Alright did any one suspicious try to give you any thing?\"</span></div></span></div>",
+            "created":1358862780,
+            "id":1514086,
+            "title":"Human"
+        },
+        "1111":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "No",
+                "When do you get off?",
+                "More"
+            ],
+            "content":"<div class=\"\"><div> <span>Tilting her head to one side she nods again handing you a small pad.<br>\r\n\"Alright show that to the guard at the door and hell let you throw the pad will tell you everything you'll need to do... do not loose it if you wish to return... do you have any questions to ask?\"</span></div></div>",
+            "created":1358863620,
+            "id":1514100,
+            "title":"No."
+        },
+        "11111":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "A dark forest of pines.",
+                "not here"
+            ],
+            "content":"<div class=\"\"><div> <span>You take the pad and walk  to the a large heavily armored dragon like creature holding some sort of cannon as large as you are.<br>\r\nHe sighs looking down at you and slinging his weapon on one shoulder holds out a clawed had motioning for the pad.<br>\r\nYou quickly surrender it and he looks over it before handing it back moving aside to allow you to pass.<br>\r\n\"Straight down the hall last door.\"<br>\r\nYou follow his instructions and enter a room with a glowing floor sparkling particulates drift lazily around the room.<br>\r\nJust before you are able to pocket the tablet start to beep annoyingly at you making you press a button on the screen which then displays a message.<br>\r\n<br>\r\nPlease stand in the middle of the room and remove any articles that you happen to be wearing.<br>\r\nCrouch near you're baggage closing you're eyes and count to twenty before opening them again.<br>\r\nEnjoy you trip.<br>\r\n<br>\r\nDoing as the pad instructed you remove youre cloths and store them in youre bag and close youre eyes and start count.<br>\r\nBefore you finish counting you see a great flash despite youre eyes being closed.<br>\r\nSlowly you open youre eyes and find youre self in...</span></div></div>",
+            "created":1358887080,
+            "id":1514220,
+            "title":"No"
+        },
+        "113":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "No thats just a misconception im just in my first phase dont ask.",
+                "Not all Emlari are genderless.",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She pauses for a sec her eyebrows rising a bit her ears turning red in a blush.<br>\r\n\"Ah.. sorry i don't really know Emlairi that well but isn't you're kind genderless?\"</span></div></span></div>",
+            "created":1358862600,
+            "id":1514080,
+            "title":"Emlari"
+        },
+        "114":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "Canine",
+                "Feline",
+                "More!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And what genus are you?</span></div></span></div>",
+            "created":1358861880,
+            "id":1514068,
+            "title":"Anthro"
+        },
+        "1141":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "Wolf",
+                "Dog",
+                "More!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>All right what type of canine are you?</span></div></span></div>",
+            "created":1358884980,
+            "id":1514195,
+            "title":"Canine"
+        },
+        "11413":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "Fox",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More of the canine family</span></div></span></div>",
+            "created":1358885460,
+            "id":1514199,
+            "title":"More!"
+        },
+        "1143":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "Equine",
+                "Reptile",
+                "More!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices?</span></div></span></div>",
+            "created":1358885340,
+            "id":1514197,
+            "title":"More!"
+        },
+        "12":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "Human",
+                "Morleen",
+                "Emlari",
+                "Anthro",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She nods looking down at the screen.<br>\r\n\"Alright and what species are you?... where do you hail from?\"<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1358861100,
+            "id":1514060,
+            "title":"Female"
+        },
+        "124":{
+            "author_id":"danuelf",
+            "author_name":"Dan, Billy",
+            "choices":[
+                "Canine",
+                "Feline",
+                "More!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Allright whhat type of genus are you?</span></div></span></div>",
+            "created":1358862120,
+            "id":1514069,
+            "title":"Anthro"
+        }
+    },
+    "info":{
+        "author_id":"danuelf",
+        "author_name":"Dan, Billy",
+        "brief_description":"When exploring the final frontier any thing is possible dare to push the limits.",
+        "created":1358854500,
+        "description":"<td align=\"left\" class=\"norm\">I know how some times you like to kill the current character but i must ask you to at least give them a way out before throwing them into the flames.<br>\r\nTry to wright more than a few paragraphs and and at least try to get you're grammar and spelling correct i know I'm helpless at it but at least I'm trying.<br>\r\nPLEASE NO scant of water sports will not touch it with a 30ft pole; However Everything else is OK thought i timidly use that. :P<br>\r\nDon't be upset if i delete you're addition more often than not i will move it to another branch of the story or i might think its not ready for that sort of event to happen. <br>\r\nFirst i shall start with the two planes that i have forged together and leave the others to you i do hope that you enjoy it and add to it and liberally as you're mind can invent NOTHING IS IMPOSSIBLE.</td>",
+        "id":1914730,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1358887080,
+        "modified":1358887080,
+        "pretty_title":"Inter dimensional waltz"
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"tlapp98",
+            "author_name":"Capre Diam",
+            "choices":[
+                "Hold your liquor, Order another drink.",
+                "Don't hold your liquor.",
+                "Hold your liquor, don't order another drink.",
+                "Choke on Dwarven Fire Ale."
+            ],
+            "content":"<div class=\"\"><div> <span>You sit down at the bar. Gorm, the bartender, gives you a small smile.<br>\r\n     \"Your Birthday today?\" He asks. \"Seems like only yesterday you were toddling in here with your parents. Well, what can I get you? We have a very special ale today, all the way from the dwarven stronghold of Davek-Anar!\"<br>\r\n     \"Just wine, please,\" you reply. You do not want to become too drunk today.<br>\r\n     \"Oh, come on!\" Says Gorm, \"You're 18 today! You need to know what a true drink is!<br>\r\nWithout further ado, he starts to pour you a tankard of the dwarven ale. You begin to protest, but he shakes off your complaints, saying, \"This one is on the house! Don't bother paying for this one!\"<br>\r\nWhat the heck, you think. What could possibly go wrong?<br>\r\nYou gulp down the dwarven ale.</span></div></div>",
+            "created":1384836840,
+            "id":1696318,
+            "title":"At the bar."
+        },
+        "12":{
+            "author_id":"tlapp98",
+            "author_name":"Capre Diam",
+            "choices":[
+                "Agree, Win",
+                "Agree, Lose",
+                "Say no"
+            ],
+            "content":"<div class=\"\"><div> <span>The ale immediately goes to your head. You begin to feel woozy, but you don't mind. This is the best feeling ever!<br>\r\n\"I see you enjoy your ale!\" Says Gorm cheerfully.<br>\r\n\"I'll *HIC* take another of those.\" You hiccough.<br>\r\n\"Me as well,\" chimes in a stout dwarf who has just sat down next to you. \"Care for a wager?\" He asks you,<br>\r\n\"What kind of *HIC* wager?\" You inquire.<br>\r\n\"Last to hold his liquor wins.\"<br>\r\n'Why not' crosses your mind again.<br>\r\nWhat could go wrong?</span></div></div>",
+            "created":1384837260,
+            "id":1696320,
+            "title":"Don't hold your liquor."
+        },
+        "121":{
+            "author_id":"tlapp98",
+            "author_name":"Capre Diam",
+            "choices":[
+                "Help the old man.",
+                "Scorn the old man.",
+                "Leave."
+            ],
+            "content":"<div class=\"\"><div> <span>You both drink three more tankards of the ale, but it doesn't seem to be affecting you as badly as the dwarf.<br>\r\nAbout 10 minutes later, the Dwarf passes out, and you head is feeling clearer.<br>\r\n\"Well, looks like I win,\" you think, as you stare at the unconscious Dwarf in front of you. you grab the pile of gold coins that you and the Dwarf had wagered, then smile at Gorm.<br>\r\n\"You switched my ale with something else, didn't you?\" you inquire.<br>\r\n\"Of course not. <i>That</i> would be cheating,\" he replies, winking. \"You 'd better get on out of here. I'll put this oaf in a decent room.\"<br>\r\nYou thank Gorm for the ale, and leave the Tavern. You begin walking home, but you haven't gone far when someone bumps into you.<br>\r\nThe man has to be at least 70 years old. He has bags under his eyes, almost no teeth, bare feet, ragged clothes and a large bag, the contents of which have spilled onto the street.</span></div></div>",
+            "created":1388463540,
+            "id":1717966,
+            "title":"Agree, Win"
+        },
+        "14":{
+            "author_id":"pokebroniex",
+            "author_name":"PJKL",
+            "choices":[
+                "You can't remember",
+                "You ask the ponie's name first",
+                "You fall back asleep."
+            ],
+            "content":"<div class=\"\"><div> <span>You hear a voice talking to you, but its hard to hear.  It's almost as if it's far away from you.  You open your eyes and see a pony staring at down at you.  \"HELLO!?!?!\" You jump at the loud noise.  Which appears to be coming from a pink pony with a pink, cotton candy looking, mane.  \"Your finally awake!  I'm so nervousited(nerve-a-cited)!  What is your name!?\"</span></div></div>",
+            "created":1424179500,
+            "id":1935758,
+            "title":"Choke on Dwarven Fire Ale."
+        },
+        "141":{
+            "author_id":"pokebroniex",
+            "author_name":"PJKL",
+            "choices":[
+                "Make one up (limited options... using a mlp name generator)",
+                "You remember it's \"???\" (put what ever name you want in place of the \"???\"",
+                "(choose ur pony attributes. ie type, gender, age)"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well?????\"<br>\r\n\"I really can't remember, I'm sorry.\"<br>\r\n\"You! Need! To! Have! A! Name!!\" She begins to shake you erratically.  You decide you need to think of something before this pony kills you.  Suddenly it all rushes back and you remember who you are. Your...</span></div></div>",
+            "created":1424293740,
+            "id":1936468,
+            "title":"You can't remember"
+        },
+        "1411":{
+            "author_id":"pokebroniex",
+            "author_name":"PJKL",
+            "choices":[
+                "Alicorn",
+                "Unicorn",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>(Choose a type of pony...  Srry if the names are a little to a lot girly. I'm trying to find gender neutral names)</span></div></span></div>",
+            "created":1424294040,
+            "id":1936474,
+            "title":"Make one up (limited options... using a mlp nam..."
+        },
+        "14113":{
+            "author_id":"pokebroniex",
+            "author_name":"PJKL",
+            "choices":[
+                "Earth Pony",
+                "Pegasus"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>          </span></div></span></div>",
+            "created":1424294220,
+            "id":1936477,
+            "title":"More"
+        },
+        "141131":{
+            "author_id":"pokebroniex",
+            "author_name":"PJKL",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>(If you got here because of the mistake I made then just ignore the final name you get.  Sorry again)<br>\r\n<br>\r\nYou remember your an earth pony.  You don't have wings or a horn, but you're strong and hardworking. But what's your gender</span></div></div>",
+            "created":1424295300,
+            "id":1936485,
+            "title":"Earth Pony"
+        },
+        "1413":{
+            "author_id":"pokebroniex",
+            "author_name":"PJKL",
+            "choices":[
+                "Alicorn",
+                "Unicorn",
+                "Pegasus"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>(Pony type)</span></div></span></div>",
+            "created":1424294400,
+            "id":1936478,
+            "title":"(choose ur pony attributes. ie type, gender, age)"
+        },
+        "14131":{
+            "author_id":"pokebroniex",
+            "author_name":"PJKL",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>(I messed up sorry. If you want to be an earth pony go to the make one up option in the \"You can't remember\" chapter)<br>\r\n<br>\r\nYou remember you're an Alicorn Which means u have a horn, and wings, and you're royalty. But what gender?</span></div></div>",
+            "created":1424294700,
+            "id":1936479,
+            "title":"Alicorn"
+        },
+        "142":{
+            "author_id":"pokebroniex",
+            "author_name":"PJKL",
+            "choices":[
+                "You can't remember",
+                "You make one up"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Um, what's your name?\" You ask.  \"Oh, I'm Pinkie Pie.\" <br>\r\n\"Your a pony?\"<br>\r\n\"Well, duh silly; we're in Equestria.  Ponyville to be exact.\"<br>\r\n\"Oh....\" You say still not really grasping what's happening.</span></div></div>",
+            "created":1424292780,
+            "id":1936456,
+            "title":"You ask the ponie's name first"
+        },
+        "143":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "You proceed to walk out of the factory.",
+                "You remain where you are.",
+                "Something completely different happens."
+            ],
+            "content":"<div class=\"\"><div> <span>Immediately you fell back asleep, as Pinkie Pie from my little pony friendship is magic walked off while feeling disappointed that she never got to know who you are.<br>\r\n<br>\r\nBut soon after that, you're transported to another dimension unlike the one you were previously in. <br>\r\n<br>\r\nMainly an animated food factory circa November 1998 as Sylvester the cat who indeed grew to a gigantic size.<br>\r\n<br>\r\n\"What's a cat to do especially when you're oh i don't know just as gigantic as Godzilla or King Kong would be?\" You said.<br>\r\n<br>\r\nThen at that moment...<br>\r\n<br>\r\n</span></div></div>",
+            "created":1424188440,
+            "id":1935799,
+            "title":"You fall back asleep."
+        }
+    },
+    "info":{
+        "author_id":"tlapp98",
+        "author_name":"Capre Diam",
+        "brief_description":"You start in a tavern. What happens after that is completely up to you!",
+        "created":1384836060,
+        "description":"<td align=\"left\" class=\"norm\">You are playing as yourself in this game. You start off in a tavern, just now being allowed to drink. What happens from here will be entirely up to you! Good luck.<br>\r\n<br>\r\nRULES: If you are going to post a chapter, do not use vulgar content, extreme language, or short sentences. Use proper grammar, and make any chapter posted 5-10 lines (sentences).<br>\r\nTY!</td>",
+        "id":1963433,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1424295300,
+        "modified":1424295300,
+        "pretty_title":"Choose Your Adventure"
+    }
+}

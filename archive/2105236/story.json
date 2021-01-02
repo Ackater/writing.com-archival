@@ -1,0 +1,659 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Danganronpa 1: Trigger Happy Havoc",
+                "Super Danganronpa 2: Goodbye Despair",
+                "Danganronpa: Another Episode: Ultra Despair Girls",
+                "Danganronpa 3: The End of Hope's Peak Academy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's begin with one simple question: which installment do you want to be shrunk in?</span></div></span></div>",
+            "created":1481432400,
+            "id":2248490,
+            "title":"Start!"
+        },
+        "11":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Kyoko Kirigiri",
+                "Toko Fukawa",
+                "Aoi Asahina",
+                "Sayaka Maizono",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which DR1 girl do you wanna be shrunk around?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263861,
+            "title":"Decisions, Decisions..."
+        },
+        "111":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "DR1 Kyoko",
+                "DR3 Kyoko"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kyoko, huh? Alright, which Kyoko do you want? DR1 Kyoko or DR3 Kyoko?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263878,
+            "title":"Kyoko Kirigiri"
+        },
+        "112":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Toko, please!",
+                "Genocide Jill will be a lot of fun... I pick her!",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Interesting choice. Okay, first things first... do you want Toko... or Genocide Jill?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263881,
+            "title":"Toko Fukawa *SPOILERS FOR DR1*"
+        },
+        "1123":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "DR1 Toko",
+                "DR:AE Toko"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Toko/Jill do you want? DR1 Toko or DR:AE Toko?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263883,
+            "title":"More"
+        },
+        "113":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "DR1 Aoi",
+                "DR3 Aoi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Aoi do you want? DR1 Aoi or DR3 Aoi?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263887,
+            "title":"Aoi Asahina"
+        },
+        "1132":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "1st DR3 Outfit",
+                "2nd DR3 Outfit"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You wan her first DR3 outfit or her second DR3 outfit?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263888,
+            "title":"DR3 Aoi"
+        },
+        "115":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Sakura Ogami",
+                "Celestia Ludenberg",
+                "Last Two"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are some of the other DR1 girls.</span></div></span></div>",
+            "created":1484456400,
+            "id":2263862,
+            "title":"Other"
+        },
+        "1153":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Junko Enoshima",
+                "Mukuro Ikusaba"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are the last two DR1 girls.</span></div></span></div>",
+            "created":1484456400,
+            "id":2263863,
+            "title":"Last Two DR1 Girls"
+        },
+        "11531":{
+            "author_id":"goldenrp",
+            "author_name":"CrazyNoisyGreatDays",
+            "choices":[
+                "Junko Enoshima.",
+                "V3 characters."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Danganronpa V3 is a thing and I didn't have any room of where to put it so you wanna continue with Junko or V3 characters?</span></div></span></div>",
+            "created":1553447340,
+            "id":2634179,
+            "title":"Before we do Junko Enoshima"
+        },
+        "115312":{
+            "author_id":"cdef",
+            "author_name":"Abc",
+            "choices":[
+                "Maki Harukawa",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What v3 character?</span></div></span></div>",
+            "created":1583926800,
+            "id":2799980,
+            "title":"V3 characters."
+        },
+        "11532":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Default Outfit",
+                "Disguised as Junko"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want Mukuro in her default outfit or do you want her disguised as Junko?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263890,
+            "title":"Mukuro Ikusaba *SPOILERS FOR DR1*"
+        },
+        "115321":{
+            "author_id":"datreader123",
+            "author_name":"Derp",
+            "choices":[
+                "Attempt to get the girl's attention",
+                "Hide"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up with a giant headache in a dark room. You check your surroundings and you realize you have been <b>Shrunk</b>. Everything around you was extremely large, you estimate that you were around 1-2 inches tall. As your eyes adjust to the darkness you can see that you were in the floor of what seemed to be a dorm room. As you investigate you start to hear loud booming sounds. As they get louder you see the source, a girl who wore what seemed to be a schoolgirl outfit, she also had short hair and some freckles. You watch as she goes to the light switch and turn it on. As she does the sudden brightness blinds you a bit. After recovering you see that she hasn't noticed you yet, what do you do?    </span></div></div>",
+            "created":1488690000,
+            "id":2285255,
+            "title":"Mukuro Ikusaba story start"
+        },
+        "1153212":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Fuck her feet",
+                "Tickle her feet",
+                "Worship her feet"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to hide under the bed. Mukuro sits down on her bed. You hear her sigh. \"What a stressful day... I need these shoes and socks off now.\" Mukuro said as she slipped off her shoes and socks to reveal her smelly yet beautiful feet. You hear her thud on the bed. You then hear her snore, causing you to realize that she's asleep. Your foot fetish started to kick in as you stare at the exposed soles and toes in front of you. You decide to...</span></div></div>",
+            "created":1489379580,
+            "id":2288827,
+            "title":"Hide"
+        },
+        "11532122":{
+            "author_id":"datreader123",
+            "author_name":"Derp",
+            "choices":[
+                "She's Awake and you're in trouble",
+                "She's still asleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to climb up onto the bed using the blanket. You stop in front of her foot and start tickling. You see her foot shift slightly and you decide to try tickling harder. You hear her move a bit on the bed. Did you wake her up?</span></div></span></div>",
+            "created":1490929140,
+            "id":2297585,
+            "title":"Tickle her feet"
+        },
+        "12":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Sonia Nevermind",
+                "Chiaki Nanami",
+                "Peko Pekoyama",
+                "Ibuki Mioda",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pick a SDR2 girl to be shrunk around.</span></div></span></div>",
+            "created":1484456400,
+            "id":2263869,
+            "title":"Super Danganronpa 2: Goodbye Despair"
+        },
+        "121":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Normal Sonia",
+                "Ultimate Despair Sonia"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Normal Sonia or Ultimate Despair Sonia?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263893,
+            "title":"Sonia Nevermind *SPOILERS*"
+        },
+        "1211":{
+            "author_id":"datreader123",
+            "author_name":"Derp",
+            "choices":[
+                "Go up to her foot and try to make her look down",
+                "Climb up her body so that she could see you"
+            ],
+            "content":"<div class=\"\"><div> <span>You suddenly wake up after blacking out while you were walking back home. You have no idea what happened to you while you were out, however what you notice is that you seemed to be in a strange place. All the furniture in the room was ginormous, and the decorations looked very royal. You try to explore some more until you notice a small desk, and in front of that desk reading a book was a giant girl who looked normal sized with the giant furniture. She wore a green and white dress and had long blonde hair. You didn't know what to think of all this, however the best thing to do was to get her attention...</span></div></div>",
+            "created":1510046280,
+            "id":2412121,
+            "title":"Normal Sonia"
+        },
+        "12111":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Tickle her foot",
+                "Climb up her leg"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to run up to her bare foot. She had her leg crossed over the other, her foot unknowingly dangling above you. Her foot looked beautiful. It was so well-pedicured, with such delicate-looking soles and her curling toes.<br>\r\n<br>\r\nBut foot fetish aside, you needed to make her notice her. But how...?</span></div></div>",
+            "created":1510283220,
+            "id":2413183,
+            "title":"Go up to her foot and try to make her look down"
+        },
+        "121111":{
+            "author_id":"datreader123",
+            "author_name":"Derp",
+            "choices":[
+                "She finally looks down",
+                "She doesn't notice, and unknowingly pins you down with her foot."
+            ],
+            "content":"<div class=\"\"><div> <span>You were small, but just enough height to reach her toes, so you start there. You use your small fingers and start to tickle her big toe. You see it start to twitch a bit and try even harder. After a while her foot lowers a bit, giving you more area to tickle. Her foot twitches some more until...</span></div></div>",
+            "created":1511161080,
+            "id":2417526,
+            "title":"Tickle her foot"
+        },
+        "122":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Real Chiaki",
+                "AI Chiaki"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Real Chiaki or AI Chiaki?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263894,
+            "title":"Chiaki Nanami *SPOILERS FOR SDR2 AND DR3*"
+        },
+        "123":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Normal Peko",
+                "Ultimate Despair Peko"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Normal Peko or Ultimate Despair Peko?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263896,
+            "title":"Peko Pekoyama *SPOILERS*"
+        },
+        "124":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Normal Ibuki",
+                "Ultimate Despair Ibuki"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Normal Ibuki or Ultimate Despair Ibuki?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263897,
+            "title":"Ibuki Mioda *SPOILERS*"
+        },
+        "125":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Hiyoko Saionji",
+                "Mikan Tsumiki",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Oh, you want some of the other girls? Okay, here they are.</span></div></span></div>",
+            "created":1484456400,
+            "id":2263870,
+            "title":"More"
+        },
+        "1251":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Normal Hiyoko",
+                "Ultimate Despair Hiyoko"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Normal Hiyoko or Ultimate Despair Hiyoko?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263898,
+            "title":"Hiyoko Saionji *SPOILERS*"
+        },
+        "1252":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Normal Mikan",
+                "Ultimate Despair Mikan"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Normal Mikan or Ultimate Despair Mikan?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263900,
+            "title":"Mikan Tsumiki *SPOILERS*"
+        },
+        "1253":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Akane Owari",
+                "Mahiru Koizumi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You don't want those girls either? Okay, here are the last two.</span></div></span></div>",
+            "created":1484456400,
+            "id":2263871,
+            "title":"More"
+        },
+        "12531":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Normal Akane",
+                "Ultimate Despair Akane"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Normal Akane or Ultimate Despair Akane?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263901,
+            "title":"Akane Owari *SPOILERS*"
+        },
+        "12532":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Normal Mahiru",
+                "Ultimate Despair Mahiru"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Normal Mahiru or Ultimate Despair Mahiru?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263902,
+            "title":"Mahiru Koizumi *SPOILERS*"
+        },
+        "13":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Komaru Naegi",
+                "Hiroko Hagakure",
+                "Kotoko Utsugi",
+                "Monaca Towa",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You want a girl from Another Episode? Alright.</span></div></span></div>",
+            "created":1484456400,
+            "id":2263872,
+            "title":"Danganronpa: Another Episode: Ultra Despair Girls"
+        },
+        "131":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "In the Apartment Complex",
+                "Out of the Apartment Complex"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want Komaeu when she's confined in the Towa City apartment complex or do you want her when she's out of the complex?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263934,
+            "title":"Komaru Naegi"
+        },
+        "1311":{
+            "author_id":"giantessvg",
+            "author_name":"Giantessvg",
+            "choices":[
+                "Run out of the way as fast as your itty bitty legs can go!",
+                "Fight that shoe head on! Clamber onto it for a rodeo!",
+                "Simply stand your ground as any rational thought leaves your mind."
+            ],
+            "content":"<div class=\"\"><div> <span>You could not clearly remember who it was that shrunk you. It was not something that could be so easily recalled. What little memory of the events preceding today that remained involved a high school age girl with blonde pigtails. It almost felt as if you had lost all your memories prior to meeting that young lady, and yet that would be ludicrous. However the word \"ludicrous\" coming from an individual whom was now just over an inch in height was truly rich. Being shrunk was strange indeed, however just as strange was your current accommodations.<br>\r\n<br>\r\nLooking around your new place of current residence was worrying to say the least. Not that it was dirty, the farthest thing from it in fact; the carpet was without dirt, the counters were spotless, and the windows were tantamount to nonexistence due to their cleanliness. It was what was beyond the window that frightened you most. Thick metal bars. This wasn't an apartment. It was a Cell.<br>\r\n<br>\r\nbefore you could allow your eyes further exploration of the room, a noise was heard in tandem with a great quaking of the ground below you. It then repeated, not once, not twice, but 8 times in total before you couldn't believe what emerged from the hallway to your right. A giant girl appeared; she had brown hair which had a single strand standing segregated from the rest of it and a high school uniform on. In contrast to the room it seemed as though she had frizzy hair and wrinkled clothes, it seemed as though she had just woken up.. The last feature to catch your eye was the most important. Her white loafers which were now out of the hall and headed in your direction.<br>\r\n<br>\r\nTime to act quickly!</span></div></div>",
+            "created":1499063100,
+            "id":2346337,
+            "title":"Komaru Naegi's Imprisoned Life"
+        },
+        "13111":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Slip into her sock while she eats breakfast",
+                "Wait until she takes a nap or goes to sleep."
+            ],
+            "content":"<div class=\"\"><div> <span>In your panic, you ran out of the way, thus saving yourself from being crushed by the white loafers. You sighed in relief as you see the girl slip off her loafers and start eating her breakfast.<br>\r\n<br>\r\n<i>Even though she looks like she had just woken up, she looks kinda cute..,</i> You thought as you looked down and saw her black-socked feet.<br>\r\n<br>\r\nYou wondered what her feet looked like. You hoped that they were very pretty... Then an idea occurred to you. Maybe you could have a chance with those feet of hers. But, there are such things as options.</span></div></div>",
+            "created":1499076720,
+            "id":2346396,
+            "title":"Run out of the way as fast as your itty bitty l..."
+        },
+        "131111":{
+            "author_id":"giantessvg",
+            "author_name":"Giantessvg",
+            "choices":[
+                "She felt an irritation and opens her sock to scratch it, you plummet to her feet",
+                "She feels her sock snap to her leg and checks to see what it was. (Aware)"
+            ],
+            "content":"<div class=\"\"><div> <span>The temptation was far too great for you. The titanic woman before you was as stated before... cute. And you were not a man of restraint (it's a serious problem, but after the tragedy there were few outlets for people such as yourself. When's the last time you saw foot related magazines?) Aside from that it isn't as though you were doing anything too terrible. You were sure that even should you be found by the school girl she would not be irate with you... perhaps wierded or grossed out a little.<br>\r\n<br>\r\nAnd so you made your way towards the enlarged girl. Her black socks beckoning your presence within them. Pristinely white carpet plains made up a majority of your trek, however upon reaching the dining area a new landscape emerged from beneath the course floor. Toffee and chocolate checkered tiles came into view. Shiny as the day they were installed you presumed, and yet this just rose the question: why was it so clean? After all, the first and only person you've seen thus far was a high school girl. She must be a clean freak or have a lot of time on her hands.<br>\r\n<br>\r\nComing to a stop a few inches (to you) from her foot, you finally realized just how small you had become. Your head was just short of reaching her ankle. Despite this fact and your slight weariness from the journey to the table, you decide to begin climbing her sock. Slipping your fingers through the interwoven mesh of threads making up her kneehigh's you made your way up her leg. It was around the half way point that something unexpected happened. She stood up.<br>\r\n<br>\r\nClasping onto the sock as if you were a breed of tick, you were put into the rhythmic motion of her steps. She made her way to the sink as to wash the dish she had just dirtied. You slowly and carefully reached your arms upwards in alternation, finding foot holds in the tailor workings of the black monolith. Making sure you held on for dear life as the running water stopped, the pendulums that were her lesg moved once more. This time toward the couch in the living room. A journey that would take you a hour or more was made to look like child's play.<br>\r\n<br>\r\nMaking herself comfortable she say on the couch and opened an outdated magazine. Finally you could continue toward your goal. And with no difficulty you reached the top. You now had but one thing to do, slip into the sock. Luckily you could sit upon he knee due to her sitting on the couch. And since she was occupied with reading she didn't see you. Reaching down and pulling the cloth away from the leg it had been skin tight against, you jumped into the black hole. The problem was that once inside the cloth slammed back into place, making it impossible to fall further towards the feet. You were pressed firmly between her finely shaved leg and a cottony prison...</span></div></div>",
+            "created":1499107140,
+            "id":2346571,
+            "title":"Cottony Climb up the Kneehigh"
+        },
+        "1311111":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "She crosses her legs, giving you full access to her sole and toes",
+                "She lies down on the couch and takes a nap, giving you access to her sole"
+            ],
+            "content":"<div class=\"\"><div> <span>You were so close to her feet... You were about to cry from disappointment when, suddenly, the sock opened up.<br>\r\n<br>\r\n\"Itchy...\" The girl said as she went to scratch. You felt yourself plummet to her feet.<br>\r\n<br>\r\nYou look up and your eyes sparkled. Though you only saw the top of her foot, her foot look really cute already. You felt your penis start to harden a little.<br>\r\n<br>\r\nSuddenly...</span></div></div>",
+            "created":1499118000,
+            "id":2346626,
+            "title":"A Win-Win Situation"
+        },
+        "13111112":{
+            "author_id":"giantessvg",
+            "author_name":"Giantessvg",
+            "choices":[
+                "Toward her exercise equipment in another room, she needed to occupy her mind.",
+                "To the bathroom for a shower/bath."
+            ],
+            "content":"<div class=\"\"><div> <span><b>\"I guess I could fit a nap into my schedule\"</b> you heard from just outside the black cloth. On queue the foot you lay upon lifted high off of the carpeted floor. <b>\"I'll just take my shower when I wake up. It isn't as if I'll be seeing anyone today anyhow.\"</b> You couldn't help but chuckle at how true your goddess's words rang. She wouldn't be seeing you today. But that didn't stop you from seeing her.<br>\r\n<br>\r\nShe effortlessly sat her feet upon the sofa's arm, propping her heels on it as she lay face up. Surprisingly this actually assisted you in reaching your goal. From the top of her foot you were able to use gravity to your advantage. Pulling desperately upon the cotton sock, you were able to slip by her ankle. Any and all actions halted at this point as a ferocious roar rang out vibrating the sock and foot! Shocked in terror, you didn't dare move an inch until you knew what could have made that cry. It took but three seconds for it to ring out once more... <i>i-it can't be can it?</i> you couldn't possibly believe the conclusion you came to. But all suspicions were confirmed as the noise blasted through your tiny eardrums. <i>She's snoring like a wildebeest, how can such a cute girl make such a horrific sound?</i> Regardless a wave of relief washed over you, now you could move onwards towards your prize.<br>\r\n<br>\r\nHaving fallen by her ankle you were caught in a hammock created by your weight against the knee-high, giving you far more room to work with. You turned your body around as to crawl on your hands and knees. Slow steady progress was made in an attempt not to disturb the unaware schoolgirl; making it to the heel, you questioned how to go about getting beneath her foot. Sadly gravity would not assist you here. After assessing the situation you came to a conclusion. It was time to throw caution to the wind.<br>\r\n<br>\r\nPressing your spine to the cloth at your back while simultaneously pushing your hands against the side of the giants foot, you were making headway. However it became obvious that you had slightly disturbed your unknowing captor as she spoke through her sleep <b>\"five... more minutes... Makoto...\"</b> Who was this Makoto? You supposed it mattered little as you were so close to the finish line. Once again pushing with all your might you managed to sidestep your way to the center of her sole. It was everything you had hoped for as you relinquished your fate to the dark wall behind you and were forcefully held to the foot. It seemed as though this blessing was not without a price however. As your front was plastered to the young woman's foot you disturbed her slumber once more, this time though, there were repercussions.<br>\r\n<br>\r\nIn what seemed to be an instant the brown haired layabout brought her knee up to her chest, this action confused you as you felt only vibration. <b>\"I said FIVE more minutes!\"</b> having felt two separate disturbances within such a short amount of time must have caused what occurred next. <i>What's going o-</i> your thought cut off as you felt excruciating pain on your back. She had slammed her foot down into the couches armrest, it was by some miracle that you survived (with little to no injury at that)! She too felt the chair's revenge for her assaulting it as she recoiled, grabbing hold of her foot (unknowingly rubbing you into her sole in the process).<b>\"OW! When did your hand get so hard Makooo... tooooo...\"</b> seemingly coming back to reality, the titanic girl's voice dissipated with a somber tone. Laying her head back down, she let out a hefty sigh.<br>\r\n<br>\r\nAfter several minutes she let her feet down off of the sofa along with you. Pressing her feet to the carpet as she stood tall, she decided to head...</span></div></div>",
+            "created":1499231460,
+            "id":2347427,
+            "title":"Unhappy Sleeper"
+        },
+        "13112":{
+            "author_id":"giantessvg",
+            "author_name":"Giantessvg",
+            "choices":[
+                "The young adult's bountiful bosom, covered by her school uniform.",
+                "The tongue. Not of the shoe though, the giantess was yawning!"
+            ],
+            "content":"<div class=\"\"><div> <span>Perhaps it wasn't the most intelligent plan in the world, but you needed to know what exactly was going on and where you were. In your mind this was the best way to go about that. Climbing the humongous girl to get her attention was no small feat, but it was better than ending up beneath her feet. So without a moments hesitation you sprinted forward; the battle for recognition had begun in full force.<br>\r\n<br>\r\nAdrenaline kept you on your toes as you careened to the right of her shoe, pivoting on your own foot once clear of the landing zone. The loafer hit the ground with little force in the giants eyes, however in yours the impact may as well have been a volcanic eruption. A grandiose gust of wind escaping the bottom of her sole attempted to push you back. Standing your ground, you prepared to jump atop her (momentarily) stationary foot. Using all the leg strength you could muster to do a running leap onto the shoe, you managed to get a hold on the white mammoth just before it lifted off of the ground once more.<br>\r\n<br>\r\nThe pearly surface you glued yourself onto moved wildly fast; with no sign of stopping its alternative motions, your eyes searched frantically for where the colossus was headed. It was a good thing you weren't motion sick, otherwise looking around would end a lot worse. Finally your vision settled on her destination: A green reclining chair, next to which was an ornate coffee table. Altogether it was quite quaint.<br>\r\n<br>\r\nSitting on the green sofa, the titaness let out a brief sigh. Whether from exhaustion or in relaxation, you hadn't a clue. Then a loud noise desecrated your hearing, only to be followed by an incredibly odd sensation. <br>\r\n<br>\r\n<font class=\"size3\" style=\"\"><b>KLANGK!</b></font><br>\r\n<br>\r\nAir rushed past you at an alarming speed. G-force acted violently against your miniature body, pushing you into the tongue of the loafer. Suddenly you lacked the foot at your back as you were sent skyward! Narrowly hitting the ceiling of the calm apartment before plummeting downward at a similar velocity, you tried to figure out what just happened. Wait... <i>SHE RECLINED!?</i> It seems that the angle at which you were launched was not 90 degrees, for you were now on a collision course with...</span></div></div>",
+            "created":1499147100,
+            "id":2346867,
+            "title":"High Flying, Bad Landing."
+        },
+        "131122":{
+            "author_id":"shadow321",
+            "author_name":"Ichigo",
+            "choices":[
+                "You are spit out onto her hand to examine. (Aware)",
+                "You are spit out onto the floor, miraculously surviving the fall",
+                "You are flung to the back of her throat and she instinctively swallows you."
+            ],
+            "content":"<div class=\"\"><div> <span>You saw the destination approaching at rapid speed. The giant girl had begun to yawn and her mouth lay right before you. Despite her outward appearance, her inner \"beauty\" was more terrifying to you then anything else.<br>\r\n<br>\r\nHer pristine white teeth that could crush you in a moment seemed to be much bigger than you thought. It was just now that your size truly sunk in. If only you could...your thoughts were cut off as you hit something.<br>\r\n<br>\r\nA squelching noise was heard and you felt the surface writhing underneath you. It was her tongue!<br>\r\n<br>\r\nMeanwhile the young girl swore she felt something on her tongue. Being in one of the most sensitive regions of her body it didn't take long for your presence to be noted. In her tired state however, she began to simply examine you, trying to ascertain what you were.<br>\r\n<br>\r\nThe tongue lurched forward and slammed you into the side of her mouth. Despite the muscle's slimy nature it was quite solid when it hit you. Her tongue maneuvered up and down your body, trying its best to determine your identity.<br>\r\n<br>\r\nYou had never really been into vore or anything, but feeling a giant tongue ruthlessly dominate you and have nothing you can do about it did make you feel....something.<br>\r\n<br>\r\n<b>\"What the heck is this?</b> Her voice rang out and from your perspective was so loud you couldn't even understand it.<br>\r\n<br>\r\nThe tongue seemed to have finished its tasting of you, as the pressure decreased. Suddenly, you felt yourself almost grabbed by it. You wondered what that meant for you as you were flung to your destination.<br>\r\n<br>\r\nBut where did you end up?</span></div></div>",
+            "created":1532098260,
+            "id":2522338,
+            "title":"The Taste of Success?"
+        },
+        "13113":{
+            "author_id":"shadow321",
+            "author_name":"Ichigo",
+            "content":"<div class=\"\"><div> <span>You froze. Was it the sheer size of the girl? Some kind of effect from whatever was used to shrunk you? Maybe the nature of The Tragedy and seeing something that could end your life so easily before you was the cause. Whatever the case, you found yourself unable to move.<br>\r\n<br>\r\nYou just stared at the girl as her feet approached. The white loafers caused a visible shake as they moved through the apartment. The girl got closer and closer to you as you just stared.<br>\r\n<br>\r\nA shadow fell over you as her foot was raised above the area you were standing. You could actually see up the skirt of her uniform at this angle. Yeah...this girl was definitely cute.<br>\r\n<br>\r\n<b>SLAM!</b><br>\r\n<br>\r\nThat thought entered your mind as the foot moved to its destination. The sole of her shoe slammed down onto your form and you couldn't do anything to stop it. The pressure was intense and you felt multiple ribs and bones shatter upon impact.<br>\r\n<br>\r\nYou coughed up a large amount of blood, but it couldn't go anywhere as the shoe took up your entire vision. You could see, despite the clear worn sole implying its long life of service the actual bottom of the shoe was remarkably clean.<br>\r\n<br>\r\nThis cleanliness would be your downfall however as you appeared to be stuck to the foot as it raised up again. You tried in vein to do anything about your situation but your body was broken and beyond repair.<br>\r\n<br>\r\nYou could only give one last pray as the foot came down again in her next step. The impact this time splattered your corpse outward, leaving just a big pool of guts and blood.<br>\r\n<br>\r\nUp above the girl let out a sigh as she sat down on the couch and looked out at her prison. <i>I really wish I had some company...</i><br>\r\n<br>\r\nAs she sat in despair at her loneliness, little did she realize that just by walking she had killed the only companion she could have had. You.</span></div></div>",
+            "created":1532098860,
+            "id":2522347,
+            "title":"Not the best outcome...."
+        },
+        "135":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Kanon Nakajima",
+                "Ayaka Haneyama",
+                "Fujiko Yamada"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You don't want those girls!? I'm legitimately surprised... They're popular characters... O-Okay, how about these girls?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263877,
+            "title":"More"
+        },
+        "14":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Future Arc",
+                "Despair Arc"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which arc do you want to be shrunk in? Future Arc or Despair Arc?</span></div></span></div>",
+            "created":1481432400,
+            "id":2248491,
+            "title":"Danganronpa 3: The End of Hope's Peak Academy"
+        },
+        "141":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Seiko Kimura",
+                "Chisa Yukizome",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which girls of the Future Arc do you want?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263908,
+            "title":"Future Arc"
+        },
+        "1411":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Pre-Tragedy Seiko",
+                "Future Arc Seiko"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want Pre-Tragedy Seiko or Future Arc Seiko?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263911,
+            "title":"Seiko Kimura"
+        },
+        "1412":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Pre-Tragedy Chisa",
+                "Future Arc Chisa",
+                "Hypnotized Chisa"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want Pre-Tragedy Chisa, Future Arc Chisa... or perhaps hypnotized Chisa?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263913,
+            "title":"Chisa Yukizome *HUGE SPOILERS FOR DR3*"
+        },
+        "1413":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Ruruka Ando",
+                "Miaya Gekkogahara"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last two: Ruruka Ando or Miaya Gekkogahara?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263909,
+            "title":"More"
+        },
+        "14131":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Pre-Tragedy Ruruka",
+                "Future Arc Ruruka"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pre-Tragedy Ruruka or Future Arc Ruruka?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263914,
+            "title":"Ruruka Ando"
+        },
+        "14132":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Real Miaya",
+                "Robot Miaya"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Real Miaya or Robot Miaya controlled by Monaca?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263916,
+            "title":"Miaya Gekkogahara *SPOILERS FOR DR3*"
+        },
+        "142":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Pre-Tragedy Sonia",
+                "Pre-Tragedy Ibuki",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of these girls do you want?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263919,
+            "title":"Despair Arc"
+        },
+        "1423":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Pre-Tragedy Akane",
+                "Pre-Tragedy Hiyoko",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these girls?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263921,
+            "title":"More"
+        },
+        "14233":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Pre-Tragedy Mahiru",
+                "Pre-Tragedy Peko",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Um... how about... er... those two?</span></div></span></div>",
+            "created":1484456400,
+            "id":2263922,
+            "title":"More"
+        },
+        "142333":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Pre-Tragedy Mikan",
+                "Natsumi Kuzuryu",
+                "Final Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, here's the last optio- Wait a minute... I found another girl!</span></div></span></div>",
+            "created":1484456400,
+            "id":2263925,
+            "title":"More"
+        },
+        "1423333":{
+            "author_id":"writerman123",
+            "author_name":"WMan",
+            "choices":[
+                "Sato"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, that's about all of the Despair Arc girls. ... Wait! I found one more girl!</span></div></span></div>",
+            "created":1484456400,
+            "id":2263928,
+            "title":"Final Girl"
+        }
+    },
+    "info":{
+        "author_id":"writerman123",
+        "author_name":"WMan",
+        "brief_description":"You get shrunk in Danganronpa! 200 GPs for each chapter!",
+        "created":1481440200,
+        "description":"<td align=\"left\" class=\"norm\">Alright, this is the first Danganronpa shrink story! Here are a couple of ground rules!<br>\r\n1. The girls have to be unaware at first, but you can have them be aware later on.<br>\r\n2. You may allow fetishes like foot fetish or vore, but no farting, scat, piss, shit, toilet, or anything like that.<br>\r\n3. The shrunken person cannot be given a name and you have to reference him in 2nd person. (YOU were aroused at the sight, YOU told her your name, ect.)<br>\r\n4. The shrunken person has to be YOU. Not Naegi, not Togami, YOU.<br>\r\n5. Absolutely NO male interaction. No M/M, have it always be M/F.<br>\r\n6. Keep the girls in-character. You are allowed to have them be OOC a little, but JUST a little.<br>\r\n7. You cannot have chapters with just one sentence. At least have more than one sentence.<br>\r\n<br>\r\nBut other than that... Enjoy!</td>",
+        "id":2105236,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1583926800,
+        "modified":1583926800,
+        "pretty_title":"Shrunk in Danganronpa"
+    }
+}

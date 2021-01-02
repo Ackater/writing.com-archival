@@ -1,0 +1,171 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"talonsaurn",
+            "author_name":"Talon",
+            "choices":[
+                "The well kept Estate to your north",
+                "Go through a manhole to the sewer system",
+                "wander off to look for a resturant",
+                "Try to Find a Gas station",
+                "(rebuilding)"
+            ],
+            "content":"<div class=\"\"><div> <span>Under massive reconstruction, what results will likeWly be quite difrent than was here before<br>\r\n<br>\r\nyou have been driving for hours, and seem lost, the air around you has a strange shimmering quality while you finally approach what seems to be civilization. As you pull into town your car gives out, out of gas. It looks as though your in a fairly modest neightborhood, buildings are big though. your car has stoped infront of the largest mansion you have seen in your life, or more accurately in front of the ajar gates to the estate<br>\r\n<br>\r\n<br>\r\nWhere do you go?</span></div></div>",
+            "created":1054861500,
+            "id":227148,
+            "title":"Adventure in a Strange Place"
+        },
+        "11":{
+            "author_id":"talonsaurn",
+            "author_name":"Talon",
+            "choices":[
+                "go to the Garage",
+                "slide in the front door.",
+                "Walk Around back to see if there is another way in",
+                "Try to climb a drainage pipe and sneak in floor 2",
+                "go into the cellar"
+            ],
+            "content":"<div class=\"\"><div> <span>You slide in past the open gates to look at the fancy digs. This place is impressive, the structure seems to go on for ever, and four floors high. you have a half mile walk even to the front door, the 15 foot tall front door is impressive, you can barely reach the knocker. The door is slightly ajar, strange for sure. The rest of the place looks almost normal, if a hundred years out of date. Some of the wood is rotting a bit too..<br>\r\nLooking around you see a Garage isn't to far away, you see that the front is open and a car was left halfway out, an SUV. On the other side of the front door you see what looks like an entrance to a stormcellar, a bar is holding it closed but you see no lock</span></div></div>",
+            "created":1101595260,
+            "id":227151,
+            "title":"Gateway to the estate"
+        },
+        "114":{
+            "author_id":"talonsaurn",
+            "author_name":"Talon",
+            "choices":[
+                "Climb into the bathroom",
+                "walk along the eves to another building"
+            ],
+            "content":"<div class=\"\"><div> <span>Looking around at the size of the place you get the impression the front door isn't a safe place, maybe you can sneak in and see whats happening first. Walking around a bit you decide that the drainpipe seems sturdy enough, actually, it's huge, you could even climb up the inside if you wanted but you have no idea whats in there so thats out. you slowly get your arms around the thick pipe and climb, step climb step climb, it takes a bit but soon your on the second floor looking in through an open window. apparently this is the bathroom... makes a bit of sense, your real happy you chose not to go on the inside though. it seems empty but you can't tell behind the curtains, you see the shower has frosted glass, the toilet seems safe, all in all it might be a good place to go in, but if your found there... there are eves and ledges you can walk around the house to find a better entrance.</span></div></div>",
+            "created":1104787800,
+            "id":230809,
+            "title":"Nimble aren't you"
+        },
+        "1142":{
+            "author_id":"talonsaurn",
+            "author_name":"Talon",
+            "choices":[
+                "Continue along the eves,",
+                "Go in, it looks freindly enough"
+            ],
+            "content":"<div class=\"\"><div> <span>You shimmy along the side of the building,its a fair drop down but your footing is secure, about 20 feet past the bathroom you find another window that is open, peering in you see that this one is occupied. Aparently a sitting room with a roaring fireplace. in a plush chair and dressed in \"Smoking\" atire is a big dragon morph, almost 50% bigger than you and probally at least 5 times your mass, he is warming his feet at the fireplace and seems to either not notice your peering in or not care.  It is an inviting room, if he owns this place he must br rich.... </span></div></div>",
+            "created":1104788880,
+            "id":230812,
+            "title":"Lets try another room"
+        },
+        "11421":{
+            "author_id":"talonsaurn",
+            "author_name":"Talon",
+            "choices":[
+                "Go on in here",
+                "Someone down on the ground below notices you"
+            ],
+            "content":"<div class=\"\"><div> <span>You move on along the side of the building, managing to do this without to much real effort now, its rather easy too. THe next room is a bedroom, built large and in the same fancy designs as the room before, it smells a bit of something you can't place. there weould at least be plenty of places to hide in here. The TV is still on, lowly showing a nature show to no audiance. As you keep looking you notice a few discarded beer cans too..</span></div></div>",
+            "created":1104789240,
+            "id":230813,
+            "title":"Next Room. :Bedroom"
+        },
+        "11422":{
+            "choices":[
+                "you fond a can on the floor and hide in it",
+                "Too late! he's seen you already"
+            ],
+            "content":"<div class=\"\"><div> <span>You go in, it looks friendly enough. You creep along the floor, you want to spy on this dragon and get a closer look. But, by accident you step on a squeaky floorboard. The dragon looks up and turn at the direction of the sound. Quickly do something...</span></div></div>",
+            "created":1122827160,
+            "id":264571,
+            "title":"A closer look"
+        },
+        "115":{
+            "author_id":"talonsaurn",
+            "author_name":"Talon",
+            "choices":[
+                "Search through the boxes on the ground",
+                "Go into a deeper room"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk over to the storceller and slide off the wooden bar without much trouble. Opening it up you smell a musty odor, as if this place hasn't been used in a while. Tenitivily you walk down the wooden stairs, they are surprisingly sturdy. Walking a bit further down you eventually end up in the cellar, its mostly natural looking walls, carved roughly rather than a properly laid foundation. Looking on the ground you notice that there are footprints in the dust, big footprints, fresh footprints. <br>\r\nThe celar seems to split off into a few smaller rooms but right here you notice what was once carefully stacked boxes seem to have been tossed around and knocked on the ground. nothing seems to have been broken though...</span></div></div>",
+            "created":1101862200,
+            "id":227565,
+            "title":"Cavernous cellar"
+        },
+        "12":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "A lion",
+                "A dragon",
+                "Nothing. Must've been your imagination..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to go down into the sewer. After descending the ladder, and walking through the sludge for a few paces, you hear a voice. You whip around to see...</span></div></span></div>",
+            "created":1452460680,
+            "id":2087286,
+            "title":"Go through a manhole to the sewer system"
+        },
+        "13":{
+            "author_id":"talonsaurn",
+            "author_name":"Talon",
+            "choices":[
+                "A pizza hut",
+                "A McDonnelds",
+                "A low class \"Shack\" sorta place that smells",
+                "a fancy resutant with a wolfman \"Greeter\"",
+                "Dumpster Diving is all you can do"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decided to look for a place to eat in this town, taking a walk down a propersous looking side street your surprised to see no one as you walk, must be a quiet time of day here, many of the resturants seem to be closed too, eventually you find...</span></div></span></div>",
+            "created":1104528000,
+            "id":230440,
+            "title":"Looking for eats"
+        },
+        "14":{
+            "author_id":"talonsaurn",
+            "author_name":"Talon",
+            "choices":[
+                "You reach the gas Station, its a real scummy place.",
+                "You see a giant otter standing in the road in front of another car..",
+                "Walking past a store your suddenly dragged in",
+                "After walking a few miles you give up try something else",
+                "(Adding later)"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided the best option would be to get your car started again so you can be on your way. Starting off you walk toward where you would guess it's most likely a gas station would be, the main drag. As you check your wallet and lock the car doors you start to walk. The town is a bit strange, you can't put your finger on it though. Its the little things. Stores seem oddly titled, names that could be read alot of difrent ways. Some even writen in strange ruins, some seeminly built with styles of 100's of years ago. you reach a small circle around a dragon fountain and follow off at a likely direction. the town isn't so modest, but it's still a strange place.</span></div></div>",
+            "created":1104516180,
+            "id":230438,
+            "title":"Looking for Gas"
+        },
+        "141":{
+            "author_id":"talonsaurn",
+            "author_name":"Talon",
+            "choices":[
+                "He's Working on someones car",
+                "He's reading a  \"magazine\""
+            ],
+            "content":"<div class=\"\"><div> <span>After a short walk you find out that this town is really a dump. Many of the buildings look abandoned and the storefronts broken into, you hope for better luck in getting fuel for you car... but don't<br>\r\nThe gas station is a mess..a half dozen rickety buildings, a old pump in the middle of a roundaboe. and the air of a explosion ready to happen. there is only one way in or out, and your standing at it, looking up you see the warped wooden signpost. The words \"Gary Gators Gas and Gulp\" Are written oin porly formed print, almost scratched on. Inside the little gas stop the smell is rather ripe, food wrapers tossed everywhere, junkfood mainly. You see the Garage proper, the little office, a small food shack, and a few other shacks you can't make out. THe apparent \"Owner\" of this junkheap of a establisment is a giant green alligator....</span></div></div>",
+            "created":1133457660,
+            "id":287025,
+            "title":"Gator Garage?"
+        },
+        "15":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "A rebuilt bowling alley after a terrible fire",
+                "A restaurant, rebuilt after a natural disaster"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else? </span></div></span></div>",
+            "created":1591483200,
+            "id":2847000,
+            "title":"(rebuilding)"
+        }
+    },
+    "info":{
+        "author_id":"talonsaurn",
+        "author_name":"Talon",
+        "brief_description":"At the Mercy Of A Macro beasts,it's satifaction and enjoyment, and eventual nurishment",
+        "created":1054861380,
+        "description":"<td align=\"left\" class=\"norm\">The story is simple, explore the world but watch out, there are many hungry creatures out there, will write up a descrip of the \"major\" characters involved. Pretty much anything goes(nothing \"naughty\" if there are youngesters though, really will be strict there\"<br>\r\n<br>\r\nSmuckers An impressive chunky blue dragon, currently in a anthro form and dressed in casual wear. Enjoys eating pretty much anything, stands 9'10 inches tall. \"Fairly\" normal character... though he has been having thoughts of expanding his diet<br>\r\n<br>\r\nLeon, A fat male lion, Standing at 18 feet tall he is an impressive creature. Currently wearing just wet swim trunks, he eats alot, and seems to have been well fed. Smells of hotdogs. Known for his tallents in the mystic arts.<br>\r\n<br>\r\n<br>\r\nCespool, Fat Gator who is currently a handyfur, wearing overalls and speaking with a southern accept he is pumping \"Gas\" a bit right now, which is a cover for his real buisness.. selling furs he has caught</td>",
+        "id":701173,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1591483200,
+        "modified":1591483200,
+        "pretty_title":"Wanderlust can Get you Eaten."
+    }
+}

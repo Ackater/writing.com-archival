@@ -1,0 +1,628 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Digimon Adventure (Season 1 and 2)",
+                "Digimon Tamers (Season 3)",
+                "Digimon Frontier (Season 4) and Digimon Data Squad (Season 5)",
+                "Digimon Fusion (Season 6)",
+                "Other Seasons (To be added only when a new series appears)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which series will we start with?</span></div></span></div>",
+            "created":1362459600,
+            "id":1544287,
+            "title":"Choose your season"
+        },
+        "11":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Kari Kamiya",
+                "Sora Takenouchi",
+                "Mimi Tachikawa",
+                "Yolei Inoue",
+                "More Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Since we've got an extensive cast of characters, let's start this off with the female cast.</span></div></span></div>",
+            "created":1362459600,
+            "id":1544289,
+            "title":"Digimon Adventure (Season 1 and 2)"
+        },
+        "111":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Season 1 Kari",
+                "Season 2 Kari",
+                "25 years later Kari"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Kari are we going with?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554129,
+            "title":"Kari Kamiya"
+        },
+        "1112":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Transform into other characters",
+                "Expanding part or all of her body",
+                "Other option."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What sort of change are we going with?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554137,
+            "title":"Season 2 Kari"
+        },
+        "11121":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Human",
+                "Digimon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of character are we going with?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554141,
+            "title":"Transform into other characters"
+        },
+        "111211":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she become a boy or a girl?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554146,
+            "title":"Human"
+        },
+        "111212":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Makes sense to me.",
+                "Let's go over our other options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if we turned her into a digimon from the Gatomon/Angewomon Line?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554145,
+            "title":"Digimon"
+        },
+        "1112122":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Oh, I like this option!",
+                "Let's not turn her evil."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about making her into LadyDevimon?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554148,
+            "title":"Let's go over our other options"
+        },
+        "11122":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Weight gain",
+                "Another"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's see what kind of expansions we can do first.</span></div></span></div>",
+            "created":1363669200,
+            "id":1554140,
+            "title":"Expanding part or all of her body"
+        },
+        "111221":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Hell yeah!",
+                "Aw, hell no!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she become a slob as she gets bigger</span></div></span></div>",
+            "created":1389627900,
+            "id":1726924,
+            "title":"Weight gain"
+        },
+        "111222":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Sure",
+                "No thanks"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about filling her up with something?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554142,
+            "title":"Inflation"
+        },
+        "1112222":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Yes Please!",
+                "No Way!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Make her a giant?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554144,
+            "title":"Giantess"
+        },
+        "11122222":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Yes sir!",
+                "No Ma'am!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Make her blue and round like Violet Beauregarde?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554147,
+            "title":"Blueberry Expansion"
+        },
+        "111222222":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "I'd like that",
+                "I wouldn't"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Make Kari pregnant with a baby?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554149,
+            "title":"Pregnancy?"
+        },
+        "1112222222":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "That's great to me",
+                "No thank you, bub."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if we just expand one part of her body?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554150,
+            "title":"Individual expansion"
+        },
+        "11123":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "I like this idea",
+                "There are many more venues to take this down"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's turn her into a stereotype of girl</span></div></span></div>",
+            "created":1363669200,
+            "id":1554153,
+            "title":"Girl Stereotypes"
+        },
+        "111231":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Sounds hot.  Let's do it",
+                "Dumb chicks aren't my thing"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A stereotypical dumb blonde bimbo?</span></div></span></div>",
+            "created":1363669200,
+            "id":1554154,
+            "title":"Bimbofication"
+        },
+        "1112312":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "That shit sounds hot!",
+                "That certainly does not!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Turn her into a nymphomanic stripper?</span></div></span></div>",
+            "created":1363755600,
+            "id":1554682,
+            "title":"Stripperfication"
+        },
+        "115":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Tai Kamiya",
+                "Matt Ishida",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's continue with the other male characters</span></div></span></div>",
+            "created":1362459600,
+            "id":1544295,
+            "title":"More Characters"
+        },
+        "1151":{
+            "author_id":"digijurer",
+            "author_name":"Digijurer",
+            "choices":[
+                "Transform him",
+                "Change his body in some way",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will happen to him?</span></div></span></div>",
+            "created":1477931580,
+            "id":2230880,
+            "title":"Tai Kamiya"
+        },
+        "11511":{
+            "author_id":"digijurer",
+            "author_name":"Digijurer",
+            "choices":[
+                "A girl",
+                "A digimon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Into what exactly?</span></div></span></div>",
+            "created":1496347800,
+            "id":2329224,
+            "title":"Transform him"
+        },
+        "115111":{
+            "author_id":"digijurer",
+            "author_name":"Digijurer",
+            "choices":[
+                "He gets captured",
+                "A different way"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does it happen?</span></div></span></div>",
+            "created":1519064880,
+            "id":2454690,
+            "title":"A girl"
+        },
+        "1151111":{
+            "author_id":"digijurer",
+            "author_name":"Digijurer",
+            "choices":[
+                "Myotismon",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>By who exactly?</span></div></span></div>",
+            "created":1519066740,
+            "id":2454699,
+            "title":"He gets captured"
+        },
+        "115112":{
+            "author_id":"digijurer",
+            "author_name":"Digijurer",
+            "choices":[
+                "Sure",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Bastemon?</span></div></span></div>",
+            "created":1496347800,
+            "id":2329225,
+            "title":"A digimon"
+        },
+        "1153":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "TK Takaishi",
+                "Izzy Izumi",
+                "More characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Moving on to more characters</span></div></span></div>",
+            "created":1362459600,
+            "id":1544296,
+            "title":"More"
+        },
+        "11533":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Yes.",
+                "No, more choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Davis?</span></div></span></div>",
+            "created":1362459600,
+            "id":1544297,
+            "title":"More characters"
+        },
+        "115332":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Alright, that works",
+                "No thanks, someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about Joe?</span></div></span></div>",
+            "created":1362459600,
+            "id":1544300,
+            "title":"No, more choices"
+        },
+        "1153322":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Ken?</span></div></span></div>",
+            "created":1362459600,
+            "id":1544301,
+            "title":"Ken"
+        },
+        "11533222":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Yes, Cody",
+                "No, more choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, Cody's the last one.</span></div></span></div>",
+            "created":1362459600,
+            "id":1544302,
+            "title":"No"
+        },
+        "115332222":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Humans",
+                "Digimon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>From here, you can pick Season 1 &amp; 2 humans or Digimon to go through changes.</span></div></span></div>",
+            "created":1362459600,
+            "id":1544304,
+            "title":"No, more choices"
+        },
+        "1153322222":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Agumon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which digimon will it be?</span></div></span></div>",
+            "created":1457405700,
+            "id":2114426,
+            "title":"Digimon"
+        },
+        "11533222222":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Gatomon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which digimon will it be?</span></div></span></div>",
+            "created":1457405880,
+            "id":2114428,
+            "title":"Gatomon?"
+        },
+        "12":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Takato",
+                "Henry",
+                "Rika",
+                "Ryo",
+                "Other characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, let's start off with the human cast</span></div></span></div>",
+            "created":1362459600,
+            "id":1544290,
+            "title":"Digimon Tamers (Season 3)"
+        },
+        "121":{
+            "author_id":"digijurer",
+            "author_name":"Digijurer",
+            "choices":[
+                "Change into a different character",
+                "Turn him into a girly stereotype",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What do you want to do want to do him?</span></div></span></div>",
+            "created":1510009440,
+            "id":2411939,
+            "title":"Takato"
+        },
+        "1212":{
+            "author_id":"digijurer",
+            "author_name":"Digijurer",
+            "choices":[
+                "Girly Princess",
+                "Bimbo",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What sort of stereotype were you thinking?</span></div></span></div>",
+            "created":1510009740,
+            "id":2411944,
+            "title":"Turn him into a girly stereotype"
+        },
+        "12121":{
+            "author_id":"digijurer",
+            "author_name":"Digijurer",
+            "choices":[
+                "The transformation is quick",
+                "The transformation takes some time"
+            ],
+            "content":"<div class=\"\"><div> <span><span style=\"line-height:2.0;\">Takato took a deep breath.<br>\r\nWhile he wasn't entirely sure how exactly he had gotten his hands on the card in question yet, he didn't care.<br>\r\n\"Ready to do this, bud?\" he inquired and watched his partner give a nod, sliding the card through his D-Arc after...</span></span></div></div>",
+            "created":1510011420,
+            "id":2411953,
+            "title":"The Princess Card"
+        },
+        "123":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Transform into a character",
+                "Expansion of the body",
+                "Other options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's see what kind of changes we can induce</span></div></span></div>",
+            "created":1363755600,
+            "id":1554683,
+            "title":"Rika"
+        },
+        "1231":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Human",
+                "Digimon",
+                "D-Reaper Minion"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's see, what kind of character?</span></div></span></div>",
+            "created":1363755600,
+            "id":1554687,
+            "title":"Transform into a character"
+        },
+        "12311":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Sure, why not?",
+                "Nope, let's find someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if we had Rika turn into her model of a mother?</span></div></span></div>",
+            "created":1367125200,
+            "id":1580247,
+            "title":"Rumiko Nonaka"
+        },
+        "1233":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Age progression/regression",
+                "Turn into a girly stereotype",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More transformation choices.</span></div></span></div>",
+            "created":1363755600,
+            "id":1554690,
+            "title":"Other options"
+        },
+        "12331":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Age Progression (She gets older)",
+                "Age Regression (She gets younger)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, which one?</span></div></span></div>",
+            "created":1373072400,
+            "id":1623214,
+            "title":"Age progression/regression"
+        },
+        "12332":{
+            "author_id":"jstein",
+            "author_name":"JStein",
+            "choices":[
+                "Bimbo",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, but what kind of girly stereotype does the Digimon Queen turn into?</span></div></span></div>",
+            "created":1372309200,
+            "id":1618731,
+            "title":"Turn into a girly stereotype"
+        },
+        "123321":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Rika swipes a mysterious pink card in her Digivice",
+                "Other method"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, but how does she become a bimbo?</span></div></span></div>",
+            "created":1372365660,
+            "id":1618778,
+            "title":"Bimbo"
+        },
+        "123322":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Sure",
+                "Something else, if you don't mind"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She could turn into one of those snotty cheerleaders you see in high school</span></div></span></div>",
+            "created":1372459500,
+            "id":1619392,
+            "title":"Alpha Bitch"
+        },
+        "1233222":{
+            "author_id":"digijurer",
+            "author_name":"Digijurer",
+            "choices":[
+                "Sure",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe she becomes a princess?</span></div></span></div>",
+            "created":1519588200,
+            "id":2457574,
+            "title":"Princess"
+        },
+        "125":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Kazu",
+                "Kenta",
+                "More Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about those two guys?</span></div></span></div>",
+            "created":1362459600,
+            "id":1544291,
+            "title":"Other characters"
+        },
+        "1253":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Suzie",
+                "Jeri",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Two more main humans left.</span></div></span></div>",
+            "created":1362459600,
+            "id":1544292,
+            "title":"More Characters"
+        },
+        "12533":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Human Characters",
+                "Digimon Characters."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>From this path, you can choose whether you want to change a human or a digimon</span></div></span></div>",
+            "created":1362459600,
+            "id":1544293,
+            "title":"Others"
+        },
+        "13":{
+            "author_id":"windgarden",
+            "author_name":"WindGarden",
+            "choices":[
+                "Season 4 main characters",
+                "Season 4 Digimon",
+                "Season 5 main characters",
+                "Season 5 digimon",
+                "Other categories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So let's get through this.</span></div></span></div>",
+            "created":1362459600,
+            "id":1544298,
+            "title":"Digimon Frontier (Season 4) and Digimon Data Sq..."
+        }
+    },
+    "info":{
+        "author_id":"windgarden",
+        "author_name":"WindGarden",
+        "brief_description":"The cast from Digimon find themselves going through different transformations",
+        "created":1362505800,
+        "description":"<td align=\"left\" class=\"norm\">In here, various Digimon characters find themselves going through different transformations.  Here's the main rules:<br>\r\n<br>\r\n1. No threads about diapers, gore or wetting/crapping oneself.  They will be deleted immediately<br>\r\n2. Threads must heave enough room for someone else to pick up.  No endings unless they are approved.<br>\r\n3. Choice threads are fine until you've chosen a character and how they'll transform.  The order of this will be first pick a character, then pick how they'll change.  Once you've started a story about how a character changes, you have to make entries that are at least 1 paragraph long<br>\r\n4. If you have them turn into someone else, keep it limited to characters that appear in Digimon.  For example, having Kari Kamiya turn into LadyDevimon is all fine and good, but turning her into Maleficent from Sleeing Beauty is not.<br>\r\n<br>\r\nOtherwise, be creative and get busy writing folks!</td>",
+        "id":1922465,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1519588200,
+        "modified":1519588200,
+        "pretty_title":"Digimon TF stories"
+    }
+}

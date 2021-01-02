@@ -1,0 +1,612 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "The Republic",
+                "The Confederacy",
+                "The Jedi Order",
+                "The order of the Sith",
+                "Anything that you wish to add, but isn't included above"
+            ],
+            "content":"<div class=\"\"><div> <span>The galaxy is embraced by the turmoil of the Clone Wars. In the midst of the widespread conflict that keeps the galaxy in its iron grip, there is an island of peace, order and calmth called the Jedi Order. With the help of the Jedi, who function as generals in the Grand Army of the Republic (GAR), the clone troopers struggle to repel the mechanical menace of the Confederacy of Independent solar Systems (CIS) and it's endless legions of battle droids. There is also a secret order that operates in the background, and is rumored to consist of former Jedi who have abandoned the Order's beliefs. This order is called the Sith. There are, as the rumors say, only two of these so-called Dark Jedi, but they are rumored to be very powerful. <br>\r\n<br>\r\nWhat side are you on?</span></div></div>",
+            "created":1221195600,
+            "id":581198,
+            "title":"Choosing sides"
+        },
+        "11":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "Supreme Chancellor ",
+                "A Senator",
+                "A clone trooper",
+                "A Senate/ Imperial Guard",
+                "Add anything you would like to see here"
+            ],
+            "content":"<div class=\"\"><div> <span>So, you are a servant of righteousness and justice, also known as the Galactic Republic.<br>\r\nBut who are you? Are you the person known as the Supreme Chancellor? Are you one of the Senators in the Galactic Senate? Or maybe a clone trooper (any rank)? You could also choose to be a Senate Guard/ Imperial Guard, that gives its very best to protect the highest ranking person in the Republic against harm.<br>\r\nOr you could simply add a position that you feel is belonging in this row, but wasn't added. Your choice!</span></div></div>",
+            "created":1221454800,
+            "id":599354,
+            "title":"The Republic"
+        },
+        "112":{
+            "author_id":"derekthedalek",
+            "author_name":"Derek the Dalek",
+            "choices":[
+                "Padme Amadala",
+                "Bail Organa",
+                "Other Republic Senator"
+            ],
+            "content":"<div class=\"\"><div> <span>So you are a member of the Galactic Senate, representing your world in the Daily Politics and struggles which have arrisen from the outbreak of war which threaten to destroy the good work the Republic has striven for over the centuries. But which Senator are you?<br>\r\n<br>\r\nAre you Senator Padme Amadala, represenative of Naboo and its former Queen - one of the most critical supporters in structured democracy for the Republic, and in secret the wife of Jedi Warrior Anakin Skywalker?<br>\r\n<br>\r\nOr perhaps you are Bail Organa, Senator of Alderaan, also committed to ensuring peace for the galaxy, and somewhat wary as with several other senators of the increasing powers the Supreme Chancellor holds over the Republic and its armies?<br>\r\n<br>\r\nOr are you an unknown Republic Senator of your creation?</span></div></div>",
+            "created":1251694800,
+            "id":753405,
+            "title":"Senators of the Republic"
+        },
+        "113":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "Yellow or Red (higher ranks, DC-15A/DC-15S)",
+                "Blue or Green (higher ranks, DC-15A/DC-15S)",
+                "White or special (normal or ARC, DC-15A/DC-15S/Westar M5)"
+            ],
+            "content":"<div class=\"\"><div> <span>You are TL-4476, a clone trooper who has just completed his ten years of accelerated growth and was now a fully grown man with a lifetime of training behind him. You sit in <br>\r\nthe dinner hall, eating your high nutrition meal, after which you go to the armory. In the armory you pick up your armor, which is, like the armor of all other clones, Phase 1 armor. You also get your equipment belt, and you check whether it contains everything necessary, which it does. You then put on your armor, and proceed to the helmet storage, and you pick up your helmet. As you head for the weaponry part of the armory, you look at the color of your armor, and you know that you will use this armor to the best of your capacities to serve the Republic. What is the color of the highlights on your armor (this influences the weapon choice) ?</span></div></div>",
+            "created":1221454800,
+            "id":582610,
+            "title":"A clone trooper"
+        },
+        "1132":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "Blue (makes you a lieutenant)",
+                "Green (makes you a sergeant)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What color are your highlights? </span></div></span></div>",
+            "created":1224824400,
+            "id":599363,
+            "title":"Blue or Green (higher ranks, DC-15A/DC-15S)"
+        },
+        "11321":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "I'm a member of the 501st, sir!",
+                "I'm a normal lieutenant, sir!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welcome, lieutenant. Are you a member of the 501st battalion, or are you in 'the regular army'?</span></div></span></div>",
+            "created":1224824400,
+            "id":599365,
+            "title":"Blue (makes you a lieutenant)"
+        },
+        "113211":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "You should head for the guns and take down the ships",
+                "You should be with the ground squad ready to beat back the invasion force"
+            ],
+            "content":"<div class=\"\"><div> <span>Your extra highlights are blue in color, signifying that you\u2019re a lieutenant of the highly skilled troopers called the 501st legion. You put your helmet on and head towards the armory. You pick up your large DC-15A rifle and load it. You walk towards your post when you hear an alarm. Suddenly, you hear Taun We's voice over the intercom.<br>\r\n<br>\r\n\"All troopers please listen up, we are under attack by the CIS! I want all available artillery troopers to report to the gunner's batteries to return fire. The rest of you will wait on the ground and will repel any droids that try to get into Tipoca City!\" said Taun We. You think for a moment about what you should do and decide that.........<br>\r\n </span></div></div>",
+            "created":1224824400,
+            "id":599368,
+            "title":"I'm a member of the 501st, sir!"
+        },
+        "1132112":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "The next morning.........",
+                "You are woken by the sound of an alarm (!)"
+            ],
+            "content":"<div class=\"\"><div> <span>You think for a moment about where you would be best suited to repel this invasion, then you decide that since you have had more training as an infantryman you should guard the Cloning Facility from the ground. You ran towards the Cloning Chambers to see a couple of your squadmates guarding the area. You nod to them and they nod back, then you all ran towards the entrance to see a couple of landers coming down on the landing platforms. You order the troopers with rockets to open fire on the landers. They fired their rockets at the landers successfully destroying three of them, but 2 more had already touched the ground and the droids came out of it. You ordered everyone to open fire on the droids, then you aimed your rifle at them as well, and you started firing at the droids successfully tearing through them. Then the droids started firing at you and your men. You and your men got down but some of them were torn to shreds by the blaster fire. Then you threw a grenade at them and watched as they were blown away. You smirked under helmet as you watched the anti-air cannons destroyed the rest of the droid's fleet. You looked down to your fallen brethren and ordered a medic to take them away, some of them were thankfully still alive and you went towards the barracks to get some sleep after what had happened. Once you reached the barracks you saw a Jedi with red skin and horns on her head, a Togruta, looking over the other troops. After a second you recognized her as Jedi Master Shaak Ti. You slowly walked towards her wondering why she was there.<br>\r\n<br>\r\n\"General Ti, what are you doing here?\" you asked, your voice being somewhat more intimidating with your helmet on. She then turned to you and smiled.<br>\r\n<br>\r\n\"Ah, lieutenant. Allow me to explain: the 501st has been placed under my control, so I came to check out my new troops\" said general Ti. You nodded, and went towards your bunk. You were about to fall asleep when you noticed general Ti had walked into the room.<br>\r\n<br>\r\n\"Do you mind if I share this room with you?\" she asked. You nodded and turned back to your original position. Meanwhile, Shaak Ti laid down on the bunk opposite to you and fell asleep right away. Because you were still her subordinate you didn\u2019t care to look at the body of the Jedi, and you decided to take your helmet off and get some shut eye...<br>\r\n<br>\r\n</span></div></div>",
+            "created":1224824400,
+            "id":599370,
+            "title":"You should be with the ground squad ready to be..."
+        },
+        "11321122":{
+            "choices":[
+                "General Skywalker (Anakin)",
+                "General Yoda"
+            ],
+            "content":"<div class=\"\"><div> <span>You felt pretty good at the moment, it was peacefull.  You were walking in the corridors of Kamino like always, after all ever since the end of the war, the clones were no longer needed.  Some of the clones were banished to the farthest reaches of the galaxy for trying to live with normal people.  The rest of the clones decided to stay on Kamino.  It was really the only place they were accepted as they were.  You didn't really care though, orders were orders after all.  Then you heard an alarm going off and you ran as fast as you could towards the command room, but no matter how far you ran it never seemed to get any closer.  Then when you just about got there, you saw a dark jedi killing some of your brothers, you grabbed one of the large DC-15 rifles from the rack on your right, and then you charged at the dark jedi.  You let loose with a flurry of blaster fire, the dark jedi wasn't fased in the least, infact, she just smiled as she blocked every shot with her dark lightsaber.  Then you ran out of ammo, you were nervous at the moment, but you stayed calm and activated your wrist blade.  Every clone trooper had a wrist blade, they just never liked to use it.  These wrist blades were strong enough to stand against a lightsaber though.  You charged at the dark jedi and blocked a slash from her lightsaber, then you tried to kick at her, but she blocked it and slashed at your arm.  It fell limply to the ground and you screamed trying to throw away the pain.  Then the dark jedi took off her hood revealing Shaak Ti smiling down at you as she stabbed you in the face with her lightsaber.  You woke up with a start as you took a quick look around noticing that you were still on  Kamino and in your bed.  You looked over to see Shaak Ti was still asleep and you sighed as you grabbed your head in your hands and just sat there.  Then just as you got up putting your helmet on, an alarm startd going off.  Shaak Ti woke up to the alarm as well.  Then you two made your way towards the command chamber.  When you got there you were surprised to see...</span></div></div>",
+            "created":1225429200,
+            "id":602179,
+            "title":"You are woken by the sound of an alarm (!)"
+        },
+        "113211222":{
+            "choices":[
+                "You are woken up by Shaak Ti...",
+                "You are woken up by another trooper...."
+            ],
+            "content":"<div class=\"\"><div> <span>The leader of the Jedi Council and the General of the Clone Army himself, General Yoda was right there in the command chamber.  Shaak Ti immediatley bowed to General Yoda as you saluted to him.  He told you both to be at ease and he explained the current situation that the droids were making desperate attacks against Kamino to try and destroy the clone army.  Under your helmet, you were fuming, those tin cans were trying to kill you and your brothers off just like that?  Shaak Ti nodded at General Yoda and she went to get ready to take off for one of the Separatist Systems.<br>\r\n<br>\r\n\"You and your men, go with her you must.\"  Ordered General Yoda, you saluted to him.<br>\r\n<br>\r\n\"Mission acknowledged sir!\"  You said to him and you got your men ready to take off with Shaak Ti.  As you and Shaak Ti got onto the large Republic Cruiser she stopped you for a moment.<br>\r\n<br>\r\n\"Why do you fight?\"  Asked Shaak Ti, you didn't even turn around as she asked that question and you checked your DC-15 to make sure it was loaded.<br>\r\n<br>\r\n\"It's our job general.  And it's all I know how to do.\"  You said in an emotionless voice.  Shaak Ti must have taken that as a sign to end the conversation because she didn't say another word after that.  You went to the barracks and decided to sleep until you got to the first planet under Separatist control, Mygeeto.  A couple of other troopers were talking about how Ki Adi Mundi would be there as well to help the 501st defeat the Separatists.  It didn't matter to you either way, Jedi or not, the Republic would win this war.  You were about to take your helmet off when you heard the door to the barracks open and Shaak Ti walked in.  You quickly stood up and saluted her, she put her hand up and you stood at ease and you sat back down on your bed.  When you took another look at her, you noticed she was nervous about something.  Now usually you wouldn't give a damn, but something told you this was related to the mission, and if even one soldier is off in the mission, everyone is off.<br>\r\n<br>\r\n\"Something wrong General?\"  You asked as you looked your blaster over again.  She just smiled and nodded.<br>\r\n<br>\r\n\"Yea I'm fine, just worried about the mission.  I'm worried about all of you.\"  She said, you stopped looking over your blaster as you thought about that, then you just shrugged.  She probably only cared because you were soldiers.<br>\r\n<br>\r\n\"Don't worry, it's what we were born to do.\"  You said to her, this only caused her to frown and she left the barracks.  You sighed to yourself as you took your helmet off and layed down on the bed.  Then you finally got to sleep..</span></div></div>",
+            "created":1236315600,
+            "id":656750,
+            "title":"Worried?"
+        },
+        "1132112221":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "She is very impressed.",
+                "She wants to go by her plan."
+            ],
+            "content":"<div class=\"\"><div> <span>You dreamed the same dream you usually experienced. The blindingly bright lights of the facility's, what else would you dream of, everything else was shown to you on \" Holo Gaftikal Channel Ten\". Your bland dreams were brought to a abrupt end when the sound of the frigates door opening brought you back to reality. Shaak Ti entering with a plate of food. \" Terribly sorry to wake you, any motivating visions?\" You stood up straight not fully understanding the importance of a random dream. \" I was watching the rain fall again, like most nights. She didn't respond, just looking up at you with a tinge of pity in her eye.<br>\r\n<br>\r\n     That was another thing that surprised you about the Jedi Master was her stature. You stood about a head taller then her ( not counting her crests). She seemed so regal and out of place in hellish battles. <br>\r\n<br>\r\n         Master Ti might have felt this as on que she motions to the table. \" Come sit, I thought we could coverse over strategy over a meal. Lt. Reegar\" You were confused by the use of the name. \" That is one condition of being under my command, I require more... individuality from you.\" You walk to the table. Yes mam.\"  She quickly pulled out her datapad and sat next to you. You looked over the compund schematics considering troop placement. <br>\r\n<br>\r\n        You currently had the control of a platoon, or four squads, your forces are shock troops , you would get as close to the facility as possible aboard gunships then fight your way through the facility allowing Shaak Ti to collec all the data she can before you perform the coup de grace by placing a large explosive device in the middle insuring no more droids will crawl out of the hole. <br>\r\n<br>\r\nHow dose Shaak Ti feel about the plan?</span></div></div>",
+            "created":1399442280,
+            "id":1792915,
+            "title":"You are woken up by Shaak Ti..."
+        },
+        "11321122211":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Captureing him would be a massive victory.",
+                "He doesn't deserve to walk out of this room."
+            ],
+            "content":"<div class=\"\"><div> <span>You braced yourself on the wall of the gunship, Shaak Ti sat in the seat near you looking slightly nervous. \" Oh how I dislike the drop.\" As if in unison with her complaint the chatter over the commlink goes silence as a loud click followed by the stomach turning plummet. As soon as the drop had ended you began briefing your troops until the pilot interrupt. \" Lieutenant, we are comming up on the facility. But it looks like a storm may striket the facility.\" You look out the slide door and instantly spot the storm. \"We'll be long gone before it arrives. Pull back to a safe distance after drop off. Don't even give' em the tail lights.\" The storm was an unseen complication, but shouldn't be a problem. \" Yes sir.\" <br>\r\n<br>\r\n     The craft was immediately spotted by the mass of droids on the platform. The gunners made short work of them as the pilot fired a torpedo at the side wall blowing away the wall and a large group of droids inside. The gunship landed and you led the charge into the facility, blaster firing. As you breached the wall Shaak Ti was keeping pace with you the whole way as your men draw the attention of the droids, eviscerating the unprepared uncaring forces, a single squad acompanying you. <br>\r\n<br>\r\n   You watched as Shak Ti engaging a few droids, she moved with such grace. Her fighting resembled an elegant dance more than a fight as her body moved like water, her lightsaber was part of her. <br>\r\n<br>\r\n      You eventually reach the locked door of the facility overseer. \" Men, commence a door breach.\" Your men took position as you prepared a concussion grenade as the charge easily punched through. You tossed the grenade then followed after. You see an impared Geonosian next to the door struggling to point a blaster pistol at you. You grab its arm and throw flip him to the ground before taking his blaster and pointing it at him. \" Lt. Reegar, wait! He's the director.\"<br>\r\n<br>\r\nIt's up to you, do you spare him?</span></div></div>",
+            "created":1399478760,
+            "id":1793002,
+            "title":"She is very impressed."
+        },
+        "113211222111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "You stay in the 501st.",
+                "You are accepted into an advanced program."
+            ],
+            "content":"<div class=\"\"><div> <span>You hand the blaster to a nearby trooper before hauling the unconscious Geonosian to its knees. You heard the Jedi Master sigh in relief before her lightsaber extinguished. \" I feared you would kill him.\" You stood straight \" Do you really think he deserves mercy after all the deaths he's caused?\" She gave you a look of understanding \" I stopped you for your own sake, not his.\"<br>\r\n<br>\r\n           You set the long explosive device on the ground before punching in the activation code. \" Sargent, status report.\" Their was a disturbance due to the storm. \" Were holding sir. No deaths yet, the injured should make it if we get help soon.\" You breathed a sigh of relief, first commanded mission and no deaths. Sure the injuries could be bad enough to take them out of the fight, but they could transfer to something like Firefighter brigades.<br>\r\n<br>\r\n         The bombs display showed on your helmet's hud. The troops double timed it back to the landing zone as you carried the Geonosian following closely behind her. You secured the alien in the gunship before taking off. You checked the timer displaying ten seconds in red. \" Gun it!\" On que the thrusters roared as the facility was obliterated in the distance.<br>\r\n<br>\r\n      You sat next to Councilor Ti. You pull your helmet off before tossing it to the ground. A good start to your career.<br>\r\n<br>\r\n        Your being premoted, but to what is up to you.</span></div></div>",
+            "created":1399513260,
+            "id":1793190,
+            "title":"Captureing him would be a massive victory."
+        },
+        "1132112221111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Felucia...\"",
+                "Tatooine.\""
+            ],
+            "content":"<div class=\"\"><div> <span>You stare at your new armor you had chosen. You took Shaak Ti's advise about individuality, your now had a viewfinde on your helmet, a pauldron, and a kama. The pauldron baring a tattoo-like Republic emblem. \" This armor suits you. We have gained information about where a nearby Separatist officials will be inspecting for tactical troop placement. We will infiltrate the planet alongside your fellow troops to capture the officials. The planet is\" </span></div></div>",
+            "created":1399522080,
+            "id":1793261,
+            "title":"You stay in the 501st."
+        },
+        "11321122211111":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "She's still unconscious.",
+                "She's disappeared."
+            ],
+            "content":"<div class=\"\"><div> <span>Shaak Ti's words hung like a fog of war. \" The operation will commence tomorrow morning, planet time. I will be preparing, have no fear we will prevale.\" With that she sat on her bunk cross legged in battle meditation, you however just slept. <br>\r\n<br>\r\n        You stare out the gunships window at the other gunships flying in formation. There were six in total with another Jedi, master Daakman Barrek. Suddenly you sall one gunship take a direct hit from an anti-air round completely destroying the unlucky. The pilot came over the intercom telling the crew to hold on. You felt the craft go through evasive manoeuvres as a blast ripped through the right wing taking the unfortunate ball gunner with it. \" Damn we're loosing altitude, brace for impact!\" You felt a hand on your shoulder before your head struck the back wall. <br>\r\n<br>\r\n      You regained consciousness to the sound of an Acklay. Your instincts force you into consciousness. You open your eyes to see your helmet currently attempting to repair a gash in your visor. You look up to see the wreckage of the gunship. You try to move noticing your leg is trapped under a piece of metal. <br>\r\n<br>\r\n       As you try to free it the Acklay you heard prior had found the crash site... and you. Its piercing reptile-like eyes lock on you. You look for a weapon, anything you could see. Luckily a deceased trooper holding a shotgun was lieing next to you. You came close to dislocateing your shoulder as you manage to grab the weapon only to see a spiderlike appendage next to you.<br>\r\n<br>\r\n        You turn off the safety and fire at the leg severing it causing the beast to fall. It shrieked in pain as it fell onto its back as you fire point-blank at its head effectively ending it's pain.<br>\r\n<br>\r\n        You slowly push the wreckage off your leg. You then remember Shaak Ti and limp over to the crash site.<br>\r\n<br>\r\nIs she there, or missing?</span></div></div>",
+            "created":1399671360,
+            "id":1793980,
+            "title":"Felucia...\""
+        },
+        "1133":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "Normal trooper (DC-15A+DC15S)",
+                "ARC Trooper (Westar M5)",
+                "Arc trooper (twin DC-17 hand pistols in tandem with a DC-15A)"
+            ],
+            "content":"<div class=\"\"><div> <span>Will TL-4476 be a normal trooper or an Arc Trooper?<br>\r\n<br>\r\nArc Troopers receive either the DC-15S carbine, or the Westar M5 blaster rifle. The fact that I favor the M5 (due to Arc Trooper Alpha's usage of the weapon) leads to the decision that the Arcs use this weapon in this story.</span></div></div>",
+            "created":1221454800,
+            "id":582627,
+            "title":"White or special (normal or ARC, DC-15A/DC-15S/..."
+        },
+        "11332":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "\"Warning! Tipoca City is under attack! This is not an excercise!\"",
+                "\"All units of the Third Fleet Commando Brigades go to your ships!\""
+            ],
+            "content":"<div class=\"\"><div> <span>You walk towards the weapon storage, meanwhile putting on your kama and pauldron. You also fit an electroshock device to your right arm comms set, and you activate the targeting system situated in the antenna-like device on the side of your helmet. Your helmet, like the rest of your upper body, is decorated with a light blue paint, denoting your status as one of the Jango Fett-trained Arc's. When you arive at the storage, you punch in your code, and report to the officer behind the desk. \"Arc Trooper TL-4476 reporting, Sir\", you say. \"Ah, TL-4476, you are the last on my list who doesn't have his service weapon yet\", the officer says, after which he hands you the weapon with the words<br>\r\n\"well then, here you go. The Westar M5 Commando Blaster rifle. It has a nice rate of fire and a large clip\". You nod, and taking your weapon from the officer's hands, you shoulder it, salute the officer, and walk to your bunk. When you arrive there, you hear a voice over the intercom saying: </span></div></div>",
+            "created":1221454800,
+            "id":583651,
+            "title":"ARC Trooper (Westar M5)"
+        },
+        "113321":{
+            "choices":[
+                "You man the comms station",
+                "You man the holo-map (you're a tactical commander)"
+            ],
+            "content":"<div class=\"\"><div> <span>Being an ARC trooper, the best of the best, you immediately respond, and you head for the nearest exit,  meeting up with the other ARC on duty here. You proceed to the central hall, where you meet the Jedi general who's in charge now, Master Tai-Fen-Ral.  You salute the general, and quickly ask for your orders.  He replies to you (using your trooper nick-name, Rigger), telling you to take the other ARC, Seth with you to the command center. He also wants you to be prepared for a new mission if your help is needed. You reply with a quick nod, then you signal to your comrade to come with you to the command center, and you run towards your goal.</span></div></div>",
+            "created":1221714000,
+            "id":586574,
+            "title":"\"Warning! Tipoca City is under attack! This..."
+        },
+        "1133212":{
+            "choices":[
+                "The unit.",
+                "Yourself."
+            ],
+            "content":"<div class=\"\"><div> <span>Looking at the holo map, the trooper here gives you a quick overview of what's going on.  \"The CIS has broken in to the defenses to the north.  They have Hailfire droids, and a few armored tanks.\"  \"You've done good so far.\"  You reply.  Seth, over at communications tells you about a new development.  \"They've got up one cannon, and we will need to take it out if we are to defend Tipoka City.\"  You think about this and look to see your resources. You can spare either one unit of clones, or send in your self.  </span></div></div>",
+            "created":1221973200,
+            "id":648875,
+            "title":"You man the holo-map (tactical commander)"
+        },
+        "12":{
+            "author_id":"derekthedalek",
+            "author_name":"Derek the Dalek",
+            "choices":[
+                "CIS Council Member",
+                "Droid Commander",
+                "Battle Droid",
+                "Geonosian",
+                "Other Options"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a member of the Confederacy of Independent Systems, also known as the Seperatists. Comprised of such organisations as the Trade Federation and the Techno Union you and your  party believe that the Galactic Republic has become tired and corrupted and a new order must be made to take over in the Galaxy. You are not inherently evil, though the Republic claims you all to be murderers and disrupters of the peace, and you are mostly unaware save for the most powerful in your ranks that your group has been infiltrated by the Dark Lords of the Sith...<br>\r\n<br>\r\nSo who are you? One of the key members of the CIS Council? Ruthless Droid Commander of the Separatist Armies? A powerful Battle Droid programmed to battle the enemies of the Confederacy? Perhaps a Geonosian, a bat-like short creature who has lost its world to the Republic and is determined to get it back as a loyal survivor of the intial battle of the Clone Wars?<br>\r\n<br>\r\nOr you could be some other CIS loyal warrior not as yet mentioned which you feel deserves a spot here?</span></div></div>",
+            "created":1251694800,
+            "id":753369,
+            "title":"The Confederacy"
+        },
+        "13":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "Yoda",
+                "Mace Windu",
+                "Bultar Swan",
+                "Another male Jedi not listed above",
+                "Another female Jedi not listed above"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a Jedi. You have been raised by the Jedi Order ever since you were born, and you have never known your original parents. Instead, you consider the order your family, and the Jedi have accepted you as well. You have been trained in the art of lightsaber combat and you have also been educated about the ways of the force. You wear Jedi robes, that symbolise the devotion of the order to helping the simplest beings in the Galaxy as well as helping the richest. You are a pure and noble soul, and you firmly believe that the Jedi Order's cause is the right one. But first, who are you?</span></div></div>",
+            "created":1222059600,
+            "id":585835,
+            "title":"The Jedi Order"
+        },
+        "134":{
+            "choices":[
+                "Blue ",
+                "Green"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a Jedi Knight named Daken, trained by the force by your master Ty-Mane.<br>\r\nNow what color is your lightsaber </span></div></span></div>",
+            "created":1251608400,
+            "id":752786,
+            "title":"Another male Jedi not listed above"
+        },
+        "1341":{
+            "choices":[
+                "1 bladed hilt",
+                "double bladed hilt",
+                "staff hilt"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what kind of hilt do you have</span></div></span></div>",
+            "created":1251608400,
+            "id":752787,
+            "title":"Blue "
+        },
+        "13411":{
+            "choices":[
+                "its you master Ty-Mane",
+                "Its yoda"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you are heading to the Jedi Archive room until you hear some calling you <br>\r\n</span></div></span></div>",
+            "created":1251608400,
+            "id":752794,
+            "title":"1 bladed hilt"
+        },
+        "134111":{
+            "choices":[
+                "Valiant-class Republic Star Destroyer that is 3,500 meters long",
+                "Venator-class Republic Star Destroyer that is 1,137 meters long"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Daken\" Ty-mane calls to you, \"Yes Master\" you respond \"Come to the Jedi coucil we have a mision for you\".<br>\r\nYou and Master Ty-mane walk to the Jedi Coucil room and begin the mission briefing. <br>\r\n\"Glad to see, I am\" Yoda spoke \"Master Yoda what Mission do you have for me\" you said<br>\r\n\"Invade the planet Dianar you must, Lead the 501st and Aid the Dianarians you must\" yoda explained<br>\r\n\"It will be done my Master\" you bowed to yoda and walk right out of the Jedi council room<br>\r\n\"I guess this is the part Where we say good bye\" Ty-mane said<br>\r\n\"I Guess so then\" you replied \"Then take of yourself and Don't Destroy another one of your fighters\" Ty-mane said<br>\r\n\"I won't master\" you said waving you get your silver r2 series droid named \"silver\" and head for you flagship the \"Retribution\".<br>\r\nYou are leading the 10th fleet which is containing<br>\r\n38 Valiant-class Star Destoyers<br>\r\n50 Venator-class Star Destroyers<br>\r\n50 Acclamator-class Star Destroyers<br>\r\nnow which ship is the Retribution?</span></div></div>",
+            "created":1251608400,
+            "id":752805,
+            "title":"its you master Ty-Mane"
+        },
+        "1341111":{
+            "choices":[
+                "A Clone Assassin named Dodges",
+                "An ARF Trooper named Blindspot"
+            ],
+            "content":"<div class=\"\"><div> <span>The Retribution is a Massive Valiant-class Star Destroyer capable of taking on any warship including the Confederacy Lucrehulk Battleships<br>\r\nYou land your Black Intercepter into it's Docking Bay.You step out of the cockpit and walked to the bridge you meet a young female Admiral named Lunmera \"Greetings Admiral\" you say \"Greetings General\" the Admiral said back \"Are we ready to go\" you ask \"just loading up some more troops and we'll be on our way\" the Admiral said \"do we know what the Seperatists are planning\" you asked \"Why don't you tell me sir\" said a voice coming from a door<br>\r\n</span></div></div>",
+            "created":1251608400,
+            "id":752823,
+            "title":"Valiant-class Republic Star Destroyer that is 3..."
+        },
+        "13411111":{
+            "choices":[
+                "An LAAT with a picture of a Cute Twi'lek slave dancer(you engage on ground)",
+                "Your Black Jedi Interceptor along with silver(You engage in Space)"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Dodges nice to see you, how was your spying\" \"Clankers being dumb as always\" \"Okay, So what are you here to report\" You ask \"It appears sir that the Confederacy is making a new kind of battle droid, a B4 series maybe\" \"Good Work, go get some rest until the battle starts \" \"Yes Sir\" Dodges salutes you and goes to his qaurters. \"Is the fleet ready for Hyperspace\" you asked \"Yes, Counting 5,4,3,2,1\" The 10th fleet goes to hyperspace.Your Fleet emerges from hyperspace and Engages the Confederate fleet containing 22 Lucrehulk Battleships, 40 Recusant Destroyers, and 60 Munificent Frigates you enter...</span></div></div>",
+            "created":1251608400,
+            "id":752831,
+            "title":"A Clone Assassin named Dodges"
+        },
+        "134111111":{
+            "choices":[
+                "use the force to stop the missle",
+                "jump out from your gunship"
+            ],
+            "content":"<div class=\"\"><div> <span>You Take off out of the Retribution's docking bay (along with many other LAATs) and engage in the ground.Many Hailfire Droids fire Volleys of missles destroying many gunships.But The Gunships use their 4 powerful laser turrets to polverise the droids.1 missle is heading right towards you</span></div></div>",
+            "created":1251608400,
+            "id":753100,
+            "title":"An LAAT with a picture of a Cute Twi'lek sl..."
+        },
+        "1341111112":{
+            "choices":[
+                "continue"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You jump out of your gunship and land on a spiral building.You watch as your gunship gets blown up to debris.<br>\r\nyou enter the building and proceed with the mission.</span></div></span></div>",
+            "created":1251694800,
+            "id":753265,
+            "title":"jump out from your gunship"
+        },
+        "135":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "Aayla Secura",
+                "Master Fay",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, a female Jedi you are? Which one, then?</span></div></span></div>",
+            "created":1234933200,
+            "id":648876,
+            "title":"Another female Jedi not listed above"
+        },
+        "1353":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "Shaak Ti",
+                "Maris Brood",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Still havent made up your mind, you have?</span></div></span></div>",
+            "created":1234933200,
+            "id":648880,
+            "title":"Other"
+        },
+        "13533":{
+            "author_id":"morfindel",
+            "author_name":"Fiona Hassan",
+            "choices":[
+                "get up and go to find the commander she'll be working with",
+                "contact her master to tell him the good news"
+            ],
+            "content":"<div class=\"\"><div> <span>Jedi Master Kana Riolt was awakened by her comlink beeping. She reached for the com and answered it. \"Yes?\"<br>\r\n<br>\r\n\"Master Riolt, this is Mace Windu,\" came the voice.<br>\r\n<br>\r\n\"Oh! Good morning, Master Windu,\" she exclaimed, suddenly wide-awake.<br>\r\n<br>\r\n\"Did I wake you up? I'm sorry,\" apologized the older Jedi. <br>\r\n<br>\r\n\"Ah... yes...\" she mumbled, unsure of what to say. \"It doesn't matter, Master: I should have been up anyway. Do you have an assignment for me at last?\" asked the young Jedi hopefully. Many Jedi had been sent out since the beginning of the Clone War, but she had yet to be given a mission. Her last one had been almost six months ago, before the start of the war.<br>\r\n<br>\r\n\"Yes, I do, as a matter of fact,\" Windu told her. \"I need you to go to Andakor in the Diraniaan system. There has been a Separatist rising there that must be suppressed before it spreads to the surrounding worlds of the system. Take a detachment of clones and go there. We cannot afford to lose that system to the Separatists.\"<br>\r\n<br>\r\n\"Are there many worlds in that system?\" she asked, curious.<br>\r\n<br>\r\n\"Yes, there are,\" he answered. \"Now, if you will excuse me, I have something that needs seeing to. Contact us if there is any trouble.\"<br>\r\n<br>\r\n\"Yes, Master,\" she said, turning off the comlink.<br>\r\n<br>\r\nAt last she had a mission.<br>\r\n<br>\r\nShe would not fail. Not like last time.</span></div></div>",
+            "created":1277701200,
+            "id":908162,
+            "title":"A New Assignment"
+        },
+        "14":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "Darth Maul",
+                "Darth Tyranus",
+                "Anakin Skywalker/Darth Vader",
+                "Darth Sidious",
+                "Other (a Sith you make up yourself, perhaps?)"
+            ],
+            "content":"<div class=\"\"><div> <span>You are Force-sensitive, and you have been introduced to the power of the Dark Side at a young age. You remember nothing of your original parents, but you remember your mentor Darth ............ who showed you the way to true power. He showed you that the Jedi are weak and should be exterminated. You don't share their weak and cowardous Jedi Code, especially the part that says you aren't allowed to use your anger and hate to strengthen yourself because it corrupts you. You see it as just another bit of proof of the fact that your master is right. But first of all, who are you?</span></div></div>",
+            "created":1222232400,
+            "id":586651,
+            "title":"The order of the Sith"
+        },
+        "141":{
+            "choices":[
+                "The outskirts ",
+                "Near the town of Mos Espa"
+            ],
+            "content":"<div class=\"\"><div> <span>Your name is Darth maul. You are a Zabrak Sith with a special double bladed lightsaber. Your master has given you an order to locate a Naboo senetor and kill her. You have traced her to planet Tatoine. You are now approaching the planet surface. You decide to land...</span></div></div>",
+            "created":1333942740,
+            "id":1311839,
+            "title":"Darth Maul"
+        },
+        "1411":{
+            "choices":[
+                "Send out probe droids to locate the queen.",
+                "Locate the queen yourself immediately",
+                "Locate the queen yourself in the morning."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to land in the outskirts. It is a good idea not to attract attention. You climb out of your ship and decide to...</span></div></span></div>",
+            "created":1333943100,
+            "id":1311842,
+            "title":"The outskirts "
+        },
+        "14111":{
+            "choices":[
+                "Head to the silver ship",
+                "Wait for tomorrow to see if the Jedi is still at Mos Espa"
+            ],
+            "content":"<div class=\"\"><div> <span>You look around with your 3200 EYE (Futuristic binoculars) and see two small trading outposts. The senator should be stranded here somewhere. You press a small button on your wrist and three probe droids hover quickly towards you. You signal two to the trading outposts and one to the outskirts. You watch them hover away then you head to your ship for sleep. You wake up and exit your ship to see two probe droids awaiting you. You scan one and it picked up footage of a man in a robe. \"Jedi,\" you mumble. You scan the other one to see that it has the exact location of a silver ship. You instantly realize that it was the one that escaped from Naboo. \"It must be the senetor\" you say. You check your wrist for the last probe droid. Static. Oh well. You...</span></div></div>",
+            "created":1333944240,
+            "id":1311853,
+            "title":"Send out probe droids to locate the queen."
+        },
+        "141111":{
+            "choices":[
+                "Go towards the glint.",
+                "Continue searching"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You know you must get to the ship. You hop on your speeder and head off. After about 5 minutes you see a glint of sunlight in the distance. You...</span></div></span></div>",
+            "created":1334016660,
+            "id":1312496,
+            "title":"Head to the silver ship"
+        },
+        "143":{
+            "author_id":"liquid_ocelot",
+            "author_name":"E",
+            "choices":[
+                "Jump up on Kota",
+                "Wait for a moment"
+            ],
+            "content":"<div class=\"\"><div> <span>Anakin Skywalker:The Chosen One, but is now known across the galaxy as Darth Vader, the embodiment of evil was summoned by The Emperor, his master. \"Lord Vader, have you found any surviving Jedi or Rebels against our rule?\". \"No, not yet but I assure you that I may have a lead on a Jedi\", replied Vader. \"Hmm who is it then?\" said the Emperor. \"Master Rahm Kota who was said to be one of the Jedi who wasen't killed during \"Order 66\", he had been seen by others taking control of a TIE fighter factory. \"Very well, if your so certin he is out there than go after him and rid us of one less Jedi\". \"As you wish, my Master\". as you walked away you remind yourself of your hated of your Mastr in the hopes of one day killing him and taking the Galaxy for yourself. You then went on a private TIE craft to the factory and sneak admist the rabble and are dropped off by a small entrance to the factory. You went inside and there you see Kota leading his troops to hold off intruders. Then as you think of a strategy....</span></div></div>",
+            "created":1231736400,
+            "id":632678,
+            "title":"Mission"
+        },
+        "1431":{
+            "author_id":"liquid_ocelot",
+            "author_name":"E",
+            "choices":[
+                "Call for your ship",
+                "Slaughter Kota's troops"
+            ],
+            "content":"<div class=\"\"><div> <span>You begin your attack on Kota and catch him by suprise, but before he could grab his Lightsaber you begin to ring his neck with the force. \"You will tell me everything you know general or face death.\" saying so when tighten the hold on Kota. \"You, I will never tell you anything.\" Hmph, simple minded fool!\" You then kill Kota, leaving his dead body in the controll room you then...</span></div></div>",
+            "created":1231822800,
+            "id":632805,
+            "title":"Jump up on Kota"
+        },
+        "1432":{
+            "author_id":"liquid_ocelot",
+            "author_name":"E",
+            "choices":[
+                "Eletrified by yourself",
+                "Grabed with the force"
+            ],
+            "content":"<div class=\"\"><div> <span>Now thinking of a way to approch the Jedi you pause yourself, but then you see Kota looking in places and then begins to gather up energy. You then jump awya from the blast knowing its aimed for you. \"I knew I could lure you out here, now I will finally end your dark rule.\" said Kota after confirming that it was Vader. \"You then walk to him and draw out your Lightsaber as he does and they both clash. \"Your just an old man, you just made yourself a death wish.\" said Vader. Then the two began exchanging blow by blow of Saber fury, then as Kota runs up to you he jumps in the air to strike, then he is...</span></div></div>",
+            "created":1231822800,
+            "id":632800,
+            "title":"Wait for a moment"
+        },
+        "145":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "Exar Kun",
+                "Some other ancient Sith",
+                "A Sith you make up yourself, perhaps?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe a long-dead Sith?</span></div></span></div>",
+            "created":1231822800,
+            "id":632762,
+            "title":"Other (a Sith you make up yourself, perhaps?)"
+        },
+        "1453":{
+            "choices":[
+                "Steal a ship and head straight to Palpatine.",
+                "Test your force lightning on the cantina patrons.",
+                "Order another drink."
+            ],
+            "content":"<div class=\"\"><div> <span>Once an ordinary young man, Ben (you, Darth Kith) was careful to hide his power from those who were strong with the force. The dark side fueled his ambition, power and desire to destroy.<br>\r\n  Ben endured misfortune after misfortune as he matured. He fought the urge to allow the hatred cast at him to inflate the growing bitterness. After losing his wife to a sickness no Jedi could heal, Ben lost his identity. His mind fell to madness. The pent up rage, despair and madness was released upon witnessing his wife die. Ben used this hate to take the lives of the two Jedi who could not save his wife.<br>\r\n Ben escaped the medical facility, but not before using the dark side of the force to electrocute security teams and brave souls who tried to stop him. He spent weeks hiding in less reputable cantinas and smugglers' hideouts. That is, until a cantina goer slipped him a note and used a stealth generator to disappear from view.<br>\r\n \"I know who you are and what you have done. Welcome to the dark side, my apprentice. The man you were before was weak. That man is now dead. The Jedi could have healed Desra. They did not because they needed her out of the way. They planned to recruit you as a Padawan after filling your mind with lies. I've read your mind. You were weak to allow others to betray you. That was your failing, your fault. Remember the lack of mercy given by others. The betrayal, the lies, the failing. Use your hate to become more powerful. Jedi are searching for you. They aim to kill you. Do not let their tricks consume your mind. All Jedi kill their prisoners. Have you ever seen a living being after being captured by the Jedi? Will they prove their prisoners are still alive? No. Because there are none. The Jedi are no different than the Sith. I cannot see you personally. Much needs to be done. The Jedi Council has been watching me closely. The time will come when you stand at my side. The galaxy will be ours, but only when all Jedi are dead. I'll be watching. May the force be with you... Darth Kith. -SP\"<br>\r\n Kith burst into laughter. He knew who \"SP\" was. His newfound hatred for the Jedi gave him another purpose. What to do next swirled within his darkened mind.<br>\r\n </span></div></div>",
+            "created":1550581620,
+            "id":2619864,
+            "title":"Ben's new purpose: The life of Darth Kith"
+        },
+        "15":{
+            "author_id":"wolfcommander",
+            "author_name":"Wolfwriter",
+            "choices":[
+                "The Black Sun",
+                "A slaver organisation",
+                "A swoop gang",
+                "An assassin organisation",
+                "Anything not added above"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A criminal organisation, perhaps? </span></div></span></div>",
+            "created":1221368400,
+            "id":582068,
+            "title":"Anything that you wish to add, but isn't in..."
+        },
+        "154":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "Mandalorian",
+                "Trandoshan",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright will start with the two big groups Mandalorian or Trandoshan?</span></div></span></div>",
+            "created":1328240880,
+            "id":1270213,
+            "title":"An assassin organisation"
+        },
+        "1541":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "The Old Republic",
+                "the clone wars",
+                "rise/fall of the Empire"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What time period?</span></div></span></div>",
+            "created":1328241000,
+            "id":1270217,
+            "title":"Mandalorian"
+        },
+        "15413":{
+            "author_id":"therouge",
+            "author_name":"shortestgiantess",
+            "choices":[
+                "assassination of small time vip target.",
+                "protecting a small village."
+            ],
+            "content":"<div class=\"\"><div> <span>You look over your combat armor the blue helmet with the dark soulless visor added with the deep scars of long gone battles cry out to you as if to tell the armors war story's. It was given to you by your father and given to him by your grandfather then so on and so fourth. You got it on your 18th birth day as a coming of age gift... or you would have if it wasnt the fact that your life had been plagued by tragady when your family were slaughterd by your family's longtime rivals and enemys  Now you are 22 and its your time to make a name for yourself on not only on your home planet of Naboo but hopefully far reaching. But now what will your first job be?</span></div></div>",
+            "created":1328243340,
+            "id":1270242,
+            "title":"rise/fall of the Empire"
+        },
+        "155":{
+            "author_id":"derekthedalek",
+            "author_name":"Derek the Dalek",
+            "choices":[
+                "A Wookie on Kashyyyk?",
+                "A Tusken Raider or Jawa on Tattoine?",
+                "Another Race or Group?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps you are one of several non-human species across the Galaxy, like the Wookies, Tusken Raiders or Jawas?</span></div></span></div>",
+            "created":1251694800,
+            "id":753407,
+            "title":"Aliens?"
+        },
+        "1553":{
+            "author_id":"kevlord",
+            "author_name":"Zephaniah Kirkwood",
+            "choices":[
+                "A cyborg bounty hunter (good or evil)",
+                "A cargo pilot trying to ply his trade in wartime",
+                "A young political aspirant"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The galaxy is full of people who have different roles to play. Maybe you are one of them.</span></div></span></div>",
+            "created":1307077200,
+            "id":1119350,
+            "title":"Another Race or Group?"
+        },
+        "15531":{
+            "author_id":"kevlord",
+            "author_name":"Zephaniah Kirkwood",
+            "choices":[
+                "Attack the Jedis and make off with Raxall",
+                "Reason with GelCheldin you have the law on your side"
+            ],
+            "content":"<div class=\"\"><div> <span>\"If you want to take Raxall in, then you have to get past me, bounty hunter!\"<br>\r\n\"You keep saying \"bounty hunter\" like it's a bad thing. It is an ancient and noble profession. And if you keep using that tone of voice I might get offended Jedi wannabe!\"<br>\r\nOh I'm sure that would set him off. He's obviously not a full fledged Jedi, perhaps a padawan I think they call them. But he is Jedi in his own mind and certainly lacks none of the self righteous pomposity his order is known for.<br>\r\n\"Look,\" I added, \"I have a signed order form the provincial Governor to bring Raxall in for theft. He's a wanted criminal and I am taking him in to have his fair trial. That's what you do to criminals right?\"<br>\r\n\"He's not a criminal!\" the boy yelled and charged.<br>\r\nHe held his light saber in both hands over his head and brought it down hard.<br>\r\nI raised my left arm in a truly reflexive defense maneuver.<br>\r\nHe must have thought that I was really going to let him lop off my arm because he was genuinely shocked when his light saber struck my photon buckler. His second surprise came when I punched him in his shocked expression with my right fist. It struck with the force of three normal men. And that was the low setting. He flopped hard but only for a moment. A split second later he was on his feet and coming at me. Again he swung his weapon with two hands. Only this time it didn't connect because another light saber had intercepted it.<br>\r\n\"Stand down Bratat,\" commanded the Jedi Master.<br>\r\n\"But Master Gelcheldin, he's a bounty hunter and he has Raxall tied up like some animal!\" the boy complained.<br>\r\n\"Stand down. I wont ask you again.\"<br>\r\n\"Yes Master.\" <br>\r\nThe boy turned off his blade or whatever Jedis do so the light part does cut through their own stuff. He stare at me and I only smiled back. He turned to his master and then turn his gaze to the ground.<br>\r\n\"Hooray for calmer heads,\" I said. \"Here is the order for Raxall. I'm sure you'll find everything in order. I'm Clate Rimrunner. You'll find my license is in order too\".<br>\r\n\"Zeret Gelcheldin,\" the Jedi replied.<br>\r\n\"Oh I know you master Gelcheldin. We have met before.\" As I spoke I raised my arms so my hands were above my head. My sleeves dropped to my shoulders revealing where my prosthetics merge with my own flesh. \"Yes I was at Branaxus when you and your Jedi friends raided the starport. Gee I don't think I was much older than your padawan there when this happened.\"<br>\r\nA look of recognition cam over his face. Then he too looked down at the ground.<br>\r\n\"Well it looks like your orders are legitimate. I don't believe Raxall is capable of the crimes listed so as he is a friend I will take him into custody,\" Gelcheldin said.<br>\r\n\"That poses a problem. You see I flew all the way here to Zabooine at  my own expense to capture this wanted criminal. I was going to use the bounty to recoup my losses and make a little profit. If you take him in, I don't get credit and I don't get paid.</span></div></div>",
+            "created":1307144220,
+            "id":1119367,
+            "title":"A cyborg bounty hunter (good or evil)"
+        },
+        "15533":{
+            "author_id":"yubelhaoujudai",
+            "author_name":"CHester",
+            "choices":[
+                "Yes",
+                "Or what about the Revanchist?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>are you sure?</span></div></span></div>",
+            "created":1428276900,
+            "id":1959448,
+            "title":"A young political aspirant"
+        }
+    },
+    "info":{
+        "author_id":"wolfcommander",
+        "author_name":"Wolfwriter",
+        "brief_description":"A interactive story about key Star Wars moments.",
+        "created":1212527640,
+        "description":"<td align=\"left\" class=\"norm\">This is an interactive story which takes place in the Old Republic somewhere before, during and after the Clone Wars. The main characters are humans and aliens of different species. The storyline depends on the character you choose. I will add as much characters as possible, but then it's your turn to bring them to life! <br>\r\n<br>\r\nThere are a few rules:<br>\r\n1. NO SEX! I don't want to see anything which is a direct hint at sex. You can describe a girl, but just say she is a tall and beautiful girl, don't start to describe cup sizes and that kind of characteristics. There are other story's to do that in, but this isn't one of those. So keep the sex away from this story or I will have to delete it. You are allowed to let characters have children, but in such a case you just cut away the sex part, but a little hysterical behaviour is ok (\"Honey, I'm pregnant!\" \"WHAT DID YOU SAY??\" *faints*)<br>\r\n<br>\r\n2. YOU MAY GET YOUR CHARACTER INTO A LIFE-THREATENING SITUATION, BUT DON'T KILL IT AFTER JUST TWO CHAPTERS. It is allowed to get your character killed, but make sure there are plenty of chapters that the character has lived through. Ergo, if you got him/her into the midst of a space battle and he/she just has the luck to be in a ship that's going to be destroyed, that's okay. But don't, like after two chapters, get your character ran over just out of the front door.<br>\r\n<br>\r\n3. TRY TO FOLLOW THE PATH THE CHARACTER  HAS TAKEN.<br>\r\nThat means, you should have the character follow the main storyline, but you can add an option which, for example lets Mace Windu slay Agen Kolar, Saesee Tiin and Kit Fisto and join Sidious as an Apprentice. That is allowed, but if you want to add such a storyline, just let one option be a continuation of the regular storyline, and one option the alternate storyline.</td>",
+        "id":1434579,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1550581620,
+        "modified":1550581620,
+        "pretty_title":"Star Wars interactive story"
+    }
+}

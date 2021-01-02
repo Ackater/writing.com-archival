@@ -1,0 +1,488 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Deserted Island (Moga Woods)",
+                "Sandy Plains",
+                "Jungle",
+                "Desert",
+                "Other Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The first thing is which place did you wake up at. Here is the choices below.</span></div></span></div>",
+            "created":1305003600,
+            "id":1103697,
+            "title":"What Area?"
+        },
+        "11":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is the monster list of monsters you will probably encounter when you're shrunk...<br>\r\n<br>\r\nAptonoth, Epioth, Kelbi, Bnahabra, Altaroth, Giggi, Jaggi, Jaggia, Ludroth, Felyne, Melynx, Great Jaggi, Qurupeco, Royal Ludroth, Purple Royal Ludroth, Rathian, Rathalos, Arzuros, Lagiacrus, Ivory Lagiacrus, Zinogre, Green Nargacuga, Deviljho, Brachydios and Plesioth. To find out what they look like, visit monsterhunter.wikia.com.<br>\r\n<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305003600,
+            "id":1103716,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "111":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "A Field",
+                "The Beach",
+                "The Forest"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up from a very bright light from the sun. You got up and looked around, something isn't right you would say to yourself. Then you realise that you are so tiny, that a small pebble looks more like a boulder. You felt very worried and wanted to get help, but you won't seem to find anyone. So you start looking around until you enter...</span></div></div>",
+            "created":1306904400,
+            "id":1117633,
+            "title":"Awakening"
+        },
+        "1112":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "A Royal Ludroth",
+                "A Lagiacrus",
+                "A Plesioth"
+            ],
+            "content":"<div class=\"\"><div> <span>You entered a beach. This beach looks very relaxing to you as the sun fells even warmer. You sit down on the sandy ground to see the huge waves crash into the shore side. But then, you hear a roar similar to a bear. You get up to find out that a Ludroth was about to lunge at you! You try to get out of the way but it was too late as it captures you in its claws. As you try to get out of its grasp more Ludroth come in. It looks like the end of you until you hear a roar coming from the water. The Ludroth calmly back away from you as a huge monster comes out of the ocean. What is it?</span></div></div>",
+            "created":1323925200,
+            "id":1240273,
+            "title":"The Beach of Horrors"
+        },
+        "11121":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "...opens his mouth and swallows you whole.",
+                "...leaves you alone."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A Royal Ludroth appears from the shore and crawls towards you. He lowers his head down to sniff you. You become scared but you try to hide the emotion. The Royal Ludoth then...</span></div></span></div>",
+            "created":1427605200,
+            "id":1955723,
+            "title":"The Mane Course"
+        },
+        "1113":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Great Jaggi",
+                "Qurupeco",
+                "Green Nargacuga"
+            ],
+            "content":"<div class=\"\"><div> <span>So you enter what appears to be the forest. Everything is all a lush green, full of grass and trees. You see a lot of deer like animals called kelbi. One kelbi seems to give you a little nudge as it seems that it likes you. You give it a little pet on the head and it then it prances away to its bretheren. That is when you hear a very loud roar that made the kelbi panic in fear. The Kelbi left the forest unharmed, but you got stepped on by something bigger. You look up to see a...</span></div></div>",
+            "created":1306904400,
+            "id":1117642,
+            "title":"An Unsafe Forest"
+        },
+        "11131":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You stare up in shock at what you recognize as a Great Jaggi. It's normally a big monster species, but at your current size, it's absolutely huge! It actually hasn't stepped on you; you're between it's toes, luckily. The question is, does it notice you?</span></div></div>",
+            "created":1430638680,
+            "id":1972754,
+            "title":"Great Jaggi"
+        },
+        "111312":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "Jaggi (male)",
+                "Jaggia (female)"
+            ],
+            "content":"<div class=\"\"><div> <span>Luckily, the Great Jaggi seems to not have noticed you. You sigh in relief as it steps over you. However, you notice that you're not alone yet. You can see a few other monsters approaching: a few Jaggi and a few Jaggia, apparently following the Great Jaggi. Most of them don't notice you, but one of them, who is smaller than the rest and falling behind from the group, slows down a few feet away from you, apparently stopping to catch its breath. <br>\r\n<br>\r\nAs the pack of Jaggi and Jaggia moves on, this one lets out a sound that you can't quite describe, but it sounds surprised. You realize why, as it approaches you and lowers its head to you, obviously having noticed you.<br>\r\n<br>\r\nYou stare up at this monster. As you look at it, you realize that it is a...</span></div></div>",
+            "created":1430638980,
+            "id":1972756,
+            "title":"Jaggi and Jaggia"
+        },
+        "1113122":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "Either fight or run",
+                "Stay"
+            ],
+            "content":"<div class=\"\"><div> <span>The monster is definitely a Jaggia--the flaps resembling long and floppy ears on the side of her head give it away. She's currently sniffing at you, and you're unsure what to do next. Considering the size difference, you'd probably die if you tried to fight... You could still try though, or run... Or just accept your fate and let this monster do what she will with you.</span></div></div>",
+            "created":1430639340,
+            "id":1972758,
+            "title":"Jaggia (female)"
+        },
+        "11131221":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "Fight!",
+                "Run!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is your choice? Fight the giantess, or run for your life?</span></div></span></div>",
+            "created":1430639400,
+            "id":1972759,
+            "title":"Either fight or run"
+        },
+        "111312211":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "content":"<div class=\"\"><div> <span>You grab your absurdly oversized weapon and lunge at the Jaggia's feet, wasting no time. The attack hits the monster hard, making her stumble back and roar in pain. You wind up a second attack...<br>\r\n<br>\r\nBut never get the chance. The monster recovers from the first attack too quickly. And with her immense size advantage, she easily steps on the tiny hunter, ending the fight.</span></div></div>",
+            "created":1465459380,
+            "id":2161395,
+            "title":"Fight!"
+        },
+        "111312212":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "It's something from the sky!",
+                "Something on the land!"
+            ],
+            "content":"<div class=\"\"><div> <span>Not wanting to face this massive monster, you turn nd run as fast as you can, not realizing that this is probably a terrible idea considering how your now-tiny legs only let you move at a fraction of the Jaggia.<br>\r\n<br>\r\nHowever, to your surprise, the Jaggia does not chase you. Instead, you hear a loud roar, and glance over your shoulder to see another Jaggia roaring towards the one who stopped to investigate you. Apparently, the pack is angry that one of their own is falling behind. The Jaggia near you roars back and hurries to rejoin her pack.<br>\r\n<br>\r\nYou stop running, panting, and let out a sigh. You survived. If that other Jaggia hadn't called her fellow pack member back, the Jaggia who had come over to you definitely could have caught you. But luckily, you're now alone, without a monster in sight.<br>\r\n<br>\r\nFor now, at least. Because without your knowledge, something approaches...</span></div></div>",
+            "created":1465459260,
+            "id":2161393,
+            "title":"Run!"
+        },
+        "1113122121":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "The Remobra attacks!",
+                "The Remobra backs off"
+            ],
+            "content":"<div class=\"\"><div> <span>You hear the flapping of wings before you see the monster. Looking up, you spot, to your terror, a two-winged reptile with a serpentine head swooping down at you. Quickly, you dive aside, and the monster misses its dive. You grab your weapon and prepare for a fight, realizing that this monster seems more hostile than the Jaggia from before. At least the Jaggia didn't immediately attack you.<br>\r\n<br>\r\nThe monster swoops again and lands some distance in front of you. Now, you recognize it as Remobra, a small Wyvern with poison spit. Of course, at your size, \"small\" means big enough to pick you up and eat you. You point your weapon at it, ready to fight...</span></div></div>",
+            "created":1465459740,
+            "id":2161404,
+            "title":"It's something from the sky!"
+        },
+        "11131221211":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "The Remobra flies towards a flock of its own kind: it lives with them",
+                "The Remobra flies to an empty nest: it lives alone"
+            ],
+            "content":"<div class=\"\"><div> <span>Suddenly, the Remobra spits a glob of poison at you. You see it in time and dodge out of the way, but are unprepared for its follow up attack, in which it jumps into the air and dive bombs you. You're hit hard, knocked away by its talons, and drop your weapon. You get on your hands and feet and try to scramble for it, but instantly feel a huge pressure on your back, pressing you into the dirt. Glancing over your shoulder, you see that the Remobra has pinned you under its talons.<br>\r\n<br>\r\nThe wyvern lowers its head towards you, forked tongue flicking out. It's trying to tell what to do with its prey, apparently. You squirm, but it's immense weight pins you, and you can't escape.<br>\r\n<br>\r\nAfter a little bit, the Remobra stands tall again, though it still keeps one foot on top of you, and let's out a loud shriek, hurting your ears. You glare up at it, but begin to feel its foot shift. Glancing at it, you can't see much due to the position in which you are pinned, but you can tell that it is trying to curl it's toes around you. You squirm some more, but it's still useless. The Remobra's talons wrap around your pinned body, effortlessly lifting you off the ground and into the air as it takes off, flapping its wings quickly.<br>\r\n<br>\r\nYou watch as the ground falls away below you, struggling in vain against the tight grip of the wyvern's talons. You don't like this situation one bit...</span></div></div>",
+            "created":1465460100,
+            "id":2161416,
+            "title":"The Remobra attacks!"
+        },
+        "11131222":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "The Jaggia opens her mouth! She's hostile after all!",
+                "The Jaggia nuzzles you gently! Aww, she's friendly!"
+            ],
+            "content":"<div class=\"\"><div> <span>What can you do against such a huge creature? Besides, she seems somewhat gentle... As in, she hasn't killed you yet, which is good.<br>\r\n<br>\r\nHowever, you start worrying that might change once you notice her arms start extending, claws reaching for you. You shiver with fear as you stare at the sharp claws, but you can't run now. There's nothing you can do now. You're hers.<br>\r\n<br>\r\nYou watch as her claws approach you, closing in on both sides quite slowly, as if she's trying to be careful. You realize that it would be best to not have your arms pinned to your sides when she inevitably grabs you, so you raise your arms in front of you.<br>\r\n<br>\r\nA few moments later, her hands contact you. You gasp as they squeeze you, pressing against you on either side as the claw tipped fingers curl into a two-handed fist, tightly squeezing. It's a sensation unlike any you've felt before... There are giant monsters in this world, but not many of them have opposable body parts, or actually pick up their prey like this. Usually they just slice and bite, killing instantly. You're actually a bit surprised and glad that this Jaggia isn't as violent as some monsters can be.<br>\r\n<br>\r\nYou're snapped out of your thoughts as you feel your feet leave the ground. The Jaggia is lifting you up as she stands up, back to her neutral standing stance. She brings you close to her face, and her amber eyes gaze into yours. She's judging you, trying to figure out what you are and if you're food. Helpless in her grasp, you just remain motionless, even though your heart is pounding. You never imagined you'd be in a situation like this, held in the claws of an enormous Jaggia.<br>\r\n<br>\r\nAfter what feels like hours...</span></div></div>",
+            "created":1430639940,
+            "id":1972761,
+            "title":"Jaggia's Grasp"
+        },
+        "111312222":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "She does!",
+                "She doesn't..."
+            ],
+            "content":"<div class=\"\"><div> <span>The Jaggia moves her snout towards you, and you're afraid she'll eat you. Luckily, she simply emits a low growl and nuzzles you gently. You remain motionless, not sure how to react. After a little bit, though, you smile and pat her snout with your hands. It seems like she doesn't want to hurt you, surprisingly. Why, you can't say, but you're not going to question it. Now that it's obvious that this monster means you no harm, you suddenly start to feel very happy to be in her grasp. The claws that scared you now make you feel secure and safe.<br>\r\n<br>\r\nBut that might not last forever. A roar suddenly gets both your and the Jaggia's attention, and the two of you look towards its source. The other members of the friendly Jaggia's pack are almost out is sight now, and one of the Jaggia in the rear has stopped and is watching you and your new friend. The Jaggia holding you roars back, and begins to run towards her fellow monster. You're bounced around as she runs, but she keeps a firm grip on you. You begin to feel scared again--this Jaggia is friendly, but what about the other one? And what about the rest of the pack? There's no way that all of them will be nice to a tiny creature that could easily act as a snack for them.<br>\r\n<br>\r\nYou're about to find out, though. The Jaggia holding you reaches the other one, who starts staring at you. You stare back, worried she might attack...</span></div></div>",
+            "created":1447041780,
+            "id":2058720,
+            "title":"A giant friend"
+        },
+        "1113122221":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "Yes, and the fight is interrupted",
+                "No, it leaves and the fight continues"
+            ],
+            "content":"<div class=\"\"><div> <span>The bigger Jaggia growls, and without warning lunges with an open maw. The friendly Jaggia is bitten harshly by her bigger foe, and roars in pain, dropping you. You land on your back, and lie there in pain as the two giant monsters battle over you. And by over you, that means they literally are standing over you, barely avoiding crushing you as they fight.<br>\r\n<br>\r\nYou eventually regain your strength and get up, running away from the fight to avoid getting crushed. Once you're a safe distance away, you turn and watch, hoping that the friendly Jaggia wins...<br>\r\n<br>\r\nAs you watch, though, you think you see movement in the distance. After watching it, you realize it's another monster. You can't tell what it is, though. It seems close enough to see the fight.<br>\r\n<br>\r\nDoes this new monster intervene?</span></div></div>",
+            "created":1465460760,
+            "id":2161428,
+            "title":"She does! They fight!"
+        },
+        "1113122222":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "Soon, some of the other pack members get interested in you",
+                "Suddenly, another monster attacks!"
+            ],
+            "content":"<div class=\"\"><div> <span>To your surprise and relief, the other Jaggia simply grunts and turns away to rejoin the pack. Either she didn't think you were a threat or a snack, or she understood that you, for all intents and purposes, now belonged to the Jaggia holding you, and didn't want to fight her for you. The Jaggia holding you adjusts her grasp slightly, and runs after the Jaggia. You're happy about the fact that two monsters have decided against killing you so far, but you can't help but think how long that luck can last. Sooner or later, you might get eaten.<br>\r\n<br>\r\nEven so, you feel confident that you can take any challenge. You're tiny and weak, but you know that hasn't meant anything in the past for monster hunters. In fact. The relative size of you to these monsters is the same as the size difference between humans and certain other monsters that they've been able to defeat. That gives you hope, and you keep telling yourself that to remain hopeful.<br>\r\n<br>\r\nThe Jaggia finally reaches the pack, and rejoins them. None of them seem to acknowledge her, or notice you, and you admit you're happy about that. If you can just remain unseen until you turn back to normal, that would be best. But for now, you need to accept your situation, and remain hopeful that you'll get out of it soon.</span></div></div>",
+            "created":1447042140,
+            "id":2058723,
+            "title":"Joining the pack"
+        },
+        "11131222221":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "The other pack members back off, letting the friendly Jaggia keep you",
+                "One pack member steps forward, intent on stealing you"
+            ],
+            "content":"<div class=\"\"><div> <span>You quickly get used to being bounced up and down as the friendly Jaggia walks. With the knowledge that she doesn't want to hurt you, you find it easy to be comfortable, and just look around at the now much bigger world as the Jaggia carries you along with her pack.<br>\r\n<br>\r\nUnfortunately, the relative peacefulness can't last forever. Soon, the pack stops by a river. The Great Jaggi leading the pack stands tall and looks around for threats. Letting the smaller members of its pack drink from the river. The friendly Jaggia does so along with the others, but as she crouches down and dips her head towards the water, still clutching you tightly to her chest, you notice some of the other pack members eying you.<br>\r\n<br>\r\nYou pat the friendly Jaggia's claws, hoping to ger her attention, and she stops drinking to glance at you. You point at the pack members staring at you, and the Jaggia, somewhat surprisingly, is smart enough to understand your gesture's meaning. She looks over at the pack members looking at you, and lets out a quiet growl as she realizes that they might want to take you from her.<br>\r\n<br>\r\nYou're nervous now. This Jaggia, as you noticed before, is smaller than her fellows. She wouldn't be able to protect you if any other pack members attacked her. As the friendly Jaggia stares down the other ones, and you glance back and forth between both sides, the stare-down is broken when...</span></div></div>",
+            "created":1447226760,
+            "id":2059675,
+            "title":"Stare-down"
+        },
+        "111312222212":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "The friendly Jaggia wins",
+                "The friendly Jaggia loses..."
+            ],
+            "content":"<div class=\"\"><div> <span>Suddenly, a large Jaggia lunges, claws spread and jaws wide. The Jaggia holding you helps and backpedals, but it hit by a slash of the other Jaggia's claws. In pain and surprise, she accidentally drops you, and you t the ground hard. Getting up slowly, you barely avoid getting stepped on as the two Jaggia clash. You get up and run as fast as you can to escape, noticing that the other pack members are intently watching the fight.<br>\r\n<br>\r\nHowever, one Jaggia notices you. She bares her fangs, and you stop moving. She walks towards you, glaring down at you with an expression much less gentle than the Jaggia who first picked you up. You look up at her, hoping she won't try to steal you.<br>\r\n<br>\r\nWithout warning, the Jaggia crouches and reaches down with both hands, clamping them together around you. Your arms are pinned and you grunt as the Jaggia picks you up, raising you up to her face and glaring at you. You're afraid that she's going to eat you, using the confusion of the fight to take you for herself, but to your surprise, she simply growls at you and lowers you to her chest, holding you tightly as she watches the fight.<br>\r\n<br>\r\nYou assume that she just wants to hold you until the two Jaggia finish their fight, so that you can't escape. And so, held in her slightly painfully tight grip, you watch as the two Jaggia fight, seemingly over who gets to keep you.</span></div></div>",
+            "created":1465460520,
+            "id":2161423,
+            "title":"One pack member steps forward and attacks"
+        },
+        "1113122222121":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "Night falls and it's time to sleep",
+                "A hostile monster attacks"
+            ],
+            "content":"<div class=\"\"><div> <span>You watch the fight, finding yourself cheering the friendly Jaggia on even though she cannot understand you. The Jaggia holding you growls slightly whenever you speak up, apparently annoyed by your noises, but she doesn't hurt you. You're thankful for that--she seems to have taken it upon herself to keep you unharmed so that the winner of the fight over you will not receive a damaged prize.<br>\r\n<br>\r\nThe fight drags on... And then suddenly the friendly Jaggia lands a powerful hit with her tail onto the side of the bigger Jaggia, making her for collapse with a roar. The friendly one rears her head back and roars triumphantly, and the other assembled monsters growl and grunt as they all turn and walk away. The fallen Jaggia gets up soon, and with a low growl to the friendly Jaggia, walks away as well. Apparently, the friendly one won the fight somehow, and has won the right to keep you for herself.<br>\r\n<br>\r\nYou're surprised as you feel yourself descending, and look around to see that the Jaggia holding you is lowering you to the ground before releasing her grip and stepping back so that the winner can claim you. You watch as the friendly Jaggia turns towards you and roars happily, running forwards and sliding to a stop inches away from you. You look up, standing underneath her head as she looks down at you and growls happily before reaching down with both hands. You let her pick you up, raising your arms so they will not be pinned as her giant hands clamp around you on either side and grasp you tightly, and she raises you to her face. You gaze into her eyes as she stares at you in return. <br>\r\n<br>\r\nAnd then suddenly, her tongue slips out and gives you a quick lick. You're surprised by it, and shake your head, trying to get some of the drool off, but you find that thankfully the lick was fast enough to leave little saliva on you. You're a little scared about what the lick means, but since the Jaggia just proceeds to lower you to her chest and hold you there as she walks back to her pack, you assume it was but a show of affection, a reminder that for whatever reason she refuses to eat you.<br>\r\n<br>\r\nAnd so, safe in the friendly monster's grasp again, you are carried back to the pack, and along with them as they proceed their trip. Eventually...</span></div></div>",
+            "created":1467704400,
+            "id":2175639,
+            "title":"The friendly Jaggia wins"
+        },
+        "11133":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "It eats you.",
+                "It spares you, as a friend..."
+            ],
+            "content":"<div class=\"\"><div> <span>You turned around to see that the monster that stepped on you was a very large Green Nargacuga, a subspecies of Nargacuga that have special spikes on their tail which will knock you out if you're hit with one of them. \"Why is there a human like you doing here?\" It said in a deep voice. \"You can talk?\" You said feeling suprised. \"Of course.\" The Nargacuga said, \"Many small beings can understand the language of many monsters, but they don't do that very much.\" It then lowers its head towards you. \"Why are you in my territory?\" it growled. You then try to explain the whole thing, \"I didn't mean to enter your territory, I was shrunk when I woke up in this place and I wanted to know how I ended up like this.\" A few seconds of silence and then the Nargacuga starts to laugh. It then unsheathes its very sharp claws. \"Do you think I take intruders lightly?\" the Green Narga said, \"Why don't you tell me why you're really here?\" That is when it lightly pushes you to the ground. \"Please,\" You said calmly but in a panic way, \"I'm just a tiny person who got lost in this forest and I needed to find a way to get back to my original size, just please let me go!\"</span></div></div>",
+            "created":1308114000,
+            "id":1126631,
+            "title":"Its Territory"
+        },
+        "111331":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "content":"<div class=\"\"><div> <span>\"I don't believe you,\" The Green Nargacuga said. It then takes its foot off you, and you thought the Nargacuga is going to release you but that is when the Nargacuga swallows you whole. You start to slide down its throat and then into its stomach where you are digested. Next time, make sure you think this is a safe place before you enter...</span></div></div>",
+            "created":1308114000,
+            "id":1126712,
+            "title":"Inside a mix between a bird and a cougar."
+        },
+        "12":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is the list of monsters you will encounter in the Sandy Plains.<br>\r\n<br>\r\nRhenoplos, Delex, Kelbi, Bnahabra, Aptonoth, Altaroth, Jaggi, Jaggia, Felyne, Melynx, Great Jaggi, Qurupeco, Barroth, Rathian, Diablos, Black Diablos, Tigrex, Sand Barioth, Nibelsnarf, Volvidon, Deviljho, Rust Duramboros. To find out what they look like, visit monsterhunter.wikia.com.<br>\r\n<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305003600,
+            "id":1103726,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "13":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here are the Monsters that you will encounter in the Jungle.<br>\r\n<br>\r\nVespoid, Hornetaur, Bullfango, Remobra, Kelbi, Conga, Great Thunderbug, Mosswine, Velociprey, Velocidrome, Aptonoth, Melynx, Felyne, Plum Daimyo Hermitaur, Daimyo Hermitaur, Yian Kut-Ku, Rathian, Gypceros, Chameleos, Congalala, Plesioth, Yian Garuga, Buldrome, Kushala Daora. For information about these monsters go to monsterhunter.wikia.com<br>\r\n<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305090000,
+            "id":1104178,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "132":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Rathian",
+                "Damiyo Hermitaur",
+                "Nothing, but you should hide anyway..."
+            ],
+            "content":"<div class=\"\"><div> <span>You woke up somewhere in a rainforest. It appears that it is a lot larger since your first visit. But that's when you realise you have been shrunk to a few inches tall! So you start your search for some valuable resources in case you will be like this for a very long time. But then you feel rumbles on the ground, probably an earthquake. But the rumbles started again. You look around. What do you see?</span></div></div>",
+            "created":1317099600,
+            "id":1196159,
+            "title":"Dense Plantlife"
+        },
+        "14":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here are the monsters that you will encounter in the Desert.<br>\r\n<br>\r\nGenprey, Gendrome, Felyne, Melynx, Apceros, Remobra, Great Thunderbug, Vespoid, Hermitaur, Cephadrome, Rathian, Pink Rathian, Diablos, Black Diablos, Monoblos, White Monoblos, Daimyo Hermitaur, Plum Daimyo Hermitaur, Copper Blangonga, Plesioth, Green Plesioth, Tigrex, Kushala Daora, Teostra, Lunastra. To find out what these monsters look like, visit monsterhunter.wikia.com<br>\r\n<br>\r\nAnyway, which gender are you? </span></div></div>",
+            "created":1305090000,
+            "id":1104187,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "15":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Flooded Forest",
+                "Snowy Mountains",
+                "Great Forest",
+                "Tundra",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>If you don't like the areas you saw before, then these areas will be a snap!</span></div></span></div>",
+            "created":1305090000,
+            "id":1104191,
+            "title":"Other Areas"
+        },
+        "151":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is a list of monsters you will encounter in the Flooded Forest.<br>\r\n<br>\r\nLudroth, Royal Ludroth, Purple Royal Ludroth, Lagiacrus, Gobul, Bnahabra, Altaroth, Felyne, Melynx, Aptonoth, Kelbi, Bullfango, Bulldrome, Wroggi, Great Wroggi, Rathian, Epioth, Nargacuga, Green Nargacuga, Slagtoth, Giggi, Crimson Qurupeco, Arzuros, Duramboros, Deviljho, Plesioth, and Green Plesioth. To find out what they look like, visit monsterhunter.wikia.com<br>\r\n<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305090000,
+            "id":1104192,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "152":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is a list of monsters you will encounter in the Snowy Mountains.<br>\r\n<br>\r\nAnteka, Popo, Kelbi, Vespoid, Giaprey, Giadrome, Blango, Blangonga, Bullfango, Bulldrome, Great Thunderbug, Rajang, Khezu, Red Khezu, Tigrex, Kirin, Kushala Daora. To find out what these monster are, visit monsterhunter.wikia.com<br>\r\n<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305090000,
+            "id":1104194,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "153":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is a list of monsters you will encounter in the Great Forest.<br>\r\n<br>\r\nKelbi, Mosswine, Bullfango, Bulldrome, Velociprey, Velocidrome, Melynx, Shakalaka, King Shakalaka, Ioprey, Genprey, Hermitaur, Nargacuga, Hypnocatrice, Rathian, Emerald Congalala. For information on thes monsters, visit monsterhunter.wikia.com<br>\r\n<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305090000,
+            "id":1104196,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "154":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is a list of monsters you will encounter on the Tundra.<br>\r\n<br>\r\nPopo, Anteka, Bnahabra, Altaroth, Melynx, Felyne, Bulldrome, Baggi, Great Baggi, Giggi, Gigginox, Baleful Gigginox, Barioth, Jade Barroth, Glacial Agnaktor, Lagombi, Stygian Zinogre, Deviljho. For information on these monsters, visit monsterhunter.wikia.com<br>\r\n<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305090000,
+            "id":1104197,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "155":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Volcano (MHFU)",
+                "Misty Peaks",
+                "Next Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, then these two areas will help you out.</span></div></span></div>",
+            "created":1305090000,
+            "id":1104198,
+            "title":"More Areas"
+        },
+        "1551":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is the list of monsters you will encounter in the Freedom Unite version of the Volcano<br>\r\n<br>\r\nIoprey, Iodrome, Felyne, Melynx, Apceros, Remobra, Shakalaka, Ceantaur, Vespoid, Bullfango, Rathalos, Azure Rathalos, Basarios, Gravios, Black Gravios, Shogun Ceantaur, Terra Shogun Ceantaur, Lavasioth, Teostra, Lunastra. For information on these monsters, visit monsterhunter.wikia.com<br>\r\n<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305090000,
+            "id":1104199,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "1552":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is the list of monsters you will encounter on the Misty Peaks.<br>\r\n<br>\r\nGargwa, Jaggi, Jaggia, Great Jaggi, Bnahabra, Altaroth, Kelbi, Bullfango, Bulldrome, Arzuros, Nargacuga, Zinogre, Rathian, Gold Rathian, Pink Rathian, Rathalos, Silver Rathalos, Azure Rathalos, Qurupeco, Green Nargacuga, and Duramboros. For information about these monsters, go to monsterhunter.wikia.com<br>\r\n<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305090000,
+            "id":1104286,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "1553":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Volcano (Tri)",
+                "Forest and Hills",
+                "Swamp"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well these won't work for you at all. Why not these areas?</span></div></span></div>",
+            "created":1305090000,
+            "id":1104288,
+            "title":"Next Areas, really?"
+        },
+        "15531":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is the list of monsters you will encounter on the Tri version of the Volcano.<br>\r\n<br>\r\nAptonoth, Kelbi, Giggi, Felyne, Melynx, Wroggi, Great Wroggi, Bnahabra, Altaroth, Rhenoplos, Slagtoth, Uroktor, Agnaktor, Uragaan, Steel Uragaan, Rathalos, Volvidon, Crimson Qurupeco, Brachydios, Deviljho. For information on these monsters, visit monsterhunter.wikia.com<br>\r\n<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305090000,
+            "id":1104291,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "15532":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is a list of monsters you will encounter in the Forest and Hills.<br>\r\n<br>\r\nBullfango, Velociprey, Velocidrome, Felyne, Melynx, Kelbi, Mosswine, Shakalaka, King Shakalaka, Vespoid, Aptonoth, Great Thunderbug, Yian Kut-Ku, Blue Yian Kut-Ku, Yian Garuga, Rathian, Pink Rathian, Rathalos, Azure Rathalos, Chameleos. For information on these monsters, visit monsterhunter.wikia.com<br>\r\n<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305090000,
+            "id":1104292,
+            "title":"Monster List and Which Gender are You?"
+        },
+        "15533":{
+            "author_id":"skywarrior492",
+            "author_name":"Sealwolf",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>Here is the list of monsters you will encounter in the Swamp.<br>\r\n<br>\r\nIoprey, Iodrome, Genprey, Gendrome, Felyne, Melynx, Aptonoth, Kelbi, Conga, Congalala, Bullfango, Bulldrome, Remobra, Vespoid, Queen Vespoid, Shogun Ceantaur, Terra Shogun Ceantaur, Yian Kut-Ku, Blue Yian Kut-Ku, Gypceros, Purple Gypceros, Khezu, Red Khezu, Basarios, Gravios, Black Gravios, Kirin, Chameleos, Teostra. For information on these monsters, visit monsterhunter.wikia.com<br>\r\nAnyway, which gender are you?</span></div></div>",
+            "created":1305176400,
+            "id":1104719,
+            "title":"Monster List and Which Gender are You?"
+        }
+    },
+    "info":{
+        "author_id":"skywarrior492",
+        "author_name":"Sealwolf",
+        "brief_description":"As the only, and smallest human in this world, you must survive from man-eating monsters.",
+        "created":1305054720,
+        "description":"<td align=\"left\" class=\"norm\">This story is based on the video game called Monster Hunter, but with a little twist. Instead of being a hunter, you are a tiny human who is struggling to survive. You can decide which place based on the game where you can go to, pick which gender are you, and then choose whether you survive or get eaten by a monster. There will be a few rules in the story however...<br>\r\n<br>\r\nFor example:<br>\r\n<br>\r\nYou are the only human in the story. You cannot place other people in it.<br>\r\nSmall animals in real-life can appear in the story (Weasel, Squirrel for example) but make sure they don't eat your main character!<br>\r\nSome monsters will be able to talk when you are small, just make sure there's no vulgarity or anthros(excluding Lynians).<br>\r\nHard and Soft Oral Vore must be common, you can add other vore stuff too, but Oral must be more common.<br>\r\nSome Elder Dragons and other monsters may not appear in the story (Ashen Lao-Shan Lung, Lao-Shan Lung, Black/Crimson/White Fatalis, Yama Tsukami, Akantor, Ukanlos, Regular/Goldbeard Ceadeus, Regular/Hallowed Jhen Mohran, Alatreon, Rusted Kushala Daora, Dire Miralis, Lucent Nargacuga, Abyssal Lagiacrus) but if you want them to appear that's fine by me. ;)<br>\r\nAlso make sure no Lynians (Felyne, Melynx, Shakalaka, and King Shakalaka) eat your main character!<br>\r\nThe age for your character will be between 13 and 30 in the story.<br>\r\n<br>\r\nI hope you enjoy this and have a good reading!</td>",
+        "id":1775238,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1467704400,
+        "modified":1467704400,
+        "pretty_title":"Shrunk in a Monster Hunte/d World (Vore)"
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "Go see your sister",
+                "Go see your Mom",
+                "Go check out the \"surprise\" room",
+                "Head to school for your first day",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You are Dave, a 15 year old boy, with a, let's say, unique, issue. You basically never grew taller since you passed 4 years old. Other than that, things have been fine with your body, but that's being very nice. You take things one day at at time, and special provisions were always made at your school for your condition.<br>\r\n<br>\r\nYour biggest problems tended to come  at home with your overly doting Mom always wanting to \"baby\" you, though luckily not literally, at least not yet, and your younger, and full size, sister constantly wanting to play pranks on you. Despite all this, you can usually tell they care.<br>\r\n<br>\r\nNow though, you're moving to a new town, and to a new school. The School has been made aware of your needs, but you've yet to meet any of the faculty or students. You're also still in the middle of unpacking at your new home, and your Mom has been acting strangely, even for her, working in a room of the house she keeps claiming is a \"surprise.\"<br>\r\n<br>\r\nNow what?</span></div></div>",
+            "created":1602944220,
+            "id":2923355,
+            "title":"The beginning"
+        },
+        "13":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide you want to get a peek at this \"surprise\" your mother has been talking about. Since she's downstairs making breakfast, you figure this would be your chance.<br>\r\n<br>\r\nYou head over to the room and check the door. Is it locked?</span></div></div>",
+            "created":1602946920,
+            "id":2923380,
+            "title":"Go check out the \"surprise\" room"
+        },
+        "132":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "It's a nursery",
+                "Nothing, room \"appears\" to be empty",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Considering your small stature, it has been necessary to keep stools at each door to help you reach the doorknob. This one however, was the one door in the house without one. You went over to another door and came back with its stool to check this door, and found that it actually wasn't locked. You open the door completely and see inside.</span></div></div>",
+            "created":1604758620,
+            "id":2936143,
+            "title":"No"
+        },
+        "1321":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "Baby Boy",
+                "Baby Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it a nursery for a baby boy or a baby girl? </span></div></span></div>",
+            "created":1605820800,
+            "id":2942724,
+            "title":"It's a nursery"
+        },
+        "1322":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "A hidden door",
+                "A button",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You enter the room, and it appears to be empty. Why did Mom try to keep this room a secret? Is it not finished? <br>\r\n<br>\r\nWhat's really strange is that you could swear you saw her bringing boxes into this room. Did she take everything out when you weren't here?<br>\r\n<br>\r\nYou investigate further and think you see something.</span></div></div>",
+            "created":1604758800,
+            "id":2936146,
+            "title":"Nothing, room \"appears\" to be empty"
+        },
+        "13222":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "Gas puts you to sleep",
+                "Robot arms come out of the walls",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see what looks like a button on the wall. It's too high up for you, but with your stool again, you manage to reach it. You don't know what the button does, but curiosity gets the better of you, and you decide to press it. </span></div></span></div>",
+            "created":1604758980,
+            "id":2936147,
+            "title":"A button"
+        },
+        "14":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "Your Mom",
+                "Your sister",
+                "A teacher",
+                "A student",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to head to school for your first day. Your Mom gave you a lift of course, and because of your size, you had to sit in a special seat. You tried hard to keep your Mom from getting excited every time you got in, and wanting to strap you in herself. Your sister would also often tease you about your \"carseat.\"<br>\r\n<br>\r\nAfter arriving to school, you and your sister went your separate ways. She \"half jokingly\" offered to take you to your first class, but you insisted you were fine.<br>\r\n<br>\r\nAs you walked the halls, looking for your classroom, someone called out to you. Who was it?</span></div></div>",
+            "created":1602946020,
+            "id":2923372,
+            "title":"Head to school for your first day"
+        },
+        "142":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "Your correct class",
+                "The Principal's Office",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><div> <span>It was your sister Liz. Despite your earlier comments, she had come back to offer \"assistance\"<br>\r\n<br>\r\nI told you I'm fine, you said<br>\r\n<br>\r\nDon't be like that bro, I'm just here to help. It must be hard to see everything from down there after all.<br>\r\n<br>\r\nAnd with that she picked you up, raising you to her shoulder level. You hated when she did this. Yes, you could see better, but it felt so demeaning, and you definitely didn't want to be seen like this.<br>\r\n<br>\r\nHere, I'll take to your first class<br>\r\n<br>\r\nWhere does she take you?</span></div></div>",
+            "created":1602946380,
+            "id":2923373,
+            "title":"Your sister"
+        },
+        "1423":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "1st grade",
+                "2nd grade",
+                "Even younger"
+            ],
+            "content":"<div class=\"\"><div> <span>After a moment, you can clearly tell she isn't taking you where she was suppose to. As you walk the halls, things begin to get more and more colorful, the walls adorned with drawings and art, as the grades you were passing were getting lower and lower.<br>\r\n<br>\r\nWhere did she ultimately take you?</span></div></div>",
+            "created":1602946560,
+            "id":2923375,
+            "title":"Somewhere else"
+        },
+        "14233":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "Kindergarten",
+                "Pre School",
+                "Nursery"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Nope, it was even worse</span></div></span></div>",
+            "created":1602946560,
+            "id":2923377,
+            "title":"Even younger"
+        },
+        "142333":{
+            "author_id":"whateverelse",
+            "author_name":"whatever",
+            "choices":[
+                "Baby Boy",
+                "Baby Girl",
+                "*suddenly someone walks in*"
+            ],
+            "content":"<div class=\"\"><div> <span>As the realization of her sister's scheme started to unfold you looked around and saw the walls covered in childish teddy bears and building blocks decorum as you approach what you knew to be the nursery of this school. Part of you prayed that this was just an honest mistake on her part, but given Liz's mischievious streak, you knew better than to give her the benefit of the doubt with these things. <br>\r\n<br>\r\n\"Liz,\" you whisper in her ear as she walks down the hall, a bit of anger in your voice, \"Where are you taking me?\" <br>\r\n<br>\r\n\"Aw don't worry little Davey,\" she cooed at you on her shoulder as she pat you gently on the back, \"I just thought I'd take you to a class that would fit you much better!\" <br>\r\n<br>\r\nWithout another word Liz walks up to a pink door labeled \"Nursery\" and opens it up. Inside you see several cribs lining the walls as well as changing tables and clothing racks for the children to wear. <br>\r\n<br>\r\n\"My friend Claire volunteers in here so she'll be able to take care of you today with the other volunteers,\" she says with a smile, \"But first I think it's time to get you dressed!\" <br>\r\n<br>\r\nLiz carries you over to a changing table and sets you down. You try to fight her but it's no use as she is much bigger than you! <br>\r\n<br>\r\n\"Hmmm,\" she says looking through the clothing racks, \"Now should I dress you up as a baby boy or a baby girl?\" <br>\r\n<br>\r\nAfter a moment she decides...</span></div></div>",
+            "created":1602963120,
+            "id":2923481,
+            "title":"Nursery"
+        },
+        "143":{
+            "author_id":"hjerry2000",
+            "author_name":"hryjry",
+            "choices":[
+                "Kindergarten teacher",
+                "Your Homeroom teacher",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>The person who called out to you was an adult woman. She looked young but also clearly worked there, so you guessed she was a teacher.<br>\r\n<br>\r\nWell hello there little guy. What are you doing out here all by yourself?<br>\r\n<br>\r\nOh great, she obviously thinks I'm a little kid, you thought<br>\r\n<br>\r\nWho is this woman?</span></div></div>",
+            "created":1602946800,
+            "id":2923378,
+            "title":"A teacher"
+        }
+    },
+    "info":{
+        "author_id":"hjerry2000",
+        "author_name":"hryjry",
+        "brief_description":"Things are rough when you're the size of a toddler, and they're about to get tougher.",
+        "created":1602943740,
+        "description":"<td align=\"left\" class=\"norm\">A story about a short boy and the trouble he can get into. (Inspired by a since deleted story)<br>\r\n<br>\r\nIntroductory Characters:<br>\r\n<br>\r\nYourself: A 15 year old boy with a growing disorder<br>\r\nAndrea: Your mother, A woman in her 30s, looks young for her age<br>\r\nElizabeth: Your younger Sister, 12, everyone calls her Liz, tends to be mischievous </td>",
+        "id":2235499,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1605820800,
+        "modified":1605820800,
+        "pretty_title":"A man of Small Stature"
+    }
+}

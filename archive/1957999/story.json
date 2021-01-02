@@ -1,0 +1,207 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "ahri-caitlyn",
+                "cassiopeia-fiora",
+                "Irelia-katarina",
+                "leblanc-lux",
+                "the rest"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a summoner in the league of legends, however you find yourself shrunk to the size of 2 inches and powerless. As you contemplate what you should do next, you realize you are not alone. </span></div></span></div>",
+            "created":1381784460,
+            "id":1679187,
+            "title":"Welcome summoner"
+        },
+        "11":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "Ahri",
+                "Akali",
+                "Annie",
+                "Ashe",
+                "Caitlyn"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pick a female champion</span></div></span></div>",
+            "created":1381784820,
+            "id":1679193,
+            "title":"ahri-caitlyn"
+        },
+        "12":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "Cassiopeia",
+                "Diana",
+                "Elise",
+                "Evelynn",
+                "Fiora"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select a female champion</span></div></span></div>",
+            "created":1381784880,
+            "id":1679194,
+            "title":"cassiopeia-fiora"
+        },
+        "13":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "Ireliia",
+                "Janna",
+                "Jinx",
+                "Karma",
+                "Katarina"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select a female champion</span></div></span></div>",
+            "created":1381784940,
+            "id":1679196,
+            "title":"Irelia-katarina"
+        },
+        "14":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "leblanc",
+                "Leona",
+                "Lissandra",
+                "Lulu",
+                "Lux"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select a female champion</span></div></span></div>",
+            "created":1381785000,
+            "id":1679198,
+            "title":"leblanc-lux"
+        },
+        "144":{
+            "author_id":"hoppyman11",
+            "author_name":"Toxic267",
+            "choices":[
+                "Behind you, she's your support",
+                "Looming in front of you, she's who you're up against!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You hear large footsteps followed with a glee filled giggle. You hear it coming closer and closer, you see a comparatively gigantic yordle, but she's...</span></div></span></div>",
+            "created":1488072780,
+            "id":2282285,
+            "title":"Lulu"
+        },
+        "1441":{
+            "author_id":"hoppyman11",
+            "author_name":"Toxic267",
+            "choices":[
+                "Shrinks the entire enemy team to two inches tall",
+                "Use a more potent version of wild growth"
+            ],
+            "content":"<div class=\"\"><div> <span>Lulu smiles gleefully as she quickly scoops you up. \"Don't worry, you're safe with me.\" She consoles you as she walks into the nearest bush. She seems oddly confident for somebody whose lane partner is the size of a rat. She looks ahead at Thresh and Varus with a wicked grin on her face. \"They don't even notice us, how about we give them a little surprise?\" She offers as she holds her staff up and...</span></div></div>",
+            "created":1488073440,
+            "id":2282287,
+            "title":"Behind you, she's your support"
+        },
+        "15":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "Miss Fortune-nami",
+                "nidalee-quinn",
+                "Riven-sivir",
+                "sona-syndra",
+                "Tristana-Zyra"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
+            "created":1381784640,
+            "id":1679188,
+            "title":"the rest"
+        },
+        "151":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "Miss fortune",
+                "Morgana",
+                "Nami"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select a female champion</span></div></span></div>",
+            "created":1381785060,
+            "id":1679200,
+            "title":"Miss Fortune-Nami"
+        },
+        "152":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "nidalee",
+                "Orianna",
+                "Quinn"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select a female champion</span></div></span></div>",
+            "created":1381785360,
+            "id":1679204,
+            "title":"nidalee-quinn"
+        },
+        "153":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "Riven",
+                "sejuani",
+                "Sivir"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select a female champion</span></div></span></div>",
+            "created":1381785420,
+            "id":1679206,
+            "title":"Riven-sivir"
+        },
+        "154":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "Sona",
+                "Soraka",
+                "Syndra"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select a female champion</span></div></span></div>",
+            "created":1381785480,
+            "id":1679207,
+            "title":"sona-syndra"
+        },
+        "155":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "Tristana",
+                "Vayne",
+                "Vi or zyra"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select a female champion</span></div></span></div>",
+            "created":1381785540,
+            "id":1679208,
+            "title":"Tristana-Zyra"
+        },
+        "1553":{
+            "author_id":"tyrion13",
+            "author_name":"tyrion13",
+            "choices":[
+                "Vi ",
+                "Zyra"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select a female champion</span></div></span></div>",
+            "created":1381785540,
+            "id":1679209,
+            "title":"Vi or zyra"
+        }
+    },
+    "info":{
+        "author_id":"tyrion13",
+        "author_name":"tyrion13",
+        "brief_description":"Ok its about time we had a LOL giantess interactive. You are shrunk in the LOL world",
+        "created":1381784160,
+        "description":"<td align=\"left\" class=\"norm\">You are shrunk in the world of league of legends, besides the main character, female characters only. I encourage soft vore, but will allow most other things with the exception of scat and farting. </td>",
+        "id":1957999,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1488073440,
+        "modified":1488073440,
+        "pretty_title":"League of legends giantess story"
+    }
+}

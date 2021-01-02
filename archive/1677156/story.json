@@ -1,0 +1,771 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>first of are you a guy or a girl?</span></div></span></div>",
+            "created":1275022800,
+            "id":890716,
+            "title":"choices"
+        },
+        "11":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "15-18",
+                "18-21",
+                "21+"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok so your a gay, how old?</span></div></span></div>",
+            "created":1275022800,
+            "id":890717,
+            "title":"Male"
+        },
+        "111":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>ok so your a kid so your in highschool. do you have a job?</span></div></span></div>",
+            "created":1275022800,
+            "id":890757,
+            "title":"15-18"
+        },
+        "1111":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "Pizza delivery boy",
+                "Bus boy",
+                " fast food casher."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what is it?</span></div></span></div>",
+            "created":1275022800,
+            "id":890759,
+            "title":"yes"
+        },
+        "11111":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "To (start)",
+                "From (start)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>were you on your way to work or from?</span></div></span></div>",
+            "created":1275973200,
+            "id":896429,
+            "title":"Pizza delivery boy"
+        },
+        "111111":{
+            "author_id":"nedrin",
+            "author_name":"nedrin",
+            "choices":[
+                "move with some of the other survivors cause it's safer to keep moving",
+                "stay and help rebuild the barricade cause the military may come through any day "
+            ],
+            "content":"<div class=\"\"><div> <span>    You were walking to work tonight because it was a nice night. You been hearing on the news for a few days about grisly murders of someone eating or biting another human being, but you didn't give it much thought cause there's a lot of wackos out there. You just thought it was just one of them kind of people. While you were lost in thought you see another person stumbling along the dimly lit streets and see he's not normal for his clothes are tattered and torn and there's a gash that barley bleeding when it should be gushing blood.<br>\r\n<br>\r\n    You see him start running into the alley and you follow him. You see a homeless person drinking a bottle of whiskey and all of the sudden the guy you were following started sprinting towards him and the homeless person notices and tries to outrun but only ends in vain as the guy jumped on top of him and started eating the person alive. The homeless person was stronger than you thought and threw the guy off but suddenly started having a seizure and died right there. You ran afraid the guy would chase and you kick a can while running and he starts chasing you. He jumps on you and woke up in a sweat and realized you were being haunted of the scene you saw a month before the infection. You look out your window in the safe house and see it's daylight when the less zombies are about and saw some of the other survivors some planning on moving to another town while others started rebuilding the barrier and had to choose between two things.</span></div></div>",
+            "created":1372309200,
+            "id":1618833,
+            "title":"The Beginning of a new world"
+        },
+        "111112":{
+            "author_id":"cornsnacks",
+            "author_name":"Sakuya Kawakami",
+            "choices":[
+                "Try your luck with another knock",
+                "Take the food back to your car "
+            ],
+            "content":"<div class=\"\"><div> <span>You are almost at the end of a long night delivering hot pizzas all around town. Unlike most nights, something weird has been happening - most people haven't been opening the door and since they paid online, you left the boxes on the porch, pissed that you couldn't get a tip. <i>\"Can't wait to quit this job...\"</i> You mumble to yourself. Your phone lights up with a notification. Last house of the night. Maybe these folks won't be too drunk or stoned to open up and give you a few bucks.<br>\r\n<br>\r\nThe last house of the night is a normal-looking suburban place with two floors. All the lights on the inside look off which is never a good sign. You sigh and walk up to the porch with their order: three cheese pizzas and a meat lover's special with a side of garlic bread. Annoyed, you knock on the door. No response. So you knock again and again, pissed off that you missed on a tip. As you get ready to leave and decide to take the food with you, you hear a growling from behind the door.<br>\r\n<br>\r\n\"What the hell?\" You pause at the porch. They don't want to open up and now they're making sounds at you? \"Hey! Open up this door...\" Another growl is heard through the door. People these days have no manners whatsoever...</span></div></div>",
+            "created":1586649180,
+            "id":2817342,
+            "title":"Graveyard shift"
+        },
+        "11112":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "To (start)",
+                "From (Start)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>were you going to work or from it?</span></div></span></div>",
+            "created":1275973200,
+            "id":896430,
+            "title":"Bus boy"
+        },
+        "11113":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "to (START)",
+                "from (START)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>were you going to or coming from work?</span></div></span></div>",
+            "created":1275973200,
+            "id":896431,
+            "title":"last choise"
+        },
+        "1112":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "Walking to school (morning)",
+                "Going to a friends house (Afternoon)",
+                "Heading to a party.(night)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>so you just go to school. what were you doing when hell broke loose?</span></div></span></div>",
+            "created":1275454800,
+            "id":893304,
+            "title":"no"
+        },
+        "11122":{
+            "choices":[
+                "Group one",
+                "another choice"
+            ],
+            "content":"<div class=\"\"><div> <span>You and some friend where just walking to a freinds house when you see a guy on the ground it was (enter guy you hate Name) his neak was rip open as a girl was chomping on his face. It tern to your group looking at you with empty eyes it lunged at you a strock of luck you kick it dead center sending it back it land on the now moving corps of (entr name of guy you hate) as he was now moving. every one was freak out one of your freind grabs a pipe from a truck neer by and smashis the girl crushing her skull. you didn't get that luxtury you had to fight bare handed well untill the guy crack him over the head. you all look at each other you all thought about one thing. <br>\r\nAll most in a hormonic sound of unien you all said \"IT Z-DAY.\" you guy each get a wepon from the truck. <br>\r\nWho in your group?</span></div></div>",
+            "created":1287637200,
+            "id":978958,
+            "title":"Going to a friends house (Afternoon)"
+        },
+        "111221":{
+            "choices":[
+                "Get to a Freinds house (safe place hopefuly)",
+                "Steal a ride, andhead to a gun shop. (mobilaty and guns)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Azure: you<br>\r\nAaron : guy<br>\r\nSam : girl<br>\r\nEric : Guy<br>\r\nWHat up first on the list of things.<br>\r\n</span></div></span></div>",
+            "created":1287723600,
+            "id":978984,
+            "title":"Group one"
+        },
+        "1112212":{
+            "choices":[
+                "Friends house",
+                "just driving around."
+            ],
+            "content":"<div class=\"\"><div> <span>Azure look around he was a truck empty he walk over to investigat it the owner was on the the ground dead. Azure smashe his head open and look in the ting was empty it was a new truck. Azure got in Sam was in the passanger seat, Aaron and Eric where in the truck bed with the pipes. s you drove around you saw the hell on earth it was hell people screaming s you drove you cae apon a Big Five.<br>\r\n\"Shoping time. let go.\" Azure said as he tern the Truck around and hop out of it and ran in to the store behind him was Aaron,Sam, and eric as they jump out of the truck.<br>\r\nThe Shop was empty, Azure look around.<br>\r\n\"Sam  Eric grab what food you can and some camping equipment. Aaron with me. Stay alert we don't want a attack in here.\" As Eric waches Sam fill back packs with random object in the store. Azue and Aaron run to the gun counter the cases where still intack and gun still there. \"Once it brack we better move it all right?\" Aaron said as Azure noded Aaron swung at the case braking it open.  alarm sound as AAron and Azure grab as much ammo as they can stuff in the back pack and as menny gun that it look like there going to supply a army. once done Sam tosss the bag in the back Eric jump up and pull Aaron in Sam jump in the front with Azure and they sart driving. where to?<br>\r\n</span></div></div>",
+            "created":1287896400,
+            "id":980203,
+            "title":"Steal a ride, andhead to a gun shop. (mobilaty ..."
+        },
+        "11122122":{
+            "author_id":"yogi-bear",
+            "author_name":"Undbitr",
+            "choices":[
+                "tell about your idea",
+                "stick with the country"
+            ],
+            "content":"<div class=\"\"><div> <span>As you were driving around town with no where to realistically go you decide to go out into the country where you could see them coming from a long ways away.<br>\r\n<br>\r\n<br>\r\non your way out of town though you think of possibly going out to sea and eventually finding an island to live on. do you voice your Idea or just stick with the plan?</span></div></div>",
+            "created":1299128400,
+            "id":1064257,
+            "title":"just driving around."
+        },
+        "111222":{
+            "author_id":"jackle_1",
+            "author_name":"Anubis_1",
+            "choices":[
+                "you find a safe place nearby (church)",
+                "you find another place nearby (Motel)"
+            ],
+            "content":"<div class=\"\"><div> <span>Gale: 16 year old, female, has short blond hair blue eyes and pretty face, super girly, weapon: fold up shovel<br>\r\nSam: 16 year old, male, has short brown hair and usually wears sunglasses, tough, weapon: sledge hammer<br>\r\nPete:18 year old,male,has long brown hippie hair,a stoner and is almost always illegally high,: screw driver<br>\r\nYou:  18 year old, male, weapon: cordless drill<br>\r\nAlly:   17 year old, female, has black long hair and a gothic style, Goth, weapon: hammer </span></div></div>",
+            "created":1428027900,
+            "id":1957922,
+            "title":"another choice"
+        },
+        "112":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "high school",
+                "between",
+                "college"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>so you still in high school or college?</span></div></span></div>",
+            "created":1275022800,
+            "id":890774,
+            "title":"18-21"
+        },
+        "1121":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>so your still in school, Got a job?</span></div></span></div>",
+            "created":1275454800,
+            "id":893306,
+            "title":"high school"
+        },
+        "11211":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "Stock boy at the local super market.",
+                "deliveryman at the local UPS."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what is it?</span></div></span></div>",
+            "created":1275454800,
+            "id":893307,
+            "title":"Yes"
+        },
+        "11212":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "walking to school",
+                "walking home from school"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>No job so what were you doing when everyhting went fubar?</span></div></span></div>",
+            "created":1275454800,
+            "id":893309,
+            "title":"No"
+        },
+        "1122":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "construction worker",
+                "repairman",
+                "deliveryman for the local FedEx"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>so youir in between schooling, which means you work, what do you do?</span></div></span></div>",
+            "created":1275454800,
+            "id":893313,
+            "title":"between"
+        },
+        "11222":{
+            "author_id":"evilguy",
+            "author_name":"evil dude",
+            "choices":[
+                "Running to your truck and grabbing the revolver you keep in the dashboard...",
+                "Running to your truck and driving the hell out of here..."
+            ],
+            "content":"<div class=\"\"><div> <span>You drive down the road slowly in your truck, keeping your eyes on the road ahead as you make your way to your destination. The rain was heavy, but you were more worried about the reports you've been hearing on the news. Violent killings, possible mass hysteria, possible cannibalism. You shivered at the thought, the damn news would air anything these days just to bring in ratings. You turn the next corner and switch on the radio, flipping through the channels of static until you come to a station playing \"Whiskey Hangover\" by Godsmack. There was minimal static on this one so you decided to leave it on. \"Maybe they'll play some newer songs soon.\" You say to yourself as you look out the side window. On the other side of the street is a group of people standing over a collapsed teenager with blood on her face. \"Oh Jesus...\" You say as you stop at the corner and turn off the truck. You check your watch, your supposed to be at work in another hour. \"Phew, I still have plenty of time, good thing I got up early this morning.\" <br>\r\n<br>\r\n<br>\r\nYou put on your raincoat and step out into the downpour, careful to avoid stepping in the growing puddles of water as you make your way over to the crowd. \"Did anyone call an ambulance?\" You stutter as you stop next to a fat man with an umbrella. \"No good.\" A woman said as she checked the girls pulse. \"She's dead.\" No sooner had the words left her lips then the girl sat up straight, her eyes lifeless and unmoving. \"My god! Its a miracle!\" The woman shouted as the crowd began to cheer. \"She's alive!\" Their celebration was cut short, however, when the girl bit into the woman's arm with a furious growl. \"Eeeeekkkk! Get her off me!\" The woman screamed as the group of people began to back away. \"Shit!\" You yell as you stumble out into the street. The woman begins sobbing softly as the skin is slowly peeled from her arm by the monster. \"H-help me...\" She choked out as blood covered her dress. Its takes you a moment to regain your senses, but you decide to act quickly by...</span></div></div>",
+            "created":1287637200,
+            "id":978920,
+            "title":"Todays off to a great start..."
+        },
+        "112221":{
+            "author_id":"evilguy",
+            "author_name":"evil dude",
+            "choices":[
+                "Shoot the woman before she gets to you!",
+                "Run to the truck and get the hell out of here!"
+            ],
+            "content":"<div class=\"\"><div> <span>You run back to your track as the people around you begin screaming and running away. You pull open the door and quickly climb inside, not even caring about getting the seats wet. You pull open the dashboard compartment and push aside the papers inside. Your hand soon touches something metallic and you pull it out. In your hands is the shiny silver revolver you thought you'd never have to use. You get out, slam the door back, and run back over to the scene of the attack. The woman has passed out from blood loss at this point and the teenage girl is now chewing the meat off her arm. You close your eyes and point the gun, your hands shaking as try to pull the trigger. \"I don't think I can do this...\" You think silently to yourself, but fate had other plans in store for you.<br>\r\n<br>\r\n<br>\r\nThe gun went off before you could even comprehend what was happening. A red dot appeared on the girls chest that quickly began growing into a large red spot on her sweater. She released the woman and got up with a savage growl. You start to feel really scared now and fire off another shot. This one hit her in the neck, severing a huge blood vessel and causing ever more blood to run down her pale and lifeless body. \"How can you still be standing?!\" You shout as you fire a third shot at her head. The bullet pierced her left eye and lodged itself into her brain. She let out a groan and fell into the cold street unmoving, she was dead. \"Oh... my god...\" You gasped as you lowered the gun to your side. Was it over? You turned to walk back to your truck when another growl shatters the silence. The woman had gotten up, shredded arm and all, and was advancing on you with frightening speed. What now?</span></div></div>",
+            "created":1287637200,
+            "id":978931,
+            "title":"Bad to worse"
+        },
+        "1122212":{
+            "author_id":"genius0312",
+            "author_name":"cerial",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You fumble with the revolver in your sweaty hands and watch in horror as it tumbles to the ground. Looking up you see the woman running faster towards you. Without a second thought, you jump into your truck and grab the handle of the door. A sudden slam against the glass of the door tosses you against the center council leaving the door slightly open. The woman fumbles her fingers around the door finding the edge and pulls it open. At the same time, you pull the door closed. There is a crunching as the woman's fingers twitch inside the door. She lets out a wail and begins bashing her head against the door hard in an attempt to get in. You reach for the keys and turn the ignition as the sound of the glass continues echoing next to your head.<br>\r\n<br>\r\nDoes the truck start?</span></div></div>",
+            "created":1287810000,
+            "id":979834,
+            "title":"The truck"
+        },
+        "11222121":{
+            "author_id":"genius0312",
+            "author_name":"cerial",
+            "choices":[
+                "Open the door",
+                "Slam on the gas"
+            ],
+            "content":"<div class=\"\"><div> <span>To your relief, the engine awakens from its slumber leaving you grabbing the shifter and placing it in drive. The sound of screeching tires are heard as you propel the truck forward. The woman stops banging her head against the glass and begins running along the side of the truck. You accelerate to 30 mph dragging the woman with a momentary feeling of regret until you hear her fingers scratching the paint reaching for the handle. She slaps it and makes a terrifying sound bashing her hand against the glass shattering the window and sending the glass inside the cab. The truck swerves as you regain your consciousness, and you are faced with the question of opening the door or slamming on the gas.</span></div></div>",
+            "created":1287810000,
+            "id":979838,
+            "title":"Joy ride"
+        },
+        "112221211":{
+            "author_id":"genius0312",
+            "author_name":"cerial",
+            "choices":[
+                "Silence the man using the tire iron",
+                "Get out of the window and run for cover"
+            ],
+            "content":"<div class=\"\"><div> <span>You open the door and watch as the woman drops from view. The sound of a bump is immediately heard as the woman's arm falls into the tires path. With a sigh of relief you close the door and look back forward to the road ahead. The sight of something red runs out in front of you leaving you no time to react.<br>\r\n<br>\r\nBAM!<br>\r\n<br>\r\nThe airbag explodes blinding you as the truck spins before the passenger side sideswipes a parked car. The truck continues before it is ultimately wedged between the next parked car and the one you just sideswiped. You regain your senses finding a cloud of radiator fluid steam erupting under the truck. Looking behind you you hear screams of a man covered in blood and laying in the bed of your truck. You peer down at him watching his body go stiff. Pulling at the drivers door you find it wedged. A hand suddenly slams against the glass behind you and you hear the man scream standing up and bashing the top of the truck cab. Your eyes glance down on the floor spotting a tire iron. There does not seem to be any other undead around and you suddenly realize as the man cries out again bashing his hands harder that he is calling the others.</span></div></div>",
+            "created":1287810000,
+            "id":979851,
+            "title":"Keep your eyes on the road"
+        },
+        "1122212111":{
+            "author_id":"evilguy",
+            "author_name":"evil dude",
+            "choices":[
+                "Take shelter in a nearby building",
+                "Attempt to find a working car and drive out of here"
+            ],
+            "content":"<div class=\"\"><div> <span>With your adrenalin pumping you quickly grab the tire iron and swing it with all your might into the back window, hitting the man in the leg and causing glass to spray all over the bed of the truck. The man falls down, but soon tries to get back up as you climb out into the bed to finish him off. Fortunately, you make it out before he is able to stand back up and quickly put an end to him with two sharp whacks to the head. The pouring rain washes the blood from your hands and weapon as you climb down onto the street. In the distance you can hear growls and screams along with the sound of a few vehicles speeding by in an attempt to escape the growing mob of murderous humans. You began walking down the empty street and look around as you slowly begin to realize what is going on. The whole city is being overrun by these people, but why? What are they? Are they infected with some kind of virus? Has there been some type of biological terrorist attack? Right now you didn't care to know the answers to any of those questions. You just wanted to make it through today alive. You...</span></div></div>",
+            "created":1296622800,
+            "id":1046734,
+            "title":"The city slowly begins to fall..."
+        },
+        "112222":{
+            "author_id":"jackle_1",
+            "author_name":"Anubis_1",
+            "choices":[
+                "bathroom",
+                "bedroom"
+            ],
+            "content":"<div class=\"\"><div> <span>You run to your car not stopping even for the screams  of pain you heard behind you. You knew you kept a revolver in the dashboard and the gilt was killing you. You jump into your car slamming the door behind you. Your tires spring to life as you swerve down the street. It was getting hard to see from all the rain. You furiously tried to turn on the windshield wipers but you swerved of the road. <br>\r\n<br>\r\nYour chest crashed against the airbag that inflated infiltrating your field of vision. A pole hit the roof of your car blocking you from getting to the \"shotgun\" seat. You moved your arms pulling down the bag so you could see outside the window. \"Shit, shit, shit! This is going to cost me a lot!\" You shout. You look out the window as two figures appear, an old woman and a young boy. <br>\r\n<br>\r\nTheir eyes where very dilated. The old woman looked around sixty and the boy around eight. They crawled on the hood of the car staring at you. The boy reaches your window first and began pushing against the window. You could hear his awful moaning. <br>\r\n<br>\r\nYou grabbed the gun from the dashboard and shoot him in the chest. He stumbled back and continued forward. You shoot again, still nothing. The gun could hold six shoots so you had to spare them. You tried one more time this time in the head. The boy fell over lifeless, or even more lifeless then before. You aimed for the old woman and shoot her in the head. She tumbled off the side of the car. \"Two shoots left.\" you whispered \"I have to make them count.\" <br>\r\n<br>\r\nMore figures appeared. You made a run for it. You sprang out of the door and reached the door of a two story home. You knocked franticly. Sweat beaded in your hand and rain tricked down your face. Two teenaged corpses stumbled towards you with a middle aged man behind them. No one answered. You went to the back where and looked at your surroundings. You stood on a porch and saw a door and two windows that you could reach.<br>\r\n<br>\r\nYou stepped forward onto a pile of blood. You bit your tongue before you could scream. Thunder boomed and the undead where appearing out of the thick rain. You ran to the door pounding hard. You peeped in each window and saw that one lead to a bedroom and the other lead to a bathroom.     </span></div></div>",
+            "created":1428029760,
+            "id":1957941,
+            "title":"Where to now?"
+        },
+        "113":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "college",
+                "work for a living.",
+                "work? who works?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>so your an adult. in college or do you work for a living?</span></div></span></div>",
+            "created":1275282000,
+            "id":892013,
+            "title":"21+"
+        },
+        "1132":{
+            "author_id":"swamprat",
+            "author_name":"swamprat502",
+            "choices":[
+                "ex-military",
+                "club fed",
+                "civilian"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Club fed covers active military, federal agencies, police, sHeriffs, and others of the sort.</span></div></span></div>",
+            "created":1303621200,
+            "id":1093907,
+            "title":"background"
+        },
+        "11323":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "parents come to pick up their children",
+                "chaos starts to enter the building."
+            ],
+            "content":"<div class=\"\"><div> <span>21 year old daycare worker, youngest member to your cities largest and most respected daycare's. A typical day that had that same little faces to cheer up while their parents are busy. It was a job that you loved and one day you would hope to have a child of your own. The five floor building that you worked at was nicely kept in good condition and rightfully so seeing how the mayor's son was one of the kids that they took care of.<br>\r\n <br>\r\nNow may your twisted story of a life of easy living and smiles plunge into chaos and dismay. Will you be able to find the light at the end of the tunnel or will the horror consume your soul.<br>\r\n<br>\r\n   Walking into elevator and looking up at the bright rainbow colored ceiling, bringing a smile to your face for you knew that you where about to put smiles on the faces of so many young ones. Pushing the button for the top floor, you was the one placed in charged of that floor and was nicely making a good name for yourself within the building. \"Time to enjoy another day of smiles.\" You spoke softly to your self as you got ready for the long day ahead. \"I wish I only had as much energy as these children.\" You laugh as you are slowly reaching your destination. <br>\r\n<br>\r\nAs the doors open and everyone turned to see who was getting off you could see a sea of smiles light up on all the children as each one became visible from the sliding doors. \"Good morning everyone. Lets have a fun day today.\" You cheerfully chant and walk off the elevator and walked about making funny faces at the kids.<br>\r\n<br>\r\nIt was like any other day, reading stories, playing games and making the kids happy. As the day drew later and a few of the kids have left but still many that would of been gone still remained, you seemed bothered by something. A fellow worker said on his break he saw on the tv in the break room that there was a report of riots in the streets. \"Don't worry children your parents will be along for you.\" You called out to break the awkward feeling that was starting to grow from the children. It was now eight pm and a hand full of kids where still there at the most three hours past the normal pick up time. Your shift long over but you stayed with the kids until each one would be picked up.</span></div></div>",
+            "created":1382418000,
+            "id":1682758,
+            "title":"civilian"
+        },
+        "113232":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "Go and investigate the sound",
+                "Stay with the childeren and send one of the other two"
+            ],
+            "content":"<div class=\"\"><div> <span>As yo check your watch for what felt like the thousandth time you went back to trying to keep the childeren calm and entertained along with Allen and Margret two other employees who stayed behind to help you. Allen's giving up time he normaly used to study as he went to college while working part time at the daycare and margret being a middle age mother of two, her kids being at college now she started working at the daycare as she liked kids. She was you go two person as she was used to kids and helped you handle alls we of situations.<br>\r\n<br>\r\n As the three of you were boing through another verse of old McDonald had a farm you heard the distant squeal of tires rapidly aproching then the whole building shook as you heard the sound of twisting metals and shattering glass and the 5 childeren still with you began to cry.</span></div></div>",
+            "created":1383541200,
+            "id":1689609,
+            "title":"Good times going by, hell aproching fast"
+        },
+        "1132322":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "Get home and it safe",
+                "get home and it swarmed so go to the mall"
+            ],
+            "content":"<div class=\"\"><div> <span>You stood there with one of the children next to you, a five year old girl that was holding onto your pants for she was scared of the sounds. \"Be careful.\" You told him as he nodded his head and walked towards the elevator and pushed the button to call it up. All the sounds where unreal, people screaming and this unearthing moaning. The other care taker and the four other kids where closer to the elevator then you and just watched as the numbers where slowly climbing as it got closer. The familiar chime came before the doors slowly opened, but only to unveil a scene that made everyone's stomachs drop.<br>\r\n<br>\r\nThere in the small compartment of the elevator, the walls where covered in blood. And in the middle of it all was a woman kneeling over a man that two of the kids recognized. It was their mother and father, and the father's body started to twitch as the kids called out to them. The mother looked over at the care taker with empty eyes and her mouth dripping with blood from her husband's shoulder where she was biting him. \"Shit, Run.\" He yelled and in a flash the lady leaped at him and tackled him to the ground as you picked up the little girl by me and ran for the emergency exit.<br>\r\n<br>\r\nLooking back as you was running you saw her eating my coworker and friend. The two kids where running to their mother only to have the father get up and grab one of them. The other care taker tried to help but quickly all of them fell to what ever it was that caused the parents to become this way. \"Cover your eyes and don't watch.\" you told the girl as you carried her through the door and started down the stairs that lead to the parking lot. you had parked right in the spot next to the door and today you was grateful for that. <br>\r\n<br>\r\nListening to them pounding on the door above as we made it to the bottom and out into your car, you realized that they are not able to open doors so they try and smash their way into things. \"Hold on.\" you told the girl after putting both our seat belts on. you started driving with only one place in mind, that be your house which was across the street from a mall that was recently closed down for construction. Stores still had merchandise inside and you where helping a friend that owned a store inside move his stuff so had a key to get in. you lived alone so it would be safe.</span></div></div>",
+            "created":1384405200,
+            "id":1694393,
+            "title":"Stay with the childeren and send one of the oth..."
+        },
+        "11323222":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "it is empty and you are alone",
+                "someone else did get there before you"
+            ],
+            "content":"<div class=\"\"><div> <span>As You drove you and the girl saw the chaos that has taken over your once peaceful city, watching people running for their lives as others are trying to attack them. \"What is going on?\" You question as you try to avoid the chaos on the road of cars turned over and crashed as well as other drivers. Watching a car swerve out in front of you and running over three people made you stop and watch before you started to drive again. \"I will get you some where safe.\" You told the girl as you looked at her for a moment before looking back to the road.<br>\r\n<br>\r\nThe girl was scared and was looking out the window at a horror that she could not accept. \"Why are people hurting each other?\" She asked but you had no answer for her as she was wiping her tears from her eyes. \"I... I want to go home to Mommy and Daddy.\" She stated as she lowered her head, and the sad thing was you didn't know where she lived.<br>\r\n<br>\r\n\"You know where your house was?\" You ask her and she nodded and pointed out the window at a building ahead of you that was on fire. \"That building?\" You asked and she only nodded her head and cried as you could hear the screams of people still  trapped inside as well of those trying to kill them. You knew that there was no way you could help them and it hurt you to keep on driving. <br>\r\n<br>\r\n\"But mommy and daddy are in there.\" She cried as she watched the building disappear in the distance as you drove away and turned the corner and continued home.<br>\r\n<br>\r\n\"I am sorry.\" You told her but you knew that was not going to be enough to help her. \"I will protect you and keep you safe. I promise you that.\" You tell her in hope that will at least make her feel a little better and it seemed to for she tried to smile at you. The rest of the drive home was quiet besides the screams and moans of chaos outside that you did you best to avoid. But it seemed Chaos found it's way to your house for you could see a lot of people on your lawn and entering your neighbor's house. \"We will hide in the closed mall I have a key.\" You told her and she nodded her head.<br>\r\n<br>\r\n\"There a toy store and arcade in there still?\" She asked and you took a moment to think and nodded your head as you drove into the parking lot and around towards the back of the building. \"Is it safe?\" She asked you and you was quiet, for you could not answer that, the doors where shatter proof glass but you had no idea if anyone else with a key might of came here yet.<br>\r\n<br>\r\n\"Only those who have stores here have keys so few people can get in right now.\" You told her as you got out of the car and walked towards her door and let her out. There where no people in the parking lot so it would be safe to think that no one was inside yet. \"We have to hurry.\" You told her as you picked her up and carried her inside through the service door and locked it behind you before walking further into the mall itself. Majority of the stores still had merchandise there for the mall only closed for reconstruction to add the fifth floor last week. </span></div></div>",
+            "created":1384750800,
+            "id":1695890,
+            "title":"get home and it swarmed so go to the mall"
+        },
+        "113232221":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "take her to the toy store on floor three",
+                "tell her that you got to find a place to call safe base"
+            ],
+            "content":"<div class=\"\"><div> <span>Walking out of the service hallway into the main floor of the mall you see the service lights are all still on but there is no sound besides the mall music playing. \"It seems that we are the only ones to have made it here. I guess that is a good thing.\" You thought for it meant that there is less chance of a crazy person attacking you. \"Well, let's take a look around, and think on what we should do.\" You told her as she looked up at you. \"What wrong?\" You ask as she lowers her head and looks away.<br>\r\n<br>\r\n\"I need the toilet.\" She said shyly and you nodded your head. Taking her hand you start walking her around the first floor looking for a washroom. As you walked passed the stores she was having a harder time to hold it in until you found what you was looking for and she let go of your hand and ran off towards the girls room. You stood there and looked around the mall. It was creepy not having anyone else there.<br>\r\n<br>\r\n\"So How should we do this?\" He started to think for they could gather things into one store and use it as a base in a way. Secure it off from the rest of the mall in case those people do get in somehow. That was a thought that scared you, you couldn't protect your co-workers and the other kids. Would you be able to save this girl and yourself when the time comes? It was a horror that now lived with in yourself. <br>\r\n<br>\r\nYou was so lost in your thoughts that you did not notice the girl come out of the washroom and walk over to your side. \"I am done.\" She told you shaking you from your trance. \"So now what?\" She asked as she was looking around. \"Could we go and look at toys and play with them?\" She asked and this made you smile for it made you remember her innocence.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1384750800,
+            "id":1695920,
+            "title":"it is empty and you are alone"
+        },
+        "1132322212":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "Now look for food",
+                "bring these back first"
+            ],
+            "content":"<div class=\"\"><div> <span>A pounding sound came from a few of the entrance doors, it seemed that some of those things had followed your car over. \"We need to make a base first then you can bring all the toys you want there.\" You tell her as she gripped to your pants listening to the sound. \"Come on.\" You told her calmly as you gently take her hand and start to walk the first floor again. If your memory was correct there should be a Furniture store on this floor. Looking around and re-memorizing the stores as you passed them, you found your way to the store that you wanted to find. \"Okay we can use this store, there are beds and it not to far from the washrooms.\" You tell her as she looked at you and nodded her head. \"Come on.\" You smile as you walk into the store with her and start to look around. You came across one that looked like it was designed for a little princess. The girl let go of your hand and ran towards it before looking back at you. You nodded your head and looked around and found a simple bed for your self.<br>\r\n<br>\r\n\"You sure I can have it?\" She asked and you smiled as you walk over to her and kneel in front of her.<br>\r\n<br>\r\n\"Of course you can Rain.\" You smile and give her a small hug. \"Come on help me move things so that you have room to play in here.\" You stated and she nodded her head and together the two you moved things around and pulled the set that matched her new bed into a corner. The bed for yourself not far and then opened up a large section of the floor as well as closed the lock gates on the windows. \"Let's go get some food and your toys.\" You said and she jumped with a bit of joy despite the terrifying echoing of the glass panels of the doors being hammered on by bloody firsts of the dead.<br>\r\n<br>\r\nGoing up to the third floor with her and walking into the toy store. \"Yeah, I can have anything?\" She asked and you nod your head as she let go of your hand and started to run off as you looked about at the shelves while grabbing a shopping cart for you some how felt that you might need one with everything that she might want to pick up. As you was walking around you saw her running back to you with a bunch of dolls and stuffed animals. Once she dumped them into the cart she ran back off and you couldn't help but  laugh watching her as she was having fun. After several runs back and forth she picked up Lego, dolls, stuffed animals, clothes for dolls, doll play sets, as well as she drove back with a my size barbie in the passenger seat of the a battery powered child's jeep.</span></div></div>",
+            "created":1384870620,
+            "id":1696422,
+            "title":"tell her that you got to find a place to call s..."
+        },
+        "113232222":{
+            "author_id":"jackle_1",
+            "author_name":"Anubis_1",
+            "choices":[
+                "Go with him but keep the girl hidden...",
+                "Go with him and take the girl"
+            ],
+            "content":"<div class=\"\"><div> <span>You crept stealthily down the dark hallway. Nothing has been touched. You jump as a man in his sixties pounds against a window next to you. Instinctively you cover the girls eyes but you wish someone was there to cover yours. The man had milky-white eyes that were blank and expressionless. His nose and jaw where bent to the left. His bottom jaw was dangling from bone but he still managed to hold a bloody peace of flesh in his mouth. <br>\r\n<br>\r\nYou could only see his face from the window. You took the girls hand and lead her further down the hall. Suddenly you stopped dead in your tracks. A scream echoed through the hall. A woman's voice. She sounded like she was around fifteen or sixteen. So much pain was put in this scream. You took the girl by the back of her shirt and ducked behind a decorative potted plant. You heard something fall over and the breaking of glass. The girl next to you made a series of weird noises. She made a gulping noise and blinked rapidly. You put your hand over her mouth as you heard foot steps coming closer. <br>\r\n<br>\r\nCLACK. A gunshot echoed. You kept you and the girl hidden under the pot. A deep rumble filled the hall. What cruel laughter. \"Come on out.\" his voice boomed \"Don't keep me waiting.\" <br>\r\n<br>\r\nYou stand up and see him. His dark hair covered one eye and a bandana covered his mouth and nose. He was wearing a gray hoody and saggy jeans. An M-16 rifle was in his hands and a knife was on his belt. \"Why don't you come with me and meet my friends?\"     </span></div></div>",
+            "created":1428026340,
+            "id":1957907,
+            "title":"A man with dark hair."
+        },
+        "1132322222":{
+            "choices":[
+                "\"Hi i'm Richard and I'm a marine.\"",
+                "\"Hi i'm David and I'm a football player.\""
+            ],
+            "content":"<div class=\"\"><div> <span>         \"C'mon!\" He said with a hint of malice in his voice. \"You look strong and,\" He paused \"Able.\" The way he said that made you very uncomfortable. You remained under the decretive plant pot although it didn't provide much protection. \"Oh, and I saw the girl.\" He said in a threatening tone. \"So come on out and we can meet some friends of mine, or are we gonna kill you and the girl?\" There was a moment of uneasy silence before you spoke out in a shaky voice,<br>\r\n        \"Please, I'll come, just don't hurt the girl.\" <br>\r\n        \"Aight, stand up then, slowly!\" He emphasized slowly. <br>\r\n<br>\r\n        I glanced over my shoulder and the girl was crying with her hands over her face. I took one of her tiny hands in mine. Her hand was already stained in tears. We stood, slowly and he walked over to us. <br>\r\n        \"Good,\" he said, \"I didn't have to shoot you.\" You gulped and thought about the scream of a girl you heard earlier. It was this guy. He killed her. <br>\r\n<br>\r\n        The man walked behind us and I could feel the warm metal of his gun on my back. He told us to move and hesitantly I pulled the girl along with me. On the way he talked to us. It was weird but it seemed like this felt natural to him. He told us about how him and his buddies where going to turn this mall into a place to live. They already had a prison and a place to live. They lived inside of a book store and when they were hungry, would make food from places in the food court. He had four friends with him and three prisoners. <br>\r\n<br>\r\n        Walking along the hall we ran into a dead girl, She was 16 with blonde hair with a bullet wound straight through her left eye. Flies where already buzzing on her empty socket. The man never even looked at her. Further along we came to a closed gate of a salon and spa. <br>\r\n        \"All right, this is where the girl goes.\" He said lifting the gate. There where three sad figures slumped against a tanning bed. The man grabbed her hair and threw her inside. She fell to the ground and cried. Then you snapped.<br>\r\n<br>\r\n        Turning to the man you punched him square in the face and struggled for his gun. He gained the upper hand and knocked you back with his gun. He turned the gun and aimed it at you, <br>\r\n        \"Sorry, man.\" He said. As soon as you where about to be shot a black hulking figure came from the spa and tackled the man to the ground. His gun flew and landed far away from him.<br>\r\n        \"She was my friend,\" The figure whispered as it's hands wrapped around the man's neck. \"And you shot her,\" The figure's harsh raspy voice said as he chocked the life out of the man. Standing the Figure spoke again...    </span></div></div>",
+            "created":1495418400,
+            "id":2323352,
+            "title":"The \"Jail\""
+        },
+        "12":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "15-18",
+                "18-21",
+                "21+"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>ok so your female, how old?</span></div></span></div>",
+            "created":1275022800,
+            "id":890718,
+            "title":"Female"
+        },
+        "121":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>so your in highschool. got a job?</span></div></span></div>",
+            "created":1275022800,
+            "id":890772,
+            "title":"15-18"
+        },
+        "1211":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "waitress",
+                "fast food window girl",
+                "information kiosk at the mall."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what is it?</span></div></span></div>",
+            "created":1275022800,
+            "id":890773,
+            "title":"yes"
+        },
+        "12111":{
+            "choices":[
+                "Help Marco and fight the zombie.",
+                "Run."
+            ],
+            "content":"<div class=\"\"><div> <span>Renee was seventeen years old with raven black hair and had been working at the Village Inn as a waitress for nearly a year.  The pay was pretty lousy, the hours were erratic, and every night she went home with her face hurting from forcing herself to smile the whole time, but it could be worse.  Sure, the customers could get pretty weird, but at least she never had to deal with flesh eating monsters or anything.<br>\r\n<br>\r\nRight.<br>\r\n<br>\r\nIt was the smell she noticed first, when it happened.  It was a mix between formaldehyde, a dumpster, and a dead animal.  It was a man, limping like he had a sprained ankle, and his face was covered in blood.  He moaned.  Renee screamed.<br>\r\n<br>\r\n\"What's wrong?\" her boss, Marco, said when he heard the noise.  \"Sweet holy mother of--someone call an ambulance, this guy doesn't look good at all!  Sir, if you could sit down for a moment, we can--AAHH!  Get off of me, get him off of me!\" Marco screamed as the man grabbed him and sank his teeth into his shoulder.<br>\r\n<br>\r\n<i>I should help,</i> Renee thought.  <br>\r\n<br>\r\n<i>No you shouldn't,</i> another part of her said.  <i>Bloody, limping cannibals was not in your job description.  Run, run as far away as possible and don't look back.</i><br>\r\n<br>\r\nMarco needed help.  If she didn't do something soon, he would die.  But if she got involved, well, she wasn't going to let herself get killed for minimum wage.</span></div></div>",
+            "created":1318654800,
+            "id":1206981,
+            "title":"waitress"
+        },
+        "121111":{
+            "choices":[
+                "Wait at the restaurant for the police to get there.",
+                "This place isn't safe anymore, go home now."
+            ],
+            "content":"<div class=\"\"><div> <span>If saving your boss's life didn't get you a raise, nothing would.  Renee looked around for anything she could use as a weapon.  Everyone in the restaurant had noticed Marco being eaten, but they didn't try to help or run, they just sat there.  Renee grabbed a knife out of the hand of a customer who was using it to slice his pancakes.<br>\r\n<br>\r\n\"Hey, I was using that,\" the man protested.<br>\r\n<br>\r\n\"You can have it back afterwards,\" she promised.  Afterwards, she doubted that he would still want it.  She ran at the deranged man who was eating her boss and stabbed him in the back.  He grunted, and with the knife still stuck in his back, he turned around as though noticing her for the first time.<br>\r\n<br>\r\nHis eyes were not the eyes of the living.  The white were yellowed, the lids sagged, and the eyes were unfocused as the...the <i>thing</i> shambled towards her.  <i>Don't panic,</i> she told herself.  <i>He--he just took a knife to the back.  I definitely got his lung or something.  He's going to keel over dead.  Any second now, he's--</i>\"Get AWAY FROM ME\" she screamed frantically, kicking the man as hard as she could in the groin.  It did nothing.<br>\r\n<br>\r\nHe grabbed her head with his putrid, rotting hands and pulled it towards his mouth.  She grabbed his neck, and tried to keep the man's teeth at arm's length.  They both fell to the ground and wrestled as the man tried singlemindedly to force her face into his mouth.  Then he spasmed, vomited blood, and fell off of her with a knife planted in his head.  <br>\r\n<br>\r\nRenee forced herself to her feet, relieved to still be alive.  It was her boss, Marco, who had stabbed the man.  Marco, who had a bite of flesh ripped from his left arm and was bleeding profusely.  <br>\r\n<br>\r\nRenee wiped the thing's blood from her face as someone called the police.</span></div></div>",
+            "created":1318654800,
+            "id":1207233,
+            "title":"Help Marco and fight the zombie."
+        },
+        "1211112":{
+            "choices":[
+                "Wait for the bus",
+                "Walk home"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey, Marco?\" Renee said.  \"I hate to leave you bleeding on the floor like this, but psychotic cannibals were not part of my job description, and I'm headding out now.\"<br>\r\n<br>\r\n\"When...when the police get here,\" he gasped, holding his bitten shoulder, \"they're going to want a statement.\"<br>\r\n<br>\r\n\"You're the one who stabbed the guy, remember?  And I don't know what's going on right now, but this is something that I need to be home for.\"<br>\r\n<br>\r\n\"Yeah, I under--<i>aaahhh!\"</i><br>\r\n<br>\r\n\"You okay?\"<br>\r\n<br>\r\n\"Yeah, I'll be fine.  It just stings is all.  I just know my shoulder is going to get infected.  But thanks, and good luck.\"<br>\r\n<br>\r\nRenee smiled, gathered her things, and walked out the door.  The streets ouside the diner didn't look any safer, though.  It was dark.  Renee was never afraid of the dark before, but that was before she saw a grusome man covered in blood trying to eat her and getting stabbed through the skull.  She shuddered, and hurried toward the bus stop.  She passed a burning, empty car that had crashed into a building.  Whoever was driving it had already left.  Why would someone leave their own car?  Why was the street so empty, for that matter?  She reached the bus stop and waited.  And waited.<br>\r\n<br>\r\nThe bus wouldn't arrive for another ten minutes.  It would be faster than walking home, but with the city streets so empty and as siltent as the grave, she didn't like the idea of standing still.</span></div></div>",
+            "created":1320382800,
+            "id":1217815,
+            "title":"This place isn't safe anymore, go home now."
+        },
+        "12111122":{
+            "choices":[
+                "Get in the car.",
+                "Keep walking"
+            ],
+            "content":"<div class=\"\"><div> <span>Renee started walking.  She didn't live that far away, and she didn't know what was happening so she couldn't depend on public transportation.  The streetlights cast small islands of light on the sidewalk.  She walked faster, but scolded herself for panicking.  Just because one person went nuts didn't mean that everyone had.  But then again, she could tell herself that she was over reacting after she was safe at home.<br>\r\n<br>\r\nA car pulled up next to her and stopped.  \"A girl like you shouldn't be out alone on a night like this,\" the driver said.  Renee couldn't see much of him, but he seemed to be in his twenties or so.<br>\r\n<br>\r\n\"A night like what?\" she asked.  So far, all she had seen was a deranged cannibal, probably on drugs, a wrecked car, and an eerily quiet night.<br>\r\n<br>\r\n\"What, you mean you haven't heard?\" the man asked incredulously.  \"People are getting eaten alive!  They're saying that the dead have risen from their graves.  Why don't you let me give you a ride?  Walking around by yourself might be a bad idea, if you know what I mean.\"<br>\r\n<br>\r\nHe had a point, but hitchhiking with a complete stranger could be a bad idea too.  Renee decided to...</span></div></div>",
+            "created":1364619600,
+            "id":1560924,
+            "title":"Walk home"
+        },
+        "121111222":{
+            "choices":[
+                "Keep walking",
+                "Steal his car"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Thanks,\" Renee said, \"but I'll be alright.\"<br>\r\n<br>\r\nThe man scowled.  \"I don't think you understood me right.  Get in the car.\"<br>\r\n<br>\r\nOkay, that clarified things.  Renee didn't want to turn down the help of a random good Samaritan, and this was no good Samaritan.  She bolted and started running.  The car's engine roared and the man drove his car ahead and onto the sidewalk, cutting her off.  She jumped over his hood and kept on going.  He got out of his car and started chasing her.  He caught up and grabbed her around the waist.  <br>\r\n<br>\r\n\"When I say you're coming with me,\" he hissed in her ear, \"you're coming with me.\"<br>\r\n<br>\r\nRenee saw a figure covered in blood lurching towards them.  She headbutted the man in the face and managed to twist him around so his back was facing the zombie.  \"You little tramp!\" he growled.  \"I'm gonna teach you a lesson in ma-AARRGH!  AAHH!  GET IT OFF ME!  GET IT OFF ME!\"  <br>\r\n<br>\r\nHe let go of her as the zombie bit into his shoulder and began chewing on him.  Renee broke away from him as he fell to the ground with the zombie on top of him.  She was disgusted by the sight, and even felt a little sorry for the man.  He had terrible last words.<br>\r\n<br>\r\nThe zombie seemed content to munch on the man's neck, ignoring Renee for the moment.  She could keep on walking, but if she could find the man's keys, she could steal his car instead.</span></div></div>",
+            "created":1364619600,
+            "id":1560937,
+            "title":"Keep walking"
+        },
+        "1211112222":{
+            "choices":[
+                "A house in the suburbs",
+                "An apartment in the city"
+            ],
+            "content":"<div class=\"\"><div> <span>The man's keys were still in his pocket, and if Renee tried to fish them out, the zombie chewing on him might get a tad possessive.  Fortunately, his keys seemed to be the special remote kind and she could start his car up without too much trouble.  She closed the car door as the engine roared to life, backed up off the sidewalk, and sped down the road.<br>\r\n<br>\r\nShe turned on the radio until she found a news channel.  The broadcast cautioned people to stay in their homes and talked about an epidemic of a severely contagious disease that induced dementia, poor motor control, and cannibalism.  <br>\r\n<br>\r\nWell, that wasn't particularly encouraging.  The broadcast didn't say anything about national assistance in this time of crisis, but they did ask politely not to form an unruly mob.  <br>\r\n<br>\r\nA figure stumbled into the middle of the road.  Renee slammed the breaks but hit him anyway.  Well, he was probably already a zombie, so she kept on driving.  About ten minutes later, she managed to get home.  She lived in...</span></div></div>",
+            "created":1364792400,
+            "id":1562626,
+            "title":"Steal his car"
+        },
+        "12111122221":{
+            "choices":[
+                "Blockade the home.",
+                "Leave town"
+            ],
+            "content":"<div class=\"\"><div> <span>Renee made it to the small suburban neighborhood where she lived.  There didn't seem to be that much trouble.  The population was too small to attract a proper zombie hoard.  She got out of her stolen car, knowing that without the keys she'd never be able to start it up again, and opened her front door.<br>\r\n<br>\r\n\"Hey Renee,\" her little brother, Andy called.  \"You're alive.\"  Andy was twelve years old and too easy going to get under anyone's skin.  <br>\r\n<br>\r\n\"Hey, Andy.  And here I thought that you'd be worried about me,\" she said dryly.  <br>\r\n<br>\r\nRenee's mom, Amelia, appeared in the room and wrapped her arms around her.  \"Renee!  Oh, my little girl!  I'm so glad you're alright!\"  Amelia was a loving, protective individual who worried about everything.  <br>\r\n<br>\r\n\"Of course I'm okay,\" Renee said, extricating herself from her mother's embrace.  \"I heard about the zombie thing and got out of work early.\"  She left out the part where she nearly got eaten and kidnapped.  There are certain things you don't tell your mother.  \"So, we're in the middle of some sort of crisis.  What's our plan?\"<br>\r\n<br>\r\n\"Oh, we're going to turn our home into an impregnable fortress,\" Andy explained cheerfully.  <br>\r\n<br>\r\n\"Hold on,\" Amelia said.  \"That was before we were all here.  We didn't know when you'd be back, Renee, but now that everyone's home, we could leave the city instead.  We could take the car out into the country and come back when this disaster blows over.\"<br>\r\n<br>\r\n\"What?\" Andy protested.  \"But I spent the last hour drawing up our defenses!\"<br>\r\n<br>\r\nRenee got the deciding vote.  She decided to...</span></div></div>",
+            "created":1364792400,
+            "id":1562637,
+            "title":"A house in the suburbs"
+        },
+        "121111222211":{
+            "choices":[
+                "A burglar tries to break in.",
+                "A pack of zombies find them."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I don't want to get stuck in traffic when we could get eaten,\" Renee decided.  \"Let's just stay here and make this place safe.\"<br>\r\n<br>\r\n\"Okay, we'll need a hammer and nails to board up all our windows,\" Amelia said resignedly.  \"Andy, check the tool closet to see what we have.  A saw could come in handy too, if we have one.\"<br>\r\n<br>\r\n\"We can use the table for wood to block the windows,\" Renee suggested.  \"We could also remove some of the doors if wee need to.\"  She was suddenly glad that they didn't have a sliding glass door.  <br>\r\n<br>\r\nIt took them about an hour to fortify their home.  For the time, they decided to leave the front door unblocked and just locked, just in case they needed to leave in the future.  They didn't have much food.  Their pantry would be empty in about a week.  <br>\r\n<br>\r\nThen the electricity went out.<br>\r\n<br>\r\n\"Well, that's not good,\" Andy said.  <br>\r\n<br>\r\n\"Do we have any flashlights?\" Renee asked.<br>\r\n<br>\r\n\"Yeah, but we may need to save the batteries.\"<br>\r\n<br>\r\nRenee thought for a moment.  \"Hey, Mom?  Do we have any guns?\"<br>\r\n<br>\r\n\"No.  We never needed them before now.\"<br>\r\n<br>\r\n\"I have a baseball bat,\" Andy offered.  \"And we have that hammer.  That's almost as good.\"<br>\r\n<br>\r\nThey decided that they should keep a watch.  Renee volunteered to go first.  She didn't think she'd be able to sleep anyway.  Things were pretty quiet for a while until...</span></div></div>",
+            "created":1364878800,
+            "id":1563532,
+            "title":"Blockade the home."
+        },
+        "1211112222111":{
+            "author_id":"ljalgjlaa",
+            "author_name":"An0nym0us13572",
+            "choices":[
+                "Let him stay.",
+                "Kick him out."
+            ],
+            "content":"<div class=\"\"><div> <span>Suddenly, just as Renee was nodding off to sleep, she heard the distinct clicking of her locked door being picked. She stood quickly and wiped the sleep out of her eyes with one hand while readying her hammer with the other. <br>\r\nSoon enough, the door was unlocked and the knob was turned and opened. Renee faced a boy in his mid-late twenties with dirty blonde hair and blue eyes. He wore a blue v-neck, a leather jacket, dark jeans, and green converses-not what a burglar would wear. Still, she was wary.<br>\r\n\"Who are you?\" She asked cautiously. <br>\r\n\"Whoa, there,\" the stranger put his hands up, eyeing the hammer. \"I-I'm Jackson, and I promise I had no idea anyone lived here...I was just looking for supplies. Look, there at least a dozen of those things down the street. Can I please come in before we get eaten alive?\" <br>\r\nReluctantly, she opened the door the rest of the way and re-locked it once he was safely inside. <br>\r\n\"Sit,\" she pointed at a chair. Jackson looked like he wanted to protest but she pointed again, and he gave in, looking very bored. <br>\r\nTo avoid attracting the dead, she called up quietly for Amelia. \"Mom!\" <br>\r\nNo response. She called again, slightly louder. \"Mom!\"<br>\r\nFinally, she heard footsteps on the stairs, but if was only Andy. \"Andy,\" Renee said, eyes still on Jackson. \"Go wake up Mom, we have an intruder.\" <br>\r\n<br>\r\nThe next morning, her family had established that Jackson was not a threat. He had no weapons, food, or much of anything, save the lockpick and clothes on his back. However, with Amelia being the kind mother<br>\r\nto all, she invited him to stay with the three of them. <br>\r\nAndy clearly disapproved of this and protested, \"No way! Mom, have you SEEN the Walking Dead?\" The two looked to her, and once again, it was her choice. This scavenger, while he was rather handsome, clearly wanted to stay, but should he? </span></div></div>",
+            "created":1434568440,
+            "id":1993963,
+            "title":"A burglar tries to break in."
+        },
+        "1212":{
+            "choices":[
+                "Stay and fight, protecting Izzy and yourself.",
+                "Run and forget your kid sister."
+            ],
+            "content":"<div class=\"\"><div> <span>I was walking my kid sister home from her softball game.  Izzy's team, the Cower Bold Eagles, had lost.  Again.  She was mumbling about bad teamwork and poor stamina.  I rolled my eyes.  She was so into her softball games and basketball games and volley ball games.  But she could do more than I can.<br>\r\n<br>\r\nI'm NOT  a sports person.  But I do do something most people think I'm crazy for.  Free-style fighting.  My dad doesn't have enough money to get me into any real classes for Karate and what not, so one day my best friend, Jamie, and I just started fooling around with a broken pipe at the side of an old abandoned building.  Soon we got stronger, more agile, and before we knew it, we were spilling the beans to all of our friends and family and classmates.  Then one day a bunch of kids all younger, the same age, and older than us came up to where we were \"training\" and said that they wanted in the fun as well.<br>\r\n<br>\r\nBut anyway.  Back to the story.<br>\r\n<br>\r\nIt was getting dark beyond reasoning-no, I mean really.  Even in the night, NYC doesn't get that dark.  It's because of all of the street lights and apartment lights and all.  Not many of the street lamps were on.  And, to be perfectly honest, I got kind of nervous.  I mean, it's NEW YORK, for the love of God.  You hear about people being murdered and raped and mugged all the time here.<br>\r\n<br>\r\nAnd not only that, but recently there have been strange killings going on the sides of the Big Apple.  More unnatural than usual.  Like people getting scalped and stuff like that.  One morning while I was eating a bowl of Jack's, there was a purple-and-green elderly man that was found in a dumpster-PURPLE AND GREEN! How often do you hear about that?<br>\r\n<br>\r\nBut Izzy wasn't afraid, or even if she was, she wasn't showing it.  \"Hey, can we go to Lower's?  I want to say hi to Chris.\"<br>\r\n<br>\r\nI rolled my eyes. Chris was Izzy's illegal boyfriend.  She wasn't supposed to be dating anyone, according to law set by our father.  She always met the punk at different, shady places.  And the reason why she wanted to go to Lower's was because she knew that was the local Goth hang out.  \"No,\" I said simply.<br>\r\n<br>\r\n\"WHAT?!  WHY?!\"  she screamed, and I was pretty much positive that the whold west side of NYC could have heard her.<br>\r\n<br>\r\n\"Shut up!\"  I hissed.  \"Reason number one:  I have studying to do tomorrow for that major social studies test that determins my fate.  Reason number two:  It's late and Dad would kill me if he knew that I took you to some shady place like Lower's.  And Reason number. . . ,\"  I stopped, knowing that I shouldn't go on anymore, less my little sister and I have a full on war.  She was already fuming behind me, giving me a look that could kill.<br>\r\n<br>\r\n\"Go on,\" she beckoned in a voice that I knew was pissed.<br>\r\n<br>\r\nI sighed.  \"And reason number three:  Chris is NOT good for you.\"<br>\r\n<br>\r\nIzzy was quiet for a moment, but then she spoke, her temper rising.  \"What do you mean, 'he's not good for me'?\"<br>\r\n<br>\r\n\"Izzy, Chris is a boy who has 'trouble' written all over his face.  He's shady, has robbed a good number of banks according to you, has mugged one more person than necessary, and besides that, you're starting to act like a little brat.\"<br>\r\n<br>\r\n\"OK, first of all, I am NOT a little BRAT!  Second, Chris is sweet and talented.\"<br>\r\n<br>\r\nI rolled my eyes.  \"Yeah.  Whatever.\"<br>\r\n<br>\r\n\"It's true!  Look, you don't know him like I do, alright?!  And since you DON'T know him like I do, I suggest that you just SHUT UP!\"  she screamed at me, slamming her Eagle cap down to the cement.  I watched, horrified, as she ran off into the setting sun.<br>\r\n<br>\r\nI was exasperated.  it was a shame that Izzy wasn't as smart as I.  Our little apartment was to the east, and Lower's was to the west.  Or course she would be going there.  So I took off running after her.<br>\r\n<br>\r\nShe didn't really have that much of a fair advantage.  I was sixteen, had longer legs, and I was pretty much trained to run like hell any time I needed to-Jamie and I had taken our training pretty seriouly a couple of times.  Izzy was only a softball/basketball/volley ball player.  And even though they all required fast running, she was never the FASTEST.  So I knew I could catch her.  And I was soon gaining on her.<br>\r\n<br>\r\nI seen her long blonde hair fall into sink with the rest of her body as she rounded the corner.  Suddenly she ran into a tall, big man.  My feet stopped running almost immediately, and I was only a few meters away.  Izzy was flat on her ass, wiping dust from her chest.<br>\r\n<br>\r\nSlowly, she got up.  \"I-I'm sorry, sir,\" she mumbled shamelessly.  \"I didn't mean to.  Can I help you with anything?\"  I smiled in spite of myself.  Despite her ornery to me and my friends, she was nice to complete strangers.  Oh well.  At least she knew her manners.<br>\r\n<br>\r\nApparently, however, the man she had run into did not.  He just stood there.  He was in the shadows, so I could only see his silhoutte.  The man was big, muscular.  The kind of guy that could crush an alligator's mouth in one fell swing.  I gulped.  There were a lot of villians in the Big Apple.  Could that man be one of them?   I pondered that.  Everything in me screamed to turn, run, run as fast as I could and get away.<br>\r\n<br>\r\nBut I couldn't do that.  I was a big sister of Izzy, and it was my responsibility to take care of her, no matter how much I thought that she had bad taste in men.  \"Izzy,\" I said, cautionly.  \"We need to go now.  Let's go.\"<br>\r\n<br>\r\nShe nodded, and we both ran.  As fast as we could.  But suddenly I felt a hard knock to the back of my neck, and Izzy and I were both on the ground.  I looked over.  The man had missed his target on me, but had succeede in knocking my little sister out.<br>\r\n<br>\r\nRage boiled inside of my belly.  No one touched my family.  NO ONE.  Not sense Mom died.  I did a flip and landed back on my feet, protective of Izzy on the ground.  I crouched, ready to fight if need be. But then I gasped, and everything I had ever been tought or had tought myself let my memory bank.<br>\r\n<br>\r\nThe man was a greenish-gray color, with his skin peeling off in certain places.  His torso was red with faded blood, and his pants were scratched from stumbling.  He had yellow eyes, and looking into them, I could tell that he had no emotions.<br>\r\n<br>\r\nI could only gap.  Was this a. . . a. . . zombie. . . ?<br>\r\n<br>\r\nI shook my head in frustration.  \"No, no, there's no such thing as zombies!  Idiot!  Get a hold of yourself!\"  I thought to myself.<br>\r\n<br>\r\n\"Should I run without Izzy, stay and help, or run with her?\"  I asked myself.  I looked down at Izzy's unconcious body.  Could I really leave her a lone?<br>\r\n<br>\r\n\"No. . . .  I could never leave her a lone.  Or can I?\"</span></div></div>",
+            "created":1275973200,
+            "id":896484,
+            "title":"Not Alone"
+        },
+        "122":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "High School",
+                "Work",
+                "college"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>so what are you doing with your life?</span></div></span></div>",
+            "created":1275454800,
+            "id":893300,
+            "title":"18-21"
+        },
+        "1221":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "the four of you make it to the mall",
+                "three of you make it to the mall",
+                "two of you make it to the mall"
+            ],
+            "content":"<div class=\"\"><div> <span>It was the end to another sad day at school for you. Being 18 years old and only 4 feet tall was annoying not to mention that all your dementions, (26\",23\",28\") made you look like a child over being a high schooler. \"Wish something would bite these bullies in the ass.\" You muttered as you walked home, you was a nice person and didn't truly wish anything to horrible upon them. Just that they see what it felt to be you. Looking across the street at the new super mall that was going to have it's grand opening tomorrow and your father was going to be head of security there. <br>\r\n<br>\r\n\"Guess I won't have to go far for the shops anymore.\" You shrugged your shoulders and went inside to see your mother who was pregnant and due to give birth soon, and your younger sister which was about the same height and dementions as you besides being half your age. \"I'm home.\" You called out before your sister took your hand and dragged you off up stairs to your currently shared room for you gave your room up to the coming baby.<br>\r\n<br>\r\n\"Sis, so tell me why are boys... well so weird. I mean a boy said he likes me but he is a nerd and is rather ugly.\" Your sister started to talk with you while you sat on your bed.<br>\r\n<br>\r\nAnother typical day in your life, well you thought it was until late that night when your father rushes in the room waking the two of you up. \"Get up, we have to leave. Something weird is happening and I am taking us to the mall.\" He said as mom was standing behind him. You didn't question and got out of bed and took your sister's hand and the four of you left hearing screaming outside. Wje you got down stairs you saw a window broken and a dead body laid below it. \"Come on.\" He ordered and you ran out into the night.</span></div></div>",
+            "created":1410720780,
+            "id":1856766,
+            "title":"High School"
+        },
+        "12213":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "explore the mall",
+                "your choice"
+            ],
+            "content":"<div class=\"\"><div> <span>As you was running holding your sister'd hand you looked back and stopped for your mother fell and in the distance you saw people running towards her. \"Take your sister and go, I will get your mother and meet you at the doors.\" Your father called out to you and threw you the keys to open the mall. Picking them up you watched as your father was trying to fight of a few of the crazy people.<br>\r\n<br>\r\n\"Come, we have to do as dad said.\" You pulled your sister's arm and the two of you ran with tears in your eyes as you heard your mother screaming out as she was being attacked and eaten by the zombies, it grew silent as you was running across the packing lot and was getting close to the doors. Your heart ached thinking of what fate had taken your parents.<br>\r\n<br>\r\n\"Sis we have to go back.\" Your sister tried to pull against you but you wasn't letting go of her.<br>\r\n<br>\r\n\"We can't.\" You cried as she looked at you and went silent as you lifted the keys in your hand. It wasn't much longer before you was at the doors and you was trying to use them. You was trying each one and the longer you took the closer those people was getting. You heard a click and pulled your sister inside and locked the door just as there was a thud of a body hitting the door then another.<br>\r\n<br>\r\n\"That was to close. Why did they attack mom and dad?\" Your sister asked as she watched you sit on the floor and start crying.</span></div></div>",
+            "created":1411088520,
+            "id":1858652,
+            "title":"two of you make it to the mall"
+        },
+        "122131":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "stop running by the food court",
+                "stop running by a sex shop and arcade"
+            ],
+            "content":"<div class=\"\"><div> <span>After a little while of just sitting there you took a deep breath and smiled lightly at your sister who had sat down by your side. You wiped a few tears from her face. \"I don't know. It was like they had gone crazy, but I will protect you I promise.\" You said and gave her a light hug. After a few more minutes you slowly stood up and helped your sister up as well. \"We should look about the mall, and see if we are alone.\" You took a deep breath before putting your right foot forward and started to walk.<br>\r\n<br>\r\n\"What if those crazy people are in here?\" Your sister asked making you look at her and smile lightly.<br>\r\n<br>\r\n\"I'll protect you.\" You said even though deep inside you was scared of that. You might be twice her age but due to all the bullying you had received for being the same height and dememtions as your sister has left you a bit of a coward who wants to be strong. Enter king the main hall of the mall's first floor you saw the balloons, stage, and ribbon that was set up for the opening ceremony tomorrow. \"Guess we just have to wait for someone to come in the morning.\" You sigh before you felt your sister tug at your sleeve making you turn around. There you saw the large shatter prove glass windows and doors, but what she wanted to see wasn't that but what was on the other side of them. Your eyes just stared as you was frozen in place from what you see, blood covered people with prices of their bodies missing all tapping on the glass in a frantic crazed manner. There so many that you didn't think that there was anyone not crazy at this moment. \"Come on, let's go.\" You said before taking your sister's hand again and started to run away from the glass and deeper into the collosal mall.</span></div></div>",
+            "created":1411820520,
+            "id":1862702,
+            "title":"explore the mall"
+        },
+        "1221312":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "give in and take her into the shop",
+                "fight back and take her to the arcade"
+            ],
+            "content":"<div class=\"\"><div> <span>After a bit of running you finally came to a stop adnd looked up as you was trying to catch your breath, you was staring at the next four floors above you as your sister looked to her right and saw an arcade. You looked to your left and blushed seeing what was there. It was a sex shop with a few outfits and a few toys on display. Your face turned bright red and you accidently tightened your grip on your sister's hand which made her turn her head to look. \"Sis isn't that the thing you have.\" She openly stated as she pulled her hand from yours and started to walk towards the window. \"Yeah you have this one, I saw you with it the other night.\" She continued making you lower your head and look away as you felt your face get so red you thought you was going to die. \"You thought I was asleep but I saw you using it on yourself, you looked like you was really liking it.\" Her cheeks where starting to turn red them self as she thought about when she saw you and she felt her body starting to feel warm as you felt like you was on fire with embarrassment and arrousment knowing she saw you. \"Please teach me how to use these.\" She openly stated making you drop to your knees as you took deep breaths.<br>\r\n<br>\r\n\"Come on sis, that is a grown up thing, you don't want that.\" You coughed as you was trying to control your self under this situation. \"You want to go to the arcade right?\" You asked trying to change the topic before feeling her grabbing your hand and you turn to see her blushing at you as you was blushimg back. \"What wrong?\" Yo asked trying not to know as she reached in your gown's pocket and took your father's master key chain off you.<br>\r\n<br>\r\n\"Please, I want you to show me, seeing these here and remembering how you was using it is making me warm inside and more so down here. I want you to help me sis.\" She said as she placed her hand that was holding yours over her lower belly where the waist band of her underwear was under her nightie. Taking a deep breath and slowly standing up you was at war with yourself for you felt turned on by knowing your sister watched and wants to watch you teach her, and the feelings of responsibility to steer her away from this still. \"I love you sis please show me.\" She said and those final words where either going to break your will to fight or help you fight against the thought.</span></div></div>",
+            "created":1411945860,
+            "id":1863487,
+            "title":"stop running by a sex shop and arcade"
+        },
+        "12213121":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "Bring everything back to the arcade",
+                "A different place to set up base"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Fine... I will take you and show you but first things first.\" You cross your arms and stare at her. \"We need to set up base then I will teach you.\" You said still flustered and turned on by her wanting to watch you play with yourself as well as you play with her teaching her. Your cheeks go deep red just thinking of it. <br>\r\n<br>\r\n\"Fine.\" She pulled a pouting face as she was all flustered herself over it all. \"Then let's hurry.\" She stated taking your hand and the two of you ran off into the mall more.<br>\r\n<br>\r\nThe two of you ran through The Children's Place, Justice and Brother to come to a stop at Walmart and smile at one another. \"Well we got clothes, so let's get everything else.\" You chirped happily and placed your bags down outside the superstore entrance and took your sister's hand and rushed off in.</span></div></div>",
+            "created":1453642020,
+            "id":2093530,
+            "title":"give in and take her into the shop"
+        },
+        "122131211":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "Separate beds waking to her playing with her aelf",
+                "Share a bed and she is even more kinky then you"
+            ],
+            "content":"<div class=\"\"><div> <span>Your sister went off and raided the toy section and was driving around the store in one of those battery powered jeeps which gave you an idea. You went and got one of your own and found rope in the hardware department. Using it to tie of a few shopping carts to the back of your jeep you started to gather essentials while your sister was just having fun taking toys and other random things she wanted.<br>\r\n<br>\r\nAfter several trips back and forth dropping off the things out side the arcade and then heading back for more. The two of you had gotten everything you needed and had set it all up. There was a fridge for drinks and another one for food. There was also freezers and tvs. Games and chairs along with tents and beds.<br>\r\n<br>\r\nFinally everything was fine and your sister walked over to you and smiled as she blushed and pointed towards the sex shop showing that she had not forgotten. Your face went deep red and you looked at her. \"You are sure on this. I rarely see you this focused on things outside of games.\" You sighed and started to head into the store with her and she was looking at everything while you was browsing and looking at the toys trying to see what you would start with.<br>\r\n<br>\r\nIn the end you took a few corded eggs and a double end dido.  Taking a deep breath you removed your pants and your sister was watching with fixes eyes as her face was getting redder. She watched you pull open the waist band of your underwear and slide te first egg in and rest it on the out side of your crotch before closing your underwear and turning the control on. You whimpered at the vibrations and you sister watch you go deep red and moan to the feeling. You get up and walk over closer to her and sit in front of her before pulling her skirt up and her underwear open to do the same to her. She gasped at the feeling and you kissed her and you was bucking your hips lightly to the feeling until you reached down. She watched you slide the egg inside yourself before sliding another one in your underwear and against your crotch. You moans where getting stronger as you kissed your sister and reached under her skirt and played with the egg in her underwear before forcing her to take it inside which drove her crazy.<br>\r\n<br>\r\n\"Oh god sis.\" She moaned as she rocked her hips and let you pull her to you and press the crotch of her underwear against  your do she could feel the one in your underwear as well as the one inside her. Her body shivering as you held her and kissed her. After  bit of the two of you rubbing your crotches against each other you pushed the second egg inside you making you moan out in pleasure. You reached over and took the two sided dildo and started to lock it which she joined in as she was still rubbing her crotch against yours. Once you wet it enough you pulled your underwear aside and pushed one end inside yourself along with the egs and you felt a climax hit you. You kiss your sister deeply as you pull her underwear  aside and started to push it in her slowly making her go crazy with the pleasure. She just started to rock her hips with you and was loving the feeling and wanted more with you.<br>\r\n<br>\r\nBoth of you climaxed a few times before you both stopped and she whimpered as the two of you tried to walk to the bed with everything still inside both of you but the dildo eventually fell out and you pulled r eggs out.</span></div></div>",
+            "created":1473997380,
+            "id":2210695,
+            "title":"Bring everything back to the arcade"
+        },
+        "1221312112":{
+            "author_id":"rosedragon",
+            "author_name":"dragon",
+            "choices":[
+                "bring the food to her in the arcade",
+                "Call her back out to get her food"
+            ],
+            "content":"<div class=\"\"><div> <span>You rolled over listening to your sister moaning as she was playing with herself right next to you in bed. Yawning and opening your eyes, you see her sat next to you with three wires and controls to eggs coming out from under her skirt. She had the double ended dildo with one side leading under her skirt inside her while the other end is in her mouth. As you focused you saw what looked like a air pump in her hands who's  hose also went under her skirt and her belly seemed bloated. \"Sis?\" You moaned groggy as you sat up and moved to her and lifted her skirt. You saw the toys lead in her underwear and into her. You saw that she attached the pump to a sexual expanding womb plug that was designed for those who get turned on by having a pregnant looking stomach and was inflating it inside her. \"What? Oh no!\"<br>\r\n<br>\r\n\"Sis.\" She moaned around the end in her mouth. You go about stopping her and pulling the dildo out and away from her. \"Why?\" She moaned before gasping as she pumped more air into the toy inside her and felt the eggs being tightly pressed against her.  You only stared for you never would of thought doing that. \"This is amazing... sis... thank you for... showing me...\" She moaned and gasped between her words for she continued to pump more air into the toy which started to come out and inflate outside of her as well as stretch her skin as it was creating a growing bulge in her belly.<br>\r\n<br>\r\n\"I think you should stop.  And that I shouldn't of shown you that.\" You moaned at her while blushing at what she was doing and it was arousing you. \"Come on go play one of your games and I will make breakfast.\" You told her as she did two more pumps and you watched her belly stretch a little more. You put your hand on hers to stop her from continuing.  She whimpered and pouted. \"Careful. You might hurt yourself if you expand it to far to fast.\" You told her for you remember that is in the instructions of the inflatable dildo you bought last month, but been to afraid to use yet.<br>\r\n<br>\r\n\"Fine.\" She pouted before gasping a moan as she climaxed and panted.  She was reaching down to turn the eggs off but felt you pump more air in her by accident for you took it away from her after she pulled it fully back. You pumped it by mistake for you heard her moan.<br>\r\n<br>\r\n\"Sorry.\" You said as she just looked with her flustered cheeks and smiled as she took the pump back and slowly got up before running off into the arcade. You shook your head and looked around at all the secular toys that she sneaked off and gathered while you was asleep still. You just shook your head for she pulled out many different random toys. You went about picking up a pair of underwear that had a vibrating but plug as well as an inflatable dildo in the front.you slowly took your underwear off and slipped that one on. Gasping and moaning as the toys entered you. You turn them on to their lowest settings and went about whimpering as you was making cereal for breakfast.</span></div></div>",
+            "created":1500037800,
+            "id":2353040,
+            "title":"Share a bed and she is even more kinky then you"
+        },
+        "122132":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "Help them",
+                "Crazy People in the mall"
+            ],
+            "content":"<div class=\"\"><div> <span>As you sit there crying and your sister trying to get you to tell her what's happing, fear in her eyes you hear a loud BANG that makes you jump  come from deeper in the ball followed by two more a few seconds later.<br>\r\n<br>\r\nYou remember hearing sounds like that in the distance mixed with police sirens house alarms and screams as you ran, but these were much closer. Wiping the tears from your eyes you stands up and when your sister opens her mouth to speak you silence her with a finger to your lips. Slowly the two of you creep deeper into the mall, a handful of lights on for security reasons provide just enough light for you to see where your going.<br>\r\n<br>\r\nAs you walk past the banner and balloons and stages in the middle of construction for the mall grand opening you start to hear voices in the distants.<br>\r\n<br>\r\n\"What the hell is going on&lt; what are those things?\" one voice said and was answered by another.<br>\r\n<br>\r\n\"I don't know and I don't want to know, now stop talking and help me move this shit.\"<br>\r\n<br>\r\nYou and your sister reach the stairs near one of the other entrances and you motion your sister to stay low as you peek around the stairs and see two men moving furniture from one of the store in front of one of the door that is missing the glad from it, near the broken window you see a pool of blood and outside of it lays a body of one of the crazy people.<br>\r\n<br>\r\n\"why are we hiding?\" your sister asks suddenly and in the stillness of the empty mall her voice echos slightly and you clamp your hand over your sisters mouth shushing her, but its to late.<br>\r\n<br>\r\nyou hear the sound of a heavy object drop on the floor. \"who's there? SHOW YOUR SELF!\" one of the men barks in your direction. you look for a way to hide or run but here isn't any that the men wont see.<br>\r\n<br>\r\nSwallowing hard you step out from behind the stairs with holding your sisters hand and you are staring down the barrel of a gun one of the men has aimed at you. \"Luke its just a couple of girls, put the gun away man.\" The other man says lowering his baseball bat.<br>\r\n<br>\r\n\"The fuck I will, how do we know they aren't like the rest of the bastards outside huh?\" The one called Luke replies the his eyes and gun never wavering from where they are pointed.<br>\r\n<br>\r\nYou swallow again and in a shaking voice you say. \"W-we aren't like those crazy people outside.....we're hiding from them\"<br>\r\n<br>\r\nThe gun remains aimed on you as you can see Luke is thinking about what you just said and after ten agonizing seconds that feel like an eternity he lowers the gun. \"then get your fucking asses over here and help us move this shit to block the door.\" he said putting the gun in a thigh holster.</span></div></div>",
+            "created":1411352940,
+            "id":1859911,
+            "title":"Unexpected Guests"
+        },
+        "123":{
+            "author_id":"scorch21500",
+            "author_name":"Scorch",
+            "choices":[
+                "College",
+                "work for aliving",
+                "no job"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>so your an adult, what do you do?</span></div></span></div>",
+            "created":1275454800,
+            "id":893303,
+            "title":"21+"
+        },
+        "1232":{
+            "author_id":"vamp_cat",
+            "author_name":"AliceNgoreland",
+            "choices":[
+                "Going to the theater for a rehearsal. ",
+                "Dropping of a cake. ",
+                "Waiting for a student to come for their music lesson. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I do this and that. I give music lessons. I bake during the holidays. Do a bit of writing. I work at the local playhouse and make jewelry. Some how I make out, although there are lean times. </span></div></span></div>",
+            "created":1276232400,
+            "id":897896,
+            "title":"work for a living"
+        },
+        "12321":{
+            "author_id":"bean2031",
+            "author_name":"J. Marie Ravenshaw",
+            "choices":[
+                "You run in and try to help the man",
+                "You run to get some help"
+            ],
+            "content":"<div class=\"\"><div> <span>      It was a cool night. I was wearing my favorite warm, fall, cashmere long coat. I was walking, hands in pockets, to the theater for rehearsal when I saw it. I had made it to the corner of 5th and Broadway and had stopped dead in my tracks at the sight of it. It's skin was dusky. It was bleeding from horrible looking wounds and its eyes were sunken, bottomless pits. There was some skin peeling from the side of it's head. It looked like a walking corpse. As a horrible putrid stench wafted over me, I decided what this creature was...a zombie.  <br>\r\n      The zombie turned it's nose up into the air and gave three audible sniffs. Then it turned it's head toward a man that was leaning against the wall smoking a cigarette. The man glanced over from his perch on the wall and finally noticed the bloody, shambling, being walking toward him. He startled at the sight of it; eyes going as wide as saucers. True fear written across his face. He stood straight up, threw his cigarette to the ground, and took a step away from the wall. He looked like he was going to try to run. But before he could take another step, the zombie lunged for the man.   </span></div></div>",
+            "created":1302498000,
+            "id":1086290,
+            "title":"Going to the theater for a rehearsal. "
+        },
+        "123211":{
+            "author_id":"yogi-bear",
+            "author_name":"Undbitr",
+            "choices":[
+                "\"take him to the police\"",
+                "he contiues to ignore you"
+            ],
+            "content":"<div class=\"\"><div> <span>As you ran to the man to push him out of the way or whatever you were going to do he ducked and the zombie ran head first into the wall the man then picked up the zombie and held it at arms length by it neck so it couldn't bite him. you finally reach the man and say \"Is that a real zombie?\"<br>\r\n\"I don't think so but he tried to jump me did you see that?\" the man replied ignoring your question.<br>\r\n\"Hey Mr. what should we do ya think?\" you asked again</span></div></div>",
+            "created":1302498000,
+            "id":1086508,
+            "title":"You run in and try to help the man"
+        },
+        "1232112":{
+            "author_id":"yogi-bear",
+            "author_name":"Undbitr",
+            "choices":[
+                "a hoard of zombies",
+                "a smaller amount of zombies"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey mister did ya hear me?\" you ask again.<br>\r\nHe looks at you and says \"you stay right here okay?\" then he pulls out his cellphone and calls someone you couldn't see who it was on the screen as he walks away you start to follow him when he catches you out of the corner of his eye \"fine if you want to come hurry up.\" as you start to speed up he turns down an alleyway and he stops you round the corner and see what stopped him</span></div></div>",
+            "created":1305090000,
+            "id":1104384,
+            "title":"he contiues to ignore you"
+        }
+    },
+    "info":{
+        "author_id":"scorch21500",
+        "author_name":"Scorch",
+        "brief_description":"Zombies have risen to consume the living, try and escape with your life.",
+        "created":1275084060,
+        "description":"<td align=\"left\" class=\"norm\">You have been hearing news reports of a rash of brutal killings in the city but didn't pay much attention till one day you witness one of the murders while on the street, and the victum gets up and starts attacking people.  try and survive and escape the city as it slowly falls for the Zombies.<br>\r\n<br>\r\nMain character: you.<br>\r\n<br>\r\nRules:<br>\r\n1 Spell so at least people know waht your trying to type<br>\r\n2 feel free to post what ever you want as long as it is realistic.</td>",
+        "id":1677156,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1586649180,
+        "modified":1586649180,
+        "pretty_title":"Survival"
+    }
+}

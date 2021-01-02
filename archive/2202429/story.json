@@ -1,0 +1,656 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Tommy Pickles",
+                "Chuckie Finster",
+                "Phil Deville",
+                "Lil Deville",
+                "Character list #2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welcome to my Sequel to Rugrats Blueberry Inflation.<br>\r\n<br>\r\nPlease Select your favorite Character.<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1570338000,
+            "id":2729149,
+            "title":"Welcome!"
+        },
+        "11":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Cherry",
+                "Grape",
+                "Watermelon",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have Chosen Tommy Pickles.<br>\r\n<br>\r\nWhat fruit will he inflate into?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729151,
+            "title":"Tommy Pickles"
+        },
+        "111":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Tommy become a blueberry?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729152,
+            "title":"Blueberry"
+        },
+        "112":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Tommy Inflate into a cherry?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729153,
+            "title":"Cherry"
+        },
+        "113":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Tommy Inflate into a Grape?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729154,
+            "title":"Grape"
+        },
+        "114":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Tommy become a watermelon?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729155,
+            "title":"Watermelon"
+        },
+        "12":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Cherry",
+                "Grape",
+                "Watermelon",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What fruit will Chuckie become?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729157,
+            "title":"Chuckie Finster"
+        },
+        "121":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Chuckie become a Blueberry?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729158,
+            "title":"Blueberry"
+        },
+        "122":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does he become a cherry?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729159,
+            "title":"Cherry"
+        },
+        "123":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Chuckie become a grape?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729160,
+            "title":"Grape"
+        },
+        "124":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does he turn into a melon?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729161,
+            "title":"Watermelon"
+        },
+        "13":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Cherry",
+                "Grape",
+                "Watermelon",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What fruit does Phil Become?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729162,
+            "title":"Phil Deville"
+        },
+        "131":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will he turn into a blue fruit?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729164,
+            "title":"Blueberry"
+        },
+        "132":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Phil become red?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729166,
+            "title":"Cherry"
+        },
+        "133":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does he turn purple or Green?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729168,
+            "title":"Grape"
+        },
+        "134":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Phil Become Green?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729167,
+            "title":"Watermelon"
+        },
+        "14":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Cherry",
+                "Grape",
+                "Watermelon",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What fruit will Lil become?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729170,
+            "title":"Lil Deville"
+        },
+        "141":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "More Story Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does she become Blue?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729171,
+            "title":"Blueberry"
+        },
+        "142":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does she turn red?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729172,
+            "title":"Cherry"
+        },
+        "143":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Lil Turn purple or green?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729173,
+            "title":"Grape"
+        },
+        "144":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How's Lil Become Dark Green?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729175,
+            "title":"Watermelon"
+        },
+        "15":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Dil Pickles",
+                "Angelica Pickles",
+                "Susie Carmichael ",
+                "Kimi Finster"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this list?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729150,
+            "title":"Character list #2"
+        },
+        "151":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Cherry",
+                "Grape",
+                "Watermelon",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What fruit Does Dil Pickles Become?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729183,
+            "title":"Dil Pickles"
+        },
+        "1511":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Dil become Blue?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729184,
+            "title":"Blueberry"
+        },
+        "1512":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does he turn red?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729185,
+            "title":"Cherry"
+        },
+        "1513":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will he turn purple?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729186,
+            "title":"Grape"
+        },
+        "1514":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will make him turn Green?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729187,
+            "title":"Watermelon"
+        },
+        "152":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Cherry",
+                "Grape",
+                "Watermelon",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What fruit does Angelica pickles become?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729188,
+            "title":"Angelica Pickles"
+        },
+        "1521":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Angelica become blue?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729189,
+            "title":"Blueberry"
+        },
+        "1522":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does She turn red?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729190,
+            "title":"Cherry"
+        },
+        "1523":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Angelica turn Purple?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729191,
+            "title":"Grape"
+        },
+        "1524":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does she become Green?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729193,
+            "title":"Watermelon"
+        },
+        "153":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Cherry",
+                "Grape",
+                "Watermelon",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What fruit does Susie become?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729194,
+            "title":"Susie Carmichael "
+        },
+        "1531":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Susie Turn blue?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729195,
+            "title":"Blueberry"
+        },
+        "1532":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Susie turn red?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729196,
+            "title":"Cherry"
+        },
+        "1533":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Susie become green or purple?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729198,
+            "title":"Grape"
+        },
+        "1534":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Susie Turn dark green?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729200,
+            "title":"Watermelon"
+        },
+        "154":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Blueberry",
+                "Cherry",
+                "Grape",
+                "Watermelon",
+                "Next set of fruits"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chose Kimi Finster.<br>\r\n<br>\r\nWhat fruit does Kimi Become?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729177,
+            "title":"Kimi Finster"
+        },
+        "1541":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Kimi turn Blue?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729178,
+            "title":"Blueberry"
+        },
+        "1542":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Kimi Turn Red?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729179,
+            "title":"Cherry"
+        },
+        "15421":{
+            "author_id":"bellyinflater2",
+            "author_name":"bellyinflater",
+            "choices":[
+                "Kimi turns red",
+                "Kimi starts swelling up"
+            ],
+            "content":"<div class=\"\"><div> <span>Kimi was with her mother at the mall getting a couple things and nothing too much was going on. While Kira was distracted looking at some clothes, Kimi slippped off to the candy stand not too far away. She wanted a piece and didn't care what it was. Looking at all of them, there was one that caught her eyes.<br>\r\n<br>\r\n\"I wonder what this one tastes like?\" Kimi asked.<br>\r\n<br>\r\nShe picked up the small red sphere and put it into her mouth. It tasted sweet and like nothing she had before. She couldn't put her tongue to what it was but she liked it. Kira then picked her up and put her back into her stroller and left. Neither were unaware of what's going to happen next to her but continued on. The candie was an unstable and unsafe item for kids to have and this would be problematic for the Finster girl. For now, they just finished up what they needed to do there and went home.</span></div></div>",
+            "created":1579323600,
+            "id":2775358,
+            "title":"Story 1"
+        },
+        "1543":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Kimi Become a grape?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729180,
+            "title":"Grape"
+        },
+        "1544":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Story 1",
+                "Story 2",
+                "Story 3",
+                "Story 4",
+                "Other Stories"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Kimi Become green?</span></div></span></div>",
+            "created":1570338000,
+            "id":2729181,
+            "title":"Watermelon"
+        }
+    },
+    "info":{
+        "author_id":"nicholas1998",
+        "author_name":"Nick98",
+        "brief_description":"A sequel to Rugrats Blueberry Inflation. Not Only Blueberries but Other types of fruit.",
+        "created":1570405680,
+        "description":"<td align=\"left\" class=\"norm\">Rules: <br>\r\n<br>\r\n1: Excellent Grammar<br>\r\n2: More then just one paragraph<br>\r\n3: Excellent sentences<br>\r\n4: Only the baby characters can be turned into a blueberry or any type of fruit<br>\r\n5: Keep it clean<br>\r\n6: ripped clothes are allowed when the Blueberry or other fruit Transformation happens<br>\r\n7: The Blueberry or other fruit Transformation must be slowly with Details<br>\r\n8. Inflate The Babies just like Willy Wonka or Charlie and The Chocolate factory<br>\r\n9. No Vegetables<br>\r\n10. Have fun!</td>",
+        "id":2202429,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1579404060,
+        "pretty_title":"The Rugrats Inflate into many fruits"
+    }
+}

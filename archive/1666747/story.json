@@ -1,0 +1,213 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"kickfacer",
+            "author_name":"ULTIMEGA",
+            "choices":[
+                "Shinobi",
+                "Kunoichi",
+                "Medical",
+                "Criminal",
+                "Outsider"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First off: What type of ninja are you?</span></div></span></div>",
+            "created":1271912400,
+            "id":871927,
+            "title":"Welcome to the Naruto world"
+        },
+        "11":{
+            "author_id":"kickfacer",
+            "author_name":"ULTIMEGA",
+            "choices":[
+                "Genin",
+                "Chunin",
+                "Jonin",
+                "Sannin"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What level shinobi are you?</span></div></span></div>",
+            "created":1271986260,
+            "id":871929,
+            "title":"Shinobi"
+        },
+        "111":{
+            "choices":[
+                "Ninjutsu",
+                "Taijutsu",
+                "Genjutsu"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of juts I do you specialize in</span></div></span></div>",
+            "created":1570860900,
+            "id":2731652,
+            "title":"Genin"
+        },
+        "1111":{
+            "choices":[
+                "Practice ",
+                "Train",
+                "Improve "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your a genin, you barely know any jutsu.</span></div></span></div>",
+            "created":1570861020,
+            "id":2731653,
+            "title":"Ninjutsu"
+        },
+        "113":{
+            "author_id":"kickfacer",
+            "author_name":"ULTIMEGA",
+            "choices":[
+                "Hidden Leaf",
+                "Hidden Sand",
+                "Hidden Mist"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which village do you hail from?</span></div></span></div>",
+            "created":1271986620,
+            "id":871936,
+            "title":"Jonin"
+        },
+        "1131":{
+            "author_id":"kickfacer",
+            "author_name":"ULTIMEGA",
+            "choices":[
+                "Ninjutsu",
+                "Genjutsu",
+                "Taijutsu"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What jutsu type do you specialize in?</span></div></span></div>",
+            "created":1271987220,
+            "id":871940,
+            "title":"Hidden Leaf"
+        },
+        "11311":{
+            "choices":[
+                "Fire, lightning, wind",
+                "Earth, water, other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What chakra nature or natures are you skilled at?</span></div></span></div>",
+            "created":1570860660,
+            "id":2731650,
+            "title":"Ninjutsu"
+        },
+        "11313":{
+            "choices":[
+                "You plan to show it off and become a hero",
+                "You plan to murder someone with it"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have developed a jutsu which doubles your speed every 10th second. The jutsu allows you to continue to until the 8th level where as the nineth will rip your body to pieces by the extreme accerlation.</span></div></span></div>",
+            "created":1329483120,
+            "id":1278643,
+            "title":"Taijutsu"
+        },
+        "113132":{
+            "choices":[
+                "Go to prison",
+                "Try to escape"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You plan to murder the sixth Hokage, Kakashi Hatake. You use the jutsu, but due to plot armor you lose.</span></div></span></div>",
+            "created":1570860780,
+            "id":2731651,
+            "title":"You plan to murder someone with it"
+        },
+        "1131322":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "You don\u2019t get recognised.",
+                "Someone recognises you."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Using the Jitsu, you are able to flee and live another day. You stop to rest in a backwater village.</span></div></span></div>",
+            "created":1580052420,
+            "id":2778660,
+            "title":"Try to escape"
+        },
+        "11313221":{
+            "author_id":"gpgclean",
+            "author_name":"YugiohPKMN ",
+            "choices":[
+                "You successfully reach the Land of Wind.",
+                "Something happens in the Land of Rivers that causes you to stop."
+            ],
+            "content":"<div class=\"\"><div> <span>You are able to recover from your wounds in the backwater village, and then you set off again in the dead of night, successfully nicking some excess food they had for the road ahead without them being none the wiser. Your next location is the Land of Wind.</span></div></div>",
+            "created":1580052720,
+            "id":2778664,
+            "title":"You don\u2019t get recognised."
+        },
+        "12":{
+            "author_id":"kickfacer",
+            "author_name":"ULTIMEGA",
+            "choices":[
+                "Genin",
+                "Chunin",
+                "Jonin",
+                "Sannin"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Female ninja. What level?</span></div></span></div>",
+            "created":1271986320,
+            "id":871930,
+            "title":"Kunoichi"
+        },
+        "13":{
+            "author_id":"kickfacer",
+            "author_name":"ULTIMEGA",
+            "choices":[
+                "Poison",
+                "Healing",
+                "Paralysis",
+                "Broken Limbs",
+                "Herbs"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A medical ninja. What is your specialty?</span></div></span></div>",
+            "created":1271987100,
+            "id":871939,
+            "title":"Medical"
+        },
+        "14":{
+            "author_id":"kickfacer",
+            "author_name":"ULTIMEGA",
+            "choices":[
+                "Akatsuki",
+                "Swordsmen of the Mist",
+                "Sound Ninja Five"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So your a criminal. To which group do belong?</span></div></span></div>",
+            "created":1271986440,
+            "id":871933,
+            "title":"Criminal"
+        },
+        "143":{
+            "choices":[
+                "You try it out",
+                "You shrug your shoulders and go to eat ramen"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You extracted ancient chakra from a corpse of a previous master of sound and obtained a new power.</span></div></span></div>",
+            "created":1329483840,
+            "id":1278650,
+            "title":"Sound Ninja Five"
+        },
+        "15":{
+            "author_id":"kickfacer",
+            "author_name":"ULTIMEGA",
+            "choices":[
+                "Genin",
+                "Chunin",
+                "Jonin",
+                "Sannin"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, so you're a complete newbie. What is your skill level?</span></div></span></div>",
+            "created":1271986560,
+            "id":871935,
+            "title":"Outsider"
+        }
+    },
+    "info":{
+        "author_id":"kickfacer",
+        "author_name":"ULTIMEGA",
+        "brief_description":"A new jutsu has been developed by you. What it is and does is your choice.",
+        "created":1271985960,
+        "description":"<td align=\"left\" class=\"norm\">A new shinobi has appeared in the Naruto world - you. And you have a surprise for everyone; you have recently developed the latest jutsu to date. Here are the rules for this interactive:<br>\r\n<br>\r\n1. You can call it whatever you want. Just be sure to make it reasonable.<br>\r\n2. It can be as powerful as you want. Any level of strength is acceptable.<br>\r\n3. You must be able to apply it in combat.<br>\r\n4. It is okay (but not required) to use your jutsu for other things besides previously stated.<br>\r\n5. You are NOT ALLOWED to use it to kill ANYONE. (Just kidding :=) <br>\r\n<br>\r\nEnjoy!<br>\r\n</td>",
+        "id":1666747,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1580052720,
+        "modified":1580052720,
+        "pretty_title":"Ultimate Jutsu"
+    }
+}

@@ -1,0 +1,434 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Simba",
+                "Nala",
+                "Kiara",
+                "Kovu",
+                "Other characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Time to begin. Let's start by selecting a character.</span></div></span></div>",
+            "created":1561957200,
+            "id":2681099,
+            "title":"The Circle of Lust"
+        },
+        "11":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "During the first movie",
+                "Between the first two movies",
+                "During the second movie",
+                "After the second movie",
+                "Some other, unspecified time"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now that we've selected a character, when will our story begin?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681108,
+            "title":"Simba"
+        },
+        "111":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Simba",
+                "Feral Simba"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will he be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681110,
+            "title":"During the first movie"
+        },
+        "112":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Simba",
+                "Feral Simba"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will he be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681113,
+            "title":"Between the first two movies"
+        },
+        "113":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Simba",
+                "Feral Simba"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will he be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681117,
+            "title":"During the second movie"
+        },
+        "114":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Simba",
+                "Feral Simba"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will he be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681118,
+            "title":"After the second movie"
+        },
+        "12":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "During the first movie",
+                "Between the first two movies",
+                "During the second movie",
+                "After the second movie",
+                "Some other, unspecified time"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now that we've selected a character, when will our story begin?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681119,
+            "title":"Nala"
+        },
+        "121":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Nala",
+                "Feral Nala"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will she be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681120,
+            "title":"During the first movie"
+        },
+        "122":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Nala",
+                "Feral Nala"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will she be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681122,
+            "title":"Between the first two movies"
+        },
+        "123":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Nala",
+                "Feral Nala"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will she be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681124,
+            "title":"During the second movie"
+        },
+        "124":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Nala",
+                "Feral Nala"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will she be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681125,
+            "title":"After the second movie"
+        },
+        "13":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "During the second movie",
+                "After the second movie",
+                "Some other, unspecified time"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now that we've selected a character, when will our story begin?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681129,
+            "title":"Kiara"
+        },
+        "131":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Kiara",
+                "Feral Kiara"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will she be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681130,
+            "title":"During the second movie"
+        },
+        "132":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Kiara",
+                "Feral Kiara"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will she be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681131,
+            "title":"After the second movie"
+        },
+        "1321":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Follow Kiara",
+                "Follow Kovu",
+                "Follow Shenzi"
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0It had been few months since Kiara and Kovu became the King and Queen of the Pridelands, and everything was peaceful. Kiara and Kovu had even managed to negotiate a peaceful mutual coexistence between the lions and the hyenas; now they both shared the Pridelands in peace. It seemed as though Kiara and Kovu would be the best rulers the Pridelands had ever seen.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0They also had very alluring figures. Kiara stood at a height of 5'10\" like her parents, and had a curvy body thanks to her strong, yet slender, muscles. Her proudest features, though, were her soft, heart shaped pillow of an ass, and her massive Double-E cup breasts (which were even bigger than her mother's). Kovu also stood at a height of 5'10\", and had huge, bulging muscles and 6-pack abs, which he was proud of.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0There was just one minor problem; Kiara and Kovu's sex drives were in overdrive. Neither of them had ever been so horny in their lives; not even the first time they went into heat. Simply having sex probably would've fixed it, but then Kiara would get pregnant, and they had promised Simba and Nala that they were going to wait for a few years before they'd have cubs, so that was out of the question. Masturbation hadn't worked either (despite their desperate attempts), so they had only one option; talk to Rafiki about it.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0As they went to visit Rafiki, the ran into Shenzi, who was just minding her own business. Like Kiara and Kovu, Shenzi had an alluring figure of her own. She stood at 5'11\" and had a very curvy body comprised of her own slender muscles. She only had D cup breasts, but her massive ass more than made up for the shortcomings of her chest.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Where are you off to in such a hurry,\" Shenzi asked?<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"We're, uh, going to see Rafiki and see if he knows why our sex drives are in high gear,\" Kiara replied nervously; she was expecting the much older female to laugh at them.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"You have that problem, too,\" Shenzi asked? \"I thought I was the only one. Mind if I come with?\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Oh, um... Ok,\" Kovu replied.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Shenzi then started walking along with the two lions. Eventually, they found Rafiki and explained their situation to him.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Ah, it's been a while since someone came to me with this problem,\" the old mandrill said. \"I know exactly what will help calm your loins.\" He then began to mix up some sort of concoction comprising of berries, fruits and water. \"Your timing is absolutely perfect too.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"It is,\" Kovu asked? \"How?\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Well, as I'm sure you're aware,\" Rafiki said, barely looking up as he did, \"mating season has begun for most of the animals in the Pridelands. Normally, I wouldn't bring this up, but word through the grapevine has it that many animals are having a difficult time having children of their own.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"That sounds depressing,\" Kiara said sadly. \"I kinda wish there was a way we could help.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"How exactly would we even do that,\" Shenzi asked? \"We can only bear children of our own species. And Kovu can only impregnate other lions.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"That's why your timing is so perfect,\" Rafiki said jovially. \"I know of a way that you can calm your loins and help animals who are having mating problems.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"You do,\" Kiara, Kovu, and Shenzi all asked at once?<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Of course I do,\" Rafiki replied. \"I've been around long enough that I've used this solution many times. Even your parents had wanted me to use it on them, Kiara.\" He then finished mixing... whatever kind of concoction he had just mixed, and poured it into three small, wooden bowls. He then gave one to each of the  younger animals. \"Drink this and I'll explain more.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Kiara, Kovu, and Shenzi looked at the contents of their bowls with concern. The mixture wasn't unappealing - it actually looked and smelled pretty good - but they weren't sure what would happen if they drank it. Shrugging, they decided that they weren't gonna cure their overacting sex drives by doing nothing, so they drank the strange mixture (which tasted surprisingly sweet). Almost immediately after doing so, a warm feeling washed over their bodies and was gone just as quickly at it it came.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"That mixture has just altered your reproductive systems,\" Rafiki said. \"Now you can impregnate, and be impregnated by any animal of your choosing.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Wait,\" Kiara started, \"so you're telling me that I could let, say, an antelope get me pregnant if I want?\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"And,\" Kovu added, \"I can get a rhino pregnant if I so want?\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Absolutely,\" Rafiki said, smiling. You can breed with whatever animals you wish. This will allow you to calm your loins and help with the Pridelands' mating troubles at the same time. It also had a side effect on you two.\" He pointed to Kovu and Shenzi. \"Kovu can become pregnant now, and Shenzi can impregnate other animals.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Shenzi immediately moved her hand between her legs and felt something new; she had a normal vagina now and her pseudo-penis (which all female hyenas had) was now a real penis. Rafiki was right.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Wait, how can I get pregnant,\" Kovu asked? \"I don't have a vagina. Will anal sex get me pregnant or something?\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"You catch on quick,\" Rafiki replied. \"Also, pregnancies that happen to you and are caused by you will last only 3 days, so you can help pretty much every animal in the Pridelands if you want. If you mate with one of your own species, though, pregnancies will last the normal length of time.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Ok,\" Kiara said. \"Is there anything else we need to know about?\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"No, that's everything,\" Rafiki said. \"But before you leave, there's something I must do.\" He then crushed some berries and began using the juice to draw strange symbols on the three younger animals' bellies. \"Those symbols let other animals know that you can help with their mating problems. That's everything; have fun!\" And with that, he was gone.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Well then,\" Kiara said, \"let's go help out the Pridelands. Let's all meet up at the watering hole later.\" Kovu and Shenzi nodded and they all split up.</span></div></div>",
+            "created":1562022000,
+            "id":2681182,
+            "title":"A lustful adventure begins"
+        },
+        "14":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "During the second movie",
+                "After the second movie",
+                "Some other, unspecified time"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now that we've selected a character, when will our story begin?</span></div></span></div>",
+            "created":1561957200,
+            "id":2681132,
+            "title":"Kovu"
+        },
+        "141":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Kovu",
+                "Feral Kovu"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will he be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1562012880,
+            "id":2681134,
+            "title":"During the second movie"
+        },
+        "142":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Kovu",
+                "Feral Kovu"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One last question before we begin; will he be anthropomorphic or just a normal lion?</span></div></span></div>",
+            "created":1562012940,
+            "id":2681135,
+            "title":"After the second movie"
+        },
+        "1422":{
+            "author_id":"shayminlover",
+            "author_name":"Galio",
+            "choices":[
+                "It wasn't just a dream. When drinking some water, he starts growing!",
+                "It is not a dream, but a vision of a future. He will grow to that size and more.",
+                "It was just a dream."
+            ],
+            "content":"<div class=\"\"><div> <span>Kovu had been accepted into the Lion Pride Rock family, after the events that lead to this day. It had been but a few weeks since he moved in here, and he was already feeling...off. Not like he was out of place, but he felt weird on the inside. He felt hot and kept having really weird dreams. Dreams where he was huge and growing, his cock out as he towered over the pride lands around him, towering higher and higher. It had to be just a dream though, right? Well, maybe he might find out sooner or later.</span></div></div>",
+            "created":1578033120,
+            "id":2768630,
+            "title":"Kovu, the Lustful Lion"
+        },
+        "14221":{
+            "author_id":"shayminlover",
+            "author_name":"Galio",
+            "choices":[
+                "\"...Not even close!\" He then gets super growy!",
+                "\"...Yeah.\" He says, before Kiara grows even more!",
+                "He can't answer, as Simba shows up, towering over them both!"
+            ],
+            "content":"<div class=\"\"><div> <span>Ugh, he's felt so hot the past few days. He still doesn't get why. Kovu is on his way to see Rafiki right now, in hopes that maybe the baboon can help him figure out what's up with him. But he is just so hot, it's not fun to walk from Pride Rock to Rafiki's Tree. So he stops by a little watering hole along the way and starts lapping up the water in it. As he finished, he felt refreshed before grunting heavily as his body felt a strange pulse run through it.<br>\r\n<br>\r\n\"Urf...wh-what was that?\" He huffs out, before he huffs and puffs, his body slowly but surely beginning to grow right then and there. He would be shocked, and yelling about how crazy this was, if not for the fact it just felt sooo goooood. \"G-Geeez...I didn't think this would feel soooo amazing.\" He moans out, as the pleasure of growth had begun to have his cock get erect and grow outward.<br>\r\n<br>\r\nKiara had wondered where Kovu went off to earlier, running around Pride Rock and beyond to find him. Only to spot him in the distance and looking closer and closer. But she had stopped moving in shock, as Kovu was not moving closer, but growing so big that he looked to be getting closer. Shaking her head, Kiara bounds off towards Kovu, confusion and shock present on her face when she comes face to paw with the now 45 feet tall Kovu. \"K-Kovu?! What is happening to you?!\" She shouts up at him shocked.<br>\r\n<br>\r\nKovu hearing Kiara below him, lowers his huffing and growing head to her. \"H-Hey Kiara, nnngh. S-Sorry if this iiiiiis startling you. I'm n-n-not sure how it happened myself buuuuut, mmfph, this is soooo gooood.\" He manages to get out through the moans and huffs of pleasure. Now 60 feet tall, Kiara could see Kovu's massive cock hanging over her head. \"Mmmmfff, fuck, I love this so much.\" He moans as lays on his side, still growing larger and larger. Kiara could only watch in shock as Kovu just grew and grew and grew right before her eyes. She knew this wasn't close to the end of it, but how could she stop it? He was growing so huge, and she was still so small. But...she had to do something.<br>\r\n<br>\r\nBefore she can decide what to do though, Kovu groans loudly. \"F-fuuuuuck. Getting horny now.\" He moans as he stands, and starts to hump the ground itself, huffing and puffing as he does so. He grinds his dick against the ground itself, huffing and puffing as he still grew and grew. \"Oh man, this feels greaaaat!\" He roars proudly, as he surpasses 100 feet tall now.<br>\r\n<br>\r\nKiara could not stand by any longer! This was getting out of hand! Something about this awakens something in her, and she starts to huff and puff much like Kovu, as she too grew larger and larger, next to his grinding form. \"D-Don't worry Kovu. I-I'll help you out.\" She huffs out, as she grew to 10 feet, then 20 feet, then 35 feet, greatly enjoying the growth like Kovu did. Kovu was too busy enraptured by his ground humping to notice her growth next to him. It wasn't until he was 175 feet, that he noticed her, when she pinned him to the ground, causing the ground to quake and shake, as she grew to surpass his size at 185 feet now.<br>\r\n<br>\r\nShe huffs as she lorded herself over him, the two's growth seemingly stopped for now. \"Are ya done humping the ground yet?\" She asks through the breathes. Kovu just looked at her in amazement before saying...</span></div></div>",
+            "created":1578034800,
+            "id":2768639,
+            "title":"Kovu's Growing Pride"
+        },
+        "15":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Sarabi",
+                "Sarafina (Nala's mother)",
+                "Ziara",
+                "One of the Hyenas",
+                "More characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More characters for your choosing.</span></div></span></div>",
+            "created":1561957200,
+            "id":2681100,
+            "title":"Other characters"
+        },
+        "151":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Before the first movie",
+                "During the first movie",
+                "After the first movie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now that we've selected a character, when will our story begin?</span></div></span></div>",
+            "created":1562013060,
+            "id":2681136,
+            "title":"Serabi"
+        },
+        "1511":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Sarabi",
+                "Fereal Sarabi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last question: anthro or feral?</span></div></span></div>",
+            "created":1562013240,
+            "id":2681137,
+            "title":"Before the first movie"
+        },
+        "1512":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Sarabi",
+                "Feral Sarabi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last question: anthro or feral?</span></div></span></div>",
+            "created":1562013480,
+            "id":2681144,
+            "title":"During the first movie"
+        },
+        "1513":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Sarabi",
+                "Fereal Sarabi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last question: anthro or feral?</span></div></span></div>",
+            "created":1562013360,
+            "id":2681139,
+            "title":"After the first movie"
+        },
+        "152":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Before the first movie",
+                "After the first movie",
+                "Between the first movie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When did the story start?</span></div></span></div>",
+            "created":1605324780,
+            "id":2939738,
+            "title":"Sarafina (Nala's mother)"
+        },
+        "1521":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Anthro Sarafina",
+                "Normal Sarafina"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Sarafina a anthro  or a normal lioness</span></div></span></div>",
+            "created":1605427920,
+            "id":2940286,
+            "title":"Before the first movie"
+        },
+        "1522":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Anthro Sarafina",
+                "Normal Sarafina"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Sarafina a anthro or a normal lioness?</span></div></span></div>",
+            "created":1605428340,
+            "id":2940287,
+            "title":"After the first movie"
+        },
+        "1523":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Anthro Sarafina",
+                "Normal Sarafina"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Sarafina a anthro or a normal lioness</span></div></span></div>",
+            "created":1605428520,
+            "id":2940288,
+            "title":"Between the first movie"
+        },
+        "154":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Shenzi",
+                "Banzai",
+                "Ed"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you choose Shenzi, Banzai, or Ed?</span></div></span></div>",
+            "created":1562013720,
+            "id":2681148,
+            "title":"One of the Hyenas"
+        },
+        "1541":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Anthro Shenzi",
+                "Feral Shenzi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Anthro or feral?</span></div></span></div>",
+            "created":1562013780,
+            "id":2681151,
+            "title":"Shenzi"
+        },
+        "155":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Mufasa",
+                "Scar",
+                "More characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Even more characters for your choosing.</span></div></span></div>",
+            "created":1561957200,
+            "id":2681101,
+            "title":"More characters"
+        },
+        "1553":{
+            "author_id":"dbzfan123",
+            "author_name":"Logan",
+            "choices":[
+                "Timon and/or Pumbaa",
+                "Rafiki (if you're interested",
+                "Any characters that I missed"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are the last few characters I can think of.</span></div></span></div>",
+            "created":1561957200,
+            "id":2681105,
+            "title":"More characters"
+        }
+    },
+    "info":{
+        "author_id":"dbzfan123",
+        "author_name":"Logan",
+        "brief_description":"The cast of The Lion King are about to have a very lusty experience.",
+        "created":1562005440,
+        "description":"<td align=\"left\" class=\"norm\"><div align=\"center\">This is going to be an interactive story about the cast of <i>The Lion King</i> getting into various sexual situations. All kinds of sex (Straight, Gay, Lesbian) are allowed. If the idea of that bothers you, I recommend leaving this story immediately.</div><br>\r\n<br>\r\n<div align=\"center\">Here are some fetishes that I will allow:</div><br>\r\n<br>\r\n-Anthro (not technically a fetish, but I'll allow it anyway)<br>\r\n-Expansion (weight gain, inflation, muscle growth, etc.)<br>\r\n-Growth/Shrinking<br>\r\n-Vore and Unbirth<br>\r\n-Pregnancy and Mpreg (there's gonna be lots of sex, so pregnancy will be expected anyway)<br>\r\n-Foot/Paw (because why not?)<br>\r\n-Bondage (not my thing, but feel free to include it)<br>\r\n-Humans (just don't make them the main focus)<br>\r\n-Pretty much anything that's not specifically forbidden (see below)<br>\r\n<br>\r\n<div align=\"center\">Here are things that I will <u><i><b>NOT</b></i></u> allow under any circumstances:</div><br>\r\n<br>\r\n-Sex with cubs or other underage characters (you can have them in this story, but sex with them is strictly forbidden; sex is only allowed with characters who have reached the sexual maturity for their respective species).<br>\r\n-Rape (this is a flat-out \"no\")<br>\r\n-Scat and/or Watersports<br>\r\n-Blood and gore<br>\r\n-Strings of more than five sequential choice chapters (example: a chapter consisting of \"What happens next?\", followed by the options for the next chapter) once the story has begun. Id est, once all the characters have been selected and the story has begun, strings of more than five chapters in a row that only offer choices will not be allowed. Not only do these bring the plot to screeching halt and break the flow of the story, ruining the reader's immersion in the process (I speak from experience), they also artificially inflate a story's chapter count.<br>\r\n-Chapters that are hard to read. This includes chapters with high numbers of grammar, spelling, and/or punctuation errors, and walls of text caused by paragraphs that are poorly separated or not separated at all (start each paragraph on a new line, and using indents, while not absolutely necessary, can help).<br>\r\n<br>\r\n<div align=\"center\">Any violations of the above will either be edited or outright deleted. Other than that, go nuts.</div></td>",
+        "id":2194694,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1605428520,
+        "modified":1605428520,
+        "pretty_title":"The Lion King: The Circle of Lust"
+    }
+}

@@ -1,0 +1,856 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"buizu",
+            "author_name":"Zura",
+            "choices":[
+                "To your neighbour's house (villager choice)",
+                "Past the train tracks, up to Main Street (regular NPC choice)",
+                "To the event plaza, to see what's going on! (special NPC choice)",
+                "To the town hall, to get registered as a resident! (Isabelle)",
+                "Other..."
+            ],
+            "content":"<div class=\"\"><div> <span><font class=\"size3\" style=\"\">Finally, after what felt like a never-ending train journey, you've arrived in your new town. You don't quite remember <i>why</i> you moved here, but it must've been for a good reason, right?<br>\r\n<br>\r\nLeaving little time to unpack your belongings in your new home, you step outside and start to explore around town. But where should you go first...?</font></span></div></div>",
+            "created":1537419600,
+            "id":2550459,
+            "title":"You've arrived!"
+        },
+        "11":{
+            "author_id":"buizu",
+            "author_name":"Zura",
+            "choices":[
+                "Cat",
+                "Dog",
+                "Rabbit",
+                "Bear",
+                "Other..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah, but what kind of animal is your neighbour?</span></div></span></div>",
+            "created":1537419600,
+            "id":2550464,
+            "title":"Villagers"
+        },
+        "111":{
+            "author_id":"buizu",
+            "author_name":"Zura",
+            "choices":[
+                "Ankha",
+                "Punchy",
+                "Other..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And what is the name of this cat?</span></div></span></div>",
+            "created":1537419600,
+            "id":2550466,
+            "title":"Cat"
+        },
+        "1111":{
+            "author_id":"goodbun",
+            "author_name":"GoodBun",
+            "choices":[
+                "Worried Ankha, sitting right next to you",
+                "Smug Ankha, sitting on top of your tied up body",
+                "GIANT Ankha, looking down at you with disgust and contempt"
+            ],
+            "content":"<div class=\"\"><div> <span>Of all the houses that were close by, this one happened to be the most eye-catching.<br>\r\n<br>\r\nAt a first glance it didn't differ too much from other buildings around here: a cube with a spiky roof, to put it a simply as possible. Oh, but what a roof it was, stylized to look like a miniature, golden pyramid. It looked so real, as if it was shrunk and nabbed straight outta Egypt.<br>\r\nThe house itself was built out of a gray brick, which looked much blander when contrasted with the roof. Its owner must've thought the same, though, as each brick was decorated with colorful hieroglyphs. Sadly, you couldn't tell if there was any meaning hidden in those, or if they were just randomly painted on.<br>\r\n<br>\r\nIn your youth you used to be a real sucker for anything Ancient Egypt related, even dreaming of becoming at some point an Egyptologist. Those fantasies are well past you now, but the interest in that place lingered in the back of your mind to this very day. It seemed that whoever owned that house was also a big of it. Perhaps meeting them could spark that old interest anew.<br>\r\n<br>\r\nYou approached your neighbor's doors, which seemed to be the most ordinary-looking piece of the house. Just a regular, wooden door with an Egyptian ankh engraved around its peephole. Without thinking much about it, you gently knocked at the door... Only to immediately regret it.<br>\r\n<br>\r\nAll of a sudden, your head started hurting. Badly. The worlds started spinning, your vision got blurry. Unable to keep yourself standing, you fell at the intriguing house's doorsteps, only managing to get a glimpse of its owner's feet before finally falling unconscious.<br>\r\n<br>\r\nA pair of yellow paws...<br>\r\n<br>\r\n---<br>\r\n<br>\r\nThe first thing that you saw upon regaining you consciousness was...</span></div></div>",
+            "created":1547874000,
+            "id":2604708,
+            "title":"Ankha"
+        },
+        "11113":{
+            "author_id":"goodbun",
+            "author_name":"GoodBun",
+            "choices":[
+                "Ankha rises her foot above you",
+                "Ankha stuffs you in-between two of her toes",
+                "Ankha calls for another snooty villager to aid her"
+            ],
+            "content":"<div class=\"\"><div> <span>Words could hardly describe the improbability of the being that stood before you.<br>\r\n<br>\r\nShe was an absolute giant of a catgirl, her height comparable to that of a freaking lighthouse. Her body mostly resembled that of a human, though with some key differences, such the her pointy ears, long tail, feral muzzle, and body covered in golden and navy blue striped fur. Her hands and feet only had four digits each, all of them tipped with white claw, and padded with black pawpads. Her hair was blue, cut in a way that immediately brought to mind Cleopatra. The giantess was wearing a white dress, with patterns that made it resemble a mummy's wrappings, and a golden diadem with a cobra-shaped ornament at its front. She wore a deep black makeup around her eyes, which... Were looking down... Straight at you...<br>\r\n<b><br>\r\noh</b><br>\r\n<br>\r\nWhile you were busy studying the giantess from head to toe, the catgirl kept her own two eyes locked on you. The disgusted look she was giving you sent shivers down your spine. Impressed with you she was not, that much was for certain, while you couldn't help but gawk at her quite honestly gorgeous form. You could easily see yourself falling for her looks alone... Were you not an inch or so tall, and seemingly at her mercy.<br>\r\n<br>\r\n\"You certainly took your sweet time, <i>speck</i>.\" the giant catgirl finally spoke, though just like her gaze it ended up filling you with more fear of the giantess. Hell, they way she said it, she almost spat that last word out. The contempt she had for your meager self couldn't be any more apparent.<br>\r\n<br>\r\n\"M-my time?\" You called out to her, somehow able to speak despite all the madness going on right now. For a moment you were worried that she wouldn't be able to hear you, but seeing how her ears perked up at the sound of your voice, you figured she must've caught that. If only you caught the look she gave you when you spoke...<br>\r\n<br>\r\n\"M-miss, I'm s-sorry if I offended you in some way, b-bu-\"<br>\r\n<b><br>\r\n\"Silence!\" </b>She almost shouted, stomping one of her feet close by for emphasis. Just seeing that giant appendage move so quickly, the massive things so effortlessly rising and falling to the ground, it honestly made you feel ill. How could something so big move so quickly!? How was she real!?!? How was any of this real!?!?<br>\r\n<br>\r\n\"The wretch dares speak to me without my permission. Haa, how typical, fresh maggots like you are always unruly like that.\"<br>\r\n<br>\r\nHeh, ironic. It seemed that neither of you could stand to look at the other.<br>\r\nYou wanted to ask her what she meant by that, but the words got stuck in your throat the moment her other foot rose high up, moving in to join the first one at your other side. Now the giant catgirl was basically right above you, with both of her giant feet uncomfortably close to your small form. You could've sworn that things got a bit hot with those two paws nearby... and a bit smelly too.<br>\r\n<br>\r\n\"It is crucial that I grind some good manners into your pathetic ilk as soon as possible, least you end up annoying me too quickly, and get squashed too soon to be any of any use to me. Let's see how easily you can be...\"<br>\r\n<br>\r\n<b>oh no<br>\r\n</b><br>\r\n<i>\"Fixed\"</i></span></div></div>",
+            "created":1547874000,
+            "id":2604933,
+            "title":"Giantess Ankha"
+        },
+        "111133":{
+            "author_id":"goodbun",
+            "author_name":"GoodBun",
+            "choices":[
+                "Diana the Deer",
+                "Whitney the Wolf",
+                "(Another Option)"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Now then\" Ankha announced loudly \"While I would nothing more than to get some <i>alone</i> time with you, it just so happened that your intrusion correlated with a small tea party I was having. Moreover, the topic of our chat also happened to be centered around little maggots like yourself, and how to properly train them.\"<br>\r\n<br>\r\nAs she was saying it, Ankha was smiling from ear to ear. Whenever she paused her speech, she would flash you a toothy grin, filling you even more with dread. She oh so enjoyed the prospect of owning you, it was a terrifying thing to behold, and consider. The things she could do to you...<br>\r\n<br>\r\n\"It would be soooo~ undignified of me to leave my friend out of it. especially when she mentioned, how lovely it would be if we could share some of our... <i>techniques</i> with one another.\"<br>\r\n<br>\r\nNo, you couldn't take this talk anymore. As mad as it was to try, you had to do something. You couldn't spend a second more with her, or under her, or whatever! Enough was enough!<br>\r\nAs quickly as you could manage it, your rose to your feet, and took off in a mad dash, running in a direction opposite of hers, towards what you assumed to be the front door. Noticing a small gap between it and the floor, you concluded that it should be enough for you to fit through, provided you could even make it.<br>\r\nSurprisingly, you didn't hear any sound coming from behind you, as if the giant catgirl wasn't even going after you. You'd look back, but you were trying to remain focused on your goal. So close it was now, only a couple more seconds, and-<br>\r\n<br>\r\n\"You can come in now~\"<br>\r\n<br>\r\nIn a flash, all fell to ruin. The giant doors opened, revealing to you two things:<br>\r\n1) they didn't lead outside, but into another room,<br>\r\n2) there was someone behind, ready to put block your path.<br>\r\n<br>\r\nYou couldn't get a good look at them, before they took a swift step forward, putting one of their giant feet down right in your way. The power of their stomp put an end to your escape attempt, your body sent flying from the shockwave it caused. Now lying down on you back, head spinning, you couldn't do much else other that to look upwards, and take in the details of this newcomer's face.<br>\r\n<br>\r\nTo you, it was just another animal chick, but to Ankha it was none other than her good friend...</span></div></div>",
+            "created":1550379600,
+            "id":2618916,
+            "title":"Snooties Assemble"
+        },
+        "1111331":{
+            "author_id":"goodbun",
+            "author_name":"GoodBun",
+            "choices":[
+                "\"We better go with your idea\" (Foot Worship)",
+                "\"I can handle it. Let's go with my idea\" (Foot Sandwich)",
+                "(Reader's Choice)"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Oh, dear me. I hope I didn't interrupt you two with anything.\"<br>\r\n<br>\r\nThose were the first words you've heard of Ankha's mysterious guests, and although they carried a well-meaning, and even concerned intent, the tone of her voice spelled nothing of the sort.<br>\r\n<br>\r\nWith your mind cleared after the initial shock, you were now able to take a good look at this new giantess, who appeared to take the form of a white deer.<br>\r\nFrom heavens up high she started you down, her eyes black, and cold, the lady looking rather unimpressed with your form. Most of her body was covered in short, white fur, with notable exceptions being the palms of her hands, and you assumed the soles of her feet as well. Those showed some of her skin, somewhat reddish, and noticeably moist. <br>\r\nAside from her head being that of a deer, her body seemed to resemble that of a human almost one to one, down to her hands and feet having five digits each. Said digits, however, seemed to be entirely coated in pink keratin, though you couldn't tell if it was their natural color, or some kinda nail polish<br>\r\nLooking down at her feet, you confirmed the same applied to them: mostly coated in white fur, with bared, reddish soles, and pink, pointy, sturdy-looking toes. You'd imagine the biggest one could easily fit most of your body underneath it...<br>\r\n<br>\r\nThe deer woman let out a a devilish giggle, bringing your attention away from her feet, and back to her face. Her expression only got snootier, as she relished in the attention you paid to her toes.<br>\r\n<br>\r\n\"Ahaha, I see you don't waste your time with them, dear Ankha. Five to ten minutes, and he already seems to know its place. Just look at the little creep, and how he's ogling my feet. Want a closer look, hun~?\"<br>\r\n<br>\r\nWith that the giantess began to move one of her feet closer towards you, toes wiggling in a teasing manner, as if waving for you to come closer. To you, of course, this seemed more like a scene from some bizarre monster movie, with the giant foot acting as the predator closing in on its prey. Still sat on your ass, you began to desperately drag yourself away from the approaching mass, not at all interested in the undoubtedly nightmarish scenarios she had in store for you.<br>\r\n<br>\r\nYou didn't get too far away from her, however, before your back rammed against another furry mass: a crevice in-between two of Ankha's giant toes. You were so focused on one giantess, you completely forgot about the other, and now you were going to pay for it.<br>\r\n<br>\r\nBefore even a single squeak escaped your lips, Ankha clenched her toes tightly upon you, entombing you between her golden digits. With your face forced against their moist flesh, you could hardly keep her foot sweat from getting into your mouth, unwillingly downing what felt like gallons of it. With your mouth heavily occupied, you had no choice but take deep sniffs with your nose, taking in an uncanny amount of her toes' funky, foul smell. Here, nothing could be heard outside of your own pained groans, and what you assumed was your own body creaking in response to the pressure, that the giant catgirl was so casually exerting upon you.<br>\r\n<br>\r\nFor you, this was hell on earth.<br>\r\n<br>\r\nFor Ankha, it was a source of a tingly, pleasant sensation.<br>\r\n<br>\r\n\"Ooh, I'm afraid he was more into my toes, my deer Diana~\" Ankha smugly stated, barely able to stifle a giggle as she did so. This didn't seem to bother Diana at all, however.<br>\r\n<br>\r\n\"Aww, poor Ankha. Is that your only way to get those bugs near your feet? Catch them when they're not looking?\" The deer lady had this retort ready the second she saw you disappear between her friend's plump digits \"I'd never know how that must feel. My worms, you see, basically throw themselves at my soles to please me~\"<br>\r\n<br>\r\n\"Huh, you sure that's the reason?\" Ankha wasn't too far behind, easily able to come up with some witty rebuttals on the spot \"You sure they're not doing so just to get themselves crushed? Can't stand your feet so much, they'd rather go squish, than spend another second near them~\"<br>\r\n<br>\r\n\"Gah, you've got a lot of nerve to imply those specks can't stand my feet, when it's clear this one is trying his hardest to get away from yours\" Diana answered, now somewhat annoyed with this conversation, her eyes now locked on her friend's toes. A single, tiny arm  somehow managed to make it out of their tight hold, and was now furiously beating at them.<br>\r\n<br>\r\n\"Hmm, so he is\" Ankha muttered, now too looking down at her toes. She toyed with the idea of snapping your arm like a twig, or even tearing it right off, but she had plans for you that required you being in one piece... At least for the time being.<br>\r\n<br>\r\nAlthough she did so regrettably, Ankha eased her hold on you, before fully dragging her foot back. Finally you were left alone, looking now like a miserable shade of a man, half bawling your eyes out, half gasping for air. Meanwhile, the two giantess took a stand in front of you, one pair of giant feet to the left, and one to the right.<br>\r\nThings were now back to square one. The only door was once again behind you, but you'd be damned to try and escape through it again. I mean, what if there was another giantess hiding somewhere out there, waiting to put her foot in your path? You'd probably go insane, if something like that were to happen.<br>\r\n<br>\r\nTheir toes wiggling in unison, the cruel giantesses stared at your pathetic self, while thinking of ways to torment you together. An opportunity to share a micro like that didn't come often, and so they wanted to make sure they'd make the most of it.<br>\r\n<br>\r\nDiana was the first one to speak her piece \"I always love leaving my bugs to worship my feet, while I hardly acknowledge their effort. Helps drive the point across, of just how little they matter in the grand scheme of things\"<br>\r\n<br>\r\nYou didn't like the sound of it in the slightest, and even less where she was going with it. \"How about we do so with this one? Let him tend to our feet, while we continue our team party?\"<br>\r\n<br>\r\nNope, didn't like it at all. Fortunately(?), Ankha seemed to agree.<br>\r\n<br>\r\n\"I dunno. Unless we switch our feet often, it wouldn't be much of a joined effort on our part. Wouldn't feel like we were doing it together.\"<br>\r\n<br>\r\nFor a moment they stayed silent, until one of them spoke again. This time it was Ankha.<br>\r\n<br>\r\n\"How about we continue the tea party, but with him sandwiched between our soles? Now that's what I'd call teamwork. Wouldn't you agree?\"<br>\r\n<br>\r\nYou wouldn't agree for sure, but your opinion didn't matter at all. Surprisingly though, Diana didn't seem too keen on the idea either.<br>\r\n<br>\r\n\"Eh, perhaps under different circumstances I'd enjoy it a lot, but today my poor soles are in a particularly bad shape\" As she said it, the deer woman rose one of her feet up, giving her friend a good at it. From toes to heel, the whole expanse of vermilion sole seemed coated in a fine layer of some dense, filthy-looking fluid. It didn't take a brainiac to figure out that her must've had some problem with profound sweating. Ankha didn't seem too happy with their look either, looking solemnly over Diana's foot.<br>\r\n<br>\r\n\"Now, I obviously wouldn't mind drowning that speck in my foot sweat, but I'd never subject your own feet to that horror as well. Unless you think you'd be fine with... that, then I'm afraid your idea's a no go.\"<br>\r\n<br>\r\nAnkha looked away from her friend's feet to shoot you a death glare, then tuned back to Diana's sole. Then back at you, then back at her foot again. Her sole, then you. Sole, you, sole, you, over and over and over again, until the catgirl finally came to a decisive conclusion.<br>\r\n<br>\r\n\"I think...\"</span></div></div>",
+            "created":1550466000,
+            "id":2619407,
+            "title":"Ankha's Deer Friend"
+        },
+        "113":{
+            "author_id":"interestingsno",
+            "author_name":"an interesting day",
+            "choices":[
+                "Take off her shoes and socks and play with her the bare feet",
+                "Tickle her bare feet"
+            ],
+            "content":"<div class=\"\"><div> <span>As I walked I came across a simple pipe shaped house surrounded by blue roses and stunning peach trees and that house belonged to a female rabbit named Gabi. <br>\r\n<br>\r\nYou open the beautifully crafted wooden door slowly but carefully and going closer into the house you see Little Gabi sleeping on her bed with both her shoes and socks on.<br>\r\n<br>\r\nYou eventually get some ideas to wake her up inside your head and now the fun really begins.</span></div></div>",
+            "created":1567215720,
+            "id":2710805,
+            "title":"A cute awakening for Gabi"
+        },
+        "1131":{
+            "author_id":"interestingsno",
+            "author_name":"an interesting day",
+            "choices":[
+                "tickle her bare foot"
+            ],
+            "content":"<div class=\"\"><div> <span>As you get closer to her bed you notice her brown coloured shoes sticking out of the covers  as you get closer and closer to the bed where she has been sleeping after a long day of catching bugs and fish.<br>\r\n<br>\r\nYou also start to notice how worn out her shoes really are and if you look closely enough through the holes you can see her pure white socks.<br>\r\n<br>\r\nLuckily you have a pair of scissors in your pockets and slowly but carefully not to wake her up you start at the sole of the shoe with the scissors and eventually the toes of the shoes. <br>\r\n<br>\r\nThe soles of the shoes fall off on the floor revealing her socked feet.<br>\r\n<br>\r\nThe socks are very clean almost like they were washed today and by now you start to take off her socks by the ankle.<br>\r\n<br>\r\nAs soon as both of the socks have been taken off you gaze in awe at the furry and soft yet adorable rabbit feet of Gabi because how cute they really are and that they rarely see the light of day.<br>\r\n<br>\r\n<br>\r\nYou start touching her bare exposed sole by the pinky finger and you get goosebumps from how soft they really are.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1567217100,
+            "id":2710826,
+            "title":"Rip apart her shoes and rub her bare feet."
+        },
+        "115":{
+            "author_id":"buizu",
+            "author_name":"Zura",
+            "choices":[
+                "Squirrel",
+                "Koala",
+                "Other..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Then perhaps one of these?</span></div></span></div>",
+            "created":1537419600,
+            "id":2550495,
+            "title":"Other..."
+        },
+        "1151":{
+            "author_id":"interestingsno",
+            "author_name":"an interesting day",
+            "content":"<div class=\"\"><div> <span>It was a beautiful day in the little village of Sunny valley covered in dense forests and carpets of pink roses just like any other hot summer day in this little quiet town.<br>\r\n<br>\r\nAlexander a 12 year old boy was living in the village alongside the other animals in the village as he had done for a year or so.<br>\r\n<br>\r\nDuring this week he had come to know some new neighbours including a young female 6 year old squirrel called Agent S <br>\r\nwho loved to dress up in her superhero costume and blue helmet.<br>\r\n<br>\r\n<br>\r\nAfter a long day of hard work in the town doing things like watering and planting the many flowers of the town and catching many rare bugs he was exhausted and resting by the Town tree.<br>\r\n<br>\r\nAfter resting by the Town tree for an hour he woke up only to see something that was both rare and adorable.<br>\r\n<br>\r\nAgent S was sleeping by the nearby Oak tree with her big blue helmet taken off which was something rare because she usually wore at all times and he was awestruck because only now did he realise how cute she really was.<br>\r\n<br>\r\nRealising how cute she was he got a devious idea and he slowly approached the sleeping little squirrel girl not to wake her up.<br>\r\n<br>\r\n<br>\r\nHe slowly started taking off her blue shirt exposing her furry pure white belly and he started stroking it very carefully getting goosebumps from the sheer softness of her fur.<br>\r\n<br>\r\nHe then noticed her white shoes resting on the green grassy summer hill as if waiting to be taken off any second now.<br>\r\n<br>\r\nHe then grabbed both her shoes with both his hands exposing her sweaty black nylon socks<br>\r\n<br>\r\nHe started rubbing her socked feet causing her to giggle in her sleep but still she remained asleep.<br>\r\n<br>\r\nAfterwards he did it on both feet before looking at her socked feet for 2 minutes before he decided to get to the next phase.<br>\r\n<br>\r\nUsing his pinky finger he slid it under her nylon socks slowly taking off the sweaty socks exposing her tiny Three toed grey pawfeet that rarely saw the light of day.<br>\r\n<br>\r\nNow using both fingers on the both the toes of her left and her right paw he tickled them which did cause the girl to wake up laughing wildly but because she enjoyed being tickled and the fact it felt so good to be barefooted for once she let him continue on.<br>\r\n<br>\r\nNoticing her furry soles he started licking them causing her to squeal loudly in joy and because she was so ticklish<br>\r\n<br>\r\nAfterwards he rubbed her soles to massage her tender feet causing her to moan with pleasure as she wiggled her toes.<br>\r\n<br>\r\nWhen he was finished he sat beside her staring at her bare feet as she was again resting against the tree but this time looking up at the sunny summer sky<br>\r\nwith a smile on her face.<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1586650080,
+            "id":2817347,
+            "title":"Tickling Agent S"
+        },
+        "1153":{
+            "author_id":"buizu",
+            "author_name":"Zura",
+            "choices":[
+                "Alligator",
+                "Bird",
+                "Other..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Or one of these?</span></div></span></div>",
+            "created":1544504400,
+            "id":2588065,
+            "title":"Other..."
+        },
+        "11531":{
+            "author_id":"buizu",
+            "author_name":"Zura",
+            "choices":[
+                "Alfonso",
+                "Alli",
+                "Other..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which alligator will it be?</span></div></span></div>",
+            "created":1544504400,
+            "id":2588066,
+            "title":"Alligator"
+        },
+        "115311":{
+            "author_id":"liamthemystic",
+            "author_name":"Phoenix",
+            "choices":[
+                "Alfonso, the Cute, Chubby gator friend.",
+                "The Choice is yours."
+            ],
+            "content":"<div class=\"\"><div> <span>Alphonso: My Favorite Animal Villager.<br>\r\nVillager type: Lazy Villager.<br>\r\nBody: Slightly Chubby Alligator, with Dark Orange, and White Skin.<br>\r\nGender: Male<br>\r\nBirthday: June, 9.<br>\r\nSign: Gemini.<br>\r\nClothes:<br>\r\nShirt- Shirt, with a classic Mario Hat Print.<br>\r\nFootwear- Bright Red and White Sneakers.<br>\r\nSocks: His Lucky socks, his socks have never been washed, and never taken off either. So they have stayed on his constantly sweating feet for years.<br>\r\nLikes: Fishing, Video games, Cartoons, Drawing, Video game Furniture, Strange and Basic clothing, Eating, Coffee, Fruit, Sweets, Sleeping in, and Staying inside.<br>\r\nDislikes: Bugs, Excersize, Fancy Clothing, Vegetables, and Adult Responsibility.<br>\r\nCoffee Type: Mocha with the Regular amount of Milk, and 2 Sugars.<br>\r\nFavorite Foods: Pies and Cakes, especially if they have chocolate on them.<br>\r\nLeast Favorite Foods: Vegetables, but the worst for him is Carrots.<br>\r\nBackground: Youngest of 5 siblings, Works as an animator from home, Gets 3 Coffees a night to stay up, but balances this out by sleeping in till 1:30 P.M., and when it comes to food he always follows taste he does not care about watching out for unhealthiness, can be easily bribed with food.</span></div></div>",
+            "created":1544504400,
+            "id":2588119,
+            "title":"Alfonso"
+        },
+        "11533":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "Wolves",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>However about a wolf?</span></div></span></div>",
+            "created":1549256400,
+            "id":2612844,
+            "title":"Other..."
+        },
+        "115331":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "Whitney ",
+                "Vivian ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one?</span></div></span></div>",
+            "created":1549256400,
+            "id":2612852,
+            "title":"Wolves"
+        },
+        "115332":{
+            "author_id":"crossblade",
+            "author_name":"crossblade",
+            "choices":[
+                "Deer",
+                "Frog",
+                "Hippo",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about a deer, frog, or hippo?</span></div></span></div>",
+            "created":1550293200,
+            "id":2618713,
+            "title":"Other"
+        },
+        "12":{
+            "author_id":"buizu",
+            "author_name":"Zura",
+            "choices":[
+                "Nook's Homes",
+                "Able Sisters",
+                "Post Office",
+                "Kicks",
+                "Other..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There's so many places to go! Where to?</span></div></span></div>",
+            "created":1537419600,
+            "id":2550469,
+            "title":"Main Street"
+        },
+        "122":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "Hang out with Mable",
+                "Go introduce yourself to Sable",
+                "Try and spend time with both"
+            ],
+            "content":"<div class=\"\"><div> <span>New home means new clothes. You look around town until you finally find the local tailor shop. You enter and are greeted by two things, a ringing bell and an excitable blue hedgehog girl.<br>\r\n<br>\r\n\"Hello, and welcome to Able Sisters tailor shop. My name is Mable, nice to meet you. I don't recognize you. Are you new to town or something?\" <br>\r\n<br>\r\n\"I just moved in today actually.\" You look her over. She's wearing a green plaid apron and it seemed to be little else. Whether she was truly naked under it or her clothes simply matched her fur was a question you didn't feel like asking right now. Your eyes get stuck on her bare feet... or paws. You'll need to ask about that later. They looked perfect, nice and soft looking with padded soles and a small claw-like nail at the end of each toe. She's bounced on the balls of her feet in excitement for meeting you. Your eyes shoot back up to her when she starts to speak again. <br>\r\n<br>\r\n\"That's great. It's always fun to meet new people. Take a look around. <i>Tell me if you see anything you like</i>.\" She says that last part with a seductive purr and a wiggling of her toes.<br>\r\n<br>\r\n\"Thank you. I will.\" You start to look around the shop before your eyes are drawn to another hedgehog girl in the back corner of the shop on a sewing machine. She had brown fur and a similar apron to Mable, only her's was pink. When she notices you looking at her, she blushes and turns back to the machine. But you can see her slightly slide her feet out from under her desk with a wiggle. You turn back to Mable. \"Who's she?\"<br>\r\n<br>\r\n\"Oh her? That's my sister Sable. Don't mind her, she doesn't talk much with the customers and she's a bit shy. Don't worry though, I'm right here if you need <i>anything</i>.\"<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1543899600,
+            "id":2585839,
+            "title":"Able Sisters"
+        },
+        "1221":{
+            "author_id":"interestingsno",
+            "author_name":"an interesting day",
+            "choices":[
+                "The fun starts"
+            ],
+            "content":"<div class=\"\"><div> <span>Looking for some new clothes like shirts pants I asked Sable where to find the beautiful shirt I had seen in a advertisement on the local news paper Forest daily.<br>\r\n<br>\r\nShe replied back with \"Hello there young man how can I possibly help you out today\"<br>\r\n<br>\r\nI replied back with \"I just moved into this town and I have been looking for some new clothing especially a shirt I saw in the local newspaper.<br>\r\n<br>\r\n\"Very well come with me and I will assist you in finding anything that you might be looking for\" she said.<br>\r\n<br>\r\nIt was only now that you noticed her brown loafers and socked feet unlike her sister who was barefoot all time.<br>\r\n<br>\r\nI followed her and eventually Eureka there it was the black k.k. slider fanshirt.<br>\r\n<br>\r\nAlthough you had found the shirt you<br>\r\nwere not finished just yet and because you gained some naughty thoughts.<br>\r\n<br>\r\nEventually I found the rest of clothes I was looking for including a pair of dark blue jeans.<br>\r\n<br>\r\nShe sat down at her desk reading her X men comics exhausted from the amount of work she had to endure each day of the week. <br>\r\n<br>\r\n\"What's the matter Sable?\" I asked<br>\r\n<br>\r\n\"Oh it's nothing I am just really tired and to be fair I would not mind if you can help me out a bit\".<br>\r\n<br>\r\n\"There is a room just nearby so come with me and I will help you relax because you deserve it\" I said<br>\r\n<br>\r\nyou were now inside the bedroom of this building and inside was a device used for tickling.<br>\r\n<br>\r\nYour heart started to beat faster as you anticipated this event with great pride.<br>\r\n</span></div></div>",
+            "created":1569744120,
+            "id":2725081,
+            "title":"Tickle Sable's feet"
+        },
+        "12211":{
+            "author_id":"interestingsno",
+            "author_name":"an interesting day",
+            "content":"<div class=\"\"><div> <span>As I entered the room I put her feet into the stocks getting her ready for some tickling which was something she had experienced as a young girl wher sisters used to tickle her just for the fun of it.<br>\r\n<br>\r\n\"Are you ready for this?\" I asked <br>\r\n<br>\r\n\"I have been looking forward to experiencing this again and I am more than ready\" she said with a smile.<br>\r\n<br>\r\nGrabbing a toothbrush from my pocket I lifted her shirt up and started to brush her furry belly and she was trying really hard not to laugh.<br>\r\n<br>\r\nI then went for her feet and grabbed both her shoes and pulled them off exposing her black nylon socks.<br>\r\n<br>\r\nUsually she never took her shoes and socks off except for bed and even then she was shy about showing them.<br>\r\n<br>\r\nUsing my index finger I scribbled at her socked feet causing her to giggle slightly at the ticklish sensation.<br>\r\n<br>\r\n\"hihi that tickles\" she said as I kept on tickling her.<br>\r\n<br>\r\nSticking my thumb in her left sock I started to tug at it until it eventually came off revealing her soft and vulnerable feetpaws that rarely saw the light of the day.<br>\r\n<br>\r\nI then pulled her right sock off as well and she started to wiggle her toes at the sight of her now bare paws and she realised just how cute they really were.<br>\r\n<br>\r\nTaking the toothbrush I brushed against her left heel and she let out the cutest laughter.<br>\r\n<br>\r\n<br>\r\nI then started to lick between her soft toes and by that point she was howling with laughter \"Please god make it stop I can't take it anymore\".<br>\r\n<br>\r\nAnd eventually I let her go but on the condition that she would go barefooted for a day before she would get her footwear back.<br>\r\n<br>\r\nThe next day in the store her sister Mabel noticed her missing footwear and she asked<br>\r\n<br>\r\n\"Sable where are your shoes and socks did you lose them?\" <br>\r\n<br>\r\n\"Yeah I must have lost them but I will get them back\" she lied to her <br>\r\n<br>\r\nThe following day though she got them back but she decided that not wearing them actually felt better.<br>\r\n<br>\r\nEnd of story<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1570222920,
+            "id":2728024,
+            "title":"The fun starts"
+        },
+        "1223":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "Cut to tonight when the Able Sisters arrive ",
+                "Go to town hall and register yourself ",
+                "Mable can't wait anymore, she locks the door with you still in the shop"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Say, Mable, was it?\" you ask. She nods in response. \"I just moved in to this nice new house today. I was wondering if maybe you and your sister would like to come by and see it?\" you offer.<br>\r\n<br>\r\n\"Ooooo, that sounds like fun. But, I don't think Sable will be too into it. She's not really the social type you know. I'd gladly come to your house with you if you want to. Just you, me, <i>bonding</i>.\" She says that last part with a bat of her eyelashes. <br>\r\n<br>\r\n\"Now hold on, it would be rude to assume she wouldn't want to go without asking first. I'll go see what she thinks.\" You walk to the back of the shop, up to her desk and tap a finger on the top to get the brown hedgehog's attention. She looks up to see you and starts to blush again. \"You're Sable, right.\"<br>\r\n<br>\r\n\"Mmhmm.\"<br>\r\n<br>\r\n\"Hi there. I just moved into this village today and I was wondering if you and your sister would like to come over to my home for a little housewarming. What do you say?\" She looks away.<br>\r\n<br>\r\n\"Well <font class=\"size1\" style=\"\">if you really want me to</font>.\" She mutters.<br>\r\n<br>\r\n\"Was that a yes?\" She nods. \"Great. Then I guess I'll see you two ladies tonight.\" You say as you turn to make your leave.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1543986000,
+            "id":2586252,
+            "title":"Try and spend time with both"
+        },
+        "12232":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "You offer her a foot massage ",
+                "She offers you a drink"
+            ],
+            "content":"<div class=\"\"><div> <span>You exit the Able Sisters' store and begin to head home. You couldn't wait to have them over. You begin to ponder whether or not they somehow knew about your foot fetish with how much they were waving their feet around,when it hit you. You still hadn't registered yourself as a citizen here yet. Not wanting to get in trouble with the law, you check your map and find your way to city hall. <br>\r\n<br>\r\nYou enter town hall with a creak of the door. \"Hello?\" You announce. \"Is anyone here?\" You enter the rest of the way and see a cute dog girl sitting at the desk, typing away at her computer. <br>\r\n<br>\r\n\"Oh... Hello there. Welcome to town hall. How may I help you?\" She asks with a chipper attitude that made you want to pinch her cheeks.<br>\r\n<br>\r\n\"Well, I've just moved here today. I was looking to get myself registered as a citizen of this town. Can you help me with that?\"<br>\r\n<br>\r\n\"Of course. Welcome to our town. I'm Isabelle. It's a pleasure to meet you.\" She begins looking through all sorts of various drawers. Meanwhile, you take a chance to sneak a peak at her feet. Furry and padded, just like the sisters', yet hers seemed... different. Maybe she used something special on her feet but they seemed almost perfect. She wheels back to you with a sheet of paper in hand.<br>\r\n<br>\r\n\"Here you go. Just sign here and you're done.\" You sign where she instructed and she takes it. \"Welcome to the town.\" She files away the paper then props her soft feet up on the desk, wiggling her toes. \"Oh, if hope you don't mind. They've just been so sore after working for so long.\"<br>\r\n<br>\r\n\"No no, I don't mind.\"<br>\r\n<br>\r\nWhat happens next? </span></div></div>",
+            "created":1543986000,
+            "id":2586302,
+            "title":"Go to town hall and register yourself "
+        },
+        "122321":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "You finish the massage and offer her to join you and the sisters tonight",
+                "You can't help yourself and give her pad a kiss"
+            ],
+            "content":"<div class=\"\"><div> <span>\"If your feet are feeling sore, how are I give you a nice foot massage?\" You offer, trying your best to hide your excitement. <br>\r\n<br>\r\n\"That sounds perfect honestly. I hope you don't mind, they aren't exactly clean.\" She covers her mouth with her fist and starts to blush.<br>\r\n<br>\r\n\"It's fine, I can handle a little dirt and sweat if it means a cute girl like you can relax a little.\" Her face reddens even deeper.<br>\r\n<br>\r\n\"You think I'm c-c-cute?\" She stutters out.<br>\r\n<br>\r\n\"Who wouldn't? You're adorable. I've had to fight the urge to scratch behind your ears since I came in.\" You hope you lightened the mood and didn't make things weird. <br>\r\n<br>\r\n\"That's sweet of you to say. Okay then, I'll take you up on that massage.\" She pushes her feet across the desk towards you. You take her right foot into your hands and start rubbing. \"Oooooooooooooooo. That feels amaaaaazing.\" She moans out.<br>\r\n<br>\r\n\"So while I have you here, I have to know, do you guys actually call these feet, or are they paws?\"<br>\r\n<br>\r\n\"Either works. We used to call them paws before we met humans. Now 'feet' are the universal term.\" She explains as she closes her eyes and leans back in pleasure. <br>\r\n<br>\r\nWhat happens next? </span></div></div>",
+            "created":1544072400,
+            "id":2586380,
+            "title":"You offer her a foot massage "
+        },
+        "1223211":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "Skip to tonight and greet your guests ",
+                "Go to the post office and send a letter to mom",
+                "Meet the neighbors"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Mmmmmm. You're a pro at this, you know that. I know a lot of ladies in town that would pay bells like nothing else to get treatment like this.\" You blush at her compliment.<br>\r\n<br>\r\n\"Thanks. I've never really done this before though. I'm mostly just doing what seems right.\"<br>\r\n<br>\r\n\"Well it's completely right. I think we found you a job here in town, professional foot masseuse.\" You shift over to her left foot and continue talking.<br>\r\n<br>\r\n\"You think so? You don't think people will think I'm weird?\"<br>\r\n<br>\r\n\"Of course not. Everyone builds up stress on their feet. I doubt they would really question someone skilled like you. Oooooo, right there.\" She moans with a blush forming.<br>\r\n<br>\r\n\"Say Isabelle, later tonight I'm having a bit of a housewarming party at my house with the Able Sisters. I was thinking, maybe you'd like to come?\" You give her your own puppy eyes.<br>\r\n<br>\r\n\"If you keep it up with massages like this and I'll come over to your house whenever you call. I'd love to come.\" You finish up her other foot and set them both down on the desk.<br>\r\n<br>\r\n\"Great. I'll see you tonight then.\" With a wave goodbye, you exit town hall and continue about your day.<br>\r\n<br>\r\nWhat next?</span></div></div>",
+            "created":1544072400,
+            "id":2586668,
+            "title":"You finish the massage and offer her to join yo..."
+        },
+        "12232112":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "You gladly take her up on her offer",
+                "You decline for now, but offer to make it up by inviting her to the party",
+                "Before you can answer, her sister Phyllis comes in for the night shift"
+            ],
+            "content":"<div class=\"\"><div> <span>You figure that you might as well send a letter out to your mom to tell her ypu made it here safe and sound. You quickly pull out a piece of stationary and begin to write. You tell her that you're safe and have already started making new friends. That should be enough to calm her nerves. Now you just need to send it. Back to your trusty map to find the post office.<br>\r\n<br>\r\n*****<br>\r\n<br>\r\nYou enter the post office and see a white pelican girl sitting at her desk, humming a tune to herself. \"Oh, hello there. You must be the new resident. I'm Pelly the postal worker. How may I help you?\"<br>\r\n<br>\r\n\"I'm looking to send a letter. Can you help me?\" You pull out your stationary and hand it to her. <br>\r\n<br>\r\n\"Of course. I'll just stuff this away in my mail bag and it'll be sent off tomorrow.\" She grabs your letter and stuffs it away behind the counter. \"There. All taken care of. By the way...\" she motions for you to come closer. You lean in and she whispers in your ear. \"I know about your little secret. I know you have a foot fetish.\" Your face starts to go pale. \"Don't worry, I don't mind. In fact, how about you come back here and give my webbed feet a try?\"</span></div></div>",
+            "created":1544331600,
+            "id":2587693,
+            "title":"Go to the post office and send a letter to mom"
+        },
+        "122321122":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "They reveal that they know about your fetish and want to have fun with it.",
+                "They keep quiet for now and tease you constantly ",
+                "They gang up on you and tie you up."
+            ],
+            "content":"<div class=\"\"><div> <span>\"As fun as that sounds Pelly, I'm afraid I have to go now. I have a bit of a party at my house that I need to get ready for tonight.\" Pelly starts to look disappointed at your response. \"B-but if you want to, you could come over too. More the merrier and all.\" She perked back up.<br>\r\n<br>\r\n\"Sure. In fact I get off work in about an hour so my sister can take over. I'll be right over once I finish my shift. Who else will be there?\"<br>\r\n<br>\r\n\"Isabelle, and the Able Sisters, Mable and Sable.\"<br>\r\n<br>\r\n\"Sounds to me like you're collecting our town's cutest girls under one roof. That's perfect. I'll be there.\" You wave her goodbye and head home to prepare. <br>\r\n<br>\r\n*****<br>\r\n<br>\r\nIt was almost time for the girls to arrive. You hope everything goes well. The doorbell rings and you rush to the door. Deep breath now. You open the door and see all four girls standing there.<br>\r\n<br>\r\n\"Hey girls. Welcome to my home.\" You invite them in and they take a seat on your new couch.<br>\r\n<br>\r\nWhat do they do?</span></div></div>",
+            "created":1544331600,
+            "id":2587716,
+            "title":"You decline for now, but offer to make it up by..."
+        },
+        "1223211221":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "Let them use your face as a footstool",
+                "Foot cleaning ",
+                "Foot massages for all"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Sooo, I've never really hosted a party before, so I'm not sure what to do now. Do you girls have any suggestions?\" The four of them share a look between each other and giggle. Rather than answer, they all propped their feet up on the coffee table, giving their toes a wiggle. You start to blush at the sight and try to avert your eyes. Isabelle speaks up.<br>\r\n<br>\r\n\"We don't mind if you stare. We all know about your foot fetish.\" Your face goes white. \"Don't be nervous. We all came here hoping have some foot fun with you.\" You ease up a bit.<br>\r\n<br>\r\n\"So when did you find out?\" You ask them.<br>\r\n<br>\r\n\"It was obvious when you entered the shop and your eyes went straight for my feet.\" Mable answers with Sable nodding in agreement. <br>\r\n<br>\r\n\"That massage was too heavenly for you to not have one.\" Isabelle says. All eyes turn to Pelly.<br>\r\n<br>\r\n\"Ieee... may have read one of your letters from home that might have mentioned it.\" You know you should be mad at her reading your mail, but right now you're too distracted by the four cute girls in your living room that know about your fetish and not only don't mind, but they want you to play with their feet.<br>\r\n<br>\r\n\"Sooo.. um.. <font class=\"size1\" style=\"\">what do you want to do first?</font>\" Sable mutters almost incoherently. </span></div></div>",
+            "created":1544418000,
+            "id":2588026,
+            "title":"They reveal that they know about your fetish an..."
+        },
+        "12232112212":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "You ask to eat off their feet",
+                "You want them to rub their feet on your face",
+                "You ask them to dominate you with their feet"
+            ],
+            "content":"<div class=\"\"><div> <span>You notice how the bottoms of their feet are covered in dirt, most likely as a result of them walking here barefoot. Their feet are also shining with sweat from working hard. You decide to be a good host and help them clean up. You start at your far left with Sable, the elder Able sister. <br>\r\n<br>\r\nYou drag your tongue up her soft pads. You lick from heel to toe, flicking the tip when you reach the tip of her toes. You hear her fighting back giggles as her toes start to twitch at your touch. Looks like someone's ticklish. You decide to have some fun with her and brush your tongue underneath her toe pads. This prooves too much for the elder hedgehog girl as she stops trying to fight her laughter and begins howling like a hyena. When you've decided she's had enough,  you flatten her feet on the table and lick the tops clean. When you're done, you leave her a quivering mess finding it hard to breathe.<br>\r\n<br>\r\nYou shift over to her sister Mable. You start to lick away at her feet lick you did her sister. She starts to giggle at your work. Unlike her sister though, hers were willing and playful rather than forced howling.<br>\r\n<br>\r\nWhen you get to her toes, she decides to have her own fun with you. She pulls her foot out of your hands and pinches your nose between her big and second toes. It's not tight enough so you can't breathe however. In fact, with every breath you are welcomed by a new wave of her foot fragrance. She hold you like this while you finish both her soles and releases you to do the tops. When you finish with her, she looks satisfied with you work.<br>\r\n<br>\r\nUp next was Pelly. Sure enough, like she told you at the post office, her feet were webbed, with small bits of skin connecting her toes. Her feet were also much larger than the other three, with each one doubling the size of one of their's. While you're licking away at her soles, you pay extra attention to these, poking your tongue between her toes and prodding away at every part of them. Pelly seems relaxed and content at your work as you moved on to her tops. So relaxed in fact, that she seems to have fallen asleep by the time you finished.<br>\r\n<br>\r\nLast but not least was Isabelle. She smiled as you knelt before her, ready for you to continue your pampering of her from earlier. As you lick her soles, you notice how much softer they were to the others. In fact, they might somehow be even softer than when you rubbed them earlier. As you get near the end, you start thinking about how to make hers special. All the others got something unique in some shape or form. Then it hits you.<br>\r\n<br>\r\nWhen you reach her toes, you take her big toe and pop it into your mouth, making the dog girl yelp in suprise as you start to suck on it. Out the corner of your eyes, you see a look of jealously from Mable as one by one, you suck each of Isabelle's toes clean on one foot. When you move to her other foot, you decide to take it up a notch and take all five of her toes into your mouth at once, rubbing your tongue under her wiggling toes while you suck on them. All the while, Isabela has gone from heavy panting to letting out load moans. <br>\r\n<br>\r\nYou take her toes out of your mouth and see that they are glistening with your saliva now. \"So girls,\" you finally speak, \"how'd I do?\"<br>\r\n<br>\r\n\"<font class=\"size1\" style=\"\">That was wonderful.</font>\" Sable mutters out.<br>\r\n<br>\r\n\"We need to do that more often.\" Mable says.<br>\r\n<br>\r\nPelly wakes up with a yawn. \"That was just what I needed after a long day at work.\"<br>\r\n<br>\r\nIsabelle stares at you with wide eyes. \"To call it magical would be an understatement. First that amazing massage and now this? I'm thinking I might move in here.\"<br>\r\n<br>\r\n\"Here here.\" The girls chant.<br>\r\n<br>\r\n\"So now that our feet are cleaned and you're all warmed up, what do you want to do?\" Mayble asks.</span></div></div>",
+            "created":1544504400,
+            "id":2588246,
+            "title":"Foot cleaning "
+        },
+        "122321122121":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "Enjoy your \"sandwich\" (Able Sister)",
+                "Go for the main course (Pelly)",
+                "Skip straight to dessert (Isabelle)"
+            ],
+            "content":"<div class=\"\"><div> <span>\"How about you three let me... eat off your feet.\" You give your request with a bit of hesitation. You don't want to do too much too fast and risk scaring them off. Mable let out a sigh.<br>\r\n<br>\r\n\"And after you got our feet so sparkly and clean, now you want to dirty them up again with food?\" Pelly laughs at her mock complaint.<br>\r\n<br>\r\n\"Aw come on Mable, haven't you ever jeard of the phrase, 'so clean you can eat off it'? Just think of it like that.\"<br>\r\n<br>\r\n\"Oh okay. If you insist.\" She says with obviously fake defeat in her voice. The girls get up off the couch and start heading into your kitchen. Isabelle takes you by the hand and seats you down on the couch.<br>\r\n<br>\r\n\"Wait here and we'll go make your food.\" She heads in with the others and leave you to your thoughts. Your thoughts of how lucky you were for finding yourself in this situation. <br>\r\n<br>\r\n*****<br>\r\n<br>\r\nAbout a half hour passed. \"We're ready. Come on in.\" You hear Mable call from the kitchen. You get up and walk into the kitchen, where the girls are set up with their feet split up between three different plates, with Mable and Sable sharing one. \"Take your pick.\"<br>\r\n<br>\r\nMable calls out, drawing your attention to them. \"How about some peanut butter and jelly?\" You see that Mable and Sable each have peanut butter and jelly spread across their soles respectively and are sandwiched together. <br>\r\n<br>\r\n\"How about some mashed potatoes?\" Pelly announces. Sure enough, her feet were covered from heel to toe in mashed potatoes. <br>\r\n<br>\r\n\"Or how about something a little more sweet?\" You turn to Isabelle, who has her feet coated in chocolate syrup with globs of whipped cream between her toes. <br>\r\n<br>\r\nWhich do you choose?</span></div></div>",
+            "created":1544677200,
+            "id":2588925,
+            "title":"You ask to eat off their feet"
+        },
+        "1223211221213":{
+            "author_id":"ngore1224",
+            "author_name":"zombi",
+            "choices":[
+                "you can finish eating off of their feet and do something together ",
+                "or you can let them clean off their feet while you keep licking Isabelles feet "
+            ],
+            "content":"<div class=\"\"><div> <span>you walk over to Isabelle and look at her chocolate covered feet and bend down to lick the chocolate off and so you slide your tongue up her foot and she giggles and you just keep licking once all the chocolate is gone you then go for the real sweetness her toes you slide your tongue up her toes then in between and to get the strawberries off her toes you start to nibble her toes Isabelle has been laughing during all this and one ofher eyes closed and her teeth clenched after you are done now she asks you what you want to do now. What do you do now </span></div></div>",
+            "created":1554958800,
+            "id":2643364,
+            "title":"skip to some sweet feet to eat off of (Isabelle)"
+        },
+        "122321122123":{
+            "author_id":"gamerdood",
+            "author_name":"Maximakro",
+            "choices":[
+                "\"Maybe later. I just want to get dominated normally right now\"",
+                "\"Ooh, I'd love to get shrunken!\""
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \"Ohhoho!~ Someone is a little kinky~ You want to be dominated by us four women and our magnificent feet, huh?\" Mable wiggled her toes, bringing them closer to your face, her light scent wafting to your nostrils.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 You couldn't help but blush at that, and turn away quickly, far from trying to hide your growing boner. \"Y-yes... I would love that\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 With a wiggle of her own toes, which you had conveniently turned your head towards, Isabelle piped in: \"I have something that could make that a lot more fun, if you'd like.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 This piqued all of your interests, and Mabel, you, and Pelly all asked at once, \"What?\" And Sable muttered a few moments later  \"...What?\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 She blushed with all the eyes on her, but continued on. \"W-well... Ahnka taught me a spell... one that could... shrink you.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Your eyes went wide at this. They knew you had a foot fetish, but you had been nursing a shrinking fetish for a long time, off and on, mainly dealing with your foot fetish. Did you want to do this, or were you more worried about the potential dangers of being shrunk?<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 What do you say?</span></div></div>",
+            "created":1605141120,
+            "id":2938644,
+            "title":"How do you get dominated?"
+        },
+        "1223212":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "Gleeful smile ",
+                "Seductive smirk",
+                "Angry glare"
+            ],
+            "content":"<div class=\"\"><div> <span>As you sit there, rubbing  this cute dog girl's feet, you can feel your mouth water at the sight of it. Without thinking, you lean in and plant a quick smooch on her pad. Once you finish though, reality catches up with you and you realize what you just did. You hesitantly look back up to Isabelle. She's staring at you, her face beet red.<br>\r\n<br>\r\n\"D-did you just... k-k-kiss my foot?!' There's no way you could lie your way out of this. It's best to just come clean with her and hope for the best. <br>\r\n<br>\r\n\"Yes, I did. You see... I... have a bit of a... foot fetish. I can't help but find feet irresistible, and yours are just so perfect, I couldn't help myself. Please don't be mad.\"<br>\r\n<br>\r\nHer face was still flushed red as you both sit there in silence while she processes what just happened. You finally see the red fade away from her face as her expression changes to a...</span></div></div>",
+            "created":1544072400,
+            "id":2586670,
+            "title":"You can't help yourself and give her pad a ..."
+        },
+        "122322":{
+            "author_id":"jackfuego226",
+            "author_name":"Jackfuego226",
+            "choices":[
+                "Bound and gagged in the back room of town hall",
+                "Chained up in a dark room"
+            ],
+            "content":"<div class=\"\"><div> <span>\"You alright there? You seem awfully distracted by something.\" She knowingly scrunches her soles at you. <br>\r\n<br>\r\n\"Oh, yeah. Sorry about that. I guess I just get a bit spaced out when I'm thirsty.\" You lie through your teeth, hoping she doesn't figure out that you were staring at her feet.<br>\r\n<br>\r\n\"Oh, why didn't you say something. Let me get you a drink. You drink punch right?\" She asks as she gets up and heads for the back room.<br>\r\n<br>\r\n\"Sure. Thanks.\" She returns with a plastic cup full of fruit punch.<br>\r\n<br>\r\n\"Here you go. Drink up.\" Not wanting to have your bluff called, you chug the cup like you had spent the last week in the desert. She giggles at how quickly you drank. \"I guess you really were thirsty, huh?\"<br>\r\n<br>\r\n\"Yeah, thanks for the drink.\" You hand the cup back to her. You start feeling strange though, as your vision starts to get blurry. <br>\r\n<br>\r\n\"And now I bet you're feeling <i>really</i> tired.\" She says with a smirk. You could barely hear her though as your hearing starts to get fuzzy.<br>\r\n<br>\r\n\"H-huh?\"<br>\r\n<br>\r\n\"Sleeeeeep.\" Is the last thing you hear before you black out.<br>\r\n<br>\r\nWhere do you wake up?</span></div></div>",
+            "created":1544072400,
+            "id":2586379,
+            "title":"She offers you a drink"
+        },
+        "12233":{
+            "author_id":"thesmashfoot",
+            "author_name":"TheSmashFoot",
+            "choices":[
+                "Worship Mabel\u2019s tired feet.",
+                "Give Sable a Foot Massage"
+            ],
+            "content":"<div class=\"\"><div> <span>Just as you\u2019re about to head out of the shop, Mabel suddenly cut you off and locked the door preventing you from leaving.<br>\r\n<br>\r\n\u201cHuh? What\u2019s the big idea Mabel?\u201d Sable worriedly looked behind her counter as she rubbed her feet together.<br>\r\n<br>\r\n<font class=\"size1\" style=\"\">\u201cCome on Mabel, please don\u2019t do that...\u201d</font> Mabel gave you a sly smile as she started to stroke your ankle with her lovely furry foot causing you to blush.<br>\r\n<br>\r\n\u201cHehehe. I\u2019m sorry but I simply cannot wait until tonight to have fun?\u201d<br>\r\n<br>\r\n\u201cT-T-To have fun?\u201d Mabel nodded. <br>\r\n<br>\r\n\u201cHehehe. I\u2019ve seen you staring at me and my sister\u2019s feet since you\u2019ve walked in here.\u201d You gulped as your face was flushed causing Mabel giggled. \u201cSee, there\u2019s no way for you to hide it. So why don\u2019t you have some fun with me and my sister\u2019s feet? No one is going to be coming in here anyway...\u201d You looked back to the Sable who was blushing intensely as she continued rubbing her feet together.  Admittedly, the thought of having two beautiful pairs of feet was an amazing thought. Honestly it was just too amazing. You nodded.<br>\r\n<br>\r\n<br>\r\n\u201cSure! I\u2019d be happy to spend some time with you two. And first I\u2019ll...</span></div></div>",
+            "created":1566536400,
+            "id":2706613,
+            "title":"Mable can't wait anymore, she locks the doo..."
+        },
+        "122332":{
+            "author_id":"thesmashfoot",
+            "author_name":"TheSmashFoot",
+            "choices":[
+                "Mabel also wants a foot massage!",
+                "Mabel\u2019s foot starts to caress your groin?"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to go over to Sable who\u2019s still blushing quite intensely. She looks up to you as her voice quivered. <br>\r\n<br>\r\n\u201cUm...Um? Are you sure about this?\u201d You nod with a sly smile on your face though your eyes are focused on Sable\u2019s feet.<br>\r\n<br>\r\n\u201cHmmmmm. How about I massage your beautiful feet Sable. They look like they could use some attention.\u201d Sable\u2019s feet started to rub up against each other again.<br>\r\n<br>\r\n\u201cBu-But But...well.\u201d Mabel slammed her fist onto her older sister\u2019s desk spooking the poor Brown Hedgehog.<br>\r\n<br>\r\n\u201cOh come now Sable! They\u2019re offering to massage your feet for free! Are you really going to turn down such a nice offer?\u201d Sable let out an exasperated sigh as she just nodded.<br>\r\n<br>\r\n\u201cYou\u2019re right Mabel. You\u2019re totally right. Let\u2019s get this over with...\u201d You just nod as you sit down on the floor and Sable presents her soles to you. You took in the earthy and wooden smell of Sable\u2019s feet as you also inspected them. They were quite similar to her sister\u2019s though they were a quite noticeably bigger. There was some dust and dirt attached to her soles which wasn\u2019t exactly surprising considering most of the town residents walked around barefoot. You started to massage her feet as Sable let out a surprised yelp as your thumbs pressed up against her pink pads. You started to the massage as Sable\u2019s yelps quickly turned into satisfied moans. You continued rubbing her tired feet as you note how soft and cold her feet are. Every so often you\u2019d take a glance at Sable as you noticed that she was fingering herself as she looked on in awe. Continuing with the massage, Sable started to wiggle her toes and started to pant heavily.<br>\r\n<br>\r\n\u201cHuff...Huff...Please don\u2019t stop. Mmm...please...\u201d Sable\u2019s own pussy started to wink as you continued on and that\u2019s when you realized that Mabel was coming towards you still fingering herself as her cum dripped onto the floor.<br>\r\n<br>\r\n\u201cMmmm...I just can\u2019t take it anymore! I...I...\u201d</span></div></div>",
+            "created":1566622800,
+            "id":2707396,
+            "title":"Give Sable a Foot Massage"
+        },
+        "1223322":{
+            "author_id":"thesmashfoot",
+            "author_name":"TheSmashFoot",
+            "choices":[
+                "M X F: Mabel is caressing your dick",
+                "F X F: Mabel is caressing your pussy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now what is she caressing exactly?</span></div></span></div>",
+            "created":1566702540,
+            "id":2707398,
+            "title":"Mabel\u2019s foot starts to caress your groin?"
+        },
+        "123":{
+            "author_id":"gooberg",
+            "author_name":"SwiggitySwooty",
+            "choices":[
+                "Phyllis, the older, grouchy clerk",
+                "Pelly, the younger, easy-going clerk",
+                "Pete, the delivery man"
+            ],
+            "content":"<div class=\"\"><div> <span>First things first, you want to get your mailing address sorted out! What good is your mailbox if it's always gonna be empty, right? You take a short walk from your house, situated near the middle of town, and arrive at the Post Office in the Northwest corner. Opening the ornate spruce door, you invite yourself in.<br>\r\n<br>\r\nInstantly, you lock eyes with...</span></div></div>",
+            "created":1599374160,
+            "id":2898291,
+            "title":"Post Office"
+        },
+        "1231":{
+            "author_id":"gooberg",
+            "author_name":"SwiggitySwooty",
+            "choices":[
+                "\"Uh, sure!\" she replied, glad to let her feet get some R&R.",
+                "\"Eh, maybe a bit later,\" she replied, still a little suspicious of your motives.",
+                "She was interrupted by Pelly coming in!"
+            ],
+            "content":"<div class=\"\"><div> <span>Just as soon as you meet the hot-pink pelican's gaze, she turns her head to the side, pretending to be very interested in a dull, white package a few feet away from her on the back counter. <br>\r\n<br>\r\n<span class=\"chotpink\"><font class=\"size2\" style=\"\">\"Oh great, another customer...\"</font></span><br>\r\n<br>\r\n\"Huh?\"<br>\r\n<br>\r\n<span class=\"chotpink\">\"I said, welcome to the post office,\"</span> she says stiffly, still not looking back at you. <span class=\"chotpink\">\"I'm Phyllis. If you need my assistance with something I'll be glad to help! <font class=\"size2\" style=\"\">If 'glad' means 'forced against my will, anyway...\"</font></span><br>\r\n<br>\r\nYou overhear what she muttered under her breath, but decide to leave it alone with a small, concerned frown. She obviously seemed cranky, so it's best not to agitate her more. Maybe she's just tired from having to work so late? You <i>did</i> basically arrive at sundown, after all. Being nocturnal had its benefits, but if <i>you</i> were forced to adjust your schedule to work the night shift, it would probably leave a bitter taste in your mouth.<br>\r\n<br>\r\nYou grab a seat and sit down in front of the moody pelican. Finally, she looks you in the eyes again. <span class=\"chotpink\">\"Okay, so what do you need done? <font class=\"size1\" style=\"\">Make it snappy...\"</font></span><br>\r\n<br>\r\n\"Well, I'm a new resident here. I gotta update my mailing address, or else I won't get anything, from home or otherwise.\"<br>\r\n<br>\r\n\"Huh. I knew I hadn't seen your face around here,\" Phyllis quipped. \"If you have your previous address and proof of your rights to the house with you, I can get you up to speed.\"<br>\r\n<br>\r\nExpecting this, you pulled out the document Tom Nook gave you and handed it over to the pink pelican. Now that you think about it, how <i>did</i> that tanuki get you such good housing in such a short notice...was this some kind of scam...?<br>\r\n<br>\r\nYour thoughts are disrupted as Phyllis kicks back in her chair and plops her feet onto the counter. You didn't figure they'd look appealing at all, but boy, were you wrong! Instead of flippers, like one would expect, the pelican had three, plump, non-webbed toes. they were...shapely. And large. And...beautiful...<br>\r\n<br>\r\nThe pelican noticed your staring and grumbled, starting to pull her legs back. <span class=\"chotpink\">\"Ugh, if they bother you that much, then <i>fine</i>, I'll put 'em back on the floor. <font class=\"size2\" style=\"\">Damnit, thought you were just a pushover...\"</font></span><br>\r\n<br>\r\nNo! You <i>need</i> to see more of those beauties! \"W-wait! I didn't mean to stare. I just thought that...you chose a really nice nail color, t-that's all,\" you gulp, hoping that passed as an excuse to her.<br>\r\n<br>\r\nFor the first time since you met her, you saw an emotion other than disdain on Phyllis's face! She seemed pretty surprised, not only that you stopped her, but that you noticed the paint on her talons as well. A small smile spread across her bill, and she flexed her toes as she admired her own handiwork. <span class=\"chotpink\">\"Hmph. Well, I <i>did</i> put some work into polishing them this afternoon...thanks for the compliment, bucko. <font class=\"size1\" style=\"\">You know, maybe I could use a sweet-talker in my life...\"</font></span><br>\r\n<br>\r\nYou could swear you saw Phyllis's cheeks flush the slightest bit redder. She tried to hide it, but you could tell that the disgruntled clerk was more appreciative of your comment than she let on. A bit of kind praise must be hard to get for her. You felt a pang of sympathy for her; she might be a bit rude, but that's no reason to not speak about her positive qualities. <br>\r\n<br>\r\nStill waiting for the process to finish up, your eyes wander back to the cute, pink-tipped talons in front of you. They might've been carefully painted, but you could tell from a subtle, yet detectable scent that Phyllis had been on her feet for a while beforehand. You clench your legs together; you're getting hot and bothered, and it's all from her soles; her smooth, plush, kissable soles...<br>\r\n<br>\r\n<span class=\"chotpink\">\"What now?\"</span> the pelican asked, more worry than irritation in her voice now, <span class=\"chotpink\">\"I know I've been working for a while, but are they really that noticeable?\"</span><br>\r\n<br>\r\n\"W-what do you mean,\" you stutter.<br>\r\n<br>\r\nPhyllis eyed the room nervously, getting a bit flustered, <span class=\"chotpink\">\"D-do I have to spell it out for you?! I'm asking if they, er, smell...\"</span><br>\r\n<br>\r\n\"N-no, not at all!\" <br>\r\n<br>\r\nShe sighs.<br>\r\n<br>\r\n\"I was, uh, actually wondering if youuuuu...\"<br>\r\n<br>\r\n\"Yeah? S-spit it out, already!\"<br>\r\n<br>\r\nYou stop, then steel yourself. This would probably already be considered crossing boundaries if you and the clerk were friends; it's even worse that you've never met each other before! Regardless, your mouth is quicker than your gut, and you finish the question:<br>\r\n<br>\r\n\"Do you want a foot massage?\"<br>\r\n<br>\r\nNow <i>that</i> made Phyllis blush. After a short pause, she gave you an answer:</span></div></div>",
+            "created":1599375000,
+            "id":2898299,
+            "title":"Meeting Phyllis"
+        },
+        "12311":{
+            "author_id":"gooberg",
+            "author_name":"SwiggitySwooty",
+            "choices":[
+                "Phyllis asks if she can move her feet to your lap.",
+                "Phyllis gets up to do something.",
+                "A villager waltzes in on the scene!"
+            ],
+            "content":"<div class=\"\"><div> <span><span class=\"chotpink\">\"You know what? Sure. We have some time to kill, and I don't even remember the last time I got a foot rub outside of a spa. Haven't been to one of those in a while... <font class=\"size1\" style=\"\">Wish this stupid podunk town would was a bit closer to actual civilization...\"</font></span><br>\r\n<br>\r\nYou let go of a breath you didn't even know you were holding. Jeez, that was close! And now <i>you're</i> closer than ever to giving Phyllis's feet the love they deserve. They're already in the perfect position for you, what with the counter-top being relatively low. Cracking your knuckles, you get to work. <br>\r\n<br>\r\nCarefully wrapping your fingers around one of her yellow peds, you press your thumbs gently into its plush ball, and rotate them to work some kinks out (and satisfy your own!). As soon as you start, you can feel the tension in both the room and the grumpy pelican begin to dissolve. Even though you knew they looked different than an ordinary bird's claws, you really weren't expecting her feet to feel so <i>soft.</i> You don't know if you believe her when she says she hasn't been to a spa, because they're almost smoother than your own! <br>\r\n<br>\r\n<span class=\"chotpink\">\"Mmmh, a bit harder, please,\"</span><br>\r\n<br>\r\nYou steadily increase the pressure, pushing deeper into her Phyllis's and loosening up some taught muscles. It's clear to you that she works harder than she likes to admit. Deep down, she must really care about getting people their mail. <i>Or maybe she's telling the truth about that spa thing,</i> you joke internally.<br>\r\n<br>\r\n<span class=\"chotpink\">\"A little, ah, lower,\"</span> the clerk asked, grunting in relief with each little knot you work out of her soles. You smile softly and do as she says, sliding your hands down to her delicate instep. You lighten your pressing here, knowing that you could easily mess up and create some kinks here, defeating the whole purpose of the massage. Instead, you mildly prod at where her skin feels the firmest, digging in and carefully nudging the complex array of muscles apart. Phyllis groans appreciatively at the expertise you've put on display.<br>\r\n<br>\r\nBy the time you move on to her heel, the mail clerk has leaned back in her chair, eyes closed and breathing lax. Pushing hard into the toughest part of her sole, you eke a lewd moan out of Phyllis's mouth. She gasps and looks away in embarrassment while you chuckle quietly to yourself. Even as you leer at her luscious feet, lurid thoughts running rampant in your brain, you feel a sense of accomplishment at just how good of a job you've done pampering them. <br>\r\n<br>\r\nA worrying notion breaks through the wall of perversity in your mind: you're pretty lucky that none of the night-owl villagers has come in for anything yet. If they caught you in such an intimate position with someone as rude and bossy as Phyllis, you might gain a reputation for being a pushover...<br>\r\n<br>\r\nYou stop and chastise yourself for thinking of her so negatively, and assuming she was so unpopular with other people. Though you haven't met them yet, you're sure the people of this town aren't so vapid as to judge someone on surface level attitudes alone. Overall, it's probably nothing to worry about...<br>\r\n<br>\r\nYou move on to the final part of the massage: primping the pelican's toes. Deciding to be a bit cheeky, you slowly, teasingly slide your fingers up the deep, prominent curves of her soles. She hums in appreciation, enjoying the feeling of your smooth skin against hers. That hum turns into hitched breaths and moaning when you rub your thumbs lovingly into the arch of a toe, kneading the pudgy flesh back and forth in a delicate rhythm. You lavish the other two toes with the same sensual massage, leaving Phyllis shivering in complete and utter bliss. Finally, you finish the rub, still gently wrapping your hands around the foot and sliding your fingers between her toes while you prepare for the next foot.<br>\r\n<br>\r\nSuddenly, the pleased pelican speaks her mind to you. <span class=\"chotpink\">\"You know, you're <i>really</i> good at this, bucko. If you learn a thing or two from that wily cheapskate Tom Nook, you could probably open up a massage parlor here,\"</span> the pelican opens an eye, smiling wryly at you, <span class=\"chotpink\">\"Or maybe you had that in mind already, and wanted some good publicity before you set up shop. Either way, you've got a happy customer right here.\" </span><br>\r\n<br>\r\nYou flush, both at the high praises from Phyllis and the idea of people <i>waiting in line</i> and <i>paying you</i> just to let you have a go at their feet for a while. You have to fight to keep yourself from drooling as images of cute, tired paws and claws all make their way into your hands, your nose, your mouth...<br>\r\n<br>\r\nComing back to the real world, you tense up, realizing that you haven't even started on the other foot. It was waving impatiently at you, obviously jealous of its counterpart. You move your hands, ready to begin pampering the other foot when...<br>\r\n</span></div></div>",
+            "created":1599411780,
+            "id":2898465,
+            "title":"These Ain't Crow's Feet, You Know!"
+        },
+        "123113":{
+            "author_id":"gooberg",
+            "author_name":"SwiggitySwooty",
+            "choices":[
+                "...feels a bulge in your trousers! (M)",
+                "...feels a damp spot on your jeans! (F)",
+                "...snaps out of it, putting her foot down and letting you continue the massage."
+            ],
+            "content":"<div class=\"\"><div> <span><span class=\"cyellow\">\"Hello, Phyllis.\"</span><br>\r\n<br>\r\nYou and the pelican nearly jump out of your seats when you hear the door open. Neither of you can shift your bodies in time to hide the fact that she stuck her feet out right in front of your face. Even if it was just for a massage, it looked pretty incriminating. As you turn to face the entrance, Phyllis accidentally kicks the back of your head while trying to scoot her chair back. A yellow, bandage-dressed cat paces into the post office, catching you two in the act.<br>\r\n<br>\r\n<span class=\"cyellow\">\"Oh my. I hope I'm not interrupting anything.</span>\" Ankha cocks her head coquettishly. <span class=\"cyellow\">\"Phyllis, do you mind filling me in on who your new servant is? I haven't seen them before.\"</span><br>\r\n<br>\r\nThe normally-grumpy clerk stuttered, <span class=\"chotpink\">\"S-servant? No, no, Ankha, they're just a new resident! We were just waiting for they're mailing address to update! Honest!\"</span><br>\r\n<br>\r\n<span class=\"cyellow\">\"Well, yes, I figured that out. What does it matter? They were still servicing you; openly, I might add,\"</span> Her eyes are drawn to the back of your head.<span class=\"cyellow\"> \"And you've kept your feet on their head since I walked in.\"</span><br>\r\n<br>\r\nPhyllis yelped and quickly removed her flipper from your hair, refusing to meet the cat's gaze. You kind of miss its warmth...<br>\r\n<br>\r\nOh, right. What you were worrying about a few minutes ago just happened. Huh. You thought you'd at least be surprised, if not terrified at being caught red-handed like this, but you don't really feel anything right now. Maybe it's just the shock, or something.<br>\r\n<br>\r\n<span class=\"chotpink\">\"W-well, I, uh,\"</span> the pelican looked around erratically, wracking her mind for an excuse to give,<span class=\"chotpink\"> \"Bucko here was just, uh, showing me his skills! Yeah, yeah! They're thinking of becoming a masseuse! <font class=\"size2\" style=\"\">Probably to pay off Nook's ridiculous mortgage...\"</font></span><br>\r\n<br>\r\n<span class=\"cyellow\">\"That,\"</span> Ankha pauses, rolling her tongue against the inside of her cheek, <span class=\"cyellow\">\"Makes sense. I apologize for making the assumption.\"</span> She didn't want you to avoid the subject, though, figuring she could still get something out of this. <span class=\"cyellow\">\"I suppose they wouldn't mind demonstrating their skills to me as well? My paws are feeling sore from my midnight walk, and a massage sounds like just the thing I need.\"</span><br>\r\n<br>\r\nYou feel your heart nearly beat out of your chest. Another set of feet to pamper, with the added bonus of your reputation <i>not</i> getting ruined the second you meet one of your neighbors? Sweet!<br>\r\n<br>\r\n\"I'd love to, Ankha!\" you reply, winking at Phyllis, who sighed in relief, \"I'm always eager to share my craft.\"<br>\r\n<br>\r\nShe grinned, happy to see that she'd have her paws tended to. <span class=\"cyellow\">\"Delightful. Let's start, then.\"</span><br>\r\n<br>\r\nAnkha sits down at a chair, then motions for you to come over. You feel kind of bad for leaving Phyllis hanging with only one foot taken care of, but it's probably better to save that for later. Can't blow your cover just yet, right?<br>\r\n<br>\r\nYou almost kneel before the golden cat before you came to your senses and pulled your own chair over. The short pause you took before doing so did not go unnoticed by her, unbeknownst to you. <br>\r\n<br>\r\n<i>Jeez, I know I'm pretty submissive, but you'd think I'd be on top of things after nearly getting caught once...</i><br>\r\n<br>\r\nFinally, you sit down with Ankha, letting her rest a paw on your lap. Its heel pressed slightly against your inner thigh. A bead of sweat forms on your brow; it's definitely harder to concentrate with that cute little thing so close to your goods. It'd be rude, not to mention indecent, to ask her to move it now, so you just keep quiet and let your hands do what they were made for.<br>\r\n<br>\r\nYou study her paw, lifting it up and handling it like a precious jewel. She had four, slightly-stubby digits, each of the with a sharp, black claw on the front and a squishy, pink toepad underneath. Where one would usually have a 'ball', she instead had another pink pawpad larger and slightly rougher than usual. Her paws were slightly damp and dirty, an obvious sign she had been walking around outside for a while. The rest of the foot was covered with fine hair, and the flesh underneath had a lot of give to it. You were going to enjoy this...<br>\r\n<br>\r\nAnkha gives you a curious look, not really understanding what you were doing. <span class=\"cyellow\">\"I don't mean to be impatient, but do you mind telling me why haven't you started the massage yet?\"</span><br>\r\n<br>\r\nYou don't stutter this time, having come up with a perfect excuse for ogling her petite peds a while ago. \"Ah, that's simple. I have to know exactly what I'm dealing with before I get to work. Your foot is very different from Phyllis's, and as a masseuse, I need to see the shape and curvature of it to gauge which muscles are where, how hard I have to rub, among other things. I'm sorry, I should've let you know beforehand.\"<br>\r\n<br>\r\nThe Egyptian cat simpered, clearly impressed by your experience. <span class=\"cyellow\">\"Hmm. That also makes sense, Mr-row. If that's the case, then look at them all you want; but if I may request, I'd rather you get on with it. They certainly ache...\" </span><br>\r\n<br>\r\n---<br>\r\n<br>\r\nPhyllis's mood was soured a bit by the unfinished massage, but her displeasure was overpowered by both her worry for your reputation and her envy and spite of Ankha, who nicked you away from her. She liked to gossip a bit with the cat during night hours, but she didn't come over this early often, which blindsided her. Oh well; considering how eager you were to give her a rubdown in the first place, you'd probably have enough energy to finish her off. She didn't even feel that cranky! You really had the magic fingers, huh?<br>\r\n<br>\r\nShe silently observed the massage you were giving to her catty friend. Honestly, it was...kind of hot, seeing you go to town on those paws. Really hot... <br>\r\n<br>\r\nSubconsciously lowering her wing, she began to caress her lower lips through her skirt. Lucky for her, the wooden counter was solid all the way down to the floor, so her lurid motions weren't immediately noticeable. Besides, judging by how off-guard she was earlier, the both of you were likely too focused on the footrub to think about anything else.<br>\r\n<br>\r\n---<br>\r\n<br>\r\n<span class=\"cyellow\">\"Mmm, marrrvelousss,\"</span> Ankha purrs and sinks in her chair as you knead a couple talented knuckles into her pawpad, sending a lovely tingle up her spine. She began to scratch the seats of the other chairs, like a wild cat clawing at its bedding. This earned her an ignored shout from Phyllis, who was not enthused with the idea of paying for damages done to the office furniture. <br>\r\n<br>\r\nYou decided to primp her toes at the start, which she very much enjoyed. You had finished rubbing their sides, their arches, and their plump, sensitive undersides when she requested that you massage the last bulbous, pink pad. Your handiwork was something she had never experienced before; she had dreamed of being a pharaoh, having slaves at her beck and call, but she couldn't have imagined how good it would feel to actually be lavished as she was right now. She mewled lewdly as you gave her tired soles relief, numbing their pain and replacing it with pure pleasure, years of tension and stress undone at your expert hands. She could see it right now: Queen Ankha, Pharaoh of Egypt, loved and adored by all, tended to by her closest servant, pampered like the royalty she was...<br>\r\n<br>\r\nIt occurred to her that you (and her friend Phyllis, for that matter) could probably see the damp spot on her dress, but she was so lost in her trance that she hardly cared. She wanted to show her appreciation for your servitude; in fact, she wanted to see <i>your</i> appreciation...<br>\r\n<br>\r\nRaising her spare paw, she presses it into your crotch, and...</span></div></div>",
+            "created":1599434220,
+            "id":2898653,
+            "title":"Enter Ankha, Exeunt Phyllis"
+        },
+        "1231133":{
+            "author_id":"gooberg",
+            "author_name":"SwiggitySwooty",
+            "choices":[
+                "...and successfully locks the door.",
+                "...but someone barged in at the last second!"
+            ],
+            "content":"<div class=\"\"><div> <span>Your breath hitches as your groin is suddenly felt up by Ankha's paw. You stare at her, hoping that she wasn't going this far just yet. She blinks, meeting your eyes, then blushes and looks off to the side, clearly embarrassed at how out of turn she was being. Luckily, you managed to control your base urges long enough to not just grab her leg and grind her paw against your crotch. Unluckily, she almost certainly felt the results of your arousal. Deciding to ignore it in the hopes that the golden cat wouldn't bring it up again, you shakily clasp the foot that didn't fondle your nether regions and resume your massage. <br>\r\n<br>\r\nAt least, that's what you were planning on doing, until she stuck her other paw in your face. You could feel the heat and moisture radiate off of it, presumably from both nervousness and arousal. Your nose was lodged into the middlemost crevice of her toes, and all your willpower was barely enough to stop you from taking a deep, enslaving whiff. Ankha turned her head to face you again. You could barely see her over the sultry view of her plush toe pads, but you could tell that she was still as turned on as before. She grins deviously as you match her gaze, her exotic eyes pulling you further under her sway.<br>\r\n<br>\r\n<span class=\"cyellow\">\"I don't think I need to tell you what happens next,\"</span> she states, pressing her pawpad against your lips.<br>\r\n<br>\r\nYou can't take it anymore. You've locked any notion of your fetish out of your life, terrified at being ostracized for it. But your hunger for feet has only grown since you refused to indulge in it. You've lusted for soles, for toes, for arches, for heels, for <i>everything</i> about feet, but with every chance you've had to partake in them quashed by your own fears, you've grown desperate; addicted, even, for their touch. Why else would you just offer Phyllis a footrub when you just met her? Why else would you acquiesce to Ankha's demands? And most importantly, <i>why haven't you kissed her sole yet?</i><br>\r\n<br>\r\nIgnoring the stress, the doubts, and the fact that you're probably never going to have a normal reputation in this town again, you shove your lips against this beautiful, dominant cat's sole and give it a hard peck. She gasps, then chuckles, a flushed simper on her face. <br>\r\n<br>\r\n<span class=\"cyellow\">\"Ah, so you really are a servant at heart. I'll be glad to accept your services, then. Let go of your inhibitions, and do whatever comes to mind...\"</span><br>\r\n<br>\r\nAt those words, a switch in your head flipped. No longer did you feel any shame or anxiety when staring at her peds. You shove the chair aside, bowing to your knees and assuming your proper place in life. Lifting both of Ankha's sweaty paws by their heels, you begin peppering her soft, delicate soles with kisses, paying extra attention to the juicy pads adorning the bottoms of her digits and forefoot. You could feel the Egypt-obsessed feline shiver, her knees knocking together as your pampering sent her into a drug-like high.<br>\r\n<br>\r\n<span class=\"cyellow\">\"Aahhh! There--hngh!--we go...u-use me, servant. Fulfill your lurid desires...show me the l-love you have for my body...you have my holy permission...to w-worship me as you please...\"</span><br>\r\n<br>\r\nYou nod your head entrancedly, Ankha's passionate speech further stoking your desires. Opening your mouth, you press your tongue against the heel of her foot, letting the dirt that defiled her foot be washed away by your saliva. The sacred sweat that her pores released were gracious enough to deign to be taken into your mouth and pumped down into your stomach, becoming a part of you. The salty, savory smack flooding your taste buds drives you to hump the air and lick all the way up her shapely arch to her toes. You repeat the action at a frenzied pace, much to the quivering delight of your goddess...<br>\r\n<br>\r\n---<br>\r\n<br>\r\nPhyllis had seen everything between you and Ankha. She was utterly captivated by the way you lavished her catty friend's with love, watching the simple 'foot massage' you offered turning into a full-blown worship session. She wanted to be mad, to chew out her friend for interrupting her own session, but something about seeing it all happen in front of her was, honestly, almost as hot. The second you laid your lips on the cat's paw pad, the grumpy clerk brushed aside the slim fabric of her panties and slipped her feathers into her snatch, touching herself more ravenously than before. She was lucky that the counter top was solid wood all the way down to the floor, or else any other people who decided to barge in could see her schlicking it--<br>\r\n<br>\r\nHer tempo slowed considerably when she caught that little train of logic. If a villager walked in on this ridiculously inappropriate scene, they could get her fired and blacklisted from any other job in this damn town! B-but she didn't want this to end... <br>\r\n<br>\r\n<span class=\"chotpink\">\"W-wait, I've got it! I need to lock the door...!\" </span>the pelican came up with her solution. She gave you two one last look before heading for the door, still rubbing her clit as she got up. Taking out her keychain, she fumbled to pick the right one as she approached the entrance, hoping it wasn't too late for her to prevent this whole thing from getting worse.<br>\r\n<br>\r\nShe hurriedly shoved the key in the lock...<br>\r\n</span></div></div>",
+            "created":1599546960,
+            "id":2899314,
+            "title":"A 'Massage', Huh? Is That What They Call it Now?\""
+        },
+        "124":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "You find a pair you like",
+                "Kicks take you into the back of the shop",
+                "Kicks noticed the staring earlier and asks if you were interested in his boots."
+            ],
+            "content":"<div class=\"\"><div> <span>Noticing a shoe shop nearby, followed by a glance down at your own footwear which was showing some wear and tear, you decided that you could probably set aside some bells for new shoes. As you entered the quaint looking shop, you saw a single person working there. Presumably the owner of the establishment. He was a skunk, male, and dressed in a brown hat, suspenders, and large boots. Since the store was small you were immediately noticed by the line worker. As he ran up to you, you noticed that despite his species, he didn\u2019t really give off the kind of odor you would expect. <br>\r\n\u201cHello there. My name\u2019s Kicks. I run this little shop.\u201d He greeted you in a very welcoming manner. \u201cHave a look around. Take as long as you need. I have other kinds in the back if you don\u2019t see what you want right away.\u201d <br>\r\n<br>\r\nYou swear you saw him tapping his boots toes as he mentioned this. Your eyes focused on the boot for a minute before snapping out of it and looking around. As you looked around, kicks trailed behind you taking interest in what you look at.</span></div></div>",
+            "created":1546232400,
+            "id":2596583,
+            "title":"Kicks"
+        },
+        "1243":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "Going into the back",
+                "Removing his own boots"
+            ],
+            "content":"<div class=\"\"><div> <span>As you looked around the shop, your eyes shifted back to the skunk. Sure he seemed friendly but you felt a little awkward with him right behind you. You pretended to glance around as your eyes subtly trailed back to him. And slowly moved down towards his bolts once again. You swear you could hear his toes tapping along the inside of them. You tried to keep these glances subtle to avoid drawing attention from the skunk, but he managed to take notice of your wandering eyes. <br>\r\n<br>\r\n\u201cDid you like them?\u201d He suddenly asks snapping you out of your stupor. You looked back up at him curiously and slightly embarrassed. \u201cI saw you looking at my boots. Wasn\u2019t sure if you were interested in something like them.\u201d Quietly gathering your thoughts you figured this was the least awkward way out of this situation. Quietly you nodded at Kicks causing him to smile. \u201cWell just stay right there. I\u2019ll see what I can find for you.\u201d The skunk said as he directed you to a chair. As you sat down you looked and saw Kicks...</span></div></div>",
+            "created":1547096400,
+            "id":2601669,
+            "title":"Kicks\u2019 Kicks."
+        },
+        "12432":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "Kicks holds the boot in front of your face",
+                "Kicks rests his socked foot on your lap",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>As you say there nervously, you looked back to Kicks. At first you were simply expecting him to measure your foot and go to the back and pull out a pair of boots like his. Instead, you saw Kicks pull another chair right in front of you and sit right down by you. Before you could ask was he was doing your eyes went wide. The skunk reached down and started tugging on his own boots grunting a couple of times before finally getting them to budge. A faint odor started to seep our as he managed to pull it down a crack. The faint smell stung your nostrils, and yet you found it almost euphoric. You turned away slightly hoping to hide the bit of red forming on your face as you forced yourself to think of anything else to get your mind back to normal. Baseball, fishing, cars, goldfish. Anything at all to take your mind off of Kicks and what he was in the middle of. <br>\r\n<br>\r\nYou managed to regain your composure fairly quick but as you looked back you blushed slightly once more. Kicks has finally removed the stubborn boot. Of course wearing boots like that every day was bound to build up a lot of heat and sweat and the sudden rush of fresh air certainly felt good for kicks. Your eyes wandered down as he wiggles his toes, enjoying the newfound freedom. The odor, now much stronger hit you like a truck. It took everything in your power to try to keep a straight face. But even with that your expression occasionally broke from your barely composed form just briefly. You prayed that he didn\u2019t notice.<br>\r\n<br>\r\nOf course Kicks wasn\u2019t oblivious. After he finished basking in the refreshing freedom he noticed the weird faces you were making. At first he was worried that something was wrong, but as he watched your eyes he quickly pieces together the truth. With a small grin, Kicks decided to have a little fun with this.</span></div></div>",
+            "created":1547701200,
+            "id":2604165,
+            "title":"Removing his own boots"
+        },
+        "124321":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "Kicks hands you the boot to see what you\u2019ll do",
+                "Kicks grabs the laces And ties the boot over your mouth and nose",
+                "Kicks somehow shrinks you and drops you inside",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Kicks, fully aware of your not so secret fetish decided to have a little fun. Holding the boot up he quickly hid his grin and decided to play dumb. Though his next few actions would not be subtle. \u201cI have a few pairs like mine in the shop, but I\u2019m sure you\u2019ll want a good look at these before I run back for them.\u201d He moves the boot closet to your face letting you see the surprisingly pristine shape they were in, despite the very worn smell which was radiating from within. \u201cI take extra good care of these, I make sure to keep them looking as clean as the day I got them. Though I sadly can\u2019t do much about some other signs of being worn. Go ahead and take a closer look.\u201d As he slowly rotated the boot around the smell only got stronger. Your cheeks grew even redder as you tried to mask your embarrassment, too distracted to piece together that he obviously figured it out already. As he showed you the sole, you saw bits of dirt, unaware that he was slowly pushing the boot closer to you. Pretty soon the sole of Kicks boot was less than an inch away from your face and you hardly noticed the change. <br>\r\n<br>\r\n\u201cSo think you\u2019re interested yet. Or do you need more time to think?\u201d You just stared in silence. Unable to speak or more beyond a light nervous shakeing. You snapped out of it when the boot finally made contact with your nose causing you to jump slightly. \u201cOops, Sorry about that.\u201d Kicks said in an innocent tone as he pulled he boot back slightly. \u201cBut I\u2019m sure you won\u2019t be able to make up your mind without seeing what it\u2019s like inside of the boot.\u201d Not letting you move, kicks turned the boot over and had the opening of the boot face you. Kicks had the boot positioned so that the opening was strategically hovering over your eyes and your nose. The smell was hitting you at full force now. The insole was well worn, covered in sweat and grime and forming a darkened footprint into the material. \u201cThe inside is really warm and comfortable, great for long work days. Though sometimes things might get a little stuffy in there. You wouldn\u2019t mind that right?\u201d Kicks waved the boot back and forth watching your head follow slightly. He grinned as he moved on to his next plan.</span></div></div>",
+            "created":1547701200,
+            "id":2604167,
+            "title":"Kicks holds the boot in front of your face"
+        },
+        "1243212":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "You accept the offer",
+                "You decline the offer",
+                "Suddenly the door opens and someone else enters"
+            ],
+            "content":"<div class=\"\"><div> <span>Your little trance made it all too easy for kicks to take the laces of the boot without you seeming to notice or respond. By the time you finally seemed to snap out of it, the smell seemed a lot more powerful than before. Finally paying attention to your surroundings once more you saw that the boot was securely tied around the back of your head and even supported by a couple extra laces he slipped through the boot when you weren\u2019t paying attention. Try as you might, you were not moving that from place without somehow undoing the variety of knots tied behind the back of your head. <br>\r\n<br>\r\n\u201cLooks like a perfect fit, don\u2019t you think?\u201d Kicks said playfully. You opened your mouth to reply, only getting a mouthful of his sweat for your troubles. You quickly recoiled from the powerful sting of the hot salty liquids rushing into your mouth. After the initial reaction you knew you\u2019d have to experience more of this if you wanted to communicate at all. \u201cWhat did you do? Why did you do this?\u201d You managed to sheepishly ask as more of his sweat entered your system. Kick grinned again before resting a socked foot on your lap. \u201cYou didn\u2019t really seem to mind it when I was doing this to you earlier. In fact I\u2019d say you were quite enjoying having my boot in your face before I went through with it.\u201d You blushes even more as you realized that he saw right through you. Granted you weren\u2019t exactly subtle when you tried to hid your interest in his feet. \u201cWhat are you going to do?\u201d You asked, taking another mouthful of his sweat in the process. His toes tapped against your belly as he pondered this himself. For the most part he was just going along without any real plan. But now that everything\u2019s out in the open, he might as well look ahead when seeing how to move things forward.<br>\r\n<br>\r\n\u201cHmmm. Well since you like me so much why don\u2019t we work out a little deal. You agree to keep pampering my feet and tending to my footwear and I\u2019ll let you stay with me at my place rent free. I\u2019m sure it won\u2019t be too hard to cancel your old housing arrangements since nothing moved in and no payments were made.\u201d You felt a little shaken as you thought about the offer. \u201cOh, and while your considering, do take advantage of your position and lick the insole clean.\u201d Though he worded it as a request rather than a command you felt some force making you obey it without hesitation. Had his feet really taken this much of a hold on you? It was a scary thought as you felt more of his powerful sweat entering you. Kicks took notice of your immediate response andgrinend some more. \u201cOhh right to work, I like that. Tell you what, as an added bonus, I\u2019ll make sure that word about your... interest doesn\u2019t get out to the rest of the town. How does that sound?\u201d You looked back at him, curious if he was blackmailing you with this or simply being nice. His grin and his tone made it difficult to tell. Even having someone so willing to indulge in your fetish was embarrassing enough. Now imagine the whole town learning about it. And some of them would probably respond a lot worse than Kicks is now. Even the nicer villagers would seem awkward to tak to with this dark secret our in the open. But, maybe it wasn\u2019t blackmail. Maybe this was independent of the offer. But even if it was, you still weren\u2019t sure what to do about the offer itself. Should you accept the place to stay in exchange for effectively being this skunk\u2019s foot slave? </span></div></div>",
+            "created":1547787600,
+            "id":2604494,
+            "title":"Tied"
+        },
+        "12432121":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "He makes you kiss his soles",
+                "He wants a massage",
+                "He shrinks you",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Your eyes were watering as the boot that was tied around your head numbed your senses even Further. Even if you weren\u2019t licking the sweat off the insoles as ordered, the simple act of breathing in this arrangement caused his foot sweet to enter your mouth and hit your system. And this wasn\u2019t the only impact the sweat and odors were having on you. Perhaps reasoning started to wane, it perhaps your fetish was overtaking your thoughts, but you almost couldn\u2019t imagine the originally proposed life you had ahead of you. The one that involved living on your own in this new town. This new life that Kicks offered felt right. It seemed natural to you. Looking up at the skunk you saw a tiny smirk forming. He seemed to somehow read your thought process, granted it was probably written all over your face.<br>\r\n<br>\r\n\u201c.......... I\u2019ll do it.\u201d You sheepishly spike up. Kicks only gave a curious \u201cHmm?\u201d As he seemed to request clarification. \u201cI... I\u2019ll stay with you... as your.... pet.\u201d Your face turned red as you managed to squeak this out, but not as red as it would be in a few seconds. Kicks smiled more as he petted your forehead with his sweaty bare foot, making sure to rub more of his wonderful and potent sweat all along your face. \u201cAww how sweet. I always wanted a roommate.\u201d He coped in a teasing manner. Now that you were officially his, he seemed to ramp up the teasing even more. You wanted to hide your face and your embarrassment, but his foot held you in place. \u201cNow then, I\u2019ll take care of your old arrangement with book for you. But for now let\u2019s move on to the real fun.\u201d</span></div></div>",
+            "created":1562302800,
+            "id":2682440,
+            "title":"Officially Kicks\u2019 Foot Slave"
+        },
+        "124321211":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "He continues this",
+                "He gives you a footjob",
+                "He has other plans"
+            ],
+            "content":"<div class=\"\"><div> <span>The black fitted toes moved all along your head as Kicks ordered you to lay down. As the sweat and smells of the toes seemed to command your attention, you hesitated for a moment before the foot pressed you onto your back. Kicks didn\u2019t appear too mad, after all, his pet was simply getting used to his master\u2019s scent. A scent that would consume his life from this point forward. Slowly the toes moved behind you, wiggling a bit to tickle you. Before long the boot fell off from your face, allowing you to breathe fresher, if still tainted air. The cold gust was refreshing, but before long it was replaced as he placed his bare foot over you, positioned the toes over your nose. \u201cNow my cute slave, kiss your masters foot. Show your love and loyalty.\u201d<br>\r\n<br>\r\nYou still hesitated. Your mind had a lot to take in and it was all overwealming. Kicks noticed that you haven\u2019t started yet, and while he would show you patience for now, deciding to help speed things up a bit as his toes clamped down on your nose. As you instinctively opened your mouth to breathe in, the skunk moved his sole back and slid his toes inside. The powerful taste of his toes with all the sweat and grime that has accumulated on them hit your tongue like a truck. You recoiled slightly as the powerful salty and bitter taste overwhelmed you. Kicks simply smiled and slid his foot further in. \u201cEnjoying the taste? I hope so, you will be eating all your meals from my feet from now on. My cute foot pet.\u201d <br>\r\n<br>\r\nYour eyes burned as the foot slid around your mouth, covering every inch that he could reach. Your struggles quickly reverted to submission as you began to move your tongue to lick the foot. Kicks smiled more as his pet finally got to work.</span></div></div>",
+            "created":1562389200,
+            "id":2683029,
+            "title":"He makes you kiss his soles"
+        },
+        "1243212111":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "He orders you to take a shower... with him joining you",
+                "Kicks gets you something to eat.",
+                "Kicks wants a footrest "
+            ],
+            "content":"<div class=\"\"><div> <span>Your skunk master let out a long content sigh as his human slave got to work cleaning his soles off with his tongue. Though he noticed the attraction you had to them when you walked into his store, he didn\u2019t think you would be so quick to tame and control. Truth be told he was hoping you\u2019d resist him a little more, and yet there was something undeniably arousing to the skunk about how easily you surrendered your life away to his feet. His toes stretched and spread out as your actions, both past and present turned him on even more. You heard Kicks grunting up above as you continued to lick between the toes. Peeking up, you were greeted by the sight of Kicks rubbing the ever growing tent in his pants, finally sliding his hand inside with it. If you weren\u2019t so preoccupied with your master\u2019s orders you\u2019d probably be shocked that he was doing this so freely. Then again you aren\u2019t exactly a person to him anymore. You\u2019re his property. His plaything. Something he doesnt need to show modesty or shame around. Before you could see more, his other foot pressed against your face, covering your eyes and pushing you back into place to serve him better.<br>\r\n<br>\r\nYou couldn\u2019t do anything other than lick and suck on your masters mighty toes. The salty bite to their taste still had you recoil a little. Kicks noticed this and seemed to get even more aroused. From up above your masters moaning grew louder. His pants soon fell on top of your head further blocking any peripheral vision you had. Before long you heard him almost yelling in pleasure. And then you felt something warm hitting your back and your head. It didn\u2019t take a lot of guesses to identify what just hit you. Kicks simply laid back and relaxed, letting you continue your work, now marked with his scent and seed. </span></div></div>",
+            "created":1562821200,
+            "id":2685465,
+            "title":"Kicks Enjoys You"
+        },
+        "12432121112":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "It\u2019s with meats and fruit",
+                "It\u2019s a bowl of pet food",
+                "It\u2019s something else"
+            ],
+            "content":"<div class=\"\"><div> <span>As time went on, Kicks noticed that your licks had slowed up. Peeking down, he saw his little pet, tired, and apparently parched. Though you were his property now, Kicks wasn\u2019t a sadist. He cared enough for your well being on top of wanting you in the top shape to please him. \u201cStop.\u201d He said in a commanding yet oddly inviting tone. \u201cYou have done well, my little pet. I haven\u2019t felt this relaxed in years.\u201d You blushed a little at this praise. \u201cYou have definitely earned you stay with me. As well as a break. Wait here like a good pet while I get you some food.\u201d You simply nodded in response as Kicks pulled his feet away and stood up, a small imprint of his foot remained on the ground, no doubt formed from remaining traces of sweat and saliva. You stared as he walked into the next room, not moving from your spot as ordered. <br>\r\n<br>\r\nAs you waited you thought about the past hour or two, and the place your life was now in. You didn\u2019t really know what to make of it. Did you make a mistake? Should you try to resist this demeaning arrangement after you blindly accepted it? Should you just resume being a loyal footslave? These questions and others flooded your mind giving you a small headache. What should you do? Before you could actually process all this you heard the footsteps of your master as Kicks returned carrying your dinner out for you.</span></div></div>",
+            "created":1562821200,
+            "id":2685466,
+            "title":"Kicks gets you something to eat."
+        },
+        "124321211122":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "You obey and get licking",
+                "You refuse and risk punishment"
+            ],
+            "content":"<div class=\"\"><div> <span>As the footsteps got closer you looked to the foot and saw your skunk master walking back into the room. You quickly spotted something in his hand. Something round and shiny. Almost like a... you pouted slightly as you quickly deduced what Kicks was carrying and soon saw the skunks bare feet resting where you were laying, with a grin he placed a small bowl that one would normally use to feed a pet. And sure enough it\u2019s contents seemed to resemble some sort of unidentifiable mush that you\u2019d see in a pet food container. Kicks smiled down a tiny you expectantly as he stuck a toe inside the mush and ran it around, stirring the substance around. Pressing the foot in a bit more, he waved his toes in front of your face, now coated in your dinner. \u201cYou clearly need a little help and I figured I\u2019d present it in a way you\u2019d love. Go ahead my cutie. Enjoy your dinner.\u201d<br>\r\n<br>\r\nYou winced a bit as the filthy toes wiggles awaiting your tongue. You had very conflicting thoughts on your new position. You loved your godly master. The sight of his toes was enough to get you going. But at the same time you had an instinctive desire to cling onto a shrewd of dignity. Of course this would be a wasted effort as Kicks simply shoved the toes into your mouth, rubbing the mixture fo sweat and pet food to fill your taste. You recoiled a bit, but kicks other foot quickly pressed your head back into place. You weren\u2019t getting out of this until you finished eating. You swallowed your pride along with the strange tasting substance. kicks only grinned at your obedience and petted you with the foot that was holding your head down. Your eyes peeled up at the sitting skunk as he finally removed his toes from your mouth. \u201cGood. Now finish the bowl my cute little slave.\u201d Your heart sank as you looked back to the remaining mass of the unappealing mush that was your dinner. Kicks feet settled into the bowl as well pressing in and awaiting you to lick them clean.</span></div></div>",
+            "created":1563512400,
+            "id":2689406,
+            "title":"It\u2019s a bowl of pet food"
+        },
+        "1243212111221":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "Time for sleep",
+                "Time for a bath",
+                "Time to invite a few friends"
+            ],
+            "content":"<div class=\"\"><div> <span>As you stared into the bowl, seeing your masters black furred paws stepping into the questionably edible substance he was feeding you, you felt a familiar sensation stirring within you. Despite your desires to have some dignity in all this, there was no fighting it any longer. You felt a sense of belonging. A sense that these feet were your world. That their every need and desire was your sworn duty. Without even thinking, your body started to lean in and lick the meal off the sides of the sole. Kicks giggled, both from the sight of you demeaning yourself for him and the tickle of your tongue. He was pleased with how effortlessly he managed to teach you your place. Before long the bowl was empty and kicks paws were spotless. Your stomach was full and the taste in your mouth was far from pleasant, yet you wished there was more. Kicks ownership of you really seemed to be setting in.<br>\r\n<br>\r\n\u201cGood little pet.\u201d He cooed as a toe rubbed along your cheek. \u201cYou\u2019ve earned the right to sleep with your master tonight. Stay on my good side and this will be a recurring thing.\u201d As you rubbed your stomach to help it digest its contents, your eyes drifted up to kicks. His expression certainly seemed amused with your actions. And yet that faint desire for dignity and freedom seemed so distant now. Almost non-existent. Of course there was the chance it could pop up again sometime and honestly, kicks secretly hoped you would Still occasion put up a fight in the future. But for now he was happy with his loyal pet human.</span></div></div>",
+            "created":1563512400,
+            "id":2689449,
+            "title":"You obey and get licking"
+        },
+        "124321213":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "He steps on you",
+                "He drops you in his shoe",
+                "He makes you serve him",
+                "He has other games in mind"
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cStay put.\u201d Kicks ordered as he got up to make sure the doors were all locked. You obeyed his command. After all, you offered to be his slave, why would you disobey your very first order. After making certain that no one would interrupt, your master walked over to the back of the room and sorted through some bottles. Finally he returned holding something with a green liquid inside. Soon the boot was untied from your head and fell to the ground before you with a powerful thud. The rush of relatively fresh air was a welcome change for your lungs, though you were curious what your master was now planning. The bottle was held in front of your face. \u201cDrink!\u201d He ordered calmly. His hand tilted the bottle causing the liquid to pour towards you. You quickly moved to catch it, not even stopping to question what you were ingesting. The liquid had a surprisingly pleasant lemon flavor to it. But something seemed odd as you drank more. Though the pouring was constant, it felt like it was filling your mouth faster. As your eyes looked up you saw that Kicks seemed to be getting farther and farther away. It finally hit you. You were shrinking. Kicks smirked as the look of realization hit your face. \u201cDon\u2019t let a drop hit the floor.\u201d He ordered as you obeyed to the best of your ability. But soon your were unable to keep up with the flow as your mouth got smaller and smaller. Finally he stopped with you stuck at roughly 2 inches tall. \u201cPerfect. This will suit your new role much better little slave.\u201d Kicks said tapping you with his toe. The sweat coated your head like a rag before he lifted it away. <br>\r\n<br>\r\nAs Kicks rose to his full height you were staring up at your now godlike master. Partially in fear of the sight of the huge skunk, but partially aroused at his admittedly attractive body. He seemed to be enjoying your stares and leaned in a little.</span></div></div>",
+            "created":1562302800,
+            "id":2682538,
+            "title":"Skunk\u2019s Shrunk Sole Slave"
+        },
+        "1243212131":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "You last a few minutes. Kicks is pleased",
+                "You last a few seconds. Kicks punishes you"
+            ],
+            "content":"<div class=\"\"><div> <span>As the massive (from your perspective) skunk leaned in closer, eyeing his tiny slave you saw a glint in his eye. A look of mischief as he plotted all the thing s he could do to you. All the things he could force you through. All the things you couldn\u2019t stop even if you tried. He felt a bulge growing in his pants, pressing tightly against the wall of fabric as more and more ideas entered his head. And best of all, he knew that you would eventually be subjected to all of them. <br>\r\n<br>\r\nThe growing tent in his pants did not go unnoticed from you. A mixture of fear and some arousal assaulted your thoughts and emotions as you were unsure what to make of this whole mess. But before you could think or speak up, you were suddenly hit with the force of a freight train as Kicks decided to gently give you a little kick. Despite the force, you were mostly unharmed. But you were still sent back a few feet, much to your new god\u2019s amusement. As you tried to get back up, the fuzzy sole kicked you once again, sending you tumbling back some more. As you laid there a little dizzy, Kicks planted the same foot on top of you, pinning you to the wooden floor. The toes bounced against your puny form as he effortlessly displayed the power he holds over you. \u201cYour master enjoys your presence little slave. Hopefully you\u2019ll do your part to stay in his good graces. After all there is a lot I can do to you, both for our pleasure and for your punishment.\u201d You gulped down air as he spoke too scared to really move or struggle against himself \u201cnow my tiny slave. I have a little game planned. I will try to step on you once more and you shall try to dodge me. Do your best to stay in the game. After all, if you don\u2019t make this interesting, your master will be bored and you will have to be punished for failing to amuse me.\u201d<br>\r\n<br>\r\nYou barely had time to process this command before Kicks raised his foot over you once more. You didn\u2019t have time to stand back up so you rolled out of the way just barely avoiding his fluffy sole. Kicks grinned as the game began.</span></div></div>",
+            "created":1562389200,
+            "id":2682984,
+            "title":"A Big Kick from a Big Kicks"
+        },
+        "1243213":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "choices":[
+                "He puts the boot on",
+                "he slips you inside another customers shoe",
+                "Hours pass and he takes you home",
+                "Months pass"
+            ],
+            "content":"<div class=\"\"><div> <span>As you struggled to snap back into reality, Kicks ended up giving you a bit of help, though not quite in a way you would have hoped for. All of a sudden the boot waspressed rift into your face, shoving the sweaty insole right against your nose. You tried to pull back, but Kicks kept the boot right on you the whole time. Your resistance did little more than amuse him as your arms didn\u2019t seem to try simply pulling the boot away. It was clear to Kicks that your escape attempts were a bare minimum effort. \u201cI knew you were enjoying this.\u201d He finally spoke up revealing the truth to you. Though you were still trying to pull your face away, you heard his every word loud and clear. The realization that he was fully aware of you... admittedly obvious attraction to them caused you to stop. You were at least thankful that his boot was covering your face so that he could not see your face right now, thaugh that offered little comfort when your fetish was out in the open. \u201cAww, looks like you a bit shy about this. Tell you what, why don\u2019t I help you really enjoy this?\u201d This statement both embarrassed you and piqued your curiosity. What exactly did the skunk have in mind when he said that. You soon had your answer when you felt a cold liquid hitting your neck causing everything to go black.<br>\r\n<br>\r\nYou came to not too long later, feeling a little dizzy and oddly warm. Lookin around you realized that everything was dim, damp, stinking and on top of all this your clothes were gone. Just what He hell did Kicks do to you. \u201cFinally awake?\u201d A familiar voice echoed all around. You looked around for the source and paused in fear and disbelief when you finally saw where Kicks was. Looking up through a hole in the ceiling was Kicks grinning face looking down at you. He was utterly gigantic. \u201cW-what the hell did you do?!\u201d You shouted with your voice cracking with fear. Kicks just laughed and stood up tall. \u201cJust giving you what you really wanted. Speaking of which, what do you think about the boot? Too big or just right?\u201d It took you a few seconds before his words clicked in your head. Looking around at the dimly lit walls and the damp floor you saw the familiar paw print on the ground. You were shrunken and inside Kicks\u2019 boot. The skunk spotted that look of realization in your face and chuckled once more. Hope you\u2019re comfortable in there, I\u2019ll probably be busy for another couple hours. </span></div></div>",
+            "created":1547701200,
+            "id":2604214,
+            "title":"Shrunk by a Skunk"
+        },
+        "12432134":{
+            "author_id":"metamin",
+            "author_name":"MetaMin",
+            "content":"<div class=\"\"><div> <span>It\u2019s been several months since the day Kicks shrunk you. At least you think it has. Your sense of time hasn\u2019t really been too accurate since then. You spend most of your life inside the dark, hot, and damp confines of Kicks\u2019 boot that days, weeks, and months just seems to blend together anymore. For the most part you are pinned under the skink\u2019s socked sole. Other days he doesn\u2019t even wear socks and you find yourself pinned between his sweaty soles and his damp insoles. In a sense, Kicks\u2019 feet have become your world now. On the rare instances that he would remove you from the boot, t would always be to play with you using his massive feet. Sometimes he\u2019d have you pamper them. When he feeds you he makes sure to prepare your food extra special, which usually means stamping all over it with his bare feet and having you eat the food off his soles until they were clean. He would always giggle when you did this, both from the view of you degrading yourself and from how your actions would tickle him.<br>\r\n<br>\r\nBut perhaps the most amusing thing of all to Kicks was just how quickly you accepted this new life you now live. Sure you put up some resistance in the beginning and did make the occasional pleas to restore you or let you go, but honestly it didn\u2019t even take 3 days for you to start submitting yourself to his feet with almost no hassle. You treated him like a god. And in a sense he pretty much was one to you. One who would protect you and provide for you in exchange for proper worshiping. <br>\r\n<br>\r\nMany people wondered whatever happened to the new human villager who vanished as quickly as they moved into town. Some were still curious, but by this point many had stopped worrying or had simply forgotten about the human they saw maybe once or twice. Only kicks really knew the human\u2019s fate. He would savor the feeling of you underneath him for years to come while others would never know the truth behind his even more cheerful mood. You were destined to serve and amuse the giant skunk and his sweaty and dirty soles for the rest of your natural life. Not that you minded it too much.</span></div></div>",
+            "created":1547701200,
+            "id":2604223,
+            "title":"Months pass"
+        },
+        "124323":{
+            "author_id":"interestingsno",
+            "author_name":"an interesting day",
+            "content":"<div class=\"\"><div> <span>As the boot was removed his Grey sock was visible hiding his soft paws beneath and he started to rub the big toe of his socked foot with his big finger.<br>\r\n<br>\r\nCalmly he asked you to help him remove his other boot without breaking it and down on the floor it goes with a loud thud.<br>\r\n<br>\r\nHis exposed socked feet were now clearly visible and you got an idea to have some fun with him.<br>\r\n<br>\r\nYou started scribbling at his socked soles and he was trying so hard not to laugh even though his paws were so sensitive.<br>\r\n<br>\r\nYou started playing around with his socked toes and he let out the cutest high pitch laughter.<br>\r\n<br>\r\nBy now you become curious to what's under those sweaty socks and you started to peel away at his socks.<br>\r\n<br>\r\nYou started taking off the sock at the ankle and after his right sock had been removed Kicks could feel the breeze on his now bare skunk foot .<br>\r\n<br>\r\nYou then proceeded to remove his left sock and after that you started to touch his black toes with your thumb. <br>\r\n<br>\r\nHis bare sole now without the protection of his socks was open for tickling and you started to tickle it. <br>\r\n<br>\r\nBy that point he was crying tears of laughter and he wiggled his toes in reaction to the ticklish sensation combined with his bare feet being exposed to the outside air.<br>\r\n<br>\r\nYou then let him rest on his chair for a few minutes and you let him put on a pair of fresh socks and shoes instead of the dirty ones he used to wear.<br>\r\n<br>\r\nYou then left the store in satisfaction seeing Kicks barefooted for the first time<br>\r\nand that you got to tickle him.</span></div></div>",
+            "created":1567746840,
+            "id":2714020,
+            "title":"Kick's removes his socks and let's you tickle him"
+        },
+        "125":{
+            "author_id":"interestingsno",
+            "author_name":"an interesting day",
+            "content":"<div class=\"\"><div> <span>It's a beautiful day outside in this lively little village and you are going to the local store for a visit because you need to buy some gardening tools like saplings,and fertilizer.<br>\r\n<br>\r\nYou look at the square building with the neon sign that says super t &amp; t as you enter the store with excitement after waiting for it to open.<br>\r\n<br>\r\nIn the store there are many things to look at like fortune cookies ,furniture,and wallpaper.<br>\r\n<br>\r\nThen you notice it's being run by two little tanuki kids called Timmy and Tommy who both wear little black shoes along with red socks and a blue jumper.<br>\r\n<br>\r\nYou then ask one of them where the gardening supplies are located but while doing this you notice that Timmy forgot to tie the shoelaces of his shoes and a devious thought comes to mind.<br>\r\n<br>\r\nYou ask him if he is ticklish and before he can finish his sentence you wrestle the little tanuki boy to the ground.<br>\r\n<br>\r\nQuickly you take a nearby chair and some rope to tie him to the chair so that he won't be able to get away.<br>\r\n<br>\r\nYou start loosening up the shoelaces of the shoes one by one carefully from the left shoe to the right shoe.<br>\r\n<br>\r\n<br>\r\nAfterwards you tug at his shoes and he begs for you to stop but his prayers remain unanswered and off the shoes go onto the floor revealing the sweaty socks of the little tanuki boy.<br>\r\n<br>\r\nCarefully you poke at his socked soles with your index finger and he let's out a high pitched squeal. <br>\r\n<br>\r\nYou then start scribbling at his socked feet with all fingers like a lawnmover and he is trying so hard not to laugh from the ticklish sensation.<br>\r\n<br>\r\nBy now the curious side of you takes form and you begin to pull off his left sock and he tries to keep it on but to no avail and off the sock goes exposing the brown 3 toed feet of the tanuki boy.<br>\r\n<br>\r\nThe toes wiggle a little bit upon being exposed and Timmy starts to blush upon seeing his exposed bare pawfeet.<br>\r\n<br>\r\nYou start scribbling at his heel and he let's out the most adorable high pitched laughter you have ever heard.<br>\r\n<br>\r\nLightly you poke at his furry soles and his laughter is just about as loud as last time but still just as cute.<br>\r\n<br>\r\nSeeing a brush on sale in the store you grab it and you start brushing inbetween the little sensitive toes of the tanuki boy making him cry tears of laughter.<br>\r\n<br>\r\nActing quickly you now pull off his right sock as well exposing his right foot and now that he is completely barefooted you let him rest for a while.<br>\r\n<br>\r\nAfter a few minutes you gain another idea<br>\r\nand you start to massage his bare feet by drawing circles along his soles with your fingers as he moans in pleasure.<br>\r\n<br>\r\nBy now his older brother Tommy has noticed something is up and he sees the tied up and barefoot Timmy.<br>\r\n<br>\r\nLuckily you have the advantage and you manage to wrestle him down as well but this time you take a scissor and you rip off the soles of his shoes exposing his socked feet.<br>\r\n<br>\r\nYou then use the scissor to rip apart his socks revealing his large brown soles and toes.<br>\r\n<br>\r\nIn awe at the size of his paws and how adorable they look you snuggle at his soft paws like they were a pillow and you throw away the old shoes revealing the rest of his tender feet.<br>\r\n<br>\r\nYou then force them each to let you rub the paws of the now barefooted tanuki brothers and they reluctantly agree.<br>\r\n<br>\r\nBy now a few hours have passed since then you decide to let them be for now and to let their paws breath some fresh air for a few days.<br>\r\n<br>\r\nThis is the end of the story and I hoped you liked atleast some of it because I usually do not write stories like this.<br>\r\n</span></div></div>",
+            "created":1568343000,
+            "id":2717342,
+            "title":"Tickle fun at the store with the nooklings"
+        },
+        "13":{
+            "author_id":"buizu",
+            "author_name":"Zura",
+            "choices":[
+                "Crazy Redd",
+                "Gracie",
+                "Katrina",
+                "Nat",
+                "Other..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's at the event plaza today?</span></div></span></div>",
+            "created":1537419600,
+            "id":2550494,
+            "title":"Event Plaza"
+        },
+        "14":{
+            "author_id":"oliv_pale",
+            "author_name":"white olive",
+            "choices":[
+                "You take the opportunity (and go for a foot massage or more).",
+                "You don't want to take it and leave.",
+                "You don't want to take it... but you won't have the choice..."
+            ],
+            "content":"<div class=\"\"><div> <span>You are approaching the town hall. This is not the biggest one you've ever seen but it is a decent building. The kind of place filled with peace and silence.<br>\r\n<br>\r\nYou open the humble door and get inside. The room is medium, wooden but very clean, the furniture are not the newest but it's decent, the light is perfect, the inside is colorful. It was an old and classic town hall as you can see in any village, an important place with a few people coming in and out that always looks comfortable and welcoming. But inside this building, there is someone more important than anything else, a fast and efficient person, \"a girl whose the heart is full of kindness\" according to what you've heard from people in the train.<br>\r\n<br>\r\nYou are in a first time impressed to see that such a girl is in fact, a dog-girl. After a few seconds, you wondered that should not change anything, since such village is an official village, these people should be not different compared to the rest of the world.<br>\r\n<br>\r\nYou come closer to the person, a wooden desk with a lot of paper sheets is separating you, the girl seems to be always busy, working hard on administrative documents like she will never stop. Behind her, you can notice huge bookcases and another desk equipped with a computer, certainly the lone computer of the town hall. Wanting to finish all the tasks concerning your presence in this village, you ask with a little shyness :<br>\r\n<b>\"-E..excuse me? Is... is it the place to get registered as a new inhabitant? I just unpacked today in my new home...\"</b><br>\r\n<br>\r\nAt the moment you started talking, the girl immediately stopped working, looking at you with a smile, listening to you.<br>\r\n<span class=\"ctan\">\"-Ho, you are the newcomer? Very well! My name's Isabelle, secretary in our beautiful town, pleased to meet you! Well, to be registered as new resident, you should fill...\"</span><br>\r\n<br>\r\nIsabelle, since it is her name, was searching the document among the files. She was trying to be fast, but you can see she was about to do wrong because of this, and you were right. At the moment she put the sheet in front of you and try to give you a pen to fill it, she slips and <span class=\"ctan\">\"whoops\"</span>, the pen fall on the floor. <br>\r\n<br>\r\nThe things were so quick that you barely understood what happened. The pen was very close to the desk and at the moment you crouch to grab it, you can see a dog foot coming from the gap between the desk and the floor, trying to get it at the same time, grabbing your finger with her toes instead of the pen. The paw is warm and you can feel some particles covering it, and it pulls you a bit for one second before Isabelle realizes she wasn't taking a pen and releases you.<br>\r\n<br>\r\n<span class=\"ctan\">\"Ho...ho... I'm so sorry! I never wanted to...\"</span><br>\r\n<b>\"-No, it's okay!\"</b><br>\r\n<br>\r\nYou answer, still a bit surprised while you're standing up with the pencil in your hand, starting to fill the document. While you're writing, you are wondering about what just happened... you don't know her but you touched her foot, and you know deep inside how this part of the body interest you despite the fact you never tell to anyone or at least, tried to hide it.<br>\r\n<br>\r\nOnce you are done, the secretary takes the sheet and moves to the computer, typing something. In the meantime, the temptation growing inside your mind, you could not resist to smell your finger she grabbed, trying to figure her odor. The scent wasn't very smelly because the contact was short, but you can imagine how sweaty and salty her soles should be for the few you got. You would have enjoyed smelling your finger several time to carry on your analysis but you got interrupted by Isabelle who looked at you.<br>\r\n<br>\r\n<span class=\"ctan\">\"-Is everything okay? I hope I didn't scratched you with my claws?\"</span><br>\r\n<b>\"-Hum. No. No! I was just... err... wondering. How... how to get a job in here? I would like to help people, after all... I want to be part of the community!\"</b><br>\r\n<br>\r\nAnswering was hard in such situation but you think you did a nice answer to prevent any problem.<br>\r\n<br>\r\n<span class=\"ctan\">\"-A job? Hmmm... I guess, I can look for this while it's loading...\"</span><br>\r\nThe girl stands up and moves beck to her previous spot, closer to you, and starts browsing several books laying on her desk. But this time, she has a new posture, a posture more... interesting to you... She is facing to the left, reading, her right foot is resting on her left knee, showing you her sole. Furry, padded and covered with sweat... the foot itself wasn't dirty since the floor is clean but you can imagine that working for an entire day in such a place should be hot and exhausting. This simple sole caught your eyes for a few seconds, but you suddenly come back to reality when you thought she was looking at you with a quiet eye but when you can see that she's still reading. Was it you imagination?<br>\r\n<br>\r\nAnyway, she finally gathers a few booklets about several available jobs in the town and give it to you with a great smile. You take it after a thank. She moves back to her computer. Typing again a couple of words before coming back to you. Thinking about it, you dare to ask.<br>\r\n<br>\r\n<b>\"-Well, it sounds you're typing a lot of thing! Is it part of the registration?\"</b><br>\r\n<span class=\"ctan\">\"-Yes it is! I'm adding more information, including the fact you are looking for some work to do. And now, it will be loading again...\"<br>\r\n</span><br>\r\nThe dog approaches for the second time, sitting on her soft office chair.<br>\r\n<br>\r\n<span class=\"ctan\">\"I must say, it will be better if you can define an accurate job, or maybe you're ready to accept any kind of task to fulfill?\"</span> <br>\r\n<b> \"-Well, I don't know... I just moved to this town... Guess, I'll just... need some... time...\"</b><br>\r\n<br>\r\nAt the moment you are talking, Isabelle spreads her legs on her desk, disturbing you a lot... Her both soles are a few inches away from your face, so close that you can smell her odor from your position, seeing with accuracy the state of her paws. A few dirt mixed with dust, covered with sweat, hiding some damaged skin.<br>\r\n<br>\r\nYou remain silent for a time, even longer than before... you are marveling at her feet, your eyes are staring at each spot. These feet looks tired and are smelly but they are also cute. However, you just realized you were actually talking and interrupted yourself suddenly because of those feet... taken with panic, you suddenly raise your head, looking at the secretary. You moved so suddenly that Isabelle didn't even saw it coming, revealing you for a few seconds, the face of a girl who was looking at you with a grin...<br>\r\nIt quickly changes to a surprised face and Isabelle moves her legs from the desk.<br>\r\n<br>\r\n<span class=\"ctan\">\"-I... I... er... I guess the computer has loaded the data! Let me check!\"</span><br>\r\n<br>\r\nAnd she left once again... but at least this time, you know you didn't invented it... she saw you watching her feet and she seems to enjoy it. You are now even wondering : is she teasing you during all this time? For sure, she knows about your little secret now... where could it lead you? And why is she still typing every time she leaves you?<br>\r\n<br>\r\nYou try to lean a bit in order to see her face hidden behind the screen and you can see something even more suspicious... she's smiling... like if she was addressing a message or a mail to someone... and is having fun about it... Giving you a bad feeling about it.<br>\r\nAfter a few minutes, she finally finishes and comes to you, yawning and stretching.<br>\r\n<br>\r\n<span class=\"ctan\">\"Phew ! Finaly done! These machines are so hard to use... and I never been good with computer... But now, everything is done, I can finaly take a break!\"</span><br>\r\n<b>\"-You had a bad day, don't you?\"</b><br>\r\n<span class=\"ctan\">\"-I won't say bad, but tiring as usual...and my feet aches...\"</span><br>\r\n<br>\r\nThe magic word came out of her mouth, confusing you a bit.<br>\r\n<b>\"-R..really? I mean...how...\"</b><br>\r\n<span class=\"ctan\">\"-Look\"</span> she says showing you her soles again. <span class=\"ctan\">\"The skin is completely cracked... It's very painful... if only someone could give me some... care...\"</span><br>\r\n<br>\r\nIsabelle gives you a look that makes a real chill on your back... Such a fair opportunity was something hard to resist... but is it wise to start playing with the feet of someone you just met? Of course, a simple massage would be something harmless and innocent...but who knows the consequence of such an action?</span></div></div>",
+            "created":1543554000,
+            "id":2584215,
+            "title":"Registered as..."
+        },
+        "141":{
+            "author_id":"animeguy123",
+            "author_name":"Mr. Anime Guy",
+            "choices":[
+                "foot massage",
+                "toe sucking",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to take the job, and what will you do to take care of Isabelle?</span></div></span></div>",
+            "created":1548910800,
+            "id":2610419,
+            "title":"You take the opportunity (and go for a foot mas..."
+        },
+        "1411":{
+            "author_id":"chirza",
+            "author_name":"Chirz",
+            "choices":[
+                "Reader's Choice A",
+                "Reader's Choice B",
+                "Reader's Choice C"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided it'd be in your best interest to give her feet a good cleaning before you began. There was a box of sanitary wipes on the desk that you could use. <b>\"Can I use this?\"</b> You ask.<br>\r\n<br>\r\n<span class=\"ctan\">\"Of course.\"</span> Isabelle answers.<br>\r\n<br>\r\nSo you pull out one of the damp cloths from the container and begin by giving her soles and heels a gentle wipe. Already, through the cloth, you could feel the soft foot paws, making you ever more excited to massage her feet.<br>\r\n<br>\r\nSoon, you dig a little deeper into the fur and scrub away some dirt, dust, dead skin, and whatever else was caught in there. Isabelle tried to hold in some chuckles. She was surprisingly ticklish. This got a little harder for her to take as you began to scrub in between her toes. You could see her face scrunch ever so slightly as she held the giggles in.<br>\r\n<br>\r\nAfter you've finished cleaning out her feet, you use the wipe to brush the fallen dust into a trash can and throw it away. Now her squeaky clean feet sat right in front of you. The odor was replaced with a scent that reminded you of french vanilla. The fur that surrounded it shone brilliantly in the sunlight.<br>\r\n<br>\r\n<span class=\"ctan\">\"Like it?\"</span> Isabelle asked, tilting her head.<br>\r\n<br>\r\nIn response, you took her feet into your hands, exploring and getting a feel for it. It was the softest thing you've ever felt. Running your fingers through them felt amazing to the touch. Isabelle let out another giggle.<br>\r\n<br>\r\nYou begin by giving her heels and soles a little squeeze. It had quite a bit more give than expected, but it didn't matter much. Though sometimes... <span class=\"ctan\">\"Ack- Too tight.\"</span> She'd caution you if you squeezed a bit too tightly.<br>\r\n<br>\r\nNow you moved on to pressing the joint of your thumb into her feet and began to move it around. She made a very slight grimace, but you could tell it wasn't an unsatisfied one. It only had to do with the fact that you were pushing your thumb against her foot a bit hard, but not too hard. She sighs in comfort.<br>\r\n<br>\r\nLooks like you were both enjoying this. You, on one side, were enjoying how soft her feet were. Isabelle, on the other, enjoyed the wondrous foot massage you gave her.<br>\r\n<br>\r\nEventually, your hands would get tired and you'd stop. <span class=\"ctan\">\"Thank you. That was relaxing.\"</span> Isabelle says.<br>\r\n<b><br>\r\n\"It's nothing.\"</b> You reply.<br>\r\n<br>\r\n<span class=\"ctan\">\"Tee hee. You're really humble.\"</span> Isabelle replied back. <span class=\"ctan\">\"But now, concerning your registration...\"</span></span></div></div>",
+            "created":1578603960,
+            "id":2771614,
+            "title":"Isabelle's Foot Massage"
+        },
+        "1412":{
+            "author_id":"dez987",
+            "author_name":"Bendy037 ",
+            "choices":[
+                "Begin kissing her paws",
+                "Refuse and start struggling,  this is going a bit to far",
+                "You don\u2019t want to but you know you must... maybe you\u2019ll enjoy it?"
+            ],
+            "content":"<div class=\"\"><div> <span>You move your face towards Isabelle\u2019s cute toes and put a few of them in your mouth. Isabelle smiles enjoying your actions as she wiggles her toes in your mouth, causing you to blush a bit. \u201cAw... such a good little worker! I might just keep you here and have you be my little paw worshiper\u201d she said with a big smile on her face, as she proceeded to put her other foot onto your face rubbing it. You blush more at this action and let her keep teasing and massaging your face with her paw until you finish sucking the toes of her first paw and proceeded to do the same to her next paw. After a bit of worshiping she gets up and stands on top of you demanding you kiss her paws</span></div></div>",
+            "created":1554958800,
+            "id":2643755,
+            "title":"toe sucking"
+        },
+        "14123":{
+            "author_id":"larrypoof123",
+            "author_name":"Larry the writer",
+            "choices":[
+                "1",
+                "2",
+                "3"
+            ],
+            "content":"<div class=\"\"><div> <span>After A bit of thought you decide to kiss her paws you can feel Isabelle twitching everytime you kiss them and you start getting a little aroused by this and after some time Isabelle asks: \"Did you enjoy that my little slave?\" You nod yes as you feel like you are going to cum any second if you play with her feet more.</span></div></div>",
+            "created":1608885360,
+            "id":2963201,
+            "title":"You don\u2019t want to but you know you must... ma..."
+        },
+        "143":{
+            "author_id":"oliv_pale",
+            "author_name":"white olive",
+            "choices":[
+                "You'll have to follow her to her home.",
+                "You'll have to stay alone in the town hall, locked in a specific room.",
+                "You can go anywhere you want until tomorrow morning."
+            ],
+            "content":"<div class=\"\"><div> <span>You are thinking about her proposition and it's something very tempting as she's wiggling her toes right in front of you like a call for your passion... but you are someone with bascis of manners and despite the will you've got deep inside, having a foot relationship that early with someone you've just met is just something you can't do.<br>\r\nTo prevent any temptation, you control yourself and answer with courtesy : <b>\"This is a pity, hopefuly you'll be okay after some good resting! Well, I guess we're done with administration now, it's time to go back to my new home where I still got box to unpack... See you later !\"</b><br>\r\n<br>\r\nBut at the moment your hand was about to open the exit door, you're hearing voice of the girl.<br>\r\n<span class=\"ctan\"><br>\r\n\"-I fear you are going to the wrong way.\"</span> she says.<br>\r\n<br>\r\nNot understanding what she means, you turn back. She's still resting her feet on the desk, waving them, before you could ever ask, she adds.<br>\r\n<br>\r\n<span class=\"ctan\">\"I know what you're feeling and what you're trying to hide... and while I was filling the lines, I just sent an email to all inhabitants about your will to look for a job... and your little secret... since they are all checking them the morning, I bet you'll have a whole line of people at your door tomorrow...but If those mails are not read yet, I could edit them now, just mentionning the fact you are looking for a job...\"</span><br>\r\n<br>\r\nYour heart is bouncing, she found out your love for feet and now, it's a question of second before everybody knows... You don't know what she means when she said that they'll all line up at your door but you don't want to know. Will they turn you into somekind of slave since they all wants to be worshipped or will they chase you because of some hatred to people like you? You don't dare to ask and don't want to be discovered, not like that. Then you decide to ask what she wants.<br>\r\n<br>\r\n<span class=\"ctan\">\"What I want?\" </span>she says with a grin. You can see Isabelle opening a drawer of the desk, grabbing a sheet of paper and a pen using her feet only and points the pen to your direction.<br>\r\n<br>\r\n<span class=\"ctan\">\"I think you'll have to pay something to keep your house. So I guess you can get a job with me as my personnal assistant...\"</span><br>\r\n<b>\"-Just a job?\"</b> you said astonished. <b>\"But... I know nothing about administrative things...\"</b><br>\r\n<span class=\"ctan\">\"-Oh, don't worry, you won't need any knowledge... All you'll have to know is to lay on the ground for hours without speaking or moving... respect the time of your job... and do everything I'll tell you to do... Just sign up the contract, and I'll edit my mail moreover you won't have to pay anything to keep your house since it will be equal to your salary!\"</span><br>\r\n<br>\r\nYou come closer and start reading... Two year contract, a job consisting in staying in the town hall every weeks from 8am to 8pm from monday to friday. Many villagers will come in here and you'll have to do anything to be not noticed or else, more people will know... and this lesson is teaching you that such a thing will brings you more trouble... but she got you and now, you won't have the choice but to accept this duty.<br>\r\n<br>\r\n<b>\"-You will really edit the email? Are you sure you can do it?\"</b><br>\r\n<span class=\"ctan\">\"-Sure...!\"</span><br>\r\n<br>\r\nFor some reason, you've got the feeling she's not reliable on this promise but you unfortunately can't do anything but hope that she can be trusted. You take a deep breath, you grab the pen from her toes and start signing everywhere she points with her other foot. While you are signing, you can already smell her paws'scent. At the moment you finish filling the contract, she moans a bit, moves the paper away with her heel and moves them back in front of you.<br>\r\n<br>\r\n<span class=\"ctan\">\"Now it's time to put you to the test and see if you are suitable for the job... Rub my paws!\"</span><br>\r\n<br>\r\nYou take one of her paw, and start massaging. You blush in the process... you love feet and those are a real new experience. The pads and the hair are a new feeling to your fingers, the sweat flowing on your fingers after each moves gives you a new smell while the dirt and dust on it is sticking a bit on your flesh. Moving your thumb in circle slowly, up and down with a gently push, you can hear the secretary moanning and relaxing. This was a game and you are now wondering if such job won't be that bad if it's just massaging the tired paws of Isabelle secrectly but at the moment you are feeling more confident, something came to your face in order to keeps you uncomfortable : her second paw came to stick itself on your face.<br>\r\n<br>\r\n<span class=\"ctan\">\"That's it... breath deeply...and keep rubbing!\"</span><br>\r\n<br>\r\nShe moves her paw in order to keep your nose between her pawpad and toes, sometimes squeezing your nose to makes breathing in with even more strenght, inhaling more of her odor while you are feeling the sweat dripping on your lips and the dirt covering your skin. The time was like interrupted but at a moment, she exchanges her feet, ordering you to sniff and rub again. This awkward moment was a long humiliation and the fear that someone will come into the town hall was haunting you.<br>\r\n<br>\r\nOnce she decides it was enough, she asks you to stop and put her feet down on the ground.<br>\r\n<br>\r\n<span class=\"ctan\">\"You are doing well, you'll be a very good assisant but now, it's time put you in a real situation while I'll be retyping the mail. Approach the computer desk, now!\"</span><br>\r\n<br>\r\nYou do what she asks with still this little shyness. This foot game has been very exciting to you despite the fact it has been long... but you remember how many hours you are going to spend doing this job...<br>\r\n<br>\r\n<span class=\"ctan\">\"Lie down under the desk...\"</span> You looks at her a bit astonished but decide to complete the task anyway...Once you are in position, she moves a chair, sit down and you, her both feet are resting on your face. You can feel the hot soles on you, rubbing your cheeks and lips, pushing your mouth sometimes to force you to kiss them. This time got long, too long for simply editing an email...but you had to worship these feet, sniffing and kissing them. Then suddenly, one of them got on of it toes in your mouth, going up and down to ask you to suck it.. then another one, and another one... But at the moment you are the most excited, she stops. It was certainly something she did volunteerly to frustrate you so she could keep the pleasure for herself.<br>\r\n<br>\r\nShe moves her chair back and congratulates you.<br>\r\n<br>\r\n<span class=\"ctan\">\"End of the day! Good job assistant! It was your first evening and you did well! You can stand up now.\"</span><br>\r\n<br>\r\nYou stands up. She looks at you with a smile, feeling very satisfied. Hopefuly you could keep such efficiency everyday but as a job related to your fetish, you are getting more confident about it... maybe asking for more...<br>\r\n<br>\r\nAt the moment your sights crossed each other, she says:<br>\r\n<span class=\"ctan\">\"It's getting late! Time for me to go back home...\"</span><br>\r\n</span></div></div>",
+            "created":1544072400,
+            "id":2586578,
+            "title":"The contract"
+        },
+        "1432":{
+            "author_id":"oliv_pale",
+            "author_name":"white olive",
+            "choices":[
+                "Isabelle comes to let you start your first day of work",
+                "You woke up in a different place",
+                "Some trespasser comes at night and finds you"
+            ],
+            "content":"<div class=\"\"><div> <span>She looks at you with a smile, but it was not one of those that let you think she appreciates your person but one of those you can find when someone got plans in mind...as she's finishing her sentence :<br>\r\n<br>\r\n<span class=\"ctan\">\"...but since you didn't spent a whole day with me in this office as mentionned in the contract you've just signed, you'll have... a specific night session alone... but just for tonight... ...Follow me!\"</span> She says after several short pauses in her sentences.<br>\r\nThe girl then takes your hand and opens the door at the end of the office where no one goes except people working in the town hall.<br>\r\n<b>\"-Hey, what do you mean? And where are you leading me?\"</b><br>\r\n<br>\r\nYou ask while following her. As she showed herself very playful a few minutes ago, the fact she got an idea just for you gave you a real bad feeling about what is going to happen... she enjoyed teasing and playing with her paws on you, what is she going to do with you if she's going to leave.<br>\r\n<br>\r\nSo she finaly reaches a door and opens it, inviting you to go in first.<br>\r\n<br>\r\n<span class=\"ctan\">\"-Here we are, please go in.\"</span><br>\r\n<br>\r\nAt the moment you enter the room, some strong smell striked your nostrils and once she turns on the light, everything was more clear : the place is a storage room with several shelves filled with old shoes and socks and a couple of chairs between them.<br>\r\n<br>\r\nSurprised and confused, you naturaly ask about the purpose of the room. The dog-woman giggles <br>\r\n<span class=\"ctan\">\"This is obviously our shoes and socks storage! People in town don't use to wear them such like you, prefering walking barefoot but for winter when it's too cold or sportive events, having such clothing is always useful... so since people don't need them everyday in their life and don't feel the need to store them at home, we have decided to store them in the town hall so they could borrow some pairs of socks and shoes if they need it just by asking and signing a list and a delay to return it...thus it happens nigh everytime that they don't have the time to wash them... and give them back dirty, sweaty and of course smelly... And it's not my job to wash them so... it's getting worse every years.\"</span><br>\r\n<br>\r\nDuring her long monolog, you're wandering, looking around the storage room and the look of the shoes and socks... there were many colors despite the fact most of them turned yellow, brown or even black because of the dust, dirt and sweat gathered after all that time... Once it's finaly your time to speak, you lean on one of the shelves and say :<br>\r\n<b>\"-So I guess... you want me to clean them all? Where is the washing machine?\"</b><br>\r\n<br>\r\nAt the moment you asked your question, a large grin appeared on Isabelle's lips.<br>\r\n<br>\r\n<b>\"What did I said wrong?\"</b><br>\r\n<span class=\"ctan\">\"-You guessed right about the task but I fear there is no washing machine in here...\"</span><br>\r\n<br>\r\nIsabelle come closer to you, grabbing secretly something from her purse... before suddenly using it on you.<br>\r\n<br>\r\n<span class=\"ctan\">\"-I fear you'll be the machine... and your first night session will start now!\"</span><br>\r\n<br>\r\nShe attached one of your hands to one bar of the shelf with cuffs. And soon will do the same with your other hand.<br>\r\n<br>\r\n<span class=\"ctan\">\"Calm down, everything's gonna be right... just sit down and say 'Haa', let me do... and you'll be fine until tomorrow morning... Let's see...\"</span><br>\r\n<br>\r\n<b>\"-Isabelle, please!\"</b><br>\r\n<br>\r\n<span class=\"ctan\">\"-I use to love wearing these pink ones... the green one too! The white one there is very very grimy.. but let's see how he's gonna be efficient...\"</span><br>\r\n<br>\r\nYou plead, tried to notify her that you were not fond of the plan despite your fetish... but she didn't listened a word of what you said and comes to you with about seven pairs of socks in her hands that she holds like if it was a bouquet of socks instead of flowers, pushing it against your face.<br>\r\n<br>\r\n<span class=\"ctan\">\"Tell me what you think about it? Foul isn't it? Be very cautious with it, I enjoy wearing them when I've got the opportunity to wear them...\"</span><br>\r\n<br>\r\nAnd she starts pushing them into your mouth as much as she can... at the end, only one very smelly pair of light blue and black socks could not enter... but it wasn't enough to stop the excited dog.<br>\r\nShe takes some duct tape and stickes on your mouth so they could help on preventing you from spitting the present she gave you while sniffing them.<br>\r\n<br>\r\nThen she steps back to see the result of her work and if you were in the best position to execute your duty. In your case, you are now unable to move or say a word, just having the taste of the salty sweat-covered fabric of the socks while the foul scent was still invading your nose... You thought she was done and you'll be at peace for the night despite this humliating and awkward position but you have forgotten the rule about such situation : it always can be worst.<br>\r\n<br>\r\nThe girl takes a shoes and approaches to your position.<br>\r\n<span class=\"ctan\">\"These shoes are my favorite ones... I wear them every winter and every sportive activities in summer... I want you to tell you all these days... but with the smell made from the effort...\"</span><br>\r\n<br>\r\nThen she put her shoe against your face, tied up the shoelace around your head, and reinforced it position with more duct tape.<br>\r\n<br>\r\nThe Isabelle's smell was already a thing when she pressed her pads against your face after a day of work, but now, it was about sweat gathered after monthes and certainly years of wearing despite being unused for the rest of the time... offering you a very strong cheesy scent that could have made you coughing. In the meantime, the dog-girl was leaving the room.<br>\r\n<br>\r\n<span class=\"ctan\">\"Have a good night newcomer. I'm pleased to have been helpful to you and hope you're gonna spend a nice first night in your new home, haha... See you tomorrow!\"</span><br>\r\n<br>\r\nShe turns the light off and left, closing the door behind and locking it.<br>\r\nNow blind in darkness and unable to move in a very silent room, all your senses are now focus on you lonely working ones : your sense of smell and taste.<br>\r\n<br>\r\nThe wet socks savor never left you once time for the night, while the rancid odor didn't calmed down after that much breathing.<br>\r\nYou tried to get used to it and sleep. It was an hard thing to do, but it was certainly the best thing to do in order to make this game softer. You didn't know how many time you had to struggle to finaly sleep but for sure you suffered from this funny situation for hours.<br>\r\n<br>\r\nUntil you wake up...</span></div></div>",
+            "created":1550206800,
+            "id":2618305,
+            "title":"Socks keeper..."
+        }
+    },
+    "info":{
+        "author_id":"buizu",
+        "author_name":"Zura",
+        "brief_description":"~Up to 8,000GP per add!~ Animal Crossing villagers want you to play with their feet!",
+        "created":1537471920,
+        "description":"<td align=\"left\" class=\"norm\"><b><u>Welcome to Anytown!</u></b><br>\r\nYou've just moved into a town full of animals, and they're all eager to greet you... in a rather peculiar way: with their feet!<br>\r\n<br>\r\n<u><b><span class=\"cgreen\">REWARDS</span></b></u><br>\r\nTo get this story going, I'm offering <i>up to</i> 8,000 GP for every full, well-written chapter! This reward will likely be lowered in the future, so get writing!<br>\r\n<br>\r\n<b><u>RULES</u></b><br>\r\n1.) This story should focus around the main character playing with the feet of the various characters in Animal Crossing. The way this happens could be as something as innocent as a villager asking the MC for a foot massage, to a sadistic villager kidnapping and making the MC worship their feet against their will.<br>\r\n2). The main character's gender is ambiguous by default, but if you wish to create chapters that imply a specific gender (eg. being male to receive a footjob), you can do so as long as you label the chapter appropriately. Send me a message if you need an option changed.<br>\r\n3.) Any and all official Animal Crossing villagers and NPCs are allowed! No fan characters, sorry.<br>\r\n4.) Macro/micro is okay <i>in moderation</i>. This is <i>not</i> a shrinking story, and if the main character is shrunk, it should only be for footplay purposes.<br>\r\n5.) The main character has a foot fetish. Whether a villager knows that or not is up to you to decide.<br>\r\n6.) Dirty feet, socks, shoes, etc. are a-okay! (It's not like many of the villagers wear shoes, anyway!)<br>\r\n7.) No deaths; no story-ending chapters.<br>\r\n8.) When adding new characters to the story, please add them to the appropriate main section (town villagers/regular NPCs/special NPCs)! If you're not sure where a specific character would belong, check each section to see example of characters for that section, or send me a message.<br>\r\n<br>\r\nIf you have any questions, are not sure where to place a chapter, or need to edit something, please send me a message and I'll be happy to help you!<br>\r\n<br>\r\nHave fun!<br>\r\n</td>",
+        "id":2169743,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1608885360,
+        "modified":1608885360,
+        "pretty_title":"Animal Crossing: Foot Forest"
+    }
+}

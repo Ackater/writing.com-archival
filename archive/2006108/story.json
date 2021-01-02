@@ -1,0 +1,429 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "boy",
+                "girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Standard pokemon question: are you a boy or a girl?</span></div></span></div>",
+            "created":1408856400,
+            "id":1846930,
+            "title":"start"
+        },
+        "11":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "pokemon",
+                "human"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pokemon or human?</span></div></span></div>",
+            "created":1408856400,
+            "id":1846931,
+            "title":"boy"
+        },
+        "111":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "Pikachu",
+                "Charmander",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what Pok\u00e9mon are you?</span></div></span></div>",
+            "created":1409029200,
+            "id":1847709,
+            "title":"pokemon"
+        },
+        "1111":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "look for food",
+                "wonder around",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>your eyes flutter open to a blue sky. you stand up and see your in a bright medow, but nothing is around. you rub your face and immediately feel electricity run through you. the weird thing was, it didn't hurt... you looked at your arms and saw they were yellow, and you had paws instead of hands. you walked over to a nearby pond and looked into it, and saw you looked a lot like a yellow mouse.<br>\r\n<br>\r\nthinking for a bit, you realized you were Pikachu! but, you were human yesterday, what happened? you yawned, and thought about what to do next.</span></div></div>",
+            "created":1409288400,
+            "id":1848942,
+            "title":"Pikachu"
+        },
+        "1113":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Froakie",
+                "Starly",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK...erm, so, what else would you rather be?</span></div></span></div>",
+            "created":1409979600,
+            "id":1853110,
+            "title":"other"
+        },
+        "11132":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "...it was just nothing.",
+                "\u2026a Pokemon leaps out at you."
+            ],
+            "content":"<div class=\"\"><div> <span>You hear a pleasant sound around you. The sound of trees swaying in the wind, along with the subtle interruption of a calling bird Pokemon. \"Huh. Funny. I don't remember buying a tape like that for my radio. Oh, well, it is very relaxing.\" you muse to yourself.<br>\r\n<br>\r\nHesitantly, you decide to get up, even though it will ruin the little bit of peace you're getting as you're imagining yourself there in a beautiful clearing in the middle of the forest, with various flowers blooming all around. Slowly, your eyes drift open. At first, you thought you were still sleeping, because what you saw was exactly what you were imagining just a few moments ago. But then, you realized that the feeling of the wind felt a bit more real than you realized before. And you could smell the sweet scent that the flowers were giving off, instead of the usual smell of the smog you had in your room.<br>\r\n<br>\r\nYou tried to pinch yourself to see if you really were still dreaming, but you found your fingers weren't working very properly. It was then that you had noticed that it wasn't just your surroundings that had changed, but you had too! You were completely covered in feathers, which were mostly grey. Your arms were now a pair of wings, which explains why you couldn't use your fingers. And your legs had shortened drastically, and your feet had become talons.<br>\r\n<br>\r\nAs you were gawking at your new form, suddenly you heard a rustle in a nearby bush. You then find out that...</span></div></div>",
+            "created":1409979600,
+            "id":1853119,
+            "title":"Starly"
+        },
+        "112":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "Pokemon Trainer",
+                "Professor",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What profession are you pursuing?</span></div></span></div>",
+            "created":1409547600,
+            "id":1850855,
+            "title":"human"
+        },
+        "1121":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "Kanto",
+                "Hoenn",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what region is your starter from?</span></div></span></div>",
+            "created":1410757200,
+            "id":1857198,
+            "title":"Pokemon Trainer"
+        },
+        "11211":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "Squirtle",
+                "Bulbasour",
+                "Charmander"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what pokemon do you want?</span></div></span></div>",
+            "created":1410800100,
+            "id":1857205,
+            "title":"Kanto"
+        },
+        "112111":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "a person",
+                "a pokemon"
+            ],
+            "content":"<div class=\"\"><div> <span>I spun the pokeball in my hand idly, kind of the way you'd spin an object you were inspecting. it had only been a few days, and I already had a starter pokemon, a Squirtle that took a liking to me when Professor Oak found me. at the moment, that was the only pokemon I had, and I didn't have any empty pokeballs with me.<br>\r\n<br>\r\nI decided to let it out, couldn't hurt, could it? I tossed it into the air, and it sent out Squirtle.<br>\r\n<br>\r\n\"Squirtle!\"<br>\r\n<br>\r\nas I caught the pokeball, Squirtle looked at me \"hiya little guy\" I said, smiling.<br>\r\n<br>\r\nbut he wasn't paying attention to me, as his focus was behind me. turning around, I saw...</span></div></div>",
+            "created":1410800820,
+            "id":1857211,
+            "title":"Squirtle"
+        },
+        "1121111":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "yes (shy)",
+                "yes (confidant)",
+                "no (other)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>the person was definitely female...but was she a trainer?</span></div></span></div>",
+            "created":1410801060,
+            "id":1857213,
+            "title":"a person"
+        },
+        "11211111":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "\"I w-want to battle\" (challenge)",
+                "\"I...uh...\" (actually lost)",
+                "\"umm...\" (other)"
+            ],
+            "content":"<div class=\"\"><div> <span>there was a young girl standing there, one hand behind her back, and the other holding a pokeball.<br>\r\n<br>\r\n\"hi there\" I said \"are you lost?\"<br>\r\n<br>\r\n\"n-no\" she said.<br>\r\n<br>\r\nI looked at the pokeball, then at Squirtle. the girl was looking at Squirtle as if he could be a threat...which most people didn't think. I determined she could want a battle...but I didn't know for sure...<br>\r\n<br>\r\nwe were well away from any town, so I couldn't figure out why she was there \"why are you here then?\" I asked</span></div></div>",
+            "created":1410801420,
+            "id":1857215,
+            "title":"yes (shy)"
+        },
+        "112111111":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "Charmander",
+                "Pidgy",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>she held up the pokeball as if trying to pose...wasn't very effective though.<br>\r\n<br>\r\nI thought for a moment. the challenge took me by surprise, but I knew many kids who were training...<br>\r\n<br>\r\n\"I accept your challenge\" I said. I backed up a bit, to give room for a fight \"go, Squirtle!\"<br>\r\n<br>\r\n\"Squirtle!\" Squirtle ran in front of me.<br>\r\n<br>\r\nthe girl looked determined, but still a bit unsure of herself. she threw a pokeball \"go...\"</span></div></div>",
+            "created":1413216600,
+            "id":1870906,
+            "title":"\"I w-want to battle\" (challenge)"
+        },
+        "1121111111":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "\"I don't have any money...\"",
+                "\"maybe I could learn something from you\"",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Charmander!\" Charmander appeared in front of Squirtle.<br>\r\n<br>\r\n\"you know how to battle, right?\" I asked<br>\r\n<br>\r\n\"o-of course\" she said. I couldn't tell if she was still shy, or if she didn't know how to battle well \"Charmander use...uh...scratch!\"<br>\r\n<br>\r\ncharmander lunged at Squirtle. I didn't even have to tell him to get out of the way \"counter with bubble!\" I called.<br>\r\n<br>\r\nSquirtle shot out bubbles at Charmander. either it was a criticle hit, or the Charmander was weak, because Charmander was out.<br>\r\n<br>\r\nthe girl returned Charmander \"I guess I lost\" she said quietly.<br>\r\n<br>\r\nI felt bad for her \"it's ok, some of the best battles are the ones you loose\" I said<br>\r\n<br>\r\nshe looked up at me \"I suppose you're right\" she said \"but...\"</span></div></div>",
+            "created":1413216960,
+            "id":1870907,
+            "title":"Charmander"
+        },
+        "11211111111":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "get there without incident",
+                "someone stops us",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>she was quietly looking down. it was obvious she was scared of what I might say or do, but I didn't really care if she paid me or not. however, someone else might, and she obviously was in no condition to be alone...<br>\r\n<br>\r\n\"then how about you join me instead?\" I asked \"wouldn't hurt having a human companion with me after all\"<br>\r\n<br>\r\nshe looked at me \"really?\" she asked. before I could say anything, she hugged me \"thank you so much!\"<br>\r\n<br>\r\nI smiled at her \"what's your name?\" I asked.<br>\r\n<br>\r\n\"Emma\" she replied<br>\r\n<br>\r\n\"well, Emma, how about we go into town and heal your Charmander?\" I suggested.<br>\r\n<br>\r\n\"ok!\" she said excitedly. I returned Squirtle, and we walked off to the nearest town.</span></div></div>",
+            "created":1413218400,
+            "id":1870913,
+            "title":"\"I don't have any money...\""
+        },
+        "11211112":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "\"I'm looking to train\" (battle)",
+                "\"I'm looking for some pokemon\" (competition)",
+                "\"well...\" (other)"
+            ],
+            "content":"<div class=\"\"><div> <span>a girl about my age stood in front of me, one hand on her pokeball, and the other in her pocket. \"hi there stranger\" she said<br>\r\n<br>\r\n\"hi yourself\" I replied, a bit confused.<br>\r\n<br>\r\nshe smiled, spinning the pokeball slightly \"so, what brings you so far from town?\"<br>\r\n<br>\r\n\"well, I'm a trainer\" I said, gesturing to Squirtle \"so I'm training...what about you?\"<br>\r\n<br>\r\nher eyes sparkled...</span></div></div>",
+            "created":1418322540,
+            "id":1900942,
+            "title":"yes (confidant)"
+        },
+        "1122":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "\"I'll see you tomorrow.\" You call out.",
+                "\"Caleb, wait up!\" You call out."
+            ],
+            "content":"<div class=\"\"><div> <span>On a rather hot, sunny day, you exit the front doors of the academy you've been attending for a few years; The P&amp;S (Pok\u00e9mon &amp; Science) Academy. A private school your parents took you to everyday aside the holidays. You were well educated in the anatomy of Pok\u00e9mon and the world in which both humans and Pok\u00e9mon share. Granted, you didn't get to leave school like a lot of the trainers, but at the end, it was well paid off. Besides, within a couple short weeks, you'll be just as free.<br>\r\n<br>\r\nIt was only May, but summer sure rolled around rather quickly. You grab your shades that dangled on your chest pocket and put them on. Finally, you could see without squinting your eyes. As you did so, you could see your friend, Caleb, walking further ahead of you.<br>\r\n<br>\r\n\"Caleb, wait up!\" You shouted as you started running toward him. With his headphones on, he was lost in a musical world and oblivious to his surroundings. Once you caught up to him, however, he was knocked out of his hypnotic-state. \"Didn't you hear me?\"<br>\r\n<br>\r\n\"Sorry.\" Caleb said as his placed his headphones around his neck. His bubble tended to be harder to pop than most. He wasn't always like that though. Use to be outgoing once before, but then- \"Are you headed to the lab?\"<br>\r\n<br>\r\n\"Yep.\" You reply as you bring your mind back to focus. \"Helping out with some evolution research that Professor Elm's been looking into. Can you believe that there's a thing called Mega Evolution?\"<br>\r\n<br>\r\n\"Didn't Professor Sycamore already discover that?\"<br>\r\n<br>\r\n\"Well, you know how his curiosity gets the better of him. Besides, ever since Professor Sycamore was revealed to be involved with Team Flare, it's possible that he only looked into what benefited the team rather than what it can really do.\"<br>\r\n<br>\r\nYou notice Caleb smile slightly at the thought. You two come across a four-way intersection that's in between you and the lab. \"Guess this is where we split.\" Your best friend said.<br>\r\n<br>\r\n\"You should volunteer at the lab. It's a lot of fun, believe it or not.\" You said. Seeing that you didn't sway Caleb whatsoever, you place a hand on his shoulder. \"It'll get your mind off of things.\"<br>\r\n<br>\r\nCaleb stares at you for a moment. What could you do to ease the pain that you could clearly see in his eyes?.. Before contemplating much longer, Caleb turns around as he makes his way home.<br>\r\n<br>\r\nYou consider going with Caleb. With you just volunteering at the lab, it wouldn't hurt to just not show up. Your friend does need help lightening up. Then again, you don't want to push him too far to where he'll never speak to you again.</span></div></div>",
+            "created":1409547600,
+            "id":1850885,
+            "title":"Professor"
+        },
+        "11221":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "\"Hello, Quinn!\" She replies.",
+                "\"Hello, Alvin!\" She replies."
+            ],
+            "content":"<div class=\"\"><div> <span>You wish you could help Caleb somehow, but you didn't know how except to just act as if nothing's wrong. Heck, you have problems you've yet to solve yourself, like how you ended up in the Pok\u00e9mon world. For a while, you tried vigorously to solve your own mystery. It's been about... five years now? You can't seem to recall exactly anymore. It was long ago there after that you accepted your fate and stopped trying to find the answers to your questions. You could still remember the day...<br>\r\n<br>\r\n---<br>\r\n<br>\r\nThe smell of rain was strong in the air. A cool breeze flows throughout the forest of trees as they dance with their many limbs. It's the first thing you notice when you open your eyes.<br>\r\n<br>\r\nThe first thing you think of is how you got here. You try to think very hard, but a headache suddenly overwhelms you as you grunt in pain. That's when you notice how incredibly cool the mud underneath you feels. Normally you'd get out of the muddy mess instantly, but it felt good to your swollen head. Besides, your head felt oddly heavy to lift anyway. You would lift your own head, but with the pain you're feeling, you were afraid to discover something you didn't want to know. Panicking was the last thing you needed right now.<br>\r\n<br>\r\nAfter a brief moment of silence, you hear some sort of ruffling close by. <i>\"Oh, no.\"</i> You thought. You wanted to call for help, but you were too afraid. Maybe the animal will leave you alone if you don't make a sound.<br>\r\n<br>\r\nYou lay there in silence for a what you presume was ten minutes. Your muscles were getting stiff from consciously staying absolutely still. A crazy thought enters your mind to roll over on your side to see what was might be there watching you. Surely, the creature was long gone, but your curiosity was getting the better of you. Using more willpower than strength, you swing yourself to your side. As you do, you feel the pain in your head shift painfully along with your movement. As you go to squint your eyes from the pain, you briefly notice something standing a few feet away from you. With your mind too focused on the pain, it shortly after causes you to pass out.<br>\r\n<br>\r\n---<br>\r\n<br>\r\nYour thoughts are interrupted as you notice Professor Elm's lab in front of you. This was usually the best part of your whole day. Working in the lab was always exciting. Seeing many different Pok\u00e9mon and learning about so much interesting discoveries. There was always something to look forward to.<br>\r\n<br>\r\nThe smell of... well... cleanliness? You never could put a name to the smell, nor have you ever figured out what the smell was. Surely, it's some sort of cleaning chemicals, but it wasn't ever important to you. It was good enough for you to know that the lab had a welcoming smell to it when you entered through the front doors.<br>\r\n<br>\r\nThe desk was unoccupied, but you shrugged off the fact that whoever's running the desk must be on a quick break of some kind. You walk up to a secured door as you pull out your security card. Once you slap the front of the card on a darkened square by the door, a green beam scans the card. Shortly after, the door clicks, indicating that it's unlocked.<br>\r\n<br>\r\nJust before you walk through, you hear someone return to the desk. Turning around, you see Hillary. You've always known her to stand by the desk as she helps guiding visitors to wherever they need to go. \"Afternoon, Hillary.\"</span></div></div>",
+            "created":1409720400,
+            "id":1851981,
+            "title":"\"I'll see you tomorrow.\" You call out."
+        },
+        "112211":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "To the Day Care.",
+                "Something happens along the way."
+            ],
+            "content":"<div class=\"\"><div> <span>You walk in to see a number of professors working on whatever projects that have gotten them focused. Some go as far as being oblivious to his or her surroundings. You make your way toward the back of the lab, where you see a familiar face.<br>\r\n<br>\r\n\"Ah, Quinn.\" Professor Max said. He had been assigned to help Professor Elm with the studies on Mega Evolution. \"I was hoping you would make it.\"<br>\r\n<br>\r\n\"Why were you concerned? I come by every day.\" You say as you grab a lab coat that's conveniently close by. The fabric was stiff as always. They're always cycled through as they get washed thoroughly. You imagine that the intense cleaning detergent from the wash room is what keeps the lab coat so stiff.<br>\r\n<br>\r\n\"Professor Elm is out of town for the month. He said that he was going to visit a friend.\"<br>\r\n<br>\r\n\"Who?\"<br>\r\n<br>\r\n\"I don't know. He didn't say.\"<br>\r\n<br>\r\nYou wondered who Professor Elm found important enough to leave his work, and for that long. Another Professor maybe? After all, does Professor Elm have much of a social life outside of his work? As insulting as the thought occurred to you, he was always seen here and the only thing ever coming out of the man's mouth was words of wonders and theories. He did have a good sense of imagination.<br>\r\n<br>\r\n\"How far have you gotten?\" You asked; changing the subject.<br>\r\n<br>\r\n\"Well, I can confirm one thing for sure.\" Max said. \"There's a reason Mega Evolution was discovered in Kalos.\"<br>\r\n<br>\r\n\"Because the stones are only found in Kalos. Anybody sane enough knows that.\" You say. Professor Max grins. At first, you took it as him laughing to himself. A moment later, you realize he discovered something else. \"What else?\"<br>\r\n<br>\r\nMax points at a screen close by him. \"Tell me what you see.\"<br>\r\n<br>\r\n\"Nothing?\" You say as you see the screen. It lists some scientific stats, but all register as negative or 0.<br>\r\n<br>\r\nA slight shuffle catches your attention as you see Max touch the stone. Instantly, the screen comes alive with information. \"The stone's alive?\"<br>\r\n<br>\r\n\"Not exactly.\" Max explains. \"It's merely asleep until a host makes contact with the stone.\"<br>\r\n<br>\r\n\"Host?\" You ask. A thought of alien invasions enter your thoughts.<br>\r\n<br>\r\n\"Yes.\" Max said as he removes his finger from the stone. However, when you look at the screen, none of the stats change.<br>\r\n<br>\r\nYou stare blindly for a moment. \"What does this mean?\"<br>\r\n<br>\r\n\"Honestly, I don't know. But, this does explain why Pok\u00e9mon mega evolve. The stones only allow the Pok\u00e9mon to mega evolve if they're filled with happiness or joy. It's probably why the stones true power weren't discovered a long time after they were found.\"<br>\r\n<br>\r\n\"So, does that mean Pok\u00e9mon can mega evolve on their own?\" You ask.<br>\r\n<br>\r\n\"It's possible. The stones tend to react to each other when close by. I assume that the bond of the stones, or the Pok\u00e9mon and its trainer, doubles the chances.\"<br>\r\n<br>\r\nYou can't help but smile on the discovery. Granted, it's hardly anything to get excited about, but it does bring hope to other possibilities. \"What can I help you with?\" You ask eagerly.<br>\r\n<br>\r\n\"I've got a task that I think you'll like.\" Max said as he retreats briefly from his studies. He grabs a file and hands it to you. \"I need you to pick up a Pok\u00e9mon from the Day Care for me.\"<br>\r\n<br>\r\nThis was pretty exciting for you. Throughout the years, you've yet to claim a Pok\u00e9mon as your own. You've made various acquaintances, if you consider a Pok\u00e9mon and human to share such a relationship status amongst one another, but between the Pok\u00e9mon you see and home, the school, and the lab, they've only been brief. Only in your life long enough to serve whatever purpose set before them.<br>\r\n<br>\r\n\"Great! I'll get right on it!\" You say as you head out.<br>\r\n<br>\r\n\"You don't need a lab coat.\" You hear Max say. At first, it didn't bother you to wear it. As you made your way outside, the heat quickly made you reconsider as you briefly go back to remove your coat.</span></div></div>",
+            "created":1409979600,
+            "id":1853041,
+            "title":"\"Hello, Quinn!\" She replies."
+        },
+        "1122111":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "You find Mareep.",
+                "You fail to find Mareep."
+            ],
+            "content":"<div class=\"\"><div> <span>Your walk to the Day Care wasn't bad at all. Though you've yet to get over the hot and humid day, you didn't mind the exercise. Though you have other transportation options, you usually preferred your own two feet, unless it'd take over a hour or so by foot. The walks helped you ease your mind of any stress or worries that infect your mind.<br>\r\n<br>\r\nThe Day Care wasn't nearly as big nor popular as the one on Route 34, but was convenient all the same. As you approached, you saw behind the wooden fence a young girl putting food out for the Pok\u00e9mon. They acted as if they hadn't been feed all day as they practically tackled the girl, though she managed to stay on her feet.<br>\r\n<br>\r\nOpening the front door filled you with disappointment as you didn't feel any air conditioning. How everyone continues to work beats you, for you know you'd practically die after a couple hours in these conditions. It gave you a bit more respect for those working here to continue caring for the Pok\u00e9mon.<br>\r\n<br>\r\n\"Hello.\" A elderly woman greets from across the counter. You smile as you walk up to her. \"Looking to adopt?\"<br>\r\n<br>\r\n\"Not exactly.\" You say. You give her the folder that you'd been holding. It occurred to you then that you never once looked inside. It was obviously adoption documents, but you could've at least seen ahead of time what Pok\u00e9mon was being adopted.<br>\r\n<br>\r\n\"I see.\" the woman said as she looked at the document. \"Was wondering when he'd send someone to pick up the fluff ball.\" Her comment only peaked your curiosity that much more. The answers were right in your hands, and you were beating yourself up for not even taking a quick peak.<br>\r\n<br>\r\n\"You wait right there, hun. I'll be right out.\" She said before walking out the back door. You sat on one of the chairs and waited. On a small side table, you saw outdated magazines from vacation spots to the latest political news. It made you think of how peaceful things have been lately, or at least it had been since the Team Flare incident 2 years ago. You didn't mind the peace, but you wondered how long it'd last.<br>\r\n<br>\r\nThe back door swings open again, causing you to stand back up. The elderly woman held a Pokeball in her hand as she approached the counter once more. She then placed the ball on the counter.<br>\r\n<br>\r\n\"Here you go.\" She said. You notice how bland she's been acting since you walked in. Guess she's not a people person.<br>\r\n<br>\r\n\"Thank you, Donna.\" You say, seeing her name on a card that dangled on a neck strap she wore.<br>\r\n<br>\r\nShe looked surprised, which was the first emotion you'd gotten out of her. Not planning on irritating the woman anymore than the impression she gave, you grab the Pokeball and walk out the door.<br>\r\n<br>\r\nOnce you get a little distance between you and the Day Care, you decided to release the Pok\u00e9mon. Generally, you could get in trouble for messing with the lab's property. With no one to possibly know what you do in between destinations, what could possibly go wrong?<br>\r\n<br>\r\nThe ground shone a moment before revealing the Pok\u00e9mon inside. As the light dimmed, a Mareep appeared. It seemed quite happy at first, but confusion soon washed over its face.<br>\r\n<br>\r\nYou knelt down so you weren't towering over the small Pok\u00e9mon. A smile crept on you face as you couldn't help but feel joy as you marveled on its cuteness. However, you wouldn't let anyone catch you admitting something like that.<br>\r\n<br>\r\nYou stretched out your arm so the Mareep good see you mean no harm. It looked at your hand for what seemed like a millennium. Though, just before you decided to change your approach, it crept up to your hand and smelled your scent. You figured the little guy... or girl... was trying to understand the situation it was in.<br>\r\n<br>\r\n\"Mar, Mareep!\" It exclaimed with a big smile. You scratched the sheep's ear, which it seemed to like a lot. However, before you could further react to the Pok\u00e9mon, it looked over to its left as if something caught its attention. You look at the same direction to see what Mareep was seeing. The only thing you could see were a couple of houses with a tree line behind them. Was something in the woods? Your worst nightmare came as, out of nowhere, Mareep took off toward the woods.<br>\r\n<br>\r\n\"Wait! Mareep!\" You shout. It was no use. Your heart raced as you feared what Professor Max, or worse, Professor Elm, would do to you if you didn't come back with the Pok\u00e9mon. Just because Elm was out of town didn't mean you could get away with something this terrible. Without a second thought, you darted after Mareep.</span></div></div>",
+            "created":1409979600,
+            "id":1853377,
+            "title":"To the Day Care."
+        },
+        "11221111":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "The next day.",
+                "As some time passed."
+            ],
+            "content":"<div class=\"\"><div> <span>Running blindly through the woods, you began to lose hope. Mareep was no where in sight. As far as you could tell, the Pok\u00e9mon could be anywhere. You kept running straight ahead, even with the constant thought that Mareep may have changed directions at anytime.<br>\r\n<br>\r\nA rumbling vehicle was heard. Figuring that the vehicle is what drew Mareep into running in the first place, you decided to investigate. Approaching the sound more slowly, you begin to see an unfamiliar car... or truck? Definitely not your everyday vehicle. You crouch behind a bush to hide from whoever might be around. Though you could see a couple guys in uniform, it was unfamiliar to you as in who they were. A chill ran up your spine as your instincts tell you to get out of there, but you couldn't. You had to see if Mareep was there.<br>\r\n<br>\r\nSure enough, you found the Pok\u00e9mon unconscious in one of the guy's arms as they put Mareep in the back of the van. Unfortunately, you were at an angle that prevented you from seeing what was inside. However, that didn't bother you as much as what trouble you were going to face when you got back to the lab.<br>\r\n<br>\r\n\"I always wanted an Ampharos in my team.\" One of the guys said.<br>\r\n<br>\r\n\"What makes you think its yours?\" You said. You come out of hiding with your random surge of courage, though you honestly had no idea what you were doing. It wasn't like you expected them to hand back your Pok\u00e9mon.<br>\r\n<br>\r\nBoth of the guys instantly pulled out a pistol-like weapon as they looked at you alerted. You flinch instantly, fearing they'd shoot.<br>\r\n<br>\r\n\"Where did you come from? Have you been watching us?\"<br>\r\n<br>\r\nYou stay silent. Unsure what to do. You were too afraid to run which is what you wanted to do really bad. Your heart raced really fast as you thought that you were going to die.<br>\r\n<br>\r\n\"Put down the gun.\" The other guy said. \"He's not going to hurt us.\"<br>\r\n<br>\r\nIt was hard to distinguish who was who with the bandanas around the lower half of their face. Seeing the black and purple uniform, you tried to figure out who they were. Obviously not Team Rocket... Unless they changed their uniform, but even if they did, you doubted they would leave out the symbolic R on their clothing. There were no symbols or signs to identify who they might be working for. One thing's for sure, they're up to no good.<br>\r\n<br>\r\nThe two put away the threat of a barrel aimed at you as they started getting in their van. What drew them to drive through an unpaved road confused you. It couldn't have been just to get your Mareep. What are the odds that a Pok\u00e9mon runs up to you for you to catch? Or steal in this matter. That's when you realized that they never used a Pokeball to catch the Pok\u00e9mon. They merely put it knocked out in the back of the vehicle. You found that kind of unusual for someone to claim a Pok\u00e9mon without actually catching it.<br>\r\n<br>\r\nYou watched as they drove past you. It was then that fear finally let go of you. For whatever unknown reason, you chased down the van. A small glimmer of hope rose in you; filling you with the thought that if you could find out where they were going, you could track them down. Maybe then the Professor won't be so mad at you.<br>\r\n<br>\r\nAs you ran, you soon came across the wood line. Past the trees, you saw the lab just down the road... which is where the van had stopped. You slowed your pace when the two got out of the vehicle. This time, however, one had a Pokeball in hand. Throwing it, a Charizard appeared. Never had you ever seen a Pokemon so gigantic.<br>\r\n<br>\r\nThe unbelievable happened before your eyes. The Charizard blew a large flame out of its mouth at the lab, causing it to burn. Shortly after, the building and all those you\u2019d been working with exploded. A force of wind pushed you on the ground. A brief moment of confusion washed over you as car alarms were going off left and right.<br>\r\n<br>\r\nPeople around you ran for their lives as they screamed in fear. You wanted to do the same, but courage took over once again as you got up and ran toward the action. Hoping someone was alive, you ran toward the burning lab.<br>\r\n<br>\r\n\u201cCharizard, take care of the pest.\u201d You hear one of the guys command. Just before you reach the burning building, an orange tail swooped in front of you as it hit your chest. Pain engulfed your senses as you were sent flying to who knows where. With your mind and vision spinning, your mind struggled to keep up with what was going on. As you felt yourself hit something solid, everything stopped as sleep overcame your senses.<br>\r\n</span></div></div>",
+            "created":1410238800,
+            "id":1854681,
+            "title":"You find Mareep."
+        },
+        "112211111":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "\"I feel good.\"",
+                "\"Actually...\""
+            ],
+            "content":"<div class=\"\"><div> <span>Groans were all that could come out of your mouth. You could hear a few people around you, but it was really hard for you to fully wake up. Your eyes stayed glued as you tried to figure out who was there. The more you concentrated, the more pain you could feel.<br>\r\n<br>\r\n\"Might. Mightyena.\" You heard someone say. You could tell then that your mind was having a hard time understanding what was being said.<br>\r\n<br>\r\n\"Aipom, pom\" What were they saying? As you tried to understand, your headache caused you to groan as you turned your head to put pressure on the pain. A hand turned your head back around, but there was something odd about the touch. Definitely not a normal human hand that touched you.<br>\r\n<br>\r\nEither out of the eased pain or the fact that curiosity was swarming your head, you finally found the willpower to open your eyes. At first, your vision was foggy, but then... where were you? A wall of leaves filled your sight. It made you think that you were in some sort of safari, but you don't remember going to an exotic place. In the matter of fact, you don't remember the last thing you did.<br>\r\n<br>\r\n\"Mightyena.\" You heard, but much more clearly now. You couldn't figure out why it was so hard to understand what the... doctor?... was saying. Did you hit your head that hard?<br>\r\n<br>\r\nYou turn your head around when suddenly, your heart sank. Not just to the point where it skipped a beat, but to a point where you weren't sure you were alive anymore. Standing before you was a small, purple monkey, and a dog. A sudden flashback hits your mind when you recall a dog-like figure standing before you when you were subconscious moments ago... Unless time's gone by farther than you thought.<br>\r\n<br>\r\n\"What the!\" You exclaimed as you immediately got up off the bed. It was then you realized you were merely on a nest looking pile on the ground. 'What's going on? Where am I?\"<br>\r\n<br>\r\n\"Aipom!\" The monkey creature put its hands up, assuming to try and calm you down. However, with your vision obviously out of whack, you couldn't help but panic.<br>\r\n<br>\r\nThen the dog tried to come toward you, which was enough of a motive to get you running for your life. You find a cloth dangling that indicated to you that it was the exit. Plowing through, you find yourself from a complete halt.<br>\r\n<br>\r\nCreatures of all kinds roamed around. A village of some sort seemed to be the home, or the gathering place, for the creatures. They were of all different shapes and sizes. Some looked somewhat \"normal\" to your eyes, but others made you think that you were on some sort of drug or under a hallucination. What did the doctors put in your system.<br>\r\n<br>\r\nA few of the creatures came toward you as soon as they saw you. Still on high alert, you ran the opposite direction. As you begin to, a very large monster stood before you. As you gasped for air, you fell down under dizziness before you could see what that thing was. You head kept spinning until suddenly...<br>\r\n<br>\r\n---<br>\r\n<br>\r\nYou awaken in shock, though to the best of your ability. Your chest reminded you of the attack you received from the Charizard. A much more normal, human looking, doctor stood before you. It was then to realized you were dreaming of a past event. The day you realized you were not at home anymore, but in the Johto world. Either that, or you'd always been here and just don't remember a single event past that rather rude awakening.<br>\r\n<br>\r\n\"Calm down.\" The doctor said. \"You're alright. Just relax.\"<br>\r\n<br>\r\nHis words helped you lay back down on the rather uncomfortable bed. It was good to you to finally just lay back a moment and just chill.<br>\r\n<br>\r\n\"How are you feeling?\" The doctor asked.</span></div></div>",
+            "created":1410411600,
+            "id":1855575,
+            "title":"The next day."
+        },
+        "1122111111":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "You find a Pokeball.",
+                "You find important documents."
+            ],
+            "content":"<div class=\"\"><div> <span>A couple days pass as you are stuck at the hospital. For the first time in a span of time, you found yourself well up-to-date on your news. The television was never really all that interesting aside from a few select shows. With the only channel in front of you being news, you didn't have much of an option.<br>\r\n<br>\r\n\"This is Rebecca Nirch, live at Professor Elm's lab.\" The news reporter said.<br>\r\n<br>\r\nThat was one bit of news that did manage to catch your interest alive. In the matter of fact, it was the only way for you to know what was going on with the recent crisis. The nurses weren't very up-to-date aside from the obvious, and oddly enough no one's come to visit you. Might be due to the fact that everyone thinks you're dead. After all, if you weren't sent to get Mareep, you would've died along with everyone else. Then again, it was reported that a bystander was injured from the force of the explosion. Guess no one noticed the real cause was from a dragon tail across the chest.<br>\r\n<br>\r\n\"The mysterious attack is still under investigation. Many assume it's an attack from Team Rocket. Others, have other suspicions.\"<br>\r\n<br>\r\nThe screen transitioned to various civilians expressing their opinions.<br>\r\n<br>\r\n\"It must have been Professor Sycamore's group. Team Flames or something. Always were a suspicious group.\" One civilian said.<br>\r\n<br>\r\n\"Only Team Magma would've used a Charizard to burn the lab to the ground.\" Another said.<br>\r\n<br>\r\n\"Team Galactic always a nasty bunch. Hungry for power and would do anything to get it.\"<br>\r\n<br>\r\nThe screen then showed Professor Elm with Rebecca Nirch. \"So many questions, yet not enough answers. Professor, who do you think would've done such a terrible act and why would they target you and your work?\"<br>\r\n<br>\r\nIt was good for you to know that Professor Elm was doing fine. You wished you could recognize the location so you could at least know where he was, but you couldn't tell.<br>\r\n<br>\r\n\"It could've been anyone as far as I can tell.\" Professor Elm said. \"And for any reason at that matter. There's no telling what they were after.\"<br>\r\n<br>\r\nYou tried to recall anything that stood out to your mind. You recalled the purple-like uniforms, but with no symbol of some sort, they could've been anybody. It did eliminate the fact that they worked for a team... at least a known team.<br>\r\n<br>\r\nThe door to the recovery room opened up. A nurse entered and came toward you. Unlike the Joy family that own the Pok\u00e9mon Centers around the world, the nurses here were just any ordinary person in your eye.<br>\r\n<br>\r\n\"Looks like you'll be able to sleep in your own bed tonight.\" The nurse said with a sparkle in her tone. She hands you a clipboard with some documents. \"If you'll just fill out the release forms.\"<br>\r\n<br>\r\n---<br>\r\n<br>\r\nIt felt great to walk again. Stiffness dominated your legs, but finally were free to move about. In the matter of fact, you felt stiff all around, but your legs sure felt the greatest relief.<br>\r\n<br>\r\nAs you approached the lab, you find Officer Jenny and a number of news reporters around the scene. It felt weird in your eye to not see the once glorious structure in mere rubble. It felt like a memory that stayed stuck to the tip of your tongue. Your heart was heavy with the sight before you.<br>\r\n<br>\r\n\"Sorry sir.\" Officer Jenny said to you as you began to go under the caution tape. \"Only authorized personal may cross.\"<br>\r\n<br>\r\nYou began to show your ID, but suddenly stopped yourself. As far as everyone was concerned, nobody working at the lab was alive aside from Professor Elm. You'd already avoided media by deciding to not wear a lab coat outside, and it was presumed that the doctors didn't notify the media of your profession. While already avoiding death once, you didn't want to stir up any reason to be face to face with the Grim Reaper again.<br>\r\n<br>\r\nStepping aside, you hatched an idea. Closing watching, you tried finding a way to sneak inside. You casually walked around as if stooling on by as you looked around from the corner of your eye. Luckily, it didn't take long to find a weak spot, and without a second to waste, jumped right in.</span></div></div>",
+            "created":1410757200,
+            "id":1857069,
+            "title":"\"I feel good.\""
+        },
+        "11221111111":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "You get away.",
+                "You get caught."
+            ],
+            "content":"<div class=\"\"><div> <span>The debris sadden you a bit. This was practically your home, and now it's been destroyed. Maybe if you were here, you could've done something to stop this... No. It would've been inevitable.<br>\r\n<br>\r\nYou were hoping to find something that's stayed intact. An experiment, or a Pok\u00e9mon, or something. Anything that could be salvaged before it gets taken away by some thieves. However, concrete and rubble was all that filled your vision. That, and the disturbed dust that formed every step you took.<br>\r\n<br>\r\nAs you searched, you began to hear voices. Not wanting anyone to know of your presence, you crouch low. Making steady movements, you managed to spot a couple people close by. They were dressed in suits, which made you think of them as some sort of investigators. You peered into what they had to say.<br>\r\n<br>\r\n\"It appears this place was ready to blow before the Charizard ignited the place.\" One of them said.<br>\r\n<br>\r\n\"What makes you say that?\"<br>\r\n<br>\r\n\"Look at this.\" The guy knelt down and picked up an empty container of some sort. \"If it were just a fire, there would've been survivors.\"<br>\r\n<br>\r\n\"Wouldn't they have a detonator if they were going to explode the place?\"<br>\r\n<br>\r\n\"Maybe things didn't go as planned. Criminals aren't very smart.\"<br>\r\n<br>\r\nTheir conversation made you wonder why you never noticed the bombs in the first place. Or why everyone didn't know for that matter. They must have been hidden well. Either way, you don't ever recall the building exploding, but it might have after you were knocked unconscious.<br>\r\n<br>\r\n\"Any news on the Day Care?\" One of them asked.<br>\r\n<br>\r\n\"Besides the multiple complaints about missing Pok\u00e9mon, no. Though, the owner hasn't been found since.\"<br>\r\n<br>\r\nThe Day Care? You were there only moments before the incident. Did those mysterious people take the Pok\u00e9mon too? This is getting bizarre.<br>\r\n<br>\r\nYou decided to go about your own way again. It appeared the investigators weren't any closer than you were on the answers to the mysterious attack.<br>\r\n<br>\r\nAs you continued your search around the place, something caught your eye. Amongst the rubble laid a Pokeball. With there being a small tab with a number to the side of it, you figured the investigators kept the ball there for evidence purposes.<br>\r\n<br>\r\nWho was inside the Pokeball was beyond your guess. It could be any Pok\u00e9mon at this rate. That's when it occurred to you that you never saw any Pok\u00e9mon here now nor did you when you were at the lab the other day. It never crossed your mind at the time, for you figured it to be a coincidence. If only you had merely pointed out the obvious that apparently wasn't so obvious. But then again, no one would find it suspicious even if you said something about it. After all, there was always someone around to check the supplies. It would've been reported eventually anyways.<br>\r\n<br>\r\nThat's when it hit you that somebody working at the lab had to of known when to steal the Pok\u00e9mon prior to the attack. Then again, Hillary wasn't at the front desk when you walked in. Anybody could've walked in at that point, assuming they had an access card.<br>\r\n<br>\r\n\"Let's grab the evidence and be on our way.\" You overheard one of the investigators say. Panicked, and without thinking it over, you grabbed the Pokeball and ran. Why did you run? You had no idea. It was obvious that would give away your position, but your mind was being too rash... again... Why do you keep doing stupid stuff?<br>\r\n<br>\r\n\"Who's there?\"<br>\r\n<br>\r\nAt least you weren't dumb enough to stop. You kept running as fast as you could out of the debris and through the small tree line that was nearby. You could hear them chasing you down... or was that your racing heartbeat? You couldn't tell. Whatever's causing the thumps, you didn't plan on stopping until you were far away from the town.</span></div></div>",
+            "created":1411240620,
+            "id":1859304,
+            "title":"You find a Pokeball."
+        },
+        "112211111111":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "Release the Pokemon later.",
+                "Who's that Pokemon?"
+            ],
+            "content":"<div class=\"\"><div> <span>You make it to Catallia City safely. You didn\u2019t run the whole way there, but maybe if you started exercising for once you may have ran a little farther before stopping so soon. The adrenaline flushed out of your system, though you stayed on high alert. Who knows what the officers here knew about you. You didn\u2019t want to take any chances.<br>\r\n<br>\r\nLuckily, it didn\u2019t appear that anyone was on the lookout. You walk casually toward a nearby restaurant; hungry due to not eating since you left the hospital. Maybe sitting down for a while to collect your thoughts would do you good.<br>\r\n<br>\r\nAs time went on, you found yourself seated next to a trainer and his Pokemon, a Rattata. The rat-like Pokemon was always fairly common for the beginners. It\u2019s unfortunate they aren\u2019t as appreciated. You\u2019d seen incidences where a common Pokemon gets sent to the lab after being neglected from the Day Care centers. Though Rattata weren\u2019t the only ones, they all meet the same fate; help the trainer become the best they can be, and then that\u2019s the end of their exciting journey. <br>\r\n<br>\r\n---<br>\r\n<br>\r\nYou squint your eyes to the bright light. Instantly, you could feel the sweat sticking to your body, which made it very clear that the sun was shining on you. It took a moment to remember where you were, but the fear of the strange creatures resurfaced in your mind. With your vision cleared, you looked around, but saw nothing in particular. It was clear you were in the same village you disturbingly woke up to, but couldn\u2019t find anyone around. In the matter of fact, this is approximately where you were when you fell unconscious after seeing\u2026 some kind of large, orange monster.<br>\r\n<br>\r\n<i>\u201cDon\u2019t be alarmed.\u201d</i> You hear\u2026 though it was more of a passing thought in your mind. <i>\u201cThere\u2019s no need to panic.\u201d</i><br>\r\n<br>\r\n\u201cWh-who\u2019s there?\u201d You softly ask. You didn\u2019t know if you were going crazy, but you didn\u2019t want to draw any attention either. Who knows where those freaks were hiding. As slowly as possible, you raised your head.<br>\r\n<br>\r\nA distance in front of you, a ghost-like figure floated toward you. It had a faded yellow head that made you think of a bike helmet. As it approached you, alarm set in as you began to raise off the ground.<br>\r\n<br>\r\n<i>\u201cI won\u2019t hurt you.\u201d</i> The random thought crossed through your mind again. You couldn\u2019t understand what was going on mentally or physically. However, you felt an odd sense of trust toward this bazaar ghost. You stayed seated on the ground as the being approached you. Once it got close enough, it remained floating within eye level to you. <br>\r\n<br>\r\nAn awkward silence lasted for quite a while as you just sat there. You didn\u2019t know what to do. Fear made you stay put, unsure what will happen if you did anything to antagonize the creature.<br>\r\n<br>\r\n<i>\u201cYour head has healed quite nicely.\u201d</i> The voice in your head said. It was clear at this point that the ghost was doing this to your mind. It was a weird feeling that you didn\u2019t like, but again, accepted to avoid any conflict. You do touch the back of your head after it mentioned your wound, and to your surprise, you only felt a scar, though it was still sensitive. <i>\u201cThe Pok\u00e9mon here have taken very good care of you.\u201d</i><br>\r\n<br>\r\nPok\u00e9mon? What was that? The creatures that you\u2019ve been seeing? You had never heard of such a thing, yet\u2026 You couldn\u2019t help but see projections in your mind of what Pok\u00e9mon are. It was as if it were a lost memory randomly resurfacing in your mind once again.<br>\r\n<br>\r\n<i>\u201cDoes that answer your question?\u201d</i> The ghost asked. Was it the one putting those thoughts in your head? And more importantly, did it just read your mind? <i>\u201cYes, and yes. I hope such knowledge will help ease your mentality, which I must say is quite fascinating for your species. Something with little knowledge, yet more impressive than the owner\u2019s own awareness.\u201d</i><br>\r\n<br>\r\n\u201cWhat are you talking about?\u201d You asked. It\u2019s the first time you\u2019ve spoken aloud since the encounter, yet at this point you\u2019d lost all focus on staying quiet.<br>\r\n<br>\r\n<i>\u201cYour future looks promising. That is, if you are willing to accept whatever challenge comes your way.\u201d</i><br>\r\n<br>\r\nNow you were convinced that you were dreaming. That is until a familiar Pok\u00e9mon can walking around the corner. A greyish black dog, which was the most normal looking creature in your point of view compare to the others you\u2019ve seen, came toward you with a curious look on his face. Though you had a better understanding of what Pok\u00e9mon were, you stood up on your feet in caution of what the hyena might do to you.<br>\r\n<br>\r\n<i>\u201cMightyena saved your life.\u201d </i>The ghost said. You felt calmer after hearing that. He must have been the one you had heard moving around when you first woke up in the stormy night. You also recall him being there for you when you freaked out earlier. Appreciation of the Pok\u00e9mon saving your life further relaxed your defensive stance as you knelt down. It became really clear to you that these Pok\u00e9mon were trying to help you all this time, and yet you gave them more of a hassle than they bargained. The Mightyena bowed his head slightly, and without a second thought, you scratched his head. He seemed to enjoy the affection.<br>\r\n<br>\r\nYou glanced over to where the ghost was, only to find nothing but part of the village. You began to wonder if something was ever there in the first place. Before dwelling much longer, Mightyena nudged you. He then slowly walked away from you as if beckoning you to follow. Feeling more confident in seeing whatever creatures\u2026 or Pok\u00e9mon\u2026 that you might come across, you stayed alongside your new friend.<br>\r\n<br>\r\n---<br>\r\n<br>\r\n\u201cHere\u2019s your entr\u00e9e.\u201d The waitress said, awakening you from your daydreaming. A delicious plate of food sat in front of you, ready to be devoured.<br>\r\n<br>\r\n\u201cThanks.\u201d You replied as the waitress walked away. You grab your silverware to prepare eating when you notice the Pokeball you took sitting by. A tiny bit of curiosity nagged at you ever since you took the ball. What was inside?</span></div></div>",
+            "created":1411596360,
+            "id":1861393,
+            "title":"You get away."
+        },
+        "1122111111111":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "Heracross",
+                "Other Pokemon"
+            ],
+            "content":"<div class=\"\"><div> <span>With it getting late and with your home being quite a distance away for night travel, you decided to get a hotel room. One night wasn't going to kill your wallet, even if you aren't all that wealthy.<br>\r\n<br>\r\nSchool's going to be interesting, you figured. You only had a couple weeks left before being considered a Professor. You had put way too much effort into school to just walk away from. Yet, staying would not bring you any closer to finding Professor Elm, nor would it help you find out who's behind the attack. It would be easier to wait it out as you finish school, but that would be too lazy. Though the latter option sounded more appealing, you'd rather take the initiative.<br>\r\n<br>\r\nAs you enter the lobby of a hotel, you spot a trainer sitting by with a Hoppip, Hoothoot and Poliwag eating out of a bowl of food. Usually, trainers were known for getting free services from Nurse Joy at the Pok\u00e9mon Center due to the Pokedex given to them. Though Professor Elm had to approve every single Pokedex, it was usually another Professor that handed them out. Only on special occasions where Elm needed a favor or request did he ever personally help setup a new trainer. Either that guy lost his card, or he preferred a more calming atmosphere.<br>\r\n<br>\r\nThe sight of the trainer got you wondering about companions. You would more than likely need one if you were ever going to explore outside of home. After all, even with your vast knowledge in Pok\u00e9mon, you've never battled once in your life. Also, they would be more ambitious, which is the drive you'll need if you're ever to be successful. Even if you had no idea what was in store for you, finding out who attacked your hometown and helping society by bring down the enemy was a top priority... even though you don't exactly know who your enemy was.<br>\r\n<br>\r\n\"Excuse me.\" You approach the somewhat experienced looking guy feeding his two Pok\u00e9mon. Having three Pok\u00e9mon meant he had to catch one at some point. He appeared to be a tad bit younger than you, which is normal for someone who's just started on their journey.<br>\r\n<br>\r\nThe three Pok\u00e9mon acknowledged your presence, but continued eating. They must have just gotten back from training judging by the way they were scarfing their food down. \"Hey, come to check out my awesome Pok\u00e9mon?\" The guy asked.<br>\r\n<br>\r\nOh, great. He had to be the cocky type. It didn't really bother you personally, but you tended to feel embarrassed being around overconfident people in public places. \"They do seem awesome.\" You would never tell him that you've seen way more impressive Pok\u00e9mon. A nice perk for volunteering in a Pok\u00e9mon Lab.<br>\r\n<br>\r\n\"They helped me get the Zephyr Badge.\" He said as he pulled out the badge from his pocket. He must not have thought out where he was going to display his earn rewards. \"Just got it this morning.\"<br>\r\n<br>\r\n\"Impressive for only half a normal party.\" You imagined gyms to be rather difficult for anyone with fewer than six Pok\u00e9mon. Either you don't know much about how the gym system works, or this guy has a natural gift for battles. With the experience shown to you, this might be a good candidate to help you with your cause, even if your cause may not be 100% clear yet.<br>\r\n<br>\r\n\"It was nothing. My Pok\u00e9mon can take on any challenge.\"<br>\r\n<br>\r\n\"Would you be interested in helping me out?\" You asked, changing the subject. The sparkle in his eye signified for you to continue. As you tell your story, the trainer contemplates.<br>\r\n<br>\r\n\"So you want me to help you fight crime?\" You shush him, surprised he asked so loudly. \"Well, count me in. I'd love to show 'em what I got.\"<br>\r\n<br>\r\nThat was exactly what you had hoped to hear.<br>\r\n<br>\r\n\"On one condition. I can\u2019t go showing off without my remaining badges.\u201d<br>\r\n<br>\r\n\u201cLook, we might not have time to make pit stops. I\u2019m not sure who exactly we\u2019re up against, but whoever they are, nothing\u2019s stopping them now.\u201d<br>\r\n<br>\r\n\u201cDon\u2019t you think they\u2019ll wait until everyone settles down again before another attack?\u201d<br>\r\n<br>\r\nYou hadn\u2019t thought of that before. It\u2019s possible that nothing will happen for a while. But, were you ready to take such a chance? So much has happened that it seems impossible for the chaos to stop to a sudden halt. Well, the trainer did make a valid point.<br>\r\n<br>\r\n\u201cAlright, I\u2019ll travel along with you for now. It\u2019ll be beneficial as I solve where the next attack will be.\u201d The guy smiled, but turned questionable as you placed a hand on his shoulder. \u201cIf another catastrophe arises, we\u2019re going straight to the scene.\u201d With a nod of understanding, you give him his space again. \u201cI\u2019ll meet you here in the morning.\u201d<br>\r\n<br>\r\n\u201cMy name\u2019s Cael.\u201d The trainer said as you began walking toward the elevators that lead to your room.<br>\r\n<br>\r\n\u201cQuinn.\u201d You reply.<br>\r\n<br>\r\n---<br>\r\n<br>\r\nFinally some peace and quiet. You felt great laying back on a bed. A sense of relaxation overcomes your body as you lay your head on what felt like a cool, fluffy sheep.<br>\r\n<br>\r\n\"Mareep.\" You sigh. What did those people do to attract the Pok\u00e9mon to them?<br>\r\n<br>\r\nWith the thought surfacing your mind, you couldn't help but think of a more concerning question. Who's in the Pokeball you took from the lab? Maybe in a more secluded area, this Pok\u00e9mon won't run off like last time.<br>\r\n<br>\r\nYou dig in your pocket and pull out the Pokeball. It occurs to you then that you may want a belt of some sort to secure the Pokeball better. Its metallic surface felt smooth, yet had enough traction to hold your fingers when, for example, you enlarge the object. You do such act as you press the button on it.<br>\r\n<br>\r\nYou sit up and swing your legs around so as to be on the edge of the bed. A bit of anticipation fuels you as you're about to reveal a companion that might be tagging along with you for quite a while. A red beam shoots out in front of you. Reflex takes over briefly as you slide your fingers further away from the beam so as not to interfere with the transfer. In front of you, ________ appears.</span></div></div>",
+            "created":1412050080,
+            "id":1864188,
+            "title":"Release the Pokemon later."
+        },
+        "11221111111111":{
+            "author_id":"portair",
+            "author_name":"Silver",
+            "choices":[
+                "Poliwag wins the battle",
+                "Poliwag loses the battle"
+            ],
+            "content":"<div class=\"\"><div> <span>In front of you, Heracross appears. At first, he seemed happy, but then confusion formed on his face. He looked around, unsure of where he was and why you were the one that had him.<br>\r\n<br>\r\n\"You seem lost.\" Duh, of course he was lost. Heracross was in a lab with a different owner. As dumb as your statement was, you felt you had to say something to break the awkward silence.<br>\r\n<br>\r\n\"Heracross?\"<br>\r\n<br>\r\n\"We're not in the lab anymore.\" You felt more weird about this situation. Maybe if you thought about what you were going to say to this Heracross beforehand, he wouldn't be as confused as he is. \"There was an attack.\"<br>\r\n<br>\r\nThe Heracross was silent. It seemed to you that he understood. Only a second later did his expressions become more energized. He definitely knew what you meant.<br>\r\n<br>\r\n\"Hera! Heracross!\" The Pok\u00e9mon said in anger. He then flew over toward the balcony door.<br>\r\n<br>\r\n\"Wait a minute!\" You said as to calm Heracross. <br>\r\n<br>\r\nHe definitely seemed upset, but you didn't want him to make any rash decisions. Getting up off the bed, you run to the Pok\u00e9mon. As you reach him, the single horn Pok\u00e9mon thrusts his arm against you, causing you to fall prone. The reflex to cough catches in your throat as the wind gets knocked out of you. Before you have the chance to recover, Heracross jumps off the balcony.<br>\r\n<br>\r\nYou get up and approach the edge of the balcony. Though dark out, you could make out Heracross from a distance before he goes out of sight. \"Heracross!\"<br>\r\n<br>\r\nIt was clear then why you never had a Pok\u00e9mon you could call your own. Your recent encounters with Pok\u00e9mon have been running away from you. As much as you wanted to sleep, you grab your hotel key and run out the door.<br>\r\n<br>\r\nAs you made your way to the front door, you came across a familiar face.<br>\r\n<br>\r\n\"Hey!\" Cael said. \"Is something wrong?\"<br>\r\n<br>\r\n\"I need to find my Pok\u00e9mon.\" You said as you ran out. Footsteps from behind confirmed that your new friend was close behind.<br>\r\n<br>\r\n\"I didn't know you had a Pok\u00e9mon?\" Cael said. \"That's cool.\"<br>\r\n<br>\r\n\"I don't. The lab owns the Pok\u00e9mon, or at least it did at one time.\" For all you know, the Heracross could've belonged to someone else.<br>\r\n<br>\r\n\"Where did it go?\"<br>\r\n<br>\r\n\"To Professor Elm's Lab.\" You really had no idea, but it was the best assumption you had. Otherwise, why would Heracross react so aggressive to you informing him about the attack?<br>\r\n<br>\r\nTiredness quickly overwhelmed you. You had been running all day it felt like, and your soar, aching legs were proof. As much as you didn't want to stop, you bent over in exhaustion with your hands grasping your knees.<br>\r\n<br>\r\n\"Come on, we haven't left the city yet.\" Cael encouraged, but you were too tired to care. The energy you had busting out of your hotel room vanished into thin air like a magic trick.<br>\r\n<br>\r\nAfter catching your breath, you continue on your way. \"Might as well walk. It's a long ways away on foot.\"<br>\r\n<br>\r\nGetting on the dirt road, you knew it was a good hour before you guys would find the destroyed lab. You really hoped you weren't wasting your time.<br>\r\n<br>\r\n\"What kind of Pok\u00e9mon is it?\" Cael asked eagerly.<br>\r\n<br>\r\n\"He's a Heracross.\" You reply.<br>\r\n<br>\r\n\"Why did your Pokemon run away?\"<br>\r\n<br>\r\n\"I'm not sure, but I think he knows something about the attack. Heracross acted more rational about me telling him about the attack on the lab than I expected.\"<br>\r\n<br>\r\nSuddenly, a string of spider web hit Cael. He tumbled on the ground. A bit of sympathy washed over your face as you saw him land face first.  With his hands stuck in place, he wasn't able to catch himself.<br>\r\n<br>\r\n\"Cael!?\"<br>\r\n<br>\r\nYou run to his side to see if he was okay. He appeared to be dizzy, but was able to shake it off. You glance back to identify the attacker, but it must of concealed itself. Looking back, you see him trying to reach for his Pokeballs. \"I can't get to my Pok\u00e9mon.\"<br>\r\n<br>\r\nQuickly, you randomly grab one of Cael's Pokeballs from his belt strap and throw it toward where the web came from. Embarrassingly enough, you managed to throw the Pokeball off target and hardly a few feet away from you. Through all the chaos that's going around, you managed to find a split second to make a mental note on learning to throw a ball.<br>\r\n<br>\r\n\"Poliwag!\" The Pok\u00e9mon happily announced.<br>\r\n<br>\r\nBefore you could influence the event to your favor, a strand of web engulfed your feet. Not having moved prior, it didn't cause you to fall over. Apparently, it kept you stable enough for the attacker to finally reveal itself; an Ariados.<br>\r\n<br>\r\n\"Use Bubble!\" Cael called out. He may be prone, but it didn't prevent him from guiding his Pokemon. Poliwag jumped closer to Ariados and shot a beam of bubbles at it. The spider-like Pok\u00e9mon used one of its front legs to shield itself as it flinched from the damage it was taking. Once it recovered, it darted at Poliwag.<br>\r\n<br>\r\n\"Don't let him catch you!\" Cael ordered. Poliwag was rather quick as she used the bubble attack within her dodges. It had been a long time since you had last seen a Pok\u00e9mon battle, and couldn't help but feel a sense of happiness watching the battle.<br>\r\n<br>\r\nThe Ariados timed its attack successfully after a few failed attempts. It struck the Poliwag with its bite, causing the water Pok\u00e9mon to wince in pain.</span></div></div>",
+            "created":1412230260,
+            "id":1865268,
+            "title":"Heracross"
+        },
+        "12":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "pokemon",
+                "human"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pokemon or human?</span></div></span></div>",
+            "created":1408856400,
+            "id":1846932,
+            "title":"girl"
+        },
+        "121":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "Eevee",
+                "Chickorita",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>ok, what pokemon?</span></div></span></div>",
+            "created":1409288400,
+            "id":1848938,
+            "title":"pokemon"
+        },
+        "1211":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "decide to get food",
+                "hear something approach",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>warmth surrounded you. your whole body was numb with the warmth. as you slowly regained feeling, you could feel sunlight, a cool breeze, and dirt underneath you...you were curled up on the ground. you opened your eyes to find you were in a meadow.<br>\r\n<br>\r\nyou tried to stand up, only to fall onto your hands and feet...which surprisingly felt normal. you looked into a nearby pond, and saw a brown fox looking back at you.<br>\r\n<br>\r\nyou yelped with surprise and jumped back. that was you, you were the brown fox! but...how? what happened?<br>\r\n<br>\r\nfoxes were hunters, but an instinct told you that you were prey...which means you might have attracted something. you...</span></div></div>",
+            "created":1412093400,
+            "id":1864330,
+            "title":"Eevee"
+        },
+        "12111":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "well, is there anything you want?",
+                "uh...the pride of seeing another being happy?",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>your stomach growled as you realized you were hungry. you were small, and thinking of eating another being made you sick, so you decided to find some berries.<br>\r\n<br>\r\nafter a bit of walking, you came across a berry bush...but it seemed something had gotten there first. another brown fox stood there, picking berries from the bush and eating them.<br>\r\n<br>\r\nit looked at you, and you decided to speak up \"m-may I have some?\" you asked. your voice was different, which startled you.<br>\r\n<br>\r\n\"some what?\" the other fox said. judging by it's voice, you could tell it was a male.<br>\r\n<br>\r\n\"Berries\" you said quietly \"I'm starving\"<br>\r\n<br>\r\nhe looked at the berries, then back at you, as if contemplating something. \"do I get anything out of it?\"<br>\r\n<br>\r\nyou blinked. you hadn't expected that kind of answer, but you also didn't see any harm in it.</span></div></div>",
+            "created":1412096160,
+            "id":1864342,
+            "title":"decide to get food"
+        },
+        "121111":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "ask him to be your companion",
+                "say thanks and leave",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>he looked at you for a moment \"well...yea\" he said \"but I don't think you could help me...\"<br>\r\n<br>\r\n\"I don't want a lot\" you begged \"just enough to keep me full!\"<br>\r\n<br>\r\nhe thought for a moment, then moved aside \"help yourself\" he said<br>\r\n<br>\r\nyour eyes shone \"thank you!\" you said. you ate hungrily, not really caring how much you ate.<br>\r\n<br>\r\nafter a while, you were finally full. you looked at the boy, who was looking off in the distance. you could thank him and leave...but having a companion might not be bad...</span></div></div>",
+            "created":1412096880,
+            "id":1864344,
+            "title":"well, is there anything you want?"
+        },
+        "1213":{
+            "author_id":"kingalex1234",
+            "author_name":"kingalex1234",
+            "choices":[
+                "Gardevoir",
+                "Kirlia",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what about one of these?</span></div></span></div>",
+            "created":1409979600,
+            "id":1853127,
+            "title":"other"
+        }
+    },
+    "info":{
+        "author_id":"kingalex1234",
+        "author_name":"kingalex1234",
+        "brief_description":"You are suddenly in the pokemon world...but is everything the way you thought it would be?",
+        "created":1408939020,
+        "description":"<td align=\"left\" class=\"norm\">Hi! I got bored and decided I wanted to make a pokemon story. Note, as always, there are some rules.<br>\r\n<br>\r\n1. This is YOUR point of view, which means second person writing. If you REALLY feel the need to go into someone else's point of view, either ask me or make it a clearly stated choice.<br>\r\n<br>\r\n2. Make proper chapters. What i mean by that, is try to make it with good grammar and good content, quotation marks are used for a reason after all!<br>\r\n<br>\r\n3. Don't kill yourself, unless a valid reason is provided. I HATE death, but I knew it's necessary sometimes...just not to the main character. If course, if you're ending the story, that's a whole nother story.<br>\r\n<br>\r\nThat's all the rules until further notice...have fun!</td>",
+        "id":2006108,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1418322540,
+        "modified":1418322540,
+        "pretty_title":"a world of pokemon"
+    }
+}

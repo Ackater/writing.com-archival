@@ -1,0 +1,604 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Dragon Ball",
+                "Fairy Tail",
+                "My Hero Academia",
+                "Seven Deadly Sins",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what show will you end up in?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738306,
+            "title":"Pick the show"
+        },
+        "11":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Dragon Ball",
+                "Dragon Ball Z",
+                "Dragon Ball Super",
+                "Dragon Ball GT",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which era do you end up in?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738307,
+            "title":"Dragon Ball"
+        },
+        "111":{
+            "author_id":"paleomario66",
+            "author_name":"Paleomario66",
+            "choices":[
+                "Bulma",
+                "Chi-Chi",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character?</span></div></span></div>",
+            "created":1594274640,
+            "id":2864555,
+            "title":"Dragon Ball"
+        },
+        "112":{
+            "author_id":"paleomario66",
+            "author_name":"Paleomario66",
+            "choices":[
+                "Bulma",
+                "Chi-Chi",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Characters?</span></div></span></div>",
+            "created":1594274580,
+            "id":2864550,
+            "title":"Dragon Ball Z"
+        },
+        "1123":{
+            "author_id":"paleomario66",
+            "author_name":"Paleomario66",
+            "choices":[
+                "Android 18",
+                "Videl",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about them?</span></div></span></div>",
+            "created":1594274640,
+            "id":2864552,
+            "title":"Other"
+        },
+        "113":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Bulma",
+                "Chi-Chi",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, pick your character:</span></div></span></div>",
+            "created":1571979600,
+            "id":2738311,
+            "title":"Dragon Ball Super"
+        },
+        "1133":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Videl",
+                "Android 18",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about them?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738312,
+            "title":"Other"
+        },
+        "11333":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Caulifla",
+                "Kale",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about the female Saiyans of the 6th Universe?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738313,
+            "title":"Other"
+        },
+        "113333":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Vados",
+                "Marcarita",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about one of the female angels?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738314,
+            "title":"Other"
+        },
+        "1133333":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Kusu",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe her?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738315,
+            "title":"Other"
+        },
+        "11333332":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Future Mai",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Future Mai?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738337,
+            "title":"Other"
+        },
+        "113333322":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Yes",
+                "No, more choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about the love warriors from the 2nd universe?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738338,
+            "title":"Other"
+        },
+        "1133333221":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Brianne",
+                "Roasie",
+                "Kakunsa"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738339,
+            "title":"Yes"
+        },
+        "1133333222":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Cheelai",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about this girl?</span></div></span></div>",
+            "created":1603085580,
+            "id":2924383,
+            "title":"No, more choices"
+        },
+        "114":{
+            "author_id":"paleomario66",
+            "author_name":"Paleomario66",
+            "choices":[
+                "Bulma",
+                "Chi-Chi",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character?</span></div></span></div>",
+            "created":1594274700,
+            "id":2864556,
+            "title":"Dragon Ball GT"
+        },
+        "1143":{
+            "author_id":"paleomario66",
+            "author_name":"Paleomario66",
+            "choices":[
+                "Videl",
+                "Pan",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about them?</span></div></span></div>",
+            "created":1594274700,
+            "id":2864557,
+            "title":"Other"
+        },
+        "115":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Dragon Ball Xenoverse",
+                "Dragon Ball FighterZ",
+                "Dragon Ball Heroes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a game series?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738309,
+            "title":"Other"
+        },
+        "1151":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Chronoa (Supreme Kai of Time)",
+                "Towa",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select your character:</span></div></span></div>",
+            "created":1571979600,
+            "id":2738310,
+            "title":"Dragon Ball Xenoverse"
+        },
+        "1152":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Android 21 (Good)",
+                "Android 21 (Evil)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There's really only one notable choice for this one, but which version of her is the question?</span></div></span></div>",
+            "created":1581397200,
+            "id":2785958,
+            "title":"Dragon Ball FighterZ"
+        },
+        "1153":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "One of the Three Saiyan Heroine Avatars",
+                "Wairu, the Supreme Kai Berserker Avatar",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright then.  Pick a heroine race.</span></div></span></div>",
+            "created":1589757060,
+            "id":2837269,
+            "title":"Dragon Ball Heroes"
+        },
+        "11531":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Note",
+                "Viola",
+                "Forte"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one of the three Saiyan heroine avatars would you like?</span></div></span></div>",
+            "created":1589757120,
+            "id":2837270,
+            "title":"One of the Three Saiyan Heroine Avatars"
+        },
+        "115311":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Yes, she grabs you in her fist.",
+                "No, you move out of the way in time."
+            ],
+            "content":"<div class=\"\"><div> <span>You were playing the new Super Dragon Ball Heroes: World Mission game that came out.  You had seen trailers on YouTube of the avatar characters, but out of all of them, you had an interest in the female Saiyan hero avatar, Note.  She looked pretty cute and had that certain tomboyish charm you liked.<br>\r\n<br>\r\nJust as you were finishing up playing for the day, your game screen suddenly flashed white a few times before glowing brightly.  Then, you felt a strong force pulling you towards the screen.  You tried to fight against it, but you were blown off your feet and pulled into the screen.  Suddenly, you felt a strange sensation coming over your body and you passed out as a result.<br>\r\n<br>\r\nYou weren't sure how long you were out, but when you woke up, you had a bit of a headache.  You opened your eyes and they widened in surprise.  Somehow, you had been pulled into your SDBH game.  You were in Hero Town, but even more shocking was that you were shrunk to a couple inches.  Before you could get a good look at your surrounding, you heard a pair of feet land behind you.  You turned around and looked up.  Standing there looking down at you was Note.  She was wearing her first outfit which was her yellow and red gi.<br>\r\n<br>\r\nShe crouched down and reached her hand out to grab you.  Does she catch you?</span></div></div>",
+            "created":1589757960,
+            "id":2837272,
+            "title":"Note"
+        },
+        "1153111":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You weren't able to get moving in time, and Note wraps her fingers around your body under your arms.  She then stood back up and lifted you off the ground up to her face.  You were feeling nervous as she looked at you for a moment, lightly squeezing you in her grip a couple of times.  She then smiled at you.<br>\r\n<br>\r\n\"Hiya, little guy,\" she said, \"Name's Note.  What's yours?\"<br>\r\n<br>\r\n\"(Your name),\" you replied to her.<br>\r\n<br>\r\n\"Mind telling me how you got so small?\" Note asked.<br>\r\n<br>\r\nDo you tell her the truth?</span></div></div>",
+            "created":1589758380,
+            "id":2837273,
+            "title":"Yes, she grabs you in her fist."
+        },
+        "11531111":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "She keeps you held in her fist",
+                "She places you between her breasts",
+                "She sticks you in her panties"
+            ],
+            "content":"<div class=\"\"><div> <span>You couldn't bring yourself to lie to her, so you told her that you got pulled into this town through a video game.  Surprisingly, her reaction wasn't what you were expecting.<br>\r\n<br>\r\n\"Hey, I've heard of stranger things,\" she said with a small laugh, \"I do that kind of thing a lot.  Anyway, I can't exactly leave you alone like this, so you'll be staying with me for the time being.\"<br>\r\n<br>\r\n\"Not like I have a choice,\" you said.<br>\r\n<br>\r\nWhat does Note do next?</span></div></div>",
+            "created":1589769180,
+            "id":2837334,
+            "title":"Yes"
+        },
+        "115311112":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "A deserted wasteland",
+                "Her home in this town",
+                "Other..."
+            ],
+            "content":"<div class=\"\"><div> <span>She then lowers her hand holding you down towards her chest and pulls her top open.  Then, she lets you go, and you fall down, landing with a plop between her surprisingly big breasts.  Your cheeks heated up and you looked up at her.  She smiled and giggled a little at you before letting her top go, letting it back into place.  You were now hidden from view in her chest under her shirt.<br>\r\n<br>\r\n\"That's where you'll be staying while you're with me, little cutie,\" she said as she started flying into the air.<br>\r\n<br>\r\nWhere does she go?</span></div></div>",
+            "created":1603086180,
+            "id":2924384,
+            "title":"She places you between her breasts"
+        },
+        "12":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Lucy Heartfilia",
+                "Erza Scarlet",
+                "Mirajane Strauss",
+                "Cana Alberona",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, which character will it be?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738317,
+            "title":"Fairy Tail"
+        },
+        "125":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Levy McGarden",
+                "Juvia Lockser",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are some more Fairy Tail females</span></div></span></div>",
+            "created":1571979600,
+            "id":2738318,
+            "title":"Other"
+        },
+        "1253":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Lisanna Strauss",
+                "Wendy Marvell",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's another section of choices</span></div></span></div>",
+            "created":1571979600,
+            "id":2738320,
+            "title":"Other"
+        },
+        "12533":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Laki Olietta",
+                "Kinana",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about one of them?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738321,
+            "title":"Other"
+        },
+        "13":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Ochaco Uraraka",
+                "Tsuyu Asui",
+                "Momo Yaoyorozu",
+                "Kyoka Jiro",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So which female heroine will you be with?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738323,
+            "title":"My Hero Academia"
+        },
+        "135":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Mina Ashido",
+                "Toru Hagakure",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about these two?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738324,
+            "title":"Other"
+        },
+        "1353":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Itsuka Kendo",
+                "Ibara Shiozaki",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe a Class 1-B candidate?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738325,
+            "title":"Other"
+        },
+        "13533":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Setsuna Tokage",
+                "Yui Kodai",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about these two?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738326,
+            "title":"Other"
+        },
+        "135333":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Pony Tsunotori",
+                "Reiko Yanagi",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe them?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738328,
+            "title":"Other"
+        },
+        "1353333":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Kinoko Komori",
+                "Mei Hatsume",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about the mushroom girl or the support girl?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738329,
+            "title":"Other"
+        },
+        "14":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Elizabeth",
+                "Diane",
+                "Merlin",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, which one will you be with</span></div></span></div>",
+            "created":1571979600,
+            "id":2738330,
+            "title":"Seven Deadly Sins"
+        },
+        "144":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Margaret",
+                "Veronica",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about one of the other princesses?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738331,
+            "title":"Other"
+        },
+        "1443":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Jericho",
+                "Guila",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>These two?</span></div></span></div>",
+            "created":1571979600,
+            "id":2738332,
+            "title":"Other"
+        },
+        "14433":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Matrona",
+                "Elaine",
+                "Still more choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about them?</span></div></span></div>",
+            "created":1581397200,
+            "id":2785963,
+            "title":"Other"
+        },
+        "15":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Kill la Kill",
+                "The Melancholy of Haruhi Suzumiya",
+                "Full Metal Alchemist",
+                "Konosuba",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these choices?</span></div></span></div>",
+            "created":1581397200,
+            "id":2785959,
+            "title":"More choices"
+        },
+        "151":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Ryuko Matoi",
+                "Mako Mankanshoku",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright then.  Which of these girls do you want?</span></div></span></div>",
+            "created":1581397200,
+            "id":2785960,
+            "title":"Kill la Kill"
+        },
+        "1511":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Before Kill la Kill",
+                "During Kill la Kill",
+                "After Kill la Kill"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Great!  So, when will this take place?</span></div></span></div>",
+            "created":1582049760,
+            "id":2789215,
+            "title":"Ryuko Matoi"
+        },
+        "1513":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Satsuki Kiry\u016bin",
+                "Nonon Jakuzure",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about these two?</span></div></span></div>",
+            "created":1581397200,
+            "id":2785961,
+            "title":"More choices"
+        },
+        "152":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "A Girl from the S.O.S. Brigade?",
+                "Someone else..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alrighty then!  Who will you be with?</span></div></span></div>",
+            "created":1582044900,
+            "id":2789189,
+            "title":"The Melancholy of Haruhi Suzumiya"
+        },
+        "1521":{
+            "author_id":"jmkrebs30",
+            "author_name":"jmkrebs30",
+            "choices":[
+                "Haruhi Suzumiya",
+                "Mikuru Asahina",
+                "Yuki Nagato"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alrighty.  Which S.O.S. female is it?</span></div></span></div>",
+            "created":1582044960,
+            "id":2789190,
+            "title":"A Girl from the S.O.S. Brigade?"
+        }
+    },
+    "info":{
+        "author_id":"jmkrebs30",
+        "author_name":"jmkrebs30",
+        "brief_description":"When you wake up, you find yourself shrunk around female anime characters!  What happens?",
+        "created":1572034860,
+        "description":"<td align=\"left\" class=\"norm\"><b><u>Rules:</u></b><br>\r\n<br>\r\n- Only female giants and you shrunk<br>\r\n- No vore<br>\r\n- No toilet stuff<br>\r\n- Feet and butts are allowed<br>\r\n- No farts<br>\r\n- No killing any character or yourself<br>\r\n- Stay straight, no gay or lesbian stuff<br>\r\n<br>\r\nI'll add more rules if necessary</td>",
+        "id":2204016,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1603086180,
+        "modified":1603086180,
+        "pretty_title":"Shrunken around Anime Females"
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"danielag02",
+            "author_name":"Daniel",
+            "choices":[
+                "Body Swap",
+                "Life Swap",
+                "New Life",
+                "New Body",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span><span class=\"cblue\">It's the year 2050 and humanity have developed a way to change/swap your body. A cooperation named with the name of ReMega Technologies (RMTech) dominates the market. Most of the procedures are legal but some things are only available on the black marked. Knock yourself loose and write whatever you want, just keep these simple rules in mind.</span><br>\r\n<br>\r\nHello and welcome to RMTech, what kind of swap do you want?<br>\r\n<br>\r\n<span class=\"clred\">Page 1: <br>\r\n- Body Swap: Swap body with someone else, both persons must consent. Age limit 7.<br>\r\n- Life Swap: Lets you swap life with another person, both parts must consent. Age limit is 15.<br>\r\n- New Life: Cerate a new life+body. Age limit is 15, parrents must consent if under 18.<br>\r\n- New Body: Create a new body for yourself. Age limit 13.<br>\r\nOther: <br>\r\n- Body Change: Change your own body. Age limit 7.<br>\r\n- Body Part Swap: Swap body parts with somebody else, both parts must consent. Age limit 13.<br>\r\n- Sell and buy: Sell your own body and buy a new one. You can chose to keep or switch life.</span></span></div></div>",
+            "created":1518025140,
+            "id":2450370,
+            "title":"Welcome to uss."
+        },
+        "11":{
+            "author_id":"danielag02",
+            "author_name":"Daniel",
+            "choices":[
+                "A cupple.",
+                "Two friends.",
+                "A group of friends.",
+                "Two family members.",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, but who are you?<br>\r\n<br>\r\n<span class=\"clred\">- A cupple.<br>\r\n- Two friends.<br>\r\n- A group of friends.<br>\r\n- Two family members.<br>\r\nOther</span></span></div></span></div>",
+            "created":1518025680,
+            "id":2450373,
+            "title":"Body Swap"
+        },
+        "111":{
+            "author_id":"danielag02",
+            "author_name":"Daniel",
+            "choices":[
+                "Peter (19) and Victoria (19)",
+                "Peter (16) and Emma (16)",
+                "Kyle (22) and Sophia (21)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, who is it that want to swap?</span></div></span></div>",
+            "created":1518026040,
+            "id":2450375,
+            "title":"A cupple."
+        },
+        "114":{
+            "author_id":"switcher",
+            "author_name":"switcher",
+            "choices":[
+                "Richard's Point-Of-View",
+                "Daniel's Point-Of-View"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Alright son, we're here,\" Your father Richard tells you has he parks his car in front of a large building. You, fifteen year old Daniel, climb out of the car and look at the building. \"Wow, I can't believe this is actually going to happen..\" Daniel said. His father chuckled and the two walked inside of the building. A few days before, you and your father had been talking about how cool it would be to switch bodies with each other. Your father wanted to be young again while you wanted to try being the adult. When you two walk in, you are greeted by a woman wearing a white lab coat, her hair in a pony tail. \"Hello, welcome to ReMega Technologies!\" She said, flashing a smile. \"What are you two doing here today?\" \"My son and I are here to switch bodies with each other,\" Richard told the lady. You nodded. \"Oh, that sounds fun! Follow me,\" She tells you two. You and your father follow the woman to a check-in desk where your father fills out some paper work. \"Alright, you're all set. Have fun switching bodies!\" She said. You and Richard exit the main lobby and head to the room number you were given. When you enter the room, there are two large pods standing in the room. \"Hello! If you two would step carefully into the pods that would be great!\" A woman greeted you two. Richard climbed into a pod and you followed. Suddenly, the pod doors closed as the woman pressed some buttons on her iPad. Everything soon began getting black..</span></div></div>",
+            "created":1522286640,
+            "id":2471500,
+            "title":"Two Family Members."
+        },
+        "115":{
+            "author_id":"petrozichy4589",
+            "author_name":"Dima",
+            "choices":[
+                "Young teen",
+                "College student",
+                "More if you can think of some"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Some more starting points</span></div></span></div>",
+            "created":1525460880,
+            "id":2488245,
+            "title":"Other"
+        },
+        "15":{
+            "author_id":"danielag02",
+            "author_name":"Daniel",
+            "choices":[
+                "Body Part Swap",
+                "Sell and Buy",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choises<br>\r\n- Body Part Swap: Swap body parts with somebody else, both parts must consent. Age limit 13.<br>\r\n- Sell and Buy: Sell your own body and buy a new one. You can chose to keep or switch life.<br>\r\nOther</span></div></span></div>",
+            "created":1518025260,
+            "id":2450372,
+            "title":"Other"
+        },
+        "153":{
+            "author_id":"danielag02",
+            "author_name":"Daniel",
+            "choices":[
+                "Continue (Reserved for Daniel)",
+                "Continue (Remember to add other so that people can make their own cases)",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span><span class=\"cblue\">Your name is Matthew Smith but everyone you know call you Matt. You work for the Departement of Intelligence (DoI) in a division named Secret Operations. You have just started in this division but you have read abput their operations and are ready for your first assignment.</span><br>\r\n<br>\r\n<span class=\"clred\">Your work will consist of using the technology in this story to disguise yourself and take cases.</span></span></div></div>",
+            "created":1543762020,
+            "id":2584734,
+            "title":"Secret Agent"
+        }
+    },
+    "info":{
+        "author_id":"danielag02",
+        "author_name":"Daniel",
+        "brief_description":"A new body and life changing/swapping company have opened, what do you want to do?",
+        "created":1518024720,
+        "description":"<td align=\"left\" class=\"norm\">It's the year 2050 and humanity have developed a way to change/swap your body. A cooperation named with the name of ReMega Technologies (RMTech) dominates the market. Most of the procedures are legal but some things are only available on the black marked. Knock yourself loose and write whatever you want, just keep these simple rules in mind.<br>\r\n<br>\r\n<b>Rules</b><br>\r\n- Try not to kill anyone unless you find it as absolutely nessesary. <br>\r\n- Keep good grammar.<br>\r\n- Try to avoid making a site to long or to short. If you need to make multiple choises an option is to write the choises you want on the bottum of the page and someone with payed membership can add them for you.<br>\r\n- Sex is ok but try to focus on things, there are so much more to do.<br>\r\n- I do reserve the right to edit/delete content.<br>\r\n- These rules can be changed so try to keep yourself uppdated.<br>\r\n- If the story have been made so that anyone can add where they want it to go do not end the choises, add an option named \"other\".<br>\r\n- Off-site links must work and be safe, having picture links are great but only when they work.<br>\r\n- Have fun!<br>\r\n<br>\r\n<b>Procedures</b><br>\r\n- Body Swap: Swap body with someone else, both persons must consent. Age limit 7.<br>\r\n- Life Swap: Lets you swap life with another person, both parts must consent. Age limit is 15.<br>\r\n- New Life: Cerate a new life+body. Age limit is 15, parrents must consent if under 18.<br>\r\n- New Body: Create a new body for yourself. Age limit 13.<br>\r\n- Body Change: Change your own body. Age limit 7.<br>\r\n- Body Part Swap: Swap body parts with somebody else, both parts must consent. Age limit 13.<br>\r\n- Sell and buy: Sell your own body and buy a new one. You can chose to keep or switch life.<br>\r\n<br>\r\nAnything can be done, you don't need to follow the rules. But remember, it's risky to do something illegal.<br>\r\n<br>\r\nMore can be added later.</td>",
+        "id":2148346,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1543762020,
+        "modified":1543762020,
+        "pretty_title":"Swap | Body and Life"
+    }
+}

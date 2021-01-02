@@ -1,0 +1,1037 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Disney",
+                "Nick",
+                "CN",
+                "Pbs",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What network do you want to select from?</span></div></span></div>",
+            "created":1476334800,
+            "id":2222993,
+            "title":"Network"
+        },
+        "11":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Phineas and Ferb",
+                "Recess",
+                "Kim Possible",
+                "Goof Troop",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What show do you want?</span></div></span></div>",
+            "created":1476334800,
+            "id":2222995,
+            "title":"Shows"
+        },
+        "111":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Male",
+                "Female",
+                "Both (Group Only)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will your character be male or female or, in the case of a group, both?</span></div></span></div>",
+            "created":1476334800,
+            "id":2223000,
+            "title":"Gender"
+        },
+        "1111":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "1",
+                "2",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will this happen to one or multiple characters?</span></div></span></div>",
+            "created":1476334800,
+            "id":2223001,
+            "title":"Single or group"
+        },
+        "11112":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Phineas and Ferb",
+                "Baljeet and Buford",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want to go with the Flynn/Fletcher brothers, Baljeet/ Buford, or another choice?</span></div></span></div>",
+            "created":1476334800,
+            "id":2223003,
+            "title":"Characters"
+        },
+        "111121":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Stuffed versions of themselves",
+                "A stuffed animal",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of toy will they become?</span></div></span></div>",
+            "created":1476334800,
+            "id":2223005,
+            "title":"Type of Toy"
+        },
+        "1111211":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Buford",
+                "Baljeet",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And last but not least who becomes their new owners</span></div></span></div>",
+            "created":1476334800,
+            "id":2223006,
+            "title":"Who finds them"
+        },
+        "11112111":{
+            "author_id":"nobody495",
+            "author_name":"nobody495",
+            "choices":[
+                "He notices the plushies",
+                "He doesn't notice the plushies as he walks all over them"
+            ],
+            "content":"<div class=\"\"><div> <span>Once again in Danville, Phineas and Ferb new what they were gonna do today. <br>\r\n<br>\r\n\"Let me tell ya, Ferb. I wasn't sure about it when you suggested we make a 'Plush-Machine,' I wasn't sure about it, but you've got quite the silver tongue, eh?\" Phineas said. Upon hearing Phineas, Ferb just smugly shrugged his shoulders, staying quiet like he usually does. Like Phineas said, the two were building a Plush-Machine, originally intending to create a plush of their very own Perry. Maybe they could both have their own Perry at night, maybe Perry could have his own plush friend... no matter what they decided on, they were gonna make a Perry plush.<br>\r\n<br>\r\nThe device took ordinary rubble, put it on a conveyor belt, and turned it into a random plush logged into the system.<br>\r\n<br>\r\n\"Though, in retrospect, making the computer select a random person <i>may</i> not've been our best idea,\" Phineas said, chuckling towards the end of the sentence. Ferb, again, shrugged. After twisting one last screw, Phineas was sure it was ready. \"Alright, let's give this thing a test drive!\" Phineas grabbed a bit of rubble, and threw it onto the conveyer belt. Unfortunately, he wound up carried off with the force of his swing. He tossed himself onto the conveyer belt and into the machine. Ferb panicked and leapt after him, trying to catch him. The machine, unfortunately, recognized the two as objects for the Plush-Machine, and selected two characters to plushify. <br>\r\n<br>\r\nThe machine chose to turn Phineas into a Phineas plush, and turn Ferb into a Ferb plush. The two are then deposited outside the machine, in their new plush forms.<br>\r\n<br>\r\n\"It was quite convenient how that machine turned us into us, huh Ferb?\" Phineas said. Unfortunately, his voice couldn't escape his body. Suddenly, the gate fence opens, and in comes Buford! He walks over to the machine and...</span></div></div>",
+            "created":1476334800,
+            "id":2223032,
+            "title":"Buford"
+        },
+        "111121112":{
+            "author_id":"nobody495",
+            "author_name":"nobody495",
+            "choices":[
+                "Buford notices the plushies stuck to his shoelaces",
+                "Buford still doesn't notice them"
+            ],
+            "content":"<div class=\"\"><div> <span>\"What's going on over here?\" Buford asked as he came in. <br>\r\n<br>\r\n\"Hey Buford. Sorry, but, we've gotten into a bit of a pickle here. Could you help us out?\" Phineas tried to say. Unfortunately, he couldn't say anything aloud. Buford heard nobody. He turned his head side to side, trying to find them.<br>\r\n<br>\r\n\"Phineas? Ferb?\" He finally noticed the machine. He walks over to it, unfortunately walking right towards the two plushies.<br>\r\n<br>\r\n\"Buford? Buford!\" Phineas and Ferb looked on in fear as Buford's shoes stomped dangerously close to them. Then, the two smash right on top of them. \"Ugh...\" Phineas groaned. Unfortunately, the impact got there arms caught in his TUFF SHOELACES, so they were carried along as he continued walking. They're thrashed about, banged against the soil and occasionally wedged under the shoes again as Buford paces around the machine, wondering what it is.<br>\r\n<br>\r\n\"If Phineas and Ferb were here, they'd know what the heck this thing is...\"</span></div></div>",
+            "created":1476334800,
+            "id":2223035,
+            "title":"He doesn't notice the plushies as he walks ..."
+        },
+        "1111211121":{
+            "author_id":"nobody495",
+            "author_name":"nobody495",
+            "choices":[
+                "\"...candy?\"",
+                "\"...cushion?\""
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Huh?\" Buford wondered aloud, finally looking down at what's got in his shoe laces. They looked like Phineas and Ferb. <br>\r\n<br>\r\n\"What are these, some sort of Phineas and Ferb...\"</span></div></span></div>",
+            "created":1476334800,
+            "id":2223040,
+            "title":"Buford notices the plushies stuck to his shoelaces"
+        },
+        "11112111211":{
+            "author_id":"nobody495",
+            "author_name":"nobody495",
+            "choices":[
+                "He succeeds",
+                "He can't do it"
+            ],
+            "content":"<div class=\"\"><div> <span>At hearing that, the two recoiled (though no one could see that) at this thought. Buford picked them both up, and held them up to his sides.<br>\r\n<br>\r\n\"Well, one way to find out,\" Buford decided. He pulled Phineas up to his mouth, opening it up wide. \"Ahhhhhh,\" he said as he pulled him up to him. <br>\r\n<br>\r\n\"No! NO! BUFORD!\" Phineas tried to shout. But it was for not. Buford stuffed the stuffed toy into his mouth, and tried to chew on it. But his teeth had no effect on the fabric skin of the toy. Not that it made things any more pleasant for Phineas. He decided it was probably some sort of swallow only candy. Phineas stared on in horror as he was brought to Buford's throat. He's pulled down the slimy esophagus, squeezed through the warm tube, and deposited into his warm gullet. \"Well, this is unusual,\" Phineas remarked. Eventually, Ferb was plopped onto Phineas, who recoiled in pain.<br>\r\n<br>\r\n\"Hey, Ferb. Did you see that?\" Phineas started. Ferb still couldn't hear him. \"I could move right there. I wonder if... if...\" he tried to move his legs, and...</span></div></div>",
+            "created":1476334800,
+            "id":2223042,
+            "title":"\"...candy?\""
+        },
+        "111121112111":{
+            "author_id":"nobody495",
+            "author_name":"nobody495",
+            "choices":[
+                "Towards the throat",
+                "Towards the intestine"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hrn... Hrrrrrn... Rah!\" Phineas shouted as he managed to leap up to his feet. \"Hey, check me out, Ferb!\" Phineas still hadn't realized Ferb couldn't hear him, though he was used to his brother not responding. Speaking of, Ferb also learned how to walk. Meanwhile, Buford's voice came in from above.<br>\r\n<br>\r\n\"Hm... is that what Phineas and Ferb taste like? Wish I knew earlier,\" Buford said. Phineas looked over at Ferb, and their awkward pause told them both that they should just ignore that ever happened.<br>\r\n<br>\r\n\"Anyway... I'd like to explore the human body as much as the next guy, but this is just getting redundant. Let's go,\" Phineas said. Ferb followed, even though he couldn't understand his words. Phineas traveled...</span></div></div>",
+            "created":1476507600,
+            "id":2223486,
+            "title":"He succeeds"
+        },
+        "1111211121112":{
+            "author_id":"nobody495",
+            "author_name":"nobody495",
+            "choices":[
+                "They appeal to Buford. Maybe he won't hurt them when he sees them move",
+                "They sneak around Buford"
+            ],
+            "content":"<div class=\"\"><div> <span>'Well, either way isn't gonna turn out well for us...\" Phineas lamented. Phineas went towards the... exit. Ferb followed despite his personal revulsion. Meanwhile, outside, Buford felt a pressure in his gut, and ran off...<br>\r\n---------------------------<br>\r\nBuford left a room, feeling relieved. Meanwhile, the two plushies left too. They stared at each other, with a look that said they were not gonna bring this up anytime soon. They decide they should now try to get out of these plush bodies. How should they do that though?</span></div></div>",
+            "created":1476507600,
+            "id":2223492,
+            "title":"Towards the intestine"
+        },
+        "11112111212":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Butt (Butt cushions)",
+                "Feet (Foot cushions)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>This instantly made Phineas and Ferb cringe......well they would cringe if they could move. \"Question is what kinda cushion?\"Buford asks lifting them to his face, \"Maybe a butt cushion? Or some sort of foot cushion or something?\" He contemplates what they could possibly be as he poked and prodded them. \"I know!\"He yells as he brings them toward his</span></div></div>",
+            "created":1476507600,
+            "id":2223535,
+            "title":"\"...cushion?\""
+        },
+        "111121112121":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Outside",
+                "Inside"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Outside or inside his pants?</span></div></span></div>",
+            "created":1476507600,
+            "id":2223537,
+            "title":"Where"
+        },
+        "1111211121212":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "...right here\"",
+                "...at home\""
+            ],
+            "content":"<div class=\"\"><div> <span>Buford slides the two poor boys inside his underwear.<br>\r\n\"I didn't know that he is that hairy and... sweaty\" thinks Phineas really disgusted as he is rubbed against Buford's ass and that his nose is forced in the crack.<br>\r\n\"I don't know if they are comfortable but they're doing a great job to absorb my sweat\" Buford jokes unknowing that he is torturing his friends \"well I should try them...</span></div></div>",
+            "created":1586737560,
+            "id":2817851,
+            "title":"Inside"
+        },
+        "11112111212122":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "Buford's stomach gurgles again.",
+                "Buford phone rings."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Visibly Phineas and Ferb aren't here so I will bring back their cushion later\" says Buford as he leaves the garden, each step is a torture to Phineas and Ferb as they're pressed against his ass cheeks. The worst part is that today is a hot day so Buford is really sweaty so the boys have to \"drink\" his ass sweat and it's awful.<br>\r\nWhen Buford arrives at his home, his stomach gurgles from hunger so he heads to his kitchen<br>\r\n\"Oh cool, there is some chili, it gives me terrible gas but I'm sure Phineas and Ferb won't mind if their cushions smell like my farts\" the boys mentally scream as they hear that, they try to squirm but the can't move at all, they are forced to stay here and face their horrible fate.<br>\r\nBuford goes to his bedroom and sits on his wooden chair <br>\r\n\"They are really comfortable, I could stay here all the day playing video games\" as he starts to play, the two brothers are crushed under their friend's stinky ass. <br>\r\nAfter few hours of torture, Phineas hears a familiar sound.</span></div></div>",
+            "created":1586739180,
+            "id":2817861,
+            "title":"...at home\""
+        },
+        "111121112121221":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "...stay in there\"",
+                "...go in the washing machine\""
+            ],
+            "content":"<div class=\"\"><div> <span>Phineas hears Buford's stomach and this time he fears that this isn't from hunger. His fears are confirmed when he hears Buford saying:<br>\r\n\"Oh this chili is really kicking in\" he raises one leg and <i>Prrrpprrrrrpprr</i> he rips a long juicy fart. Phineas is the first to endure the smell because his nose is deep in the crack, the stench is just horrible, it would have makes him puke if he wasn't a plush. Then the hot wind hit Ferb, he is mentally screaming <br>\r\n\"How can he smells so bad this isn't human\" both of them really want to cry, especially after Buford tells:<br>\r\n\"Wow I smell nothing, those cushion are amazing I can rip all of my farts without being bothered by the smell\" he laughs as he releases an SBD torturing even more the brothers.<br>\r\nAfter few hours playing and farting, Buford decides to take a nap <br>\r\n\"I'm gonna rest a bit, and you boys\" he says patting the plushes in his underwear \"you're gonna...</span></div></div>",
+            "created":1586777160,
+            "id":2818090,
+            "title":"Buford's stomach gurgles again."
+        },
+        "1111211121212212":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "...funny.",
+                "...horrible."
+            ],
+            "content":"<div class=\"\"><div> <span>Buford takes them out, Phineas and Ferb feel relief as they can breathe pure air, even if they are impregnated with the stench. Buford sniffs them<br>\r\n\"Phew happily no one smells that\" he says laughing. Phineas want to scream and squirm but his corpse refuses to move.<br>\r\nHe puts them in the empty machine, well not for long. Buford then puts his dirty clothes and underwear, burying them under sweaty clothes. He closes the machine and activates them, this is going to be...</span></div></div>",
+            "created":1588119300,
+            "id":2826493,
+            "title":"...go in the washing machine\""
+        },
+        "111121112122":{
+            "author_id":"nobody495",
+            "author_name":"nobody495",
+            "choices":[
+                "He keeps stomping",
+                "He takes them out for something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"And boy did you guys show up at a good time,\" Buford said, relieved. He removed his socks, and stuffed each brother into one.He put his shoes back on, and stomped around to \"break in\" his cushions. The two brothers were suffering down there.</span></div></div>",
+            "created":1476507600,
+            "id":2223551,
+            "title":"Feet (Foot cushions)"
+        },
+        "11112113":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Irving?</span></div></span></div>",
+            "created":1586777760,
+            "id":2818098,
+            "title":"Other"
+        },
+        "111121131":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "They can do it.",
+                "They can't do it."
+            ],
+            "content":"<div class=\"\"><div> <span>Another day at Danville and another crazy machine created by Phineas and Ferb. This time they decided to build a Plush-machine, it's able to create a plysh out of anything. As they wanted to test the machine, they both fall inside. After few manipulations, they get out of the machine as plushes of themselves<br>\r\n\"Well now we know that the machine works\" says Phineas laughing but nothing comes out of his mouth, he tries to get up but his fluffy corpse won't move. As they realize that they are stuck like that, they hear someone at their fence<br>\r\n\"Hi Phineas, hi Ferb, this is weird, I heatd them not so long ago\" says Irving visibly disappointed to miss them, he started to leave when he noticed the plushes \"Oh what's that\" he enters in the garden and comes closer to them <br>\r\n\"They are Phineas and Ferb plushes, awesome\" he exclaims as he seizes them \"they probably made them with that machine so they won't mind if I borrow those two\" he says as he leaves the garden and runs to his house. Phineas and Ferb are really worried about what will happen.<br>\r\nWhen Irving arrives in his room, he puts the plushes on his bed, Phineas notices that the room is full with photos of them, it makes him uncomfortable.<br>\r\n\"I have a lot to do today but tonight I will take care of you\" he says visibly excited. The brothers don't want to know what he means by \"take care\" but they don't want to know, they really need to go away or at least aware Irving that they aren't plushes, so they try their best to move and talk.</span></div></div>",
+            "created":1586779740,
+            "id":2818115,
+            "title":"Yes"
+        },
+        "1111211311":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "They do something ",
+                "Theu do nothing "
+            ],
+            "content":"<div class=\"\"><div> <span>As Irving is working on his computer, Phineas is still trying to have his attention a d finally after trying all day he manages to talk<br>\r\n\"Irving... please... help\" it's really complicated so he will not be able to talk a lot <br>\r\n\"Who said that?\" Irving turns back looking for voice <br>\r\n\"It's...me\" he manages to raise his hand too but it's so exhausting. Irving comes closer <br>\r\n\"Wait Phineas you're a plush, how did you do that?\" he asks excited<br>\r\n\"Accidental...we...fell\" it's harder to talk <br>\r\n\"Omg I have to show this to my brother, he always says that I lie and you can't build all thos incredible things but here's the proof\" he leaves the room. Phineas tries to tell him to stay but he is too exhausted.<br>\r\nIrving comes back with his brother<br>\r\n\"Look Albert\" Irving says pointing at you <br>\r\n\"Yeah they are plushes of the two neighbors \" Albert says visibly uncaring <br>\r\n\"They are not plushes, they are Phineas and Ferb, come on Phineas talk to him\" the two giant watch him waiting that he says something. He tries to say that he's alive but nothing comes out and he can't move <br>\r\n\"As I thought they are only plushes\" Albert says looking at Irving with a bit of judgement<br>\r\n\"But this is true, he talked to me\" he tries to defend himself <br>\r\n\"Alright so you say that they're alive so they can move?\" he asks as he grabs Ferb<br>\r\n\"Yeah but what are you doing?\" Irving asks confused <br>\r\n\"I'm trying to force them to move, I mean if someone was about to sit on me I would move away\" he tells that while he puts Ferb on a chair and prepares to sit. Phineas tries to scream him to stop and Ferb tries to move away but none of them can. Ferb can't even close his eyes so he is forced to watch the big ass coming closer and closer. When Albert sits totally on him, Ferb his crushed underhis ass which is hurtful and humiliating <br>\r\n\"Albert stop you're probably hurting him\" Irving tries to stop him <br>\r\n\"Well I don't hear him complain so he probably likes it or it's only a plush\"<br>\r\n\"I swear to you that they are alive\"<br>\r\n\"Fine one last chance, if none of them talk or move, I'm gonna fart on him\"<br>\r\nPhineas and Ferb are both shocked about that, they start panicking and they try to do something.</span></div></div>",
+            "created":1586963400,
+            "id":2819232,
+            "title":"They can do it."
+        },
+        "11112113112":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "...throws Ferb to his brother's face.",
+                "...grabs Phineas."
+            ],
+            "content":"<div class=\"\"><div> <span>Phineas is too exhausted after talking earlier and Ferb is unable to do anything.<br>\r\nHe tries to scream but not a sound can be heard.<br>\r\n\"Time out\" Albert says as he rips a fart on Ferb. This isn't a big fart but for Ferb it's awful, the stench is all that he can breathe and he feels his fiber absorbing it. Albert stands up anf grabs Ferb, he agitates him in front of Irving <br>\r\n\"You see, this is only a plush\"<br>\r\n\"No, he just can't talk and you made him suffer\" Irving cries<br>\r\n\"You have a problem with those boys\" Albert says as he...</span></div></div>",
+            "created":1587742920,
+            "id":2823740,
+            "title":"They do nothing "
+        },
+        "111121131122":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "...you should stay here tonight\"",
+                "...you should come in bed with me\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"I will keep them\" Albert says as he starts to leave with the two boys. Irving tries to stop him but he's too weak.<br>\r\nAlbert goes in his room<br>\r\n\"Well I still have some work to do, but with those cushion it will be more agreeable\" he says to himself. Phineas and Ferb hear that and scream mentally as he places them on his chair. He sits on them and they are crushed between the wooden chair and the stinky ass.<br>\r\nAfter some times Albert stretches and releases a loud fart on the poor boys who are forced to smell it.<br>\r\nAlbert stands up<br>\r\n\"I will call it a night, you two are really comfortable and you absorb my farts so well that I don't even smell them\" he laughs alone \"I think...</span></div></div>",
+            "created":1591109220,
+            "id":2844714,
+            "title":"...grabs Phineas."
+        },
+        "1111211312":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "...hug them to sleep.",
+                "...masturbate using them."
+            ],
+            "content":"<div class=\"\"><div> <span>They try their best to talk or move but they are unable to do it. Irving comes back in his room at night <br>\r\n\"Ah finally some time alone\" he comes closer to them and the smell of sweat attacks them, he seizes them and hugs them tightly pressing them against his sweaty body<br>\r\n\"I heard that the real Phineas and Ferb are missing, I'm worried about them but at least I have you two\"<br>\r\n<i>\"I am the real Phineas\"</i> he tries to scream but not a word comes out. He puts them back to take off his clothes, he goes into his bed with only his underwear and nearly sits on Ferb who really starts to panic. He then grabs both of them and says <br>\r\n\"We will have a lot of fun together\" he kisses them on their forehead and brings them under the blanket as is going to...</span></div></div>",
+            "created":1586795160,
+            "id":2818196,
+            "title":"They can't do it."
+        },
+        "11112113122":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "Phineas ",
+                "Ferb"
+            ],
+            "content":"<div class=\"\"><div> <span>Phineas and Ferb panic as Irving takes them closer to his crotch and they notice the tent in his underwear<br>\r\n\"It will be so good\" Irving says all excited as he presses the plushes against his hard on. He turns around so that Phineas is dick is just on Phineas and as he approaches Ferb from the waistband he says <br>\r\n\"One of you will work from the inside\" and the brothers both internally screams as Ferb is slips inside Irving's underwear, next his dick and he immediately regrets his idea of plush-machine.<br>\r\nIrving start to move his waist so he rubs his penis all over Phineas and he rubs Ferb all over his penis. As he gets faster, he starts to moan and Ferb can already taste his precum which is really unpleasant and soon Irving reaches is climax and releases a flow of hot cum just on Ferb who clearly hates it, it tastes terrible. Irving take him out and look at him <br>\r\n\"You've done a great job down there, next time I'll switch the role and I'll wash you tomorrow\" he says as he throws him away. He starts to fall asleep as Phineas is still under his crotch with his cum drenched underwear, Phineas is really terrified about the next days and about his brother. His brother who was thrown against the door which hurted him badly and landed not so far.<br>\r\nWho are we following this night?</span></div></div>",
+            "created":1586830620,
+            "id":2818493,
+            "title":"...masturbate using them."
+        },
+        "111121131221":{
+            "author_id":"kirito-kun",
+            "author_name":"kirito",
+            "choices":[
+                "...laying on the floor",
+                "...missing"
+            ],
+            "content":"<div class=\"\"><div> <span>Phineas is stuck under Irving's dirty crotch.<br>\r\nAnd unfortunately for him the transformation keep him awake.<br>\r\nHe was thinking about his poor brother when he suddenly feel something wet<br>\r\n\"Oh no don't tell me he's gonna...\" his thoughts are interrupted by a flow of hot pee.<br>\r\nPhineas absorbs all the disgusting liquid, he's internally crying.<br>\r\nThe flow finally stops but he can feel the pee inside of him and the strong scent is unbearable.<br>\r\n<br>\r\nWhen Irving wakes up in the morning he notices that Phineas is wet<br>\r\n\"Oh looks like I had another accident, thanks for protecting my sheets Phineas\" Irving laughs as he takes him carefully.<br>\r\nWhen Phineas is finally out of the cover he notices that Ferb is...</span></div></div>",
+            "created":1596795540,
+            "id":2881748,
+            "title":"Phineas "
+        },
+        "115":{
+            "author_id":"dbzfangoku",
+            "author_name":"DBZFanGoten",
+            "choices":[
+                "TaleSpin",
+                "Darkwing Duck",
+                "More choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a little more shows from the Disney Afternoon block?</span></div></span></div>",
+            "created":1515560400,
+            "id":2438977,
+            "title":"More Choices"
+        },
+        "1151":{
+            "author_id":"dbzfangoku",
+            "author_name":"DBZFanGoten",
+            "choices":[
+                "Baloo",
+                "Kit Cloudkicker",
+                "More characters, please."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Welcome to Cape Suzette! Home of the cargo service, Higher for Hire, run by Rebecca Cunningham and plane piloted by Baloo!<br>\r\n<br>\r\nWhich character are you?</span></div></span></div>",
+            "created":1515560400,
+            "id":2438980,
+            "title":"TaleSpin"
+        },
+        "11513":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Rebecca Cunningham",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will it be Rebecca Cunningham?</span></div></span></div>",
+            "created":1532466240,
+            "id":2524171,
+            "title":"More characters, please."
+        },
+        "1152":{
+            "author_id":"dbzfangoku",
+            "author_name":"DBZFanGoten",
+            "choices":[
+                "Darkwing/Drake Mallard",
+                "Launchpad",
+                "More characters, please."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"I am the terror that flaps in the night! I am the $400.00 game console that gives you the Blue Screen of Death! I am...!.Okay, seriously, who the heck am I?\"</span></div></span></div>",
+            "created":1515560400,
+            "id":2438981,
+            "title":"Darkwing Duck"
+        },
+        "1153":{
+            "author_id":"dbzfangoku",
+            "author_name":"DBZFanGoten",
+            "choices":[
+                "DuckTales",
+                "Chip 'n Dale Rescue Rangers",
+                "More choices, please."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>No? How about these?</span></div></span></div>",
+            "created":1515560400,
+            "id":2438978,
+            "title":"More choices!"
+        },
+        "11531":{
+            "author_id":"dbzfangoku",
+            "author_name":"DBZFanGoten",
+            "choices":[
+                "DuxkTales (1987)",
+                "DuckTales (2017)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>DUCKTALES! WOO-WOO! <br>\r\n<br>\r\nOkay, which DuckTales series?</span></div></span></div>",
+            "created":1515560400,
+            "id":2438979,
+            "title":"DuckTales"
+        },
+        "12":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Loud House",
+                "Hey Arnold",
+                "Rugrats (Original)",
+                "Fairly odd parents",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pick a show, any show</span></div></span></div>",
+            "created":1476334800,
+            "id":2222998,
+            "title":"Shows"
+        },
+        "123":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Tommy Pickles ",
+                "Chuckie Finster",
+                "other characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Character from The Original Rugrats will be turned into toys?</span></div></span></div>",
+            "created":1476421200,
+            "id":2223255,
+            "title":"Rugrats (Original)"
+        },
+        "1233":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Phil Deville",
+                "Lil Deville",
+                "More Characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There are more other characters from the Original Rugrats and here are more!</span></div></span></div>",
+            "created":1476421200,
+            "id":2223256,
+            "title":"other characters"
+        },
+        "12333":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Dil Pickles ",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>About this character from the original Rugrats?</span></div></span></div>",
+            "created":1476421200,
+            "id":2223257,
+            "title":"More Characters"
+        },
+        "123332":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Angelica Pickles",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the meanest cousin of Tommy Pickles named Angelica</span></div></span></div>",
+            "created":1476421200,
+            "id":2223258,
+            "title":"Someone else"
+        },
+        "1233321":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A baby doll.",
+                "A stuffed animal.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Angelica it is. Now, what type of toy does she turn into?</span></div></span></div>",
+            "created":1521522000,
+            "id":2466884,
+            "title":"Angelica Pickles"
+        },
+        "1233322":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Susie Carmichael",
+                "One more character"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the three year old friend of the babies named Susie?</span></div></span></div>",
+            "created":1476421200,
+            "id":2223259,
+            "title":"Someone else"
+        },
+        "12333221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A doll.",
+                "Some kind of stuffed animal.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You've chosen Susie.<br>\r\nNow, what sort of toy will she become?</span></div></span></div>",
+            "created":1521522000,
+            "id":2466885,
+            "title":"Susie Carmichael"
+        },
+        "12333222":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "Kimi Finster "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the step sister of Chuckie Finster named Kimi Finster?</span></div></span></div>",
+            "created":1476421200,
+            "id":2223260,
+            "title":"One more character"
+        },
+        "123332221":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "A doll.",
+                "A stuffed animal.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now then, what sort of toy will Kimi become?</span></div></span></div>",
+            "created":1521522000,
+            "id":2466888,
+            "title":"Kimi Finster "
+        },
+        "13":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Ben 10 (Reboot or Original)",
+                "Adventure Time",
+                "Foster's",
+                "Juniper Lee",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What show will it be?</span></div></span></div>",
+            "created":1476334800,
+            "id":2222996,
+            "title":"Shows"
+        },
+        "131":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Reboot",
+                "Original"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So will it be the reboot or the original?</span></div></span></div>",
+            "created":1478062800,
+            "id":2231944,
+            "title":"Reboot or Og"
+        },
+        "1312":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Male",
+                "Female",
+                "Both (Group only)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So will it be a male, female, or in the case of groups both who gets tf?</span></div></span></div>",
+            "created":1478062800,
+            "id":2231946,
+            "title":"Gender"
+        },
+        "13122":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "1",
+                "Multiple"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So will it be one character or multiple characters who get tf?</span></div></span></div>",
+            "created":1478062800,
+            "id":2231947,
+            "title":"Character or Characters"
+        },
+        "131221":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Gwen",
+                "Charmcaster",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So who will it be?</span></div></span></div>",
+            "created":1478062800,
+            "id":2231948,
+            "title":"Who"
+        },
+        "1312211":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Ben",
+                "Grandpa Max",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who finds here?</span></div></span></div>",
+            "created":1478062800,
+            "id":2231950,
+            "title":"New owner"
+        },
+        "13122111":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Plushie version of herself",
+                "Stuffed animal",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lastly what type of toy does she turn into?</span></div></span></div>",
+            "created":1478062800,
+            "id":2231952,
+            "title":"Type"
+        },
+        "131221111":{
+            "author_id":"derpatron",
+            "author_name":"Derpus",
+            "choices":[
+                "Ben notices her.",
+                "He doesn't notice. Stuck for a while"
+            ],
+            "content":"<div class=\"\"><div> <span>Gwen groaned as she slowly eased into consciousness. She had been exposed to a weird ray of light from the Omnitrix and had gone into the Rustbucket to rest, having felt extremely woozy afterward. \"Ugh... What happened?\", she groaned as she slowly arose from her nap... Only she didn't. She didn't move, speak, or anything. The only sounds she made we're in her head alone. \"Wh-what?! What the heck is going on?\", Gwen mentally cried. She looked around, but found herself unable to move her head. Here eyes darted across the room, hoping  to find a mirror or something. She soon found one, and quickly wished she hadn't. Somehow, Gwen had transformed into a tiny plush version of herself! \"H-how...?!\"<br>\r\n<br>\r\nGwen's thoughts were quickly cut off as she heard the door opening and heard a familiar, annoying voice. \"Man, that was brutal\", Ben said.<br>\r\n<br>\r\n\"Oh no\", Gwen thought. \"If that dweeb finds me like this, he'll...\" Gwen had no time to react as Ben jumped and landed on the bed, completely squishing her beneath his butt! \"Ewww! Get your nasty butt off of me!\" Gwen mentally screamed.<br>\r\n<br>\r\nBen was completely ignorant of his cousin's plight, however, simply wriggling his rear into the bed and Gwen as he grabbed his portable Sumo Slammers game and began playing. Gwen knew he wouldn't be going anywhere for a while and mentally groaned. As much as she hated to admit it, she needed Ben to notice her in order for her to be freed. She knew he might mess with her, but there was still the chance he would be able to help her out.</span></div></div>",
+            "created":1479099600,
+            "id":2237018,
+            "title":"Gwen Plushie"
+        },
+        "134":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Male",
+                "Female",
+                "Both (Group only)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will the character or characters be male, female, or in the case of a group both?</span></div></span></div>",
+            "created":1476421200,
+            "id":2223460,
+            "title":"Gender"
+        },
+        "135":{
+            "author_id":"zenju",
+            "author_name":"Zenny",
+            "choices":[
+                "Loony Tunes",
+                "Johnny Bravo ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe some other programs will do?</span></div></span></div>",
+            "created":1476680400,
+            "id":2224526,
+            "title":"Other"
+        },
+        "1351":{
+            "author_id":"zenju",
+            "author_name":"Zenny",
+            "choices":[
+                "It's Daffy Duck",
+                "It's Elmer Fudge",
+                "It's Porky Pig"
+            ],
+            "content":"<div class=\"\"><div> <span> Lola yawns as she wakes up and gets out of bed, Today was going the same as any others she<br>\r\n said as she went to put on her clothes. she looks at the mirror as she slips on her bra<br>\r\n over her D-cup breasts, followed by and a yellow tank top that left her cleavage and<br>\r\n midriff showing. Lola, of course, was a bunny just like her friend bugs who had an<br>\r\n apparent crush on her. Unlike her, friend her fur was a light tan except for her<br>\r\n cheeks,chest,belly and of course the underside of both her tail and feet which were a<br>\r\n brilliant shade of white. <br>\r\n <br>\r\n A smile crosses her face as she admires her own beauty in the mirror, it was no wonder she<br>\r\n had her male counterpart drooling at the look at her. She thought as she took started<br>\r\n butting her her purple shorts, tight shorts that formed to her round rump leaving not much<br>\r\n to the imagination. The hole in the back letting small fluffy tail pop out and wiggle<br>\r\n free. she giggles deciding not to wear her shoes today and head out of her home, The exit<br>\r\n being a hole in the ground, typical that of an actual rabbits home except way larger and<br>\r\n more furnished on the inside.<br>\r\n <br>\r\n The sun was bright and high in the sky which was a lovely blue, a tad darker than her the<br>\r\n color of her eyes. A moment passes before she saw bugs running past her, A male rabbit<br>\r\n with gray and white fur. She says his eyes widen and literally turn into hearts he ran by<br>\r\n her only to stop next to her. \"Heya Lola, um how are you doing today,\" he says<br>\r\n clearing his through while comedic drops or sweat form on his brow. However, before she<br>\r\n&gt; could even answer back a short white man wearing a ridiculously large cowboy and with even<br>\r\n more outrageously large red mustache,bushy eyebrows and long beard came running here the<br>\r\n hill shooting a pair of twin pistols and yelling out how he was going to finally catch and<br>\r\n finish his rival in Buggs. <br>\r\n <br>\r\n As he got close his yelling a screaming got louder until he came to screeching halt.<br>\r\n However pointing his normal pair guns at Buggs, he holsters and pulls a new experimental<br>\r\n gun labeled Acme. \"say your prayers varment!\" say shouts as he pulls the<br>\r\n trigger.\" However being an acme product, it was bound to blow up in his face in which<br>\r\n it did. However, instead of leaving a powder on his face, it releases a wave of energy<br>\r\n throughout the area. <br>\r\n <br>\r\n The trees and ground slowly start to shine like they were suddenly made out of some sort<br>\r\n of plastic. Looking around Lola shrieks when she's her back turn rigged a develop a<br>\r\n stiff plastic texture. Her horror terror grew as the plastic slowly crept over this rest<br>\r\n of her body making her form more rigid and shiny. Gone was her fluffy texture of her fur<br>\r\n replaced with the hard smooth texture of plastic, not unlike the kind you see on a barbie<br>\r\n doll or certain action figures. She was not the only one though as the other two also<br>\r\n covered into plastic toys. <br>\r\n<br>\r\nAs they stand there they hear a familiar voice approach, was it one of Lola or Buggs friends or was it another enemy?</span></div></div>",
+            "created":1476680400,
+            "id":2224545,
+            "title":"Loony Tunes"
+        },
+        "1353":{
+            "author_id":"digitalpocket",
+            "author_name":"Baby Tai",
+            "choices":[
+                "Warner Bros. Television",
+                "Zodiak Media",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Cartoon Network broadcasted a lot of shows from other providers.<br>\r\n<br>\r\nWarner Bros. Television provided all the superhero and Hanna-Barbera.<br>\r\n<br>\r\nZodiak Media had shows like Totally Spies and Team Galaxy</span></div></span></div>",
+            "created":1513400400,
+            "id":2428952,
+            "title":"CN Path 3"
+        },
+        "13531":{
+            "author_id":"digitalpocket",
+            "author_name":"Baby Tai",
+            "choices":[
+                "Young Justice",
+                "Alvin And The Chipmunks ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Warner Bros has a lot of shows to pick from</span></div></span></div>",
+            "created":1513400400,
+            "id":2428953,
+            "title":"WB Path 1"
+        },
+        "135311":{
+            "author_id":"digitalpocket",
+            "author_name":"Baby Tai",
+            "choices":[
+                "All Males",
+                "All Females",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, should the members who much suffer this fate be all Male, all Female or a mixture of both?</span></div></span></div>",
+            "created":1513400400,
+            "id":2428954,
+            "title":"Young Justice"
+        },
+        "1353111":{
+            "author_id":"digitalpocket",
+            "author_name":"Baby Tai",
+            "choices":[
+                "Shopping for Jason",
+                "Lots of amusement",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Idea 1:<br>\r\n(Season 1) It's little Jason's birthday coming up and Dick and Wally were out looking for a present to buy, unfortunately for them Klarion is bored, not having caused any chaos lately, and finds the two heroes. Time to have his fun.<br>\r\n<br>\r\nIdea 2:<br>\r\n(Season 2) The superhero life is tough, and Dick knows this more than anyone. After completing their latest mission Dick treats Tim, Jaime, Bart and Garfield to a day at an amusement park. The day runs smoothly until it's revealed that Dick was really being controlled by Queen Bee and it was all a ploy to get the young heroes away from any back up so they could remove them from the picture.</span></div></div>",
+            "created":1513400400,
+            "id":2428957,
+            "title":"YJ Males #1"
+        },
+        "13531111":{
+            "author_id":"digitalpocket",
+            "author_name":"Baby Tai",
+            "choices":[
+                "By a five year old girl!",
+                "By an eleven year old boy!",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"What does Jason like anyway?\" Wally asked, looking at the shops they passed as the two continued walking. <br>\r\n\"I'm not too sure on that myself,\" Dick admitted, \"Jason isn't easily excited.\"<br>\r\n\"We could just give him cash,\" Wally suggested, \"it would be easier than a present.\"<br>\r\n\"Not really personal though,\"Dick added, \"Jason had a rough childhood, I want him to enjoy his birthday.\"<br>\r\n\"I see your point,\" Wally agreed. Klarion sat on the roof of a near-by building, mopping with Teekl on his lap.<br>\r\n\"No fair!\" he whined loudly, \"Nabu ruined all my plans for Chaos and Savage won't let me erupt any Volcanoes.\" Teekl meowed loudly in response.<br>\r\n\"I don't care if it would just waste my powers I want to see something explode!\" Klarion complained. With a huff he turned away pouting, he looked down on the streets and noticed two familiar figures. \"Oh, I know him, that's the one that brought stupid Nabu back! I want some revenge.\" Klarion chuckled wickedly as Teekl meowed again.<br>\r\n\"I don't care about Savage,\" Klarion snapped, \"anyway, he'll be glad to know two of the kids are now out of our hair.\" Dick continued walking with Wally until they walked in front of an action figure store.<br>\r\n\"Hey Wally, we could get him an action figure,\" Dick suggested. <br>\r\n\"Do you think he'll like it?\" Wally asked.<br>\r\n\"I don't see why not,\" Dick replied, \"what kid doesn't like playing with action figures?\"<br>\r\n\"I see your point,\" Wally agreed. The duo walked into the store and looked around, they were larger action figures and smaller action figures, as well as lego and other things. \"So what are we getting him?\"<br>\r\n\"We could get him He-Man,\" Dick suggested. <br>\r\n\"Didn't you say he like that Owlman cartoon?\" Wally asked, holding an Owlman action figure.<br>\r\n\"How about you get him some limited addition Robin and Kid Flash action figures?\" Klarion suggested with a cackle. Dick and Wally turned to see the dark-haired mage.<br>\r\n\"Klarion!\" Dick hissed.<br>\r\n\"I'm bored and luckily for the two of you I'm going to use you to entertain myself!\" With that Klarion lifted his arms as red and black lightning surrounded them. Wally tried to run but he couldn't he was being kept in place by something, he turned to see Dick also struggling to move. Klarion shot the lightning at the boys, blinding them with its light. <br>\r\n<br>\r\n\"What the hell happened?\" Wally could hear Robin's voice in his head, similarly to when the use Miss Martian's telepathy. <br>\r\n\"I don't know but I can't move,\" Wally replied telepathically. <br>\r\n\"How are we communicating?\" Dick asked, \"have you linked us up Miss M?\" Dick waited but received no response.<br>\r\n\"Maybe we've used M'gann's ability so often that we can link with each other when in lose proximity,\" Wally assumed. <br>\r\n\"Ok, that's one mystery solved, now, why can't I move?\" Dick asked, \"I can't even open my eyes.\"<br>\r\n\"I'm trying to as well,\" Wally admitted, \"wait...I think I've got it...wait...why is everything so big?\"<br>\r\n\"Wally? What's wrong?\" Dick asked, still unable to see.<br>\r\n\"Dude! We've been turned into toys!\" Wally exclaimed. <br>\r\n\"How?\" Dick shouted back.<br>\r\n\"It must have been Klarion,\" Wally assumed. He used all his strength and managed to sit up. \"He turned us into Kid Flash and Robin action figures.\"<br>\r\n\"Wait, are you able to move?\" Dick asked, \"Why can you move? That's not fair.\"<br>\r\n\"I had to learn how to use the action figures joints to move,\" Wally informed.<br>\r\n\"Of course, and speedsters are quick learners,\" Dick replied. \"That's still unfair.\"<br>\r\n\"Let's look down this section\" A woman suggested, Wally pretended to be a normal toy on the ground as he heard people approach. Dick was in the dark, he heard noises, suddenly he was picked up by a large hand.<br>\r\n\"Wally, what's happening?\" he demanded.<br>\r\n\"This isn't good,\" Wally replied, panic starting to take over his voice. \"We're being taken...\"</span></div></div>",
+            "created":1513400400,
+            "id":2428975,
+            "title":"The Perfect Gift"
+        },
+        "135311112":{
+            "author_id":"digitalpocket",
+            "author_name":"Baby Tai",
+            "choices":[
+                "Daniel ",
+                "Daniel to give to his brother",
+                "The seven-year-old girl"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, I told you all boys liked action figures,\" Dick replied.<br>\r\n\"This isn't the time for an 'I told you so' Dick,\" Wally scolded, \"are you able to move yet?\"<br>\r\n\"I'm working on it,\" Dick replied, he slowly managed to open his eyes, he saw the eleven-year-old carrying him to the counter. The boy had golden blond hair and bright blue eyes, he was wearing a green lantern shirt. After buying the two heroes he entered the car with his mum and drove off, Wally and Dick in the back seat.<br>\r\n\"This is terrible,\" Wally ranted.<br>\r\n\"At least you can move!\" Dick shouted.<br>\r\n\"Yeah well not-so surprisingly the speed force doesn't recognise me as a toy so I can't use my powers,\" Wally revealed.<br>\r\n\"And my utility belt would just be plastic so we have no gadgets either,\" Dick added.<br>\r\n\"Looks like we'll just have to wait it out until we come up with a solution,\" Wally informed, \"most eleven-year-olds take care of their toys so we should be fine.\"<br>\r\n\"If you say so,\" Dick replied. The car pulled over at a house and the boy grabbed the two heroes he walked inside the house and into the lounge room.<br>\r\n\"Those two could be a problem though,\" Wally informed. In the lounge room was two other children, one was a seven-year-old girl with brown wearing shorts and a pink love heart shirt while the other was a three year old boy with blond hair wearing nothing but a diaper.  <br>\r\n\"You got more dolls!\" the girl cheered.<br>\r\n\"They aren't dolls,\" the boy corrected, \"they're action figures.\"<br>\r\n\"I can still use them as dolls right?\" the girl asked, the boy sighed before nodding his head.<br>\r\n\"Yeah, go for it,\" the older boy informed.<br>\r\n\"I want toys!\" the three year old informed. <br>\r\n\"I'll put them in my room,\" the boy announced, \"if you want to play with them ask me.\" The thirteen year old walked to his room, it was covered in super hero stuff, his bed had an Aquaman blanket and a plushie Martian Manhunter next to the pillow, on the wall behind his desks were drawing of several different heroes. The boy placed Wally and Dick in the desk. <br>\r\n\"Daniel! Come here please!\" the boy's mother called out.<br>\r\n\"Coming!\" he called out before leaving the room.<br>\r\n\"What are we going to do?\" Wally asked, getting up and pacing up and down the desk.<br>\r\n\"Now you're just showing off the fact that you can move,\" Dick replied.<br>\r\n\"You seriously can't walk?\" Wally asked.<br>\r\n\"No I can't!\" Dick replied, \"I can move my arms but not my legs.\" The boys heard foot steps and Wally dropped to the ground, they watched as they were picked up by...</span></div></div>",
+            "created":1513400400,
+            "id":2428982,
+            "title":"Family Toys"
+        },
+        "13532":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "es.",
+                "No, some other shows."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Shall we go with Totally Spies?</span></div></span></div>",
+            "created":1521522000,
+            "id":2466887,
+            "title":"Zodiak Media"
+        },
+        "14":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Caillou",
+                "Dragon Tales",
+                "Arthur",
+                "Maya and Miguel",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So many shows, so little time</span></div></span></div>",
+            "created":1476334800,
+            "id":2222999,
+            "title":"Shows"
+        },
+        "143":{
+            "author_id":"supreme123",
+            "author_name":"Cardinal Priest",
+            "choices":[
+                "DW.",
+                "Arthur.",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who from Arthur is turned into a toy?</span></div></span></div>",
+            "created":1521554100,
+            "id":2466890,
+            "title":"Arthur"
+        },
+        "15":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Ytv",
+                "Discovery",
+                "Fox",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these networks?</span></div></span></div>",
+            "created":1476334800,
+            "id":2222994,
+            "title":"Networks 2"
+        },
+        "151":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Captain Flamingo",
+                "Jacob Two-Two",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What show will you choose?</span></div></span></div>",
+            "created":1476766800,
+            "id":2225266,
+            "title":"Shows"
+        },
+        "1511":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Male",
+                "Female",
+                "Both (Group only)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will the character or characters be male, female, or in the case of groups both?</span></div></span></div>",
+            "created":1476766800,
+            "id":2225267,
+            "title":"Gender"
+        },
+        "15111":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "1",
+                "2",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How many characters will become toys?</span></div></span></div>",
+            "created":1476766800,
+            "id":2225270,
+            "title":"Number"
+        },
+        "151111":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Milo/Captain Flamingo",
+                "Max",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will be the one that becomes a toy?</span></div></span></div>",
+            "created":1476766800,
+            "id":2225272,
+            "title":"Character"
+        },
+        "1511111":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Lizbeth",
+                "Wendel",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now the question is who finds him?</span></div></span></div>",
+            "created":1476853200,
+            "id":2225412,
+            "title":"Who finds him"
+        },
+        "15111113":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Max",
+                "Thor",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about these characters?</span></div></span></div>",
+            "created":1476853200,
+            "id":2225414,
+            "title":"Other"
+        },
+        "151111131":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Captain Flamingo plushie",
+                "A stuffed animal",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Why do little kids always need saving when I want to do something?\"Milo Powell, Captain Flamingo, moans as he rides his tricycle up to the area he heard the cry for help coming from. \"Hello?\" He calls out as he enters the yard, only seeing a small toy ray gun. \"Oh come on!\" This had been happening a lot recently, some of the older kids had found out about Milo's little \"super hero game\" and thought it would be funny to impersonate little kids and cry for his help. Sometimes it was just teenage girls wanting to take a picture of him in his \"cute\" outfit, other times it was teenage boys who would give him a wedgie, and more often then not they would just do a doorbell ditch maneuver. <br>\r\n<br>\r\n\"Why do big kids have to be such jerks!\"He screams as he kicks the toy gun across the yard. The kick sends it flying but not before it fires a strange purple beam........right at Milo. \"Uh oh.\"Was all he could muster before it hits him, enveloping him in a bright purple light. After a few minutes the light fades revealing a........</span></div></div>",
+            "created":1476853200,
+            "id":2225435,
+            "title":"Captain Plushie"
+        },
+        "1511111311":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Stepping on the ray (Broken)",
+                "Steps over the ray (Working)"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ow my head.\"Milo moans as he goes to rub his head......strange thing was his arms weren't moving, infact none of his body parts were moving. \"Why can't I move?\" He desperately tries to move any part of his body but at most all he could do was moves his eyes around so he could see and he wasn't even to sure those were even moving. \"Just gotta see what is going......\"He started to say before realizing what had happened. \"AAAAAAAAAHHHHHH!!!!\"He had become a plush version of himself, costume and all.<br>\r\n<br>\r\n\"This can't be real!\"He begins to freak out, \"Come on bird brain think!\" This couldn't be real could it? Little kids just don't turn in to plush doll........right? As this question repeated over and over again in our little hero's head a all to familiar face came into the backyard, little Max Roderick. \"I thought I say the Captain come back here.\"Max says looking around not even looking at what was at his feet......the ray gun. \"Max watch out!\"Milo tries to scream, that gun may very well be his only shot out of this mess. Max takes one big, well big for him, step into the yard.......</span></div></div>",
+            "created":1476853200,
+            "id":2225450,
+            "title":"Captain Flamingo plushie"
+        },
+        "15111113111":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Stuffs the plush in his pants or pockets",
+                "Stuffs the plush into his shirt",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"No!!\"Milo tries to scream as he sees Max's big, well big to his current size, feet smashing possibly the only thing that could change him back. \"Uh oh.\"Max lifts his foot up noticing the broken ray gun, \"I hope that it wasn't expensive.\" \"Not expensive just the only thing that could turn me back!\"Milo mentally shouts as the titan little kid walks toward him. \"Captain!\"Max calls out walking around the yard, \"Awe you hewe!\" \"Careful Ma.....\"Before Milo could even finish that thought Max's foot comes crashing down onto the little captain's plushie chest, \"Ow!\" \"Huh?\"Max lifts his foot up and looks at Milo's new form, \"Wow a plushie that wooks wike the captain!\"<br>\r\n<br>\r\nHe lifts the our little plush hero up to his face, \"No Max I am the Captain!\"Milo tries to tell him but he still couldn't talk. \"This is so coow!\" A big smile comes across Max's face, \"Hewlo is this anyones!?\" No answer, \"Max I am not a toy I'm Captain Flamingo!\"Milo tries desperately to move his body to prove he was alive. \"Wewl no one is cwaming him.\"Max's face soon contorts to a evil smile, a very cute smile but evil. \"Wewl wooks like I got a new toy.\" Max immediately.......</span></div></div>",
+            "created":1476939600,
+            "id":2226090,
+            "title":"Uh Oh Flamingo!"
+        },
+        "151111131111":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Pants",
+                "Pocket"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one shall it be?</span></div></span></div>",
+            "created":1476939600,
+            "id":2226174,
+            "title":"Which one?"
+        },
+        "1511111311111":{
+            "choices":[
+                "Playtime",
+                "Putting you away",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Max stretches out the hem of his pants and starts to stuff his new toy/ Milo into his pants. Milo begins to panic realizing what is happening. He tries to resist as much as possible, but nothing will move nor will any sound come out.<br>\r\n<br>\r\nFinally, getting the toy stuffed in his pants, Max lets his hem close, leaving Milo in the dark. Although he can't move anything he can feel the denim of blue jeans pressing up against his face and front. As Max walks, this becomes really itchy. Against his back he feels the cotton of some underwear, but it feels a little thick. Realizing that they aren't regular underwear, but cloth training pants with extra padding. Milo dreads to think it, but the thought can't escape him, what would happen if Max has an accident?<br>\r\n<br>\r\nMilo tries to put the thought out of his mind and concentrate on how to get himself out of this predicament. Between the itchiness of the pants and the concern of an accident, Milo finds this incredibly difficult. Every once in a while a beam of light comes in as Max checks to make sure his toy is still present.<br>\r\n<br>\r\nAt last Milo feels a hand wrap around him as he is yanked out of the pants.<br>\r\n<br>\r\n\"Mommy, look what I found.\" Max states eagerly to his mother. <br>\r\n<br>\r\nLooking at the toy she states \"That face looks awfully familiar, is it from one of your tv shows?\" Milo gets super hopeful, trying to shout at the top of his lungs that he is a kid in the neighborhood, but to no avail as max quickly chimes in.<br>\r\n<br>\r\n\"Yea, it's new.\"<br>\r\n<br>\r\n\"That's nice sweetly,\" his mom says again not really paying any attention as you feel yourself picked up. Max takes you upstairs with an evil smile on his face and walks into a room.</span></div></div>",
+            "created":1483074000,
+            "id":2256586,
+            "title":"Pants"
+        },
+        "15111113111111":{
+            "choices":[
+                "Max wets his pants",
+                "Max messes himself",
+                "Max spills milk on himself"
+            ],
+            "content":"<div class=\"\"><div> <span>Getting up to his room, you are intrigued to see inside that there are many toys all over the place. Unfortunately, you realize that many of the toys are strewn about and some are very dusty as if it has been forgotten about over time. The thought crosses Milo's mind, \"What if he forgets about me? I've got to get out of this situation before that happens.\"<br>\r\n<br>\r\nAs the thought crosses Milo's mind, he sees Max take out a pink marker. Suddenly, it starts to tickle as Max begins writing on him. First, something is drawn on the face, but you can't quite tell what. Then being flipped over, everything goes dark again, but Milo feels something tickling his back. He is giggling in his mind, but no noise is coming out. Finally it stops, but not before Milo worries if this will be permanent if he can find his way out of this situation.<br>\r\n<br>\r\n\"Thewe,\" Max cries out as his hand closes around the plush doll. \"Now you will be mine forever.\" Holding the doll up to the mirror, he asks, \"Does that look wook better?\"<br>\r\n<br>\r\nLooking in the mirror, Milo is shocked to see that on his face he now has bright pink glasses and streaks of pink in the hair. Being spun around Milo sees that across his bottom is the word Max, written like any 4 year old would write it. He is left speechless as he tries to process everything that has happened.<br>\r\n<br>\r\nAs Milo processes this he suddenly feels himself flying through the air and landing on a bunch of action figures. Pain courses through Milo's mind as action hero hands, arms, and weapons poke and prod him all over the place. As the pain starts to subside Milo is yanked up and starts to be hit in the belly by an action hero of Thor. Trying to fight back, Milo realizes it is useless and resigns himself to the fate of this until he gets some time to think through what he needs to do to get out of this situation.<br>\r\n<br>\r\nAfter about 45 minutes of flying, crashing, destroying blocks and Legos, and being hit over and over Milo hears his saving grace.<br>\r\n<br>\r\n\"Maxie, it's time for dinner, why don't you come on down!\" His mom shouts from down stairs.<br>\r\n<br>\r\nMax leaps to his feet and runs to the door to Milo's joy. Milo realizes this will be his chance to think through everything. Starting to think, he suddenly sees a large shadow come over the top of him. Looking up, he sees Max reaching down and wrapping his hand around him.<br>\r\n<br>\r\n\"Come on, you need dinner too if you are going to fight off these bad guys.\" Says Max. He picks Milo up and stuffs him down the back of his pants, knowing mommy will never let him bring a toy to the table.<br>\r\n<br>\r\nIn the pitch black, Milo gasps for air as he feels Max move each step and lurches from side to side. Just when he thought things couldn't get any worse, Max's full weight goes down on top of him, leaving him gasping for air.<br>\r\n<br>\r\nSuddenly, Milo feels something else not at all pleasant....<br>\r\n</span></div></div>",
+            "created":1483074000,
+            "id":2256747,
+            "title":"Playtime"
+        },
+        "151111131111112":{
+            "choices":[
+                "Noticing the plushie and grabbing it",
+                "Pressing the flusher"
+            ],
+            "content":"<div class=\"\"><div> <span>An odor fills the air around him as Milo, in his mind gasps for breath. Suddenly, he feels something slimy sticking to him as more and more joins him in the underwear. In his mind, Milo is left in shock trying to come to terms with the fact that he is now covered in someone else's poo.<br>\r\n<br>\r\nMeanwhile, Max sits and eats his dinner as if nothing has happened. Moving around to get more comfortable, he suddenly realizes what he has just done in the middle of dinner. Sitting in his booster seat, he tries to leave before anybody else notices.<br>\r\n<br>\r\n\"Not so fast mister, you didn't eat your veggies,\" his mom says.<br>\r\n<br>\r\nFreezing where he was standing he slowly inches back towards the table feeling the now giant load in his pants. As he gets to the table, he starts to cry and walks over to his mom instead.<br>\r\n<br>\r\n\"Mommmmmmmy,\" he cries out, \"my new toy is icky now.\" As he finishes his sentence, he turns around, revealing his bulging pants to his mother.<br>\r\n<br>\r\n\"Oh Maxie, I thought we were past this. Why didn't you ask to go potty?\" She questions lifting Max up by the arms. \"We've got to get you cleaned up.\" She proceeds to Max's room and lies him down on his bed.<br>\r\n<br>\r\nHaving the full weight of Max and this goo all over him, Milo struggles to try and move. Concentrating, he focuses on his left arm, but nothing happens. \"I've got to get out of here,\" he thinks to himself, when suddenly he feels the underwear, pile of poo and himself being yanked down. Looking up, he now sees Max lying on a changing pad as a women starts to wipe him off.<br>\r\n<br>\r\n\"Buddy, you got to ask mommy to go to the potty when you need to. At 4 years old, there is no reason to have messy pants.\" She scolds, as Milo realizes it is his mom. <br>\r\n<br>\r\nRealizing this might be his chance, Milo again focuses on trying to move. This time he focuses on his right leg. He suddenly feels a twitch and moves his eyes down. He tries again and this time sees his right leg twitch. Realizing he might be able to move, he puts one final effort in to moving the leg. His knee bends as he looks on. Feeling triumphant, he is suddenly lurched up.<br>\r\n<br>\r\nMoving his eyes back up, he sees Max sitting there with just his shirt and now a disposable diaper on. Meanwhile, he feels himself being carried out of the room. As he feels himself turned over and begin to fall, he realizes he is in the bathroom.<br>\r\n<br>\r\n*Splash* Landing in the toilet, he feels the goo slowly cleaning off. The mom slowly moves her hand to the flusher as Milo frantically tried to get his hands to move. The mom suddenly pauses before ..,</span></div></div>",
+            "created":1483160400,
+            "id":2257181,
+            "title":"Max messes himself"
+        },
+        "1511111311111121":{
+            "choices":[
+                "Diapers Milo before putting him back with Max",
+                "Tucks Milo in next to Max and kisses both on the head"
+            ],
+            "content":"<div class=\"\"><div> <span>Looking down in the toilet, she sees something that doesn't look right. Turning to the sink, Max comes running into the restroom.<br>\r\n<br>\r\n\"My new toy,\" frantically reaching for the toilet, \"don't flush it away!!!\" With tears streaming from his eyes he grabs a hold of his mom's leg. Realizing now what it was in the toilet, she reaches down and picks up Max before walking back into his room.<br>\r\n<br>\r\n\"Calm down buddy,\" she soothes him, \"I'll get it out.\" She lays him down on his bed and rubs his back to calm him down. \"It will need to be cleaned though, so you won't get it back right away, is that okay?\" <br>\r\n<br>\r\nMax nods his head and wipes his eyes. His mom stands him up out of the bed and gives him a big hug. \"Go downstairs and I'll be down in a minute,\" she says with a pat to his diaper. After Max runs off, she puts a glove on and heads back to the toilet thinking about why it was in his underwear anyway.<br>\r\n<br>\r\nMilo is glad to see the mom and for the first time since this whole situation started doesn't mind being manhandled. After being picked up out of the toilet, Max's mom turns on the bathtub and puts Milo under the water. The water sends chills through Max, but he feels this is better than what is currently covering him. He relaxes a little and stops thinking to clear his mind of everything.<br>\r\n<br>\r\nHe is stirred from his relaxation and opens his eyes to be looking at the mom again. Although he doesn't mind being cleaned, being twisted and turned makes him a little nauseous. Max's mom states, \"Well that seems to have cleaned you off. Better put you in the dryer for Max.\" Milo panics again, what will the drier feel like, he wonders.<br>\r\n<br>\r\nThe whole way downstairs and to the dryer, Milo tries to yell, but no sound will come out. To his frustration, he is thrown in the dryer and it starts.<br>\r\n<br>\r\nAfter what feels like forever, Milo feels the heat stop. Feeling nauseous, hurting all over, and dizzy, he finally comes to. Rey t the bottom of the dryer. Suddenly, he hears a buzzer, startling him and causing him to come back to his senses. A few seconds later, a bright light illuminates the dryer and a hand reaches in and picks him up. \"Good, nice and dry, Max will be happy.\"<br>\r\n<br>\r\nBack out, Milo sees Max lying on the couch asleep. Max's mom goes over and picks him up off the couch. \"Hey Maxie, look what I got for you,\" she says as she holds Milo up.<br>\r\n<br>\r\nMax grabs Milo and hugs him up against his chest as he mumbles something. Putting his head back on his moms shoulder he appears to go back to sleep. It feels good to be held close to someone me Milo finally feel a little peace from all this. Max's mom pays him down me goes about changing his diaper while he snuggles up with Milo. She then helps him into some footie pajamas and lays him in bed.<br>\r\n<br>\r\nTurning on the night light, she kisses him good night and gets up to leave.<br>\r\nSuddenly Max holds Milo up and states, \"He needs to be readied for bed too,\" reaching for a diaper. <br>\r\n<br>\r\nMax's mom thinks for a second and then heads back over and ...</span></div></div>",
+            "created":1483333200,
+            "id":2258120,
+            "title":"Noticing the plushie and grabbing it"
+        },
+        "153":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "The Simpsons",
+                "Family Guy",
+                "American Dad"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How  about...</span></div></span></div>",
+            "created":1546724820,
+            "id":2599338,
+            "title":"Fox"
+        },
+        "154":{
+            "author_id":"haninozuka325",
+            "author_name":"Mitsuhiko",
+            "choices":[
+                "Rooster Teeth",
+                "Smosh",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well how about web based networks?</span></div></span></div>",
+            "created":1476766800,
+            "id":2225120,
+            "title":"Networks 3"
+        }
+    },
+    "info":{
+        "author_id":"haninozuka325",
+        "author_name":"Mitsuhiko",
+        "brief_description":"Cartoon characters turn into toys and have to survive. 3,000 gp reward, read description.",
+        "created":1476407880,
+        "description":"<td align=\"left\" class=\"norm\">*I will give 3,000 gps or a add to a story you would like to see get added to for the first 20 new chapter add ons. If Interested pm me and I will explain to you the rules on this.*<br>\r\n<br>\r\nJourney to the worlds of some of your favorite cartoon characters and see if they can last as toys. That's right folks due to one circumstance or another, your choosing, a character or characters from a show of your choosing get turned into toys and must survive their new owners. They can turn into anything from  simple stuffed version of themselves to a thing of silly putty. You decide who it happens to, what toy they get turned into, who their new owner is, and why.<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\n1. Once they are turned into a toy they stay that toy, no switching toys cause you don't like the choose.<br>\r\n<br>\r\n2. If they turn back to their normal selves then that is the end, so don't try to use that as a means to get past rule 1<br>\r\n<br>\r\n3. Toys should be no taller then a cabbage patch kid, no giant toys<br>\r\n<br>\r\n4. They physically can't talk but they can hear, smell, taste, and even feel everything. They can move but they have to relearn how, so no miraculous getting up and sprinting like all hell sort of thing<br>\r\n<br>\r\n5. They cannot die unless their toy form is completely destroyed.<br>\r\n<br>\r\n6. Fetishes are allowed, if you want their new owner to swallow his new \"Toy\" by all means go for it<br>\r\n<br>\r\n7. The character or characters you pick at the start are the only ones who can become toys, if you would like to have another character also get turned into a toy ask me first.<br>\r\n<br>\r\n8. Story must follow the character, or at least on of the characters, that gets turned into a toy.<br>\r\n<br>\r\nHave fun</td>",
+        "id":2099408,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1596795540,
+        "modified":1596795540,
+        "pretty_title":"Cartoon Toy Tf"
+    }
+}

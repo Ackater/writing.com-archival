@@ -1,0 +1,506 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Child 5-11",
+                "Teen 12-15",
+                "Young Adult 16-25",
+                "Middle Aged 26-50",
+                "Old 51-100"
+            ],
+            "content":"<div class=\"\"><div> <span>Welcome to Giants: A story where giants roam for good or for bad!<br>\r\nThe world of Giants is called Gaia, it is much like our own world only less poluted, there are cities but they are smaller and the planet is less densely populated (However there is still plently of room for destruction if you so choose)<br>\r\nThe story is set a few hundred years in the future so things are advanced but not drastically so (So no hovercars!) Before you begin you need to choose a character to play as and to do that you need to answer some questions about your character, so let's start:<br>\r\nFirstly, How old is your character?</span></div></div>",
+            "created":1162530000,
+            "id":356791,
+            "title":"Let's get started"
+        },
+        "11":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Child.<br>\r\n<br>\r\nWhat gender is your character? <br>\r\n</span></div></span></div>",
+            "created":1170738000,
+            "id":379917,
+            "title":"Gender?"
+        },
+        "111":{
+            "author_id":"tinytopher",
+            "author_name":"doglefox",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Child<br>\r\n<br>\r\nWhat gender is your character?</span></div></span></div>",
+            "created":1325425560,
+            "id":1250481,
+            "title":"Male"
+        },
+        "1111":{
+            "author_id":"tinytopher",
+            "author_name":"doglefox",
+            "choices":[
+                "Bisexual",
+                "Gay"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Male.<br>\r\n<br>\r\nWhat sexual preference has your character?</span></div></span></div>",
+            "created":1325425620,
+            "id":1250484,
+            "title":"Male"
+        },
+        "11112":{
+            "author_id":"tinytopher",
+            "author_name":"doglefox",
+            "choices":[
+                "Good",
+                "Evil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Gay.<br>\r\n<br>\r\nWhat is your character's alignment?</span></div></span></div>",
+            "created":1325426520,
+            "id":1250490,
+            "title":"Gay"
+        },
+        "111122":{
+            "author_id":"hunky",
+            "author_name":"LucasFan17",
+            "choices":[
+                "He grows while around his crush ",
+                "He eats a magic pill"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok great how will this cute gay 5 year old boy grow into an evil giant!?!</span></div></span></div>",
+            "created":1546787400,
+            "id":2599556,
+            "title":"Evil"
+        },
+        "1112":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Straight",
+                "Gay",
+                "Lesbian"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does she identify as?</span></div></span></div>",
+            "created":1518291600,
+            "id":2451422,
+            "title":"Female"
+        },
+        "12":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Teen.<br>\r\n<br>\r\nWhat gender is your character? <br>\r\n</span></div></span></div>",
+            "created":1170738000,
+            "id":379918,
+            "title":"Gender?"
+        },
+        "121":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Bisexual",
+                "Gay"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Male.<br>\r\n<br>\r\nWhat sexual preference has your character? <br>\r\n</span></div></span></div>",
+            "created":1170738000,
+            "id":379922,
+            "title":"Sexual Preference"
+        },
+        "122":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Bisexual",
+                "Gay"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Female.<br>\r\n<br>\r\nWhat sexual preference has your character? <br>\r\n</span></div></span></div>",
+            "created":1170738000,
+            "id":379923,
+            "title":"Sexual Preference"
+        },
+        "1222":{
+            "author_id":"shrunkenlesbo",
+            "author_name":"TheEvilOnion",
+            "choices":[
+                "Chloe, 14, Brunette",
+                "Sophie, 13,Blonde",
+                "Holly, 15, Auburn"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ahh, the standard teenage lesbian. Alrighty then! Let\u2019s het the ball rolling. Pick a girl, please.</span></div></span></div>",
+            "created":1526047620,
+            "id":2491699,
+            "title":"Gay"
+        },
+        "13":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Young Adult<br>\r\n<br>\r\nWhat gender is your character?</span></div></span></div>",
+            "created":1162530000,
+            "id":356793,
+            "title":"Gender?"
+        },
+        "131":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Bisexual",
+                "Gay"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Male.<br>\r\n<br>\r\nWhat sexual preference has your character?</span></div></span></div>",
+            "created":1162530000,
+            "id":356794,
+            "title":"Sexual Preference"
+        },
+        "1312":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Good",
+                "Evil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Gay.<br>\r\n<br>\r\nWhat is your character's alignment?</span></div></span></div>",
+            "created":1162530000,
+            "id":356795,
+            "title":"Alignment"
+        },
+        "13121":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Human",
+                "Angel"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Good.<br>\r\n<br>\r\nWhat is your character's race?</span></div></span></div>",
+            "created":1162530000,
+            "id":356796,
+            "title":"Race"
+        },
+        "131211":{
+            "author_id":"jekzii-san",
+            "author_name":"Draconic Knight",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You have selected Human.<br>\r\n<br>\r\nI have generated a suitable character around CDL's designs. Click Yes to play him. Otherwise, choose another.<br>\r\n<br>\r\nName: Makil<br>\r\nGender: Male<br>\r\nSexual Preference: Men<br>\r\nAge: 16<br>\r\nWhite<br>\r\nHair Color: Blonde<br>\r\nEye Color: Teal<br>\r\nHeight: 6 feet<br>\r\nAppearance: Appears like any normal person. Wears white clothes, and has two white long swords. Also a true Master of Syu, the light magic that counteracts Sayn, dark and twisted magic.<br>\r\nPersonality: Makil is similar to average humans on the outside. However, he has supernatural powers that he can use against the demons.<br>\r\n<br>\r\nPlay as Makil? </span></div></div>",
+            "created":1163394000,
+            "id":358933,
+            "title":"Character 1"
+        },
+        "1312111":{
+            "author_id":"jekzii-san",
+            "author_name":"Draconic Knight",
+            "choices":[
+                "After school"
+            ],
+            "content":"<div class=\"\"><div> <span>Makil was travelling to a new school. He had partially wrecked the last one (though no one except his friend knew it). Due to circumstances not to be explained here, he had been forced to fight two Class 4 demons and a warlock on campus. Thus he was being transferred to Ichigo Masuchi High, Maus Falls, Missouri.<br>\r\n<br>\r\nMakil's one close friend, Jack, was also his boyfriend. Jack also knew a slight bit of Syu, and he and Makil were undergoing training from a mysterious white-robed stranger.<br>\r\n<br>\r\nAs Makil sat next to Jack, he glanced around, then whispered a few Angelic words and summoned a ball of light to his hand, then quickly vanquished it as Jack looked over.<br>\r\n<br>\r\nJack smiled and grasped Makil's hand firmly. Slowly, they drew together. Makil wrapped his arms around Jake in a big hug.</span></div></div>",
+            "created":1163653200,
+            "id":359497,
+            "title":"Introduction: Makil"
+        },
+        "13121111":{
+            "author_id":"jekzii-san",
+            "author_name":"Draconic Knight",
+            "choices":[
+                "..and he found an Earthling.",
+                "..and is jumped from behind!"
+            ],
+            "content":"<div class=\"\"><div> <span>Once class was over, Makil headed over to the dojo. He entered the locker area and opened his bamboo locker. He took out his sparring clothes and began undressing himself. He took off his boxers and stuffed his clothes into a pouch in his locker. He bent over to get his sparring outfit...</span></div></div>",
+            "created":1173837060,
+            "id":389290,
+            "title":"Surprise"
+        },
+        "131212":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You have selected Angel.<br>\r\n<br>\r\nI have now generated a suitable character: If he is acceptable choose him. If not choose No to scroll through more characters or on a new page create you own.<br>\r\n<br>\r\nName: Light<br>\r\nHuman Name: Luke<br>\r\nGender: Male<br>\r\nSexual Preference: Men<br>\r\nAge: 18<br>\r\nSkin Colour: White<br>\r\nHair Colour: Blonde<br>\r\nEye Colour: Light Green<br>\r\nHeight: 6 feet<br>\r\nWeight: 180 lbs<br>\r\nGeneral Human Appearance: When in his Human form Luke looks like almost any person his age. He wears a white shirt, jeans, a long white jacket and white boots.<br>\r\nGeneral Angel Appearance: When in his Angel Form Light has pure white skin, six foot wings made of solidified light and a halo that can be used like a discus as a weapon.<br>\r\nPersonality: Luke is a generally happy person, but has a short temper and wishes to fight demons not just stop them. Luke enjoys his life as a Angel but wishes Demons were killed not just locked up.<br>\r\n<br>\r\nDo you wish to play as Luke?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1162702800,
+            "id":357179,
+            "title":"Character"
+        },
+        "13122":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Human",
+                "Demon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Evil.<br>\r\n<br>\r\nWhat is your character's race?</span></div></span></div>",
+            "created":1162530000,
+            "id":356797,
+            "title":"Race"
+        },
+        "131222":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>You have selected Demon.<br>\r\n<br>\r\nI have now generated a suitable character: If he is acceptable choose him. If not choose No to scroll through more characters or on a new page create you own.<br>\r\n<br>\r\nName: Spyke<br>\r\nHuman Name: Simon<br>\r\nGender: Male<br>\r\nSexual Preference: Men<br>\r\nAge: 18<br>\r\nSkin Colour: White<br>\r\nHair Colour: Black<br>\r\nEye Colour: Dark Blue<br>\r\nHeight: 6.2 feet<br>\r\nWeight: 200 lbs<br>\r\nGeneral Human Appearance: When in his Human form Simon looks like almost any person his age. He wears dark clothes and a crucifix necklace.<br>\r\nGeneral Demon Appearance: When in his Demon Form Spyke has dark blue skin, yellow fanged teeth and two ,six inch, horns on his head.<br>\r\nPersonality: Simon is a very depressive person, but has a gentle soul his background is dark and very few people know his experiences. Simon enjoys his life as a demon but doesn't kill unnecessarily.<br>\r\n<br>\r\nDo you wish to play as Simon?<br>\r\n</span></div></div>",
+            "created":1162530000,
+            "id":356798,
+            "title":"Character"
+        },
+        "1312221":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "A Black haired guy near the back of the class",
+                "A red headed jock"
+            ],
+            "content":"<div class=\"\"><div> <span>Simon sat gazing out of the window. His friend was busily talking but he was paying her little attention. They were driving to a new school, in a new city. They both lived together since neither of them had parents and, Slash (whose real name was Sasha) was also a demon.<br>\r\nThey had to leave their old city behind after demon hunters began to show up and Simon hated relocating almost constantly. He needed companionship and Sasha, a good friend though she was just couldn't provide the affection he craved.<br>\r\nHe was hoping to meet someone at their new school, but the chances were minimal; once his potential boyfriend found out what he was he would run a mile.<br>\r\nSimon sighed as he watched couples walking arm in arm through the park.<br>\r\nSasha sensed he was upset and tried to cheer him up.<br>\r\n\"You'll find someone.\" Sasha said cheerfully.<br>\r\n\"Hopefully.\" Simon said sighing again.<br>\r\n                         *<br>\r\nSasha and Simon entered their English class, everyone else was already seated when they arrived. Miss Glover the teacher stood up and welcomed them and told them to choose where they wanted to sit.<br>\r\nSimon and Sasha scanned the room, but they're weren't two empty seats next to each other.<br>\r\nSasha eventually sat beside a blonde haired cheerleader. Leaving Simon with only two choices:</span></div></div>",
+            "created":1162530000,
+            "id":356964,
+            "title":"First Day"
+        },
+        "13122212":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Demon doodles",
+                "Girls names"
+            ],
+            "content":"<div class=\"\"><div> <span>Simon sat next to the jock and Miss Glover began the lesson. She read them a few chapters of \"To kill a mockingbird\" and told them to make notes in their books.<br>\r\nSimon dug into his bag and pulled out a notebook, then turned to see what the jock was doing, he had taken out a notebook covered in:</span></div></div>",
+            "created":1162616400,
+            "id":356965,
+            "title":"The jock"
+        },
+        "131222121":{
+            "choices":[
+                "The jock notice him ",
+                "The jock doesn't notice him"
+            ],
+            "content":"<div class=\"\"><div> <span>Simon opened his eyes wide noticing some doodles on the jock's notebook. He tried to take a closer look and saw that he was right.  This guy had a bunch of demons of different sizes and shapes all over his notebook. He even saw what seemed to be a five points start with some symbols written on it, which was used to submit a demon!<br>\r\n<br>\r\nHe blinked , could this guy really like demons that much?<br>\r\n<br>\r\n He looked at the guy and saw that he was quite cute too but just before he could continue daydreaming....</span></div></div>",
+            "created":1533164520,
+            "id":2527756,
+            "title":"Demon doodles"
+        },
+        "131222122":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "\"Math.\"",
+                "\"PE\""
+            ],
+            "content":"<div class=\"\"><div> <span>Just Simon's luck the jock is straight, mentally sighing he wrote down some boring info about the book until the end of the lesson.<br>\r\n\"Hey.\" Sasha said at the end of class, \"This is Emma I sit next to her.\"<br>\r\nSimon eyed the blonde cheerleader somewhat distatsefully, she seemed to be a complete bimbo but Simon decided to give her the the benifit of the doubt.<br>\r\n\"Hey.\" Simon said cheerily shaking her hand.<br>\r\n\"Hey.\" Emma said hyperactively.<br>\r\nThe three of them began walking down the corridor.<br>\r\n\"So what have you got now?\" Sasha asked.<br>\r\nSimon pulled out his timetable and looked at his next class.</span></div></div>",
+            "created":1162616400,
+            "id":356966,
+            "title":"Emma"
+        },
+        "1312221222":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "The teacher",
+                "Another student"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Pe.\" Simon replied.<br>\r\n\"I've got Math, see you later OK.\" Sasha said hugging him briefly before running off.<br>\r\nSimon entered the changing room and was instatntly confronted by...</span></div></span></div>",
+            "created":1162616400,
+            "id":356967,
+            "title":"PE"
+        },
+        "13122212221":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "...The Jock from English was pretty cute.\"",
+                "...My PE teacher is kinda hot.\""
+            ],
+            "content":"<div class=\"\"><div> <span>Simon looked directly into the teacher's piercing gaze. He was as tall as the teacher who was quite good looking. He had black hair, though the front was turning slightly silver, green eyes and lightly tanned skin.<br>\r\n\"Why are you late?\" The teacher asked in a scottish accent.<br>\r\n\"Am I late?\" Simon asked.<br>\r\n\"You are five minutes late and call me Sir when you talk to me.\"<br>\r\n\"Sorry Sir. I'm new.\"<br>\r\nThe teacher's expression softened slightly.<br>\r\n\"Well OK, if you're new, but hurry up and get changed and don't be late again.\"<br>\r\nSimon quickly changed and hurried into the Sports Hall.<br>\r\nThe lesson was quite fun, though Simon found it hard to concentrate, he kept staring over the Mr. Duthie (Which was the teacher's name)<br>\r\nHe met up with Sasha after school later that day and they both got into Sasha's car.<br>\r\n\"Meet anyone you like?\" Sasha asked.<br>\r\n\"Well...</span></div></div>",
+            "created":1162616400,
+            "id":356968,
+            "title":"The Teacher"
+        },
+        "132":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Bisexual",
+                "Gay"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Female.<br>\r\n<br>\r\nWhat sexual preference has your character? <br>\r\n</span></div></span></div>",
+            "created":1170738000,
+            "id":379921,
+            "title":"Sexual Preference"
+        },
+        "14":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Middle Aged.<br>\r\n<br>\r\nWhat gender is your character? <br>\r\n</span></div></span></div>",
+            "created":1170738000,
+            "id":379919,
+            "title":"Gender?"
+        },
+        "141":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Bisexual",
+                "Gay"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Male.<br>\r\n<br>\r\nWhat sexual preference has your character? <br>\r\n</span></div></span></div>",
+            "created":1170738000,
+            "id":379924,
+            "title":"Sexual Preference"
+        },
+        "1412":{
+            "choices":[
+                "Power that was passed down in the family",
+                "Radiation from a meteor",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are definitely gay. But, how did you become a giant?<br>\r\n</span></div></span></div>",
+            "created":1320694320,
+            "id":1219602,
+            "title":"Gay"
+        },
+        "14122":{
+            "choices":[
+                "Became a titan of a man",
+                "Had powers to change size"
+            ],
+            "content":"<div class=\"\"><div> <span>You are 38 years old. It had been a perfect fall evening, so you were sitting out on your back deck of your vacation cabin out in the sticks when you saw a beautiful meteor shower. It started to frighten you when it seemed to be getting closer and closer. Before you could run down to your basement, a bright light flashed and a rock hit ground not far from you. The small explosion knocked you back on your ass. Your head clipped the side of a table and you got knocked unconscious. When you awoke, you were shocked to find that you...</span></div></div>",
+            "created":1320694620,
+            "id":1219605,
+            "title":"Meteor Shower"
+        },
+        "141221":{
+            "choices":[
+                "100 feet tall",
+                "Other Size"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>At first, you were utterly confused. You couldn't figure out exactly what happened, or where you were. Eventually, your head started clearing up and you noticed that everything around you was much smaller. You were now...</span></div></span></div>",
+            "created":1320694740,
+            "id":1219606,
+            "title":"Titanic"
+        },
+        "142":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Bisexual",
+                "Gay"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Female.<br>\r\n<br>\r\nWhat sexual preference has your character? <br>\r\n</span></div></span></div>",
+            "created":1170738000,
+            "id":379925,
+            "title":"Sexual Preference"
+        },
+        "15":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Old.<br>\r\n<br>\r\nWhat gender is your character? <br>\r\n</span></div></span></div>",
+            "created":1170738000,
+            "id":379920,
+            "title":"Gender?"
+        },
+        "151":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Bisexual",
+                "Gay"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Male.<br>\r\n<br>\r\nWhat sexual preference has your character? <br>\r\n</span></div></span></div>",
+            "created":1170738000,
+            "id":379926,
+            "title":"Sexual Preference"
+        },
+        "1512":{
+            "author_id":"joesmith44",
+            "author_name":"Just Joe",
+            "choices":[
+                "Normal Man with tinies everywhere",
+                "Giant among mere mortals",
+                "Power to control size"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a 60 year old, studly, macho gay man. With a full head of white sexy hair, you have a furry body and massive cock. <br>\r\n<br>\r\nWhat size are you? Either you are a normal-sized man in a world full of tinies or a Giant among regular men...<br>\r\n</span></div></div>",
+            "created":1481041920,
+            "id":2246434,
+            "title":"Gay"
+        },
+        "15121":{
+            "author_id":"joesmith44",
+            "author_name":"Just Joe",
+            "choices":[
+                "Nice or Indifferent Daddy",
+                "Downright Sadistic Dad"
+            ],
+            "content":"<div class=\"\"><div> <span>At 7 feet tall and 450lbs of muscle, you are huge compared to the others that are closer to your size. You are a retired pro-wrestler and have always enjoyed being large. When you retired, you moved from the big city to a more rural village. There are about 100 other \"regular\" sized men. Even though you dwarf most of them (average height of 5'8\" to 6'), it is nothing like compared to the tinies in your region. Around your quiet village, there are small towns and villages of people that are only around an inch tall. Some small men have attempted to live in the big village, but they don't usually last all that long. You get horny comparing the little bugs to your own monster body. Just recently, you caught a handful of toys from a town in your backyard and brought them to your home. Sitting in a comfortable chair, naked and excited, you made the men lay head to foot on your cock starting at the base. You couldn't help but get harder and harder as you realized that it takes twelve of them to run the length of your foot long mega-meat!<br>\r\n<br>\r\nAre you a nice giant, indifferent or completely evil?</span></div></div>",
+            "created":1481042640,
+            "id":2246437,
+            "title":"Normal Man with tinies everywhere"
+        },
+        "15122":{
+            "author_id":"joesmith44",
+            "author_name":"Just Joe",
+            "choices":[
+                "Gentle Gay Giant",
+                "Gargantuan Tyrant"
+            ],
+            "content":"<div class=\"\"><div> <span>You are one of the few giants left on the planet. At 100' tall, those regular sized people are like small toys in comparison. A normal 6' tall guy has an average foot size of 10.5 inches which is completely dwarfed by your over 14' long feet. Your wide, hairy feet can cover a couple small men and crushing cars is a game to you. Another thing that makes you feel like a god is that a normal guy's hand is about 7 inches compared to your 9' long and nearly 6' wide hand. Holding the tiny men in your hand is like holding a little doll. <br>\r\n<br>\r\nAt your height, you aren't worried about much - especially not prudish things like clothing. It is normal for the little people to look up and see you towering above with your S&amp;P hairy body. Your biceps are humongous as is the rest of you. Getting in your 50s, you have started enjoying a bit of a beer gut. Even with the huge hairy belly hanging in front, your monster cock is still easily visible for you and horrifying to the little people below. Your cock is about the same length as your feet, so over 14' of deadly daddy schlong can humiliate even the most macho tiny man - hehe. It's uncut and the foreskin hangs far below. Being as there aren't a bunch of giant facilities, you are always musky and strong smelling. People can smell you coming before they even see you which is bad as you are so huge. In addition to stinky feet and pits, your cock makes some mega-funky cheese. Luckily, the strong manscent only turns you on and increases your horniness.<br>\r\n<br>\r\nAre you fun-loving or mean and abusive?</span></div></div>",
+            "created":1481053740,
+            "id":2246514,
+            "title":"Sexy Daddy Giant"
+        },
+        "151222":{
+            "author_id":"thefireofice",
+            "author_name":"Fire of life",
+            "choices":[
+                "Got find a ton to play with",
+                "See if you can catch human on the road "
+            ],
+            "content":"<div class=\"\"><div> <span>You would consistently be plan on your next apperce at on of the smaller human settlement were you would have your fun which was bad new for the people that libed there since you did whatever you want whenever and normal you found those smaller then you are fun to have service you and toy play with and sometimes snack on then sometime you like to catch you prey when they are off grad were they can get help easily and were there no building to hide in today you feel like</span></div></div>",
+            "created":1531643340,
+            "id":2519984,
+            "title":"Gargantuan Tyrant"
+        },
+        "152":{
+            "author_id":"duthielover",
+            "author_name":"CDL",
+            "choices":[
+                "Bisexual",
+                "Gay"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have selected Female.<br>\r\n<br>\r\nWhat sexual preference has your character? <br>\r\n</span></div></span></div>",
+            "created":1170738000,
+            "id":379927,
+            "title":"Sexual Preference"
+        }
+    },
+    "info":{
+        "author_id":"duthielover",
+        "author_name":"CDL",
+        "brief_description":"A growing/shrinking story where you are in complete control.",
+        "created":1162580700,
+        "description":"<td align=\"left\" class=\"norm\">A gay giant story. I don't mind anything other than racist, sexist or homophobic material. WARNING: Due to the fact I allow anything (Unless it's agaisnt the law eg. paedophiles.) There will be a lot of content which may disturb some people.<br>\r\nAlso certain parts of this story include Demons and Angels.</td>",
+        "id":1174870,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1546787400,
+        "modified":1546787400,
+        "pretty_title":"Giants!"
+    }
+}

@@ -1,0 +1,344 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "choices":[
+                "Fight your way through the main gate.",
+                "Sneak in over the west wall.",
+                "Search for another way in."
+            ],
+            "content":"<div class=\"\"><div> <span>  You are running along a trail to the enemy compound. Your mission is to infiltrate the enemy compound and rescue a captured-personnel by the name of Shinnosuke Hayate. You have also been told that other ninjas may be in the area.\r<br>\n\r<br>\n  Looking forward, you realize that you have three choices available to you. You can go through the main entrance and battle the guards, climb the west wall and sneak inside without resistance, or you can circle the compound to find another entrance.</span></div></div>",
+            "created":995864400,
+            "id":65097,
+            "title":"Approach to the Compound"
+        },
+        "11":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "choices":[
+                "They are talking about their orders.",
+                "They are discussing a password."
+            ],
+            "content":"<div class=\"\"><div> <span>Drawing your katana and charging silently to the main gate, you ready yourself to silence the guards. The two don't even have time to scream as your katana slices cleanly through their chests. They are then turned into pincushions by a small barrage of throwing stars to insure their deaths.\r<br>\n\r<br>\nYou run through the entrance of a large building. Inside you hide behind a door, where you overhear guards conversing. Leaning closer, you catch their conversation.</span></div></div>",
+            "created":995864400,
+            "id":65100,
+            "title":"Battle at the Gate"
+        },
+        "111":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "choices":[
+                "Assassinate the guards and free the girl.",
+                "Keep yourself hidden until a better opportunity arises."
+            ],
+            "content":"<div class=\"\"><div> <span><br>\r\nYou leap to the rafters as you hear footsteps approaching. The guards, their swords slung over their shoulders, are conversing over their latest task. Silently creeping along, you follow them, hoping to catch wind of their intentions.<br>\r\n<br>\r\nGuard A: Man, I can't believe someone was stupid enough to try and infiltrate us.<br>\r\n<br>\r\nYour breath catches in your throat. Could they know that you are here already?<br>\r\n<br>\r\nGuard B: I heard it was some ninja girl, trying to free a kidnapped lord.<br>\r\n<br>\r\nYou breathe a silent sigh of relief before continuing your vigil.<br>\r\n<br>\r\nGuard A: She's pretty young... do you think Lord Kasshuu will mind if we...<br>\r\n<br>\r\nYou begin to dread where the conversation is turning as they stop outside a cell.</span></div></div>",
+            "created":1047618000,
+            "id":148190,
+            "title":"Intentions"
+        },
+        "1111":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "choices":[
+                "Forget it; you're better off alone.",
+                "Do it; you need the help."
+            ],
+            "content":"<div class=\"\"><div> <span><br>\r\nYou decide that you'd best take out these men before any other perversions take place. You leap down and embedd the last of your shuriken into the back of one, but the other manages to sound an alarm before you can kill him, and within minutes, the hallway is swarming with guards, each looking forward to ending your mission.<br>\r\n<br>\r\nGrabbing the keys off of the downed guards quickly, you engage the dozens of other in corridor combat. However, you quickly tire and you are about to be overwhelmed when you hear a voice cry out.<br>\r\n<br>\r\nVoice: Please, hurry and let me out of this cell! I can help you!<br>\r\n<br>\r\nNow you face another dilemma. Do you open the cell and accept the help? It might be a trap...</span></div></div>",
+            "created":1047618000,
+            "id":148191,
+            "title":"Ambush"
+        },
+        "11111":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "content":"<div class=\"\"><div> <span><br>\r\nDeciding that you'd be best advised to fight alone, you ignore the pleas of the girl trapped in the cell.<br>\r\n<br>\r\nBig mistake. Within minutes, the guards overpower you, and the last thing you see before being disembowled is the grief-stricken face of the girl.</span></div></div>",
+            "created":1047618000,
+            "id":148192,
+            "title":"Impossible Odds"
+        },
+        "11112":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "choices":[
+                "Continue Onward"
+            ],
+            "content":"<div class=\"\"><div> <span><br>\r\nReacting quickly, you insert the key into the lock and throw open the door before running inside and slamming it in the face of your closest pursuer, and locking it. You are then forced to duck as several shuriken fly through the bars. Using your katana, you take a slice out of the lock, effectively sealing the metallic gateway. You turn towards your companion.<br>\r\n<br>\r\nShe is dressed in orange and black ninja garb, with a large white bow tied to her waist. Her raven locks are done up in a simple ninja ponytail, which falls to her lower back. Walking forward, she speaks to you.<br>\r\n<br>\r\nGirl: My name is Kinomotou Yukina. I was sent here to rescue the nobleman Yuusuke Aida, but was caught. I recently heard that they had executed him. I cannot leave until vengeance is served, so please allow me to assist you.<br>\r\n<br>\r\nNodding, you hand her your katana, and begin searching for a means of escape. The door is locked, and guards are outside. You and your companion begin feeling the walls, when, with a yelp, you fall forward through a fake wall, and tumble into a secret passageway. Your companion soon follows.<br>\r\n<br>\r\nThe passage is old and creaky, and looks like it might just collapse any second. Dirt and bricks line the walls as you pass deeper into the corridor.</span></div></div>",
+            "created":1047618000,
+            "id":148193,
+            "title":"Meet Yukina"
+        },
+        "111121":{
+            "content":"<div class=\"\"><div> <span>You head forward and reach a small segment of hallway with no ceiling. You cautiously wait and scope out the situation. There are several snipers waiting to shoot intruders. You have a plan. You explain it to Yukina and she nods. You begin to creep forward and suddenly you feel a direct plunge through the stomache. You look at Yukina and shes smiling evily. She pushes you forward and the snipers shoot you in every vital organ in your body.</span></div></div>",
+            "created":1145311560,
+            "id":313531,
+            "title":"Traitor!"
+        },
+        "112":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "choices":[
+                "Continue onward."
+            ],
+            "content":"<div class=\"\"><div> <span>You slowly inch your way to the wall,leaning near the corner whil hoping that the shadows will hide you well enough to be undetected. As you wait and listen, the guards line up and shout out a single word simultaneously.<br>\r\n<br>\r\nGuard 1: Izo!<br>\r\n<br>\r\nGuard 2: Izo!<br>\r\n<br>\r\nGuard 3: Izo!<br>\r\n<br>\r\nGuard 4: Ame!<br>\r\n<br>\r\nThe three common guards quickly turn and drag the imposter away. You have no idea who he might've been, but you really don't have time to rescue him now. Perhaps if you run into him later...</span></div></div>",
+            "created":1047618000,
+            "id":148189,
+            "title":"Password Line"
+        },
+        "12":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "choices":[
+                "You see a guard on his usual patrol.",
+                "You see a girl admiring the garden.",
+                "You see nothing. It was your imagination."
+            ],
+            "content":"<div class=\"\"><div> <span>Climbing over the wall, you hear guards passing nearby. You tense your muscles and lay silent as they pass. After they leave you fall over the other side and land in a garden. It is filled with lavish fountains and wildflowers.\r<br>\n\r<br>\nSuddenly, you hear footsteps approaching. Retreating into some foliage, you decide to take a glance to see if you can identify the individual. Your muscles tense once again as the figure steps into view.</span></div></div>",
+            "created":995864400,
+            "id":65098,
+            "title":"The Garden over the Wall"
+        },
+        "121":{
+            "author_name":"karantalsis",
+            "choices":[
+                "Attack the guard and silence him, permanently",
+                "Stay hidden, stay quiet and hope your deep green clothing hides you"
+            ],
+            "content":"<div class=\"\"><div> <span>A man strides along the path through the garden, his bamboo armour creaking quietly in the still night air, atop his head is a brilliant helm with wing shaped sides  sweeping back and up to the sky and a full visor covering his face, shaped liked a hawks beak. The man is well muscled and carries a katana strapped to his left hip, clearly indicating that he is right handed, the hand nearest to you as he passes. The guard hasn't seen you and doesn't appear to be paying particularly close attention, but your cover is poor and if he raised the alarm your mission would be over.</span></div></div>",
+            "created":995864400,
+            "id":65129,
+            "title":"A quick decision"
+        },
+        "1211":{
+            "choices":[
+                "Time to sneak inside",
+                "Careful actions"
+            ],
+            "content":"<div class=\"\"><div> <span>The guard's eyes are filled with fear before they start to stare blankly into the air. You had pulled the guard near you and sliced his neck with your dagger. This is not one of your first operations and this was not your first kill. You feel nothing after executing this controversial action and pull him and gently drop him in the bushes. Your left hand is soaked in blood and you don't like the wet feeling. You always try to remain dry and spotless. Somehow you must have touched the blood with your hand when you were pulling the guard. The blood makes you uncomfortable and it also distracts you from your mission. You decide to bend down to wipe your hand on the dead guy's leg.<br>\r\nYou hear a something breaking the silence. A window was opened on the first floor and you see your chance.</span></div></div>",
+            "created":1329843600,
+            "id":1281425,
+            "title":"Attack the guard and silence him, permanently"
+        },
+        "122":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "choices":[
+                "Silence the girl. No one may see you and live.",
+                "Try to explain your situation. You don't strike women."
+            ],
+            "content":"<div class=\"\"><div> <span>Your eyes narrow, trying to get a better perspective on the individual. It appears to be a girl of about your own age, with long chestnut hair flowing back over her shoulders to her lower back.\r<br>\n\r<br>\nIn an effort to sneak past without confrontation, you accidentally step on and break a small twig. The girl suddenly whirls in your direction. You've been spotted!</span></div></div>",
+            "created":996037200,
+            "id":65574,
+            "title":"Female in the Garden"
+        },
+        "1221":{
+            "choices":[
+                "Get out of the way!",
+                "Catch the shuriken!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Sorry girl, If you hadn't seen me this could have been different,\" You say to the young girl. You throw a shuriken at her. She smiles and catches the shuriken between two figers. \"I'm not that easy to beat, boy!\" She throws it back at you. No time to think, What do you do?</span></div></div>",
+            "created":1145250000,
+            "id":313509,
+            "title":"Not a regular girl!"
+        },
+        "12211":{
+            "choices":[
+                "Run clockwise through the circle.",
+                "Counter it with your own smoke circle."
+            ],
+            "content":"<div class=\"\"><div> <span>You jump to the right of the shuriken to dodge it when something razor sharp cuts your ankle. You fall from the surprise and realize it's a silver razor-wire. The goes out of her way to circle the garden to come up to you. The entire garden must be covered in the razor-wirs you think to yourself. \" I'll get you for kidnapping Shinnosuke Hayate!\" Screams th girl.<br>\r\n\"Wait, did you say Shinnosuke Hayate?\" The girl stops in her tracks. \"Yes?\"<br>\r\n\"I came here to rescue him. I think we're on the same side.\" She stops moving. \" If your realy from my village, Then prove it by countering the smoke circle!\"<br>\r\n<br>\r\nThis was the signature technique of your village. She threw a smoke bomb to the spot she was standing, and then threw 7 bombs in a circle around you. All you had to do to beat her was find out which direction she was moving through the smoke, run inside, and charge the oposite way with your sword.<br>\r\n<br>\r\nAfter about 20 second of watching you find shes running in a clockwise direction around the circle.</span></div></div>",
+            "created":1145250000,
+            "id":313514,
+            "title":"Smoke circle technique."
+        },
+        "122111":{
+            "choices":[
+                "Dash through the door."
+            ],
+            "content":"<div class=\"\"><div> <span>You run into the smoke and go counterclockwise. After a few seconds you slam into her. She falls onto the ground. \"Err... Well that doesn't mean your from my village, an enemy could have always found the weakness. Just get going and save Hayate. <br>\r\n\"Could I have your smoke bombs?\" She hands you a satchel with the smoke bombs and small black case with razor-wire.\"Thank you, I wont let you down.\"</span></div></div>",
+            "created":1145308380,
+            "id":313519,
+            "title":"Victory!"
+        },
+        "122112":{
+            "choices":[
+                "Listen to her plan.",
+                "Continue as you had originaly planned."
+            ],
+            "content":"<div class=\"\"><div> <span>Stopping the attack MIGHT prove your innocence, but any enemy of the village may have faced it before. So you decide to perform one of your own, to truely prove your from the village. Problem is you don't have any smoke bombs with you. You use your Sword to rapidly slash the ground and kick up as much sand as possible. This meant you had to be realy quick as the sand would not last long. You run counter clockwise through your own viel and hold your katana into the smoke. Eventualy you hear the scream of the girl. <br>\r\n<br>\r\nAll the smoke and sand fades and she is left on the ground bleeding.\"Alright, I trust you. I can't finish the job though, not like this. I've been working undercover for months to save Shinnosuke Hayate but now it's ruined.\"<br>\r\n\"Sorry?\" you say. All the noise you made was sure to atract attention soon. You had to get out of there. You pick up her katana and bring her into the bushes. <br>\r\n\"Thank you. I have a plan if your willing to go through with it. My name is Hikitashi Sakurra by the way.\" </span></div></div>",
+            "created":1145308080,
+            "id":313517,
+            "title":"Proven."
+        },
+        "1221121":{
+            "choices":[
+                "You follow the man.",
+                "You just walk off."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I've built up enough trust here as a servent girl to get close to Terro. He's the big boss here. You need to dress as me so you can get in close.\"<br>\r\n\"What?!?!\" you baffle.<br>\r\n\"Quiet down! It's the best way to do this.\" She then takes out a makeup kit and places it on the ground. Afterwards she removes all her hidden equipment from herself and takes of the kimono. Your at first pleased but you soon realize she has clothes underneath. Then she pulls off the brunette wig with a little bit of trouble. Afterwards she Splashes water on face to remove the makeup. \"What do you think of me now?\" She says in a rather slutty tone. You examine her true body. Black hair down to her shoulders, pretty blue eyes. She's wearing a black uniform like yours except it has a skirt instead of pants.Black panty hose darken up her legs. \"Your kinda cute.\" you say in an unsure tone.<br>\r\n\"Thank you, now take off your mask.\" You do as she says. She gives you the kimono and you put it on over your clothes. She sticks the wig to your hair with some type of gel and puts make-up on your face. \"Ok, now your an exact copy of the servant girl!\" She gives you smoke bombs and some razor-wire and then sends you into the building. After what seemed like hundreds of men checking you out, a big strong man comes up to you. <br>\r\n\"Come on Lily, we need you in the bosses room.\"</span></div></div>",
+            "created":1145309460,
+            "id":313522,
+            "title":"Truth."
+        },
+        "12211211":{
+            "choices":[
+                "It's Sakura.",
+                "It's an enemy Ninja."
+            ],
+            "content":"<div class=\"\"><div> <span>You follow the big man to Terro's room. <br>\r\n\"Lily, I want to make love now.\" Says the big man in the throne.\" <br>\r\n\"Uhh, no way.\" You say in your strong male voice. <br>\r\n\"What is this devilry!\" Booms the big man, you assume is Terro. You go to remove your wig. \"Well you see, I'm realy a man.\" You try to yank the wig off but it won't move. Oh crap. Theres no way you can fight dolled up like a girl. You run as fast as possible out of the room and into a a bathrrom. You hear men smashing around trying to find you. You try franticly to remove it and finaly get it off. The Men begin opening curtains in the bathroom. Soon as you get all ready they open your curtain.\"Say goodnight boys!\"you try to sound like a girl, but it doesn't work. You jab your katana through his head. You easily slice through the stomaches of the other men. You decide not to kill them. You run out into the hallway ready to finish off Terro when someone meets you with a Sword.</span></div></div>",
+            "created":1145310360,
+            "id":313527,
+            "title":"Inside the belly of the beast."
+        },
+        "122112111":{
+            "choices":[
+                "Try to cut the wire.",
+                "Go in opposite direction"
+            ],
+            "content":"<div class=\"\"><div> <span>Sakura slashes you as you pass through the doorway. \"It's me Sakura!\" You say to stop her. She slashes again but this time you block it with your katana. \"Whats wrong with you sakura!\" You scream. \"Theres nothing wrong with me you idiot!\" She pulls a second Katana from a body on the ground. \"Why are you doing this?\" you ask, worried. \"Because I love Terro, you bastard!\" You realize you were being tricked the whole time. She wanted you to stroll inside unable to fight. Sakura does some backflips, handstands, and other gymnastic moves down the hallway. You know shes rigged it with wire. </span></div></div>",
+            "created":1145319900,
+            "id":313564,
+            "title":"Tricked"
+        },
+        "1221121112":{
+            "choices":[
+                "Take the womans hand",
+                "Stay, and fight the men."
+            ],
+            "content":"<div class=\"\"><div> <span>You run down the hallway in the opposite direction. Theres no way you can get by that wire. When you get to the end there are no doors. \"We're Gunna Get You!!\" You hear from the end of the hallway. They're coming for you. You look franticly for a way out and something hits you on the head. You look up and see a woman with her hand down to help you. You notice something suspicous about her.</span></div></div>",
+            "created":1145320200,
+            "id":313565,
+            "title":"Help from above"
+        },
+        "12211211122":{
+            "choices":[
+                "She knows nothing about it",
+                "It's a shapeshifter."
+            ],
+            "content":"<div class=\"\"><div> <span>You notice the woman has a cut on the left side of her body. Just like the one you gave Sakura in the garden. \"Take this!\"you say, planning to cut her, and then realize the Sakura you saw in the hallway didn't have a cut. \"What?\" she says. <br>\r\n\"Nothing. I'll explain later.\" You remove two strands of razor wire and fasten them to the floor. \"Sakura, tie these up there somewhere.\"<br>\r\n\"How did you know it was me?\"<br>\r\n\"Just do it!\" She does it without further question.<br>\r\n<br>\r\nThe men with axes are getting closer so you pull yourself up the hole. You stan by to watch what happens. The first man ran up realy fast and cuts himself on the wires. The second man stays to help him. \"Whats going on? Who was that back there?\"<br>\r\n\"Well...\" * She removes her disquise and tells you...</span></div></div>",
+            "created":1145320860,
+            "id":313566,
+            "title":"Ninja skill in action."
+        },
+        "122112111222":{
+            "choices":[
+                "Double smoke circle",
+                "Sword dance"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I left your village months ago. On my way here, I got a few jobs, and, well, I...\"she pauses.\"I interfered in one of Terro's lower mob rings. The leader of that ring was a shapeshifter named Chi. I didn't know and I let her see my face. She stole my identity. I was forced to kill that servent girl and steal her life. Chi got me branded as a criminal. i can't even return to the village. They killed Bakumatsu Oboro. I wanted to avenge him.\" <br>\r\n\"If he's already dead, we just have to get out of here. Theres nothing we can do.\" The two of you run through the upper level of the building together until a squad of ninja block your path. The two of you draw your swords.</span></div></div>",
+            "created":1145322000,
+            "id":313570,
+            "title":"Shapeshifter."
+        },
+        "1221121112221":{
+            "choices":[
+                "Repeat the smoke circle.",
+                "Head to Head"
+            ],
+            "content":"<div class=\"\"><div> <span>Sakura throws a ring of smoke bombs behind the enemy Ninjas and you throw yours in front. You had them completly surrounded. You both slash inward so you would hit the ninja. After circling 3 times you realize you never hit them. You allow the smoke to fade and look for the ninjas. To your surprise the ninja are in exactly the same spot. But somehow you ended up in the outer circle, while she's in the inner circle. You don't know what they did, but theese were clearly high class ninja. </span></div></div>",
+            "created":1145326380,
+            "id":313588,
+            "title":"Battle!"
+        },
+        "12211211122211":{
+            "choices":[
+                "It's Chi.",
+                "It's an old man."
+            ],
+            "content":"<div class=\"\"><div> <span>You don't know what they did, but you decide to perform the smoke cicle again. You set up the circle and both run clockwise with your swords inward. When you exit the circle the same thing has happened. You look to your partner curiously to see if she knows anything. You hear someone coming up a set of stairs across the room. The ninjas bow down in anticipation of thier arival. </span></div></div>",
+            "created":1145369760,
+            "id":313656,
+            "title":"Second try"
+        },
+        "122112111222111":{
+            "choices":[
+                "You're not yourself anymore",
+                "You can't move"
+            ],
+            "content":"<div class=\"\"><div> <span>You hear footsteps coming up the stairs. \"Who do you think it is?\" <br>\r\n\"No idea.\" You wait cautiously for the person to make it up the stairs and it is... Sakura? No it's Chi the Shapeshifter you were told about. You weren't sure if you beleived her at first but now you have proof. <br>\r\n\"Well well, if it isn't the little Kinoichi(Female ninja) from the hold up?\" Chi says in Sakuras pretty voice.<br>\r\n\"You ruined my life! I will kill you!\" She screams as she charges head on with her Katana. Chi counters with two of her own. Sakura breaks from the standstill and slashes her stomache. While the two duke it out you deal with the two ninja from earlier. You had no trouble with them now, for some reason. Oboro! Look on the ground! Sakura kicks a lavender colored orb your way. <br>\r\n\"What is it?\" you ask. <br>\r\n\"I don't know, just hold on to it.\"<br>\r\n\"GIVE ME THAT BALL!!!\" screams Chi.Sakura runs over to you and grabs the ball. It's at that moment you feel a strain so great it's as if you're being pulled from your body. Everything goes black. You open your eyes to find your lying on the ground. Chi omes up and takes the ball from you then runs off. When you stand up you find...</span></div></div>",
+            "created":1145373240,
+            "id":313670,
+            "title":"Chi"
+        },
+        "1221121112221111":{
+            "choices":[
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>You are breathing heavy, whatever happened, it hurt. You go to stand up and you get a good look at your legs. Your wearing a skirt. You quickly stand up to further examine your body. Breasts long hair. Yep, your a girl for real this time. Your body sits next to you on the ground.<br>\r\n\"Sakura wake up! Somethings happened!\" She opens her eyes and screams when she is met with her own face. \"What happened?\" she says, examining her body.<br>\r\n\"I don't know, We both grabbed the ball now... this!\"<br>\r\n\"Then let's just change it back! Wheres the ball?\" She says in a manly, yet somehow feminine voice.<br>\r\n\"Chi stole it. I think it's the source of her powers.\" The two of you follow the path she took.<br>\r\n</span></div></div>",
+            "created":1145373900,
+            "id":313671,
+            "title":"Who am I?"
+        },
+        "122112111222112":{
+            "content":"<div class=\"\"><div> <span>An old manv walks up the stairs. \"The switch Nin are too much for you, eh?\" The old man draws a Rapier and steps into a battle stance. <br>\r\n\"Well smoke doesn't seem like the right aproach to this. What do you think?\" you whisper to Sakura.<br>\r\n\"What about the-\"<br>\r\n\"No, Techniques aren't working, let's just get them.\"<br>\r\nYou use the last of your smoke bombs to completly fill the room. The two of you easily see through the smoke, but so do the enemy ninja. They apear to have the ability to control \"location\" within the room. You and Sakura never stood a chance. Your limbs are first cut off and then stabbed.</span></div></div>",
+            "created":1145371260,
+            "id":313666,
+            "title":"Nice move."
+        },
+        "12212":{
+            "choices":[
+                "Block the attack with poisonous claws",
+                "Counter with own Katana"
+            ],
+            "content":"<div class=\"\"><div> <span>You easily catch the shuriken.<br>\r\n\"Hah, My own throwing stars will never hur-\" Your cut off when a second shuriken slices the back of your hand. Before you have a moment to retaliate the girl comes running up low to the ground  with a katana ready to strike!</span></div></div>",
+            "created":1145250000,
+            "id":313511,
+            "title":"Worthy rival."
+        },
+        "1222":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "choices":[
+                "React as best you can."
+            ],
+            "content":"<div class=\"\"><div> <span>You dash forward quickly, clamping a hand over the girl's mouth. She struggles for a moment, but you tighten your grip. You whisper that you are not here to do her any harm, and she seems to calm for a moment.\r<br>\n\r<br>\n\"Who are you,\" she whispers. \"Why are you here?\"\r<br>\n\r<br>\nWith a sigh you tell her of your mission. Suddenly, you hear a slight movement in the air. You turn around, to nearly be met by a throwing star! You manage to avoid it, but it seems that you were not its intended target!</span></div></div>",
+            "created":996037200,
+            "id":65577,
+            "title":"Explanations"
+        },
+        "12221":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "choices":[
+                "Fight him off. Easy enough, right?",
+                "Run with the girl. Keep her out of danger."
+            ],
+            "content":"<div class=\"\"><div> <span>Reacting on reflex, you tackle the girl to the ground, the star simple tearing part of her kimono. Telling her to stay down, you search for your assailant.\r<br>\n\r<br>\nTo the left, you detect movement and a metallic sound. You turn and see another ninja charging straight at you, katana drawn!</span></div></div>",
+            "created":996037200,
+            "id":65579,
+            "title":"Silent Assailant"
+        },
+        "122211":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "choices":[
+                "Ask why she has a tail.",
+                "Assault the obvious demoness."
+            ],
+            "content":"<div class=\"\"><div> <span>You wait for your opponent to charge at you, and draw your own katana just in time to parry his blow. Your assailant tries a leg sweep, but you flip over it, striking his back as you land. He whips around, throwing stars blazing. You twirl your sword, deflecting every one. Finally, you rush forward, and a single swipe, decapitate the enemy.\r<br>\n\r<br>\nYou wipe the blood off of your sword, and take a look at the bystander. You become curious at the movement near her rear, where the tear was located. Your eyes widen as you realize that it's a tail!</span></div></div>",
+            "created":996037200,
+            "id":65581,
+            "title":"Dispatchment"
+        },
+        "123":{
+            "author_id":"chibo_raudi",
+            "author_name":"Raudi",
+            "content":"<div class=\"\"><div> <span>Silently, you search the garden for the source of the noise. Not a single soul is found.\r<br>\n\r<br>\nYou begin to concentrate, trying to decide your next path. You are concentrating so hard that you never see the poison tipped arrow pierce your neck, killing you instantly.</span></div></div>",
+            "created":996037200,
+            "id":65576,
+            "title":"Mission Failed"
+        }
+    },
+    "info":{
+        "author_id":"chibo_raudi",
+        "author_name":"Raudi",
+        "brief_description":"   Enter the life of a ninja and solve an operative's disappearence.",
+        "created":995878380,
+        "description":"<td align=\"left\" class=\"norm\">   You are a shinobi, or ninja, known as Bakumatsu Oboro. You have been given the mission of infiltrating an enemy compound and rescuing a captured-personnel. Your only weapons are a short dagger, a katana, and a case of throwing stars.\r<br>\n\r<br>\n   Many things are allowed in this story, but please try to follow the genres. Also, no gay or lesbian action. Please try and use the neatest grammer possible. I'd like to keep my works from looking like a six year old wrote them.</td>",
+        "id":196251,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1329843600,
+        "modified":1329843600,
+        "pretty_title":"Silent Mission: A Shinobi's Tale"
+    }
+}

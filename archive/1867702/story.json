@@ -1,0 +1,442 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a male or female Hero?</span></div></span></div>",
+            "created":1336971600,
+            "id":1337436,
+            "title":"Hero Gender"
+        },
+        "11":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "A farmer",
+                "A blacksmith",
+                "A merchant",
+                "A sailor",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What was your father's profession?</span></div></span></div>",
+            "created":1336971600,
+            "id":1337440,
+            "title":"Male Parentage"
+        },
+        "111":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "Argamir, the village Blacksmith",
+                "Dante, head of the Militia",
+                "Angmar, the traveling Wizard"
+            ],
+            "content":"<div class=\"\"><div> <span>Your father was a man of the earth, tilling the soil and raising life giving crops.  It was a life of hard, thankless work that turned your muscles into steel chord as you grew.  While you might not have been able to weild a blade with any precision, you could split wood and and work a plow better than anyone else in your family.  As you became a young man, your father began to tell you of the ways of the world, of places far beyond your imagination.  You dreamed of these exciting lands and the adventures you might have, but as time wore on it soon became evident that it would be impossible to set out in search of glory.  You were needed here, and although your father encouraged you to pursue a better life than this, you remained at the farm until the strings of fate pulled you away.<br>\r\n<br>\r\nOne day while working the feilds a familier man walks by and begins to question you about your work.  It's obvious that the speaker knows you well as he calls you by name, however with the amount of concentration it took to keep your unweildy scyth on track you could not afford to look up.  \"Are you here for my father?\"  you ask without looking.  \"No, as a matter of fact I came here looking for you...\"  You frown and finaly set your heavy tool down to look the speaker in the eye.  The man who meets you gaze is...</span></div></div>",
+            "created":1337058000,
+            "id":1338016,
+            "title":"A farmer"
+        },
+        "1111":{
+            "author_id":"surferjim",
+            "author_name":"SurferJim",
+            "choices":[
+                "Tell your parents. They believe Argamir, and encourage you to leave.",
+                "Don't tell your parents, and stay. ",
+                "Tell your parents, and they tell you to stay"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hail then Argamir, why do you look for me?\"<br>\r\n Argamir, the heavy set blacksmith of our small town looked at me, his brow furrowed in concern. <br>\r\n He spoke in a deep rumble, but softly as though he was afraid of being overheard. <br>\r\n \"Lad, I owe you and your father debt. I'm paying it. You saved Avi, my little girl.\"<br>\r\n It had been two harvests ago, a nacken had set itself into the local river. <br>\r\n Avice, Argamir's youngest daughter of thirteen at the time, had taken the laundry for washing. <br>\r\n Fortunately I and my father had been passing and dispatched the water spirit before it could draw the girl to her deathin it's embrace. <br>\r\n \"Argamir, you know neither I or my father hold you to debt. We did what any man should have!\"<br>\r\n The man's face stayed impassive, hard work having set his face almost to stone. <br>\r\n But a slight glint of a smile tugged as his eye. <br>\r\n \"Aye, it should be expected of any good man. And you and your father are both good men. If you won't accept it as repayment of the debt I do owe you, then consider it the same act. What I tell you now could save your life. Consider it either a debt repayed or a favor from one father to yours.\"<br>\r\n Metal is not prone to conversation, and Argamir resembled it in that way. <br>\r\n If it was serious enough to draw so many words from him, then it was worth listening to him. <br>\r\n \"Boy, do you know our Baron?\"<br>\r\n\"Only that he is mostly fair in taxes, that he has never worked with with his hands if it could be avoided. I hear he tends towards foppishness with his dress. I've never seen him, though.\"<br>\r\n \"He is not a bad man, as Baron's go. When I was a lad, his grandfather was heavy with the taxes, took enough of us so his dogs grew fat while we damn near starved. Baron Roger is good in that regard. And a Baron who interferes little with the lives of his people is not such a bad thing.\" <br>\r\n He took a breath, and thought for a moment. I'd never known Argamir to be so chatty. The wind blew from behind him, and now I could smell drink coming off of him, though it only seemed to lubricate his words. <br>\r\n \"But like all Barons, by the hells, like all men, he has his pride. At the last gathering held by the king, the Baron of Tawnion gave him insult and demeaned our lands. I don't know the full details, but while Baron Tawnion was put in his place, our Baron Rogers does not see fit to let the insult slide. <br>\r\n He has given me and all the blacksmiths of his barony the order for weapons and armor. To repair the old tools of your father's day and make new replacements for has been lost. Do you see what I am saying?\"<br>\r\nI had felt the dread rise as Argamir was speaking. <br>\r\n The Baron sought battle to repay the insult? <br>\r\n While wars had been fought, it had only been to keep out those that wished to conquer our lands. <br>\r\n The King held sway over fifteen lands, each held by a baron who managed them for him. <br>\r\n And battle fought between them would see the death of the Baron starting the conflict. <br>\r\n\"He would not draw the king's ire down on himself, surely! He would be a fool!\" <br>\r\n \"I do not know the nature of the insult Tawnion gave, I do know that Roger has certain pull in the King's court, even if not so much with the king himself. Perhaps he thinks should he win, that he will be able to use the insult as an excuse for the battle. I do not know. Whatever the reason, he is truly a fool. Tawnion controls greater lands, has more men and resources at his control. He may manage a surprise blow, but he can in no way win such an attack. He will soon begin to conscript young men, like yourself, to fight for his foolish cause.\"<br>\r\n I started to speak, but he moved forward and clasped his hand to my shoulder.<br>\r\n \"Simon,\" he said, his breathe reeking of ale,\"you must leave. If you stay, you will be forced into his army, and you will be killed by his mad plan. I'm sending my boy away as well. There's call for young men like yourselves to the north. In the docks at Taerop, or the King's works at Caereth. Even the great city of the king, should you go so far. Anywhere, but leave this land.\" <br>\r\n I felt shock to my core. I had never wanted to travel, unlike some I loved this land. My father had been granted it after serving time in the King's army, and it was good, rich farming land. I knew the rivers, the fields, it's people, and it's beasts who sometimes ventured out of the forests and waterways. <br>\r\n My father and mother needed my help working the lands. I couldn't leave them and my sisters, could I? <br>\r\n\"You must listen to me lad, if you stay you will die. No curse is so great for a father than to lose a child so nearly their own person. The brush of it was enough to wound me. Heed my advice, make any preparations you need. I will provide you whatever you do not have, but you must leave!\" <br>\r\n My head was swirling, How could I leave everything I'd known? <br>\r\n Even drunk, I couldn't question the blacksmith. Beneath the drink, I could see the fear in his eyes, hear the panic of his words. <br>\r\n If he was truly sending Ake away, then he held no doubt of his fear. <br>\r\n \"I must speak with my father and mother. I cannot believe this!\"<br>\r\nHis other hand clasped my other shoulder.<br>\r\n \"You must.\" He didn't raise his voice, but leveled his gaze at me. <br>\r\n \"Speak to them, tell them what I have told you. But you must ready yourself to leave come morning, noon at the latest. The Baron will soon come to start gathering men. You must be then gone, or he will take you!\" <br>\r\n In a sort of dull panic, not thinking I left the scythe where it lay and started walking to the home I shared with my family.<br>\r\n \"See me come morning, I will have some of that needed to guard yourself on your travels!\" <br>\r\n Having left his message of woe and destruction, destroying the peace of my day and future, Argamir left. <br>\r\n Presumably back to make sure his drink hadn't decided to slip away on him. <br>\r\n</span></div></div>",
+            "created":1483784880,
+            "id":2260265,
+            "title":"Argamir, the village Blacksmith"
+        },
+        "11111":{
+            "author_id":"surferjim",
+            "author_name":"SurferJim",
+            "choices":[
+                "Make it to the smiithy safely",
+                "Meet someone on the way"
+            ],
+            "content":"<div class=\"\"><div> <span> I sat at the family table, like most of the things I knew it is rough hewn and slightly stained. But solid and sturdy. Made years ago from a tree that had fallen on the edge of the forest. <br>\r\n I had helped your father cut it into useful lumber, then assemble it. <br>\r\n There were marks there from my inexpert hands. From dinners past, knotches from me and my sisters when we were younger.. <br>\r\n Your father looked at me, almost expressionless. But I could see the dread in his eyes. My mother was equally expressionless, but had turned pale. <br>\r\n They had both listened quietly as I repeated to them what Argamir had told me. <br>\r\nThe only reaction was a sharp intake of breath from my father as I told him what the Baron was planning.<br>\r\n \"Argamir is right, the Baron is a fool.\" my father said, rising from the table. <br>\r\n \"Come, we must get you ready. I still remember what is needed for a man to travel. It is three days travel to get out of the barony, another four to get to the nearest city. We can spare enough supplies to get your out of the barony on into Rendig's lands at least. You'll need to hunt for the rest. Take two gourds and...\"<br>\r\nI interrupted him. <br>\r\n \"Father, must I leave?\"<br>\r\n\"I have only known Argamir to panic once, when the nacken had nearly stolen Avice away. If he told you the baron seeks war, the baron seeks war. No insult between barons is so terrible as to cost the lives of young men in reparation. Even more so when they are so mismatched. In a year, perhaps two, return after this foolishness. But for now you must leave. We old men will be safe, but should you stay... boy, I would not lose you. Nor would your mother. Not in such a senseless way!\" <br>\r\n As he spoke the last sentence, his voice rose, anger giving it an edge I'd not heard before. <br>\r\n He had raised his temper to me and my sisters, but this was rage. <br>\r\n I knew in the war, like every man fighting he had lost compatriots to action. <br>\r\n Sometimes as harvest, he would drink to them and curse the fool generals who had blundered into traps or sacrificed men for scarce gains. <br>\r\n \"If you and Ake travel hard, you may even reach the King's city. It may happen you can stop this foolishness.\"<br>\r\n He walked to the back of our home, where the shelves were, and pulled out two travel sacks and my cloak. <br>\r\n \"If nothing else, you will be far from this foolishness.\"<br>\r\n He handed the sacks and cloak to me. <br>\r\n I reached to take them, but he held his grip.<br>\r\n\"Son, war is an evil. Even if you are fighting for your home and kin, even if you fight for your life, it is an evil that marks you. I will never forget what I did, what I lost. Or, what I gained. Safety, for my family. This land. Which brought to me this land, your mother, and you and your sisters. Our king knows the cost, and rewarded us who served the best he could.\"<br>\r\n He let go of the bags and cloak. <br>\r\n \"The Baron, apparently, does not know, or does not care the cost. I saw men like that. Generals, who lead for glory and not their men. The men rarely survived. The generals survived more often than the men liked.\" <br>\r\n He started pulling out dried meats and preserved vegetables from the shelves, loading one sack. <br>\r\n He paused, then went to the bedroom, and pulled his service sword from under the bed.<br>\r\n \"I know you've not used this, but you're a strong lad. Strength can cover for skill for most times you face danger. It should be in good condition, but have Argamir make sure of it.\" He handed me the belt and sword, then showed me how to strap it to my side for ease to draw it. <br>\r\n \"I hope I've taught you well boy. Only draw when needed. Keep your temper about you. Do not be like our baron and meet insults with death. There are greater things in this life to be concerned with than words of spite.\" <br>\r\n He stared at me then. <br>\r\n\"You're a fine son, a man couldn't be prouder. Do not feel shame for leaving, just return home when this is over.\" <br>\r\n He wrapped me in a great hug, strength from years of farming life almost crushing me.<br>\r\n My mother put her hand on my shoulder, and I turned to face her. <br>\r\n There were tears in her eyes, but she didn't shed them. <br>\r\n \"Your father is right. You will be a fine man soon. The Baron is a fool to spend lives so cheaply, and I know Aya and Argamir are telling their son the same.\"<br>\r\n She pressed a small but heavy sack into my hands. <br>\r\n \"This is some of the coins we've saved. You'll need it.\" <br>\r\nI moved to protests, but she shook her head. <br>\r\n\"I wish we had more time to get ready, but you will need this coin more than we will by far. It's to pay for your return. And, perhaps if you still seek Katie's favor when you return, you might buy her a gift perhaps.\" <br>\r\n A bit of a sparkle came to her eyes, something apart from the tears.<br>\r\n\"I'll make sure she knows. Now see to your sisters, your father and I will finish the preparations.\"<br>\r\n The sword felt heavy on my right side, and the coin purse felt as heavy on my left. <br>\r\n Both were gifts of importance to my parents.  My father had kept the sword after service, kept it clean and in fair condition. But he had kept it hidden, not in pride of place like some do. <br>\r\n And the coin was what little my family had raised for whatever needed supplies. New cattle or seed or something to be repaired or built we couldn't ourselves. <br>\r\n It also cemented the fact I was leaving. <br>\r\n As my parents gathered what they could to pack, I left the home and walked towards the stream, where my sisters were cleaning the cookery and clothing while watching the cattle drink. <br>\r\n \"Adie! Bailes!\" <br>\r\n \"Simon? What's wrong? why do you have father's sword?\" Adie said, looking up from her work. <br>\r\n \"Yes, what is the matter?\" said Bailes. <br>\r\n \"Something has happened, with the Baron. Mother and father know. I have to leave.\"<br>\r\n\"Leave?\" they both said. <br>\r\n \"Leave home?\" said Bailion. <br>\r\n\"I must leave the Barony entirely. I will be traveling with Ake. Before the Baron can take us.\" <br>\r\n\"Have you done something wrong?\" asked Adela.<br>\r\n \"No, but the Baron will do. I have to leave here before then. Mother and father will explain, but I must leave.\" <br>\r\nI gave them both a fierce hug, and they followed me back to our home. <br>\r\n \"I love you, I promise I'll return as soon as it's over.\"<br>\r\n\"Mother, Simon said he's leaving!\" cried Adela as we walked inside. <br>\r\n\"It's true,\" she said. <br>\r\n \"We've packed the sacks. Head out now, best to get to Argamir's smithy as soon as you can. Make sure he checks the blade.\" said my father. <br>\r\n I put on my cloak, and slung the bags over my shoulder. They were heavy, with food and other supplies. <br>\r\n\"There's tools for fire, and I added your bowstrings and fletching tools. Grab your bow.\" <br>\r\n I stood there for a moment, the weight of it pressing on me. <br>\r\n\"Go, son! Now!\" <br>\r\n I walked out of my home, not knowing if I'd return. <br>\r\n A thought struck me as I did, that even if I did, I might not find my family. <br>\r\n </span></div></div>",
+            "created":1483788600,
+            "id":2260274,
+            "title":"Tell your parents. They believe Argamir, and en..."
+        },
+        "112":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "Knight in full battle armor",
+                "A man in reagal garb",
+                "A peasent with a broken axe"
+            ],
+            "content":"<div class=\"\"><div> <span>Your father was the village blacksmith.  You learned how to fold iron and steel at a young age under his watchful gaze, turning them into both tools and weapons.  Being his youngest son however, you were never ment to inherit the buisness.  That was left to your older brother Roland.  Instead your father decided to send you away to live with your uncle in the city.  You never knew your uncle very well, but it was the best possible decision that your old man could have made.  Your uncle had no son, and  with your comming his shop thrived.  Within months he was known as the best blacksmith in the land thanks to your hard work.  Being his apprentice drew the attention of the locals who would sing your name with praise.  Eventually warriors from across the kingdom came seeking his legendary skill.<br>\r\n<br>\r\nOne day while tending to the forge, a stranger walked up to the door of the shop and hammered upon the ashen grey timbers with a heavy hand.  \"Hello?  Is Argamir the Blacksmith in?\"  He called, the tone of his voice filled with urgency.  Initially you decide to ignore it, however after several seconds you realize that your uncle had gone to the market earlier that morning.  You set down your heavy hammer and proceede to the door.  It opens with a loud creak, virtue of the rusty hinges.  In the doorway is standing a...</span></div></div>",
+            "created":1336971600,
+            "id":1337458,
+            "title":"A blacksmith"
+        },
+        "1122":{
+            "choices":[
+                "Open up to uncle, accompanied by a beautiful women",
+                "Open it to the thugs.",
+                "A strange, but beautiful, women, clad in armor, holding a damaged staff/sword."
+            ],
+            "content":"<div class=\"\"><div> <span>...my uncles old friend, dressed in the finest of cloths. \"Cecil, Is your uncle here?\" the man asked.<br>\r\n<br>\r\nI studied him for several moments before speaking, \"Your the king's steward now, aren't you?\" I asked, not unkindly.<br>\r\n<br>\r\n\"Aye, was it that obvious? How did you know?\"<br>\r\n<br>\r\n\"Well, I'm pretty sure that the normal high class folk don't 'ave 2 large thugs following them. Come inside, quickly but casually.\" I said to him. He got a panicked expression on his face, but followed my instructions. I closed the door. \"What do you want?\"<br>\r\n<br>\r\n\"I came to see your uncle, but under the circumstances, I think you can relay a message. Just give him this satchel, I'm trusting you not to look inside, hide it in a safe place, until you uncle gets here. Now, I have to get going, please, keep it safe. Safe journ--\" he didn't get to Finnish, there was a banging at the door.<br>\r\n<br>\r\n\"OPEN UP!\" came a familiar voice...</span></div></div>",
+            "created":1336971600,
+            "id":1337485,
+            "title":"A proposition"
+        },
+        "11222":{
+            "author_id":"summitgamer",
+            "author_name":"Summit",
+            "choices":[
+                "They get to close to it and you have to fight",
+                "They don't find it/something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Quickly you grab the bag and hide it on the far side of the furnace where you were tempering some swords. You grab one of your hammers and walk to the door hearing three more pounds on the door seeming to show frustration from whoever was on the other side of it. You get to the door and say \u201ci hear you....one minute.\u201d <br>\r\n<br>\r\nyou open the door and see two shady looking thugs one really scraggly with a dirty smile and a rat like complex. The other was a tank of a man wearing a dirty shirt and vest combo that looked like they were barely containing his muscles he silently stared down at you.<br>\r\n<br>\r\nFinally the scraggly thug laughs a little and says \u201cEllo boy, we are looking for someone and my friend and me could have sworn seeing 'im come in 'ere not to long ago.\u201d<br>\r\n<br>\r\nyou say \u201cthat can't be possible I have been working in my uncles shop all day I would have seen anyone come in....that is if the door was unlocked.\u201d<br>\r\n<br>\r\nthe thug sighs and says \u201cabout that, whats a fine e-stablishment such as this doing locked during the day?\u201d<br>\r\n<br>\r\nyou say \u201c Orders have been piling up lately and I need to work undisturbed until I get them done.\u201d<br>\r\n<br>\r\nThe scraggly thug starts laughing and says \u201c well what a coincidence my buddy bruce 'ere 'as been looking for someone to get some blacksmithing done and well we are 'ere so why don't you show 'im some nice service and 'ook 'im up with something?\u201d<br>\r\n<br>\r\nyou knew what he was trying to do and were getting worried they would try something but say \u201cas I said I am really busy I better get back to work before I get more behind.\u201d getting ready to close the door you hear the scraggly thug say \u201cnon-sense you wouldn't turn down business that is practically throwing themselves would you.\u201d at this point they push their way in.<br>\r\n<br>\r\nonce in they begin looking around. They start walking around looking everywhere and you say \u201cif you insist like this why don't you tell me what you are looking for bruce?\u201d <br>\r\n<br>\r\nagain you hear the scraggly thug laugh and say \u201cwell bruce doesn't talk much so if he sees something 'e likes 'e will let you know. But until than why don't you get back to work; I mean you are busy after all and we don't want to be a 'inderince to you.\u201d you could tell he was just being sarcastic with the last bit but saw your chance to guard the bag.<br>\r\n<br>\r\nSo you walk back to the furnace and get to work while being aware of what your two guests are doing.</span></div></div>",
+            "created":1337230800,
+            "id":1339430,
+            "title":"Open it to the thugs."
+        },
+        "112221":{
+            "choices":[
+                "The city guards show up.",
+                "Your only friend, Mira, a elf runs in and sees the carnage."
+            ],
+            "content":"<div class=\"\"><div> <span>I tried my best to ignore the two thugs, and I was hoping they would not check the back room, were Nolan, my uncles friend was hiding. <br>\r\n<br>\r\n\"While were 'ere, what is a wee lad like you doing 'ere anyway? You should be out playin with yer frends.\" the scraggly thug said.<br>\r\n<br>\r\n\"Yea, well I just moved here and I need to make some money for my family. You got a problem with that?\"  I snapped back.<br>\r\n<br>\r\nI could tell he knew he had hit a nerve.  He seemed to be looking at something behind me... \"No need 't get angry. Jus sayn it's strange for a young lad like you to 'ave work, unless, naw, you ook like a popular lad.\" he said.<br>\r\n<br>\r\n\"I have no friends, topic cl--\" i was cut off by a loud yell from Nolan.<br>\r\n<br>\r\n\"Oi, Geck, lookie 'ere.\" Bruce said, in a unnaturally deep voice. He emerged from the back room with Nolan, struggling to get away.<br>\r\n<br>\r\n\"Les, get out of here!! Take the bag and go!!\" Nolan shouted to me.<br>\r\n<br>\r\nGeck turnded towards me, drawing a dagger from underhis coat, saying \"Oh, your not going anywhere, 'Less'\" he said in a mocking tone. \"Give me the bag, and I'll let you live, for a little while.\" he said, sneering.<br>\r\n<br>\r\nI was getting angry. \"Over my dead body!!\" I yelled, grabbing the hammer, and a red hot, half finished, sword.<br>\r\n<br>\r\n\"Hahaha! You might as w--\" he didn't Finnish talking before I swung the sword towards him. There was a loud 'TWANG' as Geck barley got his dagger up in time to block it. He responded by pulling out a second dagger, and swinging it towards my belly. My hammer caught that one. I swung my sword around a second time. He raised his dagger to stop it above his head, only to have the red-hot sword to rain sparks down on his eyes and face.<br>\r\n<br>\r\n\"AAUGGHHH!!\" he screamed, and fell to his knees. I swung te hammer down on his back, and he crumpled to the floor. I looked over at Nolan, to see him fighting Bruce. Nolan had grabbed a shield off the wall, while Bruce had grabbed a large mace off te same wall. 'maby those should be on different walls' I thought as I ran to assist Nolan. Bruce's mace came down on the shield with a 'Crack'. I knew it wasn't the shield that cracked. Before Bruce could block, I hit him in the arm with my hammer.  He fell to the floor, clutching his arm. The sword was a red-orange blur as it cut his chest open. Spattering blood on the floor. He lay silent on the floor. <br>\r\n<br>\r\nI quickly ran to Nolan.  \"Nolan! You are going to be ok!\" I said, knowing that the beakers would probably have to amputate his crushed arm. Which for a scholar, would be devastating.  I lifted the shield slightly, to check the damage. It was worse than I thought. On top of a crushed arm, the shield had splintered and stabbed him throughout his left side. <br>\r\n<br>\r\n\"Les...I need you to...'cough'.. I need you to protect that satchel from...the elves. Those thugs were probably hired to get the contents. 'cough' Ime sure they've sent someone for..'ungh'.. your uncle. He will be safe though. Paranoia has it's benefits.\" he coughed out. \"You must take the satchel to the high priest. Your uncle was suppost to do this, but I guess you'll do.\" he said with a chuckle. \"now go! I don't know if there were more, but you must leave soon. And here, take this. This should be helpfull in your journey.\" he handed me his personal satchel.<br>\r\n<br>\r\nI went over and grabbed the hidden satchel and my best sword and cross bow, and headed for the door.  Suddenly...</span></div></div>",
+            "created":1337403600,
+            "id":1340745,
+            "title":"Blood stains"
+        },
+        "1122212":{
+            "author_id":"summitgamer",
+            "author_name":"Summit",
+            "choices":[
+                "accept her offer and bring her with you.",
+                "decline her offer. it is to risky to bring an elf with you."
+            ],
+            "content":"<div class=\"\"><div> <span>As you were heading to the front door you wrap the satchel over your shoulder and grab the handle of the door; just as you were about to open it the door slammed open, you were barely able to block it from hitting your face.<br>\r\n<br>\r\nAs your vision adjusted to the light difference you hear a familiar say \u201cLESSSS. I am really bored so I came to see what you were doing. Are you doing anything fun?\u201d<br>\r\n<br>\r\nIt was unmistakable she just had to come right now, it was your only friend you have gotten since you moved here. Mira, she was an elf that lost here parents the first night they got to the city. It was a thief that killed them he has never been caught but every once and awhile you hear he struck again from the guards talking about a murder and not finding any valuables on them. But she adapted to the streets fast learning how she needed to act in order to survive; soon after she was orphaned she found she had a knack for magic and was waiting until the elven church would take her on for priestess training so she could help injured and sick people and have a constant roof over her head. It was her biggest dream to work there.<br>\r\n<br>\r\n Suddenly you hear her inhale deeply as she notices the blood everywhere in the room and the three bodies on the ground.<br>\r\n<br>\r\n\u201cL-Les what happened here?\u201d you could hear the trembling in her voice as she asked.<br>\r\n<br>\r\nKnowing she wouldn't let you go without an explanation you close the door and lock it than turn to her grab her hand and pull her the the second floor where both you and your uncle lived in the building and sat her down at a chair, taking a deep breath you explain everything that happened to you today. You trusted her enough and knew she wasn't close enough to talk to other elves being the street rat she was, to not talk about his mission to anyone.<br>\r\n<br>\r\nShe listened and stayed completely silent even after you were done explaining and she just sat there thinking until she said \u201coh\u201d you knew she hated death her parents death's traumatized her. The main reason she wanted to become a priestess was for there healing magic's they knew and would teach her, though she didn't know any healing magic now she wanted to learn it so bad.<br>\r\n<br>\r\nShe spoke again saying \u201cbut you had to kill them or they would have killed you so it was for a good reason, right?\u201d<br>\r\n<br>\r\nyou look at her with un-sure eyes and say \u201cI don't know\u201d <br>\r\n<br>\r\nthe two of you sat in silence for a couple of minutes before Mira finally broke the silence and said \u201cwell you have a mission to do so lets go. I will make sure you get it done; so lets go now.\u201d<br>\r\n<br>\r\nyou look at her skeptically and said \u201cwait what? Why am I going to bring you?\u201d<br>\r\n<br>\r\nshe smiled as best she could and said \u201ci know these streets better then you do, it will be safer for you and any other thugs you would probably run in to if you travel with me.\u201d<br>\r\n<br>\r\nyou think about her offer and say \u201c......\u201d</span></div></div>",
+            "created":1337749200,
+            "id":1343366,
+            "title":"Your only friend, Mira, a elf runs in and sees ..."
+        },
+        "11222121":{
+            "choices":[
+                "Proceded to tHe church, without any trouble or stopping.",
+                "Proceeded to the church, but something was following them..."
+            ],
+            "content":"<div class=\"\"><div> <span>I added to Mira's comment, \"plus you have street smarts.\"<br>\r\n<br>\r\n\"Heh, yeah. A little halfling like you can't do much on his own.\" Mira added.<br>\r\n<br>\r\nOh, I should probably say this. I'm half man, half dwarf. My father had a dwarf women stay the night on his farm, cause she needed a place to sleep. I think you can figure out what happened. His wife had died a year or so back and he was lonely. My half-brother, Roland, though he was young, could tell this was not his real mother. The two had fallen in love, and soon got married, she had had no place to stay or no were to be. Well they had me, a short, stout, um, thing. Too tall to be a dwarf, and too short to be a man. Plus I had a thick beard already. I was no normal man. Well, that's were I came from if you were wondering.<br>\r\n<br>\r\n\"Your hilarious.\" I said, glaring, \"My uncles friend had told me to bring the satchel to the high priest. I sure hope we can do that, seeing as you are a street-rat, and I'm a unwanted halfling. They might let you in cause you are a elf who can use magic. Have you learned anything new?\"<br>\r\n<br>\r\n\"You are more than unwanted halfling. You will be a great hero someday. I know it. And to answer your question, yes. I can heal larger cuts now. We should probably get going. I don't want to be here if more thugs show up.\"<br>\r\n<br>\r\n\"Good point. I have everything I need, you just grab what you want, and we will be off. You take the important satchel, I will take my uncles friends satchel. I am trusting you will protect this, after all you are alot faster than me. Grab what you want, then meet me by the door.\" she went downstairs to arm herself, while I stayed upstairs and wrote out a note for my uncle. I brought my stuff downstairs, to find Mira waiting for me. <br>\r\n<br>\r\n\"Come on. Let's go.\" She had grabbed some leather armor, two daggers, handles of the blades by her hips, and a long bow and quiver on her back.<br>\r\n<br>\r\n\"You look amazing!\" I managed to stammer out.<br>\r\n<br>\r\n\"Thank you.\" she said, her big cheeks turning rose colored. \"No one has ever said that about me.\" She wasn't the skinniest of the elves, or the prettiest by elf standards, but to me, she was beautiful. Altough she was not the thinnest, she was very athletic. She could run a mile in 5 minutes easy. After the moment was over, she said \"Alright, ready?\" she asked as she put a robe on to hide the daggers and her armor.<br>\r\n<br>\r\n\"Aye, I'm all set.\" I said, grabbing my leather boots, my gauntlets, and my helm.<br>\r\n<br>\r\nWe silently opened the door to the sun setting, and the streets mostly clear, other than the occasional passerby. After locking the door we...</span></div></div>",
+            "created":1337922000,
+            "id":1345028,
+            "title":"Were will we go?"
+        },
+        "112221212":{
+            "choices":[
+                "A Large husky, it looked like it was lost and had nowhere to go...",
+                "A injured hawk..."
+            ],
+            "content":"<div class=\"\"><div> <span>We locked the door up all tight, and turned around. We didn't make it far until Mira said \"we are being followed. Follow me, stay close.\" we walked to a alley, and when we were out of sight from any passersby, we hid. Not too much later something came to the alley. It was a...</span></div></div>",
+            "created":1337922000,
+            "id":1345030,
+            "title":"A new friend?"
+        },
+        "1122212122":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Later that day",
+                "That night"
+            ],
+            "content":"<div class=\"\"><div> <span>How it got injured, we weren't sure, but it was making too much noise as it followed us. It would give our position away if we didn't do something. I pulled out my crossbow, took aim at the hawk and prepared to fire. Mira put her hand over the crossbow, lowering it and glaring at me. <br>\r\n\"What were you thinking?\" she asked, \"It's hurt, it's crying out to us for aid, and your response was to shoot it?\" <br>\r\n\"It'll die anyway,\" you replied, \"We can't risk it giving away our position.\" <br>\r\n\"That doesn't excuse you just about killing an innocent creature,\" said Mira, then, after giving you another glare, walked towards the hawk.<br>\r\nYou watched as she looked over it, muttering to it in soothing tones. Then, her hands glowed with a white light, and the bleeding gash in the hawks wings healed up. The hawk flapped its wings slightly and alighted on Mira's shoulder. She walked back up to you as if the hawk weighed almost nothing, despite it being almost a quarter of her size. <br>\r\n\"Horus here was trying to warn us of increased wild animal activity in the area outside the city walls, we'll have to be careful once we get out of the city,\" she said, patting Horus on the head \"You should be O.K now, your wing is mended, thank you for warning us, but we're fine now, we're on guard.\" <br>\r\nHorus made a sound somewhere between a bird cry and a moan. <br>\r\n\"Your right,\" said Mira, \"You would really do that for us?\" <br>\r\nHorus replied with three short, quiet bursts. \"Horus has agreed to be our lookout,\" said Mira, happily \"He'll circle in the skies during the day, and he'll even take a watch during the night to make sure we aren't followed.\" <br>\r\n\"Looks like we've made a new ally,\" you said, \"Very well, Horus, you may join our party on this quest.\" </span></div></div>",
+            "created":1382366880,
+            "id":1682325,
+            "title":"A injured hawk..."
+        },
+        "11222121221":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "In the morning",
+                "Disturbing dreams"
+            ],
+            "content":"<div class=\"\"><div> <span>You and Mira, now with Horus circling above, being your literal 'eye in the sky', had reached the edge of the city. The temple was situated on top of a hill a few miles west of here. So far, Horus' scouting had proved helpful, and his calls had warned Mira of any areas where wolves had gathered, meaning that they avoided the bulk of the wolves in the area. They did run into one or two, but without packs to back them up, they did not attack you. At night on the first day, Horus landed and Mira lit a fire. <br>\r\n\"I'm sorry about your uncle,\" said Mira \"He was a good man, my... my parents spoke about him a lot.\" <br>\r\n\"I'm sure he'll be fine,\" you replied \"He taught me a lot, even some unconventional smelting techniques, I've never had a chance to try them out though, I suppose I will one day.\" <br>\r\n\"What of your other family?\" asked Mira \"Tell me about them.\" <br>\r\n\"My father is a brilliant blacksmith,\" you replied \"He taught me most of what I know about blacksmithing, but because of tradition, the smithy there would be passed down to my oldest brother, so I went to work here, in my uncle's smithy, I've enjoyed myself so far, and I believe I've gotten better.\" <br>\r\n\"A happy family, then,\" said Mira, sadly \"More than I've got.\" <br>\r\n\"Mira, don't talk like that,\" you say \"Your my best friend, sure, we're not family, heck, we're not even the same species, but that doesn't mean we can't look out for each other like real family should, your like a sister to me, Mira, you are my family.\"<br>\r\nMira hugged you, so hard you could barely breath, and she wouldn't let go.<br>\r\n\"Mira...can't...breathe,\" you said, trying to make her aware.<br>\r\nShe quickly let go \"I'll never get the hang of that human show of affection, hugging,\" she said \"I always use too much strength.\" <br>\r\n\"You'll get it,\" you say \"You just need practice, anyway, time to turn in, good night Mira.\" <br>\r\n\"Good night, brother,\" she said. You smiled, as you settled into your sleeping area. </span></div></div>",
+            "created":1382367900,
+            "id":1682340,
+            "title":"Later that day"
+        },
+        "112221212211":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "You reach the temple",
+                "You run into a wolf pack"
+            ],
+            "content":"<div class=\"\"><div> <span>You woke to find Mira tending the fire. Horus had landed and seemed to be tucking into a meal that had been set out for him. <br>\r\n\"Your up,\" stated Mira \"Do you want some breakfast?\" <br>\r\nYou get up and take some of the food Mira gave you. Like all elves, Mira always carried food with her. Elf food consisted of small but filling bread and a nectar from a flower cultivated by magic. Even on this small diet, you would be set up for a full day hiking. The nectar and bread were delicious. <br>\r\n\"Thanks Mira,\" you said, as you tuck in \"How far are we from the temple?\" <br>\r\n\"Horus says we've only got a few miles to go,\" said Mira \"But he says we're being followed, a group wearing black armour and carrying curved blades.\" <br>\r\n\"Easterners?\" you asked \"Here, who do you think they are?\" <br>\r\n\"From what Horus told me, I'd say they're mercenaries sent after us,\" said Mira, \"They're tracking us, so I'll have to use magic to mask our trail from now on.\" <br>\r\n\"Why weren't you using that already?\" you asked <br>\r\n\"I wanted to be ready for combat,\" said Mira \"If I use the magic to mask both our trails, it'll take away magical energy I could use to cast spells in combat.\" <br>\r\n\"That seems like a bit of an oversight,\" you say \"If your going to use spells like that in the future, you'll have to learn to fight without relying on magic.\" <br>\r\n\"I never thought of that,\" said Mira, thoughtfully \"All right, I'll learn to fight.\" <br>\r\n\"I'll teach you next time we stop,\" you say \"We should probably stop lighting a fire as well, that'll help to mask our trail.\" <br>\r\n\"Let's go then,\" said Mira, throwing water over the fire. </span></div></div>",
+            "created":1382532420,
+            "id":1683206,
+            "title":"In the morning"
+        },
+        "11222122":{
+            "author_id":"summitgamer",
+            "author_name":"Summit",
+            "choices":[
+                "You safely make it to the church with no problems",
+                "Something happens on the way"
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cNo, sorry it is way to dangerous to have others with me right now, especially ones that can't fight. I will be back here tonight anyways so it isn't going to be a long trip at all.\u201d you said to her. What you didn't tell her is that you didn't want her to come because she is an elf. They might think it is a trick or something. Or worse they might hurt Mira.<br>\r\n<br>\r\nThere was a sad look of rejection on her face at this statement. feeling bad you walk over to her and say \u201cHow about this. You can stay here, watch the store but don't open the door for anyone and if anyone comes in that is not my uncle hide and don't come out. When I get back we can hang out and I will cook you some dinner as well.\u201d<br>\r\n<br>\r\nthe look rejection didn't leave her face. She looked at you as if she was looking for a way to tag along but than she just nodded saying  \u201ci will wait here for you to get back, don't keep me waiting Les.\u201d<br>\r\n<br>\r\nhesitantly you left her upstairs you grabbed the satchel and put it inside the other satchel that nolan gave you. Trying to be as discrete as possible you grab four daggers and put them in the satchel as well.<br>\r\n<br>\r\nJust before you left you saw Mira come down the stairs to see you off. You gave her as big of a smile as you could muster and left the shop heading in the direction of the church...</span></div></div>",
+            "created":1338094800,
+            "id":1346481,
+            "title":"decline her offer. it is to risky to bring an e..."
+        },
+        "112221221":{
+            "author_id":"summitgamer",
+            "author_name":"Summit",
+            "choices":[
+                "A group of pilgrims heading for the entrance.",
+                "Nothing, try just walking in and hope for the best."
+            ],
+            "content":"<div class=\"\"><div> <span>As you close the door behind you you take a deep breath and start walking in the direction of the church. Knowing there was only one church nolan could be talking about being the Chantry of the seven sage paths.<br>\r\n<br>\r\nIt was the biggest temple of warship amongst the humans in the entire nation. People would come from all corners of the nation in pilgrimage just to seek the knowledge behind the walls of the temple. And to you it was just on the far side of the city in the noble district, only people of wealth and power lived there; but because of the church people of all walks of life flocked to the area.<br>\r\n<br>\r\nTrying to act as normal as possible as you walk through the market district making your way towards the church saying hello to friends of your uncle along the way. <br>\r\n<br>\r\nYou had a-ways to go and knew that once out of the market district you would have to travel through the thieves den as it was infamously known to everyone in the city. This was the only way you could take as it was the most direct way to get to the church. All other ways around it would be almost an hour out of your way and that was an hour more you didn't want to be carrying this satchel.<br>\r\n<br>\r\nYou hurried as you entered the den trying to use only heavily populated areas tracing one of the daggers in the bag  ready to grab one out at a moments notice. The place smelled of rot and mold the streets were lined with garbage and wolves in sheep\u2019s clothing.<br>\r\n<br>\r\nThough you did notice a couple people that were interested in the bag most didn't think it had that much value, and went looking for more substantial targets.<br>\r\n<br>\r\n Finally you made it to the noble district and could see the gleaming towers of the churches mighty form spiraling up high into the sky like seven mighty beacons to help the lost find salvation each tower climbing higher then the last. It was still an awe inspiring sight even after all the times you have seen it before.<br>\r\n<br>\r\nThough you were never that religious growing up with your dad your uncle frequented this building often, bi-weekly if possible. He would often drag you there with him. The priest's and priestess's knew him very well and you were defiantly warming up to them with each visit.<br>\r\n<br>\r\nArriving mid afternoon you begin heading to the front door that you used so often with your uncle. Only to see a group of about four or five elven thugs chatting up a storm in-front of the place. Normally that wouldn't have bothered you but you know you can't trust any elven person until this package is delivered and you weren\u2019t willing to take any chances you quickly hide before you were seen by them.<br>\r\n<br>\r\nGlancing around the wall you were hiding behind you see non of them noticed you.<br>\r\n<br>\r\n\u201cgreat now what am I supposed to do?\u201d you say to yourself.<br>\r\n<br>\r\nKnowing this area from your frequent trips here you know there is only the front entrance, as the church was surrounded by a thick stone wall with the only entrance now being blocked by these elven thugs. <br>\r\n<br>\r\n\u201cThere has to be a way to get passed them un-noticed\u201d you think<br>\r\n<br>\r\nlooking around you see?</span></div></div>",
+            "created":1342637580,
+            "id":1381717,
+            "title":"You safely make it to the church with no problems"
+        },
+        "1123":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "\"Erm...I sat on it...\"",
+                "\"That's none of your buissness sonny!\""
+            ],
+            "content":"<div class=\"\"><div> <span>You recognize the man standing in the door underneath all the dust and grime that covers his face.  He was a local farmer named Romel and while normally a tough man, he looked to be quite distraught at the moment.  \"Hello Romel, do you need something?\"  The farmer looked some what flustered as he fiddled with the haft of a broken axe.  \"Er, well to tell you the truth...\"  he mumbles some what akwardly.  You lean closer to him, your broad frame leaning precariously on the old timbers.  \"Yes?\"  you ask, raising an eyebrow.  \"Is your uncle in?  This old axe broke and I need it for splitting wood this winter.\"  you shake your head, much to Romel's dismay.  \"Sorry, but he's out at the moment.  However, if the axe need repairing I can do it in a couple 'o minutes, if you have the time.  The man nodded empetheticaly.  \"Yes, yes!  Please do, I'll pay you the five coppers that your uncle normally charges.\"  You smile at the farmer who takes a seat near the forge.  \"Alright then...\" you say, looking at the broken handle.  You frown for a moment, puzzled.  The wood was realitively new, but the handle was splintered neatly in two, not something that would have come with a misplaced stroke.  \"If you don't mind me asking, how did this axe break exactly?\"  you ask as you loosen the heavy iron head from the shaft.  The farmer looks at you, flustered and says...</span></div></div>",
+            "created":1337058000,
+            "id":1338241,
+            "title":"A peasent with a broken axe"
+        },
+        "11231":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "Work the forge on your own to ease your uncle's load",
+                "Split wood for the fire"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Erm...please don't tell anyone about this...\"  Romel says, looking about with utmost caution.  \"I acidentally sat on it...\"  You raise an eyebrow quizicly as you look him up and down once more.  \"No offense Romel, but it would take alot of force to split an axe handle in this manner, and you are by no means a heavy man.\"  The farmer rubs the back of his head nervously.  \"Well, it was in a pile of straw and I didn't see it when I went to take a break and well...\"  Romel hung his head in shame.  You shake your head in an amused fashion.  \"It's alright Romel, thanks for being honest with me at the very least\"  You say as you ease the axe head onto a fresh haft and tighten it.  \"Here you go, good as new!\"  You say as you hand the dirty farmer back his splitting tool.  \"Thanks.\"  he says as he reaches for his belt, but you place a hand on his shoulder.  \"Don't worry about the coin, I needed something to do at the moment anyway.\"  you say.  The grimy man's eyes lit up.  \"Thank you for your kindness, but I must insist...\" he says, droping the five copper coins he had promised into a pewter mug that lay upon the unlit blast furnace.  He then turns around and hurries away and you are alone once again.<br>\r\n<br>\r\nAs the afternoon fades into evening you decide to...</span></div></div>",
+            "created":1337058000,
+            "id":1338268,
+            "title":"He sat on it"
+        },
+        "112311":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "Open it",
+                "Something's not right...."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to take up your hammer again and continue work on the massive order that your uncle had recieved last week.  It called for a hundred spears to be made within a month and your uncle was working around the clock to try and suceed in filling the order.  At least 18 spears had been completed without your assisstance and they were of fairly good quality.  However, with setbacks due a lack of iron only those had been completed within the week, which was the reason for your uncle's trek to the city.  Sighing you enter the storage room and seize a few of the remaining ingots before lighting the furnace.  After a half an hour the forge is ready for metal working.  You heat the iron until it is glowing cherry red then begin to hammer it into shape upon the anvil.  Slowly but surely, the leaf-shaped head began to take shape.  The repetitive rising and falling of your hammer and the rythmic clang of steel on iron always put you at ease.  Soon you were working several heads at a time as you settled into your comfort zone as the metal took shape.  With three broad heads completed you seize the tongs and drop the spearheads one at a time into the barrel of chilled water at your side.  The glowing metal emitted a loud hiss as it was suddenly cooled by the heat-quenching water.<br>\r\n<br>\r\nEvening soon faded into dusk as you dutifully worked without rest.  The sounds of your work however must have grasped someones attention because as you were just about to set the last batch of spearheads into the water, there was a loud knock on the door.  You set the tongs down and proceed to the door and reach for the tarnished brass knob...</span></div></div>",
+            "created":1337058000,
+            "id":1338367,
+            "title":"Work the forge"
+        },
+        "1123111":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "\"Join the Militia.\"",
+                "\"Keep the noise down, folks are tryin' to sleep!\""
+            ],
+            "content":"<div class=\"\"><div> <span>You open the door a fraction with it's rusty hinges creaking.  Before you stands a tall, broad shouldered man with a rough leather tunic and a short spear leaning on his shoulder.  It takes you a moment to recognize Dante, the Captain of the militia, who flashes a broad smile at you through the cracked door.  \"Marcus, it's been too long, may I come in?\" he asks.  You nodd and open the door the rest of the way and graciously allow him into the threshold.  He surveys the forge for a moment before taking a seat upon an un-opened barrel of water.  \"So, I hear that yer uncle is going to the city for a while.  That's a three day trip through bandit territiory.\"  he says with a frown.  You nodd apreciatively.  \"He said not to worry about him, a couple o' soldiers from the king's castle were passing by and decided to let him travel with them\".  Dante smiles at you warmly.  \"Well that's good news, anyway there's something that I came here to ask ye.\"  You lean forward and look him in the eye.  \"Yes?\" <br>\r\n<br>\r\n\"I came to ask ye to...\"</span></div></div>",
+            "created":1337058000,
+            "id":1338375,
+            "title":"Open the door"
+        },
+        "113":{
+            "author_id":"stephen.ret",
+            "author_name":"Stephen (ret)",
+            "choices":[
+                "a she!",
+                "a seven foot tall fur clad northern barbarian",
+                "a stout, axe weilding dwarf",
+                "a leather clad man carrying both a bow and a sword"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, which one of you pox-ridden sods think you're up for the challenge?\" the fat man at the front of the hall bellowed.<br>\r\n<br>\r\nTo a man, everyone in the hall raised their sword in reply.<br>\r\n<br>\r\nThe fat man grinned. \"We'll see. The Duke only needs five of you. We'll see which one of you passes the test. Until you're called, just get comfortable.\" With that, the fat man left the gathered swordmen alone in the hall.<br>\r\n<br>\r\nEighteen year old Dar found an empty spot along the wall to take a seat. He grabbed a hard biscuit from his pack and took a bite, following it by a swallow of water from his waterskin. Dar wasn't particularly hungry, but he was bored, and since he didn't want to get to know any of the other men gathered (since he might have to fight one or more of them), he ate his biscuit just for something to do.<br>\r\n<br>\r\nDar had run away from his family when he was twelve, and had spent most of thst time learning how to fight. Dar didn't have anything against his father. HIs father had gave him a good childhood. Dar just didn't want to spend his life buying and selling vegetables. Not when there was treasure and fame to be won.<br>\r\n<br>\r\nWhich is why Dar was sitting in the hall of the Duke of Black Rose. The Duke was famous for organizing expeditions for rare treasures or fantastic treasures. If you survived one of the Duke's expedition, you were guarantee a fortune and a name to matchl<br>\r\n<br>\r\nIf you survived one of his expeditions.<br>\r\n<br>\r\nThe Duke needed five swordsmen for this expedition. Twenty had shown up in response to the advertisement the Duke had sent around the kingdom. That meant there would be a lot of battles for the Duke to watch, so he could determine who were the best of those who had shown up.<br>\r\n<br>\r\nDar planned to be among the best.<br>\r\n<br>\r\nDar didn't have long to wait. The fat man returned within five minutes <br>\r\n<br>\r\n\"Dar Traderson!\"<br>\r\n<br>\r\nDar stood up and nodded his head.<br>\r\n<br>\r\n\"Follow me,\" the fat man said. \"You'll be fighting...\"<br>\r\n<br>\r\nThe fat man pulled out a scrap of paper and read off from it.<br>\r\n<br>\r\n\"Yarka Likund.\"<br>\r\n<br>\r\nIn the far corner of the hall, a warrior stood up. He was...</span></div></div>",
+            "created":1557367980,
+            "id":2657204,
+            "title":"Dar Traderson"
+        },
+        "115":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "A soldier",
+                "A knight",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
+            "created":1336971600,
+            "id":1337441,
+            "title":"More Male choices"
+        },
+        "1152":{
+            "choices":[
+                "A dragon!",
+                "A squeaky wagon that belonged to a traveling merchant ",
+                "A woman whose voice has been cursed "
+            ],
+            "content":"<div class=\"\"><div> <span>Your father was a knight of high standing. In fact he's the king of the kingdom with your mother ruling by his side. From an early age your father trained in the art of swordplay and also how to use a few other weapons. Being both a prince and knight had given you a strong sense of duty for your kingdom and those who live in it. You were currently doing some training exercises with your men.<br>\r\n<br>\r\n\"That's it men. You did well. We must be ever vigilant for the enemy can strike at anytime.\"<br>\r\n<br>\r\n\"Yes your majesty, sir!\" The soldiers yelled as they saluted.<br>\r\n<br>\r\nYou return their salute and dismiss them. You sit by the reflecting pool and take off your helmet. You relax and clear your thoughts until you hear a noise. You run to where the noise is and discover that the noise came  from...</span></div></div>",
+            "created":1439875860,
+            "id":2022239,
+            "title":"A knight"
+        },
+        "1153":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "A theif ",
+                "An Assassain",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
+            "created":1336971600,
+            "id":1337442,
+            "title":"Other"
+        },
+        "11533":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "A wizard",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices</span></div></span></div>",
+            "created":1337058000,
+            "id":1337997,
+            "title":"More Choices"
+        },
+        "115331":{
+            "author_id":"scilock",
+            "author_name":"Scifiwizard",
+            "choices":[
+                "A champion challenges Atlantis!",
+                "Attacking the first kingdom.",
+                "Your choice."
+            ],
+            "content":"<div class=\"\"><div> <span>Greetings...<br>\r\n<br>\r\nI am known as Xenon O'Colt. I am a seven foot man with white, yes white eyes. I have brown hair down to my shoulders in braids and a beard then reaches my waist. Normally wear robes so to allow free movement when I use my spells or gadgets. However, I have been known to wear full armor when out on a raid or a mission to conquer a land near our island kingdom. <br>\r\n<br>\r\n For decades, my family clan had been secretly studying the powers of witchcraft and, more darkly, the powers of science. As far as I am concerned, they are one and the same though many the uneducated see them as two separate powers. The universe is filled with powers most of the world does not understand; that is the advantage I carry over the world and those under my command.<br>\r\n<br>\r\nI looked over the endless books I had read in my sleep; a forbidden technique that very few understand as the spells and events the books teach I can instantly master upon waking the next morning. There was one unfortunate side effect to this instant mastering; I woke hungry for anything I can get my hands on whether it had been cooked or not. My guards fear waking me for my morning meal as many a screams had been heard with the one waking me never returning from my quarters.<br>\r\n<br>\r\nThose times had passed though and now I was a master of all witchcraft and science known in my part of the world and beyond. With such powers under my belt, I am considered invincible and it was not a struggle to prove it to anyone who found the courage to stand up to me. No one who stands against me lives to tell the tale. However, those who prove themselves loyal are richly rewarded with new weapons,  armor that eventually makes them able to conquer their own lands elsewhere. Those who leave my ranks, I know will try to take me down in the future... I relish those moments when I destroy them and take their armies as my own.<br>\r\n<br>\r\nIn my little but powerful kingdom of Atlantis, my army, navy, and air force are preparing to conquer the world one kingdom at a time! Who dares stand against us?!<br>\r\n</span></div></div>",
+            "created":1461714900,
+            "id":2139708,
+            "title":"A wizard"
+        },
+        "115332":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "A woodsman",
+                "A servant"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>last choices</span></div></span></div>",
+            "created":1337058000,
+            "id":1338000,
+            "title":"other"
+        },
+        "1153321":{
+            "author_id":"lancer-469",
+            "author_name":"LANCER-469",
+            "choices":[
+                "Massive longbow",
+                "Trusty crossbow"
+            ],
+            "content":"<div class=\"\"><div> <span>Your father was a man of the woods.  He lived off the land and obeyed no laws set forth by any athority other than himself.  You learned to hunt from an early age and became an expert marksman.  However, being an outlaw you and your father were always on the move and you never stayed in one place for very long.  At often times soldiers from the surrounding area would atempt to apreheand your father, but they never succeeded.  After several years your experience grew and you were able to hide for long periods without moving and stalk prey for days on end.  However, after a time your father's isolationist policy against the rest of the world caused you to thirst for something more.  One cool spring morning you set out on your own without a word, leaving your father a hand written note explaining your actions.  Leaving the camp, you take with you nothing more than your clothes, rations and your...</span></div></div>",
+            "created":1337058000,
+            "id":1338008,
+            "title":"A woodsman"
+        },
+        "12":{
+            "choices":[
+                "Priestesss",
+                "Seamstress",
+                "Midwife",
+                "Duchess",
+                "Warrior"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What was your mother's profession?</span></div></span></div>",
+            "created":1342298460,
+            "id":1378509,
+            "title":"Female Parentage"
+        },
+        "123":{
+            "author_id":"aznchika",
+            "author_name":"DanniT",
+            "choices":[
+                "Sophia, a female messenger.",
+                "Azinon, the eldest and wisest wizard in the village.",
+                "A knight you've never met before."
+            ],
+            "content":"<div class=\"\"><div> <span>Your mother was a midwife that worked at one of the few hospitals in the village. She was a hard-working woman, but a kind and caring one at that. You've learned a lot from her and because of that, you know some information regarding the medical field such as certain procedures, diseases, sicknesses, and medicines. But despite the fact how your mother wants you to live a safe life inside the village, you couldn't help your adventurous side -- there was just so much to do outside. But nevertheless, you oblique to your mother's wishes and stay within the walls. Still, you go to the library whenever you have free time -- that is, when you're not studying or working at the local greenhouse pharmacy. <br>\r\n<br>\r\nOne day while you were working, a stranger entered the pharmacy.<br>\r\n<br>\r\n\"Hi, I'm looking for someone that works here,\" the mysterious person said.<br>\r\n<br>\r\nYou don't look up because you're currently filling out an order form. \"Yes?\" you replied. \"Who are you looking for?\"<br>\r\n<br>\r\nAnd to your surprise, the stranger says your name. You look up to find . . .</span></div></div>",
+            "created":1342715220,
+            "id":1382517,
+            "title":"Midwife"
+        },
+        "1232":{
+            "author_id":"aznchika",
+            "author_name":"DanniT",
+            "choices":[
+                "A large portrait of a princess.",
+                "A life-size model of a dragon.",
+                "A picture of the legendary Garden of Eden."
+            ],
+            "content":"<div class=\"\"><div> <span>Your eyes immediately widen. \"Sir Azinon!\" you exclaim. \"Why would you need me?\"<br>\r\n<br>\r\nAzinon smils wisely upon you. \"I have a little . . . quest for you. Will it be fine for you to call it a day and follow me?\"<br>\r\n<br>\r\n\"I'll go speak to my boss,\" you reply. <br>\r\n<br>\r\nLuckily, the owner of the pharmacy allows you to take the rest of the day off. After all, it's not everyday the Great Azinon requests for you. Once you both exit the pharmacy, the old wizard took out his wand and gave it a wave, and the next thing you know, you're surrounded by trees. A large, wooden shack stands out in the green. You remember reading that Azinon's house was in the far northern part of the Forest. <br>\r\n<br>\r\nAzinon leads you into the house and you find out that he had bewitched the shack, making its outside appearance look a lot smaller than it really was. <br>\r\n<br>\r\nInside was like a laboratory. Beakers fill with different color substances were everywhere. Vials of green liquid were set on a rack located on the shelves, and a map of the village was plastered onto the wall. <br>\r\n<br>\r\nHowever, despite the fascinating tubes and beakers, something else caught your eye the most. That thing was . . .</span></div></div>",
+            "created":1342724100,
+            "id":1382673,
+            "title":"Azinon, the wise, old wizard of the village."
+        },
+        "12322":{
+            "author_id":"aznchika",
+            "author_name":"DanniT",
+            "choices":[
+                "Determined.",
+                "Anxious."
+            ],
+            "content":"<div class=\"\"><div> <span>You gape at the sight of a gigantic model of a dark blue dragon. Everything looks real -- the talons, the eyes, the tail. The only thing that told you it wasn't was the fact that it stood perfectly still. <br>\r\n<br>\r\nAzinon chuckles from beside you. \"Fascinating creature, is it not?\" he speaks.<br>\r\n<br>\r\nYou nod. \"What is it?\"<br>\r\n<br>\r\n\"The dragon that guards the Helios' Mountain.\"<br>\r\n<br>\r\nThe dragon of Helios' Mountain? You've heard about this before. It was said that every 300 years, the dragon would lay one single egg and wait until it hatches before passing away. <br>\r\n<br>\r\nYou nod showing that you hear him. He continues on.<br>\r\n<br>\r\n\"Lately, the dragon has been destroying and raiding nearby villages, leading officials to believe someone may have took the dragon's only egg.\" Azinon then inhaled deeply. \"I believe you may be the one that is able to recover the egg and tame the dragon.\"<br>\r\n<br>\r\n\"Me?\" you ask. \"Why me?\"<br>\r\n<br>\r\n\"Your great grandfather to the sixth power did the same thing three hundred years ago. It is now your turn. You must hurry -- there are only fourteen days before the egg hatches, and if it does without its mother . . .\"<br>\r\n<br>\r\nThe wizard trails off, leaving you to wonder the possibilities. You reconsider everything before making up your mind. You'll go. You feel . . .</span></div></div>",
+            "created":1357222740,
+            "id":1500921,
+            "title":"A life-size model of a dragon."
+        },
+        "123221":{
+            "author_id":"aznchika",
+            "author_name":"DanniT",
+            "choices":[
+                "Yes, I would like a companion",
+                "No, I would prefer to go alone"
+            ],
+            "content":"<div class=\"\"><div> <span><br>\r\nIf the great wizard Azinon seeks for your help, there must be a certain reason behind it. Determination and excitement is evident on your face and this does not go unnoticed.<br>\r\n<br>\r\n\"I accept,\" you declare.<br>\r\n<br>\r\nSir Azinon smiles lightly and strokes his beard before nodding slowly. \"Good, good. That is what I want to hear.\" He then wanders over to a mahogany desk at the corner of the room and picks up a velvety sack before handing it to you. \"Here,\" he says as you take it. \"For your journey.\"<br>\r\n<br>\r\nYou open the sack to find 4 items: a medium-sized tin container, a water canister, a soup canister, and another small brown sack. <br>\r\n<br>\r\n\"The tin container holds some herbs that will speed your recovery process after being injured. Be cautious with the small brown sack, however; only open it when you are in trouble or being pursued. It will release a powerful wind spell that will injure your enemies, but it can only be used once.\" Sir Azinon's face then brightens as if he just realized something. \"Oh yes, I forgot to ask: would you like to have a companion?\"</span></div></div>",
+            "created":1372361820,
+            "id":1618738,
+            "title":"Determined"
+        },
+        "1233":{
+            "author_id":"aznchika",
+            "author_name":"DanniT",
+            "choices":[
+                "Excited.",
+                "Worried."
+            ],
+            "content":"<div class=\"\"><div> <span>You look up to see a tall, good-looking man about a few years older than you wearing armor and clothing that belong to those of a knight. <br>\r\n<br>\r\n\"Yes, that would be me,\" you reply, feeling slightly self-conscious.<br>\r\n<br>\r\n\"The king requests your presence.\"<br>\r\n<br>\r\nYour ears perk up. The king asked for you? That was strange. Were you in trouble?<br>\r\n<br>\r\nYou nod in understanding and head to the back of the pharmacy to inform your boss. 20 minutes later, with the aide of a horse and the knight -- whose name you still did not know --, you find yourself walking down the huge halls of the king's castle. You feel . . .</span></div></div>",
+            "created":1357223880,
+            "id":1500933,
+            "title":"A knight you've never met before."
+        }
+    },
+    "info":{
+        "author_id":"lancer-469",
+        "author_name":"LANCER-469",
+        "brief_description":"A unique take on traditional sword and sorcery ideals, a world of possiblities awaits you!",
+        "created":1337048760,
+        "description":"<td align=\"left\" class=\"norm\">You are a young adventurer who has set out for the first time to seek your fortune.  Fight monsters, loot treasure and discover secrets long since forgotten by the gods themselves.<br>\r\n<br>\r\nTake command of armies and unite the realm under your rule, or use more subtle means to obtain power.<br>\r\n<br>\r\nYour path lies before you, and destiny calls.  Will you sieze the reigns and take control of your fate, or will you fall to the tide of comming evil?<br>\r\n<br>\r\nThe Choice is yours, all you need to do is make it.</td>",
+        "id":1867702,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1557367980,
+        "modified":1557367980,
+        "pretty_title":"The Mark of Heroes"
+    }
+}

@@ -1,0 +1,355 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Call a friend",
+                "Stop by home first",
+                "Go to that new place you heard of",
+                "Just wander aimlessly",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>It's Friday night. You're ready for some fun. You're eighteen and broke but you do have a car and some friends you could call. And you can sleep in tomorrow so there's no problem with staying up late. But you don't want to just get drunk. You want to do something daring.</span></div></div>",
+            "created":1470718800,
+            "id":2193780,
+            "title":"Looking for something daring"
+        },
+        "11":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "You are a male calling a male friend",
+                "You are a female calling a male friend",
+                "You are a male calling a female friend",
+                "You are a female calling a female friend",
+                "You call someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to call a friend.</span></div></span></div>",
+            "created":1470718800,
+            "id":2193782,
+            "title":"Call a friend"
+        },
+        "12":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Your roommate is there",
+                "A friend is already there waiting for you",
+                "Your family decided to drop by",
+                "That special someone is waiting for you",
+                "No one is there. Hop in the shower."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You need a shower. You can't go anywhere until you've washed away all that stress from today. You get home and _____.</span></div></span></div>",
+            "created":1470718800,
+            "id":2193785,
+            "title":"Stop by home first"
+        },
+        "121":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "You and your roommate are male",
+                "You and your roommate are female",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your roommate sits at the table.</span></div></span></div>",
+            "created":1470718800,
+            "id":2193799,
+            "title":"Your roommate is there"
+        },
+        "122":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "You are male",
+                "You are female",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your friend has been sitting in front of your door and as soon as he or she sees you pull up, he or she stand up and walks toward you.</span></div></span></div>",
+            "created":1470718800,
+            "id":2193803,
+            "title":"A friend is already there waiting for you"
+        },
+        "1221":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "This friend is male",
+                "This friend is female",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You step out of your car.</span></div></span></div>",
+            "created":1470718800,
+            "id":2193806,
+            "title":"You are male"
+        },
+        "1222":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "This friend is male",
+                "This friend is female",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You step out of your car.</span></div></span></div>",
+            "created":1470718800,
+            "id":2193810,
+            "title":"You are female"
+        },
+        "123":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "You are male",
+                "You are female",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are surprised to see your family.</span></div></span></div>",
+            "created":1470718800,
+            "id":2193811,
+            "title":"Your family decided to drop by"
+        },
+        "124":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "That special someone is male",
+                "That special someone is female",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You see the car but that special someone has a key and waits inside.</span></div></span></div>",
+            "created":1470718800,
+            "id":2193812,
+            "title":"That special someone is waiting for you"
+        },
+        "1241":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "You are male",
+                "You are female",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You fantasize about what he's wearing and if he's brought something.</span></div></span></div>",
+            "created":1470805200,
+            "id":2193813,
+            "title":"That special someone is male"
+        },
+        "1242":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "You are male",
+                "You are female",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You fantasize about what she is not wearing and what she might be in the mood for.</span></div></span></div>",
+            "created":1470805200,
+            "id":2193814,
+            "title":"That special someone is female"
+        },
+        "125":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "You are male",
+                "You are female",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You walk in the door and kick off your shoes.</span></div></span></div>",
+            "created":1470805200,
+            "id":2193817,
+            "title":"No one is there. Hop in the shower."
+        },
+        "13":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "You are male",
+                "You are male",
+                "You are female",
+                "You are female",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You just heard about a new, fun place to go. You know almost nothing about it but you figure you might at least check it out.</span></div></span></div>",
+            "created":1470718800,
+            "id":2193789,
+            "title":"Go to that new place you heard of"
+        },
+        "131":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "It is a casino",
+                "It is a place that has weird sports such as jumbo boxing gloves",
+                "It's something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The place is called Cobalt Agony. The decor is pure white with large slabs of cobalt blue.</span></div></span></div>",
+            "created":1470805200,
+            "id":2194180,
+            "title":"You are male"
+        },
+        "1311":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Go back to the table",
+                "Take advantage of the opportunity here",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk in and find a table with an opening. You pay $100.00 for chips. A waitress asks if you'd like a drink. The waitress cards you so no alcohol but you're allowed to gamble. You order a Sprite.<br>\r\n<br>\r\nThe dealer deals cards. You nearly spit your sprite when you see your cards. There are naked people on some cards and they look like they are moving.<br>\r\n<br>\r\nAn elderly gentleman next to you leans over and says, \"First time.\" Your only answer is the blush that comes over you as you realize you blew your poker face. You lose the first hand.<br>\r\n<br>\r\nYou think this must be some advanced technology putting videos on playing cards. However, the people on the cards are not acting sexy. Some act humiliated and some act bored. You figure out that the higher the card, the more likely it is to have a naked person on it. The queens are all female. The kings and jacks are all male. Otherwise, high hearts and diamonds have females while high spades and clubs have males.<br>\r\n<br>\r\nSomeone bumps you and you spill Sprite on the ace of spades you just laid down. You grab a napkin to wipe the card off and notice that wiping the card pushes the little man around too. He bumps his head on the edge of the card.<br>\r\n<br>\r\nA fat woman sitting next to you says, \"Careful. You wouldn't want anyone to treat you that way.\"<br>\r\n<br>\r\nYou say, \"It's just a card.\"<br>\r\n<br>\r\nThe dealer takes the ace of spades from you and says, \"Thanks for trying but it's too late. The card is marked. It has to be replaced.\"<br>\r\n<br>\r\nTwo security guards come and take the ace of spades. The fat woman says, \"Go and watch. You need an education.\" You leave the table to follow the guards to a back room. The guards let you in.<br>\r\n<br>\r\nIn the room, a glowing blue orb puts out energy. People operate computers nearby. The guards put the card on the blue orb. The naked man pops out of the card fully restored to normal size. The guards grab the man.<br>\r\n<br>\r\nThe man yells, \"No, I don't want to be a card.\"<br>\r\n<br>\r\nAfter securing the man to the blue orb, one of the guards rips the old card to shreds and throws it away. He says, \"You still have to be a card until two in the morning when we close.\"<br>\r\n<br>\r\nThe other guard pulls out a new ace of spades which seems to suck the naked man into it. He hands you the new ace of spades and says, \"You can take that back to the table.\"<br>\r\n<br>\r\nYou look at the ace of spades. He's screaming but not making any sound.</span></div></div>",
+            "created":1470805200,
+            "id":2194212,
+            "title":"It is a casino"
+        },
+        "13111":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "You are dealt four queens",
+                "You are dealt a royal flush in spades (hello again to ace)",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>As you walk back to the table, you touch the ace of spades. It feels like a card. The man on the card tries to move away from you but he can't escape the card.<br>\r\n<br>\r\nYou lay the ace of spades on the table. He tries to cover himself. You easily push his hands away. He tries to turn around but you role him over to face you.<br>\r\n<br>\r\nThe fat woman says, \"Go easy on him. He just got married and came here for his honeymoon.\"<br>\r\n<br>\r\nYou ask, \"How do you know that?\"<br>\r\n<br>\r\nThe fat woman says, \"I'm his mother. I came to pay his debt and set him free.\"<br>\r\n<br>\r\nJust as she says this, you happen to be pushing the ace's cock around. You freeze in embarrassment.<br>\r\n<br>\r\nThe fat woman says, \"It's okay. Go ahead and play with him. It's the only action he'll see tonight. Just be gentle.\"<br>\r\n<br>\r\nThe ace of spades gives his mom a dirty look but he is picked up and shuffled back into the deck.</span></div></div>",
+            "created":1470805200,
+            "id":2194221,
+            "title":"Go back to the table"
+        },
+        "131111":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Keep playing because of hope",
+                "Keep playing because of fear",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>It's a pretty good hand so you bet high. Everyone folds except the fat woman. She has a poor poker face. She has seemed excited before when all she had was a full house. This hand, she even slipped and revealed her two of clubs. She has nothing. You go all in.<br>\r\n<br>\r\nShe raises. You ask, \"Do I have to fold?\"<br>\r\n<br>\r\nThe dealer says, \"Not here. We can deal in I.O.U.s within reason.\"<br>\r\n<br>\r\nYou really hadn't intended to gamble more than $100.00 but it's only another twenty. You ask, \"May we set a betting limit so I have a chance here?\"<br>\r\n<br>\r\nThe dealer says, \"That's not policy.\" But the fat woman says, \"I'm okay with a debt limit. I won't raise any higher.\"<br>\r\n<br>\r\nYou stay in. The fat woman lays down the two of clubs followed by the three, four, five, and six.<br>\r\n<br>\r\nThe two guards come up behind you.</span></div></div>",
+            "created":1470805200,
+            "id":2194228,
+            "title":"You are dealt four queens"
+        },
+        "1311112":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Call Beth",
+                "Call Toby",
+                "Call someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>You say, \"I think I'm done gambling. I'll just pay the twenty and leave.\"<br>\r\n<br>\r\nYou back away from the table but the guards block your way. The dealer says, \"I.O.U.s are only available at the table while you play. You leave the table, you have to cash in the I.O.U.\"<br>\r\n<br>\r\nYou reach in your wallet and pull out a five and some change. You ask, \"Can you take a credit card?\"<br>\r\n<br>\r\nThe dealer says, \"Cash only.\"<br>\r\n<br>\r\nYou look at the guards and smile. You say, \"Or?\"<br>\r\n<br>\r\nThe dealer says, \"You become a card at fifteen dollars an hour until the debt is paid off.\"<br>\r\n<br>\r\nYou figured that. You ask, \"Can I call someone to bring me some money?\"<br>\r\n<br>\r\nThe dealer says, \"We give cards one free phone call but then you are a card while you wait.\"<br>\r\n<br>\r\nYou ask, \"If I call the cops?\"<br>\r\n<br>\r\nThe dealer says, \"There's no law against turning people into cards.\"<br>\r\n<br>\r\nYou say, \"It's kidnapping.\"<br>\r\n<br>\r\nThe dealer says, \"Holding cards against their will is not kidnapping. You said it yourself. It's just a card.\"<br>\r\n<br>\r\nYou ask, \"How can you get away with this?\"<br>\r\n<br>\r\nThe dealer says, \"Magic.\"<br>\r\n<br>\r\nYou decide to play a little longer. You don't want to even spend one hour as a card but you keep losing. When you are ninety dollars in debt, you stop. One hour as a card is inevitable now but a friend can bring some cash and you can pay it back. You just have to pick the friend you trust most.</span></div></div>",
+            "created":1470805200,
+            "id":2194239,
+            "title":"Keep playing because of fear"
+        },
+        "13111122":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Double or nothing",
+                "Toby loses",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Toby is busy practicing with his band but he agrees to bring you some cash.<br>\r\n<br>\r\nThe guards take you to the blue orb. They order you to strip. You resist. They grab you and strip you. They lay you face down on the blue orb and secure you to it. You feel electrical pulses all over your body. A guard holds up a card. You get a brief glimpse of the two of clubs before you are suck into it. It feels like a water ride.<br>\r\n<br>\r\nYou wind up back at the table you had been playing at. The fat woman ignores you. The one who pays you the most attention is the elderly man.<br>\r\n<br>\r\nToby arrives. He sits down at your table. He sees you. He says, \"I have time for a hand or two.\"</span></div></div>",
+            "created":1470805200,
+            "id":2194248,
+            "title":"Call Toby"
+        },
+        "131111221":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Toby picks the queen of hearts",
+                "Toby picks the ace of clubs",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You can't believe your friend Toby would leave you in a card like this. You get shuffled into the deck. It doesn't hurt. It feels like being hit by a foam mat, no injury but not fun either.<br>\r\n<br>\r\nThen again, Toby wins. He plays stupid but he keeps winning. He folds when he sees too many men in his hand and bets high when his hand is full of women but he keeps winning anyway.<br>\r\n<br>\r\nNext time he has you in his hand, he says, \"I normally don't play this well. You must be my good luck charm. I should have you in the deck every time I play.\"<br>\r\n<br>\r\nThen Toby gets into a major bid war against the elderly man. Without betting limits, the bets get up into the hundreds quickly. The elderly man runs out of chips. He says, \"I'd like to put an I.O.U. on each of my cards.\"<br>\r\n<br>\r\nThe dealer says, \"Deal.  Standard rate is one additional day as a card for each card in your hand if they lose. If you win, the winnings go first toward paying off each cards additional day and you keep the rest.\"<br>\r\n<br>\r\nYou cry, \"I didn't know we could do that. That's unfair.\" But no one can hear you. If the elderly man loses, he's at zero with no debt but you get an extra day as a card.<br>\r\n<br>\r\nThe elderly man loses. He had four aces. Both you and the ace of spades get an extra day.<br>\r\n<br>\r\nToby decides he needs to learn more about this game before he plays any further. He cashes out walking away with a few thousand more than he came in with.<br>\r\n<br>\r\nThe dealer says, \"As a token of our appreciation and hope that you will come back, you may pick a card to take with you. When the card's time runs out, you can trade it for another.\"</span></div></div>",
+            "created":1470805200,
+            "id":2194271,
+            "title":"Double or nothing"
+        },
+        "1311112212":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Poker of course",
+                "Ace of clubs is the rook card",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Toby takes you home. You scream but he doesn't hear you.<br>\r\n<br>\r\nThat night, you fall asleep. It is comfortable. Your prison walls, floor and ceiling are cushioned. You can lay down. You can see out through one wall. That see through wall that let's you see out and others see in acts like a leash. You can only move so far before you feel a tug deep inside you pulling you back into the card.<br>\r\n<br>\r\nThe next day, Toby invites some buddies over for a game of cards. Most of these guys are your buddies too. You hear them talk.<br>\r\n<br>\r\nKyle asks, \"Alright, Toby. Show us that John turned himself into a card.\"<br>\r\n<br>\r\nToby says, \"It's true, see.\" He turns you to face your buddies. You cover yourself.<br>\r\n<br>\r\nYou scream, \"I didn't turn myself into a card. Help me.\" No one hears you and you don't know sign language.<br>\r\n<br>\r\nKyle asks, \"Why would he turn himself into a card?\"<br>\r\n<br>\r\nToby says, \"I don't know but he's my good luck charm. I bought a deck from the Cobalt Agony so we could grant him his wish. I'll just shuffle him into the deck. Now what do you guys want to play?\"</span></div></div>",
+            "created":1471064400,
+            "id":2195571,
+            "title":"Toby picks the ace of clubs"
+        },
+        "131112":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "What happened to the aces wife?",
+                "You buy the ace of spades",
+                "You're curious to know what it's like to be a card",
+                "You're still winning and the amount of money you have to bet with keeps growing"
+            ],
+            "content":"<div class=\"\"><div> <span>This is one of the best hands so you bet high. You decide to ask about the honeymooner.<br>\r\n<br>\r\nThe fat woman says, \"Yea, he was always an idiot getting himself in trouble. He's actually safer now staying a card than being free.\"<br>\r\n<br>\r\nYou ask, \"Is that why you haven't freed him already?\"<br>\r\n<br>\r\nShe says, \"That and his debt is very high. He owes a million dollars which means at least seven years as a card.\"<br>\r\n<br>\r\n\"How long has he been a card?\"<br>\r\n<br>\r\n\"Just a week.\"<br>\r\n<br>\r\nYou look at the ace of spades and wonder what it would be like. Has he eaten? He doesn't look like he's been a card for a week. He's freshly groomed like he just came from the barber ready to get married. You wonder about this and you muss his hair. You watch fascinated as his hair slowly un-musses itself. He isn't doing anything but within seconds, he's back to looking like a man ready to get married (except for his lack of clothes). This is kinda fun just pushing the little man around the card. You spread out his arms and legs and hold them there and you realize that for the next seven years, he's going to be pushed around like a little toy.<br>\r\n<br>\r\nYou, meanwhile, are on a winning streak. You hadn't planned on betting more than a thousand but your winnings are rising to the ten thousands.</span></div></div>",
+            "created":1564290000,
+            "id":2693859,
+            "title":"You are dealt a royal flush in spades (hello ag..."
+        },
+        "1311122":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Teach him sign language so he can talk",
+                "He's just a card. Treat him like any other card.",
+                "Play creatively",
+                "Learn more about him"
+            ],
+            "content":"<div class=\"\"><div> <span>You ask, \"How can the casino get away with this?\"<br>\r\n<br>\r\nThe fat woman says, \"Well magic but a little more specifically, we have to cooperate with the casino or the consequences could be dire. Maggie tried calling the FBI but the casino erased the memories of the FBI and turned Maggie into a vending machine. Besides, as long as we play by the rules, this place can be a lot of fun. I've been here two days now trying to win enough money to lower my sons debt. I've only won fifteen thousand so far, just enough to knock a month off my son's time as a card. I am thinking though of spending that money differently.\"<br>\r\n<br>\r\n\"What about your son?\"<br>\r\n<br>\r\n\"What about him? He's a card. You seem like a nice enough young man. I'll tell you what I'm going to do. I'll buy him and give him to you.\"<br>\r\n<br>\r\nBefore you can even protest, she has made the deal. She hands you her son and a piece of paper, \"This has my contact information. Stop gambling and let's leave this place. I'd appreciate if you would bring my son to family get togethers such as Christmas. We live in Miami and I'll even pay your travel expenses.\"<br>\r\n<br>\r\n*****<br>\r\n<br>\r\nLater that evening, you sit in your bedroom staring at the ace of spades that you propped up on the night stand. The ace stares back at you. You never did learn what his name was so you might want to call Matilda, his mom, to find out. But you own the ace of spades. What are you going to do with him?</span></div></div>",
+            "created":1564290000,
+            "id":2693888,
+            "title":"You buy the ace of spades"
+        },
+        "14":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "You are male",
+                "You are male",
+                "You are female",
+                "You are female",
+                "More options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There's no particular place you want to go so you head for Fun Time Avenue, the nickname for an area of the city that is full of night clubs, pool halls and other entertainments. You park your car in a parking garage and walk around a bit.</span></div></span></div>",
+            "created":1470718800,
+            "id":2193796,
+            "title":"Just wander aimlessly"
+        },
+        "15":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "You are male",
+                "You are male",
+                "You are female",
+                "You are female",
+                "You are something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>At least tell us your gender.</span></div></span></div>",
+            "created":1470718800,
+            "id":2193797,
+            "title":"Something else"
+        }
+    },
+    "info":{
+        "author_id":"bejjinks",
+        "author_name":"bejjinks",
+        "brief_description":"Games that change people",
+        "created":1470787740,
+        "description":"<td align=\"left\" class=\"norm\">You find yourself involved in a game in which the players transform.<br>\r\n<br>\r\nThere are other interactives like this but this one has fewer rules.<br>\r\n<br>\r\nRULES:<br>\r\nNo deaths.<br>\r\n<br>\r\nNothing permanent (transformed players should always have a double-or-nothing option). Always allow options for writers to try taking the story in a creative direction.<br>\r\n<br>\r\nBe creative (don't just use the same old transformations that have been done to death).<br>\r\n<br>\r\nSex is allowed (gay or straight) but avoid squick. (I may tolerate a little but will delete anything too squicky.)<br>\r\n<br>\r\nBe creative! Yes I am repeating myself. Don't write fifty chapters that are all repeats of the same thing. I reserve the right to delete any chapters that are boring, repetitious, confusing, or otherwise not fun.<br>\r\n<br>\r\nHave fun!</td>",
+        "id":2092936,
+        "image_url":"https://www.Writing.Com/main/images/action/display_cover/id/101129.jpg",
+        "last_full_update":1564363560,
+        "modified":1564363560,
+        "pretty_title":"TF Games"
+    }
+}

@@ -1,0 +1,536 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First, what is your gender?</span></div></span></div>",
+            "created":1516078800,
+            "id":2441490,
+            "title":"Chapter One"
+        },
+        "11":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Cave in the Mountain",
+                "Cave in the Forest",
+                "Raid village"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a male dragon.<br>\r\nYou have just left your mothers cave, and you are looking for a place to stay. You have found two places: a cave in a mountain, far from everything, or a cave in the forest, near the village.<br>\r\nOr you could just move in later and go raid the village for now.</span></div></div>",
+            "created":1516078800,
+            "id":2441492,
+            "title":"Male"
+        },
+        "111":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Fight him",
+                "Leave him",
+                "Befriend him"
+            ],
+            "content":"<div class=\"\"><div> <span>As you near the cave, another dragon leaps out.<br>\r\nThe cave is already occupied.<br>\r\nYou are young and strong, he is old and slow.<br>\r\n<br>\r\nYou can either fight him with a high chance of winning, leave an old, sick dragon to fend for himself, or try to make friends with him and look after him.</span></div></div>",
+            "created":1516078800,
+            "id":2441498,
+            "title":"Cave in the Mountain"
+        },
+        "1111":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Run",
+                "Help him",
+                "Kill him"
+            ],
+            "content":"<div class=\"\"><div> <span>You jump forward, slashing at his chest. He dodges, but you still scratch him as he is moving with a limp. <br>\r\nYou still have time to say it was a mistake. You can either: Run so that he doesn't hate you for your pity, see if he wants an assistant, or harden your heart and kill him.</span></div></div>",
+            "created":1516078800,
+            "id":2441510,
+            "title":"Fight him"
+        },
+        "11111":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Attack",
+                "Ignore",
+                "Seek information"
+            ],
+            "content":"<div class=\"\"><div> <span>You are faster than him, so you escape easily. You have, though, made an enemy for the rest of his life.<br>\r\nWhich may not be very long, if the scratch on his chest gets infected.<br>\r\nYou see a boy riding his horse along the rocky path. <br>\r\nYou can either: Attack him, ignore him and hunt something else, or see if he has any useful information.</span></div></div>",
+            "created":1516078800,
+            "id":2441589,
+            "title":"Run"
+        },
+        "11112":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Wait",
+                "Leave"
+            ],
+            "content":"<div class=\"\"><div> <span>You lower your wings to show you are sorry - he stops trying to attack you.<br>\r\nYou are no longer fighting, but he does not want to share his cave or his gold.<br>\r\nHe could have taught you a lot, but you lost your chance.<br>\r\nYou can either: Wait until night, then try to steal his gold, or leave him be.</span></div></div>",
+            "created":1516078800,
+            "id":2441594,
+            "title":"Help him"
+        },
+        "11113":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Check for treasure",
+                "Live there (and check for treasure)",
+                "Leave"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You kill him quickly and cleanly.<br>\r\nYou can either: Check his cave for treasure, take his cave as your home AND check for treasure, or leave.</span></div></span></div>",
+            "created":1516078800,
+            "id":2441610,
+            "title":"Kill him"
+        },
+        "1112":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Raid village",
+                "Cave in the Forest"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You turn and walk away, and he, happy he has chased you off, limps back to his cave. <br>\r\nWhere do you go now? <br>\r\n</span></div></span></div>",
+            "created":1516078800,
+            "id":2441512,
+            "title":"Leave him"
+        },
+        "11121":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You head to the village, but the old dragon has attacked them in the past and they are ready. <br>\r\nYou learn the hard way that with enough, crossbows can be fatal even for a dragon.</span></div></span></div>",
+            "created":1516078800,
+            "id":2441613,
+            "title":"Raid village"
+        },
+        "11122":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Dig Left",
+                "Dig Right"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As soon as you enter the cave, the roof falls in. You struggle and try to dig your way out. You are not sure which way is up. You can dig to the left or the right - one means certain death, the other might to... who knows...</span></div></span></div>",
+            "created":1516078800,
+            "id":2441617,
+            "title":"Cave in the Forest"
+        },
+        "1113":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Follow",
+                "Leave"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You keep your wings low to show you are friendly. He limps toward you, and shows that  he would like a friend. He goes into the cave.<br>\r\nYou can either: Follow him, or leave.<br>\r\n</span></div></span></div>",
+            "created":1516078800,
+            "id":2441555,
+            "title":"Befriend him"
+        },
+        "11131":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Explore",
+                "Hunt"
+            ],
+            "content":"<div class=\"\"><div> <span>You follow him. He shows you to a fork in the path, and you realize that there are actually two different networks sharing the same entrance. Perfect.<br>\r\nHe goes down the left path, and you follow him into a room stacked with gleaming armor, talismans and coins.<br>\r\nHe lifts a golden necklace with an emerald in the center and drapes it around your neck.<br>\r\nYour first treasure.<br>\r\nHe then curls up and goes to sleep.<br>\r\nYou can either: Explore your quarters, or go hunting.</span></div></div>",
+            "created":1516078800,
+            "id":2441618,
+            "title":"Follow"
+        },
+        "11132":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Attack",
+                "Carry on"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you fly away, you come across a group of soldiers heading toward the old dragons cave.<br>\r\nYou can either: Attack them (you <i>think</i> you can beat them), or carry on going.</span></div></span></div>",
+            "created":1516122600,
+            "id":2441622,
+            "title":"Leave"
+        },
+        "112":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Hope",
+                "Move",
+                "Raid"
+            ],
+            "content":"<div class=\"\"><div> <span>You tramp through the undergrowth toward the mouth of the cave. It is muddy and sticky.<br>\r\nYou step into the cave and realize that it is flooded with water!<br>\r\nYou can either: Hope that the water will drain away when it get's warmer, move to the cave in the mountain, or raid the village.</span></div></div>",
+            "created":1516078800,
+            "id":2441499,
+            "title":"Cave in the Forest"
+        },
+        "1121":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Move in",
+                "Find somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find a temporary den not far from the cave. It takes several weeks, but the cave does eventually dry out.If you move in, there is a risk it will flood again.<br>\r\nYou can either: Move in, or find somewhere else.</span></div></span></div>",
+            "created":1516078800,
+            "id":2441558,
+            "title":"Hope"
+        },
+        "11211":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You move in and live happily - until it next rains heavily. The cave floods, and you are trapped as the water rises rapidly.</span></div></span></div>",
+            "created":1516122780,
+            "id":2441623,
+            "title":"Move in"
+        },
+        "11212":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Kill",
+                "Scare",
+                "Trap"
+            ],
+            "content":"<div class=\"\"><div> <span>There is an abandoned shepherds hut on the hills - it's not quite a cave, but it will do. It is warm, and occasionally sheep wander in to shelter, making easy pickings.<br>\r\nYou live there for several weeks before the shepherd notices his sheep are disappearing, and comes to find you.<br>\r\nYou can either: Kill him, scare him off, or trap him and keep him as a pet.</span></div></div>",
+            "created":1516123020,
+            "id":2441626,
+            "title":"Find somewhere else"
+        },
+        "1122":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Advertise",
+                "Go",
+                "Ignore"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The mountain cave is dry and warm. You live there happily for several months, until you hear a female in the area.<br>\r\nYou can either: Advertise your presence and wait for her to come to you, go to her, or ignore her.</span></div></span></div>",
+            "created":1516078800,
+            "id":2441560,
+            "title":"Move"
+        },
+        "11221":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><div> <span>You torch the trees on the top of your mountain and wait... and wait... and wait. She is not impressed with your destruction of the landscape! She ignores you, and enters the cave of the next dragon over.<br>\r\nYou had your chance to get a mate... and lost it. You will be a bachelor forever.</span></div></div>",
+            "created":1516123560,
+            "id":2441631,
+            "title":"Advertise"
+        },
+        "11222":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><div> <span>You go to her. She is impressed by your bright green scales, but not by your lack of treasure. You persuade her to come to your cave and she settles in happily once you kill a few knights and obtain a small pile of gold.<br>\r\nBy the next year, you have a healthy clutch of three eggs.<br>\r\nThey all hatch well, and your family is complete.<br>\r\n<br>\r\nCongratulations, you made all the right choices! (That's harder than you might think. Try it again and watch your dragon perish. If you had raided the village, you might not have made it through so well...)</span></div></div>",
+            "created":1516123920,
+            "id":2441632,
+            "title":"Go"
+        },
+        "11223":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><div> <span>You ignore her, not wanting to become attached just yet. <br>\r\nUnfortunately, no more females come through for over two hundred years, and by that time there are younger dragons fighting for her affections.<br>\r\nYou had your chance, but you lost it. You will be alone for the rest of your life.</span></div></div>",
+            "created":1516124220,
+            "id":2441636,
+            "title":"Ignore"
+        },
+        "1123":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Go after the kids",
+                "Go after the father",
+                "Run!"
+            ],
+            "content":"<div class=\"\"><div> <span>The village is calm, and you see two rich looking children playing in the meadow - a boy and a girl. Maybe their parents will give you gold for a ransom. <br>\r\nYou swoop down and try to take the boy. A crossbow bolt whistles past your ear - apparently, their father was watching the kids. As you dodge the second bolt, the children run toward their dad.<br>\r\nYou can either: Carry on going after the children, go after their father, or run away.</span></div></div>",
+            "created":1516078800,
+            "id":2441562,
+            "title":"Raid"
+        },
+        "11231":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You carry on flying toward the children, and the next bolt catches you in the chest.</span></div></span></div>",
+            "created":1516129320,
+            "id":2441647,
+            "title":"Go after the kids"
+        },
+        "11232":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You fly toward the father, and the next bolt catches you in the chest.</span></div></span></div>",
+            "created":1516129560,
+            "id":2441648,
+            "title":"Go after the father"
+        },
+        "11233":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><div> <span>You turn tail and flee, heading back to the cave in the forest. You find a temporary place to stay, and live there until the cave dries out.<br>\r\nYou never find a mate, you are never rich, you are never feared throughout the realm - but at least you are alive.</span></div></div>",
+            "created":1516129800,
+            "id":2441649,
+            "title":"Run!"
+        },
+        "113":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Take the prince",
+                "Take the king",
+                "Search for a maiden"
+            ],
+            "content":"<div class=\"\"><div> <span>You fly through the clouds so they don't see you coming, and they are completely unprepared. <br>\r\nYou head toward the castle while they scramble for their weapons.<br>\r\nClinging onto one tower, you attempt to stick your head through the window.<br>\r\nThe king is cowering, and he shouts out: \"Take my son! He is all I have, but he is useless anyway!\"<br>\r\nYou can either: Take the prince instead of a princess, take the king, or go searching for the most beautiful maiden in the village.</span></div></div>",
+            "created":1516078800,
+            "id":2441502,
+            "title":"Raid village"
+        },
+        "1131":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Eat",
+                "Ransom",
+                "Pet"
+            ],
+            "content":"<div class=\"\"><div> <span>You take the prince, and carry him in your mouth to the cave in the forest.<br>\r\nHe is thin, curled up on the floor.<br>\r\nHe uncurls slowly, and looks up at you.<br>\r\nYou can either: Eat him, see if anyone cares enough to pay a ransom, or keep him as a pet.</span></div></div>",
+            "created":1516078800,
+            "id":2441599,
+            "title":"Take the prince"
+        },
+        "11311":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You eat the prince (you meanie) and live out your life in the cave, lonely and with no gold. (See, just desserts! HA!)</span></div></span></div>",
+            "created":1516129980,
+            "id":2441654,
+            "title":"Eat"
+        },
+        "11312":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Wealth",
+                "Reputation",
+                "Looks and Personality"
+            ],
+            "content":"<div class=\"\"><div> <span>You ransom the prince, and his mother pays a hefty sum for him.<br>\r\nFor the next few years, you keep it up - kidnap, ransom. Kidnap, ransom. <br>\r\nYou eventually become feared throughout the realm, but you still have no mate.<br>\r\nFinally, after four years of being alone, there is a female moving through the area.<br>\r\nBut how will you woo her? Awe her with your wealth, awe her by living up to your reputation (somehow), or just go up to her and hope she falls for your looks and personality?</span></div></div>",
+            "created":1516130280,
+            "id":2441655,
+            "title":"Ransom"
+        },
+        "11313":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><div> <span>You pile up rocks at the back of the cave and trap him there. You do your best to look after him - you feed him, bring him water* - but eventually he starts refusing to eat or drink, before wasting away and dying.<br>\r\nYou have lost your pet.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n*Unbeknownst  to you, the problem was that you never cleaned him out <img style=\"\" class=\"emoteZ\" src=\"https://images.Writing.Com/imgs/writing.com/writers/e15/angry.png\" alt=\"*Angry*\" title=\"Angry\" border=\"0\" width=\"15\" height=\"15\"> .<br>\r\n<br>\r\n</span></div></div>",
+            "created":1516130580,
+            "id":2441658,
+            "title":"Pet"
+        },
+        "1132":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Leave",
+                "Rampage",
+                "Search"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You snatch the king, and devour him. (Let's not go into that in detail, it's only 13+).<br>\r\nYou can either: Leave now, go on a rampage in the village, or search for the queen to see if she is a nicer person than her husband.</span></div></span></div>",
+            "created":1516078800,
+            "id":2441603,
+            "title":"Take the king"
+        },
+        "11321":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>By the time you leave, the guards have gathered themselves - and readied their crossbows.</span></div></span></div>",
+            "created":1516130760,
+            "id":2441659,
+            "title":"Leave"
+        },
+        "11322":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "City",
+                "Stay"
+            ],
+            "content":"<div class=\"\"><div> <span>You rampage through the village, setting things on fire and eating people. The guards are not fast enough, and only a few of the villagers escape.<br>\r\nOf course, now you've lost a major food source. And who would pay ransom for a mountain goat?<br>\r\nYou can either: Move yourself to one of the major cities, or stay where you are.</span></div></div>",
+            "created":1516131000,
+            "id":2441660,
+            "title":"Rampage"
+        },
+        "11323":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Incinerate the dagger",
+                "Kill the Queen",
+                "Act harmless"
+            ],
+            "content":"<div class=\"\"><div> <span>You slither through the narrow corridors of the castle, and eventually find the queen.<br>\r\nBut, as a queen, she is prepared. She has a dagger strapped to her leg, and she pulls it out and brandishes it at you.<br>\r\nYou can either: Send a carefully aimed fireball at the dagger and incinerate it, kill the queen, or act harmless.</span></div></div>",
+            "created":1516272120,
+            "id":2442349,
+            "title":"Search"
+        },
+        "1133":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You fly out toward the normal houses, but the guards have now had enough time to ready themselves - and their crossbows.</span></div></span></div>",
+            "created":1516078800,
+            "id":2441605,
+            "title":"Search for a maiden"
+        },
+        "12":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Cave in the Mountain",
+                "Cave in the Forest",
+                "Raid village"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a female dragon.<br>\r\nYou have just left your mothers cave, and you are looking for a place to stay. You have found two places: a cave in a mountain, far from everything, or a cave in the forest, near the village.<br>\r\nOr you could just move in later and go raid the village for now.</span></div></div>",
+            "created":1516078800,
+            "id":2441493,
+            "title":"Female"
+        },
+        "121":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Continue into the cave",
+                "Cave in the Forest",
+                "Raid village"
+            ],
+            "content":"<div class=\"\"><div> <span>You fly to the cave in the mountain.<br>\r\nAs you get closer, you hear a rumbling snore coming from the entrance.<br>\r\nIt could be a bear, which you could easily chase away, or it could be another dragon,which might not be so easy.<br>\r\nYou can either take the risk and continue into the cave, go back to the cave in the forest, or raid the village.</span></div></div>",
+            "created":1516078800,
+            "id":2441494,
+            "title":"Cave in the Mountain"
+        },
+        "1211":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The snore is coming from an enormous and fearsome looking black dragon. You try to back away, but a twig snaps under your foot. <br>\r\nHe wakes up, and leaps for your throat...</span></div></span></div>",
+            "created":1516078800,
+            "id":2441557,
+            "title":"Continue into the cave"
+        },
+        "1212":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Several months later"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The cave in the forest is warm and dry, and you stay there happily for several months. <br>\r\n</span></div></span></div>",
+            "created":1516078800,
+            "id":2441570,
+            "title":"Cave in the Forest"
+        },
+        "1213":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Find royalty",
+                "Find beauty"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You easily sneak through under their noses. <br>\r\nNow, you can either: Head for the castle to find royalty, or head for the main town to find beauty.</span></div></span></div>",
+            "created":1516078800,
+            "id":2441572,
+            "title":"Raid village"
+        },
+        "122":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Attack them",
+                "Leave them"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you trudge through the forest, you come across a family of wild hogs.<br>\r\nYou can either: Attack them (be warned, the males look dangerous); or leave them be.</span></div></span></div>",
+            "created":1516078800,
+            "id":2441504,
+            "title":"Cave in the Forest"
+        },
+        "1221":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You attack the group, selecting one, and separating it from the rest. You are about to strike when you hear one of the hogs start to charge. You can't turn fast enough, and you feel a tearing pain in your back...</span></div></span></div>",
+            "created":1516078800,
+            "id":2441573,
+            "title":"Attack them"
+        },
+        "1222":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Discount it ",
+                "Find somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You enter the cave, and find marks on the wall that show it might occasionally flood. You can either: Discount this, or find somewhere else.</span></div></span></div>",
+            "created":1516078800,
+            "id":2441575,
+            "title":"Leave them"
+        },
+        "123":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Warn the old dragon",
+                "Sneak in",
+                "Attack the guards"
+            ],
+            "content":"<div class=\"\"><div> <span>The village is more of a reinforced army camp, you discover - the walls bristle with jostling crossbowmen, and the towers each have a lookout.<br>\r\nBy listening in on a pair of guards talking, you discover that there is an old dragon living in the cave in the mountain, and the village is on high alert to catch him the next time he attacks.It is not normally like this, but every man and boy has been called up.<br>\r\nYou can either: Go and warn the old dragon, in the hope that he will pay you back with something good; try and sneak in; or fry the guards and try to snatch a hostage before they shoot you.</span></div></div>",
+            "created":1516078800,
+            "id":2441507,
+            "title":"Raid village"
+        },
+        "1231":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Stay",
+                "Go"
+            ],
+            "content":"<div class=\"\"><div> <span>You fly to the mountains and find his cave - he is sleeping outside. You wake him gently and tell him what the village is planning.<br>\r\nHe thanks you, and offers you a place in his cave or share of his treasure.<br>\r\nYou can either: Live with him (as friends), or take the gold and go.</span></div></div>",
+            "created":1516078800,
+            "id":2441578,
+            "title":"Warn the old dragon"
+        },
+        "1232":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "choices":[
+                "Fierce",
+                "Sweet"
+            ],
+            "content":"<div class=\"\"><div> <span>You attempt to sneak in through an abandoned house, but one of the guards spots you. He traps you inside and goes to get the king. When the king arrives, he see's that you are a small dragon and calls his son.<br>\r\nYou can either: Act fierce, or act sweet.</span></div></div>",
+            "created":1516078800,
+            "id":2441581,
+            "title":"Sneak in"
+        },
+        "1233":{
+            "author_id":"bluesky13",
+            "author_name":"SkyFall",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You attack the guards, but there are too many of them - and too many crossbows.</span></div></span></div>",
+            "created":1516078800,
+            "id":2441582,
+            "title":"Attack the guards"
+        }
+    },
+    "info":{
+        "author_id":"bluesky13",
+        "author_name":"SkyFall",
+        "brief_description":"Live the life of a wild dragon!",
+        "created":1516099380,
+        "description":"<td align=\"left\" class=\"norm\">Feel free to add your own chapters. There's a lot that still needs to be done!<br>\r\nBecome king of the skies, terrorize the village, find yourself a mate and start a family... Your choice, in Dragons Choice!<br>\r\nMake the right decisions, or it could end badly for you...<br>\r\n(This is one of the very few interactive stories where you can actually die. <b>But you can also live happily!</b>)</td>",
+        "id":2146147,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1534263660,
+        "modified":1534263660,
+        "pretty_title":"Dragons Choice"
+    }
+}

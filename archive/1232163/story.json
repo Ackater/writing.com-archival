@@ -1,0 +1,752 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Beings(Generic furs)",
+                "Mythical(Dragons, Gryphons, etc.)",
+                "Spiritual(Demons, Angels, Cubi, etc.)",
+                "Misc(Were, Mer, etc.)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>    Pick a Race. =3<br>\r\n<br>\r\n    More info about certain races and species can be found at <a rel=\"nofollow\" href=\"http://www.missmab.com/demonology.php\" target=\"_blank\">http://www.missmab.com/demonology.php</a> . </span></div></span></div>",
+            "created":1173762000,
+            "id":389212,
+            "title":"Pick a Race =3"
+        },
+        "11":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Canines(Foxes, dogs, wolves)",
+                "Felines(Lions, tigers, etc.)",
+                "Bovids(Cows, Bulls, Yaks, etc.)",
+                "Mustelids(Ferrets, Weasels)",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>    Ah, the beings, known to us as furs essentially. So many species make up this class, so let's get to picking!</span></div></span></div>",
+            "created":1173762000,
+            "id":389214,
+            "title":"Select a being species"
+        },
+        "111":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Canine Males or Females?</span></div></span></div>",
+            "created":1179032400,
+            "id":407421,
+            "title":"Canine Males or Females"
+        },
+        "1111":{
+            "choices":[
+                "Xander",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Canine Male?</span></div></span></div>",
+            "created":1179032400,
+            "id":407422,
+            "title":"Which Canine Male?"
+        },
+        "112":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>    Pick your sex of feline. =3</span></div></span></div>",
+            "created":1173762000,
+            "id":389216,
+            "title":"What is the feline's sex?"
+        },
+        "1121":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Dan",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>    Male felines! <br>\r\n    Some examples are Dan and Merlitz, Abel is a feline, but since he's an incubus he'll be in the incubus category.</span></div></span></div>",
+            "created":1173762000,
+            "id":389218,
+            "title":"Which feline male?"
+        },
+        "11212":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Yes!",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>    Merlitz? </span></div></span></div>",
+            "created":1173762000,
+            "id":389219,
+            "title":"Merlitz?"
+        },
+        "112122":{
+            "choices":[
+                "Cid Rewanz",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Male Felines #3</span></div></span></div>",
+            "created":1179078720,
+            "id":475318,
+            "title":"Cid Rewanz/Aniz?"
+        },
+        "1121222":{
+            "choices":[
+                "Devin",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Devin Mernstar?</span></div></span></div>",
+            "created":1179078780,
+            "id":414106,
+            "title":"Devin Mernstar?"
+        },
+        "1122":{
+            "choices":[
+                "Alexsi",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Female Feline?</span></div></span></div>",
+            "created":1179032400,
+            "id":407410,
+            "title":"Which Female Feline?"
+        },
+        "11222":{
+            "choices":[
+                "Kannikah",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Female Felines #2</span></div></span></div>",
+            "created":1179032400,
+            "id":407411,
+            "title":"Female Felines #2"
+        },
+        "112222":{
+            "choices":[
+                "May Rewanz",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Female Felines #3</span></div></span></div>",
+            "created":1179032400,
+            "id":407412,
+            "title":"Female Felines #3"
+        },
+        "114":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mustelid Male or Female?</span></div></span></div>",
+            "created":1179032400,
+            "id":407404,
+            "title":"Mustelid Males or Females?"
+        },
+        "1141":{
+            "choices":[
+                "Biggs San",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Male Mustelid?</span></div></span></div>",
+            "created":1179032400,
+            "id":407408,
+            "title":"Which Male Mustelid?"
+        },
+        "1142":{
+            "choices":[
+                "Wildy San",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Female Mustelid?</span></div></span></div>",
+            "created":1179032400,
+            "id":407407,
+            "title":"Which Female Mustelid"
+        },
+        "115":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Marsupials(Kangaroos, Koalas, etc.)",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>    More being choices!</span></div></span></div>",
+            "created":1173762000,
+            "id":389215,
+            "title":"Being Species Selection #2"
+        },
+        "1151":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Marsupial males or females?</span></div></span></div>",
+            "created":1179032400,
+            "id":407416,
+            "title":"Marsupial Males or Females?"
+        },
+        "11512":{
+            "choices":[
+                "Moira Gianna",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Marsupial Female?</span></div></span></div>",
+            "created":1179032400,
+            "id":407417,
+            "title":"Which Marsupial Female?"
+        },
+        "115122":{
+            "choices":[
+                "Larita/Ellen/Merrilee/Jayna/Kimi/Nell Gianna",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Marsupial Females #2</span></div></span></div>",
+            "created":1179032400,
+            "id":407419,
+            "title":"Marsupial Females #2"
+        },
+        "1152":{
+            "choices":[
+                "Rodentia(Mice, Rats, etc.)",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Even More Being Choices</span></div></span></div>",
+            "created":1179032400,
+            "id":407382,
+            "title":"Being Species Selection #3"
+        },
+        "11521":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Rodent Males or Females?</span></div></span></div>",
+            "created":1179032400,
+            "id":407383,
+            "title":"Rodent  Males or Females?"
+        },
+        "115211":{
+            "choices":[
+                "Jyrras Gianna",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Male Rodent?</span></div></span></div>",
+            "created":1179032400,
+            "id":407384,
+            "title":"Which Male Rodent?"
+        },
+        "1152112":{
+            "choices":[
+                "The Basement Rats",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Male Rodents #2</span></div></span></div>",
+            "created":1179032400,
+            "id":407386,
+            "title":"Male Rodents #2"
+        },
+        "11521122":{
+            "choices":[
+                "Seth Gianna",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Male Rodents #3</span></div></span></div>",
+            "created":1179032400,
+            "id":407387,
+            "title":"Male Rodents #3"
+        },
+        "115212":{
+            "choices":[
+                "Photophie",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Female Rodent?</span></div></span></div>",
+            "created":1179032400,
+            "id":407388,
+            "title":"Which Female Rodent"
+        },
+        "12":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Dragons",
+                "Gryphons",
+                "Fae",
+                "Phoenix",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>    Here are some mythical races!<br>\r\n    What I mean by mythical is they exist in our legends, so if they meet that criteria and don't fit spiritual, they go here!</span></div></span></div>",
+            "created":1173762000,
+            "id":389223,
+            "title":"Mythical Races"
+        },
+        "121":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>    Male or female, please. =3</span></div></span></div>",
+            "created":1173762000,
+            "id":389224,
+            "title":"Pick the Dragon's Sex"
+        },
+        "1211":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Pyroduck",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>    Which one? x3</span></div></span></div>",
+            "created":1173762000,
+            "id":389226,
+            "title":"Which male Dragon?"
+        },
+        "1212":{
+            "choices":[
+                "Balorie",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Dragon Female?</span></div></span></div>",
+            "created":1179032400,
+            "id":407432,
+            "title":"Which Dragon Female?"
+        },
+        "122":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Gryphon Males or Females?</span></div></span></div>",
+            "created":1179032400,
+            "id":407433,
+            "title":"Gryphon Males or Females"
+        },
+        "1221":{
+            "choices":[
+                "Gringrrl",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Male Gryphon?</span></div></span></div>",
+            "created":1179032400,
+            "id":407434,
+            "title":"Which Male Gryphon?"
+        },
+        "123":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Fae Males or Females?</span></div></span></div>",
+            "created":1179032400,
+            "id":407435,
+            "title":"Fae Males or Females?"
+        },
+        "1231":{
+            "choices":[
+                "Azlan",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Fae Male?</span></div></span></div>",
+            "created":1179032400,
+            "id":407436,
+            "title":"Which Fae Male?"
+        },
+        "12312":{
+            "choices":[
+                "Albanion",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Male Fae #2</span></div></span></div>",
+            "created":1179032400,
+            "id":407437,
+            "title":"Male Fae #2"
+        },
+        "1232":{
+            "choices":[
+                "Mab",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Fae Female?</span></div></span></div>",
+            "created":1179032400,
+            "id":407438,
+            "title":"Which Fae Female"
+        },
+        "124":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pheonix Males or Females?</span></div></span></div>",
+            "created":1179032400,
+            "id":407440,
+            "title":"Pheonix Males or Females?"
+        },
+        "1242":{
+            "choices":[
+                "Alikya",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Phoenix Female?</span></div></span></div>",
+            "created":1179032400,
+            "id":407443,
+            "title":"Which Phoenix Female?"
+        },
+        "12422":{
+            "choices":[
+                "Baneel",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Phoenix Females #2</span></div></span></div>",
+            "created":1179032400,
+            "id":407444,
+            "title":"Phoenix Females #2"
+        },
+        "125":{
+            "choices":[
+                "Mythos",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mythical Selection #2</span></div></span></div>",
+            "created":1179032400,
+            "id":407424,
+            "title":"Mythical Selection #2"
+        },
+        "1251":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mythos Males or Females</span></div></span></div>",
+            "created":1179032400,
+            "id":407425,
+            "title":"Mythos Males or Females"
+        },
+        "12511":{
+            "choices":[
+                "Zingauru",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Male Mythos?</span></div></span></div>",
+            "created":1179032400,
+            "id":407431,
+            "title":"Which Male Mythos?"
+        },
+        "12512":{
+            "choices":[
+                "Matilda",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Mythos Female?</span></div></span></div>",
+            "created":1179032400,
+            "id":407427,
+            "title":"Which Mythos Female?"
+        },
+        "125122":{
+            "choices":[
+                "Hennya",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Females Mythos #2</span></div></span></div>",
+            "created":1179032400,
+            "id":407429,
+            "title":"Females Mythos #2"
+        },
+        "13":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Angels",
+                "Demons",
+                "Cubi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>    Races like demons, cubi, and such. </span></div></span></div>",
+            "created":1178686800,
+            "id":406347,
+            "title":"Spiritual Choices"
+        },
+        "131":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Angel Males or Females?</span></div></span></div>",
+            "created":1179032400,
+            "id":407445,
+            "title":"Angel Males or Females?"
+        },
+        "1311":{
+            "choices":[
+                "Akaen",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Angel Male?</span></div></span></div>",
+            "created":1179032400,
+            "id":407449,
+            "title":"Which Angel Male?"
+        },
+        "13112":{
+            "choices":[
+                "Felorin",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Angel Males #2</span></div></span></div>",
+            "created":1179032400,
+            "id":407453,
+            "title":"Male Angels"
+        },
+        "132":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Demon Males or Females?</span></div></span></div>",
+            "created":1179085260,
+            "id":407465,
+            "title":"Demon Males or Females"
+        },
+        "1321":{
+            "choices":[
+                "Dark Pegasus",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Demon Male?</span></div></span></div>",
+            "created":1179085380,
+            "id":407466,
+            "title":"Which Demon Male?"
+        },
+        "1322":{
+            "choices":[
+                "Lorenda Soulstealer",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Demon Female?</span></div></span></div>",
+            "created":1179085680,
+            "id":407468,
+            "title":"Which Demon Female?"
+        },
+        "13222":{
+            "choices":[
+                "Kria Soulstealer",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Female Demons #2</span></div></span></div>",
+            "created":1179085740,
+            "id":407469,
+            "title":"Female Demonds #2"
+        },
+        "132222":{
+            "choices":[
+                "Regina",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Female Demons #3</span></div></span></div>",
+            "created":1179085800,
+            "id":407470,
+            "title":"Female Demons #3"
+        },
+        "1322222":{
+            "choices":[
+                "Nicky",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Female Demons #4</span></div></span></div>",
+            "created":1179085860,
+            "id":407471,
+            "title":"Female Demons #4"
+        },
+        "133":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>   Cubi Males or females?</span></div></span></div>",
+            "created":1178686800,
+            "id":406348,
+            "title":"Cubi males or females?"
+        },
+        "1331":{
+            "author_id":"shadowsoul",
+            "author_name":"Shadowsoul",
+            "choices":[
+                "Daniel Ti'Fiona",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>    Which male cubi? </span></div></span></div>",
+            "created":1178686800,
+            "id":406349,
+            "title":"Which male cubi?"
+        },
+        "13312":{
+            "choices":[
+                "Abel Rewanz",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Incubi #2 </span></div></span></div>",
+            "created":1179032400,
+            "id":407457,
+            "title":"Incubi #2 "
+        },
+        "133122":{
+            "choices":[
+                "Professor Ink",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Incubi #3 </span></div></span></div>",
+            "created":1179032400,
+            "id":407458,
+            "title":"Incubi #3 "
+        },
+        "1331222":{
+            "choices":[
+                "Aniz",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Incubi #4 </span></div></span></div>",
+            "created":1179032400,
+            "id":407459,
+            "title":"Incubi #4 "
+        },
+        "1332":{
+            "choices":[
+                "Aaryanna",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Female Cubi?</span></div></span></div>",
+            "created":1179032400,
+            "id":407461,
+            "title":"Which Female Cubi"
+        },
+        "13322":{
+            "choices":[
+                "Fa'Lina",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Succubi #2</span></div></span></div>",
+            "created":1179032400,
+            "id":407463,
+            "title":"Succubi #2"
+        },
+        "133222":{
+            "choices":[
+                "Destania",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Succubi #3</span></div></span></div>",
+            "created":1179085200,
+            "id":407464,
+            "title":"Succubi #3"
+        },
+        "14":{
+            "choices":[
+                "Were",
+                "Mer",
+                "Undead",
+                "Insecits",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Races that do not fit into the three other categories...</span></div></span></div>",
+            "created":1179032400,
+            "id":407377,
+            "title":"Misc."
+        },
+        "141":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were Males or Females?</span></div></span></div>",
+            "created":1179085920,
+            "id":407472,
+            "title":"Were Males or Females?"
+        },
+        "1412":{
+            "choices":[
+                "Hahwru",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Were Female?</span></div></span></div>",
+            "created":1179085980,
+            "id":407473,
+            "title":"Which Were Female?"
+        },
+        "142":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mer Males of Females?</span></div></span></div>",
+            "created":1179032400,
+            "id":407379,
+            "title":"Mer Males or Females?"
+        },
+        "1422":{
+            "choices":[
+                "Scarlet",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Mer Female?</span></div></span></div>",
+            "created":1179032400,
+            "id":407380,
+            "title":"Which Mer Female?"
+        },
+        "143":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Undead Males or Females?</span></div></span></div>",
+            "created":1179086100,
+            "id":407475,
+            "title":"Undead Males or Females?"
+        },
+        "1432":{
+            "choices":[
+                "Rachel-Rebecca the Third",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Undead Female?</span></div></span></div>",
+            "created":1179086160,
+            "id":407476,
+            "title":"Which Undead Female?"
+        },
+        "144":{
+            "choices":[
+                "Males",
+                "Females"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Insectis Males or Females?</span></div></span></div>",
+            "created":1179086280,
+            "id":407477,
+            "title":"Insectis Males or Females?"
+        },
+        "1441":{
+            "choices":[
+                "ChkChkTia",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Insectis Male?</span></div></span></div>",
+            "created":1179086340,
+            "id":407478,
+            "title":"Which Insectis Male?"
+        }
+    },
+    "info":{
+        "author_id":"shadowsoul",
+        "author_name":"Shadowsoul",
+        "brief_description":"Vore from DMFA(Dan and Mab's Furry Adventures). X3",
+        "created":1173821940,
+        "description":"<td align=\"left\" class=\"norm\">     This is an interactive story that focuses on vore from Dan and Mab's Furry Adventures, or DMFA for short. With all the races and characters, all sorts of stuff is possible. X3 If you don't know what DMFA is, you can find it at missmab.com! <br>\r\n     Any kind of vore is allowed except for hard vore, and I'll allow anything else for the most part(yaoi(gay couples), yuri, BDSM, etc. )so long as there's vore involved somewhere. Sex is also allowed, and somewhat encouraged, especially for the gay couples! </td>",
+        "id":1232163,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1197592380,
+        "modified":1197592380,
+        "pretty_title":"Dan and Mab's Furry Adventures Vore"
+    }
+}

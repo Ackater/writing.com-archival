@@ -1,0 +1,862 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "The Original Series",
+                "The Next Generation",
+                "Deep Space Nine",
+                "Voyager",
+                "More More More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which series to do?</span></div></span></div>",
+            "created":1289019600,
+            "id":988627,
+            "title":"Where to begin?"
+        },
+        "11":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Lt. Uhura",
+                "Maybe a Guest Star?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's choose the girl shrinker before the shrinkee</span></div></span></div>",
+            "created":1289019600,
+            "id":988634,
+            "title":"Ladies First"
+        },
+        "111":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Kirk/Spock",
+                "Bones/Scotty",
+                "Sulu/Chekov/Guest Star"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Going old school huh? Who's the (un)lucky guy/girl?</span></div></span></div>",
+            "created":1289106000,
+            "id":988641,
+            "title":"Lt. Uhura"
+        },
+        "1111":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Kirk",
+                "Spock"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The bestest of friends, who is the victim?</span></div></span></div>",
+            "created":1289106000,
+            "id":988642,
+            "title":"Kirk/Spock"
+        },
+        "1112":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Dr. Leonard \"Bones\" McCoy",
+                "Montgommery \"Scotty\" Scott"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who to choose?</span></div></span></div>",
+            "created":1289106000,
+            "id":988643,
+            "title":"Bones/Scotty"
+        },
+        "1113":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Hikaru Sulu",
+                "Pavel Chekov",
+                "Guest Star"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who to choose?</span></div></span></div>",
+            "created":1289106000,
+            "id":988644,
+            "title":"Sulu/Chekov/Guest Star"
+        },
+        "12":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Beverley Crusher",
+                "Deanna Troi",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's choose the lucky lady</span></div></span></div>",
+            "created":1289019600,
+            "id":988635,
+            "title":"The Next Generation"
+        },
+        "121":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Picard/Riker/LaForge",
+                "Deanna/Wesley/Data",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah, so you like Milfs. Well who does she shrink?</span></div></span></div>",
+            "created":1289106000,
+            "id":988645,
+            "title":"Beverley Crusher"
+        },
+        "1211":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Picard",
+                "Riker",
+                "LaForge"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, who you gonna pick?</span></div></span></div>",
+            "created":1289106000,
+            "id":988646,
+            "title":"Picard/Riker/LaForge"
+        },
+        "1212":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Deanna Troi",
+                "Wesley Crusher",
+                "Data"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who you gonna pick?</span></div></span></div>",
+            "created":1289106000,
+            "id":988647,
+            "title":"Deanna/Wesley/Data"
+        },
+        "122":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Picard/Riker/LaForge",
+                "Beverley/Wesley/Data",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I sense you wanting to pick Deanna?</span></div></span></div>",
+            "created":1289106000,
+            "id":988649,
+            "title":"Deanna Troi"
+        },
+        "1221":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Picard",
+                "Riker",
+                "LaForge"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's get on with it shall we</span></div></span></div>",
+            "created":1289106000,
+            "id":988650,
+            "title":"Picard/Riker/LaForge"
+        },
+        "1222":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Beverley Crusher",
+                "Wesley Crusher",
+                "Data"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's move, move, move</span></div></span></div>",
+            "created":1289106000,
+            "id":988653,
+            "title":"Beverley/Wesley/Data"
+        },
+        "123":{
+            "author_id":"gokuman",
+            "author_name":"goku",
+            "choices":[
+                " Guinan it is ",
+                "other",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Guinan portrayed by Whoopi Goldberg.</span></div></span></div>",
+            "created":1583068080,
+            "id":2795120,
+            "title":"Guinan"
+        },
+        "13":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Jadzia Dax",
+                "Ezri Dax",
+                "Kira Nerys",
+                "The Intendent",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is the lucky lady?</span></div></span></div>",
+            "created":1289019600,
+            "id":988637,
+            "title":"Deep Space Nine"
+        },
+        "131":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Benjamin/Kira/Odo",
+                "Bashir/Worf/O'Brian",
+                "Jake/Quark/Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Want some Trill do ya?</span></div></span></div>",
+            "created":1289106000,
+            "id":988657,
+            "title":"Jadzia Dax"
+        },
+        "1311":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Ben Sisko",
+                "Kira",
+                "Odo"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who to choose, who to choose?</span></div></span></div>",
+            "created":1289106000,
+            "id":988658,
+            "title":"Benjamin/Kira/Odo"
+        },
+        "1312":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Julian",
+                "Worf",
+                "Chief O'Brian"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I'm running out of witty retorts</span></div></span></div>",
+            "created":1289106000,
+            "id":988660,
+            "title":"Bashir/Worf/O'Brian"
+        },
+        "1313":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Jake Sisko",
+                "Quark",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who shrinks?</span></div></span></div>",
+            "created":1289106000,
+            "id":988661,
+            "title":"Jake/Quark/Other"
+        },
+        "132":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Benjamin/Kira/Odo",
+                "Bashir/Worf/O'Brian",
+                "Jake/Quark/Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Another Trill?</span></div></span></div>",
+            "created":1289106000,
+            "id":988663,
+            "title":"Ezri Dax"
+        },
+        "1321":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Ben Sisko",
+                "Kira",
+                "Odo"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So many choices</span></div></span></div>",
+            "created":1289106000,
+            "id":988665,
+            "title":"Benjamin/Kira/Odo"
+        },
+        "1322":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Julian",
+                "Worf",
+                "Chief O'Brian"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So many choices</span></div></span></div>",
+            "created":1289106000,
+            "id":988667,
+            "title":"Bashir/Worf/O'Brian"
+        },
+        "1323":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Jake Sisko",
+                "Quark",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So many choices</span></div></span></div>",
+            "created":1289106000,
+            "id":988668,
+            "title":"Jake/Quark/Other"
+        },
+        "133":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Benjamin/Jadzia/Odo",
+                "Bashir/Worf/O'Brian",
+                "Jake/Quark/Ezri/Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you like the figure of authority huh?</span></div></span></div>",
+            "created":1289192400,
+            "id":990113,
+            "title":"Kira Nerys"
+        },
+        "1331":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Ben Sisko",
+                "Jadzia Dax",
+                "Odo"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, who you gonna pick?</span></div></span></div>",
+            "created":1289192400,
+            "id":990117,
+            "title":"Benjamin/Jadzia/Odo"
+        },
+        "1332":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Julian",
+                "Worf",
+                "Chief O'Brian"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who to choose?</span></div></span></div>",
+            "created":1289192400,
+            "id":990161,
+            "title":"Bashir/Worf/O'Brian"
+        },
+        "1333":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Jake Sisko",
+                "Quark",
+                "Ezri/other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's get on with it</span></div></span></div>",
+            "created":1289192400,
+            "id":990163,
+            "title":"Jake/Quark/Ezri/Other"
+        },
+        "13333":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Ezri",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>choose choose choose</span></div></span></div>",
+            "created":1289192400,
+            "id":990166,
+            "title":"Ezri/other"
+        },
+        "134":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Benjamin/Jadzia/Kira/Odo",
+                "Bashir/Worf/O'Brian",
+                "Jake/Quark/Ezri/Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The evil character enters...</span></div></span></div>",
+            "created":1289192400,
+            "id":990167,
+            "title":"The Intendent"
+        },
+        "1341":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Ben Sisko",
+                "Jadzia Dax",
+                "Odo/Kira"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices now</span></div></span></div>",
+            "created":1289192400,
+            "id":990168,
+            "title":"Benjamin/Jadzia/Kira/Odo"
+        },
+        "13411":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "3 inches",
+                "1 inch"
+            ],
+            "content":"<div class=\"\"><div> <span>The Intendant was the definition of a woman scorned. Having been tricked by the non-mirror Sisko, she was determined to get revenge upon him. She happened to find the means to do so during a raid on a Terran Rebellion outpost. The Terrans had been developing a shrink ray as a means to shrink spies into and out of classified areas. After raiding the place and testing the shrink ray on one of the captured Terran scientists, she began to formulate her plan within her twisted mind.<br>\r\n<br>\r\nDuring the night shift for Terok Nor, the mirror Kira forged documents authorizing a secret mission to the alternate universe in order to cover her true mission, to capture and shrink Captain Benjamin Sisko. <i>Then he can really be my slave</i> she thought as her lips curled into an evil smile. Presenting the documents to the officer guarding the transporter, she grabbed one of the devices used to change universes and stepped onto the transporter pad.<br>\r\n<br>\r\n\"Habitat ring, Deep Space Nine!\" She barked assertively, and slowly began to dissolve as her plan began to activate.<br>\r\n<br>\r\nAs the Intendant materialized on Deep Space Nine, she couldn't help but stifle a giggle as she thought about a tiny Sisko serving her, rubbing her feet, pleasuring her. Calming herself, she sought out the captain's quarters from her memory. Once she arrived at the door to his quarters, she began to play with the door controls, using an old Cardassian bypass to force them open quietly. Slipping through the now open doors, she made her way over to the master bedroom. These doors opened with a slight his, but it was enough to awaken the ever vigilant captain.<br>\r\n<br>\r\n\"Wha.. Kira? Is that you?\" asked the captain<br>\r\n<br>\r\n\"Kind of.\" Laughed the Intendant as she fired her shrink ray at Captain Sisko. Instantly, the captain began to shrink in size. How small did he shrink?</span></div></div>",
+            "created":1477604220,
+            "id":2229239,
+            "title":"Ben Sisko"
+        },
+        "134112":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "\"Let's head back over to my universe\"",
+                "\"Let's stay here, at least for the night\""
+            ],
+            "content":"<div class=\"\"><div> <span>Before Sisko knew what was happening, a green beam emerged from the weapon Kira was holding. Sisko feared it was a phaser, and attempted to shield his chest. Though the beam struck him, he didn't feel pain, but nauseousness. More surprising, he noticed that his sleepwear was rapidly growing on him, or rather, that he was shrinking out of it.<br>\r\n<br>\r\n\"What have you done?\" He attempted to scream. Instead it came out as a squeak, a voice crack that would have only been appropriate had he been a teenager. The Intendant's face, already luminous with her smile, broke into a laugh after hearing the once imposing captain's voice.<br>\r\n<br>\r\n\"Ahahahaha! Oh this is going to be fun Sisko.\" Kira said as she watched him shrink. Down the man shrunk, until he disappeared into his sleepwear. The Intendant walked over in her black catsuit, and rifled through Sisko's clothes. After a few seconds, she found the small man and scooped him up with her hand. She brought him up to her face, resting in her palm. She smiled down at the man, her signature lustful smile appeared as large as the wormhole to the small man. As he was being picked up by the admittedly beautiful giantess, Sisko noticed the black catsuit, and realized that this woman was not his Kira. Mustering up all the dignity he could standing naked, an inch tall, on a woman's palm.<br>\r\n<br>\r\n\"Intendant! I demand that you undo this immediately!\"<br>\r\n<br>\r\n\"Oh Sisko, don't you think you're in little *giggle* position to give orders?\"<br>\r\n<br>\r\n\"Why have you done this?\"<br>\r\n<br>\r\n\"After everything you've done to me? You made me a fool in front of my superiors, you attacked my station? And worst of all, you betrayed me! We could have been something together Sisko.\" The psychotic woman began to let her anger take hold of her. The soft hand of the alternate universe Bajoran began to clench into a fist. Sisko lost his breath as the fist tightened. If not the beam, this would be what kills him. But just as soon as the fist formed, it disappeared as mirror Kira regained her calm and condescending face.<br>\r\n<br>\r\n\"But all of that is going to change now Sisko. Now you're going to be my slave, and not just an average Terran slave, you're going to be my personal special slave.\" Her voice paused on each of the last few words, letting the small captain absorb the terror she was projecting in those words. \"Now,\" she said in a playful tone, \"Should we go ahead and head back over to my place? Or shall we stay at your's for the night?\"<br>\r\n<br>\r\nSisko understood that she didn't intend to listen to her in the slightest, and could only thank the Prophets that Jake had gone out to cover a Starfleet mobile hospital on the war front. Somehow, Sisko felt it would be less dangerous out there, than if they still had shared the same quarters.<br>\r\n<br>\r\n\"Hmmm...\" Pondered the Intendant, Sisko still in hand.</span></div></div>",
+            "created":1477628880,
+            "id":2229374,
+            "title":"1 inch"
+        },
+        "1341121":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "The Intendant runs into Dax on her way to Ops",
+                "The Intendant has a clear path to Ops"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I can't wait to have some fun with you, but we should probably go back over to my place for some...rest and relaxation.\" Her lips curled lustfully at this statement, anticipating the years of fun she would be having with the captain. \"We wouldn't want your crew walking in on us taking a day off now would we?\"<br>\r\n<br>\r\nThat's when it hit Sisko, the crew. \"Sisko to Dax. I need...\" He called out before the Intendant could stop him. Her hand balled up into a fist again, crushing Sisko against her soft warm flesh.<br>\r\n<br>\r\n\"Dammit Sisko, I was going to take it nice and easy on you, but now you deserve to travel with me the hard way\". Sisko could feel gravity hit him from within her fist as she sat down on Sisko's bed, and after a few seconds, she uncurled her fist once more, but this time she kept her fingers pinching Sisko's chest, so he wouldn't be able to get his voice back. Beneath him sat the open mouth of mirror Kira's right boot, but he couldn't look down he was held so tightly.<br>\r\n<br>\r\n\"Oh wow, can you smell that Sisko? That's the scent of my feet, marinating in my boots all day. Oh it must be so sweaty down there, even I can smell it.\" The scent wafted up to Sisko, and he tried to gag, but the lack of air in his lungs left him trying to take in any air that he could, even if it was infused with the smelly odor of the Intendant's feet.<br>\r\n<br>\r\n\"Now you could have ridden up in my beautiful breasts for the ride home, but since you were such a naughty boy, you're going to have to have a timeout in my boot. I'll see you later my little slave!\" With that she double checked that Sisko was over her boot and then dropped him in.<br>\r\n<br>\r\nSisko fell what seemed to be hundreds of feet from the grasp of the mirror Kira into her boot. The smell intensified as the darkness of her bott swallowed him, but he had been gasping for air ever since she had released him, taking in more of her noxious fumes. He prepared for the end, if not the crushing of her fist, if not the beam itself, a fall from 100 feet would surely do him in.<br>\r\n<br>\r\nHe hit the insole of her boot with a wet thud. <i>How am I alive?</i> he thought. <i>Perhaps the beam that shrank me boosted my strength.</i> He locked this information away in his head, hoping that he might be able to use it sometime to escape this madwoman. <i>This madwoman whose sweat I'm now drenched in</i>. He realized that the wetness of his crash had come from the insole, which had apparently soaked up some of the sweat from her foot. His world was about to get a whole lot worse though, as the Intendant's foot began to move back into its home. Whatever light Sisko had was blacked out as the foot entered the boot. Still fearing that he could be crushed, Benjamin ran as far as he could from the foot, but it was in vain. He tripped over the damp fabric of the insole, and landed on his back. Looking upwards in defeat, Sisko couldn't do a thing as mirror Kira's foot came to rest on top of him, crushing him beneath the ball of her foot. Still he wasn't dead, but there was definitely a large amount of pain as he could feel the Intendant stand up, placing her full weight on top of him. All of Sisko's world was now encompassed by Kira's foot. The soft underside of her foot overwhelmed the captain, as did the smell, and the sweat that was now on both sides of him.<br>\r\n<br>\r\nKira however was in pure ecstasy. The Benjamin Sisko of this universe, once an object of her fury, was now nothing more than an insole for her feet. She wanted nothing more than to lay down on the bed and touch herself to alleviate this extreme arousal, but she knew she had to get out of here as soon as possible, lest one of Sisko's friends have heard his call for help over the computer. She gave her nether regions a light tap from outside the catsuit, as if to calm her darkest desires, until later. She checked for and felt the squiriming of the tiny captain beneath her feet, confirming her belief that the shrink ray made its target impossible to crush, and walked out of the quarters, and make her way to ops.<br>\r\n<br>\r\nSisko felt the world lighten as he was lifted into the air. Then within a second the feeling was gone, and the crushing pain returned, even worse. He was pushed further into her skin, leaving an indent against the smooth flesh of the underside of her foot. The cycle continued as Sisko realized that his captor was on the move. Unable to do anything except occasionally squirm, Sisko prayed to the Prophets that Jadzia Dax had heard his brief yelp and was on the way to rescue him before this crazy yet gorgeous woman carried him off to her own universe.</span></div></div>",
+            "created":1477670640,
+            "id":2229591,
+            "title":"\"Let's head back over to my universe\""
+        },
+        "13413":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Odo",
+                "Kira"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Odo or Kira?</span></div></span></div>",
+            "created":1289192400,
+            "id":990169,
+            "title":"Odo/Kira"
+        },
+        "1342":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Julian",
+                "Worf",
+                "Chief O'Brian"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Every option will be covered</span></div></span></div>",
+            "created":1289192400,
+            "id":990171,
+            "title":"Bashir/Worf/O'Brian"
+        },
+        "1343":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Jake Sisko",
+                "Quark",
+                "Ezri/other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Four more to choose</span></div></span></div>",
+            "created":1289192400,
+            "id":990177,
+            "title":"Jake/Quark/Ezri/Other"
+        },
+        "13433":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Ezri",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>well, who you gonna choose?</span></div></span></div>",
+            "created":1289192400,
+            "id":990181,
+            "title":"Ezri/other"
+        },
+        "14":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "7 of 9",
+                "Janeway",
+                "Belanna Torres",
+                "Kes",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Thought you might go here. Let's choose the lady</span></div></span></div>",
+            "created":1289019600,
+            "id":988640,
+            "title":"Voyager"
+        },
+        "141":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Janeway/Chakotay/Tuvok",
+                "Paris/Torres/Kim",
+                "Doctor/Neelix/Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was this your first choice?<br>\r\n<br>\r\nGo ahead and pick who shrinks...</span></div></span></div>",
+            "created":1289278800,
+            "id":990924,
+            "title":"7 of 9"
+        },
+        "1411":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Janeway",
+                "Chakotay",
+                "Tuvok"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Go on, who shrinks?</span></div></span></div>",
+            "created":1289278800,
+            "id":990925,
+            "title":"Janeway/Chakotay/Tuvok"
+        },
+        "1412":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Paris",
+                "Torres",
+                "Kim"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who Who Who shrinks?</span></div></span></div>",
+            "created":1289278800,
+            "id":990931,
+            "title":"Paris/Torres/Kim"
+        },
+        "1413":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "The Doctor",
+                "Neelix",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is shrunken?</span></div></span></div>",
+            "created":1289365200,
+            "id":991338,
+            "title":"Doctor/Neelix/Other"
+        },
+        "142":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Chakotay/Tuvok/7 of 9",
+                "Paris/Torres/Kim",
+                "Doctor/Neelix/Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Going with the captain huh?</span></div></span></div>",
+            "created":1289365200,
+            "id":991488,
+            "title":"Janeway"
+        },
+        "1421":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Chakotay",
+                "Tuvok",
+                "7 of 9"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose who shrinks around Captain Janeway</span></div></span></div>",
+            "created":1289365200,
+            "id":991490,
+            "title":"Chakotay/Tuvok/7 of 9"
+        },
+        "1422":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Tom Paris",
+                "Belanna Torres",
+                "Harry Kim"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is the shrunken?</span></div></span></div>",
+            "created":1289365200,
+            "id":991492,
+            "title":"Paris/Torres/Kim"
+        },
+        "1423":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "The Doctor",
+                "Neelix",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is it gonna be that shrinks?</span></div></span></div>",
+            "created":1289365200,
+            "id":991496,
+            "title":"Doctor/Neelix/Other"
+        },
+        "143":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Janeway/Chakotay/Tuvok",
+                "Paris/7 of 9/Kim",
+                "Doctor/Neelix/Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose who shrinks</span></div></span></div>",
+            "created":1289365200,
+            "id":991497,
+            "title":"Belanna Torres"
+        },
+        "1431":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Kathryn Janeway",
+                "Chakotay",
+                "Tuvok"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your path</span></div></span></div>",
+            "created":1289365200,
+            "id":991498,
+            "title":"Janeway/Chakotay/Tuvok"
+        },
+        "1432":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Tom Paris",
+                "7 of 9",
+                "Harry Kim"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The (un)lucky victim </span></div></span></div>",
+            "created":1289365200,
+            "id":991500,
+            "title":"Paris/7 of 9/Kim"
+        },
+        "14321":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last question before the fun starts. Are they married yet?</span></div></span></div>",
+            "created":1391900460,
+            "id":1741888,
+            "title":"Tom Paris"
+        },
+        "1433":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "The Doctor",
+                "Neelix",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose and begin</span></div></span></div>",
+            "created":1289365200,
+            "id":991502,
+            "title":"Doctor/Neelix/Other"
+        },
+        "144":{
+            "author_id":"pdbush",
+            "author_name":"Smokncatfood",
+            "choices":[
+                "Janeway/Tuvok/Paris",
+                "Chakotay/7 of 9/Neelix",
+                "Kim/Torres/The Doctor"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You like those Ocampa types, huh?  It's always the quiet ones you have to look out for!<br>\r\n<br>\r\nOkay, now that you're looking out for Kes, let's narrow down who's going to be looking up at her.</span></div></span></div>",
+            "created":1390021200,
+            "id":1729278,
+            "title":"Kes"
+        },
+        "1441":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Janeway",
+                "Tuvok",
+                "Tom Paris"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is it who shrinks?</span></div></span></div>",
+            "created":1477599300,
+            "id":2229207,
+            "title":"Janeway/Tuvok/Paris"
+        },
+        "1442":{
+            "author_id":"pdbush",
+            "author_name":"Smokncatfood",
+            "choices":[
+                "Chakotay",
+                "7 of 9",
+                "Neelix"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>NOW we're talkin' !<br>\r\n<br>\r\nAll right, which one is the lucky shrinkee?</span></div></span></div>",
+            "created":1390021200,
+            "id":1729279,
+            "title":"Chakotay/7 of 9/Neelix"
+        },
+        "14423":{
+            "author_id":"pdbush",
+            "author_name":"Smokncatfood",
+            "choices":[
+                "Holodeck",
+                "Transporter Room"
+            ],
+            "content":"<div class=\"\"><div> <span>It had been a busy day in the mess hall of the starship Voyager.  Neelix, the ship's morale officer and resident chef, had made his famous Talaxian meatloaf.  It was a big hit with the crew, but Neelix's thoughts couldn't have been farther from food that day.  Kes had promised him a surprise when his shift was over, and he found it difficult to concentrate on anything else.  He knew that she had been studying different types of massage, so of course his imagination ran wild!<br>\r\n<br>\r\nFinally - the kitchen was clean; all the dishes were put away.  Neelix stopped by the gym for a quick shower, and then he was off to meet Kes!<br>\r\n<br>\r\n Where is Neelix going to meet Kes?</span></div></div>",
+            "created":1390021200,
+            "id":1729294,
+            "title":"Neelix"
+        },
+        "144232":{
+            "author_id":"pdbush",
+            "author_name":"Smokncatfood",
+            "choices":[
+                "With her hands",
+                "With her feet"
+            ],
+            "content":"<div class=\"\"><div> <span>Kes had told Neelix to meet her in the transporter room.  He couldn't imagine why she'd want to meet there, but it sounded kind of exciting - like a little adventure!  When he got to the transporter room, there was no one there.  But then Neelix found a blindfold with a note attached to it.  The note was from Kes.  It read:<br>\r\n<br>\r\n*********Hello Neelix.  I'm so glad you found my note.  I hope you don't mind a little adventure.  I promise your surprise will be worth the wait.  All you have to do is push the button on the transporter - it's already programmed to beam you right to me, oh and don't forget to put on the blindfold.  I don't want you peeking before I'm ready with your surprise!  I'm waiting for you, darling - Love, Kes**********<br>\r\n<br>\r\nNeelix pushed the button.  He only had a few seconds to get onto the transporter pad, and put on his blindfold.  Then he disappeared in a silvery shimmer of light.<br>\r\n<br>\r\nWhat Neelix didn't realize is that Kes had the transporter programmed to reassemble him much smaller than normal.   When he re-materializes, Neelix will only be about 30 inches tall!  Kes wanted to give him a really deep tissue massage, and she figured it would be easier if he were smaller.<br>\r\n<br>\r\nHow does  Kes plan to massage Neelix?</span></div></div>",
+            "created":1390021200,
+            "id":1729313,
+            "title":"Transporter Room"
+        },
+        "1442322":{
+            "author_id":"pdbush",
+            "author_name":"Smokncatfood",
+            "choices":[
+                "Lie down on his back",
+                "Lie down on his stomach"
+            ],
+            "content":"<div class=\"\"><div> <span>Neelix materialized in his quarters where Kes was waiting for him.  She giggled when she saw him.  Neelix stood only slightly above her knees!<br>\r\n<br>\r\n\"Is that you, Cupcake?\"  Said Neelix.  \"I'd know that giggle anywhere!\"  He started to remove the blindfold.<br>\r\n<br>\r\n\"No, don't look yet!\"  Exclaimed Kes.<br>\r\n<br>\r\n\"Sorry, Dearest,\" said Neelix.  \"I guess I'm just really ready for the surprise!\"<br>\r\n<br>\r\n\"I'm going to give you a massage,\" said Kes.  \"It's an ancient technique called ASHIATSU.  I use my feet and my weight for a deep tissue massage.\"<br>\r\n<br>\r\n\"Are you sure you weigh enough, my petite?\"  Asked Neelix. (He was still wearing his blindfold)<br>\r\n<br>\r\n\"Lie down on the floor, and let's find out!\"  Said Kes.<br>\r\n<br>\r\nNeelix gets down on the floor.  Does he.....</span></div></div>",
+            "created":1390102680,
+            "id":1729633,
+            "title":"Ashiatsu With Kes"
+        },
+        "14423222":{
+            "author_id":"pdbush",
+            "author_name":"Smokncatfood",
+            "choices":[
+                "7 of 9",
+                "B'Lanna Torres"
+            ],
+            "content":"<div class=\"\"><div> <span>Neelix lied down on his stomach.  He was expecting a nice relaxing back massage.  He was surprised when Kes placed a foot across his lower back, and her 'tiny' foot covered half his body!<br>\r\n<br>\r\n\"Honey-Pot...?\" But before Neelix could finish his sentence, Kes stepped down.<br>\r\n<br>\r\nThe joints in Neelix's lower back popped and crackled as Kes brought her other foot up onto his upper back.  Neelix went 'KRUNCH!' - The rest of the joints in his back and neck popped as Kes stood on top of him!  She stepped back and forth, shifting her weight from one foot to the other.  Telaxians are double-jointed, so as Kes continued to trample Neelix, it sounded like she was crushing every bone in his body!<br>\r\n<br>\r\nNeelix felt his arms &amp; legs tingle, and then go numb.  He was terrified, but somehow this felt strangely erotic!  He started seeing stars, and his ears began to whistle...no, wait - that's the door chime!<br>\r\n<br>\r\nWho's at the door?</span></div></div>",
+            "created":1390824360,
+            "id":1733697,
+            "title":"Lie down on his stomach"
+        },
+        "1443":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Ensign Kim",
+                "Belanna Torres",
+                "The Doctor"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is the one who shrinks?</span></div></span></div>",
+            "created":1477599600,
+            "id":2229212,
+            "title":"Kim/Torres/The Doctor"
+        },
+        "15":{
+            "author_id":"willster",
+            "author_name":"John Doe",
+            "choices":[
+                "Enterprise",
+                "The Relaunch (Star Trek 2009)",
+                "Books/ Video Games/ The rest"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You want more? Here's some more!</span></div></span></div>",
+            "created":1289019600,
+            "id":988633,
+            "title":"More More More"
+        },
+        "151":{
+            "author_id":"ultimatesith",
+            "author_name":"Jedirock04",
+            "choices":[
+                "Ensign Hoshi Sato",
+                "Sub-Commander T'pol",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you follow the famed linguist, Ensign Hoshi Sato or the vulcan liason and science officer, Sub-commander T'Pol. Or perhaps you have someone else in mind?</span></div></span></div>",
+            "created":1592121120,
+            "id":2851013,
+            "title":"Enterprise"
+        },
+        "1511":{
+            "author_id":"ultimatesith",
+            "author_name":"Jedirock04",
+            "choices":[
+                "She shrunk down",
+                "I'm the tiny one"
+            ],
+            "content":"<div class=\"\"><div> <span>Ah, Ensign Sato, a fine choice. For those who aren't familiar, Hoshi Sato was an early Starfleet officer of Asian descent (if her name didn't give that away). She was the communications officer for the NX-01 Enterprise. She was known for her ability to easily pick up and master many languages. She was notably kind with her crewmates, though not so much with the concept of being in space, especially early on.<br>\r\nSo now the question is \"Did you shrink or her?\"</span></div></div>",
+            "created":1592121660,
+            "id":2851021,
+            "title":"Ensign Hoshi Sato"
+        },
+        "15112":{
+            "author_id":"ultimatesith",
+            "author_name":"Jedirock04",
+            "choices":[
+                "Continue",
+                "Different scenario(s)"
+            ],
+            "content":"<div class=\"\"><div> <span>After the attack on Earth, you were assigned to the Enterprise as one of the MACO soldiers. Your mission was to help protect the Enterprise as it ventured into the Delphic Expanse (though most just call it the Expanse). For the foreseeable future, the only human contact you'd have would be your crewmates, Starfleet and MACO alike.<br>\r\nShortly after the mission began (about a day or two after the encounter with the Klingons at the edge of the expanse), you met Ensign Sato, the comm officer. While your jobs were near polar opposites, you both hit it off fairly well. Even better, your shifts lined up amazingly, so you'd have plenty of off time together.<br>\r\nOf course, if the Expanse had a middle name, anomalies would definitely be it. One such anomaly would like change your life forever. This anomaly caused you to shrink to about an inch tall.</span></div></div>",
+            "created":1592129160,
+            "id":2851044,
+            "title":"Anomaly in the Expanse"
+        },
+        "151121":{
+            "author_id":"ultimatesith",
+            "author_name":"Jedirock04",
+            "choices":[
+                "Go back to talking",
+                "Do something a bit more fun"
+            ],
+            "content":"<div class=\"\"><div> <span>You had just sat down for dinner, a brisket with a side of mashed potatoes and green beans. Chef may not make it like you'd get at home, but it's something.<br>\r\nRight as you were about to start eating, your relatively new friend, Ensign Sato, approached your table. \"Hey, ___, is anyone sitting here?\" she asked, motioning with her head to the seat across from you.<br>\r\n\"No, at least not last I checked,\" you said as you put down your knife and fork, \"Of course that'd change, depending on you.\"<br>\r\n\"Well then, consider it claimed,\" she announced, smiling, as she set down her tray. After she settled in, you two bantered and discussed your respective days.<br>\r\n\"So,\" you asked, \"Anyone... special waiting for you back home?\"<br>\r\n\"Aside from siblings, parents, or any other family, no. Why fo you ask?\"<br>\r\n\"Oh, no particular reason, just curious is all.\"<br>\r\n\"Well that curiosity had to cone from somewhere.\"<br>\r\n\"Don't worry about it,\" you said hastily, \"Just small talk.\" Just as you finished your sentence, you were hit... with something. You didn't quite know what, but it caused your ears to ring and you yo fall over.<br>\r\nLater, you woke up on a bed, in what looked like a cabon on the Enterprise, but something was off. It was... bigger.  Through the door you heard a male voice speaking. \"In simple terms, I have no idea what's going on. What I do know is that you will have to take care of him until I have something figured out. I do not believe are many safe places in my med-bay for someone of his stature.\"<br>\r\nYou then hear a voice that you believe to be Hoshi's, \"I see. Well, I'll do my best, Phlox.\" <i>Phlox, he's the ship's doctor, isn't he?</i><br>\r\n\"I know you will, Hoshi. I will let you know as soon as I male a breakthrough.\" You then heard footsteps leading away from the door, which subsequently opened, and in walked Hoshi.<br>\r\n\"Well, your commander already knows about the situation, so don't expect too much work for a good while.\"<br>\r\n\"That's good and all, but what exactly is the 'situation?'\"<br>\r\n\"You've shrunk down to about an inch. Beyond that,\" she takes a pause, \"we don't know. Until we do, I'll be taking care of you.\"<br>\r\n\"You already outranked me, so now you have authority over my off-duty time too, huh?\"<br>\r\n\"It's good to see that you still have your sense of humor,\" she chuckled, then sighed in relief, \"Oh, and sorry about the situation with your clothes... just don't think about it too much.\"<br>\r\nYou looked down and sure enough, it was all out in the open.<br>\r\n\"Well, I still have a couple hours before I need to lay down. Any ideas on what you want to do?\"<br>\r\n</span></div></div>",
+            "created":1592132580,
+            "id":2851057,
+            "title":"The Shrinking MACO"
+        },
+        "1511212":{
+            "author_id":"ultimatesith",
+            "author_name":"Jedirock04",
+            "choices":[
+                "Sex",
+                "A Game"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Well, I was thinking we could try something a bit more exciting than talking, but my ideas went thin,\" you stated, \"You got anything?\"<br>\r\nShe contemplated it for a few moments then decided \"We could try...\"</span></div></span></div>",
+            "created":1592982840,
+            "id":2855918,
+            "title":"Do something a bit more fun"
+        },
+        "152":{
+            "author_id":"supermario5",
+            "author_name":"Brown",
+            "choices":[
+                "The 2009 film",
+                "Nah the 2013 film is better",
+                "Star Trek Beyond is the one for me"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you certain you want the 2009 reboot or it's 2013 sequel Into Darkness? Or probably even the recent 2016 Star Trek Beyond flick?</span></div></span></div>",
+            "created":1477629480,
+            "id":2229381,
+            "title":"The Relaunch (Star Trek 2009)"
+        }
+    },
+    "info":{
+        "author_id":"willster",
+        "author_name":"John Doe",
+        "brief_description":"A crewmember is shrunk with one of the fabulous ladies from Star Trek",
+        "created":1289105160,
+        "description":"<td align=\"left\" class=\"norm\">A few basic rules:<br>\r\n<br>\r\n1. <b>No guys shrinking other guys or girls:</b> No offense to the girls out there, but I'm a guy, and the majority of people reading and adding onto this will be guys. I don't want to read about a guy having some \"fun\" with a shrunken girl.<br>\r\n<br>\r\n2. <b>Shrunken guys and girls, no giantesses:</b> How would you even fit a giantess on a ship?<br>\r\n<br>\r\n3. <b>Please keep in third person:</b> I hate jumping from first to third, just keep it in the third.<br>\r\n<br>\r\n4. <b>Good grammar, good spelling, and decent length paragraphs:</b> We all hate \"Hez dead because she satz on him.\" Right?<br>\r\n<br>\r\n5. <b>Aware or Unaware:</b> The person who starts the story sets either aware or unaware.<br>\r\n<br>\r\n<br>\r\nThat's really it. I do not own the rights to any Star Trek series, but I do reserve the right to edit/delete chapters that violate the aforementioned rules.</td>",
+        "id":1722638,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1592982840,
+        "modified":1592982840,
+        "pretty_title":"Star Trek Shrink"
+    }
+}

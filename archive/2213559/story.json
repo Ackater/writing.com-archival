@@ -1,0 +1,473 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "X-Kids (the main team)",
+                "New Recruits",
+                "Brotherhood",
+                "Others",
+                "Groups"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will gain?<br>\r\n<br>\r\nX-Kids<br>\r\n<br>\r\nNew Recruits<br>\r\n<br>\r\nBrotherhood<br>\r\n<br>\r\nOthers<br>\r\n<br>\r\nor<br>\r\n<br>\r\nGroups<br>\r\n<br>\r\n<br>\r\nTake your pick!</span></div></span></div>",
+            "created":1582174800,
+            "id":2790378,
+            "title":"Start"
+        },
+        "11":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Females",
+                "Males",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will gain?<br>\r\n<br>\r\nFemales<br>\r\n<br>\r\nMales<br>\r\n<br>\r\nor <br>\r\n<br>\r\nBoth<br>\r\n<br>\r\nWhich will it be?</span></div></span></div>",
+            "created":1582174800,
+            "id":2790381,
+            "title":"X-Kids (the main team)"
+        },
+        "111":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Kitty Pryde",
+                "Rogue",
+                "Jean"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which female will gain?<br>\r\n<br>\r\nChoices...<br>\r\n<br>\r\nKitty Pryde<br>\r\n<br>\r\nRogue<br>\r\n<br>\r\nor<br>\r\n<br>\r\nJean Grey<br>\r\n<br>\r\nTake your pick!</span></div></span></div>",
+            "created":1582261200,
+            "id":2790620,
+            "title":"Females"
+        },
+        "1111":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Natural WG",
+                "Force Fed",
+                "Junk food addict"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will Kitty pack on the pounds?<br>\r\n<br>\r\nNatural WG<br>\r\n<br>\r\nForce fed<br>\r\n<br>\r\nor<br>\r\n<br>\r\nJunk Food addict<br>\r\n<br>\r\nWhich will you pick?</span></div></span></div>",
+            "created":1582261200,
+            "id":2790625,
+            "title":"Kitty Pryde"
+        },
+        "11111":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Cake",
+                "Pie",
+                "Corn Dogs"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which food does Kitty eat to gain weight?<br>\r\n<br>\r\nChoices...<br>\r\n<br>\r\nCake<br>\r\n<br>\r\nPie<br>\r\n<br>\r\nor<br>\r\n<br>\r\nCorn Dogs<br>\r\n<br>\r\nTake your pick!</span></div></span></div>",
+            "created":1582261200,
+            "id":2790726,
+            "title":"Natural WG"
+        },
+        "111113":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Yes",
+                "No",
+                "SE"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want this choice?<br>\r\n<br>\r\nYes<br>\r\n<br>\r\nNo<br>\r\n<br>\r\nor<br>\r\n<br>\r\nSE<br>\r\n<br>\r\nWhich will you choose?</span></div></span></div>",
+            "created":1582261200,
+            "id":2790727,
+            "title":"Corn Dogs"
+        },
+        "1111131":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Buffet",
+                "Carnival",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where does she start eating them?<br>\r\n<br>\r\nChoices...<br>\r\n<br>\r\nBuffet<br>\r\n<br>\r\nCarnival<br>\r\n<br>\r\nor<br>\r\n<br>\r\nSomewhere else<br>\r\n<br>\r\nTake your pick!</span></div></span></div>",
+            "created":1582261200,
+            "id":2790729,
+            "title":"Yes"
+        },
+        "11111312":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "With the whole team",
+                "Alone"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is she with the whole team or alone?<br>\r\n<br>\r\nWith the whole team<br>\r\n<br>\r\nAlone<br>\r\n<br>\r\nWhich will you choose?</span></div></span></div>",
+            "created":1582261200,
+            "id":2790891,
+            "title":"Carnival"
+        },
+        "111113121":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Rogue",
+                "Nightcrawler",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When she goes to try her first corn dog, who goes with her?<br>\r\n<br>\r\nRogue<br>\r\n<br>\r\nNightcrawler<br>\r\n<br>\r\nor<br>\r\n<br>\r\nBoth<br>\r\n<br>\r\nTake your pick!</span></div></span></div>",
+            "created":1582261200,
+            "id":2790893,
+            "title":"With the whole team"
+        },
+        "1111133":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Tacos",
+                "Pudding",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other foods does she eat?<br>\r\n<br>\r\nTacos<br>\r\n<br>\r\nPudding<br>\r\n<br>\r\nor<br>\r\n<br>\r\nOthers<br>\r\n<br>\r\nTake your pick!</span></div></span></div>",
+            "created":1582261200,
+            "id":2790928,
+            "title":"SE"
+        },
+        "11113":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Doughnuts",
+                "Pie",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which food does she become addicted to?<br>\r\n<br>\r\nChoices...<br>\r\n<br>\r\nDoughnuts<br>\r\n<br>\r\nPie<br>\r\n<br>\r\nor<br>\r\n<br>\r\nOthers<br>\r\n<br>\r\nTake your pick!</span></div></span></div>",
+            "created":1582347600,
+            "id":2791413,
+            "title":"Junk food addict"
+        },
+        "111131":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "A week later",
+                "Two weeks later",
+                "A month later"
+            ],
+            "content":"<div class=\"\"><div> <span>Kitty was on her way home from Bayville High School when she noticed a new doughnut place she'd never noticed before. Out of curiosity, she decided to check it out. As she entered it, Kitty saw it was rather retro, with mementos from the 1970s and 1980s. As she waited for her turn, Kitty looked at the menu. Several of the doughnuts had weird names like the gut puncher or the stuffer. \"Hi, welcome to Doughnut Paradise. May I help you?\" asked the woman behind the counter, sounding a little too chipper for her job, Kitty secretly thought. Kitty looked back at the menu and took a few seconds to make up her mind. \"Like, I'll have five gut punchers.\" Kitty decided. The woman nodded and pulled said doughnuts out from the display case. Kitty was surprised by their size. Each one was the size of her head and had pink and blue sprinkles on them. The woman then put them in a to-go bag. \"Okay miss, that'll be 3 dollars.\" said the woman in her chipper voice. Kitty was surprised by how cheap the doughnuts were, given their size, but she gave the woman a ten. \"Like, keep the change.\" she smiled as she took the bag and left. As she walked back to the X-Mansion, Kitty grabbed a doughnut from the bag and took a bite. Her taste buds erupted. This was the best thing she had ever tasted!!! She kept eating as she walked. By the time she got to the mansion, she had finished all five doughnuts and was rubbing her surprisingly bloated belly. \"Like, I totally gotta go back there again!\" Kitty smiled to herself, letting out a big burp and still rubbing her tummy.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1582434000,
+            "id":2791642,
+            "title":"Doughnuts"
+        },
+        "1111313":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Sporting a large gut",
+                "Notably rounder",
+                "Morbidly obese"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How big has Kitty gotten over a month of eating doughnuts?<br>\r\n<br>\r\nSporting a large gut<br>\r\n<br>\r\nNotably rounder<br>\r\n<br>\r\nor<br>\r\n<br>\r\nMorbidly obese<br>\r\n<br>\r\nTake your pick!</span></div></span></div>",
+            "created":1582434000,
+            "id":2791668,
+            "title":"A month later"
+        },
+        "11113132":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Won't zip.",
+                "It rips",
+                "Somebody notices her WG"
+            ],
+            "content":"<div class=\"\"><div> <span>It had been a whole month since Kitty had started going to the doughnut shop. She'd been going at least twice a day, before and after school for that month, her orders getting larger and larger and that wasn't the only thing getting larger. Kitty had put on a lot of weight due to her new diet. She was quite round as you could see her belly under her tight cream t-shirt and pink sweater while her blue jeans looked painfully tight on her large, round butt. Her boobies had also swollen considerably. She was in the middle of eating a doughnut when she was called to go on a mission. So, she quickly changed into her X-Man costume, though it wasn't fitting as well either, showing off her roundness. She also seemed completely oblivious to her weight gain. When Kitty was about to zip up her costume it...<br>\r\n<br>\r\nWhat next?<br>\r\n<br>\r\nWon't zip<br>\r\n<br>\r\nIt rips<br>\r\n<br>\r\nor<br>\r\n<br>\r\nSomebody notices her WG</span></div></div>",
+            "created":1582434000,
+            "id":2791949,
+            "title":"Notably rounder"
+        },
+        "111131322":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "A week later",
+                "A month later",
+                "Half a year later"
+            ],
+            "content":"<div class=\"\"><div> <span>Kitty was tugging at her navy blue and purple costume when she heard a giant ripping noise. She looked down and saw her suit had ripped both down the side and the seat of her pants, causing her love handle to spill out and her poka dot underpants to be visible. \"Oh man. Like, I must've totally shrunk it in the wash!\" Kitty muttered, still oblivious to her WG as she quickly pulled off her suit, promising to get a new one. \"I'm, like, totally sure the others can totally handle whatever threat that's come up.\" Kitty thought, tugging on her civilian clothes with a lot of effort. Once she finally got her clothes on, her tummy let out a ginormous rumble, causing her to decide it was best to grab more doughnuts and she went to Doughnut Paradise, slightly waddling. When she arrived, there weren't many people there, which made sense since it was still fairly early. \"Hey Kitty.\" said the woman behind the counter. Kitty had been to the shop enough times that she was on a first name basis with the employees, who were always cheerful. \"Hey Becky. Like, can I have my usual?\" Kitty said. Becky nodded and stuffed 30 doughnuts into a box, three being different kinds since Kitty's taste in doughnuts had vastly improved. She thanked Becky and left the shop, her belly jiggling as she did so. By the time she got home, Kitty had eaten 12 of her 30 doughnuts, her mouth covered in sprinkles, powdered sugar and jelly filling as she flopped onto the couch, making her whole body jiggle as she laid down on her back, using one hand to scratch her belly while using the other to eat the remaining 18 doughnuts.  </span></div></div>",
+            "created":1582520400,
+            "id":2792162,
+            "title":"It rips"
+        },
+        "1111313222":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "A bad guy",
+                "A strange machine",
+                "Writer's choice"
+            ],
+            "content":"<div class=\"\"><div> <span>Scott, Jean, Kurt, Rogue and Spyke were all sitting around. There were no missions or anybody in need of help so they had decided to have a day off but Scott noticed somebody was missing. <br>\r\n<br>\r\n\"Hey, where's Kitty?\" He asked, picking a bit of loose fabric from his dark blue jumper, his optic lensed sunglasses eying the door. \"She's probably at that doughnut place again.\" Jean replied, rolling her eyes as she tucked a bit of red hair behind her ears. \"And honestly, I think she's spending too much time there. I think she's getting kind of..\" <br>\r\n<br>\r\nBefore Jean could even finish her sentence there was a loud cracking sound and a second later, they saw Kitty waddling up to the door while using one hand to eat one of her large doughnuts. But as she reached the door and tried to go through, she found she was stuck. Her big love handles pressed against the doorframe. <br>\r\n<br>\r\nShe tried to free herself but couldn't. After a minute, she gave up, huffing and puffing, her round face bright red. \"Hey guys, like, can you totally help me?\" Kitty asked, waving her chubby arms and half her doughnut hanging from her mouth. <br>\r\n<br>\r\n\"Kurt, you 'port from behind and push. I'll pull.\" Scott said, taking Kitty's doughy hands while Kurt teleported behind Kitty and began pushing on her flabby back. It took a couple of minutes until Kitty was completely free. \"Like, thanks guys.\" said Kitty, shoving another doughnut into her mouth. <br>\r\n<br>\r\n\"Maybe you should cut back on your doughnuts. You're getting pretty big.\" Kurt said, concerned for Kitty as she waddled over to the couch. He had every right to be. Kitty was as big and round as a sumo wrestler. <br>\r\n<br>\r\n\"Like, I am totally fine.\" Kitty said, crashing onto the couch, making her body jiggle as she repositioned herself so she was laying on her back, making her burp. As she made herself more comfortable, the others moved away to talk about her. <br>\r\n<br>\r\n\"Guys, Ah'm concerned about Kitty. She's gettin' huge and Ah'll bet it has somethin' ta do with that doughnut shop she's been goin' to.\" said Rogue with a concerned look at her roommate, who was currently shoving three chocolate doughnuts with cream filling into her mouth, chewing loudly. \"You're right. Maybe we should go check the place out.\" Jean suggested. <br>\r\n<br>\r\n\"Okay. Me, Jean and Kurt'll go check Doughnut Paradise out and Rogue, you and Evan stay here with Kitty to try and stop her getting bigger.\" Scott said. Kurt quickly grabbed Scott and Jean's shoulders and teleported them to an ally behind Doughnut Paradise. They looked around and saw an open window. \"Well, that's lucky.\" Kurt remarked with a grin. Slowly, the trio managed to quietly squeeze through the window. When they got in, they saw...</span></div></div>",
+            "created":1582606800,
+            "id":2792692,
+            "title":"A month later"
+        },
+        "111131323":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Jean Grey",
+                "Rogue",
+                "One of the boys"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who notices her gain?<br>\r\n<br>\r\nJean Grey<br>\r\n<br>\r\nRogue<br>\r\n<br>\r\nor<br>\r\n<br>\r\nOne of the boys</span></div></span></div>",
+            "created":1582866000,
+            "id":2794451,
+            "title":"Somebody notices her WG"
+        },
+        "1111313232":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Kitty goes on the mission",
+                "Kitty's uniform rips"
+            ],
+            "content":"<div class=\"\"><div> <span>Rogue came in to find Kitty struggling to zip up her uniform. <br>\r\n<br>\r\nAs she watched, Rogue eyed Kitty's new weight. For the last month, she and the other X-Kids had kept quiet as Kitty grew rounder because they figured Kitty would notice. However, though she was struggling, Kitty still didn't seem to notice her roundness. <br>\r\n<br>\r\n\"Hey, Kit. Ya need any help, sugah?\" Rogue asked, tugging her costume's gloves on. Upon hearing her roommate and friend's voice, Kitty looked up from her struggle.<br>\r\n<br>\r\n\"*Huff* *wheeze* Hey, Rogue. *Pant* Like, no thanks. I've totally got this *grunt* under control.\" Kitty huffed, her belly jiggling as she bounced up and down, trying to get that darn zipper to work properly, ignoring the fact that Rogue could see her boobs and belly. <br>\r\n<br>\r\nRogue watched for a second and then took a deep breath, deciding now was the time to tell Kitty the truth of her new shape and size, figuring it would be better if it came from her, Kitty's best friend. <br>\r\n<br>\r\n\"Okay, look Kitty... the others and Ah've kept this quiet 'cause we thought y'all would've noticed by now on your own, but... haven't ya noticed you've put on a few pounds?\" She asked gently.<br>\r\n<br>\r\nKitty finally zipped her uniform and turned to look at her best friend, teammate and roomie, confusion on her face. <br>\r\n<br>\r\n\"Like, what're you talking about, Rogue?\" she asked, wiping the sweat off her forehead. <br>\r\n<br>\r\n\"Kitty, really look at yourself.\" Rogue said gently but firmly nevertheless.<br>\r\n<br>\r\nKitty slowly looked down at her rounder body. Her big round belly bulged over her uniform's belt, her face was rounder, her back, arms and legs were also doughier and her butt had also rounded out. All in all, Kitty Pryde was one, big round girl.<br>\r\n<br>\r\n\"Ever since ya started eatin' at Doughnut Paradise, ya've been packin' on the pounds like crazy!\" Rogue said gently. Kitty didn't say anything. She just poked her belly with a finger, watching it sink into her doughy, squishy fat.<br>\r\n<br>\r\nWhat next?<br>\r\n</span></div></div>",
+            "created":1582866000,
+            "id":2794455,
+            "title":"Rogue"
+        },
+        "11113132321":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Kitty manages to stay strong and help win the battle",
+                "Kitty breaks down and goes to the store. The X-Kids barely win."
+            ],
+            "content":"<div class=\"\"><div> <span>Soon, the team were heading off in the X-Van. <br>\r\n<br>\r\n\"So what's the problem, Cyke?\" Spyke asked Scott. \"The Brotherhood's wrecking the Bayville Mall again.\" Scott explained as he drove the van. No one spoke. Their previous mall fight with said team was when Quicksilver's twin sister, the Scarlet Witch, had joined the Brotherhood and it hadn't gone good for the X-Kids.<br>\r\n<br>\r\n\"We're better prepared for them this time.\" Jean pointed out with a reassuring smile to the others after a moment. She then noticed Kitty stuffing a chocolate frosted doughnut with sprinkles into her mouth. Just as Kitty got ready to stuff a pink frosted one down, Jean used her telekinesis to move the box of doughnuts away. <br>\r\n<br>\r\n\"Hey! Like, I'm eating here!\" Kitty protested, her big tummy grumbling in agreement. \"I noticed that, Kitty. You gotta cut back on the doughnuts. Rogue told me that she talked to you before we left about it.\" Jean said with concern. <br>\r\n<br>\r\n\"So, I've already had six boxes today. So what?!?\" Kitty demanded, trying to grab the box, only for Jean to pull it even farther from her. \"I think Jean's right, K-girl. You're startin' to look like Blob.\" Spyke confessed with an equally concerned expression.<br>\r\n<br>\r\n\"Ja. I'm vith them, Kitty. You really should stop eating so many doughnuts.\" Nightcrawler agreed. Kitty just crossed her arms and pouted while looking out the window of the X-Van.<br>\r\n<br>\r\n\"Let's try and focus people.\" Scott said as they arrived at the mall. Sure enough, Lance Alvers, Fred Dukes, Pietro Maximoff and Toad Tolansky were creating havoc in the main area of the building as bystanders fled, screaming and shouting in terror. <br>\r\n<br>\r\n\"Look, it's the X-Geeks!\" Lance shouted as the group raced in. \"Let's get 'em!\" Blob shouted eagerly, cracking his knuckles. <br>\r\n<br>\r\n\"Let's do it, X-Men!\" Scott shouted, firing an optic blast at Lance, who ducked and then charged Scott, prompting a fist-fight between the duo. <br>\r\n<br>\r\n\"You wanna dance, Daniels?\" Quicksilver smirked at Evan as they squared off as well. \"You're on, Maximoff!\" Spyke snarled, popping some of his boney spikes out, ready for action. With that, their match began.<br>\r\n<br>\r\nRogue, meanwhile, was dealing with Blob. \"Ah'm about to feel really big an' stupid, if ya know what Ah mean.\" She smirked, taking a glove off and, after ducking a punch from Fred, absorbed some of his strength. <br>\r\n<br>\r\nJean was busy using her powers to fight Toad. \"Kitty, I think I can distract him enough for you to phase him into the ground. Try and get behind him and wait for my signal.\" She whispered. <br>\r\n<br>\r\n\"Okay.\" Kitty huffed. \"Like, anything to get home and eat more doughnuts.\" <br>\r\n<br>\r\nBut as Kitty started to do so, she noticed a Doughnut Paradise store not too far off. Her belly rumbled hopefully. \"Like, no way. Bad tummy. We've gotta stop the Brotherhood first!\" Kitty told it as she phased into the floor except for her head and made her way to the oblivious Toad, who was still just barely avoiding the chairs, debris, trash cans and other items Jean was levitating at him. <br>\r\n<br>\r\n*Grumble* *Rumble* Her belly protested again. Kitty whimpered as she waited for Jean's signal. She really wanted to help her friends, but she also wanted to pig out on more doughnuts.<br>\r\n<br>\r\nWhat next? </span></div></div>",
+            "created":1582866000,
+            "id":2794554,
+            "title":"Kitty goes on the mission"
+        },
+        "111131323211":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "They try to have Kitty quit cold turkey",
+                "They tell Professor X",
+                "They take matters into their own hands"
+            ],
+            "content":"<div class=\"\"><div> <span>Jean noticed Kitty in position and smiled, unaware of the inner struggle Kitty was going through. <br>\r\n<br>\r\n\"Okay Toad. You're gonna go down, NOW!!!\" She shouted, shoving Toad to Kitty with her telekinesis. Kitty reached up and grabbed Toad's ankles. <br>\r\n<br>\r\n\"Hey! Ah man! This ain't happenin', Yo!\" Toad protested as Kitty phased him up to his chest, pinning his arms into the ground before she herself surfaced. It was then Toad noticed her rounder body. <br>\r\n<br>\r\n\"Yo, Pryde! Better take it easy on the grub! I think Freddy's rubbin' off on ya!\" He joked. Kitty whirled and glared at him. <br>\r\n<br>\r\n\"Like, why don't you just shut up, Toad? I'm like totally fine, thank you!\" She snapped, punching him in his face before walking away. Jean quickly followed after her.<br>\r\n<br>\r\n\"You okay?\" Jean asked Kitty with concern. Kitty sighed, her anger draining away. <br>\r\n<br>\r\n\"Yeah. Like, I'm just totally cranky 'cause I haven't eaten a doughnut since you took 'em  away.\" Kitty confessed. Jean sighed and rolled her eyes as Kitty walked away.<br>\r\n<br>\r\nMeanwhile, Lance had been floored by Scott, Blob was knocked out by Rogue and Quicksilver was pinned to the wall by Spyke. Nightcrawler, meanwhile, had helped get shoppers to safety. They all joined up at the doors.<br>\r\n<br>\r\n\"Well, looks like we can go now.\" Rogue remarked. \"You're right. We're not needed here anymore so we'd better go.\" Scott agreed. <br>\r\n<br>\r\nThen, \"Vere's Kitty?\"  Kurt asked, looking around. \"She was right behind me a second ago.\" Jean agreed, looking around. After a second, she sighed in dismay. <br>\r\n<br>\r\n\"I think I found her.\" Jean sighed, pointing to the Doughnut Paradise store. There, exiting the shop, was a grinning Kitty. Her arms were full of large boxes of doughnuts. \"How'd you pay for all that, Kitty?\" Rogue asked, eying said boxes.<br>\r\n<br>\r\n\"Oh, like, the guy said that since we saved the mall, we can get free doughnuts whenever we want! Isn't that, like, totally awesome?!?!?\" Kitty squealed, happily phasing her face into the top box and pulling a chocolate glazed doughnut with red and blue sprinkles as she went to the X-Van, humming with a full mouth.<br>\r\n<br>\r\n\"We've gotta do somethin' otherwise we're probably gonna need a Jeep or somethin' ta carry Kitty around.\" Rogue said with concern. The others agreed with her. They cared for Kitty and it was clear she wasn't going to listen to them since she believed things were okay despite acknowledging her roundness. </span></div></div>",
+            "created":1582866000,
+            "id":2794573,
+            "title":"Kitty manages to stay strong and help win the b..."
+        },
+        "1111313232112":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "The team go investigate and Kitty manages to sneak away while investigating",
+                "The team investigates and Kitty remains strong during the investigation"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Maybe we should tell Professor X 'bout this? He might be able ta help her.\" Rogue offered after a moment as they slowly followed Kitty back to the X-Van so she didn't hear them. <br>\r\n<br>\r\n\"Might be a good idea, Rogue.\" Scott agreed as they finally reached the van. Kitty was already buckled in and happily scarfing down the second box of doughnuts as they pulled out of the mall parking lot. <br>\r\n<br>\r\nA little later at the mansion, Kitty was in her and Rogue's room, laying on her bed and polishing off the fourth box of doughnuts. She was just starting to grab the fifth one, when she heard a voice in her head.<br>\r\n<br>\r\n\"Kitty, would you please come to my office?\" Professor Xavier's voice said. \"Okay, Professor. Like, I'm on my way.\" Kitty responded telepathically as she got up and headed to his office. <br>\r\n<br>\r\nWhen she got there, she found Scott and Jean both there with Xavier. \"Ah, Kitty. Would you please sit down?\" Xavier smiled. Kitty slowly plopped down into a chair, her belly jiggling as she did. After a moment Professor X spoke.<br>\r\n<br>\r\n\"Kitty, Scott and Jean have told me about your addiction to Doughnut Paradise and, given your current physical appearance, I'd say it's good they did. I'm afraid you'll need to stop going to the shop for a few weeks.\" He told her gently, but firmly.<br>\r\n<br>\r\nKitty's jaw dropped in horror. \"WHAT?!?!? B-B-But Professor-! Like, w-what'll I eat?!? I'll totally starve!\" She pleaded, her belly rumbling in equal protest and outrage.<br>\r\n<br>\r\n\"I am sorry, Kitty. But it's for your own good.\" Xavier said firmly. Scott and Jean looked at each other before turning back to Kitty and Xavier again.<br>\r\n<br>\r\n\"The Professor's right, Kitty. It's just for a few weeks until you loose some of your weight. You won't starve either. I know some good, healthy recipes that you might like.\" Jean offered gently. Kitty just glared at the trio. Then, she turned and stormed out with a huff. <br>\r\n<br>\r\n\"Well, I think she took it better than we thought she would.\" Scott shrugged as Jean nodded. They'd expected a bigger tantrum from Kitty or at least some form of alarming protest.<br>\r\n<br>\r\nBack in her and Rogue's room, Kitty was sobbing into her pillow as Rogue came in. She, Kurt and Spyke had all been informed of Xavier's decision mentally via Jean and had taken the remaining of Kitty's doughnuts to the trash. Hearing her friend's footsteps, Kitty looked up, big fat tears rolling down her plump cheeks.<br>\r\n<br>\r\n\"Like... how could you Rogue?!?!?!? I thought you guys were totally my friends! But you took away my doughnuts like I'm a little kid!\" She blubbered. <br>\r\n<br>\r\n\"Kit, are ya listenin' to yourself righ' now? You're actin' like a little kid! Calm down! It's not forever and it ain't really a punishment. You'll be okay.\" Rogue said assuring her best friend as they hugged. <br>\r\n<br>\r\nKitty sniffled and blew her nose loudly into a tissue.<br>\r\n<br>\r\n\"I guess. Like, thanks Rogue. But I'm totally still mad.\" she said quietly. Rogue nodded and left.<br>\r\n<br>\r\nHowever, Rogue and the others had secretly taken a doughnut down to Beast for examination. After running some tests, Beast had the results.<br>\r\n<br>\r\n\"It turns out your hunch was right, Jean. The doughnuts contain an addictive formula made out of extremely sweet sugar. They only seem to affect young adults who eat them, causing them to become overweight and dependent on the doughnuts.\" Hank explained as he read the report from the tests. <br>\r\n<br>\r\n\"We should probably investigate Doughnut Paradise tomorrow.\" Scott suggested. \"Very well, Scott. You will take the team tomorrow. But remember, try to keep an eye on Kitty.\" Xavier said firmly as the others nodded in understanding.</span></div></div>",
+            "created":1582866000,
+            "id":2794589,
+            "title":"They tell Professor X"
+        },
+        "11113132321121":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "The X-Kids are able to defeat their opponents, meet their foe and find Kitty",
+                "The X-Kids are captured, including Kitty, before meeting their enemy"
+            ],
+            "content":"<div class=\"\"><div> <span>The next day found Scott, Jean, Kurt, Rogue, Kitty and Spyke heading to Doughnut Paradise in their civilian clothes. <br>\r\n<br>\r\nThey climbed out of the X-Van and went inside. Soon, they were being given a tour, with other people, of the large backroom by a tour guide. \"This is really weird.\" Scott remarked. \"I'll say.\" Jean agreed as she looked around. <br>\r\n<br>\r\n\"Yeah. Like, I mean where are all the free doughnuts? You should, like, totally be given free doughnuts during a tour of the doughnut factory!!!\" Kitty remarked, her tummy gurgling in agreement.<br>\r\n<br>\r\n\"\"Member, Kit. Ya gotta be strong.\" Rogue said gently. Kitty pouted but nodded and sat back. After the tour, when they got the chance to change into their costumes, Scott then turned to them, in serious leader mode.<br>\r\n<br>\r\n\"Alright, we better head to the back. Doughnut Paradise is a big place, so let's try and stick together for now.\" He ordered. The others nodded and followed him to the far back. Upon doing so, they saw numerous machines working away, making doughnuts of all shapes and sizes.<br>\r\n<br>\r\n\"This is kinda cool, man.\" Spyke admitted as they watched. \"I guess so. How about you, Kitty?\" Jean asked. But when they turned to look at Shadowcat, she was MIA. <br>\r\n<br>\r\n\"Where'd she go?\" Scott asked in dismay. \"I dunno. But we better find her.\" Jean advised. \"Then, let's move!\" Scott decided as he, Jean, Kurt, Rogue and Spyke started for the doorway, only to be cornered by six large women, clearly acting as security. <br>\r\n<br>\r\nMeanwhile, Kitty was racing through another hallway, looking into numerous rooms. \"Must find doughnuts! Must find doughnuts! Must find doughnuts!\" She was chanting as she looked  in the first two and then trying the third door. <br>\r\n<br>\r\nUpon opening it, her eyes widened and she grinned in delight, licking her lips.<br>\r\n<br>\r\nWhat next?</span></div></div>",
+            "created":1582952400,
+            "id":2794917,
+            "title":"The team go investigate and Kitty manages to sn..."
+        },
+        "111131323211211":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Scott and the others manage to escape, Kitty putting a tracking device on Becky",
+                "Scott and the others are captured"
+            ],
+            "content":"<div class=\"\"><div> <span>Meanwhile, Scott, Jean, Kurt, Rogue and Spyke were all fighting their obese attackers. One swung a meaty fist at Scott, only for him to duck and then kick her legs out from under her, knocking her onto her back. <br>\r\n<br>\r\nAnother went for Jean, only for her to lift the woman up with her TK and then drop her onto her friend, putting them out of commission. Kurt, Rogue and Spyke all quickly dispatched their foes as well.<br>\r\n<br>\r\n\"Well, that was weird. Who hires a buncha fat gals to serve as security?\" Rogue asked thoughtfully as she eyed the six dazed women. \"I'm not sure, Rogue. But we'd better find Kitty fast.\" Scott decided. With that, the five took off to do so. <br>\r\n<br>\r\nSoon, they reached a strange laboratory. It was filled with weird machines and gizmos. \"I don't think this is supposed to be in a doughnut factory.\" Scott remarked as they entered the room. <br>\r\n<br>\r\nAs they began looking around, Rogue noticed a tap on the side of the machine next to her dripping blue liquid. Curiously, she let a drip land on her finger and started to lick it, only for Jean to grab her hand. <br>\r\n<br>\r\n\"Wait, Rogue! Remember what Mr. McCoy said? The doughnuts are loaded with an addictive sugar! This is likely it. Even just one lick would likely bloat you to Kitty's size!\" She explained as Rogue quickly wiped it off with a cloth.<br>\r\n<br>\r\n\"You're probably right, Jean. Thanks.\" Rogue smiled in relief. \"Nevertheless, I think we'd better get some to Beast if we can.\" Scott decided as he filled a small beaker up with the liquid. <br>\r\n<br>\r\nThen, \"Ah, yes. The infamous X-Men. Kitty's mentioned you quite a bit since she's started coming here.\" said a voice behind them. Scott, Jean, Kurt, Rogue and Spyke whirled around to find... Becky.<br>\r\n<br>\r\n\"Ah've heard Kitty mention you. You're Becky Silvers, an employee here.\" Rogue realized. Becky smirked evilly. <br>\r\n<br>\r\n\"Yes. I'm an employee here. But I could've been so much more. My family's ran a doughnut empire for the last 40 years. I was determined to be the next to take over this place, but my little sister beat me out due to me suggesting we alter the doughnuts so they're not so fattening. So, I developed a formula that would make people addicted to the doughnuts and fatten them up, yet remain oblivious to it until either they or someone else mentioned it.\" Becky smirked evilly. <br>\r\n<br>\r\n\"Well, then it's time to put you out of business!\" Scott declared as the others got into a fighting stance. Becky smirked and snapped her fingers. A new overweight woman came in. \"Tara, take care of these stupid muties for me, please.\" She requested. Tara smirked and cracked her knuckles before grabbing a gun from her back and starting to shoot doughnuts at the X-Kids.<br>\r\n<br>\r\n \"Watch out!\" Scott shouted as they all moved out of the way. Jean used her telekinesis to send the doughnuts flying back, forcing Becky and Tara back. \"Nice job, Jean.\" Scott smiled as they raced out of the lab to recover Kitty.<br>\r\n<br>\r\nThey slowly entered the main shop. There, at a table, was Kitty. She was wolfing down doughnuts like crazy, occasionally stopping to lick her fingers off. <br>\r\n<br>\r\n\"Kitty!\" Scott called as they hurried over. Kitty jumped and sheepishly looked at her friends. <br>\r\n<br>\r\n\"Like, I know, I know... 'I'm  in deep trouble when Professor X hears about this'. But, like, I totally couldn't help it... they're so yummy!\" Kitty said sadly. \"Besides, like, I've only had one box.\" she smiled, nodding to her table which, to her friends' surprise, did contain only one box of doughnuts. <br>\r\n<br>\r\n\"Listen, we know who the bad guy is... It's Becky.\" Jean told her. \"Becky?!?!? Like, no way!\" Kitty said. \"No, Kitty, it's true.\" Rogue said gently. \"I'm afraid it is true, silly girl.\" Tara smirked as she aimed her gun at the X-Kids, causing the other diners to gasp in surprise as two more beefy women wielding doughnut guns joined her.<br>\r\n<br>\r\nWhat next? </span></div></div>",
+            "created":1582952400,
+            "id":2794964,
+            "title":"The X-Kids are able to defeat their opponents, ..."
+        },
+        "111133":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Cookies",
+                "Burgers",
+                "Even more food!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's more choices...<br>\r\n<br>\r\nCookies<br>\r\n<br>\r\nBurgers<br>\r\n<br>\r\nor<br>\r\n<br>\r\nEven more food!<br>\r\n<br>\r\nWhich shall it be?</span></div></span></div>",
+            "created":1582347600,
+            "id":2791415,
+            "title":"Others"
+        },
+        "1111333":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Baked Bean Burritos",
+                "Cinnamon Rolls",
+                "More food please!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Still not good enough huh? Well, try these!<br>\r\n<br>\r\nBaked Bean Burritos<br>\r\n<br>\r\nCinnamon Rolls<br>\r\n<br>\r\nor<br>\r\n<br>\r\nMore food please!<br>\r\n<br>\r\nTake your pick!</span></div></span></div>",
+            "created":1582347600,
+            "id":2791418,
+            "title":"Even more food!"
+        },
+        "11113333":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "PB&J Sandwiches",
+                "Chocolate Bars",
+                "More food again!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Try these foods, then!<br>\r\n<br>\r\nPB&amp;J Sandwiches<br>\r\n<br>\r\nChocolate Bars<br>\r\n<br>\r\nor<br>\r\n<br>\r\nMore food again<br>\r\n<br>\r\nWhich will you decide?</span></div></span></div>",
+            "created":1582347600,
+            "id":2791420,
+            "title":"More food please!"
+        },
+        "111133333":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Pickles",
+                "Potato Chips",
+                "Etc."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This getting kind of silly<br>\r\n<br>\r\nPickles<br>\r\n<br>\r\nPotato Chips<br>\r\n<br>\r\nor<br>\r\n<br>\r\nEtc.<br>\r\n<br>\r\nTake your pick!</span></div></span></div>",
+            "created":1582347600,
+            "id":2791422,
+            "title":"More food again!"
+        },
+        "113":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Kitty Jean and Kurt",
+                "Rogue, Scott and Kitty",
+                "Other combos"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You've chosen \"Both\".<br>\r\n<br>\r\nOptions...<br>\r\n<br>\r\nKitty, Jean and Kurt<br>\r\n<br>\r\nScott, Rogue and Kitty<br>\r\n<br>\r\nor<br>\r\n<br>\r\nOther combos<br>\r\n<br>\r\nTake your pick!</span></div></span></div>",
+            "created":1582174800,
+            "id":2790382,
+            "title":"Both"
+        },
+        "1131":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Fattened by new villain",
+                "New cook equals addictive meals",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><div> <span>How do the trio end up fat?<br>\r\n<br>\r\nChoices...<br>\r\n<br>\r\nThey get fattened up by a new villain's ray gun<br>\r\n<br>\r\nThe mansion gets a new cook who makes very addictive meals<br>\r\n<br>\r\nor<br>\r\n<br>\r\nMore choices<br>\r\n<br>\r\nWhich will it be?</span></div></div>",
+            "created":1582174800,
+            "id":2790429,
+            "title":"Kitty Jean and Kurt"
+        },
+        "1133":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Kitty and Rogue",
+                "Jean and Kitty",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about female combos<br>\r\n<br>\r\nOptions...<br>\r\n<br>\r\nKitty and Rogue<br>\r\n<br>\r\nJean and Kitty<br>\r\n<br>\r\nor<br>\r\n<br>\r\nMore<br>\r\n<br>\r\nWhich will it be?</span></div></span></div>",
+            "created":1582261200,
+            "id":2790929,
+            "title":"Other combos"
+        },
+        "11331":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "At the Institute",
+                "At a restaurant",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where does the story start?<br>\r\n<br>\r\nAt the institute <br>\r\n<br>\r\nAt a restaurant <br>\r\n<br>\r\nor<br>\r\n<br>\r\nSomewhere else</span></div></span></div>",
+            "created":1583211600,
+            "id":2796024,
+            "title":"Kitty and Rogue"
+        },
+        "113311":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Yeah, let's check it out",
+                "Nah, let's try an' find somethang to eat here first",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>One summer afternoon, Kitty and Rogue were relaxing in their bedroom while the others were out. It was rather quiet and the two girls were quickly growing bored.<br>\r\n<br>\r\n\"Like, what do you totally wanna do, Rogue?\" Kitty asked as she tossed her magazine aside. \"Ah dunno, Kitty. What do you wanna do?\" Rogue replied. Kitty shrugged. Then, a rumbling filled the room.<br>\r\n<br>\r\n*GURGLE* *RUMBLE* *GLOOORRRRPPPP* The duo jumped in surprise, only to realize it was Rogue's stomach growling. <br>\r\n<br>\r\n\"Like, that was totally your tummy, Rogue!\" Kitty giggled in amusement. But then another rumble emitted.<br>\r\n<br>\r\n*GGGGUUURRRRRGGGGLLEEEE* *RRRRUUUMMMMBBBBLLLLEEEE* *BBBBLLLOOORRRRPPPPPP* This time, to her dismay, it was coming from Kitty's belly. \"An' that was your belly, Kit.\" Rogue smirked. <br>\r\n<br>\r\n\"Like, I just remembered, we didn't get lunch because we had that Danger Room session with Scott and the others.\" Kitty remembered sheepishly. \"That's right!\" Rogue realized.<br>\r\n<br>\r\nThen, Kitty noticed an article in her magazine. It was about a new restaurant that had opened a few days ago. \"Like, 'The Mutant's Dine-in'.\" She read aloud. \"Never heard of it.\" Rogue shrugged. \"It's, like, totally a new mutant themed restaurant. Anybody who comes dressed as a mutant gets, like, 50% off their meals and real mutants get meals for free!\" Kitty read excitedly. <br>\r\n<br>\r\nShe looked at Rogue thoughtfully. \"Like, you wanna check it out? <br>\r\n<br>\r\nWhat does Rogue decide on? <br>\r\n<br>\r\n</span></div></div>",
+            "created":1583211600,
+            "id":2796027,
+            "title":"At the Institute"
+        },
+        "1133111":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Kitty and Rogue really pig out",
+                "Kitty and Rogue become too full to finish, taking the rest of the order to go",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Sure. Let's go check it out.\" Rogue shrugged. Son, the duo arrived at the new restaurant. It was rather big and nice looking, with a western themed setting. \"Like, does this bring back memories?\" Kitty asked Rogue as they were led to a large booth by a waitress dressed as a winged mutant. <br>\r\n<br>\r\n\"Kitty, Ah'm from the South, not the west.\" Rogue corrected her best friend as they sat down on either side of the booth. Then a waiter came up to their table, dressed as a three eyed mutant. Upon noticing the girls, his two real eyes widened as he recognized them as Shadowcat and Rogue from the X-Men.<br>\r\n<br>\r\n\"Hello and welcome to the Mutant Dine-In. May I take your order?\" He asked. \"Like, what's that great smell in the kitchen?\" Kitty asked. \"Well, that's our triple cheeseburgers and deep fried chicken, not to mention deep dish pizza and our chocolate cake and apple cinnamon pie.\" The waiter smiled kindly. At that, Kitty and Rogue's tongues nearly flopped onto the table as they both licked their lips loudly. <br>\r\n<br>\r\n\"Like, all that sounds totally yummy!\" Kitty smiled eagerly. \"Yeah! Give us two orders of everythin'!\" Rogue agreed in delight, both of them handing their menus over. \"Anything for our two guests of honor.\" the waiter smiled as he went to the kitchen. <br>\r\n<br>\r\nOnce he left, Kitty and Rogue both eagerly put napkins in their laps and waited for their feast to begin.<br>\r\n<br>\r\nWhat next?<br>\r\n</span></div></div>",
+            "created":1583211600,
+            "id":2796041,
+            "title":"Yeah, let's check it out"
+        },
+        "11331111":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "content":"<div class=\"\"><div> <span>Soon, the two girls had managed to eat everything on the table. The result? Two very stuffed teenage girls.<br>\r\n<br>\r\n\"Ooof!\" Kitty groaned, pushing her plate away and leaning back, exposing her round belly. \"Ya said it, Kitty.\" Rogue agreed, following suit, her pale white tummy bulging as well.<br>\r\n<br>\r\n\"Like, I may've overdone it on the fried chicken and burgers.\" Kitty said, burping loudly, her belly gurgling happily.  <br>\r\n<br>\r\nRogue actually giggled at that. \"A little?\" She teased, poking Kitty's swollen belly. <br>\r\n<br>\r\nKitty rose an eyebrow. \"Oh, and like you're totally one to talk,\" she smirked, eying Rogue's own giant food baby. <br>\r\n<br>\r\nRogue smiled, putting a gloved hand on the food filled bulge. \"What can Ah say? A gal loves her deep dish pizzas.\"<br>\r\n<br>\r\nThe waiter then walked up with a grin.<br>\r\n<br>\r\n\"Will that be all girls?\" He asked, taking his pad out again.<br>\r\n<br>\r\nKitty stifled another enormous burp. \"Ohhh... Like, I totally don't think I could eat another bite.\"<br>\r\n<br>\r\nRogue nodded in agreement, letting out a giant hiccup. As the duo started to stand, the waiter played a trump card. <br>\r\n<br>\r\n\"Would you two like dessert?\" <br>\r\n<br>\r\nKitty and Rogue froze. Normally, they would've declined and walked away. Of course, they also wouldn't have stuffed themselves, but there they were, tummies bulging with food. The two teenage mutants looked at each other and then sat down, this time on Kitty's side. <br>\r\n<br>\r\n\"Like, what do you guys have?\" Kitty asked, desire dripping from each word.<br>\r\n<br>\r\n\"Anything for our local X-Men.\" the waiter smiled.<br>\r\n<br>\r\nKitty and Rogue eyed each other, and then beamed.<br>\r\n<br>\r\n\"Chocolate cake. And, like, totally keep it comin'.\" Kitty said. <br>\r\n<br>\r\nThe waiter nodded and soon returned with a cart loaded with chocolate cakes. Setting them in a ring on the table, the waiter then asked, \"Will that be all, girls?\" <br>\r\n<br>\r\nKitty and Rogue licked their lips. \"Yeah. Thanks.\" They both said in unison before digging in.<br>\r\n<br>\r\nThe two X-Kids ate with reckless abandon, shoving bite after large bite of chocolate cake into their mouths and down their gullets. Kitty eventually tossed her fork aside and just buried her face into the cake as well as eating it by hand. Rogue tried to stay civilized, but eventually began following her teammate and best friend's example. <br>\r\n<br>\r\nThroughout the whole ordeal, the waiter kept replacing empty plates with filled ones. He did this about twenty times before the girls motioned for him to stop. After about two hours, Kitty and Rogue had each eaten 20 cakes. Kitty moaned, the button on her pants popping off to make room for her very bloated belly.<br>\r\n<br>\r\n*Uuuurrrppp* \"Um, Rogue?\" <br>\r\n<br>\r\n*Bbbuurrrrppp* \"Yeah, Kitty?\"<br>\r\n<br>\r\n\"*Hic* If we *hiccup* keep eating *hicurp* like this, we're totally, like, *OOOuurrrpp* gonna need a crane to get out.\" <br>\r\n<br>\r\nRogue, laughed, a giant hiccup stopping it. \"Make that two of 'em.\" <br>\r\n<br>\r\nKitty giggled. \"Like, let's totally agree now, before it happens, that this will totally be a bi-monthly thing.\" <br>\r\n<br>\r\nRogue nodded. \"Agreed. But Ah will miss that cake...\" <br>\r\n<br>\r\nTogether, breathing heavily and laboriously, the two teenage girls hauled themselves up and, supporting each other, staggered out of the restaurant, burping, hiccupping and farting all the way home as they did.<br>\r\n<br>\r\nThe  End<br>\r\n<br>\r\n</span></div></div>",
+            "created":1583211600,
+            "id":2796058,
+            "title":"Kitty and Rogue really pig out"
+        },
+        "11333":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "Kitty and Kurt",
+                "More please"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this option?<br>\r\n<br>\r\nKitty and Kurt<br>\r\n<br>\r\nor<br>\r\n<br>\r\nMore please</span></div></span></div>",
+            "created":1583298000,
+            "id":2796540,
+            "title":"More"
+        },
+        "113331":{
+            "author_id":"blackbeltii",
+            "author_name":"pirate king",
+            "choices":[
+                "A month with the Wagner family and large meals",
+                "Affected by a new mutant",
+                "Other ways"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do they gain?<br>\r\n<br>\r\nThey spend a month at Kurt's house, his mother making large meals<br>\r\n<br>\r\nThey're both affected by a new mutant<br>\r\n<br>\r\nor<br>\r\n<br>\r\nOther ways</span></div></span></div>",
+            "created":1583298000,
+            "id":2796548,
+            "title":"Kitty and Kurt"
+        }
+    },
+    "info":{
+        "author_id":"blackbeltii",
+        "author_name":"pirate king",
+        "brief_description":"X-Men Evolution characters begin packing on the pounds!",
+        "created":1582242840,
+        "description":"<td align=\"left\" class=\"norm\">This is an interactive story. Each choice tells a chapter of the story. When you reach a chapter yet to be created... Feel free to make an addition!<br>\r\n<br>\r\nGuidelines<br>\r\n<br>\r\nBoth females and males can gain<br>\r\n<br>\r\nI will allow them to be diapered as part of the WG<br>\r\n<br>\r\nNo sex, racial slurs or anything nasty like that<br>\r\n<br>\r\nPooping and peeing is allowed as long as it involves diapers or toilets<br>\r\n<br>\r\nHave fun!</td>",
+        "id":2213559,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "modified":1583327160,
+        "pretty_title":"X-Men Evolution WG Story"
+    }
+}

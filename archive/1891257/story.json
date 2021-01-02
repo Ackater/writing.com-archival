@@ -1,0 +1,1382 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"zhiral",
+            "author_name":"Zhiral",
+            "choices":[
+                "Fill out the sheet",
+                "Ask Questions"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk into the large, medical style building, in disbelief of the advertisements they had been running.  They claim they can not only safely remove one's brain, but put it into another body as well!  As the automated sliding doors open, you are greeted by a receptionist.<br>\r\n\"Hello!  Welcome to the Brain Center!  Please fill out this basic information sheet before we begin so that we may better serve you!\" A friendly cat-girl smiles.  \"Or, if you have any questions, I'd be happy to help you out\"</span></div></div>",
+            "created":1347512400,
+            "id":1426604,
+            "title":"Welcome to the Brain Center!"
+        },
+        "11":{
+            "author_id":"zhiral",
+            "author_name":"Zhiral",
+            "choices":[
+                "Human",
+                "Furry",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide that you know all you need to know about the place, and fill in the basic information, basically asking who you are.<br>\r\n<br>\r\n<br>\r\nThe first question is what species are you?</span></div></span></div>",
+            "created":1347512400,
+            "id":1426605,
+            "title":"Fill out the sheet"
+        },
+        "111":{
+            "choices":[
+                "A male.",
+                "A female."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You cross 'human' as your species. That was an easy one. The next one asks if you're male or a female.</span></div></span></div>",
+            "created":1365915600,
+            "id":1571528,
+            "title":"Human"
+        },
+        "1111":{
+            "choices":[
+                "A) Brain transplant",
+                "B) Brain removal",
+                "C) Custom Job"
+            ],
+            "content":"<div class=\"\"><div> <span>This is an easy question, of course you are male. You have the package to proof it. <br>\r\n<br>\r\nThe third question is what you are doing here. <br>\r\n<br>\r\nYou can choose between:<br>\r\n<br>\r\nA) A brain transplant. This just means transplanting your brain into somebody else their body. <br>\r\n<br>\r\nB) A brain removal. This means that your brain is removed and placed into a jar. What happens after that, is up to you. <br>\r\n<br>\r\nC) A custom job. The brain center offers different services, ranging from tweaking with your IQ to fusing brains with each other.</span></div></div>",
+            "created":1417150800,
+            "id":1894901,
+            "title":"A male."
+        },
+        "11111":{
+            "author_id":"petrozichy4589",
+            "author_name":"Dima",
+            "choices":[
+                "A Human ",
+                "An anthro or something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, that's easy I'm here for a full transplant...\" You mumble to yourself and mark the box, it's only natural to feel a little curious about what possibilities of entertainment you can have having your brain put into something, someone, or maybe even held up in storage in case you feel like going back to the other options on the list.<br>\r\n<br>\r\nBut now comes the next part, what you actually want your brain to be put into in the first place...</span></div></div>",
+            "created":1498366800,
+            "id":2342526,
+            "title":"A) Brain transplant"
+        },
+        "111111":{
+            "author_id":"petrozichy4589",
+            "author_name":"Dima",
+            "choices":[
+                "Family Members",
+                "Strangers or Friends"
+            ],
+            "content":"<div class=\"\"><div> <span>You go down the list a bit to make sure of what options you had, sure slipping into an anthro or hybrid like the receptionist girl would be interesting or what it would be like to slip into a cyborg or something of the sort going of the other boxes to check off. However, the idea of sticking to a human body is comforting to say the least since it's something you're familiar enough with to know how to use but also strange enough to have some level of adventure.<br>\r\n<br>\r\nYou flip the page with it's disclaimer and legal obligation talks to move onto what types of bodies there is or is available to you to much of your own knowledge.</span></div></div>",
+            "created":1498366800,
+            "id":2342532,
+            "title":"A Human "
+        },
+        "1112":{
+            "choices":[
+                "A brain transplant.",
+                "A brain removal.",
+                "A custom job."
+            ],
+            "content":"<div class=\"\"><div> <span>This is an easy question, of course you are female. You have the boobs to proof it. <br>\r\n<br>\r\n The third question is what you are doing here. <br>\r\n<br>\r\n You can choose between:<br>\r\n<br>\r\n A) A brain transplant. This just means transplanting your brain into somebody else their body. <br>\r\n<br>\r\n B) A brain removal. This means that your brain is removed and placed into a jar. What happens after that, is up to you. <br>\r\n<br>\r\n C) A custom job. The brain center offers different services, ranging from tweaking with your IQ to fusing brains with each other.</span></div></div>",
+            "created":1418187600,
+            "id":1900520,
+            "title":"A female."
+        },
+        "11121":{
+            "choices":[
+                "a human being",
+                "an object",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You are here for a brain transplant. It always has been one of your dreams to have your brain being transplanted. The next question is being left opened. It's here that you can tell where your brain will end up.<br>\r\n<br>\r\nYou fill in...<br>\r\n<br>\r\n</span></div></div>",
+            "created":1418187600,
+            "id":1900523,
+            "title":"A brain transplant."
+        },
+        "111211":{
+            "choices":[
+                "A familymember. ",
+                "A friend.",
+                "A stranger."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You choose for the safest thing, a human being. From what you could gather the Brain Center is renowned for their Brain transplants with human beings. Of course only with some people. <br>\r\n<br>\r\nThe next question is what kind of human being?</span></div></span></div>",
+            "created":1418187600,
+            "id":1900525,
+            "title":"a human being"
+        },
+        "1112111":{
+            "choices":[
+                "one of your parents",
+                "One of your siblings.",
+                "An uncle, aunt or other relative."
+            ],
+            "content":"<div class=\"\"><div> <span>Since this is your first transplant, you want to keep it simple and safe. It will be a family member. No dealings with friends or with strangers. <br>\r\n<br>\r\nOf course the next question is who the family member is. <br>\r\n<br>\r\nAs you write it, you're surprised by the paper you are writing on. Every time you give an answer, the question and your answer disappears and the next question appears. It's cool.<br>\r\n<br>\r\nYou write the name of...</span></div></div>",
+            "created":1418187600,
+            "id":1900528,
+            "title":"A familymember. "
+        },
+        "11121111":{
+            "choices":[
+                "(step)father.",
+                "(step)mother."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of your parents is paying for this brain transplant, so they want to swap with you alone. You write the name of your...</span></div></span></div>",
+            "created":1479013200,
+            "id":2236558,
+            "title":"one of your parents"
+        },
+        "111211112":{
+            "choices":[
+                "Your biological mother.",
+                "Your stepmother."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's your mother of course, who else? But is it your real mother or your stepmother?</span></div></span></div>",
+            "created":1479013200,
+            "id":2236559,
+            "title":"(step)mother."
+        },
+        "1112111122":{
+            "choices":[
+                "Kind and gentle one.",
+                "Sexy and erotic one."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's your stepmother of course. But what kind of a stepmother is she?</span></div></span></div>",
+            "created":1494478800,
+            "id":2317786,
+            "title":"Your stepmother."
+        },
+        "11121111221":{
+            "choices":[
+                "No, she has none.",
+                "Yes, she has one or more."
+            ],
+            "content":"<div class=\"\"><div> <span>Your stepmother is the kind and gentle one to your surprise. After your real mother disappeared (for reasons unknown to anyone) your father met your stepmother. Unlike the usual stepmother she actually wasn't stuck up or really hot like usual, she was a normal woman who lost her husband and was searching for companionship. Did she have kids of her own?</span></div></div>",
+            "created":1497762000,
+            "id":2338079,
+            "title":"Kind and gentle one."
+        },
+        "111211112211":{
+            "choices":[
+                "A plain average girl.",
+                "Another type of girl. "
+            ],
+            "content":"<div class=\"\"><div> <span>Your stepmother didn't have any kids of her own, though she did want to have kids. That's why she cherished trying being your mother. Though lacking the experience did cause some nasty moments. Nevertheless she always did her best for you and as a present you offered to swap brains to thank her for her help. She refused at first of course, but you pointed out that she could learn more about you while you would learn more about her. In the end she accepted your offer.<br>\r\n<br>\r\nThat doesn't tell what kind of girl you are. How would you describe yourself?</span></div></div>",
+            "created":1497762000,
+            "id":2338081,
+            "title":"No, she has none."
+        },
+        "1112111122111":{
+            "author_id":"tamelbrun",
+            "author_name":"Tam Elbrun",
+            "choices":[
+                "Tell tell dad and your boyfriend. Things will get awkward if they dont know.",
+                "No secrets. you don't want to hide this."
+            ],
+            "content":"<div class=\"\"><div> <span>In all honesty, a you're bit on the unremarkable side. Not tall, but not short either, Long hair, grayish blue eyes, average cup size, just the slightest hints of a tan starting to form, enough to not look pale but not enough to be readily noticeable, not in the best of shape but not overweight, rather plain sense of fashion... the only traits that really stick out are your bright red hair, and insistence on wearing glasses rather than contacts (you've always insisted that they itch) otherwise you would blend unnoticably into almost any crowd.<br>\r\n<br>\r\nMaybe this will give you a chance to shed that 'boring girl' description that you seemed to pick up during your last year of highschool? You hope so, since that has secretly been part of your motivation for doing this. even if it does make you feel a little guilty...<br>\r\n<br>\r\nRegardless, the forms are done and it's time to head inside.<br>\r\n<br>\r\nafter a brief wait, you're brought inside one of the preparation rooms. There's a nurse waiting for you, she wastes about twenty minutes going over and repeating what you have already agreed to, and signed, before handing you a medical gown and gesturing to a privacy screen set up on one side on the room. It doesn't take long to change. Asking if you're going to be sedated now, you get a surprising response.<br>\r\n<br>\r\n\"Actually, in order to test the spinal nerves, and make sure they're bonding correctly, you can't be fully sedated. We can use local anesthetics to mitigate any pain, but not to a degree that would effect behavior or slow responses\" The nurse explained, trying to look as comforting as he could, but you had to admit, that part... well, you weren't sure if you were more nervous or excited by the idea of being awake for the whole thing. \"If you're having second thoughts...\"<br>\r\n<br>\r\n\"No. I want to do this.\" Your answer was firm, if a touch annoyed at being asked that, again. With how they kept doing that, when you know your step mom had been admitted in half the time, you're starting to wonder if you're their first teenage patient or something. Nineteen is still a legal adult in this part of the world though, so you wish they would cut it out already.<br>\r\n<br>\r\nDropping the subject, she has you follow her to another room, and lie down on a special bed there. You can see another bed opposite it as you aproach, arranged so the head of each face each other. You'd recognize the patient lying on it anywhere, even with her skull open to the air. Your step mother with a visible brain actually looks kinda neat.<br>\r\n<br>\r\nOnce you're laying down, the nurses strap you in place, one of them explaining that patients sometimes spasm when extracted, and they don't want you to hurt yourself. Once you're secure one of the nurses gets out clippers and trims your hairline back about an inch, so that the cuts will be concealed by it growing back in afterwards. Next comes the needles jabbing into your skull. it's kind of like the ones they use before pulling a tooth, the first few hurt, but as they continue the half numb half cold feeling seems to spread fast enough that you don't notice the rest. Pretty soon the entire top of your head is numb.<br>\r\n<br>\r\nThe first cut is along the shaved strip, slowly and methodically going from behind one ear, to the other. its strange, watching the doctors work via reflections. Seeing them peel back your scalp and fold it neatly inside out against the sterile pad the just put under your head. A part of you insists you should feel scared, but instead you're just excited. This is actually happening. Then your vision gets blocked by your forehead getting folded down over your eyes. <br>\r\n<br>\r\nHuh... Your eyebrows look weird upside down and tinted red by the light filtering through the skin behind them.<br>\r\n<br>\r\nThere's a tugging sensation you can numbly half-feel slowly making a circle around your head where the skin and muscle have been peeled back. In some distant way you know that should probably hurt, but it just feels odd instead. The tugging sensation is gone now, and the top of your head doesn't feel numb any more. It doesn't feel like anything. After that you hear someone say that both patients are ready for 'stage two', and a moment later your senses start cutting out one after another. First hearing, then sight, smell, touch, all of the secondary senses, then large chunks of your body seem to go numb and fade away one after another.<br>\r\n<br>\r\nSoon there is only your thoughts. It would be alarming but you expected this. It's actually quite calm. Peaceful.<br>\r\nIt is so bizarre being fully awake yet completely unaware of the world.<br>\r\n<i>I'm probably just a brain now.</i> you think to yourself.<br>\r\nPart of you can't help but wonder if there's a way to make this a regular thing, it's really relaxing.<br>\r\n<br>\r\nYou'll probably be like this for a while. the info pamphlet said something about an 8 hour recovery period for the grafted brain to bond to it's new body... you had assumed you would be asleep or off in some sedative induced la-la-land for that part, but it seems not...<br>\r\n<br>\r\nwhile you have time to think though, something you hadn't put much consideration into comes to mind... who should you tell about this after it's done?</span></div></div>",
+            "created":1498280400,
+            "id":2342002,
+            "title":"A plain average girl."
+        },
+        "1112111122112":{
+            "choices":[
+                "The nerdy kind of girl.",
+                "No, another type of girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you perhaps the nerdy kind of girl? The one that rather reads and is interested in science fiction rather than the latest gossips?</span></div></span></div>",
+            "created":1505624400,
+            "id":2387062,
+            "title":"Another type of girl. "
+        },
+        "11121111221121":{
+            "choices":[
+                "open head surgery.",
+                "sucking through your ear."
+            ],
+            "content":"<div class=\"\"><div> <span>If you had to be true to yourself, you'd rather describe yourself as a nerdy kind of girl. Your chestnut hair is at shoulder length, always in the same style. That's kind of convenient since the hairdresser always knew what you wanted and you didn't have to talk to her all the time and instead read your comics. You wear glasses, the big ones, since those were the cheapest. Your breasts were kind of average; you didn't think much of them. After all you wear baggy clothes most of the times, jeans and sweaters that always looked too big on your petite frame. But who cares about things like that? You had a best friend after all, Abby and she was a nerd like yourself. Most afternoons you ended up in one of your rooms reading comics and discussing the latest episodes of GoT. <br>\r\n<br>\r\nYour stepmother however didn't understand your life and you didn't understand hers either. That's why you suggested this brain transplant, a perfect opportunity since you were curious how it would be switching brains. Your stepmother agreed immediately and the appointment was set up. You filled the form in and hand it back to the receptionist. She looked through it and then pointed you to a room where you needed to go in. <br>\r\n<br>\r\nInside the room a female doctor, her black hair in a strict bun, was standing. She explained you needed to undress yourself and put on the hospital gown after which the procedure would get started. You simply nod your head as the doctor leaves you to get undressed. With a deep breath you pulled off the thick sweater you were wearing together with the loose jeans. The plain white bra and the panties had to go as well. Looking down at your body you realize it would be a while before you would see it again and feel it of course. You quickly pull on the hospital gown after which the doctor came back. She explained the procedure would involve..</span></div></div>",
+            "created":1505624400,
+            "id":2387065,
+            "title":"The nerdy kind of girl."
+        },
+        "111211112211211":{
+            "choices":[
+                "A select few/ everyone will know about it.",
+                "Nobody will know about this. It will be you and your step-mother's secret."
+            ],
+            "content":"<div class=\"\"><div> <span>The procedure was as simple as it was elegant. The doctors would cut open your head with a special laser, disconnect your brain from your body, doing the same thing with your stepmother and then connect everything together. The only downside was that the procedure would take a few hours. You just nod your head as you are dying to see this thing through. <br>\r\n<br>\r\nThe doctor then told you to lie on the stretcher they prepared for you. You lie down on it and as you are wondering what would happen next you feel the sharp point of a needle in your arm. \"Sorry.\" The doctor excuses herself. \"We just need to inject you with this special formula we created. It's not like you are being anesthetized but something similar to it. <br>\r\n<br>\r\n\"What, what will happen?\" You ask her curious. The doctor then looks around like she shouldn't tell you. \"The formula we created will allow the connections your brain makes to your body be, how should I put it? disconnected. Of course we need to replace all bodily functions with machines and that's why we need to hurry up to the operation room.\" The doctor nods to you as she moves the stretcher with you on it away to the operating room. <br>\r\n<br>\r\nThe strangest is that the formula sounds like nonsense to you, but you are feeling it's effects slowly. Already you can't feel your feet anymore. You hope that it will be over soon. Being pulled into the operating room you can see another stretcher already be there; probably your stepmother lying on it. The doctors turn you around making you and your stepmother's heads close to one another. Without anyone saying anything you feel a mask being put on you. Gas enters through the mask and you can't help but breath the gas in. You try to stay awake, this is a once in a lifetime opportunity, but you feel dizzy and fall asleep. <br>\r\n<br>\r\nThe next thing you know, you are somewhere else. You feel different somehow; like someone has cut off all your limbs and your floating somehow without the need to breath. You can remember that the doctor told you about that your brains were supposed to be placed inside a jar. To make sure your brains got enough nutrients to make the jump into another body. <br>\r\n<br>\r\nThe thought about being just a brain inside a jar gives you a feeling of joy, were it not that you couldn't do anything or see anything. The only thing you could do was think. This sucks. You couldn't wait for the transplant to happen. Being placed inside your stepmother's body. What a joy it would be compared to this. That said, will anyone know about the transplant.</span></div></div>",
+            "created":1507438800,
+            "id":2398278,
+            "title":"open head surgery."
+        },
+        "1112111122112112":{
+            "choices":[
+                "Small but full-figured.",
+                "Average length and skinny."
+            ],
+            "content":"<div class=\"\"><div> <span>The brain transplant was done under one condition both you and your stepmother agreed on; that nobody knows about the transplant. Not your friends nor your family. You both have to pretend to be the other person so that you really can experience the other's life. It was one of the things you both agreed on. Your father and your best friend both thought that you and your stepmother are on vacation, to strengthen the bond, at least that's the lie you both told them. As the procedure takes the whole week you needed a valid excuse not to make them suspicious. <br>\r\n<br>\r\nAs you're thinking this whole thing through you suddenly feel some sort of trembling. It's hard to feel being only a brain but it feels like you, or rather brain, is being shaken while being inside the jar. It probably means that your brain is charged with enough nutrients to survive the jump into your stepmother's brain. <br>\r\n<br>\r\nWithout a notice you suddenly feel something grabbing hold of you. It tries to hold firm but gently as not to damage your brain. The person raises you out of the jar as you no longer can feel the water you were gently floating in. It's an experience of itself and you hope you can do it sometime again. But not for now, now you were going to be transplanted into your new body. <br>\r\n<br>\r\nThe doctor's put you into your stepmother's open skull. As you're curious to know what the next thing is, you feel yourself being covered in some kind of substance. It's then that you suddenly feel amazing, fantastic even! Like you could spread yourself all around. And surprisingly that feeling becomes reality as you develop little nerves trying to connect with your stepmother's body. As time passes you can feel yourself spreading around even faster. And as the last nerve gets connected a rumbling sensation occurs in your brain knocking you out. The doctors who are in charge of operation know the operation is a success and you and your stepmother are returned to private rooms. <br>\r\n<br>\r\nBut before continuing how does your stepmother look? Is she small but full-figured or is average length and skinny?</span></div></div>",
+            "created":1510290000,
+            "id":2413394,
+            "title":"Nobody will know about this. It will be you and..."
+        },
+        "11121111221121121":{
+            "choices":[
+                "You go to the bathroom to check yourself out.",
+                "Your mother inside your body enters the room.",
+                "A doctor with his nurse enter the room. "
+            ],
+            "content":"<div class=\"\"><div> <span>Your stepmother is small, even smaller than you, But she makes up for her size with her charming personality and her body. For as she is small she is rather voluptuous. Something you wouldn't mind being for once instead. She has long curly brown hair that rests on her shoulders, her face like her figure is rather big, showing off her double chin. She can't help it though as eating is one of her favorite hobbies. That's why she's always cooking in the kitchen, trying to get you to eat some more as well. Sadly you have to pass as you are lactose intolerant. A pleasant thought occurs that while in your stepmother's body you can finally get to eat one of her cakes. And with that thought in mind you suddenly fall asleep as your brain finds itself hooked to your stepmother's body.<br>\r\n<br>\r\nWhen you wake up your eyes open wide as you look around you. It looks like some hospital room, the white walls, the linoleum floor and of course that familiar odor that hospitals always carried with them. It's then that you realize you can see everything again, you're no longer a brain in a jar. You're in a body again. At least that's how it feels. You can feel your fingers touching the sheets covering you, your feet resting on the mattress, your hair lying on your shoulder. With that observation it should be that you were now in your stepmother's body. But was it really true? There would be only one way to find it out. </span></div></div>",
+            "created":1525323600,
+            "id":2487768,
+            "title":"Small but full-figured."
+        },
+        "111211112211211211":{
+            "author_id":"rimo213",
+            "author_name":"Rinko26",
+            "choices":[
+                "Go even further.",
+                "Stop at it."
+            ],
+            "content":"<div class=\"\"><div> <span>You feel excited as you pull off the sheets. This would be the perfect moment to check yourself out; to see if this thing really worked. You move yourself sidewards and slide off the bed. The moment your feet touch the ground you can already feel it's different; it's like your feet have been programmed different. While you usually tend to put your feet completely on the ground, you now automatically put your toes down first and then the rest of your feet.<br>\r\n<br>\r\nRemarkable. You think as you look at the wall in front of you. Then again, it's not the only different thing. The rest of your upper body feels different as well. It's like someone has shoved down a whole pile of pillows down your throat. You feel so large. But you try not to think about it until you have checked yourself out. You step gently on the ground, the moment you do you feel yourself being pulled forward.<br>\r\n<br>\r\n\"Wow, easy there.\" You tell yourself. Even your voice sounds different. Neat! You then quickly make your way to the bathroom feeling your behind gently jiggling. She's not only top heavy, but down below she has a jiggly ass as well. <br>\r\nOpening the door and stepping inside you take a deep breath of air as you prepare yourself mentally. This is even way more exciting than the last episode of GOT. Stepping in front of the mirror you see your stepmother's surprised look looking back at you.<br>\r\n<br>\r\n\"This is real.\" You tell yourself as you step closer to look at your reflection. There it is, your stepmother's face. Her chubby cheeks, her shiny brown eyes which look a bit dull at the moment. Her long curly hair is all messed up but you don't pay much attention to it, you never found your hair that important at all. You're only missing the light amount of make-up. Some mascara and red lipstick.<br>\r\n<br>\r\nThen you take a look down. Your stepmother's body; you swallow hard as this is something you were hoping for. You were always so thin like a stick, but now you feel like a real woman. You see the large breasts sticking out from underneath the hospital gown; the rolls of fat that cling to your gut; though you were surprised by your stepmother's legs. There were sturdy, but not fat or anything like that. Though they are larger than your own. Turning around and looking back you can see the ass you have now. It looks big and doughy. Exactly as you would want it to be. <br>\r\n<br>\r\nIt's then at that moment that a thought occurs to you; should you try to check things out further? Or would it be too awkward and be something better for at home?</span></div></div>",
+            "created":1583688780,
+            "id":2798396,
+            "title":"You go to the bathroom to check yourself out."
+        },
+        "11121112":{
+            "choices":[
+                "It's a male sibling.",
+                "It's a female sibling."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it a male sibling or a female sibling you're going to transplant brains with?</span></div></span></div>",
+            "created":1446094800,
+            "id":2054216,
+            "title":"One of your siblings."
+        },
+        "111211121":{
+            "choices":[
+                "Twin brother?",
+                "Younger brother? (He's 13)"
+            ],
+            "content":"<div class=\"\"><div> <span>A male sibling of course. Your mother convinced you some how.<br>\r\n<br>\r\nSo which one of your male siblings did you transplant brains with?<br>\r\n<br>\r\n(It doesn't mean they have to be in the story, for example if you swap brains with your twin brother or your younger brother doesn't have to exist</span></div></div>",
+            "created":1476507600,
+            "id":2223638,
+            "title":"It's a male sibling."
+        },
+        "1112111211":{
+            "choices":[
+                "Shy, skinny guy",
+                "Average teen boy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of person is your twin brother?</span></div></span></div>",
+            "created":1476507600,
+            "id":2223640,
+            "title":"Twin brother?"
+        },
+        "11121112112":{
+            "choices":[
+                "Average girl but a bit of a tomboy?",
+                "Normal everyday teenage girl?"
+            ],
+            "content":"<div class=\"\"><div> <span>Your broher is a average teen boy, type of guy, He has a nice body (you have to admit that yourself). Long blond hair, fair skin and not bad in general.<br>\r\n<br>\r\nNot only that but his best friend is really cute and there really fun to hang around with. <br>\r\n<br>\r\nThat is why you have asked her to swap brains, letting her stay in your body and you in his. But what kind of girl are you yourself?</span></div></div>",
+            "created":1476507600,
+            "id":2223645,
+            "title":"Average teen boy"
+        },
+        "111211121121":{
+            "choices":[
+                "Improve his school grades?",
+                "Something else?"
+            ],
+            "content":"<div class=\"\"><div> <span>Next question <br>\r\n<br>\r\nHow old are you both? 14<br>\r\n<br>\r\nWhat are both of your sexual orientations straight Teen female and your twin brother is bisexual.<br>\r\n<br>\r\nLast few questions <br>\r\n<br>\r\nHow do you plan on making your brother life better?</span></div></div>",
+            "created":1476507600,
+            "id":2223647,
+            "title":"Average girl but a bit of a tomboy?"
+        },
+        "1112111211211":{
+            "choices":[
+                "Your nother in your body?",
+                "Your mother?"
+            ],
+            "content":"<div class=\"\"><div> <span>What is your brothers name and what is your name? <br>\r\n<br>\r\nMy name is Alex (Alexandria) Grace O'Brien and my nother is named after his our Irish grandad and he's called Kelly Jamie O'Brien.<br>\r\n<br>\r\nRight the question are done now, you go into a cubicle and prepare yourself for the procedure.<br>\r\n<br>\r\nIt took 6 hours and when you wake up, you open your eyes and see someone sitting at your bedside.<br>\r\n<br>\r\nWho is it?</span></div></div>",
+            "created":1476507600,
+            "id":2223650,
+            "title":"Improve his school grades?"
+        },
+        "11121112112112":{
+            "choices":[
+                "You try to get used to your brothers body?",
+                "You go to see Alex in your body?"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up and look over and see you mum sat there looking at you, she smiled and said how are you feeling Alex? I'm fine I feel ok I guess.<br>\r\n<br>\r\nYou look down and see you in your Kelly's body your twin brother, you look at your mum and say so does this mean Kelly is in my body now mum.<br>\r\n<br>\r\nYes darling, your the brother and he's the sister in our family now.<br>\r\n<br>\r\nMum look I'm sorry but well I'm straight so I still like boys so it will mean you'll have a gay sim, she smiled and said I don't care darling I love you no matter what Infact you could wear your old clothing and I wouldn't care as long as you improve your brother grades at school.<br>\r\n<br>\r\nWhat now?</span></div></div>",
+            "created":1484542800,
+            "id":2264477,
+            "title":"Your mother?"
+        },
+        "111211122":{
+            "choices":[
+                "Older sister.",
+                "Twin sister.",
+                "Younger sister."
+            ],
+            "content":"<div class=\"\"><div> <span>A female sibling of course. You wouldn't want your first brain transplant to be with a male, yet.<br>\r\n<br>\r\nSo which one of your female siblings did you transplant brains with?<br>\r\n<br>\r\n(It doesn't mean they have to be all three in the story, for example if you swap brains with your twin sister your older sister or younger sister doesn't have to exist).</span></div></div>",
+            "created":1446094800,
+            "id":2054218,
+            "title":"It's a female sibling."
+        },
+        "1112111221":{
+            "choices":[
+                "The bubbly, bimbo type of girl.",
+                "The shy, awkward type of girl.",
+                "Other type of girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's your older sister of course. But what kind of older sister is she?<br>\r\n</span></div></span></div>",
+            "created":1446613200,
+            "id":2056769,
+            "title":"Older sister."
+        },
+        "11121112211":{
+            "choices":[
+                "A skinny, nerdy kind of girl.",
+                "A normal kind of girl.",
+                "Another type of girl."
+            ],
+            "content":"<div class=\"\"><div> <span>Your sister is the bubbly, bimbo type of girl. She has an amazing hot body (you have to admit that yourself). Long blond curly hair, DD-cup breasts and a wasp figure a model would be jealous of. Not only that but she has the cutest boyfriends and the most fun girlfriends to hang around with. <br>\r\n<br>\r\nThat is why you have asked her to swap brains, letting her stay in your body and you in hers. But what kind of girl are you yourself?</span></div></div>",
+            "created":1448686800,
+            "id":2067641,
+            "title":"The bubbly, bimbo type of girl."
+        },
+        "111211122112":{
+            "choices":[
+                "Head Opening",
+                "Sucked Through Ear"
+            ],
+            "content":"<div class=\"\"><div> <span>You yourself are admittedly pretty run-of-the-mill. You have shoulder height brown straight hair, B cups, and a textbook average body. You've never really gotten that much attention from boys, but other girls love your presence. <br>\r\n<br>\r\nFinally, the sheet asks for preferred method of brain swapping.</span></div></div>",
+            "created":1477717200,
+            "id":2230145,
+            "title":"A normal kind of girl."
+        },
+        "1112111221121":{
+            "choices":[
+                "Yep!",
+                "Actually, I had some questions..."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to go with the classic way of it. Tried and true! <br>\r\n<br>\r\nYou hand the information sheet back to the receptionist. She smiles as she grabs it and eyes it over quickly. <br>\r\n<br>\r\n\"Both of you, please come this way.\" She says, as she presses a button to open a steel door next to you. You and your older sister stand up and move through the halls, noticing rooms where brains are being removed and swapped. Finally, you reach a room near the end of the hallway. The receptionist opens the door and you both step in.<br>\r\n<br>\r\n\"The swapper will be with you shortly. If you could both be seated in those two chairs, that would be great.\" She says, pointing towards two leather chairs in the center of the room. You and your bimbo sister take your seats.<br>\r\n<br>\r\nYou and your sister chat eagerly about the procedure while you wait. Finally, a tall middle-aged woman steps into the room. <br>\r\n<br>\r\n\"Are you two ready?\" She asks.</span></div></div>",
+            "created":1477717200,
+            "id":2230149,
+            "title":"Head Opening"
+        },
+        "1112111221122":{
+            "choices":[
+                "Yes!",
+                "Actually, I had some questions..."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to go with the new, experimental method. <br>\r\n<br>\r\nYou hand the information sheet back to the receptionist. She smiles as she grabs it and eyes it over quickly. <br>\r\n<br>\r\n\"Both of you, please come this way.\" She says, as she presses a button to open a steel door next to you. You and your older sister stand up and move through the halls, noticing rooms where brains are being removed and swapped. Finally, you reach a room near the end of the hallway. The receptionist opens the door and you both step in.<br>\r\n<br>\r\nThe strange metallic room contains two seats, with tubes dangling from the ceiling next to them. <br>\r\n<br>\r\n\"Please take a seat. This procedure doesn't last long. Are you ready?\" She asks.</span></div></div>",
+            "created":1477717200,
+            "id":2230151,
+            "title":"Sucked Through Ear"
+        },
+        "11121112211221":{
+            "choices":[
+                "...What happened?"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Great!\" She says, with beaming enthusiasm.She walks over to the tube next to you and grabs it by the end. She parts your hair, and begins to slowly insert it.<br>\r\n<br>\r\n\"This may feel a little weird...\" She says, as she sinks the tube deeper into your head. Finally, she stops. She moves over and does the same to your sister.<br>\r\n<br>\r\n\"We need to lube up your brains... as they will be sliding out of your ears. This will just take a moment.\" She flips a switch, and strange liquid flows through the tube and into your brain. You find it harder to focus as your brain is drenched in the liquid.<br>\r\n<br>\r\n\"You might feel dizzy, but that's just temporary. Now you're ready!\" She tells you. She puts her finger over a large red switch on the other side of the room. She presses down on it, and you feel a hard suctioning in you ear. Your face contorts into a cringe as you can feel your brain being pushed through your ear. You can see it beginning to emerge from your ear, until everything goes black.</span></div></div>",
+            "created":1477717200,
+            "id":2230156,
+            "title":"Yes!"
+        },
+        "111211122112211":{
+            "choices":[
+                "Intervene, and tell her to be careful?",
+                "See what happens..."
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up with an extreme headache. Something feels... off. You look down at your hands and realize those are most definitely not your hands. You notice long, flowing blonde hair running down your body and bulging tits on your chest.<br>\r\n<br>\r\nHoly shit. It worked.<br>\r\n<br>\r\nYou quickly look over to your former body. Your sister is now playing with once was what your boobs. The receptionist is nowhere to be found, but a note in your lap reads:<br>\r\n<br>\r\n<i>Enjoy your new body! Please remain seated while your brain is rewiring itself for your new body, as moving too much may cause potential damage.</i><br>\r\n<br>\r\nWith that in mind, you look over to your sister, who is standing up. Should you...</span></div></div>",
+            "created":1477717200,
+            "id":2230162,
+            "title":"...What happened?"
+        },
+        "1112111221122111":{
+            "choices":[
+                "Go to the mall.",
+                "Go straight home."
+            ],
+            "content":"<div class=\"\"><div> <span>You're not sure what kind of damage will happen, but you don't want to find out. So you tell your sister to sit down quickly.<br>\r\n<br>\r\n\"Oops, sorry.\" She says with that irritating giggle of hers; you roll your eyes as it doesn't sound right with your old body saying it.<br>\r\n<br>\r\nSo you both sit down for a while. At first you're doubting what the receptionist said was true, but you get these little shocks inside your head. Like your brain connects itself to your sister's body.<br>\r\n<br>\r\nIt's at that moment you suddenly see a green light glowing above you. It must be the rewiring process being finished.<br>\r\n<br>\r\n\"I think it's done.\" You tell your sister.<br>\r\n<br>\r\n\"Finally, I was, like, so bored.\" Your sister tells you with an annoyed expression on your former face. She stands up with ease. You however have to walk with your sister's high heels. Only wearing high heels on special occasions they prove quite a challenge. Not to mention your breasts which are more affected by the gravity pulling you over.<br>\r\n<br>\r\n\"Not so easy right.\" Your sister tells you as she walks easily on the sandals you wore before.<br>\r\n<br>\r\n\"I'm getting there.\" You say grinding through your teeth as you try to take more steps. After a few more minutes you finally get the hang of it. Your sister then takes you by your arm and pulls you outside. At the reception you see some guys sitting there and when you turn up all their eyes turn to you, resting on your body. You feel yourself getting warm by the thought these guys now want to, while before they wouldn't even look at you. Your sister notices the attention and quickly drags you outside. </span></div></div>",
+            "created":1487998800,
+            "id":2282151,
+            "title":"Intervene, and tell her to be careful?"
+        },
+        "11121113":{
+            "choices":[
+                "An uncle or Aunt.",
+                "A cousin.",
+                "A grandparent"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's not someone of your immediate family, but someone else. Who could it be?</span></div></span></div>",
+            "created":1521349200,
+            "id":2466089,
+            "title":"An uncle, aunt or other relative."
+        },
+        "111211133":{
+            "choices":[
+                "Your grandfather.",
+                "Your grandmother."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was not someone of your immediate family. You were here out of the goodness of your heart and the fact that the person was willing to pay the clinic and you for it. <br>\r\n<br>\r\nWho were you talking about?</span></div></span></div>",
+            "created":1532754000,
+            "id":2525855,
+            "title":"A grandparent"
+        },
+        "1112111332":{
+            "choices":[
+                "A sexy seductress trying to flaunt what she still has.",
+                "A sweet and kind old lady. ",
+                "An uptight and strict old lady."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was your grandmother. After a sister of her passed away she got a small portion of the inheritance. With that money she was willing to pay for the clinic. But what kind of grandmother is your grandmother?</span></div></span></div>",
+            "created":1533618000,
+            "id":2530346,
+            "title":"Your grandmother."
+        },
+        "11121113321":{
+            "choices":[
+                "The plain girl.",
+                "The nerdy kind of girl.",
+                "Some other type of girl."
+            ],
+            "content":"<div class=\"\"><div> <span>Your grandmother was still busy finding a suitable husband after your grandfather passed away. Deciding on not to marry a man older than her, she decided on someone younger. Sometimes way younger. She once came home with someone in her twenties, a guy you could have been dating. After that she dated guys a little older, but she once told you she wouldn't mind dating someone in their twenties again. <br>\r\n<br>\r\nSo that's why you are here. Granting your grandmother her dearest wish. <br>\r\n<br>\r\nBut what kind of girl are you?</span></div></div>",
+            "created":1536728400,
+            "id":2546767,
+            "title":"A sexy seductress trying to flaunt what she sti..."
+        },
+        "111211133211":{
+            "choices":[
+                "Wishing you good luck with the transplant (they know about it).",
+                "Telling you to have a nice day with your grandma (they don't know about it).",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><div> <span>You would describe yourself as a rather plain girl. Not the most beautiful girl but neither real ugly. You have long brown hair, a rather plain face, barely wear any make-up and you have a few friends you enjoy hanging out with. <br>\r\n<br>\r\nDescribing your body didn't make you feel any special either. You're taller than your grandmother, skinny, with small sized breasts. Your grandmother always shaking her head when you would go shopping with her, blaming it on your father's side of the family as your grandmother and mother are more curvy than you. But you're happy with how you look at and soon your grandmother has to be as well.<br>\r\n<br>\r\nSetting your signature on the form you give it back to the receptionist; looking at your cellphone you see your friends send you messages.<br>\r\n<br>\r\nWhat are the messages about?</span></div></div>",
+            "created":1537160400,
+            "id":2548984,
+            "title":"The plain girl."
+        },
+        "1112111332112":{
+            "choices":[
+                "open-head surgery",
+                "sucking through your ear.",
+                "some other procedure."
+            ],
+            "content":"<div class=\"\"><div> <span>You text the girls back thanking them. Just as your granny's friends don't know about the swap either. Nobody knows about it. Your granny loves a little role playing and just wants to try to pretend to be you. Not objecting to it either. Thinking it could be fun. Even more fun would be to have your mom respect you as her mom. That would be awesome.<br>\r\n<br>\r\nSuddenly a nurse comes towards you and calls you forward. This is it, the moment you are waiting for. The nurse shows you to a room where you get to sit down. The nurse explains how the transplant involves...</span></div></div>",
+            "created":1537160400,
+            "id":2548988,
+            "title":"Telling you to have a nice day with your grandm..."
+        },
+        "11121113321121":{
+            "choices":[
+                "Examine yourself more closer.",
+                "Granny arrives inside the room.",
+                "Granny's POV."
+            ],
+            "content":"<div class=\"\"><div> <span>The procedure was as simple as it was elegant. The doctors would cut open your head with a special laser, disconnect your brain from your body, doing the same thing with your granny and then connect everything together back again. The only downside was that the procedure would take a few hours. You just nod your head.<br>\r\n<br>\r\nThe nurse then points you to a folding screen where you change into an hospital gown. You undress yourself and pull on the hospital gown instead, feeling like a real patient.<br>\r\n<br>\r\nYou are then taken to an operating room where you have to lie on the stretcher. You lie down on it and as you are wondering what would happen next you feel the sharp point of a needle in your arm. \"Sorry.\" The doctor excuses herself. \"We just need to inject you with this special formula we created. It's not like you are being anesthetized but something similar to it.\"<br>\r\n<br>\r\n\"What, what will happen?\" You ask her curious. The doctor then looks around like she shouldn't tell you. \"The formula we created will allow the connections your brain makes to your body be, how should I put it disconnected. Of course we need to replace all bodily functions with machines. So you get to sleep soon.\" She tells you as she goes off again.<br>\r\n<br>\r\nThe strangest is that the formula sounds like nonsense to you, but you are feeling it's effects slowly. Already you can't feel your feet anymore. You hope that it will be over soon. Being pulled into the operating room you can see another stretcher already be there; probably your granny lying on it. The doctors turn you around making you and your granny's heads close to one another. \"Good luck sweetie.\" She tells you. Before you can reply someone puts a mask on your face. Gas enters through the mask and you can't help but breath the gas in. You try to stay awake, but you feel dizzy and fall asleep. <br>\r\n<br>\r\nThe next thing you know, you are somewhere else. You feel different somehow; like someone has cut off all your limbs and your floating somehow without the need to breath. You can remember that the doctor told you about that your brains were supposed to be placed inside a jar. To make sure your brains got enough nutrients to make the jump into another body. <br>\r\n<br>\r\nThe thought about being just a brain inside a jar gives you a feeling of anxiety, were it not for your granny you wouldn't have done this. You just hope this is over fast and good. You weren't looking forward to be some brain in a jar for all of eternity. Then something pushes down on you and you feel yourself floating in the air, before being lied down. Was this perhaps the part of brain being put inside your granny's head? You can only hope and pray this is over soon. As you are thinking if something is going to happen, you are hit with a shock and everything fades away.<br>\r\n<br>\r\nIt just feels like a few minutes, but it must have been hours as you open your eyes again. You have been brought in a hospital room it looks like. Everything looks different somehow, less sharp than before. Not to mention how different your body feels, it feels less energetic. And it feels like someone put something on your chest.<br>\r\n<br>\r\n\"I'm Granny.\" You realize as the words escape your granny's mouth.</span></div></div>",
+            "created":1537160400,
+            "id":2548997,
+            "title":"open-head surgery"
+        },
+        "111211133211211":{
+            "choices":[
+                "your granny.",
+                "one of the nurses."
+            ],
+            "content":"<div class=\"\"><div> <span>This was unbelievable. You thought it was some kind of joke at first, that they would just put you to sleep and you would wake up in some kind of abandoned hospital or some sort. But this was real, you were really inside your granny's body. <br>\r\n<br>\r\nNoticing a door at the opposite end of your room you suppose it's the bathroom. They probably have a mirror inside there. You really want to be a hundred percent be sure that this is real. <br>\r\n<br>\r\nYou pull the sheets away noticing your legs. While you were happy with your tanned covered legs you are surprised to see how much different they are now. No longer they are young and supple, but they look old and wrinkly. It's definite certain that you are in an older's woman body, but if it's your granny is the question. <br>\r\n<br>\r\nYou step out of the bed and feel yourself getting a little dizzy as you fall onto the wall. Your legs aren't as strong as they were and the weight distribution is different as well. Feeling yourself well enough you carefully step your way to the bathroom. Inside the bathroom you move to the mirror. <br>\r\n<br>\r\nIt's unbelievable as it's your granny standing opposite you. Her short white hair, her sharp nose, her green eyes. It's all you. Moving your hand up you see your granny doing the same. \"It's unbelievable.\" You murmur hearing your voice being different as well. Not to mention the height, everything looks so much bigger. Looking down you see the rest of your body being clad in the hospital gown. It looks so different. Your can see your hips sticking out much more, not to mention your breasts which are pulling down the gown. Raising your arms you can see your granny's chickenwings she always hated. Now yours.<br>\r\n<br>\r\n\"It's weird to look at her like that.\" You tell yourself as you admire yourself in the mirror. Though you are disappointed a little, you aged from 16 to 65. You can only hope granny wants to swap back with you when the time comes. Speaking of granny, you haven't seen her yet and should find her. <br>\r\n<br>\r\nAs you open the door you find...looking for you.</span></div></div>",
+            "created":1540875600,
+            "id":2570639,
+            "title":"Examine yourself more closer."
+        },
+        "1112112":{
+            "choices":[
+                "A male friend.",
+                "A female friend.",
+                "A hermaphrodite "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's a friend of course. Being someone from your family might be a bit awkward to react and trusting a stranger with your body is going too far.<br>\r\n<br>\r\nSo you fill in your friend. What kind of friend is he or she?</span></div></span></div>",
+            "created":1533618000,
+            "id":2530348,
+            "title":"A friend."
+        },
+        "11121122":{
+            "choices":[
+                "Nerdy kind of girl.",
+                "Sportive kind of girl.",
+                "Another type of girl."
+            ],
+            "content":"<div class=\"\"><div> <span>It's one of your female friends of course. Boys might not make the best partners to swap brains with, at least not yet.<br>\r\n<br>\r\nSo it's one of your friends. If you would have to describe your female friend , how would you describe her?</span></div></div>",
+            "created":1536728400,
+            "id":2546819,
+            "title":"A female friend."
+        },
+        "111211221":{
+            "author_id":"tamelbrun",
+            "author_name":"Tam Elbrun",
+            "choices":[
+                "Thats all, on with the story!",
+                "There's more to fill out"
+            ],
+            "content":"<div class=\"\"><div> <span>Well, considering your friend Melanie went in there ahead of you about half an hour ago, the answer to that one is obvious. as for what she's like, She's about a foot shorter than you, nearsighted, excitable, shy, has short cropped brown hair, and is an aspiring writer. Basically your opposite in every way.<br>\r\nOh and she's also been your best friend since kindergarten.<br>\r\n<br>\r\nWhich would make it all the more baffling how she talked you into this, were it not for her motivation's being as transparent as glass.<br>\r\n<br>\r\nWhile you're in this for the sake of trying something different, melanie is in this for Travis. He's been annoying you with terrible pickup lines you have no interest in for the last two weeks, while melanie has an almost stalker-level crush on him. She thinks you don't know, but you do. She's not as subtle as she thinks she is.</span></div></div>",
+            "created":1536814800,
+            "id":2547434,
+            "title":"Nerdy kind of girl."
+        },
+        "111211222":{
+            "author_id":"rilo43",
+            "author_name":"Rempa21",
+            "choices":[
+                "Swimming.",
+                "Some other sports"
+            ],
+            "content":"<div class=\"\"><div> <span>Your friend isn't nerdy, far from it. She is always busy with her favorite sport. Day in and day out, it's only that which she cares about. So much in fact that these last few months your friendship has been neglected. To your surprise she offered to do this with you so you can find out how it really is, without making a fool of yourself. Seeing as there's nothing important going on right now, you accepted her offer.<br>\r\n<br>\r\nBut what kind of sports is she into?</span></div></div>",
+            "created":1575575340,
+            "id":2755884,
+            "title":"A sport kind of girl"
+        },
+        "111211223":{
+            "choices":[
+                "emo",
+                "stuck-up",
+                "something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You wouldn't describe her as nerdy or sportive. No, you found her to be more like...</span></div></span></div>",
+            "created":1540875600,
+            "id":2570602,
+            "title":"Another type of girl."
+        },
+        "1112112233":{
+            "choices":[
+                "Yes, that she is.",
+                "No, she isn't."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about she is into being a Goth?</span></div></span></div>",
+            "created":1609174980,
+            "id":2965321,
+            "title":"something else."
+        },
+        "11121122331":{
+            "choices":[
+                "No, you're an ordinary girl.",
+                "Yes or perhaps you belong to another group."
+            ],
+            "content":"<div class=\"\"><div> <span>Abby, or Agatha as she calls herself, is really into the goth scene. Her short hair, which once was brown, has been dyed black ever since she discovered the scene. Her skin is pale, which she boasts is getting paler by bathing in the light of the full moon. She usually wears heavy mascara and paints her lips black. She is not seen without wearing her high heeled boots to give her that extra boost. Black clothes are her thing, whether a black t-shirt or a black skirt, or both if she can. <br>\r\n<br>\r\nBut who are you? Are you Goth as well?</span></div></div>",
+            "created":1609175340,
+            "id":2965327,
+            "title":"Yes, that she is."
+        },
+        "111211223311":{
+            "choices":[
+                "open head surgery.",
+                "sucking your brain through your ear."
+            ],
+            "content":"<div class=\"\"><div> <span>You don't want to sound rude, but you consider yourself an ordinary average girl. You have long blond hair, usually tied in a ponytail. Your figure is average, you're of average length, you have an average figure. Everything about you is average. You found yourself too average and wished for some change, perhaps that's why Abby had that talk with you last week. While still waiting for your turn, you think about it.<br>\r\n<br>\r\nYou were hanging around in her room. You didn't visit Abby that often. She usually spend her time with her other goth friends. But this time she suddenly asked you to come over. Your other friends raised their eyebrows. They didn't get why you still were on speaking terms with Abby. She was so different than they were. But Abby and you had history, you met up a few years ago when she was still normal, or at least normal looking. Even then she was a bit odd, having a weird sense of humor. But she was a good friend to have around, especially when you were going through that being bullied phase. In a way it felt like you owned her a debt that you had not paid back. <br>\r\n<br>\r\nAbby's room was 'different' than yours in more than one way. Just like Abby herself, her room screamed goth. From the stone dragons looking coyly at you from their place on the wardrobe to the skull doorknobs of her bedside table. Abby was lying on her back, smoking a cigarette. Abby offered you a cigarette as well, but you declined. You tried it once and it tasted awful. You didn't understand how Abby could stand it. But it was the same for coffee which she loved to drink, but you'd rather prefer a soda.<br>\r\n<br>\r\n\"So, what did you think?\" Abby asked you having a coy look in her eyes.<br>\r\n<br>\r\n\"It was...okay.\" You told her. She had just played off a song which she was interesting in, though you couldn't understand a word the vocalist spoke. It sounded more like grunts. <br>\r\n<br>\r\n\"Forget it, I can see it, you didn't get it.\" Abby took another drag and as she blew she let out smoke. \"You were never good at lying. I can see it. So I wanted to meet up with you for a reason.\" <br>\r\n<br>\r\n\"You do?\" You asked confused as to where Abby was going. Abby nodded as she pulled herself up, her chest jiggling from the movement. She moved over to her bedside table. Looking over you noticed as Abby was busy doing something in the drawers that her skirt was lifted up. Underneath it you could make out a small black thong, covering her nether regions. Feeling awkward having seen that you quickly look another way. <br>\r\n<br>\r\n\"Here it is.\" Abby threw a piece of paper at you which you just caught. It was an ad for a place called the Brain Center.<br>\r\n<br>\r\n\"One of my friends just found out about it. It's wicked awesome. They do anything with brains, increase your intelligence, lower it, whatever.\"<br>\r\n<br>\r\n\"Okay, but what has that to do with me? Or are you suggesting I should raise my IQ?\" You joked.<br>\r\n<br>\r\n\"Yeah right, like you need it. You're smart enough as you are. No, it's something else. What they also do is switch brains. And I would think it would be awesome if we switched brains.\" She pointed out.<br>\r\n<br>\r\n\"Which would mean...?\" You asked her to be sure to where she was going with this.<br>\r\n<br>\r\n\"I would be in your body and you would be in mine. It's awesome.\" Abby smiles which she didn't do much anymore.<br>\r\n<br>\r\n\"Abby, sorry Agatha,\" you correct yourself seeing Abby's look, \"it looks great, but why would you want to swap with me? I mean, I like that you asked me, but I'm not so special.\"<br>\r\n<br>\r\n\"Yes, you are.\" Abby looks at you with an intense expression on her face.\"You are funny, pretty, and you hang out with me. I mean, when I asked you to come over, your \"friends\" were just staring like I'm some sort of freak. But you didn't. You like me how I am and that's all that matters.\" Abby explains with such passion in her eyes you are startled by it.<br>\r\n<br>\r\n\"Sorry, I just like you the way you are. Even this side.\" She says quickly grabbing another cigarette. You were still pretty confused with what happened, but the way Abby spoke out, means she sees your friendship for real. <br>\r\n<br>\r\n\"So, are you in or out?\" Abby asked after a while. <br>\r\n<br>\r\n\"I-I'll do it.\" You said out loud finding the words sound odd to you.<br>\r\n<br>\r\nAnd here you are waiting for your turn. All of a sudden you are called to come with this nurse. You quickly stand up and follow the nurse to another room. Inside she explains what the procedure involves...</span></div></div>",
+            "created":1609185120,
+            "id":2965378,
+            "title":"No, you're an ordinary girl."
+        },
+        "11122":{
+            "choices":[
+                "Put it in a Jar.",
+                "Do what you will with it."
+            ],
+            "content":"<div class=\"\"><div> <span>Having a brain in your head has proven cumbersome. It sure would be nice if you could just get it plucked out of your head, wouldn't it? <br>\r\n<br>\r\nThe sheet asks one more question for this category. You need to specify what you would like done with your brain post-removal.</span></div></div>",
+            "created":1480482000,
+            "id":2244060,
+            "title":"A brain removal."
+        },
+        "111222":{
+            "author_id":"lexigcrp",
+            "author_name":"Lexirose",
+            "choices":[
+                "Take a seat!",
+                "Push her into the chair, see what happens."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide you don't care what they do with the silly hunk of meat once it's gone, it won't be your problem anymore. You check the box waiving custody of your brain and hand the forms back to the receptionist, she smiles politely and leads you to a simple room with a chair in it.</span></div></div>",
+            "created":1487221200,
+            "id":2278283,
+            "title":"Do what you will with it."
+        },
+        "11123":{
+            "author_id":"gothergother",
+            "author_name":"Gothergother",
+            "choices":[
+                "Lower IQ ",
+                "Raise IQ "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're a brilliant student but it's so stressful doing well all the time. You wish you could just do something to your brain Lighten the stress. You look at the custom job and after reading it, a check mark is made.</span></div></span></div>",
+            "created":1478926800,
+            "id":2235808,
+            "title":"A custom job."
+        },
+        "111231":{
+            "author_id":"lexigcrp",
+            "author_name":"Lexirose",
+            "choices":[
+                "Airhead is fine, I'd like to at least pass my classes.",
+                "My intelligence is a burden, and I need a vacation."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Lower IQ eh?\" The receptionist smiles \"Don't be embarrassed, it's a pretty common request. Ignorance is bliss after all!\". You giggle nervously as she jots down some notes on a pad before turning her attention back to you. \"Now our most commonly picked option is your basic airhead. Will that be fine or were you looking for something a little more...drastic.\"</span></div></div>",
+            "created":1481691600,
+            "id":2250114,
+            "title":"Lower IQ "
+        },
+        "1112312":{
+            "author_id":"lexigcrp",
+            "author_name":"Lexirose",
+            "choices":[
+                "Drain away!",
+                "On second thought...."
+            ],
+            "content":"<div class=\"\"><div> <span>You don't know what exactly she means by drastic but you decide it's worth trying and it would be so nice to not worry about grades for once. Once all the paperwork is done she leads you to a room and gestures to a chair, asking you to take a seat. You nervously sit down as restraints lock around your ankles and wrists. \"Don't worry, this is for your safety. If you try to move mid procedure you're likely to get hurt.\"<br>\r\n<br>\r\n\"Now\" she says, walking to a control panel. \"Are you sure about this? I'm afraid any changes are quite permanent.\"</span></div></div>",
+            "created":1481691600,
+            "id":2250121,
+            "title":"My intelligence is a burden, and I need a vacat..."
+        },
+        "11123121":{
+            "author_id":"lexigcrp",
+            "author_name":"Lexirose",
+            "choices":[
+                "Better stop there, I don't wanna be a like, idiot *giggle*",
+                "my brain looks so cute! I bet it would look even cuter shrunken down a few sizes"
+            ],
+            "content":"<div class=\"\"><div> <span>She flips a switch and a beam of light hits your forehead, at first there's nothing and then it's feels nice and tingly. Inside of your head it feels like there are delicate fingers deeply massaging your brain and you dopily grin as the feeling gets more intense. <br>\r\n<br>\r\nAs you notice it becoming harder to focus on anything other than your pussy you lightly giggle, you always hated that word but now it sounds kinda cute. The cat girl notices you writing in your seat as you rub your thighs together and powers off the machine. \"I forgot to warn you, as intellect goes down your libido may go way up.\"<br>\r\n<br>\r\n\"It's okie!\" You happily reply, unable to take your eyes off her perfect little breasts. She notices and blushes, clearly having trouble sticking to her job. \"Now, here's our progress so far. Are you happy with your current state of mind or shall we continue?\". She pulls up computer generated before and after images of your brain, it's now about 80% of the size it was before you came in and you can swear the ridges covering it look shallow.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1482642000,
+            "id":2254276,
+            "title":"Drain away!"
+        },
+        "111231212":{
+            "author_id":"nomsar",
+            "author_name":"Nomsar",
+            "choices":[
+                "The purple one! ",
+                "Not the purple one!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"My brain looks so cute! I bet it would look even cuter shrunken down a few sizes!\" you say proudly, a wide stupid grin on your face. The receptionist smirks, she's seen this before. \"Alright, well, since you might get to a point where you can't tell me anymore, let's choose now then...\" she says, as she swipes across the computer display. Several computer generated images of brains appear, each one highlighted a different color. She holds the display up to you, \"What color is the brain you want?\"<br>\r\n<br>\r\nThe first is at 60% your normal size, moronic and simple, at this size you're barely sentient. It is highlighted in purple.<br>\r\n<br>\r\nThe second is at 40% your normal size, a bit like a pet, you wouldn't even be able to talk with this brain, but might be able to walk and follow simple commands. It is highlighted in green.<br>\r\n<br>\r\nThe third is at 20% your normal size, absurdly small, you'd be able to crawl and drool, but little else. It is highlighted in pink.<br>\r\n<br>\r\nThe fourth is at 1% your normal size, a tiny little grape of a brain nestled in your head, unable to do much more than breathe, drool, and struggle to figure out how to masturbate. It is highlighted in a dark red.</span></div></div>",
+            "created":1484283600,
+            "id":2263042,
+            "title":"A few more sizes off of your brain"
+        },
+        "1112312121":{
+            "author_id":"acds",
+            "author_name":"Theacds ",
+            "choices":[
+                "You wake up feeling very slower, but can't articulate that to the assistant",
+                "The nurse wraps up the appointment and you're taken home to your roomate"
+            ],
+            "content":"<div class=\"\"><div> <span>You giggle, head lolling to the side. Its like fireworks in your brain! <b>Pop! Pop!</b> All the big thoughts, like, went away and stopped making your head hurt. It was tooootally gooder. Awww, your brain was so cute now! So small and... small...!<br>\r\n<br>\r\n<b>Pop pop pop!</b> Your... head words all fur-god-ten and you brainses... fuzzy... So fuzzy that...! Fuzzy!! <br>\r\n<br>\r\n\"Huh huh huh...\" Pretty lady say funny words. You no no... you... uh... \"Ouch!! Brain hurted...\"<br>\r\n<br>\r\nSeeing your pouty face rebel at the numbness of ignorance, the catgirl assistant smiles and pats your hollow head. You don't really react. Now too caught up in adjusting, your tiny mind can't notice. She releases the restraints, but drool is leaking out of your mouth and your eyes have crossed and glazed over. Oh well, there's no rush.<br>\r\n<br>\r\nAfter all, being so brainy and then suddenly so stupid must be an overwhelming sensation. But don't worry. Your mind will give out soon enough, and then your appointment will end, you can pay, and that'll be that for you! But it's not all bad. With 60% intelligence, you can still talk--more or less--and simple thoughts can struggle by in that silly mind of yours. And besides, I'm sure you'll be happier as a total dunce than a college girl, anyways.</span></div></div>",
+            "created":1504587600,
+            "id":2380439,
+            "title":"The purple one! "
+        },
+        "11123121211":{
+            "author_id":"nomsar",
+            "author_name":"Nomsar",
+            "choices":[
+                "T.V. boring! Time to explore this place!",
+                "The assistant returns seven hours later. You haven't moved an inch"
+            ],
+            "content":"<div class=\"\"><div> <span>---<br>\r\n<br>\r\nYou wake up from a gentle sleep in a bed in a different part of the brain center. A simple bedroom, a TV, a remote, you know what those are! You glance down at the remote in the bed, and see weird squiggles underneath the one button. What is this thing? You grin, drooling on your bare chest (when did you get naked?) and press the button. After a few seconds, the cat girl assistant walks in smiling.<br>\r\n<br>\r\nThe assistant smiles and approaches you, and says \"Hello dear, did you enjoy your nap? How are we feeling now that we've got sixty percent of our brain matter?\"<br>\r\n<br>\r\nUnfortunately, operating with only 60% of your brain matter, you only heard it as, \"Hello ???????? nap? How ??? feeling ?????? brain ???? ?\"<br>\r\n<br>\r\nYou groan and throw your pillow at her, she sidesteps it as you mumble. \"You talks too fast... too many big words...\"<br>\r\n<br>\r\nShe laughs a little, you laugh too. It's fun! She steps over to the television in the corner. \"Sorry,\" she says slowly. Idly, you begin to realize something is happening... some gentle hum, some kind of...<br>\r\n<br>\r\n<i>Brain, important?</i><br>\r\n<br>\r\nThere! A voice! From inside of your head! How did that happen? What- oh!<br>\r\n<br>\r\nShe's turned on the television and moved aside. There's a test pattern on screen. Pretty colors! You stare in wide eyed fascination, slack jaw dripping on yourself.<br>\r\n<br>\r\n\"We got some very interesting results from experimenting with your brain...\" the assistant says, standing in the doorframe. \"Normally we'd send you home, but we're going to keep you for observation and continued research. See you soon!\" With that, she leaves. Good! You weren't listening anyway. The pretty colors were way more important.</span></div></div>",
+            "created":1506402000,
+            "id":2392101,
+            "title":"You wake up feeling very slower, but can't ..."
+        },
+        "111231212112":{
+            "choices":[
+                "A stupid morning",
+                "Your roommate reacts to your new brain"
+            ],
+            "content":"<div class=\"\"><div> <span>The assistant came back with a folder in her hands, \u201cHere we go dear!  All good to go now!\u201d<br>\r\n<br>\r\nYou didn\u2019t notice her come in the room, the last several hours were spent by staring at the tv test pattern.  By now, your entire chin was coated in drool and a good portion of your breasts were as well, not that you noticed even that.<br>\r\n<br>\r\nThe assistant turned the tv off, getting your attention, \u201cReady to go home dear?\u201d  She asked.<br>\r\n<br>\r\nOf course all you hear was \u201c???? to go home ????\u201d<br>\r\n<br>\r\n\u201cI go home.\u201d  You said, still smiling dumbly, not quite focused on anything.<br>\r\n<br>\r\nAs the assistant helped you off the bed, she led you out the door and down the hall, at 60% brain power, you needed serious concentration to walk.  You were being led by the catgirl, but still had to look down to make sure that you moved your feet correctly.  You didn\u2019t notice that the assistant had forgotten to get you dressed either.  Of course, you never cared that the catgirl was naked as well, anthros went naked all the time.<br>\r\n<br>\r\nEventually, you found yourself standing at the street corner, and had been for some time, as the sun was strong when she\u2019d led you out here.  Now the sun had completely set, and the traffic had lessened, all while you\u2019d been standing there drooling on yourself.<br>\r\n<br>\r\n\u201cStill here dear?\u201d  The assistant asked as she locked up the center, \u201cDon\u2019t worry, I\u2019ll get you a cab.\u201d  She flagged down a cab for you and guided you inside, somewhere in the recesses of your mind, you knew to thank her.<br>\r\n<br>\r\n\u201cThank.\u201d  You said before returning to the vacant stare.<br>\r\n<br>\r\nThe assistant chuckled, \u201cNo problem dear, enjoy your new life!\u201d<br>\r\n<br>\r\nThe cab driver had to help you inside and once in the hall, he left.  You stood there for an unknown amount of time before finally, awkwardly walking yourself to bed.  But rather than use the covers, you simply fell on them, and started sleeping.</span></div></div>",
+            "created":1566018000,
+            "id":2703828,
+            "title":"The assistant returns seven hours later. You ha..."
+        },
+        "1112312121121":{
+            "choices":[
+                "You have several supportive low IQ classmates",
+                "You're the first classmate to get their IQ dropped"
+            ],
+            "content":"<div class=\"\"><div> <span>Waking up the next morning, you slowly get up, your coordination has been ruined by the drop in intelligence, so your walk down the hall was slow, looking down at your feet to ensure you were moving them right.  Awkwardly walking, more like toddling, into the kitchen you tried to end the hungry feeling in your belly.  You stood a good bit staring a thing the fridge, its shiny exterior capturing your mind completely, and you stood there validly staring at it, drooling on yourself again until your stomach growled, startling you.<br>\r\n<br>\r\n\"Wuh tha?\"  You, mumbled not really not able to talk right anymore.  You realized that you were just hungry, and looked for food, spying. A banana on the countertop in a fruit bowl, moving over there, you grab it and try to open it, grabbing at it, squishing it, and ultimately slam it on the counter, sending mashed banana everywhere.<br>\r\n<br>\r\nSeeing the food was now out of the mean banana peel, you started to pick it up with your fingers, sloppily licking them to get every piece of fruit off them.  After that, you stood there again, before hearing the alarm clock go off, letting you know it was time for class to start.  You weren't sure what the meaning of the alarm was anymore, but you did remember that it meant to leave the house and go to another, big place with lots of people.<br>\r\n<br>\r\nIt took significantly longer to leave the house since the doorknob distracted you with how shiny it was, but you eventually figured it out, it helped that the cab driver didn't close the door all the way.  Walking awkwardly out her dorm, she followed her muscle memory to the first class building, unaware and probably uncaring about your current state of being naked.</span></div></div>",
+            "created":1566018000,
+            "id":2703985,
+            "title":"A stupid morning"
+        },
+        "11123121211212":{
+            "choices":[
+                "A vegetable in physics ",
+                "An airhead in English "
+            ],
+            "content":"<div class=\"\"><div> <span>As your naked self followed the deeply engrained path to the lecture hall, your friends see you approaching.  There's Alicia (black girl, cheerleader, curvy body), Alice (brunette, nerd, average body), and Dave (he had his brain removed and put into a dalek-like robot body), and they all look at you in shock.<br>\r\n<br>\r\n\"Are you ok?!\" Alicia says, running up to you, grabbing your hands and looking quite concerned.<br>\r\n<br>\r\nYou just stare blankly at her, your eyes crossed a little bit and smile, \"I ok.\"  It takes a good bit before you continue, by now your other friends gathered around you, \"Go head place, fun.\"  You smile at the nice feeling that you experienced as your brain was reduced to barely functional.<br>\r\n<br>\r\n\"Oh,\" Alice said, \"she went to the Brain Center!  She said she'd be doing that yesterday...didn't know she'd do something <b>this</b> drastic though.\"  She looked concerned at you, it wasn't like you to do something so foolish.<br>\r\n<br>\r\n\"Is it reversible?\"  Alicia asked, looking at Dave and Alice.<br>\r\n<br>\r\n\"Negative.\"  Dave said from his attached speaker, \"Any changes initiated are permanent.  The mind is a very delicate thing.  She's only capable of reducing her intellect, or whatever remains of it, reduced even further.\"<br>\r\n<br>\r\nWhile your friends debated on things way over your head, you stared a thing Alicia's breasts, they were quite nice, and you started to drool again, smiling vacantly.<br>\r\n<br>\r\n\"We'll deal with what to do with little miss vegetable later guys, let's get to class!\"  Alice said, taking your other hand and guiding you without Alicia to the first lecture hall.  This could be interesting...</span></div></div>",
+            "created":1566018000,
+            "id":2704089,
+            "title":"You're the first classmate to get their IQ ..."
+        },
+        "111231212112121":{
+            "choices":[
+                "Alice discusses visiting the brain center after all the classes are through",
+                "Inattentive airhead in theatre"
+            ],
+            "content":"<div class=\"\"><div> <span>Physics was the one class where it was just you and Alice, the restaurant of your friends didn't have their schedules line up until the next class, not that you remembered this, you simply smiled dumbly as your naked self was dragged through the hall.  Eventually Alice got to the door and dragged you inside, sitting you down at a desk next to hers, and keeping a pretty good eye on you, not that's she needed to, you probably would only move if you saw something that was worth your puny brains attention.<br>\r\n<br>\r\nAs you sat there, naked and drooling on yourself in the middle of the lecture hall, the professor walked in and started talking.  He obviously didn't notice or care, but plenty of your classmates did, as you stared at the slides, a vacant smile on your cross eyed face, there were whispers about how happy you seemed now that you didn't really worrying about grades anymore, maybe you were on to something after all?<br>\r\n<br>\r\nWhen the end of the week quiz was passed out, and you were given a pencil to hold, which you held with all the grace and dignity of a 2 year old, as Alice and your classmates sweated and struggled with their quizzes, you simply smiled, and squiggled on your paper.  \"I test.\"  You said, looking a true Alice with a thousand dollar smile.  \"Look.\"  You slid the paper forcefully toward her, crumpling the paper slightly.<br>\r\n<br>\r\n\"Yes, I see that.\"  Alice said, slightly envious of how blissfully unaware you were of the class and quiz, maybe the brain center and you were onto something?<br>\r\n<br>\r\nAs Alice stood up to lead you to the next class, she gave you a good look at down her shirt, showing off what little she had up top, and your hands lunged forward, down her shirt.  Alice squealed, digging your groping hands out of her shirt as you giggled and drooled through your vapid smile.  Eventually, she got you out of her shirt and led you to the next class.</span></div></div>",
+            "created":1566104400,
+            "id":2704536,
+            "title":"A vegetable in physics "
+        },
+        "1112312121121211":{
+            "choices":[
+                "Skip right to the Brain center ",
+                "At the cafeteria, you become something of a celebrity "
+            ],
+            "content":"<div class=\"\"><div> <span>Your not too sure what the next class was since you took newest IQ wasn't really high enough to understand anything anymore.  You were too busy staring at yourself in a nearby mirror and playing with your own breasts, much to the embarrassment of Alice and Alicia, but much to the enjoyment of you right male classmates.  Meanwhile, Alice was having a discussion with your friends.<br>\r\n<br>\r\n\"I'm just saying, it looks like she was right about that place.\"  Alice said.<br>\r\n<br>\r\nAlicia wasn't buying it though, \"Are you crazy?!  Do you <u>want</u> to end up like her!?\"  She gestured over to you just as you had started licking the mirror to figure out how it worked.<br>\r\n<br>\r\nAlice shook her head, \"No!  But they say ignorance is bliss, with how happy she is now, I can't really say that they're wrong...\"<br>\r\n<br>\r\n\"Well,\" Alicia sighed, \"you've got me there.\"<br>\r\n<br>\r\nBy now you'd given up on licking the mirror and started grinding it, all the while having a massive smile on your face and drooling a good bit, completely unaware of your friends discussion.<br>\r\n<br>\r\nDave hadn't been too bus yet recording you to take part in the conversation.</span></div></div>",
+            "created":1566190800,
+            "id":2704652,
+            "title":"Alice discusses visiting the brain center after..."
+        },
+        "11123121211212111":{
+            "choices":[
+                "All the girls at once",
+                "Each girl one at a time"
+            ],
+            "content":"<div class=\"\"><div> <span>After a blissful day of school for you, and a nervous ones for Alice and Alicia, the four of you were heading to the Brain Center when you ran into another friend of yours, Lilly (who was a furry, to be specific, a German shepherd).  After hearing their story about your happy day in clas, and a good few minutes watching you chase a laser pointer (courtesy of Dave), or drool on yourself, she decided to join your group.  She'd always been curious about the center, and wanted to see what's it was like.<br>\r\n<br>\r\n\"Hello again!\"  The catgirl secretary said as you entered, followed by your friends, \"I see we've brought friends!  Oh, hi Dave, nice to see you again, how's the chassis?\"<br>\r\n<br>\r\n\"Sufficient.\"  Dave answered.<br>\r\n<br>\r\nThe secretary turned to the rest of you, \"Are all of you getting treatments, or just the three who haven't been here before?\"<br>\r\n<br>\r\nAlice, Alicia, and Lilly all looked between each other while you stared at Lilly's furry bottom, her tail barely offering some covering to her behind, then again, she was naked, so not much.  \"Pretty sure we're all getting treatments,\" Alice said, \"we all decided to try out that saying \"Ignorance is Bliss.\"\"<br>\r\n<br>\r\nThe secretary smiled, \"Of course!\" She pulled out several clipboards, \"Just fill these out and bring out your cards to pay ahead, depending on how low some of you decide to go, you might not be able to pay later.\"<br>\r\n<br>\r\nYour friends started filing out the forms as you had moved over to the secretary and started staring at her breasts, drooling a bit as she blushed under your slightly cross eyed, but determined, gaze.<br>\r\n<br>\r\n\"Uh, one question?\"  Lilly asked from behind you.<br>\r\n<br>\r\n\"Yes?\"<br>\r\n<br>\r\nLilly looked between you and the secretary, \"Why is she naked?\"<br>\r\n<br>\r\nThe secretary smiled, \"Oh!  That's just an extra, free service to anyone below a certain brain percentage, it's unlikely they'll be able to get themselves dressed or underessed, so it's easier for everyone involved if we strip them down.\"  She gestured between herself and Lilly, \"Not like anyone cares when a furry chooses to go nude, as most of us do.\"<br>\r\n<br>\r\nLilly nodded and resumed filling out her form.</span></div></div>",
+            "created":1566277200,
+            "id":2705370,
+            "title":"Skip right to the Brain center "
+        },
+        "111231212112121112":{
+            "choices":[
+                "Lilly goes next",
+                "Alicia goes next"
+            ],
+            "content":"<div class=\"\"><div> <span>Alice was the one to finish first, heading up to the desk.  \"I'm ready.\"  She said, handing her clipboard and credit card over, watching the catgirl process everything.  You were still staring at the secretary's breasts though, and Alice gently wiped off your chin and breasts from all the drool that had accumulated during your staring at her.<br>\r\n<br>\r\nThe secretary handed Alice her card back, \"We're all set!  Let's head to the room and give you your brain drain!\"<br>\r\n<br>\r\nAlice nervously looked between her friends, who smiled and waved in support, and the procedure room, before taking a deep breath and stepping through.  She stopped and looked nervously at the laser, but a comforting smile from he catgirl allowed her to calmly sit down in the chair as the straps tightened on her arms and legs.<br>\r\n<br>\r\n\"Don't worry,\" the catgirl manning the control panel said as the secreatary headed back out to the lobby, \"that's all for your safety, movement during the procedure can be dangerous, we've had people hurt themselves while the procedure is in operation.\"<br>\r\n<br>\r\nAlice nodded as the laser powered up, inching toward her head, and then, she felt all tingly and funny in her head!  She smiled, giggling at the sensation, she felt so funny!<br>\r\n<br>\r\n\"Like, wow!\"  Alice said happily as the laser powered down, \"That was totally, uh, nice!  More!  More!\"  She said happily.<br>\r\n<br>\r\nThe catgirl smiled, \"Alright then, but since you might not be able to tell me when to stop, let's play a game!\"  She pulled up the brain chart, \"Which color brain do you want?\"<br>\r\n<br>\r\n<b>The first is at 60% her normal size, moronic and simple, at this size she's barely sentient. It is highlighted in purple.<br>\r\n<br>\r\nThe second is at 40% her normal size, a bit like a pet, she wouldn't even be able to talk with this brain, but might be able to walk and follow simple commands. It is highlighted in green.<br>\r\n<br>\r\nThe third is at 20% her normal size, absurdly small, she'd be able to crawl and drool, but little else. It is highlighted in pink.<br>\r\n<br>\r\nThe fourth is at 1% her normal size, a tiny little grape of a brain nestled in her head, unable to do much more than breathe, drool, and struggle to figure out how to masturbate. It is highlighted in a dark red.</b><br>\r\n<br>\r\n\"Ummm...\" Alice said, looking between each color, if just a little bit felt so good, then a lot must feel amazing!  \"I like the red one!  It's tiny!\"  She said happily, not really understanding what she'd chosen.<br>\r\n<br>\r\nThe catgirl laughed, \"Alieght then!  Say bye-bye brains!\"<br>\r\n<br>\r\n\"Bye-bye brains!\"  Alice happily repeated back as her brain was quickly reduced, he hips grinding repeatedly in the chair, her eyes looking in opposite directions, and a happy, vacant look on her face as all other movement, except her hips, stoppped.<br>\r\n<br>\r\n\"Another happy customer!\" The catgirl laughed as Alice was rolled out into the recovery wing of the center, the husky furry cutting Alice's clothes off as they went.<br>\r\n<br>\r\nAlice meanwhile was oblivious to everything around her except her need to grind against something!  It was her only instinct aside from breathing, but her brain just didn't know how to do anything beyond that.  So she ended up laying naked in her hospital bed, her mouth open in a stupid smile as she drooled over herself and her hips constantly searched for release or something to mount.</span></div></div>",
+            "created":1566277200,
+            "id":2705472,
+            "title":"Each girl one at a time"
+        },
+        "1112312122":{
+            "author_id":"gothergother",
+            "author_name":"Gothergother",
+            "choices":[
+                "She opens your head ",
+                "She fucks your head "
+            ],
+            "content":"<div class=\"\"><div> <span>'The smaller something is the cuter it will be!' you think as you ask the cat girl if the dark red would be okay. She seems oddly pleased with your decision and moves over to the control panel to reconfigure the machine. When the beam hits your forehead it seems sharper than before. It surprises you and makes you jump, struggling against the bonds slightly. <br>\r\n<br>\r\nYour brain starts to shrink and shrivel in your cute little head, Forcing your IQ to drop drastically as a result. Drool drips down from your mouth and hips rut against the chair. When it's done there's barely anything in that hollow head of yours but the tiny grape sized brain that rattles when you shake it.someone could fuck your head though from ear to ear and there wouldn't be any harm to that itty bitty fucktoy brain of yours.  <br>\r\n<br>\r\nThe cat girl starts to rub your needy pussy because youre to dumb to do it yourself. </span></div></div>",
+            "created":1484974800,
+            "id":2266866,
+            "title":"Not the purple one!"
+        },
+        "11123121221":{
+            "author_id":"tamelbrun",
+            "author_name":"Tam Elbrun",
+            "choices":[
+                "I'm sure a little floating robot taking care of a walking vegtable will work.",
+                "I'm sure melody has no ulterior motives for volunteering (yes she does)"
+            ],
+            "content":"<div class=\"\"><div> <span>once your mind has been reduced as far as it will go, the cat carefully takes one of her claws and cuts a small hole in your forhead. Just enough that a little pobe can be inserted.<br>\r\n<br>\r\nthe moment it touches your brain the word 'Copying...' appears on the side, blinking a few times before being replaced with 'Done.'<br>\r\nAs soon as that appears, she removes it, and closes your head back up, humming to herself as she walks over to a computer nearby and plugs the probe in.<br>\r\n<br>\r\nThe computer springs to life a moment later, a voice coming out of the speakers asking \"what's going on?\" in a confused voice.<br>\r\n<br>\r\n\"For legal reasons, we're required to make a backup of your mind when we do a procedure like this. Among other things, you can't authorize payment when you're a vegetable.\" She explains, gesturing to you sitting in the chair behind her. \"Right now your brain is compressed so much it can't do much of anything beyond keep your body alive. You're still in there, but most of you can't process while compressed.\"<br>\r\n<br>\r\n\"We do have an implant that can work around that,\" she continues, holding up a tiny device that looks almost like a miniature helmet, just the right size to fit around your compressed brain, \"But it costs extr-\"<br>\r\n<br>\r\n\"Nope.\" your backup cuts her off, adding, \"Extras aren't in the budget. Maybe i'll come back for it.\"<br>\r\n<br>\r\nAgain, the cat girl seems to like that...<br>\r\n<br>\r\n\"Well, then i just need you to fill this in...\" she finishes, bringing up the payment form on the computer. The digital version of you notices that there's a bit at the bottom, where you can specify whether you want your backup, or a caretaker provided by the facility to look after you, which was included in the price. the catgirl, Melody apparently, has already put her name down as the one to take care of you, and is waiting for you to decide which box to check.</span></div></div>",
+            "created":1505883600,
+            "id":2388538,
+            "title":"She opens your head "
+        },
+        "11123121222":{
+            "author_id":"acds",
+            "author_name":"Theacds ",
+            "choices":[
+                "Keep going! She'll give you a new brain later, or maybe keep you around as a pet",
+                "Stop there, she's already breaking protocol/Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"So, how are you feeling?\" The catgirl asks, placing a hand mockingly on her ear as you babble and giggle and drool stupidly. \"Well, I'm glad to hear that. Now, I'd like to check your brain. Is that alright?\"<br>\r\n<br>\r\n\"Duh...\" Is all you can say as she lowers her pants, lust burning in her eyes. Your head's just an airy, empty mess now. You don't even resist her as she topples you to the ground and begins thrusting her cock into the hole burnt into your head!<br>\r\n<br>\r\n\"What school did you go to, again?\" She whispers into your ear, a dopey grin plastered onto your face, eyes rolled back into your brainless skull. \"Wherever it was, I bet it was hard to get in.\" She giggles and smiles. \"I bet you had to spend night after night studying and cramming that big brain of yours full of math and science and shakespeare!\"<br>\r\n<br>\r\nYour brain's getting abused pretty hard by now, and whatever intellect you had left is quickly fading.</span></div></div>",
+            "created":1505451600,
+            "id":2386279,
+            "title":"She fucks your head "
+        },
+        "111231212222":{
+            "choices":[
+                "Green, who needs intelligence?",
+                "Pink!  My roommate always wanted a pet dumber than a houseplant!"
+            ],
+            "content":"<div class=\"\"><div> <span>Of the two other colors that were left, you had the options of:<br>\r\n<br>\r\nThe second is at 40% your normal size, a bit like a pet, you wouldn't even be able to talk with this brain, but might be able to walk and follow simple commands. It is highlighted in green.<br>\r\n<br>\r\nThe third is at 20% your normal size, absurdly small, you'd be able to crawl and drool, but little else. It is highlighted in pink.<br>\r\n<br>\r\nWhich one did you want?</span></div></div>",
+            "created":1566018000,
+            "id":2703803,
+            "title":"Wait!  I wanted a different color!"
+        },
+        "1112312122222":{
+            "choices":[
+                "Alicia shows off her new pet"
+            ],
+            "content":"<div class=\"\"><div> <span>\"The pink one!  It's totes cuterer!\"  You giggle, and so does Melody, as you probably don't really understand what's you've selected.  Of course at the start of the procedure you'd already designated your roommate to be your caretaker, so at least you thought ahead when you could.<br>\r\n<br>\r\n\"Alright then,\" Melody says, bringing a tablet to you, \"Just press this button and we'll be paid, and you'll be a happy little moron!\"  You just nod your head, and scribble over where it asked for a signature.<br>\r\n<br>\r\nWalking back to the control panel, Melody smiled, \"I love this job.\"  She sighed as she selected the pink option, watching the laser connect with your head and empty it of everything that remained.<br>\r\n<br>\r\nYou open your eyes some time later back at your apartment, you hear a voice talking, but you don't understand it, you just wanna hump.  Smiling as you clumsily crawl to the voice, you recognize your roommate as a familiar face, but don't really bother paying attention to her as you wrap your arms and legs around her leg and start humping her.  You never noticed that you'd been drooling the whole time.<br>\r\n<br>\r\n------------<br>\r\n<br>\r\n\"Yeah, that's the biggest side effect, her libidos gone up.\"  The staff member say to your roommate Alicia.<br>\r\n<br>\r\nAlicia smiled and patted her roommate on the head, Lilly (you) had finished jumping and had sprawled out on the ground, staring validly at the ceiling, not caring about her nudity, or the drool that coated your breasts.<br>\r\n<br>\r\n\"That's ok,\" Alicia told the technician, \"I think I can deal with it.\"<br>\r\n<br>\r\nThe technician nodded and handed her a few more forms before leaving.</span></div></div>",
+            "created":1566018000,
+            "id":2703812,
+            "title":"Pink!  My roommate always wanted a pet dumber t..."
+        },
+        "112":{
+            "choices":[
+                "Fox",
+                "Cheetah",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Of course I'm a furry!  I've got the fur, ears and tail to prove it!<br>\r\n<br>\r\nBut what kind?  There are many boxes that could be checked...</span></div></span></div>",
+            "created":1569301200,
+            "id":2722825,
+            "title":"Furry"
+        },
+        "1121":{
+            "choices":[
+                "Todd (male)",
+                "Vixen (female)",
+                "Other (futa, dickgirl, etc...)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Checking fox, you go to the next selection, gender.  Looking down at your naked body (as furries don't wear clothes) you check that you are a...</span></div></span></div>",
+            "created":1569301200,
+            "id":2722826,
+            "title":"Fox"
+        },
+        "11212":{
+            "choices":[
+                "A brain removal",
+                "IQ adjustment"
+            ],
+            "content":"<div class=\"\"><div> <span>You check vixen, after all, you have the breasts to prove it, you look over at your roommate, a golden Labrador retriever named Amy giving you a smile and a little wave.  Smiling, you go down to the next option, selecting what procedure you were here for, looking at the options, there were brain removals and IQ adjustments.<br>\r\n<br>\r\nHere's what the 2 characters look like while we're here: <a rel=\"nofollow\" href=\"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9f59ed3b-66ca-4346-b0ae-a8a72329018e/dd77l5b-71437050-2639-492b-b43c-05ab2d7b1ee0.jpg/v1/fill/w_1280,h_1681,q_75,strp/sudden_change_of_mind_by_sinaherib_dd77l5b-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY4MSIsInBhdGgiOiJcL2ZcLzlmNTllZDNiLTY2Y2EtNDM0Ni1iMGFlLWE4YTcyMzI5MDE4ZVwvZGQ3N2w1Yi03MTQzNzA1MC0yNjM5LTQ5MmItYjQzYy0wNWFiMmQ3YjFlZTAuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.RXb77GTDpHrbBPC_oylp2yf8kxua5SegHfIRvxPVmRA\" target=\"_blank\">https://images-wixmp-ed30a86b8c4ca887773...</a></span></div></div>",
+            "created":1569328140,
+            "id":2722827,
+            "title":"Vixen (female)"
+        },
+        "112122":{
+            "choices":[
+                "IQ Reduction",
+                "IQ enhancement "
+            ],
+            "content":"<div class=\"\"><div> <span>Checking the box next to IQ adjustment, you walked up to the receptionist, a grey catgirl with small breasts, but still had very feminine curves elsewhere.<br>\r\n<br>\r\nSmiling the catgirl took the powers and double checked everything to make sure it was in order before looking up at you and asking, \"Were you here for an IQ reduction, or enhancement?\"<br>\r\n<br>\r\nYou thought  about it for a bit, your tail lazily moving behind before answering:</span></div></div>",
+            "created":1569332460,
+            "id":2722849,
+            "title":"IQ adjustment"
+        },
+        "1121221":{
+            "choices":[
+                "Minor reduction",
+                "Major reduction"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ignorance is bliss, and I want some of that!\"  You say happily, the catgirl nodding before typing something in her computer, you stand there, tapping the counter nervously, waiting for the procedure.<br>\r\n<br>\r\n\"Alright, one last question,\" the catgirl said, \"are you here for a minor adjustment, going as low as 60% remaining brain power, or a major adjustment which can go as low as 20%?\"<br>\r\n<br>\r\n\"Hmmm....\" You hum in thought, thinking about your options, \"What're the different effect of each?\"  You ask, and catgirl smiles, bringing out a pamphlet with various colored bars and percentages.<br>\r\n<br>\r\n\"Here on the minor side, a reduction by 10% is our typical 'dumb and ditzy', by 20% is an airhead, your concentration will be eroded greatly with this one.  A 40% reduction is as low as a minor will go, by that point you're going to need a lot of supervision, single word sentences at most, and your favorite form of entertainment will be anything shiny.\"  She points to the other side, \"When we do a major reduction, a 60% reduction will leave you unable to say anything more than an odd coo or sound.  You'd still be able to walk and follow one word commands, but your coordination will be almost nonexistent, you'll definitely need assistance to even walk. And at 80% reduction, you won't  be able to use your vocal chords anymore, you'd only be able to crawl and drool at that point, little more than a very stupid pet.\"<br>\r\n<br>\r\nSmiling as you scrolled through you options, you eventually decided on the...</span></div></div>",
+            "created":1569333000,
+            "id":2722854,
+            "title":"IQ Reduction"
+        },
+        "11212212":{
+            "choices":[
+                "60% reduction",
+                "80% reduction"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'll take a major reduction please.\"  You say happily to the catgirl, who nods and types in your request before looking back at you.<br>\r\n<br>\r\n\"Are you sure?  I'm legally obligated to tell you that any changes made are irreversible.\"<br>\r\n<br>\r\nYou nod and say \"My intelligence is a burden, set me free!\" Giggling, the catgirl nods, \"Alrighty then, which reduction did you want?\"</span></div></div>",
+            "created":1569333780,
+            "id":2722858,
+            "title":"Major reduction"
+        },
+        "113":{
+            "choices":[
+                "Dickgirl",
+                "Futanari",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could you be if not human or furry?</span></div></span></div>",
+            "created":1566018000,
+            "id":2703946,
+            "title":"Other"
+        },
+        "1131":{
+            "choices":[
+                "Brain transplant",
+                "Brain removal",
+                "IQ change"
+            ],
+            "content":"<div class=\"\"><div> <span>Lilly checked the box next to dickgirl, normally she'd try to pass off as a normal girl, but she knew that if she didn't answer truthfully here then she'd possibly end up getting pretty messed up in the head because of whatever procedure she picked would be for the wrong brain type.<br>\r\n<br>\r\nShe was a short, red headed girl, with a rather large chest, and slightly below average penis and balls, 2.5\" when flaccid, and 6\" when hard.  At least she still looked good in a skirt though!<br>\r\n<br>\r\n\"Alright then,\" the catgirl said as she smoothed her chest fur that's coated her perky breasts, \"what procedure were you here for today?\"<br>\r\n<br>\r\nLilly looked at her choices, and decided on getting the...</span></div></div>",
+            "created":1568091600,
+            "id":2716438,
+            "title":"Dickgirl"
+        },
+        "11313":{
+            "choices":[
+                "IQ increase",
+                "IQ reduction"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Im getting the IQ adjustment please.\"  Lilly said, wringing her hands nervously.<br>\r\n<br>\r\nThe catgirl nodded, flipping through some papers, Lilly trying not to stare at the furry's body.  Oh why did furrys have to go around naked so much!  Eventually the catgirl managed to find the right form before Lilly began having a tent in her skirt, having forgotten underwear today.<br>\r\n<br>\r\n\"And which adjustment were you interested in?\"  She pointed to two different brackets, \"We have the IQ increase, we can add up to 150 points to your current IQ, you won't have any more knowledge in your head, but you'll be able to comprehend a lot more than the average person.\"  Lilly nodded, allowing the catgirl to continue, \"Or the IQ reduction, our most popular choice, we offer the standard airhead option, but usually people say that their intelligence is a burden, and they want to get rid of it.\"  The catgirl looked up at Lilly, \"So which is it hun?\"<br>\r\n<br>\r\nLilly looked between the two choices and ultimately decided on...</span></div></div>",
+            "created":1568091600,
+            "id":2716444,
+            "title":"IQ change"
+        },
+        "113132":{
+            "choices":[
+                "Blue or purple",
+                "Green, pink, or red"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'd like the reduction please.  The simple life just seems so much better these days.\"  Lilly said, willing her penis to stay soft as the catgirl stood up, her breasts bouncing as she did so.<br>\r\n<br>\r\n\"Well alright then!  Let's get you all set up!\"  And the catgirl led Lilly into the procedure room.  \"Now, we have several levels of intelligence, and I mustn't tell you now, any change made is permanent.  There is no going back.\"<br>\r\n<br>\r\nLilly nodded, she was hoping for that anyway, \"Alright, let's do this.\"<br>\r\n<br>\r\nThe catgirl motioned to the chair in the middle of the room, \"Take a seat then, and I'll pull up the chart.\"  Eventually, as the screen flickered to life, Lilly found herself clamped down to the chair, \"Don't worry!\"  She said quickly, \"This is just so you don't hurt yourself or fall out of line of the laser.\"<br>\r\n<br>\r\nLilly nodded as the chart was pulled up, she saw several brain sizes, each color coded.<br>\r\n<br>\r\nThe catgirl began speaking as the chart came up online on the screen,<br>\r\n<br>\r\n\"<b>The first is at 80% your normal brain, airheaded and forgetful, this is your stereotypical blonde girl, it is highlighted in blue.<br>\r\n<br>\r\nThe second is at 60% your normal size, moronic and simple, at this size you're barely sentient. It is highlighted in purple.<br>\r\n<br>\r\nThe third is at 40% your normal size, a bit like a pet, you wouldn't even be able to talk with this brain, but might be able to walk and follow simple commands. It is highlighted in green.<br>\r\n<br>\r\nThe fourth is at 20% your normal size, absurdly small, you'd be able to crawl and drool, but little else. It is highlighted in pink.<br>\r\n<br>\r\nThe fifth is at 1% your normal size, a tiny little grape of a brain nestled in your head, unable to do much more than breathe, drool, and struggle to figure out how to masturbate. It is highlighted in a dark red</b>.  Which did you want?\"<br>\r\n<br>\r\nLilly looked up at the chart, weighing her options, and decided on...</span></div></div>",
+            "created":1568091600,
+            "id":2716446,
+            "title":"IQ reduction"
+        },
+        "1131321":{
+            "choices":[
+                "Blue (80%)",
+                "Purple (60%)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which did she pick?</span></div></span></div>",
+            "created":1568091600,
+            "id":2716449,
+            "title":"Blue or purple"
+        },
+        "1131322":{
+            "choices":[
+                "Green (40%)",
+                "Pink (20%) or red (1%)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which did she pick?</span></div></span></div>",
+            "created":1568091600,
+            "id":2716453,
+            "title":"Green, pink, or red"
+        },
+        "11313221":{
+            "choices":[
+                "Lilly's been released as-is back on the streets",
+                "Lilly gets a cab ride home"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Green, 40%.\"  Lilly said, making her descision.<br>\r\n<br>\r\n\"Alright, forty percent, aaaannnddd here we go!\"  The catgirl said as she fired up the laser, not too many people picked anything lower than 60%, so this'd be a treat.<br>\r\n<br>\r\nLilly meanwhile was a little nervous, sure she believed that if you were stupid then you'd be happier, she'd seen plenty of people who'd visited the center and they all seemed to be pretty happy.  Once the laser connected to Lilly's forehead, she felt a tickling sensation in her head, she fought back a few moans of pleasure as she began getting an erection.<br>\r\n<br>\r\nLilly giggled, her peepee was hard!, she knew 'cause her skirt had been lifted out of the way by it  She knew she shouldn't be showin' it to the pretty cat lady, but she couldn't move 'cause of the stoopid chair, not wantin' her movin'.  <br>\r\n<br>\r\nLilly cooed and smiled as the cat lady said something, but she didn't know what she said, it all came out as noise.  \"Follow.\"  She heard and she did.  She saw the shiny linoleum floors and cooed at the reflection of the lights on the ceiling, ignoring the steady stream of drool that was starting.  She watched as the cat lady stripped her naked, and tickled her penis, keeping it erect, but all she did was giggle again as she was put in a nice bed.  The cat lady brought out a shiny thing!  She hung it in front of Lilly, and Lilly smiled at the thing, staring at its nice shiny-ness and not caring about anything.</span></div></div>",
+            "created":1568178000,
+            "id":2716547,
+            "title":"Green (40%)"
+        },
+        "11313222":{
+            "choices":[
+                "Pink (20%)",
+                "Red (1%)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which color did Lilly pick for her brain?</span></div></span></div>",
+            "created":1568091600,
+            "id":2716454,
+            "title":"Pink (20%) or red (1%)"
+        },
+        "113132221":{
+            "author_id":"anchovies",
+            "author_name":"Anchovies",
+            "choices":[
+                "Her sister",
+                "Her best friend"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Pink.\"  Lilly said to the catgirl, who simply nodded and started twisting nobs and pushing buttons, Lilly squirmed in excitement, she was finally going to be a drooling, crawling moron!  She'd always been a bit jealous of the people who went and gotten their brains reduced to mush, and now she could be what she was jealous of!<br>\r\n<br>\r\n\"Alright dear,\" the catgirl said, \"here we go!\"<br>\r\n<br>\r\nA beam of pink light shot out and hit Lilly in the forehead, and she could feel her awareness slowly fading away, she smiled as endorphins rushed through her brain, stimulating her mind.  Down below, she was tenting pretty good in her skirt, and her last thought before she was reduced to a drooling, crawling vegetable was 'Boobies' as she stared a tree the catgirl's bare chest.<br>\r\n<br>\r\nThe brain drain now completed, the catgirl came over and undid the straps holding Lilly to the chair, the redheaded dickgirl drooling on her shirt, and her skirt failing to hide her erection.<br>\r\n<br>\r\n\"Alrighty dear,\" the catgirl said as she popped out a claw, \"you won't have a need for these anymore.\"  She said as she cut the clothes off of Lilly.  Now naked and drooling on her ample breasts, the catgirl led her to a special holding place until her designated friend or family came to pick her up.<br>\r\n<br>\r\nAs the catgirl went about contacting Lilly's new caretaker, Lilly sat there, drooling on her breasts as she sat there naked, and unable to relive her erection of the attention it wanted.<br>\r\n<br>\r\nBut who was Lilly's new caretaker?</span></div></div>",
+            "created":1607720100,
+            "id":2955434,
+            "title":"Pink (20%)"
+        },
+        "113132222":{
+            "author_id":"mordian",
+            "author_name":"Mordian",
+            "choices":[
+                "A friend/family member of Lilly's ",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Lets go with Red, since it matches my hair!\"  Lilly giggled, the catgirl nodded as she began setting the parameters for the brain drain.<br>\r\n<br>\r\n\"Alrighty,\" she said as the laser powered up, \"and here we go!\"<br>\r\n<br>\r\nThe laser connected with Lilly's head, and she could feel her brain smoothing out, the endorphins rushed through her body as all her nerves set off each and every pleasure receptor in her brain.  Her crotch by now was tenting hard in her skirt, all her knowledge was sucked out of her brain as she quickly approached an IQ lower than a cooked potato.<br>\r\n<br>\r\n\"All done!\"  The catgirl said, walking up to Lilly, who had her eyes glazed over and unfocused, a bit of drool already escaping, \"Not much left in there huh?\"  She asked but not getting a response, not like she was expecting one.<br>\r\n<br>\r\nLilly was entirely oblivious to the fact that anything was occurring around her, as the catgirl undressed her, she offered no resistance, though her throbbing erection was demanding attention, the catgirl didn't do anything for it.<br>\r\n<br>\r\nLilly was carried and deposited out on the display window, naked as the day she was born, and her erection begging for release, but her own mind was too simple to even move her arms to relieve herself.  She lay there, drooling on herself as the catgirl left a sign there letting everyone know that whoever wanted to own her should come inside.<br>\r\n<br>\r\nWho came for Lilly? </span></div></div>",
+            "created":1585104540,
+            "id":2806687,
+            "title":"Red (1%)"
+        },
+        "12":{
+            "author_id":"zhiral",
+            "author_name":"Zhiral",
+            "choices":[
+                "What services do you offer here",
+                "How does this work",
+                "I'm not sure I trust you with my brain.. is it really safe?",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This all seems like a lot to take in at once.  You decide to ask the Receptionist about just what goes on here.  Many questions are teeming in your mind, but the first thing you would like to know is...</span></div></span></div>",
+            "created":1347512400,
+            "id":1426606,
+            "title":"Ask Questions"
+        },
+        "121":{
+            "author_id":"zhiral",
+            "author_name":"Zhiral",
+            "choices":[
+                "Ask about Transplants",
+                "Aks about Removal",
+                "Ask about a Custom-Job"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"I'm so glad you asked!\" the cat-girl claps her paws with a broad smile.  \"We Currently offer Brain transplants and removal services, but offer custom jobs as well!</span></div></span></div>",
+            "created":1347512400,
+            "id":1426610,
+            "title":"What services do you offer here"
+        },
+        "1213":{
+            "choices":[
+                "Fill out the form",
+                "Ask more questions"
+            ],
+            "content":"<div class=\"\"><div> <span>\"So, what's a custom job?\"  You ask, curious as to why it's so vague.<br>\r\n<br>\r\nThe catgirl receptionist giggles, \"Well, its just that!  We can alter personalities, raise and lower IQ, improve your memory, etc...\". She pulles out a form with the explanations for the lower IQ service, \"The lower IQ is our most popular with humans for some reason, and you can see the various levels we reduce it here.\"<br>\r\n<br>\r\nReading the pamphlet, you were shocked to see that ten percent of the people who get their IQ lowered get it reduced to 1% brain capacity!<br>\r\n<br>\r\n\"Did you have any other questions, or are you ready to fill out the sheet?  Oh, an before you ask, all procedures under custom jobs are permanent.  The brain can only handle so much alteration.\"<br>\r\n<br>\r\nYou nod and decide...</span></div></div>",
+            "created":1570536180,
+            "id":2729968,
+            "title":"Ask about a Custom-Job"
+        },
+        "12131":{
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First box, male or female?<br>\r\n<br>\r\n(Switch to third person)<br>\r\n<br>\r\nThe customer looked at the boxes on the form, since it was an obvious answer, they quickly selected...</span></div></span></div>",
+            "created":1570536240,
+            "id":2729969,
+            "title":"Fill out the form"
+        },
+        "121312":{
+            "choices":[
+                "Human ",
+                "Furry"
+            ],
+            "content":"<div class=\"\"><div> <span>Checking female, \"Easy enough.\"  She said to herself, with her large breasts, it would be impossible to mistake her for a man, not to mention you could bounce a quarter off her behind.<br>\r\n<br>\r\n\"Next box...\"<br>\r\n<br>\r\nHuman or furry?<br>\r\n<br>\r\n\"Easy enough again.\"  She said as she checked that she was a ....</span></div></div>",
+            "created":1570571340,
+            "id":2730151,
+            "title":"Female"
+        },
+        "1213121":{
+            "choices":[
+                "Danni",
+                "Lilly"
+            ],
+            "content":"<div class=\"\"><div> <span>Human, plain to see from her skin, not fur, on her arms and face.<br>\r\n<br>\r\n\"Alrighty then,\" the catgirl receptionist looked everything over as she scrolled through the forms. \"Oh, you forgot to put your name here.\"<br>\r\n<br>\r\nHanding it back, the customer did notice that's she'd forgotten to write her name, duh!<br>\r\n<br>\r\nWhich girl is she?<br>\r\n<br>\r\nDanni, the bookish brunette looking to be more like the cheerleaders?<br>\r\n<br>\r\nOr Lilly, the perky redhead who had heard of this place and wanted to try it out?</span></div></div>",
+            "created":1570578300,
+            "id":2730211,
+            "title":"Human "
+        },
+        "12131212":{
+            "choices":[
+                "Lower IQ",
+                "Other choice"
+            ],
+            "content":"<div class=\"\"><div> <span>Writing in her name, dotting the I with a heart, she handed the paper back to the receptionist, \"Here you go!\"<br>\r\n<br>\r\nThe receptionist nodded and made sure gerything was in order.  \"Alrighty then.  Which service were you here for?\"  She asked as she opened up a window on her computer.<br>\r\n<br>\r\nLilly stood there and thought for a bit, there were quite a few choices to pick from!  Raising her IQ, lowering it, altering a part of her personality or behavior?  Looking everything over she pointed to the one she wanted, and she wanted....</span></div></div>",
+            "created":1570578480,
+            "id":2730214,
+            "title":"Lilly"
+        },
+        "121312121":{
+            "choices":[
+                "..make me a vegetable!",
+                "..just a little bit at first, see how far I want to go from there."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Alright then, please follow the pink lines on the floor.\"  The receptionist opened a set of doors off to the side, revealing a clinical, and sterilized hall, different colored lines on the floor.  Nervously, Lilly walked down the hall, following the pink lines as she was told, eventually coming to a room with a laser gun mounted on a bracket, or, at least that what it looked like.<br>\r\n<br>\r\n\"Ah, welcome!\"  A voice to the side of the gun said, revealing a black woman wearing a nurses top, and no skirt or pants!  She was bare-ass bottomless!<br>\r\n<br>\r\n\"Uh, ma'am, I think you forgot your pants, and panties.\"  Lilly said nervously.<br>\r\n<br>\r\nThe girl laughed, \"So many people have said that to me ever since I visited one of my coworkers during a procedure, don't know why....\". She shrugged, \"Anyway, please take a seat in front of the battery (what they called the laser gun) so that we may begin.\"<br>\r\n<br>\r\nLilly nodded, getting comfortable as she heard the laser battery hum, warming up.<br>\r\n<br>\r\n\"Now,\" the battery operator said, \"how much of your IQ are we taking off?\"<br>\r\n<br>\r\nLilly thought for a bit, \"If I want more taken off I can ask for that, right?\"<br>\r\n<br>\r\nThe woman nodded.<br>\r\n<br>\r\nLilly nodded back, \"Then.....\"</span></div></div>",
+            "created":1570578900,
+            "id":2730219,
+            "title":"Lower IQ"
+        },
+        "1213121211":{
+            "choices":[
+                "Lilly is sent back to her apartment",
+                "Lilly is taken outside and left on the corner to find her own way home"
+            ],
+            "content":"<div class=\"\"><div> <span>\"We'll start with removing your ability to talk, you can still coo and make sounds, walking will be a bit harder, but doable, you'll have practically no control of your fingers.  You'll be attracted to pretty much anything shiny, may or may not remember how to chew, and you'll drool.  A lot.\"  The operator said, \"Just for starters.  Unless you wanna go farther?\"<br>\r\n<br>\r\nLilly shook her head, she didn't want to be a body laying there without any form of consciousness, not like her landlord did to herself a week ago.  At least she wasn't harassed for the rent anymore...<br>\r\n<br>\r\n\"I'm good with that.\"  Lilly said, trying to keep her fear in check.<br>\r\n<br>\r\n\"Here we go then!\"  The operator said quickly, the laser connecting immediately with Lilly's head.<br>\r\n<br>\r\nLilly, at the last moment, wanted to cancel the procedure, but light is faster than thought and she never got that chance.  She could feel her intelligence slip away, words, math, ideas, her name, coordination, all disappeared into the aether and she felt nothing.  She sat there, her lips parted as a steady stream of drool dripped down onto her shirt, her eyes were now walleyed, her left eye looking up, and her right eye looking forward, but also a bit downward.<br>\r\n<br>\r\nChucking, the operator called for a nurse to come get Lilly, the nurse helped Lilly up, and led he returned slowly to the recovery room.  Lilly's steps were uneven and she was stomping her feet loudly, much like a toddler.<br>\r\n<br>\r\nOnce in the recovery room, Lilly was stripped naked, so that she wouldn't get her clothes messy, and not like she could dress herself anymore, and she was stretched out on a bed, staring at the ceiling light with a faint smile on her face as Shen drooled onto her large breasts, cooing as the light flickered occasionally.<br>\r\n<br>\r\n\"Aaaa.............oooohhh.........guuu.\"</span></div></div>",
+            "created":1570579500,
+            "id":2730221,
+            "title":"..make me a vegetable!"
+        },
+        "12131212112":{
+            "choices":[
+                "She stumbles on an alley full of reduced",
+                "She stumbles her way into a fast food joint "
+            ],
+            "content":"<div class=\"\"><div> <span>\"Eeeahh.........oooooogg........uuuhhh!\"  Lilly cooed as she was walked out the Brain center doors, her dull, unfocused, cow-like eyes glazed over with lack of intelligence.  Her hand was being held by the receptionist, who'd giggled and made a video of Lilly as she was brought out before leading her out the door.<br>\r\n<br>\r\n\"Here we go then!\"  The receptionist said as she led Lilly to the corner, still naked as the day she was born, impressed a time how large Lilly's bush was.  \"Glad to have another satisfied customer!\"<br>\r\n<br>\r\nAnd at that, Lilly was left to the world.<br>\r\n<br>\r\n\"Aaaahh!\"  She cooed, staring at the reflective paint on a parked bus, placing her hands on it, smiling vacantly as she drooled over her breasts.<br>\r\n<br>\r\n\"Hey!  Get off my bus!\"  The driver said, he had no patience for the reduced, those idiots who lowered their IQ, it just was unnatural.<br>\r\n<br>\r\nLilly stared vacantly at him, continuing to drool on herself, before seeing a reflective light in the distance, and she unsteadily stomped her bare feet down the sidewalk, uncaring of who saw her, she just wanted to stare at the shiny thing to fill her head with something.</span></div></div>",
+            "created":1570583100,
+            "id":2730244,
+            "title":"Lilly is taken outside and left on the corner t..."
+        },
+        "122":{
+            "author_id":"zhiral",
+            "author_name":"Zhiral",
+            "choices":[
+                "Ask more questions",
+                "Fill out the form now",
+                "You want to do something else."
+            ],
+            "content":"<div class=\"\"><div> <span>Unsure about all of this, you ask how it's even possible!  \"So.. let's say I trust you far enough on removing my brain.. how exactly does it work?\"<br>\r\n<br>\r\n\"A great question\" The receptionist smiles.  \"First, our skilled surgeons will remove your brain and give it a once-over to make sure everything is in proper condition.  Then, we attach a special life-support clamp to the stem, keeping it alive until it can be placed in it's new location.  This does require that we completely open your skull, but local anesthesia is applied, and you will be conscious up until the point your spinal cord is severed.  Is there anything else I can help you with?\"</span></div></div>",
+            "created":1347512400,
+            "id":1426611,
+            "title":"How does this work"
+        },
+        "123":{
+            "author_id":"zhiral",
+            "author_name":"Zhiral",
+            "choices":[
+                "Ask more questions",
+                "fill out the form now",
+                "Ask to touch her brain!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Of course it is, 100% safe!\" The cat-girl replies, pulling out a jar from underneath her desk. Inside was a brain, though it didn't quite look like a standard humans as it resembled a mix of Human and cat features.  \"See?  this one is mine~  It's actually a requirement for us receptionists to get them removed in the event someone asks this very question~\" She answers calmly.  \"The process is also 100% reversible, although I don't think I ever will.  I love having my brain outside of my head!  In fact.. I even got hinges install so I can use my head as a storage container.. Pretty neat, huh?\"  She giggles softly.  \"oh, but I'm rambling. Please, if there is anything else I can do for you, just ask!\"</span></div></div>",
+            "created":1347512400,
+            "id":1426612,
+            "title":"I'm not sure I trust you with my brain.. is..."
+        },
+        "1233":{
+            "author_id":"byzant",
+            "author_name":"Solar",
+            "choices":[
+                "You're satisfied, this has to be real.",
+                "You decide to look closer, and take her brain out of its jar!"
+            ],
+            "content":"<div class=\"\"><div> <span>She blinks in surprise. \"Um, I don't know about that...\" she says, though you can see a slight blush on her cheeks. Seeing a chance, you tell her you want to see her brain up close to confirm to yourself that the whole process is real.<br>\r\n<br>\r\n\"I suppose it wouldn't hurt,\" she smiles and unlocks the top of the jar. You notice despite her spoken hesitation, her brain pulses slightly as her heartbeat rises.<br>\r\n<br>\r\nYou reach inside carefully, the gel easily parting to your exploring fingers. You graze the top ridges with your finger. The cat-girl blushes deeper, encouraging you...</span></div></div>",
+            "created":1347598800,
+            "id":1427241,
+            "title":"Ask to touch her brain!"
+        },
+        "12332":{
+            "author_id":"byzant",
+            "author_name":"Solar",
+            "choices":[
+                "Put her brain back in its jar",
+                "Hmm....nah."
+            ],
+            "content":"<div class=\"\"><div> <span>You gently grip the brain and lift it out of the jar!<br>\r\n<br>\r\n\"H-hey!\" she squeaks, shivering as her brain is exposed to the cool air of the reception room. Ignoring her, you gently survey her brain, turning it over and prodding its ridges. As you poke and prod it, she gets more and more flustered, until one probe of her grooves makes her squeak and gasp.<br>\r\n<br>\r\nIt's definitely real, you finally confirm to yourself. The squishy, pulsing thing in your hands <i>is</i> a real brain - her brain - which means everything you've heard about this place is true!<br>\r\n<br>\r\nYou turn back to the receptionist, but she looks...different. Her eyes won't stay focused and she's standing unsteadily. You look back at her brain and realize it's looking rather dry from not being in its gel, and maybe a little from your constant touching.<br>\r\n<br>\r\nThe cat-girl giggles hazily. \"P...pretty cool, huh? Brain needs g...g...um, squishy watery stuf or gets dry\" Her eyes unfocus again, her tail swishing lazily. \"put kitty brain back?\"</span></div></div>",
+            "created":1347598800,
+            "id":1427245,
+            "title":"You decide to look closer, and take her brain o..."
+        },
+        "123322":{
+            "author_id":"byzant",
+            "author_name":"Solar",
+            "choices":[
+                "That's enough, give the poor kitty her mind back.",
+                "Take advantage of her vacancy"
+            ],
+            "content":"<div class=\"\"><div> <span>She blinks slowly. \"But...brain need water...?\" <br>\r\n<br>\r\nYou smile and tell her she's mistaken, and that her brain is happier outside its tiny jar. \"Ohh! ok then!\" she giggles, her brain pulsing slower, its surface no longer squishy to the touch.<br>\r\n<br>\r\n\"So, ummm...\" She twists her face in concentration. \"oh, you were here for...something, right? what you want....um....do?\"<br>\r\n<br>\r\n</span></div></div>",
+            "created":1347598800,
+            "id":1427255,
+            "title":"Hmm....nah."
+        },
+        "1233221":{
+            "choices":[
+                "Play around with her brain more",
+                "Put it back in the jar"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide you have had enough fun with the poor girl. You tell her to catch, and lightly toss her brain to her. With her movement impaired, she misses, and her brain rolls to the corner by the desk. You notice she wobbles when the brain hit, and as you go to pick it up she collapses with a smile in her seat. <br>\r\nStaring at her, you wonder what you could do next.</span></div></div>",
+            "created":1358744400,
+            "id":1513039,
+            "title":"That's enough, give the poor kitty her mind..."
+        },
+        "12332211":{
+            "author_id":"blueshock",
+            "author_name":"AnotherOre",
+            "choices":[
+                "You insert her brain back into her jar and then reinstall it into her brain(NANO",
+                "You take the brain out of the jar and clip on two tiny jumper cables",
+                "You take out her brain and begin to play with it."
+            ],
+            "content":"<div class=\"\"><div> <span>A sudden urge overcame you with this girl's brain in your hands. You absolutely didn't want to however. This poor cat girl is now under your full control and she can't help it. Then again, you are curious about the human nervous system. Giving in to your urge, you find an empty jar full of water rather then the gel that seems to keep her brain in check and place it in. You notice her brain begin to swell a bit and grow in size a lot. A piece of tape with \"Brain Growth Liquid\" written in sharpie was pasted onto the jar. Shrugging, you sit onto the chair your cat friend originally sat on, with her by your side and face down on the floor, humping it as her brain seems to be stimulated by the liquid. You think to yourself of what you could possibly do with this now mindless slave. </span></div></div>",
+            "created":1420174800,
+            "id":1911455,
+            "title":"Kitty Gets It Later..."
+        },
+        "1233222":{
+            "author_id":"byzant",
+            "author_name":"Solar",
+            "choices":[
+                "Give her another command",
+                "Give her \"something else\""
+            ],
+            "content":"<div class=\"\"><div> <span>You set her brain on the counter next to the jar as a test. The cat-girl just stands there unsteadily, making no move to put it back. Seems like she's totally susceptible to suggestion like this. No way you're letting this chance get away.<br>\r\n<br>\r\nYou tell her to remove her clothing. She giggles and slips out of her uniform, revealing her full C-cup breasts, wide hips and rounded ass. Her nipples are erect and her pussy already moist...</span></div></div>",
+            "created":1347598800,
+            "id":1427264,
+            "title":"Take advantage of her vacancy"
+        },
+        "12332221":{
+            "author_id":"byzant",
+            "author_name":"Solar",
+            "choices":[
+                "Order her to eat her own brain!",
+                "No, no, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>An evil thought crosses your mind.<br>\r\n<br>\r\nWhat if...you ordered her to eat it? Having a mindless cat-girl around who obeys your every command, her head forever empty....that's a pretty good prize, after all.</span></div></span></div>",
+            "created":1347598800,
+            "id":1427270,
+            "title":"Give her another command"
+        },
+        "123322211":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Get your own brain taken out.",
+                "Go home and have some fun with your new friend."
+            ],
+            "content":"<div class=\"\"><div> <span>You grin evilly. This is a great idea! \"Excuse me, miss?\" The catgirl looks at you with a happy, but blank expression. \"Huh?\" You hold up her brain. \"Would you mind eating this?\" She gives you a dopey smile, and nods rapidly. \"Okies!\"<br>\r\n<br>\r\nTaking it from your hands, she lifts it up to her lips, give it a lick, and starts devouring her own brain! Bite after bite, chunks of her greymatter start vanishing down her throat never to be seen again. She doesn't seem at all bothered by what's going on. Soon, the only part left is her brain stem, which she proceeds to slurp down like a spaghetti noodle.<br>\r\n<br>\r\nOnce she finishes her meal, you grin. \"So, how are you feeling?\" \"Me feel real good!\" She replies. You don't know how she's able to think at all without a brain, even if she <i>is</i> a lot dumber, but that just means your plan to use her as a servant is still in effect. \"So, how'd you like your meal?\" you inquire. She smiles brightly. \"Tasty! More?\" You shake your head. \"Sorry, but you ate it all. There is no more.\" Her ears droop. \"Aww...\"<br>\r\n<br>\r\nYou pat her on the back, and she cheers up, seemingly forgetting about why she was sad in the first place. You then decide to test if she still follows orders. \"Hey, jump in place until I say stop.\" She proceeds to do so, and doesn't stop until you give her the word. Excellent. You now have a completely brainless servant! What now?</span></div></div>",
+            "created":1348549200,
+            "id":1434642,
+            "title":"Order her to eat her own brain!"
+        },
+        "1233222111":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "...That you want to maintain a remote connection to your body.",
+                "...That you want to become just a brain in a jar, with no body at all."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide that, after all this, it's high time you got your own brain out of your skull. You turn to the brainless cat girl with a smile. \"Okay miss, I think I'm ready. Can you show me where I go for the removal services?\"<br>\r\n<br>\r\n\"The wha?\"<br>\r\n<br>\r\n\"Um... where can I go to get the pink squishy thing in my head taken out?\"<br>\r\n<br>\r\n\"Oh! Dis way!\"<br>\r\n<br>\r\nShe happily leads you farther into the building. When she stops, you're in a large room, standing in front of a phone booth sized pod. The catgirl grins dopily at you. \"Stan' in here to get your, um... Goopy inside head thing scooped out!\"<br>\r\n<br>\r\nShaking your head as you smile to yourself, you step inside. When you do, the door automatically shuts itself. A screen then descends giving you two options. Apparently, when you have your brain removed, you get to chose whether you want to remain connected to your body, or if you want to be isolated to your jar. After thinking for a moment, you decide...</span></div></div>",
+            "created":1356238800,
+            "id":1493684,
+            "title":"Get your own brain taken out."
+        },
+        "12332221111":{
+            "choices":[
+                "Yes, take over her body.",
+                "no just finish the procedure."
+            ],
+            "content":"<div class=\"\"><div> <span>Selecting the remote connection option, one last prompt comes up.<br>\r\nApparently, if someone gives you their frequency, you can request to be on the same one, allowing wireless brain-to-brain communication.<br>\r\n<br>\r\nThinking back, you remember seeing a number on the back of the receptionist's jar, since her brain is missing it might make her body connect to yours... is it worth a shot?</span></div></div>",
+            "created":1359176400,
+            "id":1517493,
+            "title":"...That you want to maintain a remote connectio..."
+        },
+        "123322211111":{
+            "author_id":"videoshards",
+            "author_name":"Video",
+            "choices":[
+                "Reader's Choice",
+                "Reader's Choice"
+            ],
+            "content":"<div class=\"\"><div> <span>Selecting the option the machine proceeds to modify your brain so you can remotely control your body. The machine then places your brain in high tech looking box. After the machine is done the booth opens up and you see the cat girl looking up into the air with empty eyes. But you are really curious about the brain to brain communication, leaving the cat girl where she is you move to the reception desk you found the reception brain jar you found a set of numbers.<br>\r\n<br>\r\nFrequency Number: 917502592<br>\r\n<br>\r\nAfter finding the frequency number you hit a road block, how the hell do you walking back to the booths you notice something on the reception computer.<br>\r\n<br>\r\nExperimental Remote Control Box<br>\r\n<br>\r\nStatus: Online<br>\r\n<br>\r\nBrain: Connected<br>\r\n<br>\r\nFrequencies: 0<br>\r\n<br>\r\nPlease Type Frequent Number here<br>\r\n<br>\r\nOk, with nothing else to do you type in the frequency number in.<br>\r\n<br>\r\nFrequency Accepted, do you want switch you your new body?<br>\r\n<br>\r\nYes/No<br>\r\n<br>\r\nNoticing nothing else you clicked on yes.<br>\r\n<br>\r\nSwitching to new body, putting current body to sleep mode. Enjoy your day.<br>\r\n<br>\r\nThus you blackout.<br>\r\n<br>\r\nAfter waking up you notice your no longer in the reception area and back where the booths are. Getting up you immediately notice your no longer in your body. Your smaller, you have breasts, your wearing the reception's uniform, and you have cat ears. Your the reception.<br>\r\n<br>\r\nWhat do you do now?</span></div></div>",
+            "created":1459227600,
+            "id":2124726,
+            "title":"Yes, take over her body."
+        },
+        "123322211112":{
+            "author_id":"tamelbrun",
+            "author_name":"Tam Elbrun",
+            "choices":[
+                "She is quite pissed off at you",
+                "She forgives you, it seems she enjoyed her time as a literal airhead"
+            ],
+            "content":"<div class=\"\"><div> <span>deciding to leave the rest of the options at their defaults, you let the system finish up with you.<br>\r\n<br>\r\nAs it works you black out for a moment, but when your senses clear up, your head feels lighter. reaching up you can feel a faint seam that pops open if pressed. Pushing it open you reach inside your own head, it feels clean and dry inside, being entirely empty. You really did it.<br>\r\n<br>\r\nHinging your now empty head closed and getting up from the chair the first thing you might notice that the receptionist has wandered off. before you can wonder where, you feel an odd pressure in your head, and your senses feel like they're going nuts...<br>\r\n<br>\r\nit is suddenly very clear where the receptionist went.<br>\r\n<br>\r\nFollowing the track along the ceiling that the brain extractor runs on, you locate her quickly enough, though your garbled motor control and unreliable senses are making it hard to catch up to her, as she bites another chunk out of your brain, gleefully chewing on her snack.<br>\r\n<br>\r\n\"Not fair... Mine...\" Is all you can manage to say, as you struggle towards her, trying to liberate your now half-eaten brain. The most coherent complaint you can seem to manage is one or two word sentences and whining... you're not sure you can even remember why you want to complain. as more of you is eaten, the more whatever the machine did to your head seems to take over. That's a relief to you but you're not sure why...<br>\r\n<br>\r\nthe lady in front of you is offering you something. it looks tasty.<br>\r\n<br>\r\n\"want some?\" she asks, sweetly. you just grin and nod.<br>\r\n<br>\r\nyou were right it IS tasty. you hastily finish off the morsel, hugging her in thanks.<br>\r\n<br>\r\n\"More?\"<br>\r\n<br>\r\n\"all gone.\"<br>\r\n<br>\r\n\"aw...\"<br>\r\n<br>\r\nThe two of you seem to have decided on playing around like children is the best way to spend the next hour, near the end of which you both black out briefly only to wake up with headaches.<br>\r\n<br>\r\n\"Ugh... how in the-...\" you grumble to yourself, confused on how you can even have a headache. slipping a hand up to the side of your head, and without meaning to under the lid. There's something squishy inside, and touching it males for all kinds of weird sensations... \"Is that my... how...\"<br>\r\n<br>\r\n\"You're not the first one to wonder what would happen if something happened to a removed brain. There's a safety system that grows a new brain from body fat if something happens to the old one.\" She explains, still sitting across from you, arms crossed. \"Probably the first one who made it go off by the original getting <i>eaten</i> though.\"</span></div></div>",
+            "created":1469077200,
+            "id":2184220,
+            "title":"no just finish the procedure."
+        },
+        "1233222111122":{
+            "author_id":"tamelbrun",
+            "author_name":"Tam Elbrun",
+            "choices":[
+                "Go to the address that evening",
+                "Do something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"So, I guess you're probably pretty mad...\" you comment sheepishly, looking anywhere but at her. Not really having any good excuse for what you did.<br>\r\n<br>\r\n\"About you misplacing my clothes, yes.\" She states, hesitating a moment before adding, \"The rest... Well... Not being able to think was actually really relaxing... and i was due for a break...\"<br>\r\n<br>\r\nYou're honestly not sure what to think, or say about that, though after about a minute you notice you're getting light headed. She's apparently noticed it too, and is walking towards you, holding your jar with one arm, and keeping the other across her chest.<br>\r\n<br>\r\nSetting the jar down, she hinges your head open and lifts your brain out, dropping it into the jar immediately followed by her own. right away everything snaps back into focus, and she comments, \"Tell you what, if you can get me my jar and uniform back, before anyone notices I'm not at the reception desk, I'll keep an eye on this for you while you're gone.\"<br>\r\n<br>\r\nnodding as she scoops up the jar, you head back out to grab her things as well as stuffing her jar into your backpack, then return. She's able to get back into her work clothes, and the two of you make it back to the front desk just in time for her to get stuck dealing with another customer. There's no time to switch jars back, so she stashes the one with both brains back in the spot where she had kept hers, and scribbles a note on your receipt.<br>\r\n<br>\r\n<i>you can come get it from me after work.<br>\r\n31 pine terrace Apt D</i></span></div></div>",
+            "created":1504760400,
+            "id":2381608,
+            "title":"She forgives you, it seems she enjoyed her time..."
+        },
+        "12332221111221":{
+            "author_id":"tamelbrun",
+            "author_name":"Tam Elbrun",
+            "choices":[
+                "Do It.",
+                "Just put it in the jar."
+            ],
+            "content":"<div class=\"\"><div> <span>Later that evening, you're at the address mentioned, It wasn't actually that far a trip, it turns out the two of you live in the same building, with yours being one of the two in the basement. they're not as spacious because of the utility room, and the the windows are barely there, but hey, cheaper rent is cheaper rent.<br>\r\n<br>\r\nwith a little hesitation, you knock on the door to the apartment. eliciting a confused \"Hello?\" as the receptionist from the clinic can be heard walking toards the door. When she opens it, her confusion turns to surprise as she recognizes you \"But, I didn't use the buzzer, how did you-\"<br>\r\n<br>\r\nShe goes silent as you hold up your own key chain, the same front door and mail room keys she has hanging right next to the one for your truck, etched with a letter 'F'.<br>\r\n<br>\r\n\"Oh you're kidding me.\"<br>\r\n<br>\r\n\"Nope.\" you can't help a bit of playful smugness creeping into your tone, having already had a few hours to get over that particular surprise.<br>\r\n<br>\r\nRolling her eyes, she offers, \"Come on in, The jar is on the counter in the kitchen.\" opening the door the rest of the way <br>\r\n<br>\r\nHeading inside, you spot your jar pretty quickly, setting down the one of hers you'd been carrying next to it. twisting the lid off you reach in and pick out one of the brains. At first you wonder how you're going to tell which is which before a familiar lightheaded feeling starts to creep into you.<br>\r\n<br>\r\nOh, right.<br>\r\n<br>\r\nPutting your brain back in the jar, you reach for the other one and lift it out. Now that you're holding your neighbor's brain again though, that temptation to do something to it is back.<br>\r\n<br>\r\n...and you did have all afternoon to look up ideas online. There were some pretty neat ones.<br>\r\n<br>\r\n\"Okay, what are you up to?\" she asks, having followed you into the room after shutting the door.<br>\r\n<br>\r\nshould you do something to her brain?</span></div></div>",
+            "created":1505624400,
+            "id":2387273,
+            "title":"Go to the address that evening"
+        },
+        "123322211112211":{
+            "author_id":"tamelbrun",
+            "author_name":"Tam Elbrun",
+            "choices":[
+                "put her back in her jar.",
+                "dont. you already know she'll just grow a new one if this one gets too messed up"
+            ],
+            "content":"<div class=\"\"><div> <span>With a friendly smile, you answer, \"Just this.\" as you press your thumbs into two specific spots on her brain. Immediately she grabs hold of the door frame to keep from falling, as her muscles aren't completely under her own control all of a sudden.<br>\r\n<br>\r\nBefore she can say anything you comment, \"You need to relax.\" and start moving your thumbs around slightly, adjusting where you're putting pressure. As you're doing this different groups of her muscles are contracting and relaxing in time to your motions, as if her entire body were giving itself a massage. <br>\r\n<br>\r\n\"Do you want me to keep going?\" you ask, already knowing how she'll answer. Rather than say anything she just nods, any trace of concern or alarm in her expression having long since been replaced by a relaxed smile.<br>\r\n<br>\r\nBy the time you're done with her brain she's 'gone dumb' from being out of her jar too long again. her brain looking quite dry.</span></div></div>",
+            "created":1505624400,
+            "id":2387279,
+            "title":"Do It."
+        },
+        "1233222111122112":{
+            "author_id":"tamelbrun",
+            "author_name":"Tam Elbrun",
+            "choices":[
+                "have fun with her while she's brainless.",
+                "That's enough for now."
+            ],
+            "content":"<div class=\"\"><div> <span>Deciding to keep going, you walk over to her fridge and pop the brain into the freezer. turning to her, you ask, \"Do you want a special treat?\"<br>\r\n<br>\r\nShe answers with a nod, looking a tad uncoordinated.<br>\r\n<br>\r\n\"Alright, can you wait here till I get back?\"<br>\r\n<br>\r\nAgain she nods, her head bobbing hard enough to make the clip on her skull pop open and her head start flapping open and closed noisily. It's really hard not to laugh at how silly that looks.<br>\r\n<br>\r\nGrabbing you jar and hading back to your apartment, you take a few minutes to stash you brain in a safe spot before digging a bottle of rum and a bag of frozen pineapple out of your own fridge. Locking up and heading back up to... huh... did you ever ask her name? whoops. ...up to her apartment, You find her obediently waiting where you left her.<br>\r\n<br>\r\nYou dump some of the pineapple into a blender, followed by some of the rum, and finally followed by retrieving her partly chilled brain from the freezer, and adding that to the blender. After a minute of running the machine and a quick search for glasses, the two of you are sitting on her couch enjoying pineapple and brain smoothies, which she really seems to like.</span></div></div>",
+            "created":1505624400,
+            "id":2387289,
+            "title":"She'll be fine..."
+        },
+        "12332221112":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "She let's it go, and just goes back to following your orders.",
+                "She starts to unscew your jar, licking her lips the entire time."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide that you're tired of the headache that comes with haing a body, and that you would much rather be just a brain in a jar. Having made up your mind, you select the second option. A mask drops down over your mouth, and everything suddenly goes fuzzy...<br>\r\n<br>\r\nWhen you wake up you suddenly feel much smaller. You look around, and catch sight of yourself in one of the pods mirrored walls.<br>\r\n<br>\r\nYour jar is filled with a blowing fluid, and you can see the back of your brain. On top, is a camera, a microphone, and some speakers, all of which have rotated backwards. Rotating your sensors again, you see your brainless body slumped over. Suddenly, you hear a noise, and rotate back to face the entrance of the pod.<br>\r\n<br>\r\nIt looks like your brain deprived friend has gotten curious. She reaches down and picks you up. \"Oooh! More snackies!\" She looks at you hungrily and licks her lips.<br>\r\n<br>\r\n\"Now wiat just a minute! I am NOT food!\"<br>\r\n<br>\r\n\"H-huh? Who said dat?\"<br>\r\n<br>\r\n\"I did! In the jar! I am not food!\"<br>\r\n<br>\r\n\"You? But... You LOOK like food...\"<br>\r\n<br>\r\n\"Well I'm not. Remember the person you told to go in here?\" She nods. \"That's me. I decided to discard my body.\"<br>\r\n<br>\r\n\"So... Food?\"<br>\r\n<br>\r\n\"No! Not food!\" Gah! It's like arguing with a two year old! Maybe you shouldn't have told her to eat her own brain.</span></div></div>",
+            "created":1356238800,
+            "id":1493694,
+            "title":"...That you want to become just a brain in a ja..."
+        },
+        "123322211122":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "She begins to chow down on you.",
+                "But nothing seems to happen."
+            ],
+            "content":"<div class=\"\"><div> <span>To your terror, she begins to undo the lid of your jar. \"Mmmm... More tasty, tasty thinky bits!\" She lifts the lid away and reaches in to grab you.<br>\r\n<br>\r\n\"No wait! Sto-!\" Your begging is cut off as she pulls you out, disconnecting you from your speaker. You can no longer hear or see either, since your camera and microphone were disconnected as well. Fearing the worst, you brace yourself for what is about to happen.</span></div></div>",
+            "created":1356238800,
+            "id":1493696,
+            "title":"She starts to unscew your jar, licking her lips..."
+        },
+        "1233222111222":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Your body lost its grip! The catgirl has you all to herself now!",
+                "Your body managed to keep it's grip! It's got at least part of you safe!"
+            ],
+            "content":"<div class=\"\"><div> <span>You prepare yourself to be devoured. You certainly weren't planning on this, but you should have realized it would happen after how eager that cat was to have more brains to eat. At least you don't have any senses, so you won't hear, see, or feel a thing, but that's small comfort to you. But something seems to be wrong. You know you can't tell what's going on, but it seems like you should be dead by now. And yet you feel distinctly uneaten. What gives?<br>\r\n<br>\r\nAlthough you have no way of knowing, it turns out that, whatever is letting the cat girl move around without a brain is effecting your body as well! Your body is up and about, and is currently arguing with the cat girl about who gets the brain. Actually, arguing is too sophisticated a term for what's happening. What they're actually doing is playing tug-o-war. With you as the rope.<br>\r\n<br>\r\n\"Come on! Gimme it!\" Your body tugs you towards itself.<br>\r\n<br>\r\n\"No! I's hungry!\" The cat girl pulls you back.<br>\r\n<br>\r\n\"But is mine!\"<br>\r\n<br>\r\n\"Nuh-uh! Mine!\"<br>\r\n<br>\r\n\"Is from mah head!\"<br>\r\n<br>\r\n\"Is my snacky!\"<br>\r\n<br>\r\nThis continues for a few minutes, with each of them pulling on your brain. If you could feel what's going on, you'd be surprised you hadn't already been torn in half by now. Eventually, something happens, and the bodies go flying apart!</span></div></div>",
+            "created":1356325200,
+            "id":1493937,
+            "title":"But nothing seems to happen."
+        },
+        "12332221112222":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "\"No fair! I wan'ed th' thinky bit!\" She stomps her foot and throws a tantrum.",
+                "\"Oh yeah? Well I got some too, so there!\" She holds up half of your brain."
+            ],
+            "content":"<div class=\"\"><div> <span>Suddenly, there's a sort of snapping sound, and the two brainless bodies suddenly go flying in opposite directions! The cat girl winds up sprawled on the floor, while your body slams against the opposite wall. The cat girl stirs first, getting shakily to her feet. \"H-huh? Wha happen?\"<br>\r\n<br>\r\nYour body holds up it's prize in triumph. \"I got th' thinky bit! I got th' thinky bit!\" It does a little victory dance while waving around your lump of grey-matter. The cat girl glares at it.</span></div></div>",
+            "created":1356325200,
+            "id":1493939,
+            "title":"Your body managed to keep it's grip! It'..."
+        },
+        "123322211122221":{
+            "author_id":"lexigcrp",
+            "author_name":"Lexirose",
+            "choices":[
+                "You body starts to eat you!",
+                "Something else..."
+            ],
+            "content":"<div class=\"\"><div> <span>Your body dopily grins at the cat girl, holding its prize high. Your brain slowly pulsates in your former hand which catches the attention of your body. Pulling your brain close it cocks it's head to the side with a puzzled look on its face. \"Hey, loser! What this for?\" Your mindless body clumsily asks the cat girl, still pouting in the corner. \"It's my snack you big meanie, and you stole it.\" She huffs.<br>\r\n<br>\r\n\"Snack?\" Your body says aloud before taking a long lick across your two hemispheres.</span></div></div>",
+            "created":1481086800,
+            "id":2247161,
+            "title":"\"No fair! I wan'ed th' thinky bit!&..."
+        },
+        "124":{
+            "choices":[
+                "\u201cDo you do group discounts?\u201d",
+                "\u201cWhy are the effects listed as permanent?\u201d",
+                "\u201cWhat\u2019s your custom"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could you ask the catgirl receptionist?</span></div></span></div>",
+            "created":1566018000,
+            "id":2703925,
+            "title":"Something else"
+        }
+    },
+    "info":{
+        "author_id":"zhiral",
+        "author_name":"Zhiral",
+        "brief_description":"A brain center has just opened up, where you can go to get brain transplants, removals,etc",
+        "created":1347560280,
+        "description":"<td align=\"left\" class=\"norm\">Welcome to the Brain Center!  here are a few rules for this story<br>\r\n<br>\r\n1: Brain transplants require complete removal of the brain, but does not require a second organic body.  Get creative!<br>\r\n<br>\r\n2: Brain transplants should crate story branches, as in staying with the body or moving on with the brain in the new body.<br>\r\n<br>\r\n3: there is no limit to what you can do with a brain.  For example, Increasing or Lowering I.Q. Is fair game!<br>\r\n<br>\r\nThat's all for now, please enjoy your stay!<br>\r\n<br>\r\n(This story will obviiously only begin here, and revisit the center for additional swaps and such.  Please feel free to continue on as to what you do after reciving the surgery!)</td>",
+        "id":1891257,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1609185120,
+        "modified":1609185120,
+        "pretty_title":"The Brain Center"
+    }
+}

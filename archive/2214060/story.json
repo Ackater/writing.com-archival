@@ -1,0 +1,919 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Fanfiction",
+                "Crossover"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where should we started first?</span></div></span></div>",
+            "created":1582606800,
+            "id":2793005,
+            "title":"Let's start"
+        },
+        "11":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Cartoon ",
+                "Movie ",
+                "Videogame ",
+                "Tv show",
+                "Book/comic"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where should we started for the fanfiction?</span></div></span></div>",
+            "created":1582693200,
+            "id":2793364,
+            "title":"Fanfiction"
+        },
+        "111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Rugrats",
+                "Little Bear",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which cartoon should we start with?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815287,
+            "title":"Cartoon "
+        },
+        "1111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Tommy",
+                "Angelica",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character should we focus on first?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815299,
+            "title":"Rugrats"
+        },
+        "11111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Should Tommy go nakey again?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815697,
+            "title":"Tommy"
+        },
+        "111111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "It was hot",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why would Tommy want to get naked again?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816165,
+            "title":"Yes"
+        },
+        "1111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did his mother let him go naked?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816432,
+            "title":"Something else"
+        },
+        "11111122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will this be an alternate storyline to the episode \"Naked Tommy?\"</span></div></span></div>",
+            "created":1587186000,
+            "id":2820588,
+            "title":"Something else"
+        },
+        "111112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Tommy from \"All Grown Up\" go through age regression?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816433,
+            "title":"Something else"
+        },
+        "1111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes his regression?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817033,
+            "title":"Yes"
+        },
+        "11111212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was the regression caused by some kind of machine</span></div></span></div>",
+            "created":1586926800,
+            "id":2819428,
+            "title":"Science"
+        },
+        "111112121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "An age changing ray",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of machine?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819789,
+            "title":"Yes"
+        },
+        "1111121211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would this ray be the only thing to save Tommy's life?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821764,
+            "title":"An age changing ray"
+        },
+        "11111212111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "He was badly injured",
+                "He came down with a new kind of virus"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happened to Tommy?</span></div></span></div>",
+            "created":1587445200,
+            "id":2822309,
+            "title":"Yes"
+        },
+        "1111121212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A youth restoration chamber",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other kind of machine could regress Tommy?</span></div></span></div>",
+            "created":1593061800,
+            "id":2856494,
+            "title":"Something else"
+        },
+        "11112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Angelica want to be a baby again?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815763,
+            "title":"Angelica"
+        },
+        "111121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Shall this be an alternate storyline to \"Angelica's Birthday?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816695,
+            "title":"Yes"
+        },
+        "1111211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica ask her parents if she could be a baby again?</span></div></span></div>",
+            "created":1593062100,
+            "id":2856497,
+            "title":"Yes"
+        },
+        "1111212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Angelica go through age regression?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816696,
+            "title":"Something else"
+        },
+        "11112121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Magic",
+                "Science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes her regression?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819791,
+            "title":"Yes"
+        },
+        "111121211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of magic?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845545,
+            "title":"Magic"
+        },
+        "1111212111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Angelica make the wish herself?</span></div></span></div>",
+            "created":1591286640,
+            "id":2845770,
+            "title":"A wish"
+        },
+        "11113":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Kimi",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else should we focus on?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815698,
+            "title":"Someone else"
+        },
+        "111131":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will Kimi go nakey?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819792,
+            "title":"Kimi"
+        },
+        "1111311":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will she be added to the episode \"Naked Tommy?\"</span></div></span></div>",
+            "created":1587186000,
+            "id":2820671,
+            "title":"Yes"
+        },
+        "11113111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "At the beginning",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where will Kimi show up?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821755,
+            "title":"Yes"
+        },
+        "1112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Little Bear",
+                "Emily",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character should we focus on first?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815649,
+            "title":"Little Bear"
+        },
+        "11121":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "That he decided to stay bigger forever",
+                "That he had sex with his mother",
+                "That he become a human",
+                "That he became a king",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What fanfiction should we writing about?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815699,
+            "title":"Little Bear"
+        },
+        "111215":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we write about Little Bear getting a flea?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815701,
+            "title":"Something else"
+        },
+        "1112151":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A circus",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where would this flea come from?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816447,
+            "title":"Yes"
+        },
+        "11121511":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Acrobat",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What was the flea's job?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816782,
+            "title":"A circus"
+        },
+        "111215111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "It escaped",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why would it want to camp out in Little Bear's fur?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816783,
+            "title":"Acrobat"
+        },
+        "11121512":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "While he was sleeping",
+                "Some other way."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How else would Little Bear get a flea?</span></div></span></div>",
+            "created":1600640700,
+            "id":2906957,
+            "title":"Somewhere else"
+        },
+        "111215121":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Under a tree",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did Little Bear sleep?</span></div></span></div>",
+            "created":1600836960,
+            "id":2908456,
+            "title":"While he was sleeping"
+        },
+        "1112151212":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "In his room",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else was Little Bear sleeping?</span></div></span></div>",
+            "created":1601109960,
+            "id":2910164,
+            "title":"Somewhere else"
+        },
+        "11121512121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The window",
+                "Some other way."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How would a flea get in Little Bear's room?</span></div></span></div>",
+            "created":1601198760,
+            "id":2910876,
+            "title":"In his room"
+        },
+        "11121512122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Little Bear take a nap somewhere in the forest?</span></div></span></div>",
+            "created":1601923860,
+            "id":2915593,
+            "title":"Somewhere else"
+        },
+        "111215121221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Under a tree",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did Little Bear go to take a nap?</span></div></span></div>",
+            "created":1602300120,
+            "id":2918317,
+            "title":"Yes"
+        },
+        "111215122":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Some other way."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was a flea trying to seek shelter from a storm?</span></div></span></div>",
+            "created":1600640760,
+            "id":2906958,
+            "title":"Some other way."
+        },
+        "1112151221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A snow storm",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of storm was the flea trying to seek shelter from?</span></div></span></div>",
+            "created":1601182080,
+            "id":2910735,
+            "title":"Yes"
+        },
+        "11122":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "That she became a pet to Little Bear",
+                "That she became a bear cub",
+                "That she became a doll to Little Bear",
+                "That she became necked",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What fanfiction should we writing about?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815704,
+            "title":"Emily"
+        },
+        "111222":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does Emily become a bear cub?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815706,
+            "title":"That she became a bear cub"
+        },
+        "1112221":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did she make the wish herself?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815707,
+            "title":"A wish"
+        },
+        "11122211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did she make the wish on?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816163,
+            "title":"Yes"
+        },
+        "111222111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Immediately",
+                "In her sleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When did the magic happen?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816489,
+            "title":"A star"
+        },
+        "1112221112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Writer's Choice 1",
+                "Writer's Choice 2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Emily see when she woke up?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816770,
+            "title":"In her sleep"
+        },
+        "11122211121":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was she still in her bedroom?</span></div></span></div>",
+            "created":1587358800,
+            "id":2821756,
+            "title":"Writer's Choice 1"
+        },
+        "1113":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Tailspin",
+                "Goof troops",
+                "Arthur",
+                "Gummi bear",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What cartoon show do you want?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815542,
+            "title":"Something else"
+        },
+        "11133":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Arthur",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character should we focus on first?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815650,
+            "title":"Arthur"
+        },
+        "111332":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "D.W REED",
+                "Jane Reed",
+                "Kate Reed",
+                "David Reed",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other characters are we focus on?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815709,
+            "title":"Someone else"
+        },
+        "1113321":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Age regression",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What would happen to her?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815711,
+            "title":"D.W REED"
+        },
+        "11133211":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "magic",
+                "science"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What causes her regression?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816488,
+            "title":"Age regression"
+        },
+        "111332111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of magic?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819427,
+            "title":"magic"
+        },
+        "1113321111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did D.W. make the wish herself?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819793,
+            "title":"A wish"
+        },
+        "11133211111":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "A star",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did D.W. make the wish on?</span></div></span></div>",
+            "created":1590642000,
+            "id":2842049,
+            "title":"Yes"
+        },
+        "11135":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "101 Dalmatian Street.",
+                "Paw Patrol.",
+                "Open Choice Chapter."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about these cartoon shows?</span></div></span></div>",
+            "created":1586322000,
+            "id":2815579,
+            "title":"Something Else."
+        },
+        "111352":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "The paw petrol pups wore big",
+                "Everyone from adventure bay started to shrink",
+                "Everyone from adventure bay turns into puppys",
+                "Everyone from adventure bay turns into kittens",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What tip of fanfiction do you like?</span></div></span></div>",
+            "created":1591160400,
+            "id":2845542,
+            "title":"Paw Patrol."
+        },
+        "1113521":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "A big emergency.",
+                "A sumo wrestling tournament and bodybuilding event to enter.",
+                "Open Choice Chapter."
+            ],
+            "content":"<div class=\"\"><div> <span>The Place: Adventure Bay.<br>\r\n<br>\r\nThe Year: 2020.<br>\r\n<br>\r\nThe Story: Our story opens in Adventure Bay as it was a beautiful sunny day, as it was business as usual at Paw Patrol headquarters as the Paw Patrol's own pups who happened to be big and fat by the way, Chase Marshall Rubble Zuma Rocky Skye Everest and Tracker happened to be outside, as Chase was doing some weightlifting, Marshall and Rubble happen to be training themselves to become sumo wrestlers as both of them happened to be engaged in a friendly sumo wrestling match, Rocky was meditating while Skye Everest and Tracker happened to be relaxing in a big enough hot tub.<br>\r\n<br>\r\nAt that moment the Paw Patrol's pups own leader Ryder needed the Paw Patrol's pups to come to the lookout.<br>\r\n<br>\r\n\"Paw Patrol to the Lookout \" Ryder said.<br>\r\n<br>\r\n\"Ryder needs us.\" The pups said in unison as they made their way over to the lookout's elevator as Marshall due to his own clumsiness rolled towards the others like a bowling ball as they tried to warn him to watch out but it was too late as Marshall collided with them.<br>\r\n<br>\r\n\"Well at least I got a strike.\" Marshall said as his teammates laughed as they as they stepped into the elevator itself as they then reached the top of the lookout and exited the elevator as they immediately stood before Ryder.<br>\r\n<br>\r\n\"Paw Patrol ready for action Ryder sir.\" Chase said.<br>\r\n<br>\r\nRyder then revealed the pups assignment as there was an....<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1591246800,
+            "id":2845669,
+            "title":"The Paw Patrol's pups were big."
+        },
+        "111353":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The Powerpuff Girls",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> What about this show?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816491,
+            "title":"Open Choice Chapter."
+        },
+        "1113532":{
+            "author_id":"raninum-plum",
+            "author_name":"Terry Spencer",
+            "choices":[
+                "The Loud House",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the cartoon staring the family who are the definition of Loud!</span></div></span></div>",
+            "created":1590642000,
+            "id":2842045,
+            "title":"The Loud House"
+        },
+        "112":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "The Lion King",
+                "All Dogs Go to Heaven ",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What movie should we start with?</span></div></span></div>",
+            "created":1586408400,
+            "id":2816444,
+            "title":"Movie "
+        },
+        "1123":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Zootopia",
+                "Lilo and Stitch ",
+                "Disney Robin Hood",
+                "Disney Alice in wonderland",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What movie do you want to do?</span></div></span></div>",
+            "created":1586494800,
+            "id":2816752,
+            "title":"Something else"
+        },
+        "11235":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about El Arca/The Ark (2007 animated film)?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819329,
+            "title":"Something else"
+        },
+        "112351":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if you become a male lion OC and replace the original lion in the film?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819331,
+            "title":"Yes"
+        },
+        "112352":{
+            "author_id":"johnny2",
+            "author_name":"littlejohn",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we try The Secret of NIMH?</span></div></span></div>",
+            "created":1586926800,
+            "id":2819429,
+            "title":"Something else"
+        },
+        "1123522":{
+            "author_id":"batboyjw",
+            "author_name":"Jokermask18",
+            "choices":[
+                "yes",
+                "Nah"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about How to Train your Dragon?</span></div></span></div>",
+            "created":1587013200,
+            "id":2819809,
+            "title":"Something else"
+        },
+        "113":{
+            "author_id":"redwolf12",
+            "author_name":"wolfbood",
+            "choices":[
+                "Undertale",
+                "Sonic the hedgehog",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which videogame should we started with?</span></div></span></div>",
+            "created":1586581200,
+            "id":2817482,
+            "title":"Videogame "
+        },
+        "1131":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Toriel",
+                "Asriel",
+                "Frisk",
+                "Sans",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who are we focus on first?</span></div></span></div>",
+            "created":1586667600,
+            "id":2817952,
+            "title":"Undertale"
+        },
+        "12":{
+            "author_id":"sapphireninja",
+            "author_name":"Secptor",
+            "choices":[
+                "Cardcaptor Sakura and Amahara-kun+",
+                "Pokemon and Yugioh",
+                "Ben 10 and Mass Effect ",
+                "Naruto and Dead or alive ",
+                "Another Crossovers"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which two series should we crossover ?</span></div></span></div>",
+            "created":1606712760,
+            "id":2948330,
+            "title":"Crossover"
+        },
+        "121":{
+            "author_id":"sapphireninja",
+            "author_name":"Secptor",
+            "choices":[
+                "First Capture ",
+                "Syaoran arrived ",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><div> <span> Amahara Yukino the blonde hair master trap was walking around town, he was looking for his next target. He loved convincing adorable boys into becoming traps themselves. He was skipping and humming, as he looking around. He was wearing a adorable blue dress with white frills, blue thigh high stockings, and pair of lace blue panties and black heel. He also wore his short blonde hair in two small twin tails with adorable blue ribbons.<br>\r\n<br>\r\nHe spotted a book store and thought he could find something interesting to convert into a trap. So he entered the store, he was disappointed that the store was empty. He frowned and was about to leave, when he spotted a weird looking red book. The title was only Clow and had a giant gold lion with wings on it. He thought it looked interesting, so he picked it up and bought it.<br>\r\n<br>\r\nHe returned home to look at it. Once he was in his room, he began to examined the book. He opened it and to his surprised it had a deck of cards in it. He picked one up, it had a beauty ethereal female spirit on it. The name was on the bottom, she was called Windy.<br>\r\n<br>\r\nHe whispered the name and then suddenly a powerful whirlwind surrounded him. He closed his eyes, and unbeknownst to him the other cards flew out of his window. Then as suddenly as the whirlwind started it ended. Amahara saw his room was surprisedly not that messed up. He smiled for that, but he looked back into the book. He saw all of the rest of the cards where gone.<br>\r\n<br>\r\nHe was still holding the Windy Card, then suddenly the book started glowing. He dropped the book and then suddenly something came out of it.<br>\r\n<br>\r\nAmahara grinned, as it was an adorable stuff animal. <br>\r\n<br>\r\n\" So cute.\" Said Amahara, as he grabbed it.<br>\r\n<br>\r\n\" I'm not cute, I'm Cerberus the Guardian Beast of the Clow.\" Said Cerberus, as he flew out of Amahara' hands and landed on his bed.<br>\r\n<br>\r\n\" You look like a plushie to me.\" Said Amahara, smiling.<br>\r\n<br>\r\n\" Listen, you might be an adorable young lady but I'm a powerful magical creature.\" Said Cerberus, puff up his chest. Amahara blushed, he loved being called adorable.<br>\r\n<br>\r\n\" I protect the Clow.\" Said Cerberus, as he picked up the Clow. Then he realized it was empty.<br>\r\n<br>\r\n\" What happened !\" Shouted Cerberus, as he started panicking.<br>\r\n<br>\r\n\" I'm sorry, but I released them.\" Said Amahara, apologizing.<br>\r\n<br>\r\nCerberus sighed, \" Well since you released them. You have to catch them.\" Said Cerberus, as he pulled out a pink key, with a gold head, with white wings and a red beak. The key flowed into Amahara's hands and then transformed into a wand.<br>\r\n<br>\r\nAmahara was speechless, as he looked at the gorgeous wand.<br>\r\n<br>\r\n\" I get to be a magical girl.\" Said Amahara, as he jumped for joy.<br>\r\n<br>\r\n\" Listen young lady, you might think this is all fun and games but it can be dangerous.\" Said Cerberus, Amahara just smirked.<br>\r\n<br>\r\nHe had defeated street gangs before, she could handle anything that was thrown at him. <br>\r\n<br>\r\n\" By the way, I'm a guy.\" Said Amahara, smiling at Cerberus.<br>\r\n<br>\r\nCerberus started laughing, \" You're to pretty yo be a guy.\" Said Cerberus, Amahara sighed and flashed his panties.<br>\r\n<br>\r\nCerberus gulped, \" Well, well.\" Said Cerberus, as he didn't know what to say.<br>\r\n<br>\r\n\" I just loving dressing up as a girl and girly things.\" Said Amahara, his room was pink, filled with lace and frills and had tons of stuff animals in it.<br>\r\n<br>\r\n\" OK.\" Said Cerberus.<br>\r\n<br>\r\n\" Cerberus is to long of a name, how about I call toy Kero-Kun.\" Said Amahara, smirking.<br>\r\n<br>\r\nCerberus frowned, he was the guardian beast of the Clow not a stuff animal.<br>\r\n<br>\r\n\" Would Kero-Kun like some pudding.\" Said Amahara, smiling.<br>\r\n<br>\r\n\" Yes, please !\" Shouted Kero-Kun.<br>\r\n<br>\r\nAmahara lead Kero to the kitchen and feed him pudding until he fell asleep.<br>\r\n<br>\r\nWhat happened next ?<br>\r\n<br>\r\nOption 1: Amahara capture his first card. ( R.C. on which one)<br>\r\n<br>\r\nOption 2: A cute boy transferred into school.</span></div></div>",
+            "created":1606755000,
+            "id":2948614,
+            "title":"Cardcaptor Sakura and Amahara-kun+"
+        },
+        "1212":{
+            "author_id":"sapphireninja",
+            "author_name":"Secptor",
+            "choices":[
+                "Option 1",
+                "Option 2",
+                "Option 3"
+            ],
+            "content":"<div class=\"\"><div> <span>Amahara walked to school in the female school uniform, which was a blue and white sailor fuku, blue pleated skirt and shoes. He wore a pair of white lace panties and black thigh high stockings as well. He was smiling, as he was now a magical girl. He wish he could tell somebody, but Kero-Kun promised him to keep it a secret. He signed, but at least he can design adorable costumes to wear. So he arrived at class and sat down.<br>\r\n<br>\r\nWhen class started, the teacher said they have a transfer student from Hong Kong. This surprised everyone, the teacher waved the student in. Amahara smirked, as a boy his age walked in. He was adorable, with cute messing brown hair and cute amber eyes. Why he carried himself like a guy, he kind of look like a girl. This was going to be fun, he thought. He found his next target, as he licked his lips.<br>\r\n<br>\r\n\" Class, this is Syaoran Li from Hong Kong.\" Said The teacher, the class said hello. Syaoran keep a cold neutral stare, as he scan the room. Then he stopped on Amahara and for a few seconds glared at him.<br>\r\n<br>\r\nAmahara just smile back.<br>\r\n<br>\r\n\" Mr. Yukino.\" Said The Teacher, he stood up.<br>\r\n<br>\r\nSyaoran was stunned, the teacher said mister but a cute girl stood up. This puzzled Syaoran, but he just shrugged for know.<br>\r\n<br>\r\n\" Would you show Mr. Li around the school and help him get settle.\" Said The Teacher, smiling.<br>\r\n<br>\r\n\" It would be my pleasure.\" Said Amahara, with his famous mischievous grin. The class gulped, this made Syaoran curious.<br>\r\n<br>\r\nSyaoran was assigned the seat behind Amahara, as class soon started. During lunch Amahara showed Syaoran the school, when they arrived at a isolated spot. Syaoran stopped and pulled a weird looking board. Amahara was curious on where Syaoran his that. Then Syaoran started chanting, then a blue light shot out of the board and hit Amahara. This cause the key to started glowing.<br>\r\n<br>\r\n\" So it's you, hand over the key and Clow.\" Said Syaoran, glaring at Amahara.<br>\r\n<br>\r\nAmahara just smirked and giggled, as Syaoran just frowned.<br>\r\n<br>\r\n\" No.\" Said Amahara, smiling.<br>\r\n<br>\r\n\" You don't understand what you got yourself into girl.\" Said Syaoran, this made Amahara laughed.<br>\r\n<br>\r\nSyaoran growled, \" First, thanks I love it when people think I'm a cute girl but I'm a guy.\" Said Amahara, grinning.<br>\r\n<br>\r\nSyaoran just stared at him, then suddenly Amahara flashed him and Syaoran blushed. He was confuse, he saw a bulge in the panties. He looked at Amahara with bewilderment.<br>\r\n<br>\r\n\" I love girl clothes and girly things.\" Said Amahara, grinning. He didn't tell Syaoran about his hobbies of turning cute boy like him into his trap slaves. He will learn that soon enough.<br>\r\n<br>\r\n\" If you're a boy, it doesn't make a different. I'm Syaoran Li, prodigy of the Li Clan and descendant of Clow Reed himself.\" Said Syaoran, as he puff out his chest.<br>\r\n<br>\r\nAmahara smirked, Syaoran had a lot of pride. This will make breaking him even more fun.<br>\r\n<br>\r\n\" Sorry, but Kero-Kun. Said I have to capture the cards.\" Said Amahara, smiling.<br>\r\n<br>\r\n\" Kero-Kun, you mean Cerberus the guardian beast.\" Said Syaoran, Amahara nodded.<br>\r\n<br>\r\n\" Why would he pick someone like you, I was trained since birth to be the best in everything and a man among men.\" Said Syaoran, puffing out his chest again.<br>\r\n<br>\r\nHe loved his masculinity too, taking that away from him was going to be so delicious.<br>\r\n<br>\r\n\"  Man Among men, I say you look better in a dress.\" Said Amahara, smirking.<br>\r\n<br>\r\nThis made Syaoran blushed and foamed.<br>\r\n<br>\r\n\" I'm a proud guy and not some crossdresser !\" Shouted Syaoran, Amahara just giggled.<br>\r\n<br>\r\n\" I bet you would look so adorable in a the girl's uniform.\" Said Amahara, this made Syaoran growled.<br>\r\n<br>\r\nWhat happened next ?<br>\r\n<br>\r\nOption 1: Skip to P.E. as Amahara and Syaoran faced in other in a sport ( R.C. on what).<br>\r\n<br>\r\nOption 2: Skip to the end of school<br>\r\n<br>\r\nOption 3: Skip to Amahara and Syaoran facing against a Clow card ( R.C. on which one)<br>\r\n<br>\r\n</span></div></div>",
+            "created":1606838340,
+            "id":2949088,
+            "title":"Syaoran arrived "
+        },
+        "125":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "101 Dalmatians the series/101 Dalmatian Street.",
+                "Paw Patrol/101 Dalmatian Street.",
+                "Marvel/DC.",
+                "Star Trek/Star Wars.",
+                "Your choice."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay here's some more crossovers.</span></div></span></div>",
+            "created":1606735440,
+            "id":2948501,
+            "title":"Another Crossovers"
+        }
+    },
+    "info":{
+        "author_id":"redwolf12",
+        "author_name":"wolfbood",
+        "brief_description":"Anything go's for you.",
+        "created":1582691280,
+        "description":"<td align=\"left\" class=\"norm\">Here you can do anything except:<br>\r\n<br>\r\nNo death <br>\r\n<br>\r\nNo toilet stuff<br>\r\n<br>\r\nNo being mean<br>\r\n<br>\r\nAnd always have fun</td>",
+        "id":2214060,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1606838340,
+        "modified":1606838340,
+        "pretty_title":"Anything go's Fanfiction or Crossover."
+    }
+}

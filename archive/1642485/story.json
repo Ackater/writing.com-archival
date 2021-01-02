@@ -1,0 +1,631 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "A scientist",
+                "A soldier",
+                "A bodybuilder",
+                "A Biologist",
+                "Something else.....(readers choice)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There's blackness all around you....... You open your eyes to see that you're in a cryogenics chamber..... But why? Ah, that's right....... You're going to Pandora!!! You're part of the avatar project......But who are you?</span></div></span></div>",
+            "created":1265173200,
+            "id":830277,
+            "title":"A new beginning"
+        },
+        "11":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Biologist",
+                "Chemist",
+                "Physicist",
+                "Ecologist",
+                "Social Scientist"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Cool, what kind of scientist are you?</span></div></span></div>",
+            "created":1265259600,
+            "id":830598,
+            "title":"A scientist"
+        },
+        "111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "boy",
+                "girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>boy or girl?</span></div></span></div>",
+            "created":1265778000,
+            "id":833739,
+            "title":"Biologist"
+        },
+        "1111":{
+            "choices":[
+                "16-20",
+                "21-30",
+                "30+"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay now what age group?</span></div></span></div>",
+            "created":1283096160,
+            "id":946459,
+            "title":"boy"
+        },
+        "112":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Boy or girl?</span></div></span></div>",
+            "created":1265778000,
+            "id":833740,
+            "title":"Chemist"
+        },
+        "113":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "boy",
+                "girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>boy or girl?</span></div></span></div>",
+            "created":1265778000,
+            "id":833741,
+            "title":"Physicist"
+        },
+        "114":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "boy",
+                "girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>boy or girl?</span></div></span></div>",
+            "created":1265778000,
+            "id":833742,
+            "title":"Ecologist"
+        },
+        "115":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "boy",
+                "girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>boy or girl?</span></div></span></div>",
+            "created":1265778000,
+            "id":833743,
+            "title":"Social Scientist"
+        },
+        "12":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "marine",
+                "army",
+                "air force",
+                "Something else.....(readers choice)",
+                "Something else.....(readers choice)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of soldier?</span></div></span></div>",
+            "created":1265173200,
+            "id":830278,
+            "title":"A soldier"
+        },
+        "121":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Carmine Rouge (Boy)",
+                "Alexis Short (Girl)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I  got out of the tank, and was greeted by a scientist. \"Glad to see you're awake!!!! Name please?\"</span></div></span></div>",
+            "created":1265173200,
+            "id":830285,
+            "title":"marine"
+        },
+        "1211":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "EAT!!!!!! So hungry.....",
+                "Go explore the Ship"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Rouge, you're that fellow for the Avatar project eh? Well, You've been asleep for five years, so I expect you'll be hungry. There's a cafeteria down that hall, if you'd like\"<br>\r\n<br>\r\nWhat do you do?</span></div></span></div>",
+            "created":1265173200,
+            "id":830287,
+            "title":"Carmine Rouge (Boy)"
+        },
+        "12111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Orientation",
+                "The weapons arsenal"
+            ],
+            "content":"<div class=\"\"><div> <span>You enter the cafeteria. The Server asks for your clearance card. You stammer \"ummmmmmm, uh- I just woke up after cryo-\" You're cut off by a lady with red hair. \"Relax Gladys\" She tells the server. \"He hasnt been awake for five years, he hasnt got one yet. I'll issue it to him.\" \"Alright Grace, whatever you say\" You take your food and get ready to leave. \"Thanks, um, Grace.\" \"It's Dr. Augustine to you.\" She hands you a card. \"Don't lose this\" You shrug and sit down to eat. Later, the ship arrives at Pandora. You exit with your exo-pack on, And head for......</span></div></div>",
+            "created":1265173200,
+            "id":830295,
+            "title":"EAT!!!!!! So hungry....."
+        },
+        "121111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Be friends with Norm",
+                "Stay as far away from Norm as possible. You dont want to be around him"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk in to orientation to see a large man, white hair, with three long scars on his face. <br>\r\n\"Good Morning recruits. I believe this will probably be your only good morning here. If there is a hell, you might want to go there for some R and R after you leave Pandora, IF you leave. Outside of here, every living thing wants to kill you and eat your eyes for jujubees. There is an indigenous population here called the na'vi. They are ten feet tall, very agile, and their bones are reinforced with a naturally occurring carbon fiber. They are very hard to kill. My job here is to keep all of you alive. I will not succeed. Not with all of you.\" <br>\r\nAfter a  lot of words, you continue on to your department, where you'll be working: The research labs. You're welcomed by a tall, gangly man named norm<br>\r\n \"Hi, you're Carmine, right? Carmine Rouge? This is where we'll be working.\" <br>\r\nHe leads you past several large tank where some very large blue aliens appeared to be sleeping.<br>\r\n \"These are the Avatars.\" <br>\r\n\"Avatars?\" <br>\r\n\"You haven't been briefed on that yet? Well, the concept, is to drive these remotely controlled bodies called avatars. We grow them from human DNA, mixed with DNA of the natives, the Na'vi. We get into these links, and our consciousness is put into these, so we can move around the world without worrying about not being able to breathe.\"<br>\r\nThe same red-haired lady from before walks up<br>\r\n\"Oh, Dr. Augustine, This is Carmine Rouge, he's with the Avatar project with us. Carmine, this is Grace Augustine, she's in charge of the whole thing.\"<br>\r\n\"You shake her hand.<br>\r\n\"You little squirt.\" She says. \"You're in this project? Oh God, I can tell this is going to F*** this up\"<br>\r\nShe walks out<br>\r\n\"Well, I think she likes me.\" you say.<br>\r\n\"Oh, don't worry.\" Comforts Norm. \"She may be slightly abrasive, but she's got a good heart.\"<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1265259600,
+            "id":830781,
+            "title":"Orientation"
+        },
+        "1211111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "You have just enough time to get there",
+                "You overslept!!!!"
+            ],
+            "content":"<div class=\"\"><div> <span>You get to know Norm on your way to your quarters. On the way, you're stopped by a man. \"Hi, my name is Max. I'm one of the scientists helping with the project. Report back here tomorrow at 5:00 AM, and try to use big words\" He says with a smile. When you wake up, you realize.......</span></div></div>",
+            "created":1265346000,
+            "id":831138,
+            "title":"Make Norm your friend"
+        },
+        "12111111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Zip, none.",
+                "A lot"
+            ],
+            "content":"<div class=\"\"><div> <span>You rush to the research lab, and you make it in time. Whew!! Grace is standing by a large pod, talking to Norm. <br>\r\n\"How much time have you logged?\"<br>\r\n\"590 hours\"<br>\r\n\"Impressive. How's your na'vi?\"<br>\r\n\"Oel Ngati Kameie\"<br>\r\n\"Good, good\" She turns to you. \"How much time have you logged.?\"<br>\r\n<br>\r\n<br>\r\nWait..... How much time have you logged? The video log?</span></div></div>",
+            "created":1265432400,
+            "id":831544,
+            "title":"You have just enough time to get there"
+        },
+        "121111111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Continue..........."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Um, none. But I read a manual.\"<br>\r\nShe glares at you. \"Have had any lab experience at all?\"<br>\r\n\"I dissected a frog once\"<br>\r\nShe leads you over to a pod. \"Unbelievable. You just thought you'd come out here with no experience just for the fun of it?\"<br>\r\n\"maybe I was tired of people telling me what I couldn't do.\"<br>\r\nYou could've sworn you saw her smile for a half of a second.<br>\r\n:\"Alright, get into this link.\" She opens the pod, revealing the outline of a human body. \"Just relax, and let your mind go blank. It shouldn't be hard for you.\"<br>\r\nYou get in, and Grace pulls a metal harness down on you, and places the lid shut. You hear Max say \"Nice brain activity. You'd bet a lot that Grace rolled her eyes. <br>\r\n\"Alright, send him through\"<br>\r\nIt fels if you're moving at a thousand miles an hour, and you left your body behind. You're flying through a tunnel of all different colors..... And there's a light at the end!!! It gets closer, and everything goes black for a second..........<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n\"Carmine? Carmine, can you hear me? Carmine?\"</span></div></div>",
+            "created":1265432400,
+            "id":831545,
+            "title":"Zip, none."
+        },
+        "1211111111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "The next day....."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Carmine? Carmine, can you hear me? Carmine?\"<br>\r\nYou open your eyes..... You feel incredibly weak..... There are two scientists wearing exo-masks standing over you....Why are they looking at you like that. You brush your eyes with your hand.......Wait.....Your hand is blue!!!!! You sit up And wiggle your toes. Blue again.....You look at your hands again....... <br>\r\n\"Carmine!!\" They shine a light in your eyes......Stop it, that's bright........ \"Alright, eyes are good\" He snaps in your ear. You feel your pointy ears cock towards the sound. Cool! \"Ears good.\" You don't want to lie here... You get up off the table, and stumble. \"Carmine!!\" The scientists shout. You need to sit down. Max is watching with worry from above.... Hey... You notice. Im tall!!! You figure you're about 10 feet tall. <br>\r\n\"Guys, get Carmine back on the table now!\" Max shouts from the intercom.<br>\r\nYou feel something behind you.... And notice you have a tail!! You turn around and it smashs some bottles accidentally...oops.<br>\r\n\"Carmine! Watch you tail! Quick! Sedate him!!!\" You press your hand against the door and it opens....You see two other avatars wearing regular clothes playing basketball...A bit more civilizied than your hospital gown. You start running.. And see Norms avatar chasing you. <br>\r\n\"Carmine wait!!! We're not supposed to be running yet!! They're gonna kick you out!!!\"<br>\r\nYou lside to a stop in the dirt. A girl avatar with a familiar voice says \"think fast!!\" and tosses you a fruit. You catch it.<br>\r\n\"Muscle reflexes look good.\"<br>\r\n\"Grace?\"<br>\r\n\"Well, who'd you expect numb-nuts?\" You Follow Grace, put on some clothes, and exercise your new body.<br>\r\nWhen it's time to go to bed, all the avatars get into bunks, and you close your eyes.... Just to open your human eyes</span></div></div>",
+            "created":1265432400,
+            "id":831573,
+            "title":"Continue..........."
+        },
+        "12111111111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Continue..........."
+            ],
+            "content":"<div class=\"\"><div> <span>Meanwhile, while you're sleeping, back at the lab........<br>\r\n<br>\r\nParker Selfridge was playing with a putt-putt golf mini course, using his coffee cup as a target.<br>\r\n\"Hey did you see that shot?\" He asked a technician.<br>\r\n\"Yes sir\"<br>\r\n\"No you didnt, you were staring at that computer.\"<br>\r\nAs he made another shot, Grace kicked the coffee cup, and the ball rolled away.<br>\r\n\"Something wrong?\"<br>\r\n\"Why did you assign that moron to the program?\"<br>\r\n\"there';s a problem\"<br>\r\n\"What?\"<br>\r\n\"He's assigned to your team as security escort, so he's your problem now.\" He sniggered \"Listen, unless you forgot, this is why we're here.\" He points to a gray shiny rock suspended in mid-air. \"Unobtanium. The only reason we're at this hellhole. This little gray rock is worth twenty million of kilo. Pays for this entire operation. Now, the reason why YOU'RE here. A village of the natives happens to be resting on the biggest deposit of this, and they need to relocate. Those Savages are threatening our entire operation.\"<br>\r\n\"Yeah, that tends to happen when you use machine guns on them\"<br>\r\n\"We're on the brink of war, and you and your geeks are supposed to be finding a diplomatic solution\"<br>\r\nAbout about a hundered feet away, in your bed, you woke up.<br>\r\n</span></div></div>",
+            "created":1266210000,
+            "id":836988,
+            "title":"The next day....."
+        },
+        "121111111111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Towards the forest",
+                "Towards the lake"
+            ],
+            "content":"<div class=\"\"><div> <span>You, Grace, and norm enter your avatars, and get flown across Pandora by a nice Caucasian girl  named Trudy. <br>\r\nAs she lands, she says \"Thank you for flying air-Pandora, have a nice day.\"<br>\r\nYou all start to head out, but which way are you going to go?</span></div></div>",
+            "created":1266296400,
+            "id":837583,
+            "title":"Continue..........."
+        },
+        "1211111111111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Go Exploring",
+                "Stick with the geeks"
+            ],
+            "content":"<div class=\"\"><div> <span>You all head off toward the forest. You're always on the alert, pointing yous machine gun at anything that moves.<br>\r\n\"Calm down guy.\" Grace says irritably.<br>\r\nYou spin around, ready to fire at a..........Four armed monkey? It split at the elbow. It grabbed a fruit, made some noises at you and swung off.<br>\r\n\"It's JUST a monkey. They're non-lethal\"<br>\r\nHer and Norm start analyzing trees, and using big words you'd hurt your brains trying to figure out. <br>\r\nWhat now? </span></div></div>",
+            "created":1266382800,
+            "id":838171,
+            "title":"Towards the forest"
+        },
+        "12111111111111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "What's next?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You poke through the ferns, to find some Big orange plants!!!  yo poke one, and it suddenly shloops back underground!! Cool!!! You poke another, and the whole flock of plants shloops back into the ground. uh-oh!<br>\r\n</span></div></span></div>",
+            "created":1267051200,
+            "id":841879,
+            "title":"Go Exploring"
+        },
+        "121111111111111":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Shoot",
+                "Listen to Grace"
+            ],
+            "content":"<div class=\"\"><div> <span>You hear a loud roar, and you feel your pointy avatar ears droop. There's a huge animal you recognize from the books as a hammerhead titanothere. It roars and knocks some trees over. You instinctively raise your gun to it and put your finger on the trigger. You see Grace and norm run up, and you hear grace on your radio.<br>\r\n<br>\r\n\"Don't shoot, don't shoot, you'll just piss him off.\"<br>\r\n<br>\r\nIt roars some more.<br>\r\n<br>\r\n\"It's already pissed off!\" You say into the mike.<br>\r\n<br>\r\n\"Carmine, their armor is too thick, trust me.\"<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1278952800,
+            "id":916435,
+            "title":"that's not good"
+        },
+        "1211111111111112":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Run!!!!!!!!!",
+                "hold your ground"
+            ],
+            "content":"<div class=\"\"><div> <span>You lower your weapon.<br>\r\n<br>\r\n\"Whatever you do, don't run.\" Says Grace. \"It's a threat display. If you run, he'll charge\"<br>\r\n<br>\r\n\"What do you want me to do, dance with it?!!\"<br>\r\n<br>\r\n\"Just.................. Hold your ground.\"<br>\r\n<br>\r\nThe thing roars and starts to run toward you</span></div></div>",
+            "created":1278954000,
+            "id":916448,
+            "title":"uh-oh"
+        },
+        "12111111111111122":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "the rest of the mission goes well",
+                "you see another giant  beast"
+            ],
+            "content":"<div class=\"\"><div> <span>you muster up some courage, and start to run towards the titanothere. It roars, but stops in front of you, and starts to head back.<br>\r\n<br>\r\n\"Oh yeah\" you say, relieved. \"That was freaking awesome. Yeah, get your punk-ass back to mommy, um, bitch! Yeah, who's bad, who's bad.\"<br>\r\n<br>\r\nYou give Grace a thumbs up, and she rolls her eyes. You notice she has a habit of doing that a lot around you.</span></div></div>",
+            "created":1279739460,
+            "id":921921,
+            "title":"hold your ground"
+        },
+        "12112":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Door on the left",
+                "Door on the right"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you head down the hall, but head left. You've waited five years to eat, you can wait a little longer. you head left instead. There are two doors. Which one do you go in?</span></div></span></div>",
+            "created":1265259600,
+            "id":830693,
+            "title":"Go explore the Ship"
+        },
+        "1212":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Go and eat, you're so hungry",
+                "Go explore the Ship"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Short, you're that fellow for the Avatar project eh? Well, You've been asleep for five years, so I expect you'll be hungry. There's a cafeteria down that hall, if you'd like\"<br>\r\n<br>\r\nWhat do you do?</span></div></span></div>",
+            "created":1265259600,
+            "id":830692,
+            "title":"Alexis Short (Girl)"
+        },
+        "122":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a boy or girl?</span></div></span></div>",
+            "created":1265605200,
+            "id":833020,
+            "title":"army"
+        },
+        "123":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>are you a boy or girl?</span></div></span></div>",
+            "created":1265605200,
+            "id":833021,
+            "title":"air force"
+        },
+        "125":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Super Soldier(Spartan)",
+                "Orbital Drop Shock Trooper",
+                "something else......."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What should you be? Perhaps something a little more advanced?</span></div></span></div>",
+            "created":1265173200,
+            "id":830307,
+            "title":"Something else"
+        },
+        "1251":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "boy",
+                "girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>are you a boy or girl?</span></div></span></div>",
+            "created":1265778000,
+            "id":834236,
+            "title":"Super Soldier(Spartan)"
+        },
+        "1252":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "boy",
+                "girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>are you a boy or girl?</span></div></span></div>",
+            "created":1265778000,
+            "id":834237,
+            "title":"Orbital Drop Shock Trooper"
+        },
+        "13":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "briefing room",
+                "arsenal",
+                "cafeteria"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're a musclehead, just what they need for the low gravity of Pandora. Once at Pandora, where do you go first?</span></div></span></div>",
+            "created":1265259600,
+            "id":830635,
+            "title":"A bodybuilder"
+        },
+        "131":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "boy",
+                "girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>wait a minute....... are you a boy or girl?</span></div></span></div>",
+            "created":1266555600,
+            "id":839368,
+            "title":"briefing room"
+        },
+        "1311":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Continue..........."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>alrighty, on to the briefing room</span></div></span></div>",
+            "created":1266555600,
+            "id":839370,
+            "title":"boy"
+        },
+        "1312":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Continue..........."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alrighty, on to the briefing room!!!</span></div></span></div>",
+            "created":1266555600,
+            "id":839372,
+            "title":"girl"
+        },
+        "132":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "boy",
+                "girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a boy or girl?</span></div></span></div>",
+            "created":1266555600,
+            "id":839374,
+            "title":"arsenal"
+        },
+        "1321":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Continue..........."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alrighty then, time to check out the arsenal, and all the weapons!</span></div></span></div>",
+            "created":1266555600,
+            "id":839375,
+            "title":"boy"
+        },
+        "1322":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Continue..........."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alrighty then, time to check out the arsenal, and all the weapons!</span></div></span></div>",
+            "created":1266555600,
+            "id":839376,
+            "title":"girl"
+        },
+        "133":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "boy",
+                "girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>wait.......Are you a boy or girl?</span></div></span></div>",
+            "created":1266555600,
+            "id":839377,
+            "title":"cafeteria"
+        },
+        "1331":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Continue..........."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>alright, on to the cafeteria</span></div></span></div>",
+            "created":1266555600,
+            "id":839378,
+            "title":"boy"
+        },
+        "1332":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Continue..........."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, on to the Cafeteria</span></div></span></div>",
+            "created":1266634920,
+            "id":839379,
+            "title":"girl"
+        },
+        "14":{
+            "author_id":"juggernaut882",
+            "author_name":"Acid Wire",
+            "choices":[
+                "Leon Lebeau (boy)",
+                "Carmine Rouge (boy)",
+                "Alexis Short (girl)",
+                "Your choice(boy)",
+                "Your choice(girl)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, you're here to study the plants and animals of Pandora as an avatar, good for you!! but what's your name? </span></div></span></div>",
+            "created":1265259600,
+            "id":830689,
+            "title":"A Biologist"
+        },
+        "15":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Volunteer",
+                "Criminal (Why not?)",
+                "More options?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, if not those, then how about these?</span></div></span></div>",
+            "created":1283673900,
+            "id":950383,
+            "title":"Something else.....(readers choice)"
+        },
+        "151":{
+            "choices":[
+                "You land on Pandora",
+                "You finish getting ready"
+            ],
+            "content":"<div class=\"\"><div> <span>Ever since they've let teens into the project, I've wanted to sign up. My parents didn't really care. they don't really care about anything, so I decided I might as well do something wothwhile.<br>\r\n     My name is April, because I was born in April. My parents aren't very creative with names, either. I'm just glad I wasn't born in February or October (shudder).<br>\r\n     Anyway, right now I was looking at the black inside of the small, coffin-sized sleeping chamber. I liked to trace the letters of my name that were etched into the side. Some of the kids in my school had even signed up for this, either because they were total daredevil idiots or because their parents didn't care about them any more than mine cared about me.<br>\r\n     We'd been in space for about a week. Probably a year or two in Earth days. I was still getting used to that wording, even though I felt more at home on this giant machine than on Earth.<br>\r\n     Suddenly, the door behind my head slid open, revealing the room outside. Gratefully, I stretched and pushed myself out, gripping the edges as I did so I wouldn't float out of control.<br>\r\n     Thankfully, Ricky was there. He caught me as I came out and slid me the rest of the way, so that we were both floating and gripping the edge to stay upright as he closed the compartment.<br>\r\n     \"How are you?\" Ricky asked.<br>\r\n     I shrugged. \"Fine, I guess. I'm sick of being stuck in those coffins, though.\"<br>\r\n     He laughed, apparently amused by my discomfort. \"Yeah, those things do suck. But the Captain said we would be landing in about thirty minutes.\"<br>\r\n     I nodded, trying not to show my excitement. \"Great.\"<br>\r\n     \"Wanna get ready?\" Ricky asked.<br>\r\n     \"I guess.\"<br>\r\n     \"Great.\"</span></div></div>",
+            "created":1291435680,
+            "id":1007837,
+            "title":"Volunteer"
+        },
+        "152":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Accept the offer.",
+                "Reject the offer.",
+                "Try and pry more information from him."
+            ],
+            "content":"<div class=\"\"><div> <span>\"We find the defendant guilty.\"<br>\r\n<br>\r\n\"Ah, shit.\" Axel muttered to himself upon hearing those words. He leaned back in the courtroom chair he was in, probably the last comfy chair he'd ever sit in. The judge dismissed the jury, and the bailiff was called to remove Axel to a holding cell. Found guilty for the murder of two civilians. Just another example of his knack for being in the wrong place at the wrong time.  Except this time it really bit him in the ass. He let out a quiet sigh, and listened to the almost imperceptible mechanical whir that followed.<br>\r\n<br>\r\n\"Mr. Davis, correct?\" A tall, thin man in a business suit asked. he had the look of a stuck-up but sniveling underling who was easy to push around if you had a higher station.<br>\r\n<br>\r\n\"Yeah?\" Axel replied in a bored tone, \"Already processing requests for last meals? Didn't know the system worked so fast these days.\"<br>\r\n<br>\r\n\"I'm not here on behalf of any judicial or federal system. I'm here to make you an offer.\" The stick figure said. Axel could practically <b>hear</b> him looking down on him. \"My employers have taken an interest in you. A near spotless record until now, plenty of useful skill sets, and now a good reason to agree to what I'm about to say. My employers want you to work for the company. You would be going to Pandora.\"<br>\r\n<br>\r\nAxel's eyes lit up at the name. There wasn't a kid on Earth who grew up without hearing about it, and most would kill (no pun intended) to go there. Barring the hostile atmosphere, hostile fauna, hostile natives, and hostile just about everything else. \"I'm listening.\" Axel said, sitting up.<br>\r\n<br>\r\n\"You can agree, and you'll get the details later, or decline, and we'll leave you to rot in a prison cell until your execution.\" The suit said flatly. \"Your choice.\"</span></div></div>",
+            "created":1293703320,
+            "id":1025334,
+            "title":"Sentenced to Assist."
+        },
+        "1521":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Landing goes smoothly",
+                "Crash and burn."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'll take it.\" Axel said, moving up to the cell door. \"But I want to know exactly how this is going to work.\"<br>\r\n<br>\r\n\"I'm not the one to inform you of your working terms.\" Stickman replied, still audibly looking down on Axel. \"You'll get what you need to know when you need to know it.\"<br>\r\n<br>\r\n\"Okay, how about... When do I get out of here?\" Axel asked clasping his hands around the bars.<br>\r\n<br>\r\n\"Now, but you will have to wait for your escort. You will be taken home briefly to collect some of your belongings, and afterwards you will be taken to the launch area. Once you have departed, you will be put in cryo. Don't create any problems, and things might go nicely for you. Got it?\"<br>\r\n---------------------------------------------------------------------------- ---------<br>\r\n\"All personnel going to cryo, please place your baggage into your locker, and prepare for cooling.\"<br>\r\n<br>\r\nAxel moved with unusual grace without gravity holding him down, although the handcuffs on his wrists did make a few things difficult. Before long, he was being put in a cryo chamber and being told to relax. He closed his eyes and briefly wondered if he should've worn anything more than a Hawaiian shirt, jeans, and hiking boots as the chamber hissed shut, to remain that way for almost the next six years.<br>\r\n---------------------------------------------------------------------------- ---------<br>\r\n\"Rise an' shine, dirtbag!\"<br>\r\n<br>\r\nAxel winced at the rude voice yelling at him, and smoothed out the creases in his shirt before exiting the cryo tube. He moved over to his locker, still handcuffed, and got his bag before being escorted to the surface shuttle. He was shoved down into his seat by a tough looking military type, and practically had an re-breather system thrown at him. Other guys took their seats around him, mostly guys who were likely working as hired guns. The shuttle detached itself with a small jolt, and before long, a man in army greens was standing up, giving them instructions for what to do when they landed.</span></div></div>",
+            "created":1293704880,
+            "id":1025342,
+            "title":"Better than prison... maybe."
+        },
+        "15211":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Shortly before the security brief.",
+                "Or, at the security brief."
+            ],
+            "content":"<div class=\"\"><div> <span>The shuttle shook a bit as it entered Pandora's atmosphere. There were loud, ominous crashing noises outside, giving a few of the men sitting down reason to look around nervously. Axel simply sat there, eyes closed and mind clear, ignoring the turbulence.<br>\r\n<br>\r\n\"Exo-packs on! Let's go! Exo-packs on!\" One of the flight crew called out loudly, walking to the back of the shuttle where the docking bay was. \"Remember, people, you lose that mask, you will be unconscious in under half a minute, and you are worm food in four minutes! It looks very bad on me for any of you to die, so let's nobody be dead today!\"<br>\r\n<br>\r\nAxel listened to the collective hissing noise of everyone else putting their masks on, and then joined the mask wearing brigade with a tiny smirk stamped on his face. He didn't need it, but he'd humor them for the moment.<br>\r\n<br>\r\nThe shuttle landed with another small jolt, and the crewman who was giving them instructions said, \"Remove your seat-belts and get your bags! Let's keep it moving boys! When that ramp opens, head straight to base. This is not a vacation, so there is no stopping for sight-seeing! On my signal!\"<br>\r\n<br>\r\nAs the ramp descended, the air shimmered as Pandora's breath rushed in. The crewman in charge waved his hand in a \"get moving\" signal. Axel was at the back of the line of men, and followed two steps behind the girl in front of him.<br>\r\n<br>\r\n\"Keep it moving! Do not make me wait on you special case. Your security escort will be waiting right inside, do not make him wait!\" The crewman shouted as Axel moved past.<br>\r\n<br>\r\nAxel looked around a bit as he kept up in line, and thought one thing. <i>Looks like prison to me.</i></span></div></div>",
+            "created":1293953280,
+            "id":1027455,
+            "title":"Landing goes smoothly"
+        },
+        "152111":{
+            "choices":[
+                "You do want!",
+                "Later..."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey!\"<br>\r\nA man waves at you.<br>\r\n\"Hey, are you with the Avatar project?<br>\r\nYou nod, walking over to him.<br>\r\n\"Your name?\" He asks, pulling out some paper.<br>\r\n\"Axe.\" You say.<br>\r\n\"Great! Follow me!\" He says. \"My name's Grey, I've been working pretty closely on the avatar project. You can try out your avatar now, if you want.\" </span></div></div>",
+            "created":1365634140,
+            "id":1569482,
+            "title":"Shortly before the security brief."
+        },
+        "152112":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Quaritch hands Axel some nastier jobs.",
+                "Quaritch assigns Axel his standard jobs."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Now that everyone's here, you can take a seat. Go ahead, get comfortable. It will likely be the last time you can get that way for some time.\" The tall, athletic looking middle-aged man said as he marched in from the door behind Axel. \"Ladies, gentlemen, and dirt-bag, you are no longer in Kansas. Hell, you are no longer anywhere close to it. And speaking of Hell, if there is one, you may want to go there to recover from a tour here on Pandora. That aside, I am Colonel Quaritch, current chief of security in this facility. It is my job to protect you. I will not succeed. Because inevitably, someone here is not going to follow the rules. Not Earth rules. Pandora rules.\"<br>\r\n<br>\r\nQuaritch moved farther forward, up towards the shuttered window that everyone was facing. He snapped his fingers for dramatic effect, opening the blinds to a vast wall of slightly distant foliage of a multitude of colors ranging from ordinary to a bit luminescent.<br>\r\n<br>\r\n\"Rule number one.\" He said, pointing out at the dense jungle, \"Out there, beyond that lovely, barbed-wire fence, every living thing that is not from Earth wants to kill you and and drain you of your bodily fluids like soda from a soda can. If you have any intention of survival, you will remember that fact every day.\"<br>\r\n<br>\r\n<i>Great</i>, Axel thought, propping his head up on the palm of his hand, <i>This is the guy who's tossing me orders. Probably has been here for half his life, and is just as probably bat-shit insane.</i><br>\r\n<br>\r\n\"AM I BORING YOU, BOY?\" Quaritch said very loudly from a foot behind Axel, snapping him out of his thoughts. \"This is a prime example of a violation of rule number one. Do not let this,\" He then indicated towards Axel, \"happen to you. And I will be having a discussion with you after this little brief is done\"</span></div></div>",
+            "created":1296375480,
+            "id":1044522,
+            "title":"Meet General Jack Ripper."
+        },
+        "153":{
+            "author_id":"xerox777",
+            "author_name":"Zero",
+            "choices":[
+                "criminal(child)",
+                "senior",
+                "more options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>more options</span></div></span></div>",
+            "created":1319438580,
+            "id":1211961,
+            "title":"More options"
+        },
+        "1533":{
+            "author_id":"weatherwatcher",
+            "author_name":"Talcane",
+            "choices":[
+                "A curious 5 year old child.",
+                "An adventurous teen.",
+                "More options."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a five year old child who's curious about Pandora or a Teen wanting to get some excitement on a new planet, which was Pandora?</span></div></span></div>",
+            "created":1391174160,
+            "id":1735788,
+            "title":"A five year old kid curious about Pandora/ A teen"
+        }
+    },
+    "info":{
+        "author_id":"juggernaut882",
+        "author_name":"Acid Wire",
+        "brief_description":"You're chosen to take part in a project on the distant planet Pandora\r\nGPs for reviews\r\n\r\n",
+        "created":1265248080,
+        "description":"<td align=\"left\" class=\"norm\">Well, have fun, it's a great story, fun for everybody, action, adventurous.  It's similar to the movie, except its YOU up there instead of Jake. I personally couldn't care less about sex and all that, go ahead, just dont take away from the main story too much. I'll hardly delete anythig, so feel more than free to add a chapter. I normally give out GP's for reviews and good chapters!!!</td>",
+        "id":1642485,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1391174160,
+        "modified":1391174160,
+        "pretty_title":"The Avatar Project"
+    }
+}

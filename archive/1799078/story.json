@@ -1,0 +1,831 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Human",
+                "Digimon",
+                "Pokemon",
+                "Furry",
+                "Scaly"
+            ],
+            "content":"<div class=\"\"><div> <span>You awaken to find yourself in a large greenhouse-like building full of all manner of plants, and aromas.  You slowly realize that this is Poison Ivy's Lair.<br>\r\n<br>\r\nI have to escape before she finds me, you think to yourself.  But first you also realize that you are...</span></div></div>",
+            "created":1312434000,
+            "id":1161044,
+            "title":"In the Lair"
+        },
+        "11":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are definately human, but which gender?</span></div></span></div>",
+            "created":1312434000,
+            "id":1161062,
+            "title":"Man or woman"
+        },
+        "111":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Yes, I'm a Hero",
+                "Yes, I'm a villian",
+                "No, I'm pretty much an Average Joe"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK...Are you From DC Comics too?</span></div></span></div>",
+            "created":1331528400,
+            "id":1293720,
+            "title":"Male"
+        },
+        "1111":{
+            "author_id":"feveredlake746",
+            "author_name":"FeveredLake",
+            "choices":[
+                "Batman (or sidekick)",
+                "Superman",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which hero?</span></div></span></div>",
+            "created":1557065820,
+            "id":2655445,
+            "title":"Yes, I'm a Hero"
+        },
+        "11111":{
+            "author_id":"feveredlake746",
+            "author_name":"FeveredLake",
+            "choices":[
+                "Batman (aka Bruce Wayne)",
+                "Nightwing (aka Dick Grayson)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which member of the Bat-Family will be trapped within Poison Ivy's lair?</span></div></span></div>",
+            "created":1557066900,
+            "id":2655448,
+            "title":"Batman (or sidekick)"
+        },
+        "111113":{
+            "author_id":"feveredlake746",
+            "author_name":"FeveredLake",
+            "choices":[
+                "Red Hood (aka Jason Todd)",
+                "Robin (Tim Drake)",
+                "Robin (Damian Wayne)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Another current or former Robin?</span></div></span></div>",
+            "created":1557067080,
+            "id":2655449,
+            "title":"Other"
+        },
+        "1112":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "The Joker",
+                "The Riddler (AKA Edward Nygma)",
+                "The Scarecrow (AKA Jonathan Crane)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK...You... Dastardly Villain! Which Male Villain? </span></div></span></div>",
+            "created":1331528400,
+            "id":1293721,
+            "title":"Yes, I'm a villian"
+        },
+        "11122":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>You're Edward Nygma (AKA The Riddler) And you've stumbled into Poison Ivy's trap<br>\r\n<br>\r\n\"Curses\" You think to yourself \"I should never have taken up Joker's dare, to steal her fruit\"<br>\r\n<br>\r\nYou find a bunch of vines wrapping around your waist, they lift you out of the trap to Poison Ivy!</span></div></div>",
+            "created":1331528400,
+            "id":1293746,
+            "title":"The Riddler (AKA Edward Nygma)"
+        },
+        "11123":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "She gets out a feathery vine",
+                "She lets her plants 'pleasure you'"
+            ],
+            "content":"<div class=\"\"><div> <span>You're Jonathan Crane AKA The Scarecrow...and you find yourself in Poison Ivy's Greenhouse<br>\r\n<br>\r\n\"Drat!\" You curse to yourself \"I knew I shouldn't have stopped to pick her pumpkins!\"<br>\r\n<br>\r\nYou wander around trying to find your way out, suddenly you feel something grasping your ankle, you look down, it is a fine.<br>\r\n<br>\r\nYou try your best to shake it off, but more vines keep coming<br>\r\n<br>\r\nSoon the vines start stripping you of your clothes, leaving your lanky body exposed, you blush with rage and embarrassment!<br>\r\n<br>\r\n\"Well...\" A sultry voice purrs \"If it isn't my favorite fear loving bookworm!\"<br>\r\n<br>\r\n\"Ivy!\" You yell at the top of your lungs \"I demand you release me right now!\"<br>\r\n<br>\r\n\"Now what fun would there be in that?\" Ivy purrs as she strokes your cheek<br>\r\n<br>\r\n\"Ivy...\" You say trying not to show any fear in your voice \"What are you going to do?\"<br>\r\n<br>\r\n\"Don't worry.\" She says \"It won't hurt but it will make you happy!\"</span></div></div>",
+            "created":1331528400,
+            "id":1293726,
+            "title":"The Scarecrow (AKA Jonathan Crane)"
+        },
+        "111231":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "She tickles your feet",
+                "She tickles your belly"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Tell me Professor Crane...\" Pamela purrs in her every too sultry voice<br>\r\n<br>\r\n\"That's Scarecrow to you!\" You bark<br>\r\n<br>\r\n\"Whatever...\" She says \"Have you ever been...tickled before?\"<br>\r\n<br>\r\n\"What the hell kind of question is that?\" You snap annoyed<br>\r\n<br>\r\n\"It's a simple question.\" She says<br>\r\n<br>\r\n\"No.\" You say flatly \"No one has ever tickled me before.\"<br>\r\n<br>\r\n\"I know a lot about you Jonathan Crane.\" Ivy says as she strokes your pale, long, narrow feet \"How you were abandoned by your parents at birth, how you were bullied by the other kids at school, how your one crush set you up for a humiliating prank...\"<br>\r\n<br>\r\n\"What are you getting at Pamela?\" You ask daring use her real name since she causally uses yours.<br>\r\n<br>\r\n\"You've never been caressed by a loving hand.\" She says continuing to stroke your foot \"Never shown any love, any affection...\"<br>\r\n<br>\r\nWithout your knowledge she takes a feathery vine and strokes it up your sole, making you howl with laughter...<br>\r\n<br>\r\n\"Never been tickled.\" She smirks</span></div></div>",
+            "created":1331528400,
+            "id":1293731,
+            "title":"You Didn't have a Good Childhood"
+        },
+        "1112311":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Go along with her",
+                "Make one last attempt to resist"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ivy...\" You say nervously as she lifts up your enormous right foot \"You...You don't want to do this...\"<br>\r\n<br>\r\n\"Jonathan you really should learn to loosen up a little more.\" Ivy says as she strokes her index finger up and down your right arch making you snicker.<br>\r\n<br>\r\n\"Honestly you're so tense, you need to laugh more often.\" She starts stroking your arch a little faster turning your snickering into a steady stream of giggling.<br>\r\n<br>\r\n\"And you're always so angry all the time!\" She chuckles, as she starts tickling the top of your foot \"How about a smile once in a while?\"<br>\r\n<br>\r\nYou are not laughing so much it hurts but you are giggling and snickering quite a bit and you have this adorable goofy grin on your face<br>\r\n<br>\r\n\"Please Ivy...\" You say trying to hold in your laughter and failing miserably \"Please let me go...If any other villains learn  about this my reputation is ruined!\"<br>\r\n<br>\r\n\"No one will ever find out about this.\" She says in her most soothing voice \"Whatever transpires here will be just between us.\"<br>\r\n<br>\r\nShe then plants a kiss on your sole, and you blush and melt at that, you are tempted to go along with whatever she has planned <br>\r\n</span></div></div>",
+            "created":1332046800,
+            "id":1297613,
+            "title":"Feet that might have served as shovels..."
+        },
+        "111232":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "\"...For you to seduce me.\"",
+                "\"...To dance with you.\""
+            ],
+            "content":"<div class=\"\"><div> <span>You were about to try one more time to free yourself, but then you feel something soft and ticklish caressing the space in between your bumcheeks.<br>\r\n<br>\r\n\"Ivy...\" You drop your facade of bravery and show genuine nervousness \"What are your plants doing to me?\"<br>\r\n<br>\r\nYou feel more plants caressing your bottom, tickling, stroking, poking...You can't help but feel turned on by the attention<br>\r\n<br>\r\n\"Oh it's nothing.\" Ivy says as she leans against a tree to watch \"I just figured since during your childhood you were spanked so often your backside would appreciate a little more positive attention...\"<br>\r\n<br>\r\n\"But...Ivy...\" You wince as a vine slowly caresses your butt crack,  \"I'm really rather ticklish and these plants are really irritating me...\"<br>\r\n<br>\r\n\"Would you rather be spanked?\" Ivy asks innocently<br>\r\n<br>\r\n\"NO! No...\" You say quickly because if there is one thing you hate more then being tickled it is being hurt<br>\r\n<br>\r\n\"Well what would you like?\" She asks<br>\r\n<br>\r\nYou know she is going to have to do something so you quickly say \"I would like...\"<br>\r\n<br>\r\n</span></div></div>",
+            "created":1332046800,
+            "id":1297556,
+            "title":"She lets her plants 'pleasure you'"
+        },
+        "1113":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Just an Average Joe",
+                "A Disney Hero"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you simply an Average Joe, or are you something more?</span></div></span></div>",
+            "created":1335934800,
+            "id":1327686,
+            "title":"Average or Something More"
+        },
+        "11131":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "You are captured by vines.",
+                "You run into Poison Ivy herself.",
+                "You run into one of Ivy's female henchmen."
+            ],
+            "content":"<div class=\"\"><div> <span>You are Zak from Ferngully.  You look down at yourself and see that your usual blue shirt is missing, leaving you shirtless.  You look around for an exit, but can't see a way out anywhere.  You slowly start making your way through the Lair, when suddenly...</span></div></div>",
+            "created":1424149200,
+            "id":1935829,
+            "title":"Zak from Ferngully"
+        },
+        "11132":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Aladdin",
+                "Tarzan"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, you're a Disney Hero, but which one?</span></div></span></div>",
+            "created":1335934800,
+            "id":1327687,
+            "title":"Which Disney Hero?"
+        },
+        "111321":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "You are captured by vines",
+                "You are captured by Poison Ivy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are Aladdin. You look around for an exit, but can't see a way out anywhere. You slowly start making your way through the Lair, when suddenly...</span></div></span></div>",
+            "created":1424149200,
+            "id":1935830,
+            "title":"Aladdin"
+        },
+        "111322":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "You are captured by vines",
+                "You meet Poison Ivy",
+                "You see a Belly Dancer Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are Tarzan. You look around for an exit, but can't see a way out anywhere. You slowly start making your way through the Lair, when suddenly...</span></div></span></div>",
+            "created":1424149200,
+            "id":1935831,
+            "title":"Tarzan"
+        },
+        "1113223":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Approach the Belly Dancer Girl",
+                "Sneak past her"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>...you see a Belly Dancer Girl dancing in a nearby clearing.  She does not seem to notice you.  Her dancing is very sensual and alluring, but you can't help feeling that it is a trap.  What do you do?</span></div></span></div>",
+            "created":1424149200,
+            "id":1935832,
+            "title":"You see a Belly Dancer Girl"
+        },
+        "112":{
+            "author_id":"carnivore318",
+            "author_name":"Carnivore",
+            "choices":[
+                "The vine path",
+                "The red flower path",
+                "The white flower path"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a human female, about 20 years old. You are dressed in a white bikini top and short shorts, along with a pair of sturdy hiking boots. You've got wavy black hair and dark brown eyes. Your skin is smooth and tanned from long hours outdoors, and your athletic lifestyle has kept you in great shape. Your legs are toned, your tummy is taut, and your firm breasts have made you quite the catch. Maybe that's why you've ended up in Poison Ivy's greenhouse, you think with a shudder. <br>\r\n<br>\r\nThe last thing you remember was hiking through the rainforest. It was hot and humid, so you tried to wear as little as possible. Then\u2026 you woke up in here. Thinking you might be able to get out before Ivy notices you're awake, you get up and look around.<br>\r\n<br>\r\nThe greenhouse is thick with vegetation. Trees stretch up to the roof, covered in vines. Ferns and flowers line rows of carefully placed plant life. You start walking down the rows, looking for a doorway. As your walking amongst the plants, you feel something feathery drag across your bare belly. Letting out a startled giggle, you jump backwards and cover your stomach with your hands. In front of you is a wiggling vine with what looks like a feathery tip.<br>\r\n<br>\r\n\"Great,\" you think to yourself. \"The vines are going to tickle me! I'm so ticklish, I don't know if I'll be able to take it. I mean, I kind of like being tickled, but if Poison Ivy catches me\u2026\" You stop and shake your head, determined not to let that happen. At the same time, you keep your arms to your sides, trying to cover your underarms, sides, midriff, and as much skin as possible. Although, since you aren't wearing much, it seems like a lost cause.<br>\r\n<br>\r\nYou notice the road forks ahead. To the left is a path covered in feathery vines. You catch some of them wiggling out of the corner of your eye, but whenever you stare at them, they seem to stop. The path looks\u2026 ticklish.<br>\r\n<br>\r\nThe middle path has bright red flowers lining both sides, and is very fragrant. Taking a whiff of the sweet scent, you feel yourself getting hot\u2026 and your nipples perk up. A pleasant tingling sensation runs down your spine. Realizing what the smell is doing to you, you shake your head to clear your mind. Would being turned on like that be any better than being tickled?<br>\r\n<br>\r\nThe right path has white flowers that don't seem to smell very much. You try to take a whiff, but you can't seem to smell anything. In fact, you feel your mind blanking, your body relaxing\u2026 you shake your head again. This path might be the most dangerous, you think.<br>\r\n<br>\r\nYou've got three paths to take, each with their dangers. Which one should you choose?</span></div></div>",
+            "created":1312434000,
+            "id":1161300,
+            "title":"Human Woman"
+        },
+        "1121":{
+            "author_id":"justsomelurker",
+            "author_name":"Feathery",
+            "choices":[
+                "Using all your strength, you pull free of the vines grip.",
+                "As you struggle more vines grab more limbs...",
+                "\"Hello there honey,\" a voice coos from behind you."
+            ],
+            "content":"<div class=\"\"><div> <span>Deciding to risk the obvious danger of tickling over whatever pheromones might be lurking elsewhere you take the path on the left, bracing yourself as best you can. At least this way you know what to expect. Not that it helps your nerves at all.<br>\r\n<br>\r\nIt's not so bad to begin with. They don't move when you can see them but you can't look everywhere at once. All you can do is keep your arms locked into your body and try to protect your tummy and sides as best you can. You giggle and squirm as you go trying to stay as quiet as possible. Feathery touches tease and caress your exposed skin, teasing the back of your knees, gliding over your back and neck and wriggling over your ribs and belly where your hands aren't.<br>\r\n<br>\r\nNot knowing where the path leads you press on sir pressing your laughter as best you can so as not to attract any attention. Whilst you're clearly enjoying the teasing and tickling to let it all out would be a bad idea.<br>\r\n<br>\r\nSuddenly something wraps around your wrist and rags upwards, pulling your arm with it. The vines don't miss a beat and instantly dive upon the virgin skin. You squeal and laugh out loud as you struggle against the pull of the larger vine.</span></div></div>",
+            "created":1420434000,
+            "id":1913306,
+            "title":"The vine path"
+        },
+        "11211":{
+            "author_id":"kool_kid6",
+            "author_name":"Kool Kid",
+            "choices":[
+                "Some kind of flower appears behind you",
+                "A red haired woman appears behind you"
+            ],
+            "content":"<div class=\"\"><div> <span>As the thick vine  tugged at your arm, and the tinier ones tickled you senseless. You finally made an effort to tug free of the vines. Unfortunately, the vines didn't lose grip, they had let go causing her force to drive her right into the plants behind her. More vines wrap around your waist and legs and pull your arms above your head.<br>\r\n<br>\r\nYou clench your eyes knowing what was to come as vines close in on your bare skin. You feel something feathery brush against your side and all the vines joined in after it to torture you.They slide up and down your tender underarms, while others poke at your soft sides. Feathery vines slide up and down your soles and in between your toes.Every area of exposed skin was stroked by the brutal plants. However, through all the tickling and hysterics, you're somehow able to sense a presence behind you.</span></div></div>",
+            "created":1507781760,
+            "id":2400032,
+            "title":"Using all your strength, you pull free of the v..."
+        },
+        "1122":{
+            "author_id":"edd682",
+            "author_name":"Arcangel",
+            "choices":[
+                "resist",
+                "give in"
+            ],
+            "content":"<div class=\"\"><div> <span>deciding it would be safer down the middle path, you take a deep breath and move forward into the red flowers. as you walk through the colorful area, you feel like something is watching you, or someone. but apart from that, you feel you chest tightening from holding your breath. you're only halfway along the path when you feel like your about to burst. rather against your will, you take a breath, and suddenly feel yourself getting hot. you bit your lip as the breaths come thick and fast, your  nipples perk up, and that all to familiar sensation shoots down your spine. you're starting to get really turned on, but the question is will you resist, or will you give in to being this turned on?</span></div></div>",
+            "created":1348290000,
+            "id":1433030,
+            "title":"The red flower path"
+        },
+        "11221":{
+            "choices":[
+                "Gloved hands wrap around your waist while a soft voice coos in your ear.",
+                "Try to hold it but flood yourself"
+            ],
+            "content":"<div class=\"\"><div> <span>Despite your state, you struggle to keep going down the bath. You ball your hands up at your side, ignoring the desire to rub your crotch. It's getting harder as you want nothing more than to release and cream your shorts. You make it farther, and see the exit. Suddenly.</span></div></div>",
+            "created":1480745880,
+            "id":2244935,
+            "title":"resist"
+        },
+        "12":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Guilmon",
+                "Silphymon",
+                "Weregarurumon",
+                "Angewomon",
+                "Exveemon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are definitely a Digimon, but which one?</span></div></span></div>",
+            "created":1312434000,
+            "id":1161067,
+            "title":"Which Digimon"
+        },
+        "13":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Mewtwo",
+                "Blaziken",
+                "Dragonite",
+                "Charizard",
+                "Nidoking"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are definately a Pokemon, but which one</span></div></span></div>",
+            "created":1312434000,
+            "id":1161066,
+            "title":"Which Pokemon"
+        },
+        "131":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Poison Ivy Herself",
+                "Ivy's Best Friend Harley Quin",
+                "A Dominant Amazon Babe"
+            ],
+            "content":"<div class=\"\"><div> <span>You are Mewtwo. You try to teleport yourself out of the Lair, but you soon discover that something in the Lair is preventing you from using your psychic powers.  You then look around for an exit, and eventually spot one at the end of a clear brick path. You immediately run towards the exit, thinking that you are going to escape. However, just before you reach the exit, the path seemingly disappears from under your feet revealing a trap door. Instinctively you grab hold of a nearby vine, preventing your fall. Looking down, you see that the bottom of the pit is full of over sized cacti, with long needles on them that could have easily impaled you.<br>\r\n<br>\r\nThat was a close one, you think to yourself.<br>\r\n<br>\r\nImmediately you use the vine you had grabbed to pull yourself out of the pit. Once you are back on the path, and before you can let go of the vine, the vine suddenly wraps itself around your right wrist. Upon looking at the vine, you see that the end of it has a small flower with sharp teeth inside of it. The vine then sticks out a forked serpent-like tongue and wiggles it at you. Before you can use your left hand to pull the vine off of your wrist, another vine appears and winds itself around your left wrist. Then a third vine appears and coils itself several times around your slender waist, squeezing you tightly, and even drawing an involuntary groan of pain from you.<br>\r\n<br>\r\nYou struggle against the vines, but eventually they begin to pull you into the bushes. When the vines get you through the bushes, you see what you are being dragged towards. And it is...</span></div></div>",
+            "created":1466917200,
+            "id":2171195,
+            "title":"Mewtwo in a Bind"
+        },
+        "14":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Kangaroo",
+                "Anthro Rabbit",
+                "Anthro Horse",
+                "Anthro Wolf",
+                "Anthro Vixen"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a Furry, but what kind? </span></div></span></div>",
+            "created":1312434000,
+            "id":1161068,
+            "title":"Which Furry"
+        },
+        "141":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a Kangaroo, but are you male or female?</span></div></span></div>",
+            "created":1457499600,
+            "id":2115325,
+            "title":"Kangaroo"
+        },
+        "1411":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Poison Ivy Herself",
+                "A Plant with Tickling Leaves",
+                "Three Harem Girls"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a male Kangaroo.  You have grey fur all over your body, except on your chest and stomach where you have white fur.  You glance down at yourself and see that you are wearing tan cargo shorts.  You look around for an exit, and eventually spot one at the end of a clear brick path.  You immediately run towards the exit, thinking that you are going to escape.  However, just before you reach the exit, the path seemingly disappears from under your feet revealing a trap door.  Instinctively you grab hold of a nearby vine, preventing your fall.  Looking down, you see that the bottom of the pit is full of over sized cacti, with long needles on them that could have easily impaled you.<br>\r\n<br>\r\nImmediately you use the vine you had grabbed to pull yourself out of the pit.  Once you are back on the path, and before you can let go of the vine, the vine suddenly wraps itself around your right wrist.  Upon looking at the vine, you see that the end of it has a small flower with sharp teeth inside of it.  The vine then sticks out a forked serpent-like tongue and wiggles it at you.  Before you can use your left hand to pull the vine off of your wrist, another vine appears and winds itself around your left wrist.  Then a third vine appears and coils itself several times around your ab-covered belly, squeezing you tightly, and even drawing an involuntary groan of pain from you.<br>\r\n<br>\r\nYou struggle against the vines, but eventually they begin to pull you into the bushes.  When the vines get you through the bushes, you see what you are being dragged towards.  And it is...</span></div></div>",
+            "created":1460264400,
+            "id":2130649,
+            "title":"A Male Kangaroo In a Bind"
+        },
+        "142":{
+            "author_id":"tharris2",
+            "author_name":"dragoness seeker",
+            "choices":[
+                "Male rabbit",
+                "female rabbit",
+                "You are not a rabbit...you are a hare"
+            ],
+            "content":"<div class=\"\"><div> <span>Well what kind of rabbit or you?<br>\r\n<br>\r\nAre you a tough, resourceful male rabbit, one's that's just  a little worried coming to the green house?<br>\r\n<br>\r\nAre you an adventure, lithe female rabbit, one that is curious about everything.<br>\r\n<br>\r\nWell... you could be a hare. </span></div></div>",
+            "created":1397451600,
+            "id":1779357,
+            "title":"Anthro Rabbit"
+        },
+        "1421":{
+            "author_id":"tharris2",
+            "author_name":"dragoness seeker",
+            "choices":[
+                "Caught by the big rat",
+                "Caught by the green Squirrel",
+                "Caught by Posion Ivy herself"
+            ],
+            "content":"<div class=\"\"><div> <span>Your name is Beck Hamfoot. You are a Rabbit  from the undercity of Roca's rave, located just under  Gotham City<br>\r\n<br>\r\nYou are a short guy,  with your long ear make you just over under 5 feet.  You lost your winter coat, so you have brown fur, with patch of tan interminged.  Your only clothing is you pants, underwear, and skater sneakers. <br>\r\n<br>\r\nAfter being driven out of your home, as a giant root sudden appearance and block out your hurrow.  You go to the surface to investigate<br>\r\n\"Halt!  who goes there?\"<br>\r\n<br>\r\nYou turn around and see the biggest rat you ever seen.  At least, you think it's a rat, (kind of hard to see with that Mexican wrestler's mask on his head. <br>\r\n<br>\r\nYeah...you turn and run.  The big rat follow, or tries to.  You are much faster.  So fast in fact that you almost run to the next person.  <br>\r\n<br>\r\n\"Well, Well, What have we here?\"<br>\r\n<br>\r\nYou look up and you see a squirrel.  A female busty squirrel with long legs, oversize breasts, and green fur.  She is wearing only a leotard.  <br>\r\n<br>\r\nThe green squirrel give you a creeppy smile as she come closer to you.<br>\r\n<br>\r\n\"Oh, I going to have some fun with you.\"  <br>\r\n<br>\r\nYou run again.  You keep running into you found youself in some sort of jungle.  Your big ears manage to hear footsteps. (didn't work on the big rat for some reason.)   You manage to hide under a brush, and wait.  A human appears.  She about average height, but is well formed, with long legs, firm breasts, long red hair, and green skin.<br>\r\n<br>\r\nAs She seem to walk pass you, and does not stop till you reaches a clearing, You realized that there is some sort of pattern about this place.  No doubt the squirrel and you are related The clearing is some feet ahead of you.  You hear more people approaching and the green squirrel and big rat is there.  You notice that there is a even bigger character in the background that you know you do not want to meet.<br>\r\n<br>\r\n\"Well, my guards.  \"  The green skinned woman started  \"It seem that we have a visitor. I can tell that he is a male.  Try to catch him please.  I don't want him...to be lost. \"<br>\r\n<br>\r\nYou shudder at her last word, because you realize who she is.  It's Poison Ivy.  There no escape from her lair,  All that matters is who catches you.  </span></div></div>",
+            "created":1397451600,
+            "id":1779390,
+            "title":"Male rabbit"
+        },
+        "14212":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Some vines wrap around you.",
+                "She pounces on you."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Well well, what have we here?\" you hear the Green Squirrel's voice behind you. You turn around and see her smiling at you, her hands on her hips. The next moment is a blur. Before you can react...</span></div></span></div>",
+            "created":1420347600,
+            "id":1912584,
+            "title":"Caught by the green Squirrel"
+        },
+        "142121":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Tickles you",
+                "Embraces you"
+            ],
+            "content":"<div class=\"\"><div> <span>...several vines begin to wrap around you. Two wrap around your arms, another two wrap around your legs, and one curls around your stomach.  The one around your stomach squeezes you tightly, forcing the air from your lungs.<br>\r\n<br>\r\n \"Feeling the pressure, little bunny,\" the Green Squirrel teases. She then walks up to you and...</span></div></div>",
+            "created":1420347600,
+            "id":1912590,
+            "title":"Some vines wrap around you."
+        },
+        "1421211":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Chest and Armpits",
+                "Belly and Waist"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>...begins to tickle you on your...</span></div></span></div>",
+            "created":1420347600,
+            "id":1912591,
+            "title":"Tickles you"
+        },
+        "1421212":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "She kisses your lips",
+                "She licks your face"
+            ],
+            "content":"<div class=\"\"><div> <span>...embraces you.  She seductively slips her arms around you under your arms and presses her large furry breasts against your bare furry chest.  You gasp and gulp as the warmth and softness of her bossum begins to overpower you.<br>\r\n<br>\r\n\"Mmm nothing like a female's breasts pressing against your chest is there little bunny?\" She whispers in your ear.  \"Well except perhaps her lips pressed against your lips, or maybe her tongue sliding all over your cute face.\"<br>\r\n<br>\r\nShe slowly moves her face closer to yours, and then...</span></div></div>",
+            "created":1457499600,
+            "id":2115337,
+            "title":"Embraces you"
+        },
+        "142122":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "She pins you down",
+                "You manage to escape"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>...she pounces on you.  The two of you wrestle around on the ground until...</span></div></span></div>",
+            "created":1457499600,
+            "id":2115338,
+            "title":"She pounces on you."
+        },
+        "1421221":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Kiss you",
+                "Seduce you"
+            ],
+            "content":"<div class=\"\"><div> <span>...she pins you down.  She manages to seize your wrists in her hands and straddles your waist between her legs.<br>\r\n<br>\r\n\"Gotcha,\" she says in triumph.  Immediately some roots come out of the ground near you.  Two wrap around your arms, two more wrap around your ankles, and the last one wraps around your neck.  The squirrel then sits up and places her hands on your chest.<br>\r\n<br>\r\n\"Lie still little bunny, it's easier that way,\" she says.  She then prepares to...</span></div></div>",
+            "created":1457499600,
+            "id":2115346,
+            "title":"She pins you down"
+        },
+        "14213":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Her vines wrap around you.",
+                "She breathes her pheramones on you."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Well well, what have we here?\" you hear Poison Ivy's voice behind you.  You turn around and see her smiling at you, her hands on her hips.  The next moment is a blur.  Before you can react...</span></div></span></div>",
+            "created":1398402000,
+            "id":1786678,
+            "title":"Caught by Posion Ivy herself"
+        },
+        "142131":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Has her vines squeeze you some more.",
+                "Has her vines tickle you."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>...several of Poison Ivy's vines begin to wrap around you.  Two wrap around your arms, another two wrap around your legs, and one curls around your chest.<br>\r\n<br>\r\n\"Feeling the pressure, little bunny,\" she teases.  Then she...</span></div></span></div>",
+            "created":1399093200,
+            "id":1790654,
+            "title":"Her vines wrap around you."
+        },
+        "1421312":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Chest and Armpits",
+                "Belly and Waist"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>...has her vines tickle you on your...</span></div></span></div>",
+            "created":1420347600,
+            "id":1912596,
+            "title":"Has her vines tickle you."
+        },
+        "1423":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Male",
+                "Female",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a Hare, but are you male or female, or something else?</span></div></span></div>",
+            "created":1457499600,
+            "id":2115328,
+            "title":"Hare"
+        },
+        "14233":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "A Tiger",
+                "A Cheetah"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are something else, but what?</span></div></span></div>",
+            "created":1457499600,
+            "id":2115329,
+            "title":"Something else"
+        },
+        "142331":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Male Tiger",
+                "Female Tigress"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a tiger, but are you male or female?</span></div></span></div>",
+            "created":1473915600,
+            "id":2210699,
+            "title":"A Tiger"
+        },
+        "1423311":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Poison Ivy herself",
+                "Poison Ivy's friend Harley Quin"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a male Tiger.  You have orange fur with black stripes on your back, and milky white fur on your muscular chest and stomach.  You glance down at yourself and see that you are wearing black cargo shorts. You look around for an exit, and eventually spot one at the end of a clear brick path. You immediately run towards the exit, thinking that you are going to escape. However, just before you reach the exit, the path seemingly disappears from under your feet revealing a trap door. Instinctively you grab hold of a nearby vine, preventing your fall. Looking down, you see that the bottom of the pit is full of over sized cacti, with long needles on them that could have easily impaled you.<br>\r\n<br>\r\nImmediately you use the vine you had grabbed to pull yourself out of the pit. Once you are back on the path, and before you can let go of the vine, the vine suddenly wraps itself around your right wrist. Upon looking at the vine, you see that the end of it has a small flower with sharp teeth inside of it. The vine then sticks out a forked serpent-like tongue and wiggles it at you. Before you can use your left paw to pull the vine off of your wrist, another vine appears and winds itself around your left wrist. Then a third vine appears and coils itself several times around your ab-covered belly, squeezing you tightly, and even drawing an involuntary groan of pain from you.<br>\r\n<br>\r\nYou struggle against the vines, but eventually they begin to pull you into the bushes. When the vines get you through the bushes, you see what you are being dragged towards. And it is...</span></div></div>",
+            "created":1473998460,
+            "id":2210703,
+            "title":"Male Tiger in a Bind"
+        },
+        "142332":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "A Cow in a Corset",
+                "A Dominant Lioness"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a male Cheetah.  You have yellow fur with black spots on your back, and milky white fur on your athletic yet muscular chest and stomach. You glance down at yourself and see that you are wearing blue jogging shorts. You look around for an exit, and eventually spot one at the end of a clear brick path. You immediately run towards the exit, thinking that you are going to escape due to your natural cheetah speed.  However, just before you reach the exit, the path seemingly disappears from under your feet revealing a trap door. Instinctively you grab hold of a nearby vine, preventing your fall. Looking down, you see that the bottom of the pit is full of over sized cacti, with long needles on them that could have easily impaled you.<br>\r\n<br>\r\nImmediately you use the vine you had grabbed to pull yourself out of the pit. Once you are back on the path, and before you can let go of the vine, the vine suddenly wraps itself around your right wrist. Upon looking at the vine, you see that the end of it has a small flower with sharp teeth inside of it. The vine then sticks out a forked serpent-like tongue and wiggles it at you. Before you can use your left paw to pull the vine off of your wrist, another vine appears and winds itself around your left wrist. Then a third vine appears and coils itself several times around your slender waist, squeezing you tight enough to draw an involuntary groan of pain from you.<br>\r\n<br>\r\nYou struggle against the vines, but eventually they begin to pull you into the bushes. When the vines get you through the bushes, you see what you are being dragged towards. And it is...</span></div></div>",
+            "created":1473999960,
+            "id":2210715,
+            "title":"A Cheetah in a Bind"
+        },
+        "143":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Stallion",
+                "Mare"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a stallion, or a mare?</span></div></span></div>",
+            "created":1331528400,
+            "id":1293727,
+            "title":"Anthro Horse"
+        },
+        "1431":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "She has her vines lift you up to her bower",
+                "She has you tickled by her vines",
+                "She decides to mind control you"
+            ],
+            "content":"<div class=\"\"><div> <span>Your name is Spirit, You are a Stallion from Furryville right next to Gotham City<br>\r\n<br>\r\nYou are a magnificent creature, with tan fur and shiny black mane and tail, you are truly 'hung like a horse'<br>\r\n<br>\r\nYou wake up in Poison Ivy's lair after trying to eat some of her apples.<br>\r\n<br>\r\n\"Well, Well, What have we here?\"<br>\r\n<br>\r\nYou look up and you see, Poison Ivy sitting in the same apple tree you tried to steal from<br>\r\n<br>\r\n\"Look like I've got a big studly horse all to myself!\" She laughs<br>\r\n</span></div></div>",
+            "created":1331528400,
+            "id":1293737,
+            "title":"Stallion"
+        },
+        "14311":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Eat the apple",
+                "Refuse to give in"
+            ],
+            "content":"<div class=\"\"><div> <span>Suddenly several vines reach down from the tree.  Before you can react two of them begin to wrap around your arms.  Another one starts winding its way around your neck while another one coils around your belly, squeezing it tightly.<br>\r\n<br>\r\n\"Feeling the pressure are we, little horse?\" Ivy chuckles.  Once they secure their grip on you they begin hoisting you up towards their mistress.  You try to kick at first, but several alarming squeezes from the vines around your neck and belly help you to realize that resistance is fuetile.  The vines stop lifting you when you reach Poison Ivy's eye level.  She smiles at you and looks you up and down.  She then reaches out and places her hand on your chest, apparently feeling your heartbeat.<br>\r\n<br>\r\n\"You poor thing,\" she coos to you, as she reaches up and scratches the underside of your chin.  \"You must have been very hungry, to try and steal my fruit, when all you had to do was simply ask me.\"  She then kneels down as the vine around your middle shifts its way up your body so that now it is coiled around your chest leaving your stomach bare.  Then she gently presses her ear against your belly while placing her right hand on your hip; this feels good yet awkward for you.<br>\r\n<br>\r\n\"Aww, it does sound empty in there,\" she sighs after a while, leaning back and stroking your belly with her left hand.  \"I should punish you for trying to steal my fruit, but since your belly sounds so empty, and you are so lovely to touch and look at, and look so tasty in my vines, I am feeling genorous.\"  She then stands up and walks over to a branch and deftly plucks an apple from it.  She sniffs the apple and sultrily approaches you with it in her hand.<br>\r\n<br>\r\n\"It smells so delicious,\" she sighs, seductively waving it under your nose.  \"And I'm sure it tastes even better.\"  You realize that she is right about the apple smelling good, and that she might also be right about how it tastes.  Deep down you know that this is another of her traps, but still the apple smells so sweet.<br>\r\n<br>\r\n\"Go on, little horse,\" she whispers holding the apple a mere inch from your lips.  \"Feed your poor belly.\"  What should you do?</span></div></div>",
+            "created":1332133200,
+            "id":1297806,
+            "title":"A Tempting Offer"
+        },
+        "143111":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Go to bed with her.",
+                "Resist her charms."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to give in to temptation and slowly eat the apple from her hand.  It was delicious.  You could even feel its sweet nectar running down your throat as you chewed its flesh.  Eventually you swallow the succulent fruit.<br>\r\n<br>\r\n\"Well, how was it?\" Ivy asked.<br>\r\n\"It was delicious,\" you politely reply.<br>\r\n\"Well, if you like that, then perhaps you'll like what's for dessert,\" she giggles, getsturing behind her.  You look where she's pointing and see what appears to be a bed, made from shrubs, rose pedals, and straw.  You slowly realize what it is she's suggesting.<br>\r\n<br>\r\n\"Well, what do you say, little horse?\" she asks, nuzzling her warm breast against your muscualar chest.  \"Are you up for a roll in the hay?\"<br>\r\n<br>\r\nWhat should you do?</span></div></div>",
+            "created":1347858000,
+            "id":1429676,
+            "title":"Eat the apple"
+        },
+        "14312":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "...tickle you myself.\"",
+                "...put you under my spell.\""
+            ],
+            "content":"<div class=\"\"><div> <span>Suddenly a large root bursts out of the ground and wraps itself around your legs, from your ankles to your thighs.  This throws you off balance , and prevents you from fleeing.  You wobble a little as the root squeezes your legs together and start to fall backwards.  As this happens the tree that the root belongs to scoots up behind you, preventing you from falling on your back.  But suddenly an arm-like branch reaches around your chest and pulls you up against the tree's trunk.  Then another branch grabs your neck and pins it against the tree, as two more branches seize your arms and pull them around the trunk of the tree.  You try to get free, but the tree only hugs you tighter, and when it does you swear you can hear what sounds like a deep rumbling chuckle coming from within the tree.<br>\r\n<br>\r\n\"It's not nice to steal, little horse,\" Poison Ivy says as she lowers herself down from the tree.  \"Now, you're going to learn why.\"  And with that she snaps her fingers.<br>\r\n<br>\r\nYou hear a rustling above you and look up.  You see several vines lowering themselves from the tree's upper branches.  Each vines a bulb at the end of it.  When they reach you the bulbs bloom open, revealing in their centers a long feather-like pedal that wiggles around like a snake's tongue.<br>\r\n<br>\r\n\"I'm going to enjoy watching you squirm,\" Ivy chuckles as the tickling vines begin their work.  First, one tickles at your left ear and at your right ear making you twitch.  Then another one tickles at your nose making you snort a little; it then moves down and tickles your chin, and then works its way down your neck.  Then the others start tickling at your sides and belly, making your flesh quiver.  You angrily glare at Ivy, trying your hardest not to give her the satisfaction of seeing you laugh.  This glare only makes her smile more, because she can see in your eyes that the tickling is becoming unbearable.  The feathery pedals are like large horseflies that will not leave you alone no matter how hard you shake.  Finally one vine decides to work on your belly button(your most sensitive spot).  This at last begins to draw chuckles, which finally grow into hysterical laughter.<br>\r\n<br>\r\n\"Mmm, simply delicious,\" mutters Ivy, knowing that she has finally broken you.  The vines increase their ferocity, seemingly encouraged by your laughter.  This madness continues to the point where it feels like you are ready to pass out.  But before you do, Ivy snaps her fingers again.  Immediately the vines stop tickling you and retreat back up into the tree.  You slump down in braches' embrace, your chest heaving as you struggle to catch your breath.  But then Ivy slowly approaches you and places her hands on your shoulders.<br>\r\n<br>\r\n\"Well, I hope you enjoyed that as much as I did, little horsie,\" she snickers.  You simply glare down at her, trying to look undefeated.<br>\r\n\"My name is Spirit, not horsie,\" you say proudly, puffing your chest out (at least as far as the constricting branch will let you) in an attempt to look big.<br>\r\n\"Spirit, hmm, what a lovely name for a horsie,\" she says in her most fawning voice as she playfully draws circles on your pectorals with her index fingers.  \"Would you like me to rub your belly too, silly,\" she added giving you Bambi eyes.<br>\r\n\"No I would like you to let me go now,\" you snap, annoyed yet unsurprised by her condescending attitude.  At this she snears arousingly.<br>\r\n\"Sorry, but I'm afraid I'm not done with you yet, you little thief,\" she says.  \"Now that my babies have worn you down, I think I'll...\"</span></div></div>",
+            "created":1335848400,
+            "id":1326837,
+            "title":"Tickling Vines"
+        },
+        "144":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Brute",
+                "Fae"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a Brute (Male Wolf) or a Fae (Female Wolf)</span></div></span></div>",
+            "created":1331528400,
+            "id":1293728,
+            "title":"Anthro Wolf"
+        },
+        "1441":{
+            "author_id":"soundofsilence",
+            "author_name":"the speechless one",
+            "choices":[
+                "To have fun with you",
+                "To punish you",
+                "To let my assistant play with you"
+            ],
+            "content":"<div class=\"\"><div> <span>I awoke slowly, head aching and thoughts muddled. I tried to go over what I remembered. My name is Zenith, my friends call me Zen, and I\u2019m an anthro wolf. I was out jogging, and had smelled something really tasty coming from a cluster of greenhouses. Wait, greenhouses?<br>\r\n<br>\r\nI opened my eyes, and looked around as best I could. I was in a greenhouse, one with lots of plants. I was lying on my back on a metal table in the middle of the room. When I tried to move, I found that I couldn\u2019t; vines were holding my arms and legs spread-eagle. I was trapped.<br>\r\n<br>\r\n\u201cWell, well, well. It seems I have a visitor.\u201d I looked over to one side, and my heart sank. Standing before me was Poison Ivy herself. I was trapped, at her mercy, and only wearing a pair of athletic shorts that were starting to feel a little tighter. I should probably explain something first.<br>\r\n<br>\r\nI am submissive by nature. Just the thought of being dominated by a female can turn me on. And living near-ish to Gotham (I hail from Furryville, a city near Gotham, but far away enough that we don\u2019t have to deal with their various villains.), I would regularly hear about superheroics and villainy, which ended up seeping into some fantasies I\u2019ve had. In one, I\u2019m a supervillain and my (now ex-)girlfriend is a superheroine; she\u2019s stopped my plan, but before handing me over to the police, she decides to have some \u201cfun\u201d with me first. In another, I\u2019m a superhero, rendered powerless by my supervillainess girlfriend; she lords her victory over me, and tries to make me her servant. I have another similar to that one; wherein I\u2019m a civilian (possibly someone important, like a mayor) who got captured by the villainess, and is now at her mercy.<br>\r\n<br>\r\nAnd now it was happening for real. I was equal parts turned-on and terrified.<br>\r\n<br>\r\n\u201cDo you have anything to say for yourself?\u201d Poison Ivy asked, leaning over the table.<br>\r\n<br>\r\n\u201cUh, well, if you let me go, I promise I\u2019ll leave and I won\u2019t come back,\u201d I said, voice shaking. She made a face, thinking about it (hopefully).<br>\r\n<br>\r\n\u201cMmm, no, I won\u2019t,\u201d she said. \u201cYou were trespassing, and should be punished for that.\u201d I gulped nervously, and tried to ignore the stirring feeling in my shorts.<br>\r\n<br>\r\n\u201cW-what are you going to do to me?\u201d I asked. She said nothing. Instead, she ran a hand along my side, starting at my outstretched arm, and traveling down my body. I squirmed a little when her fingers brushed against my underarm and again at my ribs. She spread her fingers wide to feel the fur on my chest. She tugged the waistband of my shorts down a little, and gave my butt a squeeze, making me blush. Finally, she felt the underside of my leg, as if checking the muscles. Neither of us said anything while she was doing all this.<br>\r\n<br>\r\n\u201cI\u2019ve decided,\u201d she finally said, \u201cwhat I\u2019m going to do with you. \u201cI\u2019m going ___<br>\r\n</span></div></div>",
+            "created":1520825040,
+            "id":2463352,
+            "title":"Brute"
+        },
+        "14411":{
+            "author_id":"soundofsilence",
+            "author_name":"the speechless one",
+            "choices":[
+                "She takes a nap, using me as a body pillow",
+                "She tickles me",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I looked up at her, trying to keep my tail from wagging visibly. \u201cWhat do you mean by \u2018have fun\u2019?\u201d <br>\r\n<br>\r\nShe smiled at me.</span></div></span></div>",
+            "created":1520825100,
+            "id":2463354,
+            "title":"To have fun with you"
+        },
+        "144112":{
+            "author_id":"soundofsilence",
+            "author_name":"the speechless one",
+            "choices":[
+                "Poison Ivy giving me a handjob",
+                "One of the plants stroking me off"
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cI\u2019m going to tickle you.\u201d She snapped her fingers, and vines surged forward. They were all over, tickling my stomach, my underarms, my ribs, my feet. I was being tickled at my ears, my neck, my thighs, and the backs of my knees.<br>\r\n<br>\r\n\u201cNOOOOHAAAHA! DON\u2019THAAHAA! STOAAHAAPHA!\u201d No matter much I squirmed and writhed, I couldn\u2019t escape. The vines holding me in place were too strong, and the vines tickling me would just copy my movements.<br>\r\n<br>\r\n\u201cPLEEEHEEHEESE! LET ME GOOHOOHOOHAA!\u201d<br>\r\n<br>\r\n\u201cLet you go? Why would I do that? Especially seeing how much you\u2019re enjoying all this.\u201d The tickling stopped, and when I was able to look up, I saw Poison Ivy smiling...and resting a hand on the bulge in my shorts. \u201cHave something you want to share with the rest of us?\u201d<br>\r\n<br>\r\n\u201cN-no.\u201d But I could feel vines creeping up the inside of my shorts. Before I could do or say anything to stop it, there was a loud RRRIIIPPP, and my shorts were in shreds. The scraps of fabric were promptly cleared away, leaving me naked, and with a fully-fledged erection. This was now the most humiliating and the most exciting thing that had ever happened to me. <br>\r\n<br>\r\n\u201cWell, it looks like someone is excited.\u201d Ivy gave my penis a gentle stroke, and lowered her hand, cupping my balls. She hefted them, making me whimper. \u201cIs someone a little backed up? I can help with that.\u201d With that the tickling resumed in full force, but with the addition of ___<br>\r\n</span></div></div>",
+            "created":1520825160,
+            "id":2463355,
+            "title":"She tickles me"
+        },
+        "1441121":{
+            "author_id":"soundofsilence",
+            "author_name":"the speechless one",
+            "choices":[
+                "Yes, she takes me to a bath to get cleaned up",
+                "No, she has the vines hoist me up and sprays me with a garden hose"
+            ],
+            "content":"<div class=\"\"><div> <span>I tried to be strong, but there was little I could do. The plants were tickling me like crazy, and I could feel Ivy running her hand up and down the length of my shaft, gently squeezing the whole time. My laughs were now being broken up by moans of pleasure. I could feel myself building up towards orgasm. It wouldn\u2019t be long now.<br>\r\n<br>\r\n\u201cNOOHOOHOO! OOH AH AHAAAHAA! OH OOHHHYESSS! HAAHAOHH!\u201d<br>\r\n<br>\r\nSure enough, after what was probably only a few minutes (but felt like hours), I came harder than I think I ever had before. Right before I came, I could feel Poison Ivy pushing forward on my cock. I wasn\u2019t sure why, but realized when I watched my spooge fly up into the air, and come back down...right at my face! I closed my eyes in time to not get any of my juices in them, but still got splattered all over my face. Ivy was pumping my cock, and now laughing at my situation. Streams of thick, ropey cum landed on my face, a little on my neck, mostly on my torso, and at the end, some oozed out and pooled around my crotch. At least the plants had stopped tickling me. <br>\r\n<br>\r\nThe situation, the domination, the humiliation. This was far better and far worse than anything I had dream up.<br>\r\n<br>\r\nWhen Poison Ivy had calmed down enough that she could stop laughing, she said, \u201cLooks like someone made a mess!\u201d She cleared away the cum from my eyes, and I looked up at her, blinking. \u201cWe should really get you cleaned up.\u201d <br>\r\n<br>\r\nI could only wonder, \u2018was she done humiliating me?\u2019<br>\r\n</span></div></div>",
+            "created":1520825280,
+            "id":2463358,
+            "title":"Poison Ivy giving me a handjob"
+        },
+        "14411211":{
+            "author_id":"soundofsilence",
+            "author_name":"the speechless one",
+            "choices":[
+                "Small - I got in, Ivy washed me",
+                "Big - Ivy joined me in the bath"
+            ],
+            "content":"<div class=\"\"><div> <span>Poison Ivy smiled at me, leaned down, and exhaled a pink mist into my face. Under different circumstances, I might have thought to hold my breath or something. Unfortunately, after all I had been through, I was rapidly approaching mental exhaustion. I inhaled, and closed my eyes, enjoying the scent. <br>\r\n<br>\r\nI opened my eyes again after a few seconds, and looked up lovingly at Poison Ivy. My heart skipped a beat when she smiled at me, and sped up when she said, \u201cHow are you feeling?\u201d<br>\r\n<br>\r\n\u201cO-okay, M-mistress.\u201d The second word sounded odd on my tongue, but at the same time, it felt right. The vines holding me in place released me, and I was able to sit up on the table. I briefly considered covering myself up, before deciding that there was no point - the Mistress had already seen everything. And if she wanted to look upon me, she should be free to do so.<br>\r\n<br>\r\n\u201cCome along, my pet,\u201d she said. \u201cWe need to get you cleaned up.\u201d She began to walk away.<br>\r\n<br>\r\n\u201cYes, Mistress,\u201d I said, climbing down from the table and following after her, tail wagging all the while. After several minutes of walking, we entered the room with the bath.<br>\r\n<br>\r\nHow big was the bath?<br>\r\n</span></div></div>",
+            "created":1520825340,
+            "id":2463359,
+            "title":"Bathtime"
+        },
+        "14412":{
+            "author_id":"soundofsilence",
+            "author_name":"the speechless one",
+            "choices":[
+                "She spanks me",
+                "She hunts me",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u201cYou\u2019ve been very bad, and need to be punished.\u201d I looked up at her, fear in my eyes.<br>\r\n<br>\r\n\u201cWhat are you going to do to me?\u201d<br>\r\n</span></div></span></div>",
+            "created":1520825460,
+            "id":2463361,
+            "title":"To punish you"
+        },
+        "144121":{
+            "author_id":"soundofsilence",
+            "author_name":"the speechless one",
+            "choices":[
+                "Her hand",
+                "A wooden paddle"
+            ],
+            "content":"<div class=\"\"><div> <span>She didn\u2019t say anything. Instead, Ivy just waved her hand. The vines holding me lifted me up into the air, turned me over so that I was facing downward now, and lowered me back down to the table. Except, I was being moved over; my arms and torso were resting on the table, but my waist was lined up with the edge of the table, and my legs were being spread and bound to the legs of the table. I was bent over the table.<br>\r\n<br>\r\nI looked up at Poison Ivy as best I could. She just smiled at me, which didn\u2019t make me feel that much better.<br>\r\n<br>\r\n\u201cI going to give you a spanking,\u201d she said, and walked around behind me. I felt my face heat up at that. Was she serious? \u201cOh, these will have to go.\u201d Suddenly, I felt more vines twisting and rising up through my shorts, and one loud RRRIIIPPP later, I wasn\u2019t wearing shorts (or anything). I could feel one more vine grabbing my tail, lifting it up, and holding it there, gently but firmly.<br>\r\n<br>\r\n\u201cNow that you don\u2019t have anything left to protect yourself with, let\u2019s get started,\u201d she said. There was a whoosh, and my rear exploded in pain.<br>\r\n<br>\r\nWhat was she spanking me with?</span></div></div>",
+            "created":1520825520,
+            "id":2463362,
+            "title":"She spanks me"
+        },
+        "144122":{
+            "author_id":"soundofsilence",
+            "author_name":"the speechless one",
+            "choices":[
+                "The gate closed before I got out",
+                "I got shot three times, but it took most of the hour",
+                "I got tangled up in some plants almost immediately, easy target"
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cI\u2019ve decided that I will hunt you.\u201d My eyes widened and I tried desperately to escape the vines holding me. \u201cOh, calm down! It\u2019s not like that.\u201d She turned, walked away, picked something up, and walked back holding a...paintball gun? She pointed it at me and fired. <br>\r\n<br>\r\nA pink paintball came out, and hit me right in the chest. I hissed in pain; that really hurt! But, wait, did it? It hurt for a few seconds, but now it felt kind of...good? I looked up at my captor, confusion on my face.<br>\r\n<br>\r\n\u201cThe paintballs in this gun are based on my pheromones,\u201d Poison Ivy explained. \u201cIt isn\u2019t as efficient as just breathing them into you, but it is more fun.\u201d She smirked. \u201cYou\u2019ve just been one shot; three more, and you\u2019ll be under my spell.\u201d<br>\r\n<br>\r\nThe vines holding me in place released me. I sat up on the table, but didn\u2019t try to leave. Ivy was in power here, and I didn\u2019t want to try anything until I was sure it would work. <br>\r\n<br>\r\n\u201cI\u2019m going to play a little game with you,\u201d she said. \u201cYou will try to escape, and I will be shooting at you with paintballs. The gate to the compound is open. In one hour, it will close. If you can get out before the gate closes, you are free. If you can\u2019t get out before the gate closes, you will be trapped in here. If you get hit with three more paintballs, you won\u2019t want to leave.\u201d<br>\r\n<br>\r\n\u201cDo I get a head start?\u201d I asked.<br>\r\n<br>\r\n\u201cTen minutes,\u201d she answered.<br>\r\n<br>\r\n\u201cWhen does the game start?\u201d <br>\r\n<br>\r\nShe smiled. \u201cNow.\u201d<br>\r\n<br>\r\nI blinked at her, and then ran out the door of the greenhouse.<br>\r\n<br>\r\nHow did the game go?<br>\r\n</span></div></div>",
+            "created":1520825580,
+            "id":2463364,
+            "title":"She hunts me"
+        },
+        "145":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "A Fox",
+                "A Vixen",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a handsome and cunning Fox, or a lovely yet equally cunning Vixen, or perhaps something else?</span></div></span></div>",
+            "created":1457499600,
+            "id":2115320,
+            "title":"Fox or Vixen"
+        },
+        "1453":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "A Zebra",
+                "A Deer",
+                "A Gazelle"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are something else, but what?</span></div></span></div>",
+            "created":1457499600,
+            "id":2115321,
+            "title":"Something else"
+        },
+        "14532":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Buck (Male)",
+                "Doe (Female)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a deer but are you a Buck (Male), or a Doe (Female)?</span></div></span></div>",
+            "created":1457499600,
+            "id":2115323,
+            "title":"A Deer"
+        },
+        "15":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "seduces you",
+                "makes you dance with her",
+                "lets the vines squeeze you more",
+                "takes a nap on top of you",
+                "tickles you"
+            ],
+            "content":"<div class=\"\"><div> <span>You are a Dragon. You walk upright.  You look up at the ceiling and notice a hole.<br>\r\nI could get out that way, you think to yourself.  Immediately you begin to fly up towards the ceiling.  But suddenly several large vines reach out and wrap themselves around your arms, wings, legs, and belly. You try to use your firebreath, but one vine wraps tightly around your chest and neck, preventing you from breathing fire.  The vines then drag you back down to the ground and hold you on your back.  You try to struggle but they only squeeze you tighter.<br>\r\n<br>\r\n\"It seems that my vines have a 'crush' on you,\" a sultry female voice chuckles from nearby. The woman then steps up on your belly, revealing herself to be, none other than Poison Ivy. She smiles, kneels down on your chest and blows her pheromone breath at you. It makes you jump at first, but then you slowly succumb to the sweet smell of her breath.<br>\r\n<br>\r\n\"I just love it when a big, powerful dragon wanders so willingly into my clutches,\" she chuckles as she blows another puff of pheromones into your face, making you fall deeper into her power.  <br>\r\n<br>\r\nShe then draws her lovely fingernails across your throat and growls lustfully.<br>\r\n<br>\r\nShe then...</span></div></div>",
+            "created":1312434000,
+            "id":1161059,
+            "title":"A Trapped Dragon"
+        },
+        "153":{
+            "author_id":"raverabbit",
+            "author_name":"RaveRabbit",
+            "choices":[
+                "Ivy decides you've had enough.",
+                "You pass out.",
+                "You manage to break free."
+            ],
+            "content":"<div class=\"\"><div> <span>\"You know my vines do love a good squeeze,\" she giggles, scratching the underside of your chin with her index finger.  \"After all we can't have you breathing fire, and destroying my helpless babies.\"<br>\r\n<br>\r\nShe then slides off you, and as soon she is off of you, the powerful vines encircling your belly, chest, and neck begin to constrict.  You gasp in shock and pain as the air is forced from your lungs.  You try again to struggle, but they only tighten their grip.<br>\r\n<br>\r\n\"Just relax, little dragon,\" Ivy coos as she blows more pheramones into your face, further weakening your resolve.  \"The more you squirm, the more 'pressure' my babies will apply.\"<br>\r\n<br>\r\nThe vines' harsh embrace continues until...</span></div></div>",
+            "created":1332738000,
+            "id":1302892,
+            "title":"A Good Squeeze"
+        },
+        "155":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Start tickling you harder",
+                "Take a nap on top of you",
+                "Dance with you"
+            ],
+            "content":"<div class=\"\"><div> <span>She starts by tickling one of your big fleshy dragon feet.<br>\r\n<br>\r\nIt starts off ever so gently. Her little index finger stroking your left arch, this feeling was both calming and ticklish,<br>\r\n<br>\r\nShe places your two feet together and starts tickling both arches and once, again you feel both relaxed and tickled by this<br>\r\n<br>\r\nThen she starts to caress your feet from ankle to toes, her long soft hands ever so gently stroking your feet.<br>\r\n<br>\r\n'Hey this isn't so bad.' You think to yourself 'Maybe I'll actually get out of this alive!'<br>\r\n<br>\r\nWhat does Poison Ivy do next? </span></div></div>",
+            "created":1331701200,
+            "id":1294994,
+            "title":"Big Scaly Dragon Feet"
+        }
+    },
+    "info":{
+        "author_id":"raverabbit",
+        "author_name":"RaveRabbit",
+        "brief_description":"You've flown into Poison Ivy's trap.  Watch out!",
+        "created":1312437300,
+        "description":"<td align=\"left\" class=\"norm\">You (man, furry, etc.) have wandered accidentally into Poison Ivy's Lair.  Now you have to get out, before Poison Ivy can catch you.  Of course if Poison Ivy should catch you (it is inevitable) what she does with you will be your choice in the end.  First some rules:<br>\r\n<br>\r\n1. No excessive details if there is sex.<br>\r\n2. Lesbianism is okay.<br>\r\n3. Poison Ivy's tactics can include seduction, tickling, mind control, vine wrapping, but not murder.<br>\r\n4. Other than that enjoy!<br>\r\n<br>\r\nDisclaimer: I don't own Poison Ivy, she belongs to DC Comics.</td>",
+        "id":1799078,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1557067080,
+        "modified":1557067080,
+        "pretty_title":"Poison Ivy's Lair"
+    }
+}

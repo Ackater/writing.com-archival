@@ -1,0 +1,583 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "On a Ship",
+                "Inside a marine base",
+                "Town",
+                "Island",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a One Piece expert knowing everything there is to know your name is _____________. You wake to realize your in the world of One Piece still feeling hazy about everything and where you are?</span></div></span></div>",
+            "created":1326344400,
+            "id":1257091,
+            "title":"Beginning..."
+        },
+        "11":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Pirate",
+                "Marine",
+                "Yonkou",
+                "Shichibukai",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What ship are you on?</span></div></span></div>",
+            "created":1326344400,
+            "id":1257157,
+            "title":"On a Ship"
+        },
+        "111":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Strawhat Ship",
+                "Buggy's Ship",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's ship are you on?</span></div></span></div>",
+            "created":1326776400,
+            "id":1260532,
+            "title":"Pirate"
+        },
+        "1111":{
+            "choices":[
+                "Luffy",
+                "Usopp"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find yourself in a bedroom,<br>\r\n<br>\r\nYou hear voices outside. <br>\r\n<br>\r\nIt's a young man's voice.<br>\r\n<br>\r\nWho?</span></div></span></div>",
+            "created":1339280760,
+            "id":1356464,
+            "title":"Strawhat Ship"
+        },
+        "11111":{
+            "author_id":"agnesd",
+            "author_name":"FostineF",
+            "choices":[
+                "Continue to eavesdropping",
+                "Go outside to look around"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I am hungry\" You hear from outside. \"Sanji, when you finished your cooking?\" Again, the same voice said it.<br>\r\n<br>\r\nYou stand up and go to the door to hear more clearly.<br>\r\n<br>\r\nYou then decide to.<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1368636960,
+            "id":1590471,
+            "title":"Luffy"
+        },
+        "11112":{
+            "choices":[
+                "Shout for the others",
+                "Ask who you are"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Someone, comes in the door.<br>\r\n<br>\r\nUsopp came into the room and sees you.<br>\r\n<br>\r\nWhat does he do?<br>\r\n</span></div></span></div>",
+            "created":1339281060,
+            "id":1356466,
+            "title":"Usopp"
+        },
+        "111122":{
+            "author_id":"lonergirl45",
+            "author_name":"WeirdGirl",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"What the-?\" He says. \"Who the hell are you?!\"<br>\r\n<br>\r\n\"What the heck?!\" You shriek. You dash out.<br>\r\n<br>\r\nYou are a....</span></div></span></div>",
+            "created":1368604020,
+            "id":1590334,
+            "title":"Ask who you are"
+        },
+        "1111222":{
+            "author_id":"lonergirl45",
+            "author_name":"WeirdGirl",
+            "choices":[
+                "The others show up",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You dash out of the room and run right into Roronoah Zoro.<br>\r\n<br>\r\n\"Who the hell are you?!\" He demands. His hands are ready to grab his swords. \"And how did you get on this ship?!\"<br>\r\n<br>\r\n\"HOW THE HELL SHOULD I KNOW?!\" You shriek hysterically. \"ONE MINUTE I'M AT HOME, AND THE NEXT THING I KNOW, I'M HERE!\"<br>\r\n<br>\r\nWhat next?</span></div></div>",
+            "created":1368604380,
+            "id":1590335,
+            "title":"Girl"
+        },
+        "1113":{
+            "choices":[
+                "Kuja pirates",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe the Kuja pirates of Amazon Lily?</span></div></span></div>",
+            "created":1331010000,
+            "id":1290283,
+            "title":"Other"
+        },
+        "11132":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Continue",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about the Bellamy Pirates?</span></div></span></div>",
+            "created":1335070800,
+            "id":1320850,
+            "title":"other"
+        },
+        "111322":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Continue",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the Phoenix Pirates?</span></div></span></div>",
+            "created":1338737700,
+            "id":1351255,
+            "title":"Other"
+        },
+        "1113222":{
+            "author_id":"ashikabe",
+            "author_name":"sekirei",
+            "choices":[
+                "Foxy pirates.",
+                "other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about the Foxy pirates?</span></div></span></div>",
+            "created":1374473400,
+            "id":1632197,
+            "title":"Other"
+        },
+        "113":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "\"Red-Haired\" Shanks",
+                "Marshal D. Teach",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's Ship are you on?</span></div></span></div>",
+            "created":1332133200,
+            "id":1298341,
+            "title":"Yonkou"
+        },
+        "12":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Marine",
+                "Prisoner",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why are you in a marine base are you held captive or are you a marine?</span></div></span></div>",
+            "created":1326344400,
+            "id":1257094,
+            "title":"Inside a marine base"
+        },
+        "121":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Go get a devil fruit",
+                "Stay don't want to get on the wardens bad side",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You a marine on patrol in Impel Down taking this very seriously and not get killed you just walking the corridors on level 1 seeing Buggy the Clown. While on patrol you keep hearing rumors of a storage room full of devil fruits just waiting to be ate. Half an hour of searching and going on patrol you found stairs leading to the main gate and storage room. Do you go or stay and explore?</span></div></div>",
+            "created":1326344400,
+            "id":1257108,
+            "title":"Marine"
+        },
+        "1211":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Kaze Kaze no mi (Wind Wind)",
+                "Ookami Ookami no mi (Wolf Wolf)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk up the flight of stairs to see three doors (excluding main gate) noticing signs above them and two guards near the store room. You walk to the guards one saying \"Halt state your business soldier?\" <br>\r\n<br>\r\nYou had to think of something and said \"Magellan wanted me to retrieve an item from the store room.\"<br>\r\n<br>\r\n\"Go right on in, careful its dark in there.\" the guard said<br>\r\n<br>\r\nYou walk on in seeing a torch on the side of the wall you take it walking past the prisoner's items. At the back of the room inside another room lied the devil fruits only seeing two devil fruits. Which do you take Kaze Kaze no mi or Ookami Ookami no mi?</span></div></div>",
+            "created":1326344400,
+            "id":1257116,
+            "title":"Go get a devil fruit"
+        },
+        "12112":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Continue",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You eat the ice blue colored devil fruit with an extreme bitter taste, you walk out of the room and grab an ancient sword to trick the guards. As soon as you walked out the second door you could see Magellan out front with another shipment of prisoners. You recognized two prisoners almost immediately one being \"The Pirate Hunter\" Roranoa Zoro with a bounty of 120,000,000 beri's and the other being \"Mugiwara\" Luffy bounty of 400,000,000 beri's. You just holstered the sword like any other swordsman and walked behind the prisoners. You hear Magellan say that Zoro and Luffy will go down to level 5 Freezing Hell. You thinking to yourself \"Whoa, two bigshot pirates I think I can test my true strength against them.\"<br>\r\n<br>\r\nThen you hear Magellan tell you \"To transport these pirates to their cells on level 1\"<br>\r\n<br>\r\nMagellan was taking Luffy and Zoro to their cells personally you hurried up and took the pirates to their cells. You came back to the elevator but the guards wouldn't let you nowhere near it. So you decided to take the stairs down to level 2 Wild Beasts Hell. First before continuing down you stopped near a cell with Buggy in it and gave him a key but told him not to open it until the time came.</span></div></div>",
+            "created":1326344400,
+            "id":1257136,
+            "title":"Ookami Ookami no mi (Wolf Wolf)"
+        },
+        "121121":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Accept his offer",
+                "Tell him to stay"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk down the stairs heading toward level 2 Wild Beasts Hell first creature to ever show itself was a swarm of puzzle scorpions you attacked them with your sheathed sword you got from the storeroom killing three scorpions before they started to chain together into a giant centipede. Noticing how big it is you ran under it holding the sword up slicing every scorpion. You walked two corridors looking for the doorway when a Basilisk and Manticore both were stalking you ran around a corner waiting one of them. The Basilisk came around the corner sliding so you ran and jumped on it and stuck your sword in its head only to have it get stuck then the Manticore came running and headbutted the Basilisk. You on the other hand was behind the Manticore it turned and tried to charge like before but you delivered a deadly blow straight to the head. After killing the beasts the prisoners came out to congratulate you. You told them to go back to their cells and wait for something to happen to charge for the first level then  to the main gate to secure a ship for escape. As you started to walk toward the stairs a pirate with a bounty of 25,000,000 beri's walks toward you and ask for to join you?</span></div></div>",
+            "created":1326344400,
+            "id":1257152,
+            "title":"Continue"
+        },
+        "1211212":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Continue",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>As you walked down to Level 3 Starvation Hell it started to get hotter, you removed your marine coat and dropped it in the sand. You then turned to a wolf thinking this is your devil fruit ability. You then started to run looking for the stairs after an hour of looking and cooling off in ruins with dead bodies, you found the doorway blocked by a Sphinx. You tried to sneak by it only to be hit into a wall breaking a few ribs knowing you can't beat him in your condition you tried to run for the door. As soon as the Sphinx stood up you ran under to the door then it turned smashed a hole in the wall so it can fit. You just ran down the stairs falling down a few times because of your ribs. Then you made it to <br>\r\nLevel 4 Blazing Hell only to run into Sabo. Sabo ordered the Sphinx to go back up and guard the doorway.<br>\r\n<br>\r\n\"I know what you're doing, I can get you past Magellan you just save Luffy.\" Sabo said<br>\r\n<br>\r\nYou changed back to your human form, Sabo walked you to Magellan. Magellan asked \"What do you want?\"<br>\r\n<br>\r\n\"I hear there is a riot is going to happen in Level's 1, 2 &amp; 3. Sir\" You said<br>\r\n<br>\r\nYou looked around and saw \"Black-leg\" Sanji, Usopp, and Tony Tony \"Chopper\" all working on this level. You walked by Usopp and stuck a gun in his clothes and said \"Wait for the signal.\" Then you pushed him to the ground \"Get back to work prisoner.\"</span></div></div>",
+            "created":1326344400,
+            "id":1257175,
+            "title":"Tell him to stay"
+        },
+        "12112122":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Someone stops you",
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>As you were walking toward the steps to Level 5 Freezing Hell you heard a voice. You turned to see Hannyabal make his way to you pushing prisoners out of the way. You notice Sanji keeping eyesight with Hannyabal not taking his eyes off not even a second. Hannyabal walks pass Sanji pushing him to the ground after making his way to you he asks \"Where are you going soldier?\"<br>\r\n<br>\r\nWhile looking at Hannyabal and saluting you catch him off guard and change to your wolf form and race behind his back and jump onto him. He turned around with his and cut you while the prisoners just watched and enjoyed the fight you changed to your werewolf form and grabbed his sword. He kept backing up and pulled out his \"Kessui\" and slashed your shoulder with you still walking toward him. Hannyabal kept slashing at you then you grabbed his weapon and through it on the ground and started to slash him with your claws. Sanji ran over and tried to pull you off but you slashed at him. Sanji then went to perform \"Diable Jambai\" and you caught his leg as if it was nothing and sent him flying to the wall. You then went on a rampage hurting everyone...</span></div></div>",
+            "created":1329368400,
+            "id":1278490,
+            "title":"Confrontation with Hannyabal"
+        },
+        "121121221":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Continue",
+                "Something Happens"
+            ],
+            "content":"<div class=\"\"><div> <span>As you were walking over to Sanji you were attacked by a female prisoner sweeping your legs from under you. As you laid there you then tried to grab her legs but she just kicked your hand and knocked you unconscious. As you came to you were in human form in the Freezing Hell Level 5 with the female prisoner next to you also unconscious. You explored a bit only to be attacked by a pack of wolves you transformed into your wolf form not feeling cold at all. You ran toward the wolves and bit down on one of theirs neck killing it another one ran toward you and tackled you on the ground grabbing your throat. Then you saw someone kicking the wolves off you, after the wolves left you saw a figure in a suit. Wondering who just saved you you look to see a skeleton, a cyborg, and two very beautiful ladies. You recognize them as Strawhat Pirates...</span></div></div>",
+            "created":1329714000,
+            "id":1280976,
+            "title":"Someone stops you"
+        },
+        "1211212212":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Continue",
+                "Something happens"
+            ],
+            "content":"<div class=\"\"><div> <span>As you were talking with the Strawhat crew you heard gun fire outside the door, then an explosion revealing prisoners. As you look through the dust you can see five people standing in front of a rioting force. There stood Buggy the Clown,\"Black Leg\" Sanji, Tony Tony Chopper, \"Sogeking\" Usopp, and the 25,000,000 beri pirate says \"Lets go save Monkey D. Luffy shall we?\"<br>\r\n<br>\r\n\"I thought I told you to wait for my signal.\" You say jokingly</span></div></div>",
+            "created":1333861200,
+            "id":1311796,
+            "title":"Something Happens"
+        },
+        "12112122122":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Werewolf",
+                "Wolf"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Then all of a sudden you see prisoners in a purple goo you then tell the others to go on and save Luffy. You turned to...</span></div></span></div>",
+            "created":1334034000,
+            "id":1312642,
+            "title":"Something happens"
+        },
+        "121121221221":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Wake up on a Ship",
+                "Wake up in Impel Down"
+            ],
+            "content":"<div class=\"\"><div> <span>You change to your werewolf form and attack magellan only to have your hand be covered in the purple burning ooze. You knowing if Magellan makes pass you Luffy and everyone else will be recaptured. After five minutes of fighting Magellan launched a huge glob of ooze at you, you then charged in at Magellan trying to grab his throat. With Magellan's Devil Fruit you pass through him just laying on the ground not moving. As you were going unconscious you saw Luffy punch Magellan sending him flying across the room.</span></div></div>",
+            "created":1334638800,
+            "id":1318045,
+            "title":"Werewolf"
+        },
+        "1211212212211":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Keep it a Secret",
+                "Tell Everyone what Happened"
+            ],
+            "content":"<div class=\"\"><div> <span>As you were gaining consciousness you realize your out of Impel Down and seeing Chopper with his back to you mixing two liquids. The female prisoner and the male prisoner walked through the door and see's that your awake and alive.<br>\r\n<br>\r\n\"How long was I out?\" you ask<br>\r\n\"Three days\" Chopper said<br>\r\n\"Oh yeah, I'm Kavin and this is Amina.\" The male prisoner said<br>\r\n<br>\r\nYou tried and get up but fell face first to the ground Kavin ran and picked you up and sat you on the bed. After five minutes of sitting down you got up feeling weak and walked out the door. Seeing Sanji, Usopp, Brook, and Franky in the middle of a navy ship talking. They saw you walking out the door and watched as if testing how much your body can take. Then you heard a cannon hit the water beside you. Noticing at least five Navy ships following you Luffy, Zoro, Sanji, Usopp, and Franky destroyed the ships.<br>\r\n<br>\r\n\"Where are we headed?\" You ask<br>\r\n\"Water 7\" Nami said behind you \"We have allies there and its where our ship is.\"<br>\r\n<br>\r\nAfter a few hours of talking with the other's you start feeling your body more relieved. And having Water 7 in sights you see it's majestic beauties for the first time. Then all of a sudden you feel a sensation in your head as if you been here and thoughts start rushing through your head.</span></div></div>",
+            "created":1334638800,
+            "id":1318060,
+            "title":"Wake up on a Ship"
+        },
+        "12112122122111":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "You make it to the end",
+                "The dangers"
+            ],
+            "content":"<div class=\"\"><div> <span>As you land in Water 7 you start to walk in the opposite direction as everyone else. After making it out of sight you walk behind a building and knock three times. Then suddenly the wall opens up and you slip in and the door closes. Then a voice in your head said \"Beware of the dangers ahead\".</span></div></div>",
+            "created":1335762000,
+            "id":1326039,
+            "title":"Keep it a Secret"
+        },
+        "121121221221112":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "You don't see it",
+                "You see it"
+            ],
+            "content":"<div class=\"\"><div> <span>As the door closed behind you, you then started to walk down pitch black stairway. As you take two steps you step on a pressure plate and lights came on with arrows flying at your head. You dodge every arrow with ease and continue to the bottom of the stairs. Where the floor opened up revealing a hole with spikes at the bottom, you change to your wolf form and jump the hole. Then you make to area that opens up into an arena with three fishmen waiting with huge swords. One of the fishmen's attacked you, then you tried to change to your were-wolf form but you changed to wolf-form. You dodged the attack noticing that you feel different as is your wolf-form looks different, you feel lighter, faster, and stronger than before. You charged the fishmen that attacked you with a bite to the arm and leapt off his back to the others and immobilized them. Then you were approached by several people with a woman in the middle of the group.<br>\r\n<br>\r\n\"Come with me.\" the woman whispered<br>\r\nAs you both made it to an empty room she told you about the voices in your head.<br>\r\n\"How do you know me?\" You ask<br>\r\n\"Wha... How do you not know me?\" She said confused \"I am your sister you not recognize me?\"<br>\r\n\"No I don't know how I got here or who I am?\" You said more confused<br>\r\n\"You are Three-Scar Jack leader of the Black Moon Pirates, our parents were killed when we were just kids.\" She explains \"We have the mark of the promise.\" (She turns her hand over revealing the Sun Pirates Mark)<br>\r\n<br>\r\nAs you turn your hand over...</span></div></div>",
+            "created":1337069820,
+            "id":1337627,
+            "title":"The dangers"
+        },
+        "1211212212211121":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "The Completion of the ship",
+                "Something Happens"
+            ],
+            "content":"<div class=\"\"><div> <span>As you turn your hand over there is no mark of the Sun Pirates to prove you know this girl. But you feel that everything she has said is true and you can trust her. Knowing that you leave her in charge of \"The Black Moon Pirates\" and turn around and leave then you pass out from your previous wounds. You wake up with your sister tending to your wounds feeling much better than when Chopper was treating you. You get up not feeling weak and walk to the door when you realize Amina was lying on a table suffering from cuts from the blade of a sword.<br>\r\n<br>\r\n\"How did this happen?\" you ask<br>\r\n\"She followed you down in here.\" she said \"Do you know her?\"<br>\r\n\"Yeah, she is part of my crew.\" you said<br>\r\n\"Wait you have another crew?\" your sister said<br>\r\n\"Yeah, we formed it in Impel Down.\" you said \"But that was before I knew this.\"<br>\r\n<br>\r\nWhile waiting for Amina to rest you notice three wanted poster's:<br>\r\n<br>\r\nWANTED<br>\r\n\"Three-Scar\" Jack<br>\r\n50,000,000 beri's<br>\r\n<br>\r\nWANTED<br>\r\n\"Navy Killer\" Kavin<br>\r\n35,000,000 beri's<br>\r\n<br>\r\nWANTED<br>\r\n\"The Thief\" Amina<br>\r\n25,000,000 beri's<br>\r\n<br>\r\n<br>\r\nBy the time you were done looking at the poster's you notice Amina standing in the doorway. You run over to her and she puts her arm around your neck and you help her to where the other's were. There they saw Kavin working on a ship with the other worker's. Amina sit's down on a bench while you were approached by a man with ice blue hair and in a suit.<br>\r\n<br>\r\n\"You must \"Three-Scar\" Jack from the wanted poster's, I am Iceburg and that is your ship your crewmate is working on.\" He explained<br>\r\n\"Why are you doing this?\" You ask<br>\r\n\"A good friend told me to build you a ship and this one is on the house.\" Iceburg explained</span></div></div>",
+            "created":1337119020,
+            "id":1338030,
+            "title":"You don't see it"
+        },
+        "12112122122111211":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Long Trip to the Island",
+                "Skip to Island"
+            ],
+            "content":"<div class=\"\"><div> <span> As you stood their with your crew and the ship being prepared one last time, everyone was supplying your ship. Then when you and your crew got on board you could see a Navy ship twice the size of any other navy ship. You issued your first command and ordered to leave Water 7 with the Navy ship close-by. The ship was side-by-side and you could see Admiral Akainu, he first went to attack your ship but was interrupted. Then Amina spotted a Jolly Roger with a Skull and Crossbones in front of a Moon firing at the Navy ship. Allowing for you to escape heading for your first destination. As you sailed away you could see Akainu fighting the pirates that intervened.</span></div></div>",
+            "created":1338535140,
+            "id":1349690,
+            "title":"The Completion of the ship"
+        },
+        "121121221221112112":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Continue"
+            ],
+            "content":"<div class=\"\"><div> <span>With the last of the Navy ships destroyed you continued to the little island with a ruined town. As you docked your ship at the port you realized this village was in the middle of a war with the Navy. Then Kavin noticed someone out of the corner of his eye and followed them, with that you and Amina followed to be surrounded by what looks like a makeshift army. Out of the middle of the crowd a kid stepped out and issued everyone to stand down. Before the kid could speak Navy soldier's attacked the group and the kid dodging every attack and charged the soldier's knocking out the small group of ambusher's. Amina pulled her gun out aimed it right toward the kid and shot hitting a guard behind him.</span></div></div>",
+            "created":1347327600,
+            "id":1424883,
+            "title":"Skip to Island"
+        },
+        "122":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Continue",
+                "Make an Alliance",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Your sight is a little hazy but you recognize the place as Impel Down and seeing Roranoa Zoro and Monkey D. Luffy captured. You being lead to level 1: Crimson Hell, the guard put you in a cell and whispers \"Find Luffy.\"<br>\r\n<br>\r\nYou pondered on what he just said and realised you can't stay here so you escaped and ran across the blade grass and saw a giant hole knowing its better than dieing from cuts. You jump down to level 2 Beast Hell you land quietly but with excruciating pain from the cuts. You caught a glimpse of a monster but slipped inside of a cell with a few scared prisoners.</span></div></div>",
+            "created":1328245200,
+            "id":1270326,
+            "title":"Prisoner"
+        },
+        "1221":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Continue",
+                "Something Happens",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>After the monster walked by you slipped back out of the cell to be grabbed by a prisoner.<br>\r\n\"Where are you going?\" A Prisoner asked<br>\r\n\"I'm getting out of here.\" <br>\r\n\"Your going the wrong way.\" Prisoner says<br>\r\n\"I'm busting somebody out.\"<br>\r\nThen you slipped out of the cell to see a puzzle scorpion coming at you you jumped on top of the beast ran on seeking to go down further. There you saw a door on the other side of a huge hole in the ground so you just jump down the hole only to feel hot.</span></div></div>",
+            "created":1328245200,
+            "id":1270334,
+            "title":"Continue"
+        },
+        "1222":{
+            "author_id":"blckrico5561",
+            "author_name":"BlckKira",
+            "choices":[
+                "Fight Magellan!",
+                "Run away towards Level 3.",
+                "Slip into (New-Kama Land!)"
+            ],
+            "content":"<div class=\"\"><div> <span>As you and your new group of \"allies\" head through level 2, you all hear an alarm on the transponder snails and realize you're now on the run! Magellan &amp; Hannyabal arrive and start patrolling and sweeping the area. You guys seem to have no other choice, you guys either decide to turn and take on Magellan, try your luck and press foward, or slip away in a little hidden shortcut on the side. Which action does your character make?</span></div></div>",
+            "created":1568635440,
+            "id":2719020,
+            "title":"Make an Alliance"
+        },
+        "14":{
+            "author_id":"xinga1991",
+            "author_name":"anime19fan",
+            "choices":[
+                "Jaya",
+                "Sky Island",
+                "Sabaody Archipelago",
+                "Fishman Island",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What island do you awake on?</span></div></span></div>",
+            "created":1327813200,
+            "id":1268197,
+            "title":"(male) On an island"
+        },
+        "144":{
+            "choices":[
+                "multi-multi fruit",
+                "haki",
+                "something else"
+            ],
+            "content":"<div class=\"\"><div> <span>When your vision becomes clearer you realize that you are on Fishman Island. As you scan your memory for the exact time and place on Fishman Island that you are, you notice a group of mermaids gathering around a barrel. The barrel looks slightly familiar. It is riveted, tied, and nailed shut. You remember that the moment those mermaids open that barrel things will start to go wrong.<br>\r\n<br>\r\n\"Don't open that barrel!\" you yell right when they tear of one of the steel bars keeping it shut.<br>\r\n<br>\r\n\"Why not?\" one of the mermaids asks.\"And who are you?\"<br>\r\n<br>\r\nYou pick up a large piece of coral, run over, and place it on the barrel to keep it shut before replying, \"You could say that I'm a friend of the Strawhat pirates, and there is a good reason for them having closed this barrel up so tight. There is a very evil man inside of here and, well, let's just say that he will cause a lot of problems for the Strawhats should he get out.\" Just as you finish, you notice that the barrel is starting to bulge like it's about to burst. \"Run!\" you yell at the mermaids startling them. The mermaids take your advice and dive into the water right as the barrel bursts sending lumps of wet sand everywhere.<br>\r\n<br>\r\n\"You, you ruined my chance to become rich.\" a voice calls from the big pile of sand in front of you. \"Now I need to kill you, you bountyless creep\"<br>\r\n<br>\r\n\"Kill me? You honestly think that you can kill me?\" you ask defiantly. \"If anybody is going to be killing anybody, it's going to be me killing you Wet-Haired Caribou.\"<br>\r\n<br>\r\n\"Like you have a chance. I'm one of the supernovas. I have killed more people than you can count.\" Caribou replied as the sand stared to take the form of his body.<br>\r\n<br>\r\n'He's got a point. Even though I know how his power works I have no way of attempting to hurt him.' you think to yourself. Suddenly you hear a voice at the back of your mind say something.<br>\r\n<br>\r\nWhat does it say?</span></div></div>",
+            "created":1331182800,
+            "id":1291044,
+            "title":"Fishman Island"
+        },
+        "1443":{
+            "choices":[
+                "Rokushiki",
+                "Didn't quite hear it"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did it say?</span></div></span></div>",
+            "created":1331269200,
+            "id":1291494,
+            "title":"something else"
+        },
+        "14432":{
+            "choices":[
+                "two fruit powers",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe one of these?</span></div></span></div>",
+            "created":1331269200,
+            "id":1291495,
+            "title":"Didn't quite hear it"
+        },
+        "144322":{
+            "choices":[
+                "Combination haki+two devil fruit powers",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This is my last idea for what the voice said.</span></div></span></div>",
+            "created":1331614800,
+            "id":1294088,
+            "title":"other"
+        },
+        "1443221":{
+            "choices":[
+                "Multi-multi fruit and Change-change fruit",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span><span class=\"cblue\"></span>= you<br>\r\n<span class=\"cbrown\"></span>= Caribou<br>\r\n<br>\r\n\"You have the powers of two devil fruits and the three types of haki. Use them well.\" the voice says before fading into silence.<br>\r\n<br>\r\n<span class=\"cblue\">\"Well now, that's awesome\"</span> you say aloud.<br>\r\n<br>\r\n<span class=\"cbrown\">\"Who are you talking to?\"</span> asked Caribou<br>\r\n<br>\r\n<span class=\"cblue\">\"It's none of your business.\"</span> you retort. <span class=\"cblue\">\"I just wonder what two fruits i have.\"</span> you think to yourself.<br>\r\n<br>\r\nWhat are your new powers?</span></div></div>",
+            "created":1331614800,
+            "id":1294090,
+            "title":"Discoveries galore"
+        },
+        "14432211":{
+            "choices":[
+                "on with the battle 1",
+                "on with the battle 2"
+            ],
+            "content":"<div class=\"\"><div> <span>Multi-multi fruit- Allows for multiple duplicates of the user and anything they wish (one sword becomes two) that are the same as the original. No time limit. Bigger scale than Nico Robin's fruit. Activated by saying \"multi-multi _____.\" duet= one becomes two; trio= one becomes three; quartet= one becomes four; chorus of ___= however many was said; solo returns to one. Weaknesses- Standard devil fruit weaknesses, duplicates can feel when one of the others is hurt, but if one is killed the others will not die.<br>\r\n<br>\r\nChange-change fruit- Allows the user to change or equip any weapon (within reason) they wish. Activated by saying \"change (name of chosen weapon).\" Weaknesses- Standard devil fruit weaknesses, not much else is know.</span></div></div>",
+            "created":1331614800,
+            "id":1294101,
+            "title":"Fruit power explanations"
+        },
+        "144322111":{
+            "choices":[
+                "check the stuff that Caribou dropped",
+                "search for a place to stash Caribou until you leave"
+            ],
+            "content":"<div class=\"\"><div> <span><span class=\"cblue\">you</span><br>\r\n<span class=\"cbrown\">Caribou</span><br>\r\n<br>\r\n<span class=\"cblue\">\"I got some good powers.\"</span> you think to yourself. <span class=\"cblue\">\"I should probably wait to try them though.\"</span><br>\r\n<br>\r\n<span class=\"cbrown\">\"Numa Numa no Gatling Gun!\"</span> Your thoughts are suddenly snapped back to the battle at hand as a flurry of bullets flew towards you. Thankfully, your Observation Haki kicked in just in time to allow you to dodge the shots. You rush towards Caribou and send him flying with a punch to his chest.<br>\r\n<br>\r\n<span class=\"cblue\">\"Awesome.\"</span> you say as he lands several yards away from you.<br>\r\n<br>\r\n<span class=\"cbrown\">\"What the --?!\"</span> Caribou asks with shock as he recovers, barely having enough time to stand before being floored again by an axe kick to the head.<br>\r\n<br>\r\n<span class=\"cblue\">\"Too slow.\"</span> you remark as you flip away to avoid a large scythe that had appeared from his back.<br>\r\n<br>\r\nAs he picks himself up from the ground, he asks, <span class=\"cbrown\">\"Who the hell are you?!\"</span> You can tell that he's getting really angry, but also sense a note of fear in his voice.<br>\r\n<br>\r\n<span class=\"cblue\">\"My name is of no concern to you.\"</span> You reply. <span class=\"cblue\">\"I guess now would be a good time to try out one of my new powers.\"</span> you think to yourself, remembering that there could be almost anything in Caribou's hidden arsenal. <span class=\"cblue\">\"Change...\"</span> you begin as energy starts to accumulate around your arm. <span class=\"cblue\">\"Giant Hammer!\"</span> you finish as the energy first forms a sphere in the palm of your hand before taking the shape of an extremely large hammer, which then materializes and falls into your open hands. <span class=\"cblue\">\"This is so awesome!\"</span> you shout with excitement. Seeing you momentarily distracted, Caribou tries to flee. <span class=\"cblue\">\"NO YOU DON'T!\"</span> you holler bringing the Haki infused hammer down on his head causing him to go unconscious and some of his loot to burst from his swamp-like body. Realizing that you wouldn't be able to collect the bounty on his head to pay off Nami to let you in to the crew (even if Luffy wants you to join, they'll still be a little suspicious of you) if he escapes, you decide to try materializing some sea-stone handcuffs. \"Let's give this a try. Change...\" the hammer starts to fade back into the energy that you had created it from and swirl around your arm again. <span class=\"cblue\">\"Sea-stone handcuffs!\"</span> The energy forms back into a ball, then forms a pair of handcuffs and a matching key. <span class=\"cblue\">\"Okay, I can create handcuffs, but are they sea-stone?\"</span> you wonder to yourself, feeling a little more drained than when you had created the hammer. Not wanting to risk the possibility of Caribou escaping from the cuffs because they aren't sea-stone, you decide to try them on yourself. Opening one of the cuffs, you place it on your wrist and close it. <span class=\"cblue\">\"Since the hammer disappeared when I made these I think that I should test it with my other power.\"</span> Focusing your thoughts you try activating the multi-multi fruit. <span class=\"cblue\">\"Multi Multi Duet!\"</span> You wait for about to minutes thinking that the fruit might have a delayed reaction before exclaiming <span class=\"cblue\">\"YES! I can create sea-stone objects!\"</span> You quickly un-cuff yourself, then lock up Caribou.<br>\r\n<br>\r\nWhat do you do now?</span></div></div>",
+            "created":1333429200,
+            "id":1308640,
+            "title":"on with the battle 1"
+        },
+        "1443221111":{
+            "choices":[
+                "Drake",
+                "reader's choice"
+            ],
+            "content":"<div class=\"\"><div> <span><span class=\"cblue\">you</span><br>\r\n<span class=\"cppink\">mermaids</span><br>\r\n<br>\r\nFeeling assured that Caribou wouldn't be escaping or kiddnapping any mermaids anytime soon, let alone waking up, you decide to search through the stuff he 'dropped'. There wasn't a whole lot that interested you, mostly just swords and the odd gun here or there, but as you were preparing to haul off your offering to the Strawhats, you spotted something out of the corner of your eye that drew your attention like a moth to flame. Lying there was a large great-sword. A little bit of sand covered the hilt, but you could see that it was beautifully made. You walked over and went to pick it up, but the moment your hand wrapped around the hilt you felt a light pulse, almost like a heart beat, that quickly faded. Perplexed, you wondered what that was for minute before shrugging it off. As you picked the sword up you remembered that great-swords were supposed to be really heavy, but this one felt rather light. Figuring that it probably is just your new found strength in this world, you swing the sword a few times to get a feel for its weight. As you look over the beautiful blade, you realize that there will be times in this world when you will not be able to use your powers without great risk to yourself or those around you.<br>\r\n<br>\r\n\"Hey! Did you get rid off that guy that popped out of the barrel?\" a mermaid asked popping up out of the water. This startled you enough that you quickly turned and pointed the sword at her.<br>\r\n<br>\r\nSeeing that it was one of the mermaids that you had saved, you spun the sword and set it on your back before answering. \"Sorry about that, you just scared me. Yeah, I knocked him out. He's unconscious and cuffed over there on the ground.\" You point at Caribou's body a short distance away.<br>\r\n<br>\r\n\"I didn't mean to scare you and thanks for saving us.\" she responds, smiling as her friends appear at the surface of the water. \"I wish I knew your name and that there was someway we could repay you.\" she adds.<br>\r\n<br>\r\n\"Actually, there are a few things you could help me with.\" you answer, rubbing your head in embarrassment.<br>\r\n<br>\r\n\"Really!?\" they ask in surprise. \"What are they?\"<br>\r\n<br>\r\n\"First, is there somewhere I keep this guy until I leave?\" you ask picking up Caribou's unconscious body.<br>\r\n<br>\r\n\"Yeah, we could talk with Madam Sharley about holding him at the Cafe, but I don't know if she'll be okay with it.\" one of the mermaids answers after some deliberation.<br>\r\n<br>\r\n\"Thanks. Second, do you know where the Strawhats are at on the island?\" you ask. \"Or at least Luffy.\"<br>\r\n<br>\r\n\"Um... I think he was at the Cafe himself. One of his crew was unconscious and the New Fishman Pirates and princes were looking for them.\" the first mermaid answered.<br>\r\n<br>\r\n\"Okay, thanks.\" you say as you start to walk off in a random direction. Remembering that you don't know your way around the island you turn back and ask, \"Could you girls do one more thing for me?\"<br>\r\n<br>\r\n\"Don't tell me,\" another mermaid says, \"you don't know the way to the Mermaid Cafe and would like us to take you there, right?\" You hang your head in shame and slowly nod. This causes all of the mermaids to laugh for a bit. \"Sorry,\" the same mermaid says as she wipes a tear from her eye, \"of course we'll show you the way.\"<br>\r\n<br>\r\nThe mermaids begin diving under water when you stop one. \"Uh, I can't swim.\" you say loud enough for her to hear.<br>\r\n<br>\r\n\"Really?\" she asks stunned. \"I can teach you real quick if you want.\"<br>\r\n<br>\r\nThis thought enters your mind and you unconsciously start to drool before snapping out of it. \"It's not that I don't know how to swim...\" you start answering, when she gets the drift.<br>\r\n<br>\r\n\"Oh. You have the powers from a cursed fruit, don't you?\" she asks.<br>\r\n<br>\r\n\"Actually, I have the powers from two of them.\" you reply.<br>\r\n<br>\r\n\"Okay, hold on, I'll go see if one of the others has some bubbly coral with them.\" she says diving into the water to catch up with the other mermaids.<br>\r\n<br>\r\n<br>\r\nA few minutes later...<br>\r\n<br>\r\n\"Here we go. This should help.\" one of the mermaids says as she creates a bubble large enough for you to sit inside. As you step into the bubble you grab a rope that you had tied around the bubble that you put Caribou in and ask, \"Okay, now how is this going to work exactly?\"<br>\r\n<br>\r\n\"We'll just pull you along until we reach the Cafe.\" a mermaid says. \"But we would really like to get your name so that we can properly introduce you to Madam Sharley.\"<br>\r\n<br>\r\n\"Oh right.\" you remember. \"Sorry, let me introduce myself. My name is...\"</span></div></div>",
+            "created":1333515600,
+            "id":1309256,
+            "title":"check the stuff that Caribou dropped"
+        },
+        "14432211111":{
+            "choices":[
+                "Chopper",
+                "somebody else"
+            ],
+            "content":"<div class=\"\"><div> <span>(sorry about forgetting to change the dialog color in the last chapter, I sometimes forget about the small details when I have a big picture in my mind)<br>\r\n<br>\r\n<span class=\"cblue\">you</span><br>\r\n<span class=\"chotpink\">mermaids</span><br>\r\n<span class=\"cbrown\">Caribou</span><br>\r\n<br>\r\n<br>\r\n<span class=\"cblue\">\"My name is Drake.\"</span> you say politely, bowing as much as you could in the small bubble without popping it with your new sword.<br>\r\n<br>\r\n<span class=\"chotpink\">\"It's nice to meet you, Drake.\"</span> the mermaids all say.<br>\r\n<br>\r\n<span class=\"cblue\">\"So how long will it take for us to reach the Mermaid Cafe?\"</span> you ask.<br>\r\n<br>\r\n<span class=\"chotpink\">\"It shouldn't be that long.\"</span> the one pulling your bubble answers.<br>\r\n<br>\r\n<span class=\"chotpink\">\"So how did you get your fruit powers?\"</span> one of them asks.<br>\r\n<br>\r\n<span class=\"cblue\">\"I don't really remember how I got them.\"</span> you lie with a fake smile. <span class=\"cblue\">\"All I remember is that I was taking a nap on the hill I came from when I heard you girls talking about opening that barrel and then running down with that really big piece of coral to stop you from opening it.\"</span><br>\r\n<br>\r\n<span class=\"chotpink\">\"So how did you know that that man was sealed in there?</span>\" she asks.<br>\r\n<br>\r\n<span class=\"chotpink\">\"Lucky guess?\"</span> you lie again.<br>\r\n<br>\r\n\"<span class=\"chotpink\">Well thanks for saving us. I'm sure that Madam Sharley will reward you for defending us herself.\"</span> another says with a weird smile. You look at her confused as you think about what that smile means. You start drooling again when you feel that weird, heart beat-like, pulse snapping you out of your daze. As you look for the source you feel a tug on the rope your holding pulling your attention away from the pulse and to your prisoner who is starting to wake up.<br>\r\n<br>\r\n<span class=\"cbrown\">\"What happened?\"</span> Caribou asks sitting up.<br>\r\n<br>\r\n<span class=\"cblue\">\"You got your rear end handed to you by a 'bountyless creep', that's what happened.\"</span> you answer as you pull his bubble towards you. <span class=\"cblue\">\"And I think your bounty will do nicely as a payoff to the Strawhats so that I can join their crew.\"</span><br>\r\n<br>\r\n<span class=\"cbrown\">\"What do you mean 'payoff'?\"</span> he asks still not realizing the predicament that he's in. <span class=\"cbrown\">\"You won't be able to hand me over to the marines if I escape.\"</span> he says trying to push out through his bubble when a fish swims past. Realizing that the bubble is the only thing keeping him safe he calms down and starts plotting his escape. <span class=\"cbrown\">'Once I'm on land I'll change into my element form, kidnap a few mermaids, and escape.'</span> He then realizes how weak he feels and looks at the cuffs on his wrists. <span class=\"cbrown\">\"These are sea-stone aren't they?!\"</span> he screams and starts thrashing around.<br>\r\n<br>\r\n<span class=\"cblue\">\"SHUT UP!\"</span> you yell, activating your conquerer's haki and yanking on the rope to his bubble. He falls unconscious again. <span class=\"cblue\">\"Geez, he's annoying.\"</span> you say rubbing your temples in annoyance.<br>\r\n<br>\r\n<span class=\"chotpink\">\"We're here.\"</span> the mermaid that had been pulling you along calls.<br>\r\n<br>\r\n<span class=\"cblue\">\"Awesome!\"</span> you say, excited.<br>\r\n<br>\r\nYou enter the Cafe through the back door and the first person you run into is...</span></div></div>",
+            "created":1333515600,
+            "id":1309278,
+            "title":"Drake"
+        },
+        "144322111111":{
+            "choices":[
+                "enter the door",
+                "something happens"
+            ],
+            "content":"<div class=\"\"><div> <span><span class=\"cblue\">you</span><br>\r\n<span class=\"corange\">Chopper</span><br>\r\n<span class=\"chotpink\">mermaids</span><br>\r\n<span class=\"cbyellow\">Sanji</span><br>\r\n<br>\r\nAs you are led down the hall to where Madam Sharley was at, you hear a conversation coming from a door a short distance away.<br>\r\n<br>\r\n\"Sanji, you need to stay in bed!\"<br>\r\n<br>\r\n\"No! I will not stay in a bed where those two can get to me!\"<br>\r\n<br>\r\n\"I'm guessing that those are two of the Strawhat crew?\" you ask one of the mermaids.<br>\r\n<br>\r\n\"Yes.\" she answers. \"Chopper-san has been having some trouble keeping Sanji-kun in bed. Apparently, he is having some problems with blood-loss.\"<br>\r\n<br>\r\n\"Ah. I see.\" you respond. \"Could you watch this for me real quick?\" you then ask, indicating Caribou as you put him down.<br>\r\n<br>\r\n\"Um... sure, but what if he wakes up?\" she asks.<br>\r\n<br>\r\n\"Don't worry, he can't do anything but run around while those cuffs are on his wrists and I have the only key.\" you answer proudly as you flip the key like it was a coin.<br>\r\n<br>\r\n\"Okay!\" she responds feeling less worried about her temporary job.<br>\r\n<br>\r\nYou walk down the hall to the door where the noise is coming from. You open the door and find yourself looking at the back of Sanji's head. 'Perfect' you think and quickly deal a blow to the back of his head that would knock even Luffy unconscious. Sanji falls to the floor and starts dreaming about something. Almost as soon as Sanji hit the floor, Chopper was at your throat in his horn point form.<br>\r\n<br>\r\n\"Who are you and why did you just attack Sanji?\" he asked.<br>\r\n<br>\r\n\"You can call me Double Devil Fruit Drake or just Drake if you would rather.\" you answer moving Chopper's horn's away from you neck. \"And to answer your second question, Doctor Chopper, I hit Sanji in order to knock him out so that you could put him back in his bed.\" you add knowing what Chopper does when complimented.<br>\r\n<br>\r\n\"That doesn't make me happy, you idiot.\" Chopper responds as he does his happy dance. This continues for a minute or two before he calms down and carries Sanji over to one of the beds. \"Thank you for your help Drake, but you should never harm someone suffering from the amount of blood loss that Sanji has. I have no clue why he's acting like this though.\" he adds.<br>\r\n<br>\r\n\"I may be able to clear up the confusion there. It's those two.\" you say pointing to Chopper's 'nurses'. \"I think that Sanji spent the two years that you were seperated on an island full of people like them.\"<br>\r\n<br>\r\n\"That would explain why he only acts like that when they talk to him.\" Chopper comments.<br>\r\n<br>\r\n\"Yep.\" you agree as you begin to walk out of the room.<br>\r\n<br>\r\n\"Hey, Drake!\" Chopper calls after you.<br>\r\n<br>\r\n\"Yeah?\" you ask turning around. \"Do you need something?\"<br>\r\n<br>\r\n\"I have a few questions that I want you to answer.\" he says. \"First and foremost, why do you call yourself Double Devil Fruit Drake when everybody knows that one person can't have two Devil's Fruit powers?\" he asks.<br>\r\n<br>\r\n\"Well that is not necessarily true, Chopper. I am one of two people in this world capable of eating two Devil's fruits and surviving. The other person is the man that captured 'Fire Fist' Ace. He goes by the name Marshall D. 'Blackbeard' Teach.\" you answer. \"Come, walk with me.\" you say walking back to where you had left the mermaid and Caribou. Chopper tells his 'nurses' to watch Sanji until he gets back and runs down the hall after you. When you get back to the mermaid you find that Caribou is still relatively out cold.<br>\r\n<br>\r\n\"I know him!\" Chopper yells.<br>\r\n<br>\r\n\"I figured as much. I caught him about to kidnap some mermaids and I think that, had he succeeded, you and your crew would have been blamed.\" you tell him, much to his surprise. You pick Caribou up, sling him over your shoulder, and continue your walk toward Madam Sharley's room. \"You said you had a few questions Chopper. Go ahead and ask, I don't mind.\" you say to him.<br>\r\n<br>\r\n\"Right! I forgot about the other questions that I had.\" he says embarrassed. \"What brings you to Fishman Island and where's the rest your crew?\" he asks.<br>\r\n<br>\r\n\"I'll answer those in reverse order. I have no crew to say but one of my powers allows me to make as many duplicates of myself as I want, so you could say I'm a crew of one.\" you reply smiling.<br>\r\n<br>\r\n\"Oh. You mean like my friend Robin's power?\" Chopper asks.<br>\r\n<br>\r\n\"Sort of, but my power isn't limited to just body parts.\" you respond. \"Or for that matter just me.\"<br>\r\n<br>\r\n\"What?!?!\" he shouts, shocked.<br>\r\n<br>\r\n\"Yeah, I can create duplicates of a weapon that I'm currently using or even other people.\" you say. \"And as for your other question, I came here to hopefully join the crew of the Strawhat pirates.\" you add smiling. \"In fact I was planning on using this guy's bounty to bribe Nami.\"<br>\r\n<br>\r\n\"You wanted to join our crew?\" Chopper asks astonished.<br>\r\n<br>\r\n\"Yep. I'm a big fan of the Strawhat crew.\" you reply. \"Any other questions?\" you then ask.<br>\r\n<br>\r\n\"Just one. You say that one of your powers allows you to duplicate yourself and anything and anyone you wish, but what is the other one?\" he asks.<br>\r\n<br>\r\n\"Okay, first, your assumption isn't entirely correct. I can only duplicate someone else if they are okay with it.\" you begin. \"Second, my other power allows me to quickly swap the weapon that I am currently using for another one. I can also create an object out of pure energy, for example, the sea-stone hand cuffs that Caribou is wearing, though it took a lot of energy to create those.\" you finish.<br>\r\n<br>\r\n\"Drake-san, Chopper-san, we're here.\" the mermaid says to you as you reach a rather large door.</span></div></div>",
+            "created":1334811600,
+            "id":1319053,
+            "title":"Chopper"
+        },
+        "1443221111112":{
+            "choices":[
+                "Chopper sees Hatchin lying  on the ground",
+                "something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Just as you are about to open the door, you hear a loud explosion and a voice yell, \"Strawhat pirates we request that you come with us peacefully. We mean you no harm. We just have a few questions for you.\"<br>\r\n<br>\r\n\"Who is that talking to us?\" Chopper asks.<br>\r\n<br>\r\n\"I think that it might be the ammonites.\" you answer. 'Damn they got here sooner than I thought they would.' you then think to yourself. \"Hey, Chopper why don't you go check on Sanji, I need to talk with Madam Sharley for a bit, ok?\" you suggest.<br>\r\n<br>\r\n\"Good idea.\" Chopper replies. \"That explosion might of aggitated his condition.\" He then ran off. You look back, shake your head, and enter the door.<br>\r\n<br>\r\n\"Good day to you, Madam Sharley, might I have a moment to speak with you?\" you politely ask bowing low enough to show great respect while keeping Caribou on your shoulder.<br>\r\n<br>\r\n\"Of course. One as charming as you may have all the time you wish.\" she responds.<br>\r\n<br>\r\n\"Thank you for the compliment.\" you begin. \"I would like to know if you might have a place where I can keep my prisoner safe until we leave.\" you inquire.<br>\r\n<br>\r\n\"My cafe is not a prison sir.\" Sharley retorts angrily.<br>\r\n<br>\r\n\"Of course not, but I assure you that he will not be a problem so long as his handcuffs are not removed, and I will be leaving as soon as I acquire a new ship.\" you remark. \"And I will, of course, pay for the duration of our stay.\"<br>\r\n<br>\r\n\"In that case, we do have an open room that you may keep him in.\" she answers.<br>\r\n<br>\r\n\"Thank you very much.\" you say bowing low again as an explosion goes off in the hall.<br>\r\n<br>\r\n\"What is this madness?\" Sharley yells.<br>\r\n<br>\r\n\"It seems the ammonites are here to prevent your vision of the Strawhats destroying the island from happening.\" you respond. \"Will you have someone take care of him for me I must go help my friends.\" you say dropping Caribou to the floor and grabbing your sword. The instant your hand closes on the hilt you feel that strange heart-beat-like pulse again. 'What the--- this pulse, it's coming from the... sword?!' you think to yourself. You shake the notion off quickly before charging through the door.<br>\r\n<br>\r\n\"Capture the Strawhats!\" you hear a soldier yell.<br>\r\n<br>\r\n'You know what...,' you think, 'fighting off all these guards is going to take forever, even if I duplicate myself, so...' You activate your Conquerer's Haki which knocks out most of the guards and a large portion of the civilians nearby.<br>\r\n<br>\r\n\"What the-?\" Sanji yells, looking in your direction. \"You! You're gonna pay for knocking me out!\" He charges at you and is about to use his anti-manner kick course on your ass when...</span></div></div>",
+            "created":1335996060,
+            "id":1328058,
+            "title":"something happens"
+        },
+        "144322111112":{
+            "choices":[
+                "Sanji",
+                "somebody else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is it?</span></div></span></div>",
+            "created":1333602000,
+            "id":1309710,
+            "title":"somebody else"
+        },
+        "15":{
+            "author_id":"agnesd",
+            "author_name":"FostineF",
+            "choices":[
+                "Sea Monster",
+                "Pirate Ship",
+                "Marine Ship",
+                "Nothing and then blackout",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You feel something wet in your hand.<br>\r\n<br>\r\nThen, you realize that you are floating at the sea.<br>\r\n<br>\r\nYou panicked and that make you sink.<br>\r\n<br>\r\nYou scream for the help.<br>\r\n<br>\r\nWhen you almost unconscious, you see something.<br>\r\n<br>\r\nWhat?</span></div></div>",
+            "created":1368637560,
+            "id":1590476,
+            "title":"Other"
+        },
+        "152":{
+            "author_id":"lonergirl45",
+            "author_name":"WeirdGirl",
+            "choices":[
+                "Strawhat Ship",
+                "Buggy's Ship",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What pirate ship is it?</span></div></span></div>",
+            "created":1368637740,
+            "id":1590479,
+            "title":"Pirate Ship"
+        }
+    },
+    "info":{
+        "author_id":"xinga1991",
+        "author_name":"anime19fan",
+        "brief_description":"You find yourself in the world of One Piece. What to do?",
+        "created":1326390780,
+        "description":"<td align=\"left\" class=\"norm\">You wake to find out your in the world of One Piece how would you survive?<br>\r\n<br>\r\nWhen ADDING Chapters just keep in the parameters of One Piece and happy reading and ADDING.<br>\r\n<br>\r\nFor a good chapter i will give you 300 GP's (2-3 paragraphs)<br>\r\ntry your best to spell correctly</td>",
+        "id":1840102,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1568635440,
+        "modified":1568635440,
+        "pretty_title":"One Piece"
+    }
+}

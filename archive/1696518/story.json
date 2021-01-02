@@ -1,0 +1,773 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Boy ",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a boy or a girl?</span></div></span></div>",
+            "created":1280984400,
+            "id":930727,
+            "title":"Male or Female"
+        },
+        "11":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "13",
+                "15",
+                "17",
+                "19",
+                "21"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How old are you?</span></div></span></div>",
+            "created":1280984400,
+            "id":930729,
+            "title":"Boy "
+        },
+        "111":{
+            "author_id":"gingernerd",
+            "author_name":"GingerNerd",
+            "choices":[
+                "Super Mario Bros.",
+                "Legend of Zelda",
+                "Other games"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You go to play some video games, but what game do you play?</span></div></span></div>",
+            "created":1504146240,
+            "id":2377551,
+            "title":"13"
+        },
+        "1111":{
+            "author_id":"gingernerd",
+            "author_name":"GingerNerd",
+            "choices":[
+                "Mario",
+                "Peach",
+                "Goomba"
+            ],
+            "content":"<div class=\"\"><div> <span>When the game turns on, it tells you that you have the power to swap anything with the characters in the game. This could be physical swaps like body parts, mental swaps like personality, or abstract swaps like life or name. Which character do you choose?</span></div></div>",
+            "created":1504146360,
+            "id":2377553,
+            "title":"Super Mario Bros."
+        },
+        "1112":{
+            "author_id":"gingernerd",
+            "author_name":"GingerNerd",
+            "choices":[
+                "Link",
+                "Zelda",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>When the game turns on, it tells you that you have the power to swap anything with the characters in the game. This could be physical swaps like body parts, mental swaps like personality, or abstract swaps like life or name. Which character do you choose?<br>\r\n</span></div></div>",
+            "created":1504147140,
+            "id":2377561,
+            "title":"Legend of Zelda"
+        },
+        "1113":{
+            "author_id":"gingernerd",
+            "author_name":"GingerNerd",
+            "choices":[
+                "Pokemon",
+                "Kirby",
+                "Super Smash Bros."
+            ],
+            "content":"<div class=\"\"><div> <span>When the game turns on, it tells you that you have the power to swap anything with the characters in the game. This could be physical swaps like body parts, mental swaps like personality, or abstract swaps like life or name. Which game do you choose?</span></div></div>",
+            "created":1504147260,
+            "id":2377566,
+            "title":"Other games"
+        },
+        "112":{
+            "choices":[
+                "You go to school.",
+                "You decide to stay home."
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up, Yawn and get out of bed. You feel a bit strange but shake it off. You get dressed, eat breakfast. Then, you get a text from your girlfriend Tori that she is breaking up with you.You punch a wall in anger, but in surprise your fist went straight through the wall and your fist doesnt hurt.</span></div></div>",
+            "created":1394946000,
+            "id":1761538,
+            "title":"Waking up"
+        },
+        "1122":{
+            "author_id":"erickstsurin",
+            "author_name":"hahsdf",
+            "choices":[
+                "take your chances with the truck",
+                "get back on the sidewalk and hope the stroller is empty"
+            ],
+            "content":"<div class=\"\"><div> <span>you are surprised to see that it didn't hurt and decide that the wall is just weak and you walk over to the sofa watch t.v. and you start nodding off to sleep when you wake up you look at the clock and it reads 3:30  and you leave to go jogging as your running you feel an urge to run faster so you decide to quicken your pace soon you feel hungry and try to stop for burgers but to you horror you couldn't stop and you go racing down the sidewalk as your running you spot a woman with a stroller and you turn into the street and you are about to make a collision with a 18 wheeler what do you do?</span></div></div>",
+            "created":1421355660,
+            "id":1918307,
+            "title":"You decide to stay home."
+        },
+        "113":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Flight",
+                "Super speed",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What power do you want to have</span></div></span></div>",
+            "created":1280984400,
+            "id":930731,
+            "title":"Power"
+        },
+        "1131":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "With ",
+                "Without"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With or without disappearing wings?</span></div></span></div>",
+            "created":1280984400,
+            "id":930752,
+            "title":"Flight (one more question)"
+        },
+        "11311":{
+            "choices":[
+                "Give a small reaction of surprise, but continue talking- all according to plan.",
+                "Shriek like a little girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>While talking to your friends one day, suddenly 3 pairs of wings rouse from your arms, back, and legs. After taking a moment to observe what had just happened, the first thing you do is... </span></div></span></div>",
+            "created":1281157200,
+            "id":932183,
+            "title":"Emergence"
+        },
+        "11312":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "They are calm about is and say they have something to tell you",
+                "They are freaking out"
+            ],
+            "content":"<div class=\"\"><div> <span>It was 6:00 AM and you were ready to start your day like normal when something felt weird. you coulden't feel your bed below you.<br>\r\n<br>\r\n You carefully open your eyes and see that you are suspended a foot above your bed. <br>\r\n<br>\r\nYou scream at this sight and your parents come in and see you floating.</span></div></div>",
+            "created":1280984400,
+            "id":930758,
+            "title":"waking on air"
+        },
+        "113121":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "She has powers too",
+                "Someone is stealing something from her and is climbing out the window"
+            ],
+            "content":"<div class=\"\"><div> <span>Your Mom and Dad calmly look at you and sigh.<br>\r\n<br>\r\n\"Son\" your father says \"We have something to tell you.\"<br>\r\n<br>\r\nAfter ten minutes you were back on your ground and went over to your parents in the foyer.<br>\r\n<br>\r\n\"Son.\" Your father said again \"It's time you learned of our family secret. Our family is one of many that secretly have super powers.\"<br>\r\n<br>\r\n Your mouth drops open at this information.<br>\r\n<br>\r\n\" Powers come to almost every member of these families in their mid-teen years. You are a late bloomer\" your father explained.<br>\r\n<br>\r\n \"How meny people have powers?\" you ask them.<br>\r\n<br>\r\n\"Quite a bit actually.\" Your mother answered \"In fact at least half the kids in your school have powers.\"<br>\r\n<br>\r\nYou were awe struck by this. you would never have thought that anyone in your school had powers let alone half the student body.<br>\r\n<br>\r\nWhile in shock you hear a scream coming from twin sister Maya's room. You race up there and discover why.</span></div></div>",
+            "created":1280984400,
+            "id":930762,
+            "title":"Family Secret  Revealed"
+        },
+        "1131211":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "In the air like you were (Flight)",
+                "trapped on the ground un able to move (controls gravity)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You get to your sister's room and see that she is. </span></div></span></div>",
+            "created":1280984400,
+            "id":930766,
+            "title":"If one twin has them then so does the other"
+        },
+        "11312111":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "It was a weekday  and time to go to school",
+                "It was saturday and you and Maya were invited over a friend's house"
+            ],
+            "content":"<div class=\"\"><div> <span>Your sister was up in the air panicking. Thinking quickly flew up to her (By now your powers had settled in.) brought her down to the ground.<br>\r\n<br>\r\n\"Bro whats going on!?\" Maya said trying to catch her breath from the shock.<br>\r\n<br>\r\n\"Hey Maya.\" You said. \"Turns out we have super powers.\"<br>\r\n<br>\r\nYou told her everything your mom and dad told you. By the time you were done explaining her powers had settled in. You looked at the clock,saw it was 7:00 and relized... <br>\r\n<br>\r\n</span></div></div>",
+            "created":1281070800,
+            "id":931420,
+            "title":"Twins of Flight"
+        },
+        "1133":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Elemental powers",
+                "Super Strength",
+                "I'll Keep looking"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about elemental powers or super strength?</span></div></span></div>",
+            "created":1280984400,
+            "id":930734,
+            "title":"How about these"
+        },
+        "11331":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Fire",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which element do you control?</span></div></span></div>",
+            "created":1280984400,
+            "id":930740,
+            "title":"Elemental powers"
+        },
+        "113312":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about water and ice?</span></div></span></div>",
+            "created":1280984400,
+            "id":930741,
+            "title":"Water"
+        },
+        "1133122":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Yes",
+                "Keep going"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay then does earth sound good?</span></div></span></div>",
+            "created":1280984400,
+            "id":930743,
+            "title":"Earth"
+        },
+        "11331222":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Yes",
+                "Not at all"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Wind your element?</span></div></span></div>",
+            "created":1280984400,
+            "id":930745,
+            "title":"Wind"
+        },
+        "113312222":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Sounds good",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about controling Lighning? </span></div></span></div>",
+            "created":1280984400,
+            "id":930747,
+            "title":"Thunder and Lightning (Oh so very frightning)"
+        },
+        "1133122222":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Show me the Light!!",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about Light one of the most powerful elements?</span></div></span></div>",
+            "created":1280984400,
+            "id":930749,
+            "title":"Light "
+        },
+        "11331222222":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Unleash the Darkness!!!!",
+                "No too badass for me"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>If not Light then hhow about its twin Darkness </span></div></span></div>",
+            "created":1280984400,
+            "id":930750,
+            "title":"Darkness"
+        },
+        "11333":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about telekinesis </span></div></span></div>",
+            "created":1280984400,
+            "id":930735,
+            "title":"Mind over matter?"
+        },
+        "113331":{
+            "choices":[
+                "Go to class, sort it out later",
+                "I may be crazy, but maybe try to test this out if it's anything"
+            ],
+            "content":"<div class=\"\"><div> <span>The day started like any other day, stereotypically enough. I got up, ate a banana, drank a cup of coffee and drug myself half asleep through the day until I got to lunch. I sat with my friends as always, yelling absurd things and trying to enjoy my senior year at this shitty school as much as I can. Then out of the corner of my eye, I saw a few items fly back and forth. Then of course, the whole lunch room joined in, and a whole wave of food game flying at me, much like I remember from Freshman year. But, this time the wave stopped midair, and flew back the other way as if it was following the thought in my head that went through at that particular moment. The food flew back toward the front crashing into the teachers who sat at the front of the lunch room. I rushed out of the lunch room only to find the constables, rounding up the group of people I found myself in. And in that moment, I imagined the water fountain to my right slamming into the two constables preventing me from leaving. I shut my eyes tight, and found that a loud crashing and rushing sound followed my thought. \"Weird...\" little did I know I was on the threshold of my new power. </span></div></div>",
+            "created":1319432400,
+            "id":1212451,
+            "title":"Mind Over Matter Indeed"
+        },
+        "1133312":{
+            "choices":[
+                "Immediate reaction, the tree is ripped out of the ground",
+                "Nothing Happens"
+            ],
+            "content":"<div class=\"\"><div> <span>I had been driving to school for the past few months, enabling me to leave the campus whenever I pleased. I exited through the plaza surrounding the cafeteria. My car had a full tank of gas making me able to drive far from here in order to test my new power. I drove finding a deserted field several back streets away from the highway. I stop the car and exited, looking at a large oak tree in the middle of the field and focusing my eyes on it. </span></div></div>",
+            "created":1339477200,
+            "id":1358378,
+            "title":"The test."
+        },
+        "113332":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Sure",
+                "Nope"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what about the power to turn invisible?</span></div></span></div>",
+            "created":1280984400,
+            "id":930736,
+            "title":"Invisibility"
+        },
+        "1133322":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you can change gender?</span></div></span></div>",
+            "created":1286773200,
+            "id":973064,
+            "title":"Nope"
+        },
+        "11333221":{
+            "choices":[
+                "Keep them to yourself, Use them for your own ends.",
+                "Use them to help others."
+            ],
+            "content":"<div class=\"\"><div> <span>Change gender? Well, that's one way of looking at it... More precisely, you can change every part of your appearance as long as you're still human. You can mimic anyone, any time. Change your face in the blink of an eye and disappear into the crowd. You are the perfect spy. But the real question is not what your powers do, but how you intend to use them.<br>\r\n<br>\r\nWhat will you do with them?</span></div></div>",
+            "created":1329714000,
+            "id":1281013,
+            "title":"Changeling"
+        },
+        "113332212":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Go with John Smith",
+                "Use your abilities to make yourself see through and escape"
+            ],
+            "content":"<div class=\"\"><div> <span>You start looking on the internet, looking for crimes to solve. You don't find any that are solvable. Yuo decide to go to bed as it's late. The next morning, in the middle of breakfast, you hear a knock on your door. Standing on the doorstep is a man in a suit. \"Are you the owner of this house?\" You nod. \"I am Special Agent John Smith, we believe that you are the person we've been looking for\" \"Well that's extraordinarily unhelpful\" you say \"Who exactly do you work for?\" \"I represent a group of people with extraordinary abilities\" said John Smith \"The power to fly, teleport, elemental manipulation, we believe that you have developed shape shifting abilities\" You were a bit wary of these people. This man could be lying to get you into a top secret government facility so they could experiment on you. What do you do</span></div></div>",
+            "created":1332133200,
+            "id":1298012,
+            "title":"Use them to help others."
+        },
+        "1133322121":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Talking to the other teens",
+                "Arriving at your destination"
+            ],
+            "content":"<div class=\"\"><div> <span>Trusting your own judgement, you followed John Smith to a black stretch limousine. In the back of the car, were two other teenagers. One was an attractive female of about 16 or 17 with red hair, brown eyes and dressed in black. The other was a male, also with red hair and brown eyes, and many of the same features as the girl. You assumed they were related, perhaps brother and sister of ferternal twins. John Smith got in the front of the car beside the driver, and the car drove off. </span></div></div>",
+            "created":1357102800,
+            "id":1500244,
+            "title":"Go with John Smith"
+        },
+        "11333222":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Can you detach people's body parts without harming them and then reattach them any way you want?</span></div></span></div>",
+            "created":1298610000,
+            "id":1060799,
+            "title":"no"
+        },
+        "113332221":{
+            "choices":[
+                "A villian",
+                "A superhero or eventually become corrupted. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a bad or a good person. Will your power corrupt you. What are you destined to become?</span></div></span></div>",
+            "created":1491325680,
+            "id":2299547,
+            "title":"Yes."
+        },
+        "1133322211":{
+            "choices":[
+                "Go looking for powerful beings. ",
+                "Have some fun they will eventually so up."
+            ],
+            "content":"<div class=\"\"><div> <span>One morning you woke up feeling different. You felt great , it was like a whole new world opened up to you. You couldn't tell yet but you just had a feeling you could do something amazing. You grew up in a good home, but there was darkness inside of you. You dreamed of controlling the world. Alice your 17 year old brunette sister decided to tease you. You couldn't take it anymore, your eyes and hands began to glow green.At that moment your powers began to activate, you gained the knowledge of how to use it too. Out of complete anger you grabbed her head and it came off her body. There was no blood, a layer of skin covered the whole that was supposed to be on top of her neck and at the bottom of her head. Alice's body fell on the floor, but her head began screaming. You told her that if she don't stop screaming you would never attach her head to her body. She immediately stopped screaming and you attached her head back on her body. She was so surprised with what you just did that she just ran to her room. There was an evil grin on your face and you decided you were going to take over the world. You knew that your current power wasn't enough and that you would need more power. The only way of doing this is to steal powerful body parts. You needed to attract the attention of powerful heroes and steal their body parts. The biggest question was how would you do that? </span></div></div>",
+            "created":1491750720,
+            "id":2302273,
+            "title":"A villian"
+        },
+        "113332222":{
+            "author_id":"blavcleo",
+            "author_name":"Mr.nice",
+            "choices":[
+                "Yes\ud83d\ude00",
+                "Or no \ud83d\ude2d"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Teleport powers go any where just think about it and if someone in you way well I hope there of air.</span></div></span></div>",
+            "created":1376542800,
+            "id":1646386,
+            "title":"Night-crawler got nothing on me."
+        },
+        "1133322222":{
+            "author_id":"wolfhunter987",
+            "author_name":"MajorPain",
+            "choices":[
+                "Continue",
+                "Just pick something"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The ability to swap bodies with anyone and to swap the bodies of other people without swapping yourself.<br>\r\n</span></div></span></div>",
+            "created":1438536900,
+            "id":2015627,
+            "title":"Or no \ud83d\ude2d"
+        },
+        "11333222222":{
+            "author_id":"harryjonze",
+            "author_name":"J Badger",
+            "choices":[
+                "Shrink/Grow",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about the power to shrink or grow?</span></div></span></div>",
+            "created":1460983320,
+            "id":2135202,
+            "title":"Shrinky Dinks"
+        },
+        "12":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "13",
+                "15",
+                "17",
+                "19",
+                "21"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How old do you want to be?</span></div></span></div>",
+            "created":1280984400,
+            "id":930739,
+            "title":"Girl"
+        },
+        "122":{
+            "author_id":"ironiccomment",
+            "author_name":"Ironic Comment",
+            "choices":[
+                "Element-related",
+                "One of the basics (super strength, super speed)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of powers do you want?</span></div></span></div>",
+            "created":1415925240,
+            "id":1886117,
+            "title":"15"
+        },
+        "1223":{
+            "author_id":"zinyzang",
+            "author_name":"Zinyzang ",
+            "choices":[
+                "her anus swallows you head",
+                "you get farted out and land in her cleavage as she rolled onto her back again"
+            ],
+            "content":"<div class=\"\"><div> <span>your name is Mellissa, one day you wake up go to the bathroom but stay in your <a class=\"blue2roll\" rel=\"nofollow\" href=\"https://dxs8u2q9547g0.cloudfront.net/sys-master/products/h2e/h26/8884285964318/127983711_Black_01.jpg_SUPERZOOM\" target=\"_blank\">https://dxs8u2q9547g0.cloudfront.net/sys-master/products/h2e/h26/8884285964318/1...</a> and your <a class=\"blue2roll\" rel=\"nofollow\" href=\"http://www.paradise-silk.com/media/import/silk_knit_micor_thong.jpg\" target=\"_blank\">http://www.paradise-silk.com/media/import/silk_knit_micor_thong.jpg</a> then you head into your mothers room and see she's asleep in <a class=\"blue2roll\" rel=\"nofollow\" href=\"https://sc01.alicdn.com/kf/HTB1QzbwIpXXXXa6XpXXq6xXFXXXq/Cherry-Red-Ladies-Adult-Sexy-Open-Crotch.jpg\" target=\"_blank\">https://sc01.alicdn.com/kf/HTB1QzbwIpXXXXa6XpXXq6xXFXXXq/Cherry-Red-Ladies-Adult...</a> then you remember about your size fetish and say to yourself \" man it would be crazy if I shrank to 2 inches for a week\" in a second you black out and wake up 2 inches tall, naked and on your mom's bed you shout \"mom, mom help me\" to the sleeping goddess (Chelsea)<br>\r\n{<a rel=\"nofollow\" href=\"https://i.pinimg.com/originals/a2/26/15/a226155c7b07d831def9c871e74de52d.jpg\" target=\"_blank\">https://i.pinimg.com/originals/a2/26/15/...</a>} then suddenly your mom rolls on to her back and you realise you were standing next to her crack and now you're shoved against her anus, then you remember your mother had one unique feature to her, she had the most deadliest farts known to man, suddenly you hear a rumble behind you and she lets out a ten second fart ... </span></div></div>",
+            "created":1504215960,
+            "id":2378049,
+            "title":"Other"
+        },
+        "12232":{
+            "author_id":"zinyzang",
+            "author_name":"Zinyzang ",
+            "choices":[
+                "going on a marathon",
+                "she's a model and is going to work"
+            ],
+            "content":"<div class=\"\"><div> <span>as your mom farted she was laying yon her front then she rolled onto her back just as you landed in between her EE cup breasts suddenly the two mountains come crashing together covering every cm of your body except your head then your mom put on a tight bra that stopped you from all movement and then put on <a class=\"blue2roll\" rel=\"nofollow\" href=\"https://s-media-cache-ak0.pinimg.com/originals/b9/ab/9b/b9ab9bc3397aeda33a4fc50f522befe9.jpg\" target=\"_blank\">https://s-media-cache-ak0.pinimg.com/originals/b9/ab/9b/b9ab9bc3397aeda33a4fc50f...</a> hiding you from the outside world you hand no idea what your mom was doing today</span></div></div>",
+            "created":1504216500,
+            "id":2378055,
+            "title":"in between two mounds of squishy flesh"
+        },
+        "123":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Super strength",
+                "Elemental",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As the title states.</span></div></span></div>",
+            "created":1286773200,
+            "id":973061,
+            "title":"What's your power"
+        },
+        "1232":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Fire",
+                "Water/Ice",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What element can you control?</span></div></span></div>",
+            "created":1286773200,
+            "id":973127,
+            "title":"Elemental"
+        },
+        "12321":{
+            "author_id":"jareddye",
+            "author_name":"Bellystuff",
+            "choices":[
+                "Cool I'm a rare!",
+                "No I'm fine with one element"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok before continuing are you one of the rare?<br>\r\n(A form of elemental who can control up to 3 elements but it choice is 2-3 elements(which could make for another element e:Confused))<br>\r\n</span></div></span></div>",
+            "created":1394946000,
+            "id":1761105,
+            "title":"Fire"
+        },
+        "123211":{
+            "author_id":"jareddye",
+            "author_name":"Bellystuff",
+            "choices":[
+                "You",
+                "Me"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would you like me to pick some elements?<br>\r\nOr would you like to pick them?</span></div></span></div>",
+            "created":1394946000,
+            "id":1761108,
+            "title":"Cool I'm a rare!"
+        },
+        "1232111":{
+            "author_id":"jareddye",
+            "author_name":"Bellystuff",
+            "choices":[
+                "Yay!!!!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Good...<br>\r\nYour modest and kind...<br>\r\nHere are the elements<br>\r\n-Fire<br>\r\n-water<br>\r\n-earth<br>\r\nNow it is your choice on story<br>\r\n</span></div></span></div>",
+            "created":1394946000,
+            "id":1761110,
+            "title":"You"
+        },
+        "12322":{
+            "author_id":"jareddye",
+            "author_name":"Bellystuff",
+            "choices":[
+                "Cool I'm a rare!",
+                "No I'm fine with one element"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok before continuing are you one of the rare?<br>\r\n(A form of elemental who can control up to 3 elements but it choice is 2-3 elements(which could make for another element))<br>\r\n</span></div></span></div>",
+            "created":1394946000,
+            "id":1761106,
+            "title":"Water/Ice"
+        },
+        "12323":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about earth?</span></div></span></div>",
+            "created":1286773200,
+            "id":973128,
+            "title":"Earth"
+        },
+        "123232":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Can you control wind? </span></div></span></div>",
+            "created":1286773200,
+            "id":973129,
+            "title":"Wind"
+        },
+        "1232322":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>can you shoot lightning?</span></div></span></div>",
+            "created":1286773200,
+            "id":973131,
+            "title":"Electricity"
+        },
+        "12323222":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Can you use the power of light?</span></div></span></div>",
+            "created":1286773200,
+            "id":973133,
+            "title":"Light"
+        },
+        "123232222":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Yep",
+                "Wrong"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>If not light the maybe darkness is you element.</span></div></span></div>",
+            "created":1286773200,
+            "id":973134,
+            "title":"Darkness"
+        },
+        "1233":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you can change gender?</span></div></span></div>",
+            "created":1286773200,
+            "id":973065,
+            "title":"More"
+        },
+        "12332":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "sure",
+                "nah"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Care for super speed?</span></div></span></div>",
+            "created":1286773200,
+            "id":973136,
+            "title":"Faster then a certain blue hedgehog"
+        },
+        "123322":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "you read my mind",
+                "not at all"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about telikeniesis</span></div></span></div>",
+            "created":1286773200,
+            "id":973137,
+            "title":"Use the force"
+        },
+        "1233221":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "\"...Try to take over the world!\"",
+                "\"...Fight for truth and justice!\""
+            ],
+            "content":"<div class=\"\"><div> <span>You have incredible psychic powers. You aren't bragging when you say that, it's just basic <i>fact</i>. You have telekinesis, the ability to shoot waves of psychic energy, and the ability to read minds and project your thoughts, and by extension, hypnotize people into doing your bidding. You know, things like that. As far as powers go, yours are pretty great. There's only one problem.<br>\r\n<br>\r\nYou're a brain in a jar.<br>\r\n<br>\r\nA few years ago, you were just a normal, freshman girl in high-school, with above average grades. One day though, as you were walking home from school, you were kidnapped by the henchman of a mad scientist. Said madman removed you from your body and plopped you into a jar, where he hooked up all sorts of devices to you, giving you untold mental powers, while at the same time depriving you of a body. You were eventually able to escape when your ability to manipulate minds grew just strong enough that you were able to 'convince' the same henchman who kidnapped you to smuggle you out of the lab.<br>\r\n<br>\r\nAlthough your parents were glad to know that you were alright, they were very busy, and didn't have much time to take care of your new form. So the task fell to your best friend, Mitch. Fortunately for him, all you really need is someone to move your jar around. And give your brain a good scrubbing from time to time to remove any crystallized life support gel, but that doesn't happen often. The two of you are basically together all the time now, although it's not like you have much choice in the matter.<br>\r\n<br>\r\nOne day, after a long day of lugging you around to classes, he sets you down on your bed at home and plops down next to you. \"So, what do you want to do tonight?\" He asks, already knowing the answer. You bob eagerly in your glass tank as you reply. \"The same thing we do every night Mitch...\"</span></div></div>",
+            "created":1356325200,
+            "id":1493943,
+            "title":"you read my mind"
+        },
+        "12332211":{
+            "author_id":"smutmaster",
+            "author_name":"MisterLister",
+            "choices":[
+                "\"Of course, mistress! What's the plan?",
+                "\"Good one, but really, what do you want to do?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mitch laughs, and says...</span></div></span></div>",
+            "created":1407128400,
+            "id":1837231,
+            "title":"\"...Try to take over the world!\""
+        },
+        "123322112":{
+            "author_id":"smutmaster",
+            "author_name":"MisterLister",
+            "choices":[
+                "\"I mean it!\"",
+                "\"Yeah, sorry, I couldn't resist.\""
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Take over the world!\" he repeats, laughing, and slapping his knee. \"Okay, but seriously. Like, a movie or something?\"<br>\r\n<br>\r\nYou bubble in your tank for a moment before saying...</span></div></span></div>",
+            "created":1407128400,
+            "id":1837247,
+            "title":"\"Good one, but really, what do you want to do?"
+        },
+        "1233221121":{
+            "author_id":"smutmaster",
+            "author_name":"MisterLister",
+            "choices":[
+                "\"You're right. I'm going a little crazy.\"",
+                "\"Fool! If you will not serve willingly, then your mind is mine!\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"I mean it!\" you \"shout\", bobbing frantically around, bouncing off of the glass. \"It's time this world knew it's true ruler!\"<br>\r\n<br>\r\n\"Don't be crazy,\" Mitch says, laughing. \"You're psychic and all, but it sounds to me like you need the biogel scrubbed out again.\"<br>\r\n<br>\r\nYou \"look\" at Mitch for a long moment, before saying...</span></div></div>",
+            "created":1407159300,
+            "id":1837249,
+            "title":"\"I mean it!\""
+        },
+        "12332211212":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "It works, and Mitch is forced to do your bidding.",
+                "It fails and Mitch gets a little mad at you for trying."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Fool! If you will not serve willingly, then your mind is mine!\" Saying this, you concentrate your powers on Mitch in an attempt to mind control him.</span></div></span></div>",
+            "created":1407840180,
+            "id":1840509,
+            "title":"\"Fool! If you will not serve willingly, the..."
+        },
+        "1233222":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Yes",
+                "Keep trying"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You can copy any powers you see like the sharengan from Naruto. interested?</span></div></span></div>",
+            "created":1286773200,
+            "id":973139,
+            "title":"Power Copy "
+        },
+        "12332222":{
+            "author_id":"kozan-wolf",
+            "author_name":"Kozan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Can you transform into anyone or anything you want to?</span></div></span></div>",
+            "created":1286773200,
+            "id":973141,
+            "title":"More then meets the eye"
+        },
+        "124":{
+            "author_id":"jnjaycpa",
+            "author_name":"JNJay",
+            "choices":[
+                "at home.",
+                "walking down the street.",
+                "somewhere else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As the story begins, where are you right now?</span></div></span></div>",
+            "created":1419798300,
+            "id":1908496,
+            "title":"19"
+        }
+    },
+    "info":{
+        "author_id":"kozan-wolf",
+        "author_name":"Kozan",
+        "brief_description":"You wake up one day with super powers how are you gonna use them?",
+        "created":1281043680,
+        "description":"<td align=\"left\" class=\"norm\">This story is about super powers any powers you can think of (Inspired by Elemental Control)<br>\r\n<br>\r\nA boy or girl teen descoves they have super power one morning and decide what to do with them (keep it 3rd with no name for the main charicter just refer to yourself as \"you\" )<br>\r\n<br>\r\nThis is 13+ so keep the violace in check go nuts and have fun (You start out with one power and can develope others later)</td>",
+        "id":1696518,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1504216500,
+        "modified":1504216500,
+        "pretty_title":"Powers"
+    }
+}

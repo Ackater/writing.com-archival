@@ -1,0 +1,55 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"cr4ck1ngup2",
+            "author_name":"cr4ck1ngup2",
+            "choices":[
+                "Go to the 2nd floor",
+                "Go to the basement",
+                "Go to the kitchen",
+                "Try to leave",
+                "Check the hole in the wall"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up after being in a daze.<br>\r\nYou don't know where you are and how you got there.<br>\r\nYour head is aching like a bitch and the only thing you see is a corridor and the floor that you were on.<br>\r\n\"Urgh, where the fuck am I,\" you say question yourself.<br>\r\nYou stand up and almost fall due to being lightheaded.<br>\r\nIn front of you there are stairs, a door leading to the basement, and another door leading to the kitchen.<br>\r\nBehind you is the door to outside.<br>\r\nThere is also a hole in the wall the catches your attention.<br>\r\n<br>\r\nWhat do you plan on doing?</span></div></div>",
+            "created":1277824620,
+            "id":908522,
+            "title":"The house"
+        },
+        "14":{
+            "author_id":"cr4ck1ngup2",
+            "author_name":"cr4ck1ngup2",
+            "choices":[
+                "Find a place to hide."
+            ],
+            "content":"<div class=\"\"><div> <span>You look behind you to see a door leading outside.<br>\r\n\"No,... this is-. This is too easy,\" you say to yourself.<br>\r\nYou're giving second thoughts of trusting this door.<br>\r\nThen suddenly you hear a noise.<br>\r\nThis was noise sounded like a growl from the lower levels.<br>\r\nThe growl was not of anything human nor animal.<br>\r\n\"Oh, fuck it,\" you say with a trembling fear in your voice.<br>\r\nYou run to the door and grasp the doorknob with a tense grip.<br>\r\nFootsteps are then heard from afar, you don't know where they're coming from.<br>\r\nWith your heart pounding like a hammer, you jiggle the doorknob but it seems to be locked.<br>\r\nYou can't find the keyhole, meaning that the door is locked from the outside.<br>\r\nYou're trapped.<br>\r\nYour options are limited and your survival is almost slim.<br>\r\nWhat will you do?</span></div></div>",
+            "created":1284282060,
+            "id":955326,
+            "title":"Try to leave"
+        },
+        "141":{
+            "author_id":"cr4ck1ngup2",
+            "author_name":"cr4ck1ngup2",
+            "choices":[
+                "Armoire in living room",
+                "Under the couch",
+                "Try to hide in the darkness"
+            ],
+            "content":"<div class=\"\"><div> <span>\"DAMMIT,\" you shout within your thoughts.<br>\r\nSomeone or something is coming your way.<br>\r\nA stench of rotten flesh is reaching your nostrils.<br>\r\nYou have nothing to defend yourself with.<br>\r\nThe only thing for you to do is hide.<br>\r\n<br>\r\nWhere will you hide.</span></div></div>",
+            "created":1284282300,
+            "id":955332,
+            "title":"Find a place to hide."
+        }
+    },
+    "info":{
+        "author_id":"cr4ck1ngup2",
+        "author_name":"cr4ck1ngup2",
+        "brief_description":"You wake up in an old house, you don't where you are. Find why you're there and survive.",
+        "created":1277735160,
+        "description":"<td align=\"left\" class=\"norm\">This is an attempt at a horror/survival interactive story.<br>\r\nThe main character can die, but his death has to make sense and he can't die at an early point of the story.<br>\r\nTry to make this as scary as possible.<br>\r\nDon't add any type of nonsense/<br>\r\nTry to stick to the story.</td>",
+        "id":1685967,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1284282300,
+        "modified":1284282300,
+        "pretty_title":"House of the Damned"
+    }
+}

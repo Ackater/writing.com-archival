@@ -1,0 +1,3212 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "You're younger",
+                "You're older",
+                "You're have superpowers",
+                "You're a girl",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will the first change be?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421353,
+            "title":"The change"
+        },
+        "11":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "1-3",
+                "4-6",
+                "7-9",
+                "10-12",
+                "Unborn"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How old are you now?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421355,
+            "title":"You're younger"
+        },
+        "111":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "1",
+                "2",
+                "3"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>1, 2, or 3?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421356,
+            "title":"1-3"
+        },
+        "1111":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421648,
+            "title":"1"
+        },
+        "11111":{
+            "choices":[
+                "Boy (changed into girl)",
+                "Girl (changed into boy)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were you a boy or girl to start with?</span></div></span></div>",
+            "created":1351314000,
+            "id":1454670,
+            "title":"Yes"
+        },
+        "111111":{
+            "choices":[
+                "Just wake up like that?",
+                "Other options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does it happen?</span></div></span></div>",
+            "created":1351314000,
+            "id":1454672,
+            "title":"Boy (changed into girl)"
+        },
+        "1111111":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "You wake up in your room as a naked baby girl shrouded in your old clothes.",
+                "You wake up dressed as a baby in a crib in a little girl's nursery."
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Your name is Winston Emerson, and you are twenty-four years old. You live at home with your parents (Dante and Jordan) and younger sisters, Zara and Bethany, aged seventeen and thirteen, respectively. However, one day you simply wake up as a baby girl only a year old.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0How is your morning?</span></div></div>",
+            "created":1554958800,
+            "id":2643570,
+            "title":"Just wake up like that?"
+        },
+        "11111112":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "one of your parents",
+                "one of your sisters"
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0When you awoke, the first thing you noticed were the bars to either side of you. At first you feared you were in some sort of cage, but then you saw the unicorns hanging above you, and you realized that you were in a crib. As you took in the room, you realized it was a baby's nursery, only it looked gigantic. The walls were painted pink, and the floor was littered with toys for little girls. There was a changing table in one corner, and a closet filled with dresses for baby girls.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Fearfully, you glanced down at yourself -- you were wearing a pink onesie, and you could feel that you were wearing a disposable diaper -- one that had just been used. As you took in the crib, you saw your new name on the front: Wendy.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Who comes in now?</span></div></div>",
+            "created":1555045200,
+            "id":2643921,
+            "title":"You wake up dressed as a baby in a crib in a li..."
+        },
+        "111111122":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Zara",
+                "Bethany"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Which of your sisters walks in?</span></div></span></div>",
+            "created":1555045200,
+            "id":2643959,
+            "title":"one of your sisters"
+        },
+        "1111111221":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0It was your seventeen-year-old sister Zara who entered. Is she still seventeen?</span></div></span></div>",
+            "created":1555045200,
+            "id":2643963,
+            "title":"Zara"
+        },
+        "11111112211":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "\"Well, hello, baby sis.\"",
+                "\"Is Mommy's little angel awake?\""
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0From his/her crib, Winston/Wendy saw that it was his/her seventeen-year-old sister Zara who entered. What does Zara do as she lifts \"Wendy\" out of the crib?</span></div></span></div>",
+            "created":1556254800,
+            "id":2650644,
+            "title":"yes"
+        },
+        "111111122112":{
+            "author_id":"juicepop",
+            "author_name":"Francois Dillenger",
+            "choices":[
+                "Growing up and muscular",
+                "TG",
+                "Regressing and becoming muscular"
+            ],
+            "content":"<div class=\"\"><div> <span>She had 41 inch biceps and calves the size of pumpkins she was in a posing bikini that showed off massiveive veiny thighs, monsterous saturated barn door pec lactating breasts, over tanned blging roid gut and a prominent jaw. \"How's my baby\" in a brassy baritone voice. She had a high forehead with a greasy ponytail her face was dotted with acne and her nose was broad.<br>\r\n<br>\r\nShe was the biggest female bodybuilder ever seen larger than most people even men her clit-cock was visible through her bikini bottoms. She undid her tight top and exposed hard small nipples dropping with a mysterious violet color she pulls you to her chest and you latch and began suckling she let out a deeper moan from her 17 year old mouth. You began</span></div></div>",
+            "created":1576196220,
+            "id":2758850,
+            "title":"\"Is Mommy's little angel awake?\""
+        },
+        "11111112212":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "12",
+                "7"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0How old is Zara now?</span></div></span></div>",
+            "created":1555218000,
+            "id":2644572,
+            "title":"no"
+        },
+        "111111122121":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "changes your diaper",
+                "carries you downstairs"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0From your crib, you saw a twelve-year-old girl in pigtails enter. To your disbelief, you realized it was your formerly seventeen-year-old sister Zara. What does preteen Zara do?</span></div></span></div>",
+            "created":1556254800,
+            "id":2650690,
+            "title":"12"
+        },
+        "1111111221211":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Zara carries you downstairs and you notice other changes.",
+                "Zara reveals memories of your being older and her brother."
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Zara walked over to your crib and lifted her baby sister out. It was embarrassing now to be held by a preteen girl like this. You weren't sure how you and your sister had regressed, but it made you upset, and at your current age the only way you could express that was by crying.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Oh, Wendy,\" Zara cooed. \"It's okay. Your big sister's here.\" Then she wrinkled her nose. \"Eeew, it looks like someone's made a stinky. Come on, baby girl. I'll get you changed.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Zara skipped over to the changing table and laid you down. She unbuttoned your onesie, lifted your legs in the air, and you watched as she removed a pink disposable diaper, one you had somehow pooped in without realizing. Seconds later, your fussing the entire way, Zara had you placed in a new diaper, and your onesie refastened.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Now what?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1556341200,
+            "id":2651217,
+            "title":"changes your diaper"
+        },
+        "11111112212111":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Your sister Bethany has also gotten younger.",
+                "You see a friend of yours who has been regressed back into diapers like you."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0What other changes do you notice as your sister carries you downstairs?</span></div></span></div>",
+            "created":1556514000,
+            "id":2652101,
+            "title":"Zara carries you downstairs and you notice othe..."
+        },
+        "111111122121112":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Has this friend also had a gender change?</span></div></span></div>",
+            "created":1556514000,
+            "id":2652132,
+            "title":"You see a friend of yours who has been regresse..."
+        },
+        "1111111221211121":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "girl; best friend, Nick Robinson",
+                "boy; girlfriend, Carmen Wayne"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0When Zara carried you downstairs, you saw your mother was holding a baby __ you recognized as your ____, _____. Fill the blank.</span></div></span></div>",
+            "created":1556514000,
+            "id":2652134,
+            "title":"yes"
+        },
+        "1111111221211122":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Nick, your best friend",
+                "Carmen, your girlfriend"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0As Zara carried you downstairs, you saw a baby in your mother's arms. Who do you recognize this baby as?</span></div></span></div>",
+            "created":1556514000,
+            "id":2652143,
+            "title":"no"
+        },
+        "1111111222":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Is Bethany still thirteen?</span></div></span></div>",
+            "created":1555218000,
+            "id":2644574,
+            "title":"Bethany"
+        },
+        "11111112222":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "4",
+                "8"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0How old is she now?</span></div></span></div>",
+            "created":1555218000,
+            "id":2644575,
+            "title":"no"
+        },
+        "111111122221":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0The door to your nursery opened, and a four-year-old girl came walking in. She wore a pair of light blue feetie pajamas, and you could tell she wore a pull-up underneath, To your shock, you realized this preschool-age girl was your thirteen-year-old sister Bethany.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Does Bethany act like being four and having a baby sister named Wendy is normal?</span></div></div>",
+            "created":1556168400,
+            "id":2650132,
+            "title":"4"
+        },
+        "111112":{
+            "choices":[
+                "Just wake up like that?",
+                "Other options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do you change?</span></div></span></div>",
+            "created":1351314000,
+            "id":1454674,
+            "title":"Girl (changed into boy)"
+        },
+        "11112":{
+            "choices":[
+                "Girl",
+                "Boy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Girl or boy?</span></div></span></div>",
+            "created":1351314000,
+            "id":1454677,
+            "title":"No"
+        },
+        "111121":{
+            "choices":[
+                "Just wake up like that?",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does that happen?</span></div></span></div>",
+            "created":1351314000,
+            "id":1454679,
+            "title":"Girl"
+        },
+        "1111211":{
+            "choices":[
+                "Original room",
+                "Nursery"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you wake up in a nursery or your normal room?</span></div></span></div>",
+            "created":1358571600,
+            "id":1511846,
+            "title":"Just wake up like that?"
+        },
+        "11112112":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "You start to cry.",
+                "You use the bars of the crib and help you stand."
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0When you first woke up, the first thing you noticed were bars. Your initial thought was that you were for some reason waking up in jail. But as you took a look at you surroundings you realized that wasn't accurate.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0First off, your clothes: when you looked down you could see that you were wearing a pink onesie, like for a baby, and you could feel something plastic around your waist that was more than likely a diaper. And from the warm feeling you felt down there, it was clear that you had used it.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Then there was the room itself: it looked gigantic from your small height, but you could still make everything out. The walls were painted bright pink. There were toys all over the floor, and a changing table in the corner, in which a green diaper bag was sitting atop. Finally, when you looked up, you could see a small unicorns hanging over your face.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Put together, this all added up to one thing: you were laying in a crib, and those unicorns were a baby mobile. Somehow, you didn't know how, but somehow you had turned into a baby overnight.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0What do you do?</span></div></div>",
+            "created":1500181200,
+            "id":2354356,
+            "title":"Nursery"
+        },
+        "111121121":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Your mommy",
+                "Your former younger sister"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Partly because of the fact that you had wet your diaper and partly because you were upset that you were now a baby, you began to cry like you hadn't done since you were a little girl. Eventually, this crying attracts attention. From whom?</span></div></span></div>",
+            "created":1500181200,
+            "id":2354357,
+            "title":"You start to cry."
+        },
+        "1111211212":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "5",
+                "13"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How old is your younger sister?</span></div></span></div>",
+            "created":1500181200,
+            "id":2354359,
+            "title":"Your former younger sister"
+        },
+        "11112112121":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "She's supposed to be five.",
+                "Your little sister shouldn't be that little."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is your sister supposed to be five, or has she regressed to?</span></div></span></div>",
+            "created":1500267600,
+            "id":2354937,
+            "title":"5"
+        },
+        "111121121211":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "12",
+                "15"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your cries attracted your five-year-old sister, who was now suddenly your big sister. You are now just a baby in a crib, but how old were you originally?</span></div></span></div>",
+            "created":1500267600,
+            "id":2354940,
+            "title":"She's supposed to be five."
+        },
+        "1111211212111":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Yes, she doesn't remember your being older.",
+                "No, she is responsible for your becoming a baby."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Her twelve-year-old big sister is now a baby. Does she think this is normal?</span></div></span></div>",
+            "created":1500354000,
+            "id":2355616,
+            "title":"12"
+        },
+        "1111211212112":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Yes, she doesn't remember your being older.",
+                "No, she is responsible for your becoming a baby."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Her teenage big sister is now a baby. Does she think this is normal?</span></div></span></div>",
+            "created":1500354000,
+            "id":2355617,
+            "title":"15"
+        },
+        "111121121212":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "You were 24; she was 17.",
+                "You were 15; she was 12."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're now a baby, while your little (or big) sister is now five. How old were the two of you originally?</span></div></span></div>",
+            "created":1500267600,
+            "id":2354938,
+            "title":"Your little sister shouldn't be that little."
+        },
+        "1111211212121":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "You had both wished to be little kids again.",
+                "One of you wished for a return to childhood and took the other down with them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0You had been a grown adult with a kid sister who was still in high school. Now you were back to wearing diapers, and she was in kindergarten. How?</span></div></span></div>",
+            "created":1535259600,
+            "id":2539098,
+            "title":"You were 24; she was 17."
+        },
+        "11112112121212":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "you",
+                "your sister"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Which one of you wished to be a child again?</span></div></span></div>",
+            "created":1554958800,
+            "id":2643581,
+            "title":"One of you wished for a return to childhood and..."
+        },
+        "1111211212122":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Your sister wished for a baby sister.",
+                "You'd wondered briefly yesterday how it'd feel to be the youngest child."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So in the beginning you were fifteen, while your baby sister was twelve. How is it now that she is a little kindergartener, and <i>you</i> have become the baby?</span></div></span></div>",
+            "created":1500872400,
+            "id":2358465,
+            "title":"You were 15; she was 12."
+        },
+        "111122":{
+            "choices":[
+                "Just wake up like that?",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do you change?</span></div></span></div>",
+            "created":1351314000,
+            "id":1454680,
+            "title":"Boy"
+        },
+        "1112":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421649,
+            "title":"2"
+        },
+        "11121":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "Boy (changed to a girl)",
+                "Girl (changed to a boy)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What gender were you initially?</span></div></span></div>",
+            "created":1489640400,
+            "id":2290514,
+            "title":"Yes"
+        },
+        "11122":{
+            "author_id":"chrisern",
+            "author_name":"ShadowBlade",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What gender are you?</span></div></span></div>",
+            "created":1569557460,
+            "id":2724019,
+            "title":"No"
+        },
+        "1113":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421650,
+            "title":"3"
+        },
+        "11132":{
+            "author_id":"chrisern",
+            "author_name":"ShadowBlade",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a boy or a girl?</span></div></span></div>",
+            "created":1569557460,
+            "id":2724020,
+            "title":"No"
+        },
+        "112":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "4",
+                "5",
+                "6"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>4, 5, or 6?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421357,
+            "title":"4-6"
+        },
+        "1121":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421645,
+            "title":"4"
+        },
+        "1122":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421646,
+            "title":"5"
+        },
+        "11221":{
+            "author_id":"scilock",
+            "author_name":"Scifiwizard",
+            "choices":[
+                "Shopping for a new wardrobe.",
+                "Learn some magic.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><div> <span>At first, you could not figure out what was going on. Everything seemed much larger than what they appeared to be the day before. You pulled the covers off yourself and discovered you were in a body that was not your own. You were somehow now inside the body of a little girl! On instinct, you screamed.<br>\r\n<br>\r\nNo sooner the screamed left your lips, you heard hurried footfalls in the hall before your bedroom door swung open. Your mom entered with your older sister, Sarah. She had just turned 13. \"Stay calm, dear.\" Rushing over to you, mom said. \"You are going to be okay.\"<br>\r\n<br>\r\n\"You call this okay!?\" Motioning to your body, you asked. \"I'm not supposed to be a little girl!\"<br>\r\n<br>\r\n\"It will be easier for everyone this way.\" Chiming in, Sarah stated. \"You see, the women in our family possess certain abilities.\"<br>\r\n<br>\r\n\"You mean that you two are some kind of witches?\" Wincing, you asked.<br>\r\n<br>\r\nMom smiled. \"Well, yes.\" Simply, she replied. \"The only catch is you have to be a girl to use that magic and we did not want you to feel left out.\"<br>\r\n<br>\r\n\"So you turned me into a little girl?\" Unnerved, you asked. \"Why not a teenage girl?\"<br>\r\n<br>\r\n\"Actually, that would have been more dangerous.\" Wincing, mom said. She sighed. \"Both boys and girls go through a phase where their bodies and minds undergo various changes...\"<br>\r\n<br>\r\n\"It's called puberty.\" Unimpressed, you said. \"I did take health class, mom.\"<br>\r\n<br>\r\nMom sighed. \"There are things girls are expected to know once they reach their teen years.\" Trying another approach, she said. \"You have no such knowledge. It's best to start you out young.\"<br>\r\n<br>\r\n\"That and this is not a permanent situation.\" Jumping in, Sarah added. She winked at you. \"Unless you get to like being a girl.\"<br>\r\n<br>\r\n\"This is a trail run, if you will.\" Smiling, mom said. \"If you like being a girl and having magic, you will grow up again as a girl. If you find that you do not like it after a year, I will change you back into your original form of a teenage boy.\"<br>\r\n<br>\r\n\"You are going to have this one year experience weather you like it or not... Tina.\" Stating your new name, Sarah said. \"Just go with it and give us your decision at the end of the year.\"<br>\r\n<br>\r\n\"Now then, Tina.\" Kindly, mom said. \"What would you like to do on your first day of being a little girl?\"<br>\r\n<br>\r\nShe gave you three choices...<br>\r\n<br>\r\n</span></div></div>",
+            "created":1419742800,
+            "id":1908455,
+            "title":"Yes"
+        },
+        "1123":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421647,
+            "title":"6"
+        },
+        "113":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "7",
+                "8",
+                "9"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>7, 8, or 9?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421358,
+            "title":"7-9"
+        },
+        "1131":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421653,
+            "title":"7"
+        },
+        "1132":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421654,
+            "title":"8"
+        },
+        "1133":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421656,
+            "title":"9"
+        },
+        "114":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "10",
+                "11",
+                "12"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>10, 11, or 12?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421360,
+            "title":"10-12"
+        },
+        "1141":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders too?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421644,
+            "title":"10"
+        },
+        "11411":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "male",
+                "female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0What gender were you originally?</span></div></span></div>",
+            "created":1554786000,
+            "id":2642565,
+            "title":"Yes"
+        },
+        "1142":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421651,
+            "title":"11"
+        },
+        "1143":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you swap genders?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421652,
+            "title":"12"
+        },
+        "11431":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Guy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a guy or a girl?</span></div></span></div>",
+            "created":1349672400,
+            "id":1442863,
+            "title":"Yes"
+        },
+        "114311":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Your sister has the remote",
+                "Your hair starts to grow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You wake up yawning. Ugh, morning breath. You hop out out of bed, throwing on a shirt and pants. What you haven't noticed is that you've become shorter, and thinner. You go downstairs.<br>\r\n<br>\r\nWhat now?</span></div></span></div>",
+            "created":1349758800,
+            "id":1443388,
+            "title":"A little girl?"
+        },
+        "1143111":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Degrassi",
+                "A chick flick"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What show is she watching?</span></div></span></div>",
+            "created":1349758800,
+            "id":1443508,
+            "title":"Your sister has the remote"
+        },
+        "11431111":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Disgusting and sexist",
+                "Awesome and funny"
+            ],
+            "content":"<div class=\"\"><div> <span>Your twelve year old sister was on the couch, remote in hand. She flicked through the channels.<br>\r\n\"Remote. Me. Now,\" you say, too tired to speak in full sentences.<br>\r\n\"No way dweeb. Degrassi's on.\"<br>\r\n\"That one? Ugh.\"<br>\r\nDespite wanting to take the remote right there, you decide to watch the show. You actually start to enjoy it, getting caught up with the characters, and their problems. When the show ends, another one starts, and you watch that one too. Eventually, a different, more boy-oriented show comes on.<br>\r\n<br>\r\nWhat do you think of it?</span></div></div>",
+            "created":1349758800,
+            "id":1443511,
+            "title":"Degrassi"
+        },
+        "11432":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Guy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a guy or a girl?</span></div></span></div>",
+            "created":1349672400,
+            "id":1442864,
+            "title":"No"
+        },
+        "115":{
+            "author_id":"2013mortho",
+            "author_name":"MorTho",
+            "choices":[
+                "Your mother (Lucy)",
+                "Your sister (Molly)",
+                "Another womb."
+            ],
+            "content":"<div class=\"\"><div> <span><font class=\"size5\" style=\"\">Whose womb are you inside?<br>\r\n<br>\r\n1. Your original mother (Lucy): brown hair, has always had giant breasts and is very kind to everyone.<br>\r\n<br>\r\n2. Your original sister (Molly): blonde hair, has a completely flat chest, is a little bit spoilt and doesn't like other people that much but is very nice to you and your mother.</font></span></div></div>",
+            "created":1570650960,
+            "id":2730547,
+            "title":"Unborn"
+        },
+        "1151":{
+            "author_id":"2013mortho",
+            "author_name":"MorTho",
+            "choices":[
+                "6 years old.",
+                "16 years old.",
+                "26 years old."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span><font class=\"size5\" style=\"\">How old is your mother?<br>\r\n<br>\r\n1. 6: Your sister hasn't been born yet.<br>\r\n<br>\r\n2. 16: You and your sister are in the womb together.<br>\r\n<br>\r\n3. 26: Your older sister was born 10 years ago.</font></span></div></span></div>",
+            "created":1570651680,
+            "id":2730550,
+            "title":"Your mother (Lucy)"
+        },
+        "1152":{
+            "author_id":"2013mortho",
+            "author_name":"MorTho",
+            "choices":[
+                "0 years old (unborn).",
+                "10 years old.",
+                "20 years old."
+            ],
+            "content":"<div class=\"\"><div> <span><font class=\"size5\" style=\"\">How old is your sister?<br>\r\n<br>\r\n1. 0: Your sister hasn't been born yet and is pregnant with you while still inside your mother.<br>\r\n<br>\r\n2. 10: Except for some tightness your safe inside your sister's womb.<br>\r\n<br>\r\n3. 20: It's a pretty normal pregnancy, your mother is very excited about becoming a grandmother.</font></span></div></div>",
+            "created":1570652460,
+            "id":2730563,
+            "title":"Your sister (Molly)"
+        },
+        "12":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "18",
+                "21",
+                "34",
+                "45",
+                "69"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How old are you?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421364,
+            "title":"You're older"
+        },
+        "122":{
+            "author_id":"thatguy12345",
+            "author_name":"TheGuy",
+            "choices":[
+                "No ",
+                "Yes",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did you change genders... </span></div></span></div>",
+            "created":1366088400,
+            "id":1572858,
+            "title":"21"
+        },
+        "1222":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "you just wanted to move to your own appartment",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>that will be fun...<br>\r\nbut now we start with you as a 21 guy....</span></div></span></div>",
+            "created":1556514000,
+            "id":2652175,
+            "title":"Yes"
+        },
+        "12221":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "A month ",
+                "Within a week of moving in "
+            ],
+            "content":"<div class=\"\"><div> <span>After looking you eventually found an apartment and moved in with all your stuff.<br>\r\n<br>\r\nYou have found a nice little job that has potential to take you places once you start going up the promotion ladder, but for now you are just happy you can pay the bill with no issue and have a little left after.<br>\r\n<br>\r\nWhen do you charge into a female version of yourself? </span></div></div>",
+            "created":1557723600,
+            "id":2659222,
+            "title":"you just wanted to move to your own appartment"
+        },
+        "122211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "sure",
+                "skip that part",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>it will take a time, so first we will have some nice Little Story and plot about your new Appartement, your new Job etc...</span></div></span></div>",
+            "created":1557810000,
+            "id":2659669,
+            "title":"A month "
+        },
+        "1222111":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Working for a newspaper (trainee photographer) ",
+                "Something else "
+            ],
+            "content":"<div class=\"\"><div> <span>You enjoy your new job although you know you'll have to work hard to get promoted but in time you now you will.<br>\r\n<br>\r\nYour apartment is looking really nice now too, its not to big but not to small its about the right size from someone with ambition.<br>\r\n<br>\r\nWhat is you job? </span></div></div>",
+            "created":1557810000,
+            "id":2659724,
+            "title":"sure"
+        },
+        "12221111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "it is a man",
+                "it is a woman"
+            ],
+            "content":"<div class=\"\"><div> <span>Your dreams are now becoming true, at least from the job perspective: You have been accepted as a photographer trainee by the legendary New York Times!<br>\r\nToday on your 2nd day at the Times you will meet some important people and one reporter, who will be your major partner. You have already been assigned to the trainer, a baldy man called Richard Brooks, who is kind of severe but the best on his job and most properly one of the best photographer of our days\u2026<br>\r\nThis is so exiting and you woke up early this morning to get ready for meeting new people and your new reporter partner\u2026.<br>\r\n</span></div></div>",
+            "created":1557810000,
+            "id":2659748,
+            "title":"Working for a newspaper (trainee photographer) "
+        },
+        "122211111":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>The guy is called Richard and he's a really nice guy and you both hit it off straight away and quickly become friends as well as work partners.<br>\r\n<br>\r\nRichard is about three years older then you and he likes everything you like and visa versa.<br>\r\n<br>\r\nI'm enjoying life, living in the apartment and hanging out with Richard at every possibility.<br>\r\n<br>\r\nIt's been about a month and now you are going to change into a female version of yourself while you are asleep</span></div></div>",
+            "created":1557908880,
+            "id":2659993,
+            "title":"it is a man"
+        },
+        "1222111111":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Continue ",
+                "Continue "
+            ],
+            "content":"<div class=\"\"><div> <span>You and Richard went out drinking and ended up back at you're place were he passed out on the sofa and you just made it to bed.<br>\r\n<br>\r\nIn the night you changed Richard came into your room with a coffee since he suspected you would be hungover like he is and as he entered your room he sees <a rel=\"nofollow\" href=\"https://images.pornpics.com/1280/201812/14/5671286/5671286_003_e5ec.jpg\" target=\"_blank\">https://images.pornpics.com/1280/201812/...</a> but immediately realised its you still. </span></div></div>",
+            "created":1557909300,
+            "id":2659996,
+            "title":"Yes"
+        },
+        "12221111111":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Continue ",
+                "Continue "
+            ],
+            "content":"<div class=\"\"><div> <span>After the massive initial shock of the discovery that you've turned into a girl and Richard has helped you.<br>\r\n<br>\r\nYou eventually go to the bathroom as you still need the toilet and although you haven't noticed you clothes have changed to match your body and you see <a rel=\"nofollow\" href=\"https://images.pornpics.com/1280/201812/14/5671286/5671286_030_d457.jpg\" target=\"_blank\">https://images.pornpics.com/1280/201812/...</a> let's say you are shocked but it's not as bad as you expected.<br>\r\n<br>\r\nLuckily your clothes are what would be called tomboyish...  </span></div></div>",
+            "created":1561359780,
+            "id":2677811,
+            "title":"Continue "
+        },
+        "124":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Yes, Middle Aged Woman!",
+                "No, Middle Aged Man!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you have a gender switch as well?</span></div></span></div>",
+            "created":1347771600,
+            "id":1429223,
+            "title":"45"
+        },
+        "1241":{
+            "choices":[
+                "the rest of your body is proportional",
+                "you are a plump middle aged lady",
+                "there is a letter attached to the mirror"
+            ],
+            "content":"<div class=\"\"><div> <span>As you wake up, you notice you feel different.<br>\r\n<br>\r\nYour chest feels heavier, and then you notice you have large 40DDD breasts.<br>\r\n<br>\r\n\"Wow,\" you mutter, and notice the sultry women's voice you now have. Looking over at your dressing table, you also notice a name tag that reads Rita.<br>\r\n<br>\r\nAs you get up, you wander over to the mirror to survey yourself. When you get there, you notice that...<br>\r\n<br>\r\n</span></div></div>",
+            "created":1362632400,
+            "id":1545751,
+            "title":"Yes, Middle Aged Woman!"
+        },
+        "12411":{
+            "author_id":"secretspider",
+            "author_name":"Susie",
+            "choices":[
+                "Show off your new body ",
+                "Try to hide it"
+            ],
+            "content":"<div class=\"\"><div> <span>You are still a guy for now but you have an hourglass and very curvy. You still have hair on your arms and legs but it\u2019s a lot less. Your thighs got bigger along with your butt which was huge and they were both hairless. Luckily you still had your penis but you lost all your facial hair and your lips got bigger. And now you about 5,4 tall and you could be mistaken for a woman. What do you do?</span></div></div>",
+            "created":1577721960,
+            "id":2767005,
+            "title":"the rest of your body is proportional"
+        },
+        "125":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Nope. 69 is correct",
+                "You are actually 79",
+                "You are actually 89"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you actually 69? Or maybe you were mistaken and were actually OLDER?</span></div></span></div>",
+            "created":1347771600,
+            "id":1429247,
+            "title":"69"
+        },
+        "1251":{
+            "choices":[
+                "this is your normal age",
+                "you tried an instant maturity potion, and it worked",
+                "I don't know, and who are you?"
+            ],
+            "content":"<div class=\"\"><div> <span>You feel strange and know you are older, and then check your purse. <br>\r\n<br>\r\n\"Nope, I am 69 years old---I'd swear I was 22 years old earlier today. How could this happen?\"<br>\r\n<br>\r\n\"Did you say something babe?\" came a voice across the table from you.<br>\r\n<br>\r\n\"Uhhh, yes dear,\" you say looking up from your laptop, the sun glancing off the screen. \"How'd I get so old so fast?\"<br>\r\n<br>\r\nYou hear a chuckle as the young man explains...<br>\r\n<br>\r\n</span></div></div>",
+            "created":1362632400,
+            "id":1545764,
+            "title":"Nope. 69 is correct"
+        },
+        "12512":{
+            "author_id":"randomtime",
+            "author_name":"Agechange4u",
+            "choices":[
+                "Went to find a mirror so she could check out her new look",
+                "Made sure Dan drank some too"
+            ],
+            "content":"<div class=\"\"><div> <span>\"You tried an instant maturity potion Natalie, and it seems to have worked like a charm.\"<br>\r\n<br>\r\n\"Well Daniel hon, why did ya not try an stop me?\"<br>\r\n<br>\r\n\"Actually, I did not think it would even work. It's a good thing you only drank part of it, huh?\"he asked with a chuckle.<br>\r\n<br>\r\nAbout that time Natalie...</span></div></div>",
+            "created":1503550800,
+            "id":2374110,
+            "title":"you tried an instant maturity potion, and it wo..."
+        },
+        "125121":{
+            "author_id":"randomtime",
+            "author_name":"Agechange4u",
+            "choices":[
+                "Take another sip and see what happens",
+                "Slip some in Daniel's drink"
+            ],
+            "content":"<div class=\"\"><div> <span>Natalie wandered to the bathroom to check herself out. As she looked in the mirror, she noted a woman with combed out short gray hair and glasses. She wore a red sweater top, a necklace of clear glass beads, her cheekbones were more pronounced and she was a touch jowly. She wore black slacks with red low heels. <br>\r\n <br>\r\n\"Wow, look like a senior citizen, thas for sure,\" she chuckled, and then headed back to Daniel.<br>\r\n<br>\r\nWhen she got back to him, she decided to...<br>\r\n<br>\r\n</span></div></div>",
+            "created":1561492800,
+            "id":2678466,
+            "title":"Went to find a mirror so she could check out he..."
+        },
+        "1251212":{
+            "author_id":"randomtime",
+            "author_name":"Agechange4u",
+            "choices":[
+                "A much older Daniel",
+                "A much younger Daniel"
+            ],
+            "content":"<div class=\"\"><div> <span>Natalie decided to slip some of the potion into Daniel's drink, which she proceeded to get from the kitchen for both of them.<br>\r\n<br>\r\n\"Here ya go sweetie pie,\" she told him as she set the drink down by him.<br>\r\n<br>\r\n\"Thanks...why so nice? You usually tell me if I want something to get it myself.\"<br>\r\n<br>\r\n\"Well dear, it just made sense to get you one when I got myself something to drink. Just call it good manners.\"<br>\r\n<br>\r\n\"Okay grams,\" he teased. \"What's next, baking cookies too?\"<br>\r\n<br>\r\n\"Just drink your soda and leave me be,\" she replied, and sat down to watch TV.<br>\r\n<br>\r\nA short time later, she is tapped on the shoulder by...<br>\r\n</span></div></div>",
+            "created":1570660440,
+            "id":2730619,
+            "title":"Slip some in Daniel's drink"
+        },
+        "13":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Telekinesis",
+                "Teleportation",
+                "Can transform things, people included",
+                "Can fly",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which power?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421365,
+            "title":"You're have superpowers"
+        },
+        "131":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Good",
+                "Evil",
+                "Neutral"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Good or evil?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421366,
+            "title":"Telekinesis"
+        },
+        "1312":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "The dumb jock",
+                "The snotty cheerleader ",
+                "Your bratty, spoiled sister"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up one day feeling sick to the stomach. You lift up your hand, and put on your shoes. Wait, what? Your shoes were nowhere near you! How did-unless. No. It's not possible. You lift up your hands again, and a clean shirt flies into your hands. You smile. You've been picked on by a lot of people. Who to go to first?</span></div></div>",
+            "created":1346821200,
+            "id":1421639,
+            "title":"Evil"
+        },
+        "132":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Good",
+                "Evil",
+                "Neutral"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Good or evil?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421368,
+            "title":"Teleportation"
+        },
+        "133":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Good",
+                "Evil",
+                "Have some fun"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Good or evil?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421623,
+            "title":"Can transform things, people included"
+        },
+        "1333":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Your sister",
+                "Your dog",
+                "Yourself"
+            ],
+            "content":"<div class=\"\"><div> <span>You woke up one morning, feeling a bit sick to the stomach. You got out of bed, picking up an old shoe in your sleepiness.<br>\r\n\"I need some cash.\"<br>\r\nYou didn't see it, but the shoe was becoming flat. It became a shade of green, and pictures started to form. Soon, you had a 100 dollar bill in your hands. You opened your eyes, and saw it.<br>\r\n\"Woah. What did I do?\"<br>\r\nYou looked at the bill, and stuffed it in your pocket. You went downstairs, grabbing an iPod.<br>\r\n\"Jeez, why can't I have an iPad?\"<br>\r\nThis time, you saw the iPod become larger, and flatter, becoming an iPad.<br>\r\n\"Holy crap. Let's have some fun.\"<br>\r\n<br>\r\nWho will you use your powers on now?</span></div></div>",
+            "created":1346821200,
+            "id":1421629,
+            "title":"Have some fun"
+        },
+        "13331":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Pet guinea pig",
+                "Little brother"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk to your sister's room, grinning. You went in, as your sister was brushing her hair.<br>\r\n\"What do you want?\"<br>\r\nYou put your hand on her shoulder<br>\r\n\"Oh, nothing. I just want Ed to tell you I've always wanted a...\"</span></div></div>",
+            "created":1346821200,
+            "id":1421632,
+            "title":"Your sister"
+        },
+        "133312":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "start your power on her now",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Yeah-\" she said annoyed...</span></div></span></div>",
+            "created":1372395600,
+            "id":1619177,
+            "title":"Little brother"
+        },
+        "13332":{
+            "author_id":"stardust_fae",
+            "author_name":"Esmerelda",
+            "choices":[
+                "Transform him into Cerberus! ",
+                "Something less ambition maybe... perhaps a cat?... or a bird... maybe a bat..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He sits by the door, waiting to be let out. He turns his head and looks at you with his usual dumb look, tongue hanging out, slobbering down his chin.<br>\r\n<br>\r\n\"I think you should be something cooler,\"</span></div></span></div>",
+            "created":1433048400,
+            "id":1986041,
+            "title":"Your dog"
+        },
+        "133322":{
+            "author_id":"cooling999",
+            "author_name":"cooling999",
+            "choices":[
+                "Dragon.\"",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You then stated, \"Maybe I should make my dog a...</span></div></span></div>",
+            "created":1491022800,
+            "id":2298396,
+            "title":"Something less ambition maybe... perhaps a cat?..."
+        },
+        "13333":{
+            "author_id":"sovt",
+            "author_name":"silentOroboros",
+            "choices":[
+                "...as a girl!",
+                "...with wings!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You feel like it'd be interesting to try your powers out on yourself. \"Awesome,\" you begin, placing a hand on your chest to make your intent clear, \"For starters, I want to see what it's like...\"</span></div></span></div>",
+            "created":1348376400,
+            "id":1433339,
+            "title":"Yourself"
+        },
+        "133331":{
+            "author_id":"sovt",
+            "author_name":"silentOroboros",
+            "choices":[
+                "Carry on as normal",
+                "Have a bit more fun"
+            ],
+            "content":"<div class=\"\"><div> <span>\"...as a girl!\" you finish, smiling. As soon as you close your mouth you feel an odd sensation while your body begins to reshape around you. Your breasts push up against your hand as your waist pulls tighter and your hips widen. You can tell there are subtler things going on, too, like the tingling sensation running across your face and arms as your body hair thins out and your features become more petite. Soon enough you feel the same sort of feeling ensconce your nethers like some bizzare veil, and just as suddenly, the feelings fade and you're left to your own, entirely female, anatomy.</span></div></div>",
+            "created":1348376400,
+            "id":1433347,
+            "title":"Female"
+        },
+        "1333312":{
+            "author_id":"hydress",
+            "author_name":"Stardust",
+            "choices":[
+                "Expand your self",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You look over your self.<br>\r\n\"Maybe I could make myself sexier.\"</span></div></span></div>",
+            "created":1363496400,
+            "id":1552385,
+            "title":"Have a bit more fun"
+        },
+        "13333121":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "go clubbing",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>done you look even sexier and now?</span></div></span></div>",
+            "created":1372395600,
+            "id":1619178,
+            "title":"Expand your self"
+        },
+        "133331211":{
+            "author_id":"secretspider",
+            "author_name":"Susie",
+            "choices":[
+                "Yes ",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Has the change affected your sexual orientation?</span></div></span></div>",
+            "created":1577722080,
+            "id":2767007,
+            "title":"go clubbing"
+        },
+        "133332":{
+            "author_id":"hydress",
+            "author_name":"Stardust",
+            "choices":[
+                "Angel wings.",
+                "Other wings"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"I want wings,\" you said too your self.<br>\r\nYou felt the back of your shirt open up, as tow mound pierced out of it.<br>\r\n\"What kind of wings.\"</span></div></span></div>",
+            "created":1363496400,
+            "id":1552389,
+            "title":"...with wings!"
+        },
+        "135":{
+            "choices":[
+                "Power over age",
+                "Time travel",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so what other?</span></div></span></div>",
+            "created":1363496400,
+            "id":1552491,
+            "title":"Other"
+        },
+        "1352":{
+            "choices":[
+                "Yes, I'll use it. Who cares?",
+                "I won't use it... It's too risky."
+            ],
+            "content":"<div class=\"\"><div> <span>You sit up in bed, trying to get out of the daze and strange feeling in your chest. It feels...  heavy. You cautiously raise a hand up to your chest, and blink rapidly. You gasp and with some effort, get out of bed. To even do so is a struggle with that chest of yours. Why is my chest like this, you wonder. However, after a drink of milk during breakfast, the feeling subsides and you then brush the earlier strange feeling off.<br>\r\nHowever, when the bus comes, you are still a distance away from it and you need to rush to school.<br>\r\nYou sprint as fast as you can, only to find that the doors slam shut in front of you, adding to the humiliation that the people in the bus are already probably doing so.<br>\r\nYou sit sullenly on the seats at the bus stop, thinking:\" I just missed my bus, and the next one comes in 10 minutes. I am going to be late... I wish I could relive the moment that I brought a book into the shower this morning. Then i would have been earlier..\"<br>\r\n<br>\r\nSuddenly, you are back at home, bringing a book into the shower. You gasp and look around.\"Wait, I just wished myself to be back here! Do I have...?\" you think to yourself as you put the book away. Well, let me test this...\"<br>\r\nYou wish that you will get some money immediately, as you are broke. But nothing happens. \"Wait, what?\"<br>\r\nYou try again, but still nothing. After a few more tries, you realize that it only works for time, meaning that you have time travel powers...<br>\r\n<br>\r\nBut will you use it now? Especially since you know about the grandfather paradox and the affecting of time in the real world...</span></div></div>",
+            "created":1488430800,
+            "id":2284101,
+            "title":"Time travel"
+        },
+        "14":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Dumb blond",
+                "Shy, geeky brunette",
+                "Black haired tomboy",
+                "The beautiful redhead",
+                "The mean blond"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of girl?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421574,
+            "title":"You're a girl"
+        },
+        "141":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Adult",
+                "16"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Adult, or still 16?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421578,
+            "title":"Dumb blond"
+        },
+        "1411":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "You will find a husband and become a nice, but dumb, housewife",
+                "You will transform into the world's richest supermodel",
+                "You will become a Hooters waitress"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will happen as you grow older today?</span></div></span></div>",
+            "created":1347771600,
+            "id":1429218,
+            "title":"Adult"
+        },
+        "14112":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Scream",
+                "Try to find out what happened"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You woke up, tired. Your vision was blurred, but oddly enough, it looked like you had- no. You couldn't have. But... you did! You had breasts! You grabbed a blanket, and pulled it over your body.<br>\r\n<br>\r\nWhat do you do?</span></div></span></div>",
+            "created":1350622800,
+            "id":1449986,
+            "title":"The world's richest supermodel"
+        },
+        "141121":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Someone you know",
+                "Someone you don't know!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You scream a loud scream, the scream being a bit more high pitched than you expected.<br>\r\n<br>\r\nSuddenly, the door is slammed open. Who opens it?</span></div></span></div>",
+            "created":1350709200,
+            "id":1450386,
+            "title":"Scream"
+        },
+        "1411211":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Your mother",
+                "Your girlfriend, who is looking a bit more... boyish?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who opens the door?</span></div></span></div>",
+            "created":1350709200,
+            "id":1450389,
+            "title":"Someone you know"
+        },
+        "1411212":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Your butler. You are super rich after all!",
+                "Your... husband?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is it that you don't know?</span></div></span></div>",
+            "created":1350709200,
+            "id":1450390,
+            "title":"Someone you don't know!"
+        },
+        "14112121":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Your house",
+                "A mansion!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Mrs. Williams, what is the matter?\"<br>\r\nAn old man, with short, black hair entered the room. He was wearing a tuxedo.<br>\r\n'Must be a butler,' you think.<br>\r\n\"Mrs. Williams, what is the matter?\"<br>\r\n\"Mrs? I'm a guy!\"<br>\r\n\"Mrs. Williams, it must have been a bad dream. Well, you're up. Might as well prepare for today's shoot.\"<br>\r\nHe walked out, and you reluctantly follow.<br>\r\n<br>\r\nWhere are you?</span></div></div>",
+            "created":1350709200,
+            "id":1450486,
+            "title":"Your butler. You are super rich after all!"
+        },
+        "141121212":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Your agent is waiting for you",
+                "Your husband is waiting for you"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Woah!\" you gasp, as you walk out the door. Your house is no longer a house, but a huge mansion! The walls are adorned with expensive things, and pictures of you in women's clothing doing sexy poses. You are so confused, and just hope none of your friends come and see this, even if the mansion is cool.<br>\r\n<br>\r\n\"Yes, I am still in awe every time I see this house as well. By the way, you have a guest waiting in the dining room, waiting to join you for breakfast.\"<br>\r\n<br>\r\n\"Like,Who?\" you ask, not noticing the first like.<br>\r\n<br>\r\nThe butler responds...</span></div></div>",
+            "created":1350795600,
+            "id":1450993,
+            "title":"A mansion!"
+        },
+        "1412":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "All your clothes are for girls",
+                "You're blonde",
+                "You look more feminine"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You wke up feeling a bit weird. Sorta like your intelligence was going down the drain. You yawn, getting out of bed. You go to your dresser, and don't like what you see.</span></div></span></div>",
+            "created":1346821200,
+            "id":1421610,
+            "title":"16"
+        },
+        "14121":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "She acts like you're a girl",
+                "She doesn't know what's going on."
+            ],
+            "content":"<div class=\"\"><div> <span>You look in, and see all skirts and dresses.<br>\r\n\"What the hell? Why do I have these in here? Is this a prank?\"<br>\r\nYou go through all your clothes, but can't find anything you would normally wear. You decide to stay in the only boxers you have left, no noticing that they've become panties. When you reach the kitchen, a nightgown has fully formed. Your mother is cooking breakfast.<br>\r\n<br>\r\nHow does she react to you?</span></div></div>",
+            "created":1346821200,
+            "id":1421614,
+            "title":"All your clothes are for girls"
+        },
+        "141211":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "That your hair is longer",
+                "That your hair is blonde"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Samantha, it's almost time for school! Get dressed!\"<br>\r\n\"But Mom,\" you begin. \"Don't you notice anything weird?\"<br>\r\n\"Only that you look nothing like you should!\"<br>\r\nYour mom has you go back upstairs. You look around, deciding to go in the bathroom.<br>\r\n<br>\r\nWhat do you see when you look in the mirror?</span></div></div>",
+            "created":1346821200,
+            "id":1421619,
+            "title":"She acts like you're a girl"
+        },
+        "1412111":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "You dress a lot like a girl",
+                "You try to dress like a boy."
+            ],
+            "content":"<div class=\"\"><div> <span>When you look in the mirror, you see that your brown hair is shoulder length. It's all behind your head. Weird. You leave, not seeing you hair become dirty blonde, and a bit longer. You get into your room, and open a dresser.<br>\r\n<br>\r\nWhat do you do?</span></div></div>",
+            "created":1346821200,
+            "id":1421662,
+            "title":"That your hair is longer"
+        },
+        "14121111":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Your hair has changed even more!",
+                "You need makeup!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You put on a light pink top, with a blue skirt. You also put on a bra, but you don't know why. Two answers suddenly grew from your chest. You looked St yourself in a mirror.<br>\r\n<br>\r\nNow what?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421667,
+            "title":"You dress a lot like a girl"
+        },
+        "141211112":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "You start thinking about football players",
+                "You try to tell your sister what's going on"
+            ],
+            "content":"<div class=\"\"><div> <span>You looked in the mirror, and decided you needed makeup. As you put on red lipstick, and blue eyeshadow, you gained the build of a cheerleader. Slim, and hot. Your hair was now completely blond, reaching the middle of your back. You go downstairs, where Mom is waiting.<br>\r\n\"Go drive your sister,\" she said, firmly.<br>\r\n\"Like, okay Mom,\" you say, rolling your eyes.<br>\r\n<br>\r\nWhat happens when you drive your sister?</span></div></div>",
+            "created":1346821200,
+            "id":1421671,
+            "title":"You need makeup!"
+        },
+        "1412111121":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "The Quarterback calls you to ask you out on a date",
+                "After dropping off your sister, you see the football team practicing and watch"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why do you start thinking of Football players?</span></div></span></div>",
+            "created":1347771600,
+            "id":1429221,
+            "title":"You start thinking about football players"
+        },
+        "14121112":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "conversation",
+                "no time hurry up to school"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You find something which is not girly like all these skirts and dresses. There are some baggy jeans and some also baggy sweater. You put them on and leave your room again to face your mom for the second time now\u2026.</span></div></span></div>",
+            "created":1347944400,
+            "id":1430281,
+            "title":"You try to dress like a boy."
+        },
+        "141211122":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "You're dating a football player",
+                "Your friends have changed too!"
+            ],
+            "content":"<div class=\"\"><div> <span>You rush downstairs, almost tripping over your own feet.<br>\r\n\"Sam, you look a mess,\" says your mother.<br>\r\n\"No time Mom, I have to go to school!\"<br>\r\nYou rush out the door, and head into your car. At school, you discover that...</span></div></div>",
+            "created":1349067600,
+            "id":1438510,
+            "title":"Hurry up to school"
+        },
+        "1412111221":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "punch him",
+                "slow down and ask what he wants from you"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Suddenly in the hall you feel some strange touches from behind and turn around, your hand already builded a fist, you face Thomas, the quarterback of the school\u2019s football team\u2026</span></div></span></div>",
+            "created":1349154000,
+            "id":1438797,
+            "title":"You're dating a football player"
+        },
+        "14121112211":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Continue ",
+                "Continue "
+            ],
+            "content":"<div class=\"\"><div> <span>You turn around and punch him in the face breaking his nose in two places.<br>\r\n<br>\r\nYou then run away to where you usually hang out with your friends and find your friend Jason reading a book in the library.<br>\r\n<br>\r\nYou are out of breath and sit next to him, he looks at you in a strange way as if you don't belong here. <br>\r\n<br>\r\nYou started talking to him weather he wants to or not.<br>\r\n<br>\r\nAfter what seemed like hours he smiled and said \"you really broke his nose\" yeah Jason... He smiled again and said \"for a dumb blonde you are very intelligent\" <br>\r\n<br>\r\nYou don't know what to say and started laughing at the last comment... </span></div></div>",
+            "created":1557723600,
+            "id":2659197,
+            "title":"punch him"
+        },
+        "142":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "16",
+                "Younger"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Still 16? Or younger?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421581,
+            "title":"Shy, geeky brunette"
+        },
+        "1421":{
+            "author_id":"thatguy12345",
+            "author_name":"TheGuy",
+            "choices":[
+                "Instant",
+                "Overtime"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you wake up a girl, or is it over time</span></div></span></div>",
+            "created":1391403600,
+            "id":1738278,
+            "title":"16"
+        },
+        "1422":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "15",
+                "14",
+                "even younger"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how much younger?</span></div></span></div>",
+            "created":1500872400,
+            "id":2358475,
+            "title":"Younger"
+        },
+        "14223":{
+            "author_id":"mbrody",
+            "author_name":"MBrody",
+            "choices":[
+                "13",
+                "12"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0How much younger?</span></div></span></div>",
+            "created":1535259600,
+            "id":2539099,
+            "title":"even younger"
+        },
+        "143":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "16",
+                "Younger"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Still 16? Or younger?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421586,
+            "title":"Black haired tomboy"
+        },
+        "1431":{
+            "author_id":"sovt",
+            "author_name":"silentOroboros",
+            "choices":[
+                "Your hair has gotten darker.",
+                "Your figure has become more feminine.",
+                "Your skin is smoother."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You wake up one morning feeling a bit off. Unbeknownst to you...</span></div></span></div>",
+            "created":1348376400,
+            "id":1433342,
+            "title":"16"
+        },
+        "14313":{
+            "author_id":"writenow24",
+            "author_name":"Mr.Write",
+            "choices":[
+                "Press on, get ready for school.",
+                "It's the weekend! Try to figure out what happened!"
+            ],
+            "content":"<div class=\"\"><div> <span>You pull the sheets off of you and notice your skin seems hyper-sensitive. You rub your arms and notice something seems off.. You look down and see to your shock that the hair on your arms is gone, and your arms are weirdly smooth! You try not to freak out but you're definitely worried. You get out of bed and see that your legs are hairless and smooth too. You're completely bewildered, so you decide to..</span></div></div>",
+            "created":1361509200,
+            "id":1537367,
+            "title":"Your skin is smoother."
+        },
+        "143132":{
+            "choices":[
+                "Your father hears you",
+                "You escape to find help"
+            ],
+            "content":"<div class=\"\"><div> <span>You've heard of people losing their hair on their heads and such, but never a loss of arm hair.  Could you have rubbed it off on something?  One hand traces along the length of your leg.<br>\r\n<br>\r\nThankfully you don't have anywhere to be today, so you're free to experiment for as long as you want.<br>\r\n<br>\r\nAs you trail your hand up and down your arms, you notice that the fingers on that hand seem longer and paler today.  Now you know something's up.<br>\r\n<br>\r\n\"Okay, now things are getting weird,\" you say, and you instantly startle at your voice.  It's still deep, but now you sound much more androgynous.  You sound like you could easily voice either a male or a female character in a Japanese anime.<br>\r\n<br>\r\nPanicked, you get up and run to the bathroom.  You're in such a state that you don't even notice your different center of gravity.<br>\r\n<br>\r\nThere in the mirror is a young woman you do not recognize.  She has short dark hair and is wearing the same pajamas that you had put on last night.  Some small part of you still tries to rationalize her appearance as one of your single Dad's latest flings, but you know the truth.<br>\r\n<br>\r\nThis is you.  Somehow, you've turned into a girl.<br>\r\n<br>\r\nThe reflection raises a hand to her breast and squeezes.  An electric jolt runs through your body almost instantly.  And then the girl takes a look down her baggy pants...<br>\r\n<br>\r\n...and you start screaming.<br>\r\n</span></div></div>",
+            "created":1423890000,
+            "id":1933740,
+            "title":"It's the weekend! Try to figure out what ha..."
+        },
+        "1431322":{
+            "choices":[
+                "He comforts you",
+                "He takes you to find help"
+            ],
+            "content":"<div class=\"\"><div> <span>(By the way, in this storyline, your name is Sora.  You want another name, go and create your own storyline.  No one's stopping you.)<br>\r\n<br>\r\nYour screams have awakened your father, sleeping across the hall.  With no idea what he would do to you if he found you, you quickly grab your smallest and tightest articles of clothing and put them on.<br>\r\n<br>\r\nThankfully, your bedroom has a window you can escape through without your Dad seeing you.  Although, with all of your new \"lovely lady lumps\", the squeeze is a mite bit tighter than usual.<br>\r\n<br>\r\nHoping that you don't look too foolish, you run through the streets towards your high school, where your best friend Stephen is undergoing soccer practice.<br>\r\n<br>\r\nYou burst into the Boys' locker room, only realizing too late that you are no longer technically a \"boy\".  Half-dressed and naked men around you scatter to cover up.  A few of them hurl some very unpleasant insults at you.<br>\r\n<br>\r\nFor what it's worth, you try to explain who you are.  But nobody's buying.<br>\r\n<br>\r\nBut then Stephen shows up, and you're certain that he will save you.<br>\r\n<br>\r\n\"I'm telling you, I'm Sora!\" you argue, talking with your new feminine hands.  \"Everything was fine when I went to bed last night, but then I wake up looking like this!\"<br>\r\n<br>\r\n\"Sorry, but last time I checked, Sora was a dude.\"  (So much for certainty.)  \"Nice try, but whatever this is, we're not gonna fall for it.  Are we, boys?\"<br>\r\n<br>\r\nThe locker room rings with cheers of agreement.<br>\r\n<br>\r\n\"Whoever the hell you are, go and tell Sora that this little game of his isn't funny. Now get out of the Boys' locker room before we get the Coach involved.\"  He then turns his back on you and walks away.<br>\r\n <br>\r\nTears spring to your eyes as your best friend fails to recognize you.<br>\r\n<br>\r\n\"Please, you've gotta believe me, Steph!\"<br>\r\n<br>\r\nStephen stops dead in his tracks.  The name had sprung unbidden from your lips.<br>\r\n<br>\r\n\"No way...only Sora ever calls me that.  Then...then this isn't a joke.  Sora...that's really you in there?\"<br>\r\n<br>\r\nRelieved beyond belief, you cry out a sobbing \"Yes!\" and you leap into his arms.<br>\r\n</span></div></div>",
+            "created":1423890000,
+            "id":1933753,
+            "title":"Escape to find help"
+        },
+        "14313222":{
+            "choices":[
+                "You go to a science geek friend",
+                "You go to a hospital"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Uh, Sora?  This whole situation is weird enough without feeling my best guy friend's boobs all over me.\"<br>\r\n<br>\r\nYou suddenly realize how awkward a sudden sex change can make even the simplest things.  You stammer and become angry in your embarrassment.<br>\r\n<br>\r\n\"Oh, you think this is weird?  Try telling that to my vagina!\" you yell, pointing at the junction of your legs with one hand.<br>\r\n<br>\r\n\"What the hell happened to you?  What, did you eat something?\"<br>\r\n<br>\r\n\"Yeah, that's sounds right.  I'll just eat this here magic banana and, the next morning, whadda ya know, I lose mine!\"<br>\r\n<br>\r\n\"Uh, maybe we should find somewhere else to talk about this?\"<br>\r\n<br>\r\nAnd you finally hear the laughter and catcalls of all the men in the locker room with you, some of whom you actually know and recognize.  Stephen leads you out by the hand, but you still turn around to give them all the finger before you close the door.<br>\r\n<br>\r\nOnce the two of you are alone, you rehash the situation.<br>\r\n<br>\r\n\"So you were a guy for all of yesterday, you went to sleep for the night and you woke up a girl?  Is that right?\"<br>\r\n<br>\r\nYou nod.  So where do you two go now?<br>\r\n</span></div></div>",
+            "created":1423890000,
+            "id":1933761,
+            "title":"He takes you to find help"
+        },
+        "144":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "16",
+                "Adult"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Still 16? Or an adult?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421587,
+            "title":"The beautiful redhead"
+        },
+        "1441":{
+            "author_id":"gwarner",
+            "author_name":"Onlyonekey",
+            "choices":[
+                "A famous gymnist",
+                "A famous singer",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And what exactly will you become?</span></div></span></div>",
+            "created":1352091600,
+            "id":1461466,
+            "title":"16"
+        },
+        "14413":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "A regular old high school student",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Some more choices.</span></div></span></div>",
+            "created":1352091600,
+            "id":1461494,
+            "title":"Something else"
+        },
+        "144131":{
+            "author_id":"capitalism",
+            "author_name":"Capitalism",
+            "choices":[
+                "Slow",
+                "Fast"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok so is this gonna be slow changing or fast kinda wake up and boom sort of thing </span></div></span></div>",
+            "created":1362459600,
+            "id":1544405,
+            "title":"A regular old high school student"
+        },
+        "1441311":{
+            "author_id":"capitalism",
+            "author_name":"Capitalism",
+            "choices":[
+                "Red hair",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok so lets get started what's gonna change first </span></div></span></div>",
+            "created":1362459600,
+            "id":1544407,
+            "title":"Slow"
+        },
+        "14413111":{
+            "author_id":"capitalism",
+            "author_name":"Capitalism",
+            "choices":[
+                "Try to hide it",
+                "Let it show"
+            ],
+            "content":"<div class=\"\"><div> <span>It was a typical morning so you thought as you got out of bed you scratch your head and see some hair fall out but it didn't look like your hair quickly you run to the mirror<br>\r\n\"What the\" You Said in shock to your new red hair<br>\r\n\"I look like Ron Weasly for crying out loud great\" You said </span></div></div>",
+            "created":1369198800,
+            "id":1595197,
+            "title":"Red hair"
+        },
+        "144131111":{
+            "author_id":"thatguy12345",
+            "author_name":"TheGuy",
+            "choices":[
+                "Mind",
+                "Body"
+            ],
+            "content":"<div class=\"\"><div> <span>You try to hide your new hair by covering it with your hands, a task that gets harder because your hair is gaining more mass. You make it to the bathroom, and you let go of your hair which is now down to your shoulders.<br>\r\n<br>\r\nWhat changes next</span></div></div>",
+            "created":1374728400,
+            "id":1634268,
+            "title":"Try to hide it"
+        },
+        "1441311112":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "More changes",
+                "You figure out what's happening"
+            ],
+            "content":"<div class=\"\"><div> <span>As you showered, you felt goosebumps all over your torso and arms. Even after you'd turned the shower off and gone back to your room. You were lucky there was no school today, or this would have been agony. You couldn't concentrate on anything, as the goosebumps were so irritating. Finally, after a few hours, they stopped. Looking down at your body, you saw that your arms and torso were now devoid of any hair, your hips had widened and your fingers and nails had lengthened. What was happening to you?</span></div></div>",
+            "created":1386133200,
+            "id":1703037,
+            "title":"Body"
+        },
+        "14413111121":{
+            "author_id":"flyingpigs1",
+            "author_name":"flyingpigz1",
+            "choices":[
+                "You look up to see your room is the same",
+                "You look up to see your room is different"
+            ],
+            "content":"<div class=\"\"><div> <span>You suddenly feel a tingling sensation in your ass and look down to see that it has expanded to 4 times its normal size. The tingleing then starts in your chest, and DD cup breasts appear.<br>\r\n<br>\r\nFinally noticing what is happening, your hand shoots down in between your smooth, sexy legs; but all that you find is a newly formed pussy.<br>\r\n<br>\r\nTears coming to your now beautiful blue eyes, you notice that your red hair is now draping over your shoulders and coming down just above your huge ass.<br>\r\n<br>\r\nYou are now a girl.</span></div></div>",
+            "created":1398056400,
+            "id":1784332,
+            "title":"More changes"
+        },
+        "144131111212":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "your mom",
+                "something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You started to worry and cover your new self with some towel. The big one, because this is the only one, which is able to cover your huge breasts\u2026Damn what happened?<br>\r\nAnd it becomes worse as you reach your room to find it also has changed and looked now like a girls room\u2026Oh shit you think and suddenly you hear a voice\u2026.<br>\r\n</span></div></div>",
+            "created":1398142800,
+            "id":1784764,
+            "title":"You look up to see your room is different"
+        },
+        "1441311112122":{
+            "author_id":"flyingpigs1",
+            "author_name":"flyingpigz1",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was it your sister?</span></div></span></div>",
+            "created":1398142800,
+            "id":1784774,
+            "title":"Someone else"
+        },
+        "14413111121221":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "school day",
+                "weekend"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\u201cGood morning, sis\u201d she said and you started to worry even more since she addresses you as a girl. What is going on, you need to find out soon, since this is not good at all. But for now you play it safe and say also good morning to your sister.</span></div></span></div>",
+            "created":1398142800,
+            "id":1784778,
+            "title":"sister"
+        },
+        "144131111212212":{
+            "author_id":"flyingpigs1",
+            "author_name":"flyingpigz1",
+            "choices":[
+                "Saturday",
+                "Sunday"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What day of the weekend is it?</span></div></span></div>",
+            "created":1398142800,
+            "id":1785053,
+            "title":"weekend"
+        },
+        "1441311112122121":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><div> <span>It is Saturday and the weather outside is great, but this does not interest you at all. You only can think about what has happened and that you suddenly turned into a big breasted red haired girl!<br>\r\nBut your sister still around asked you: \u201cDo you join me to go to the beach. The weather is just great and we should use the time to present ourselves in our great bikinis? What do you think, sister?\u201d<br>\r\n</span></div></div>",
+            "created":1398229200,
+            "id":1785318,
+            "title":"Saturday"
+        },
+        "14413111121221211":{
+            "choices":[
+                "Beach",
+                "Car ride"
+            ],
+            "content":"<div class=\"\"><div> <span>\"That sounds perfect, sis. Let me go change and we head down together,\" you reply hoping she doesn't question you.<br>\r\n<br>\r\n\"Great. I'll be in the kitchen,\" your sister Kate says and leaves you to change.<br>\r\n<br>\r\n5 minutes later, you've changed into a black bikini and some sunglasses. Staring at the reflected image of a bountiful beach babe, you don't notice yourself posing for a selfie.<br>\r\n<br>\r\n-FLASH-<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://www.bimmerboost.com/attachment.php?attachmentid=33782&amp;d=1382475787\" target=\"_blank\">http://www.bimmerboost.com/attachment.ph...</a><br>\r\n<br>\r\n'Did I just take a selfie of myself?' you wonder to yourself. 'Maybe some mental changes are beginning to take hold.'<br>\r\n<br>\r\nShaking yourself out of that nonsense thought, you join Kate in the kitchen and finish preparing to go.</span></div></div>",
+            "created":1500267600,
+            "id":2355352,
+            "title":"yes"
+        },
+        "1441312":{
+            "author_id":"capitalism",
+            "author_name":"Capitalism",
+            "choices":[
+                "Wake Up",
+                "And What Happens Happens "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Wake up red head or somehow someway just happens </span></div></span></div>",
+            "created":1362459600,
+            "id":1544408,
+            "title":"Fast"
+        },
+        "14413121":{
+            "author_id":"capitalism",
+            "author_name":"Capitalism",
+            "choices":[
+                "A Man Enters ",
+                "Freak Out "
+            ],
+            "content":"<div class=\"\"><div> <span>It must have been a crazy night you thought as your head was pounding, you didn't always party on the weekends but when you were invited to one it was a crazy a wild night wether people were drinking or not you didn't always crazy things have happens before <br>\r\nThere was the black guy in your bed <br>\r\nThe piercing <br>\r\nThe time you couldn't find any of your clothes and you weren't sure if you walked home naked or not <br>\r\nBut this time it just looked like you woke up in someone else's room which wasn't the worst you noticed a red hair in your face you wondered if she was cute you thought last night was great even if you don't remember it you roll over to see nobody in bed with you<br>\r\n\"Oh man did I dye my hair\" you thought to yourself <br>\r\nStill not sure who's house you were in you were wondering on whether or not to stay or head out through the window Either way you knew you should at least see who it was you sit up see more hair in your face and feel a jiggly in your chest you look down and see two breasts </span></div></div>",
+            "created":1362459600,
+            "id":1544431,
+            "title":"Wake Up"
+        },
+        "144131211":{
+            "author_id":"capitalism",
+            "author_name":"Capitalism",
+            "choices":[
+                "You ",
+                "Friend or Stranger "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is this man </span></div></span></div>",
+            "created":1362459600,
+            "id":1544445,
+            "title":"A Man Enters "
+        },
+        "1441312111":{
+            "author_id":"capitalism",
+            "author_name":"Capitalism",
+            "choices":[
+                "Go After Him",
+                "Try To Find Out More About Your New Life"
+            ],
+            "content":"<div class=\"\"><div> <span>A man walks into the room he turns around and stares at you and as you look at him you realize he's you <br>\r\n\"We'll I must say no matter how many times this happens I still seem to impress myself\" yourself said <br>\r\nYou just stare not entirely sure what to say its not everyday yourself starts talking to you at least not like this <br>\r\n\"Go ahead give it a moment to all sink in, there's a mirror over there if you don't know what Im talking about\" Yourself said<br>\r\nYou stand up and walk towards the mirror and see a red haired girl with a slim figure, and not the biggest breasts in a purple tank top and hit pants staring back at you.<br>\r\n\"What did you do to me\" You say to Yourself <br>\r\n\"Allow me to explain I have grown spiritually fat feasting off of others, as you see I have found a way so that I can love forever, but in a way in order to do that I have to take another's life, so I find somebody I weaken their pride and judgement and when there asleep I take there body, thus the key to living forever\" Yourself said<br>\r\n\"But why me\" You say to Yourself<br>\r\n\"Sometimes I just want a change, sure things were fun with Amber the cute red head but now Im Robert the heir to the wealthiest family in town, Im gonna be stinking rich, so now Im gonna go to your house, and I think it's best if we don't keep in touch\" Robert said as he slowly exited out the door</span></div></div>",
+            "created":1362459600,
+            "id":1544454,
+            "title":"You "
+        },
+        "1441312112":{
+            "author_id":"capitalism",
+            "author_name":"Capitalism",
+            "choices":[
+                "Friend",
+                "Stranger "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Friend or Stranger ?</span></div></span></div>",
+            "created":1362459600,
+            "id":1544446,
+            "title":"Friend or Stranger "
+        },
+        "144132":{
+            "author_id":"scilock",
+            "author_name":"Scifiwizard",
+            "choices":[
+                "A powerful witch.",
+                "A powerful mad scientist.",
+                "Your neighbor!"
+            ],
+            "content":"<div class=\"\"><div> <span>You screamed upon seeing a familiar figure enter your room. \"Greeting.\" Softly, the person said. \"I have always wanted a daughter but sadly, I have not found that perfect someone to have a child with.\" The individual grinned. \"Therefore, I have selected you to be my perfect daughter! Congratulations!\"<br>\r\n<br>\r\nThe person talking to you was...<br>\r\n</span></div></div>",
+            "created":1418187600,
+            "id":1900683,
+            "title":"More choices"
+        },
+        "1441323":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "find it out",
+                "run away from him",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you knew that Mr Jonson, your neighbor is a pervert but you did not know how much of a pervert he is and now you wonder what he had in mind...</span></div></span></div>",
+            "created":1557850920,
+            "id":2659751,
+            "title":"Your neighbor!"
+        },
+        "1442":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "You will become an award winning actress",
+                "You will become the world's most famous supermodel",
+                "You will become a regular old hot housewife"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And what will your job be?</span></div></span></div>",
+            "created":1347771600,
+            "id":1429217,
+            "title":"Adult"
+        },
+        "14422":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Unmarried",
+                "Married"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will your social life status be?</span></div></span></div>",
+            "created":1349672400,
+            "id":1442867,
+            "title":"House life?"
+        },
+        "144222":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Your girlfriend becomes your husband!",
+                "He just appears on your doorstep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And how exactly will this happen?</span></div></span></div>",
+            "created":1349672400,
+            "id":1442868,
+            "title":"Married"
+        },
+        "1442221":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Your room in your house!",
+                "The master bedroom in a new mysterious house, with your girlfriend and kids!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The final question is, where do you wake up?</span></div></span></div>",
+            "created":1350709200,
+            "id":1450429,
+            "title":"Your girlfriend becomes your husband!"
+        },
+        "14422212":{
+            "author_id":"darkluke",
+            "author_name":"Fitzroy Clement",
+            "choices":[
+                "My \"husband\", with a face that looks suspiciously similar to tha my girlfriend's",
+                "A boy and a girl, ages 5 and 4."
+            ],
+            "content":"<div class=\"\"><div> <span>When I woke up it was still dark out, which felt weird to me since I never get up earlier than 9:45 A.M unless it's a school day or a funeral. I rubbed the yucky stuff out of my eyes and wondered what time it was. My TV and my digital clock are right across from my bed, so I didn't have to do more than lift my head little to see the time. It was 6:00 A.M flat.<br>\r\n<br>\r\n\"Holy shit\" I said, suddenly panicking at the sound of my voice. It wasn't mine.<br>\r\n<br>\r\nLet me back up and introduce myself. The name's Grewe. Adrian Grewe. I'm a sixteen year old hotshot. Actually, I'm just a normal kid, maybe a little above average in the looks department. I got good grades in school, I was popular enough with the other students, I had a gorgeous looking Gal Friday named Leona hanging off my arm, and my family and I got along great. I was heading to a good college after high school ended, and I was talented enough to be able to do mostly anything I wanted within my families price range. All in all, I was happy. I didn't have any problems. Sure, I wasn't perfect(who was?), but I'm not the type of person who usually gets into these types of scenarios. You know what I'm talking about. The kinds you people read all the time but are afraid to tell your friends about lest think they think you're some kind of pervert. Transformation stories, where people turn into all sorts of things pleasant and unpleasant. I'm aware that this stuff usually happens to those who either want or deserve it, so nobody was more surprised than myself when I found out what happened to me.<br>\r\n<br>\r\nBack to the main story. Getting out of bed and turning on the light, I was shocked to discover that I wasn't where I was when I fell asleep. This wasn't my room. This wasn't my <i>body</i>.There was a full length mirror right next to the TV, and when I looked into it, I saw this woman staring back at me.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"http://wallpoper.com/images/00/20/86/41/susan-coffey_00208641.jpg\" target=\"_blank\">http://wallpoper.com/images/00/20/86/41/...</a><br>\r\n<br>\r\nShe looked to be about 22-23, maybe 5'6 and 105lbs, had dark red hair that went a little past her shoulder blades, olive color eyes accentuated by rich eyelashes done up in tasteful mascara, pink lips, a lithe, well toned body with nice sized breasts, and pale skin. She was wearing a grey undershirt that looked like a woman's cut, some red nail polish, a salmon colored bra, and that's it. I've never met this beautiful woman in my life, but there she was staring right back at me. I blinked, and she blinked. I hopped, and so did she. I waved, and her daintier hand and thin, well toned arm waved at me within the mirror's surface. I couldn't believe it. Just then, somebody walked into this strange room, this strange...world.<br>\r\n<br>\r\nWho was it?</span></div></div>",
+            "created":1352005200,
+            "id":1460656,
+            "title":"The master bedroom in a new mysterious house, w..."
+        },
+        "144222121":{
+            "author_id":"hawkcam1996",
+            "author_name":"Hawkcam",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does my husband remember being my girlfriend?</span></div></span></div>",
+            "created":1495861200,
+            "id":2326033,
+            "title":"My \"husband\", with a face that looks su..."
+        },
+        "144222122":{
+            "author_id":"bfine2626",
+            "author_name":"Bfine2626",
+            "choices":[
+                "Yes ",
+                "No/other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you also pregnant with your third child?</span></div></span></div>",
+            "created":1451797200,
+            "id":2083732,
+            "title":"A boy and a girl, ages 5 and 4."
+        },
+        "145":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "16",
+                "Adult"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Still 16? Or adult?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421589,
+            "title":"The mean blond"
+        },
+        "1451":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "You find your hair is longer than you remember",
+                "You act meanly towards your sister and mother",
+                "You get a text from a girl you know and start gossiping"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What happens when you wake up?</span></div></span></div>",
+            "created":1347771600,
+            "id":1429216,
+            "title":"16"
+        },
+        "14511":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "You find it weird ",
+                "You find it normal"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do you react to your new, long hair?</span></div></span></div>",
+            "created":1350709200,
+            "id":1450432,
+            "title":"You find your hair is longer than you remember"
+        },
+        "145111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "yes- you try but it isn't working",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>do you think you should cut it off?</span></div></span></div>",
+            "created":1350968400,
+            "id":1452144,
+            "title":"You find it weird "
+        },
+        "1451111":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Physical change",
+                "Mental change"
+            ],
+            "content":"<div class=\"\"><div> <span>You grab the mess of hair,eyes wide open.<br>\r\n<br>\r\n\"Fuck.\"<br>\r\n<br>\r\nYou run to your room, grabbing scissors off your desk. You run back to the bathroom, and chop it all off. But, to your horror, it grew back. You chopped it off again, but still it grew. After half an hour of this cycle, you decide to give up. You accept the change, not knowing that there would be more.</span></div></div>",
+            "created":1351918800,
+            "id":1459345,
+            "title":"yes- you try but it isn't working"
+        },
+        "14511111":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "More changes to your facial area",
+                "Your body becomes more like a hot girl's"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is the physical change?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459720,
+            "title":"Physical change"
+        },
+        "145111111":{
+            "author_id":"writenow24",
+            "author_name":"Mr.Write",
+            "choices":[
+                "You have to pee so you go to the bathroom, but see your hair color is lighter.",
+                "Continue on, try to get your mind off of this weirdness."
+            ],
+            "content":"<div class=\"\"><div> <span>Suddenly you feel heat above your eyes and then a painful sting in your eyebrows. You look in a nearby mirror and see that your once bushy eyebrows seem thinner.. Like they've been recently waxed. You're more than freaked out at this point, and..</span></div></div>",
+            "created":1361509200,
+            "id":1537370,
+            "title":"More changes to your facial area"
+        },
+        "14511112":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "You try to call your best friend for help, but call a girl instead of a boy",
+                "You find the urge to put on some of the makeup in the bathroom"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is your mental change?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459719,
+            "title":"Mental change"
+        },
+        "145111121":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Mental change",
+                "Physical change"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk back to your room, with a huge headache. You didn't know it, but you were losing IQ points. But at the same time, you were becoming smarter, manipulative even. But one thing you knew for sure was that you needed help. Fast. You grab your phone, and press one, speed dialing your best friend.<br>\r\n<br>\r\n\"Matt?\" you ask, startled by your feminine voice. \"Matt! Pick up!\"<br>\r\n<br>\r\n\"Why are you calling me Matt? Jeez Stacy, you are like, so weird.\"<br>\r\n<br>\r\nYou were shocked by the response. You knew that voice. It wasn't Matt, it was a cheerleader! Specifically, Jessica. She had been your crush for years, until you worked up the courage to talk to her. She proceeded to call you a skinny little nerd. And here you were, talking to her, while you were (presumably) turning into a girl.<br>\r\n<br>\r\n\"Um... I needed to, like, know what... day it is,\" you say, coming up with a horrible excuse.<br>\r\n<br>\r\n\"Well,\" responded Jessica. \"Yesterday we had school, but today we didn't. So it would be... Friday... then... Saturday! It's Saturday.\"<br>\r\n<br>\r\n\"Uh... like, thanks.\"<br>\r\n<br>\r\nYou hung up.<br>\r\n<br>\r\nNow, what type of transformation is next?</span></div></div>",
+            "created":1351918800,
+            "id":1459862,
+            "title":"You try to call your best friend for help"
+        },
+        "1451111211":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "You start thinking about your new group of friends, including your new boyfriend",
+                "You find that you now want to wear sexy, revealing girl clothing"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So the next mental change is...?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459865,
+            "title":"Mental change"
+        },
+        "14511112112":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Your closet is now full of girl clothing",
+                "You have the real sudden urge to go shopping."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do your current clothes transform into clothes for your upcoming new form, or do you have to go shopping?</span></div></span></div>",
+            "created":1352005200,
+            "id":1460470,
+            "title":"You find that you now want to wear sexy, reveal..."
+        },
+        "1451111212":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "You start to grow the girl parts that boys like to look at, breasts and butt",
+                "You find yourself getting the ideal cheerleader body"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is the physical change?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459867,
+            "title":"Physical change"
+        },
+        "14511112121":{
+            "author_id":"williamrn",
+            "author_name":"WRN",
+            "choices":[
+                "Play with your chest male hormones begin acting up badly",
+                "Body hair begin to vanish your body is now smooth"
+            ],
+            "content":"<div class=\"\"><div> <span>You suddenly start feel a slow painful tingling sensation happening to your chest ignoring it you take off your pajama top to see female buds appearing on your chest. The pain starts to grow more painful around your chest, you begin to hug your chest as you AA-cup breasts as it starts to expand further to BB-cups you start to feel aroused as the new sexual experience starts to take over your body. Soon your groin starts to go hard thanks to the breasts rubbing against your arms and male hormones at seeing breasts. As it stops your breasts are DD-cup. But soon the feeling comes back to your hips and ass. Your hips soon begin to widen as it begins to look feminine and soon your ass has expanded to look completely feminine.</span></div></div>",
+            "created":1423976400,
+            "id":1934059,
+            "title":"You start to grow the girl parts that boys like..."
+        },
+        "145111122":{
+            "author_id":"capitalism",
+            "author_name":"Capitalism",
+            "choices":[
+                "Put It On Well",
+                "Screw It Up"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You start looking in your bathroom and see your sisters makeup kit in the corner <br>\r\n\"No way\" You said but then you started thinking If I don't look good those others girls will try to take me down I hate those bitches </span></div></span></div>",
+            "created":1369198800,
+            "id":1595195,
+            "title":"You find the urge to put on some of the makeup ..."
+        },
+        "1451111221":{
+            "author_id":"fiiish",
+            "author_name":"thefish21",
+            "choices":[
+                "more mental changes",
+                "more physical changes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you put the makeup on as if you were doing this for a long time with no mistakes<br>\r\n<br>\r\n<br>\r\n<br>\r\nwhat happens next?</span></div></span></div>",
+            "created":1451883600,
+            "id":2084435,
+            "title":"Put It On Well"
+        },
+        "14513":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "A boy you like?",
+                "A girl you hate?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do you start gossiping about?</span></div></span></div>",
+            "created":1350709200,
+            "id":1450431,
+            "title":"You get a text from a girl you know and start g..."
+        },
+        "145131":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "don't care",
+                "find out what happens with you"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>but wait a moment, why do I like a boy from my school suddenly?</span></div></span></div>",
+            "created":1360040400,
+            "id":1524915,
+            "title":"A boy you like?"
+        },
+        "15":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "You're an inanimate object",
+                "You're a family member",
+                "You're an animal",
+                "You swap bodies",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else to change into?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421354,
+            "title":"Other"
+        },
+        "151":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Furniture",
+                "Electronic",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Furniture, or an electronic?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421607,
+            "title":"You're an inanimate object"
+        },
+        "1511":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "A chair",
+                "A stool",
+                "A table"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>??????????      </span></div></span></div>",
+            "created":1429506000,
+            "id":1967318,
+            "title":"Furniture"
+        },
+        "1512":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "An iphone",
+                "An ipod",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>???????????? </span></div></span></div>",
+            "created":1429506000,
+            "id":1967319,
+            "title":"Electronic"
+        },
+        "1513":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "An article of clothing",
+                "A doll",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else will you become?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459347,
+            "title":"Other"
+        },
+        "15131":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Bra",
+                "Panties",
+                "Sock"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>???????????      </span></div></span></div>",
+            "created":1429506000,
+            "id":1967317,
+            "title":"An article of clothing"
+        },
+        "15132":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Barbie",
+                "Ken"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you will become a Barbie doll. But who will you be? Barbie, or Ken?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459880,
+            "title":"A doll"
+        },
+        "151321":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "You sister, Jane",
+                "Your mother, Trish"
+            ],
+            "content":"<div class=\"\"><div> <span>You woke up in your sister's room.<br>\r\n<br>\r\n'What am I doing here?,\" you thought.<br>\r\n<br>\r\nYou tried to get up, but found that you couldn't move. And... did your skin feel almost... plasticiy? You tried talking, but found that you couldn't. Suddenly, the door opens.<br>\r\n<br>\r\nWho is it?</span></div></div>",
+            "created":1352005200,
+            "id":1460463,
+            "title":"Barbie"
+        },
+        "1513211":{
+            "author_id":"cartoon",
+            "author_name":"shadow",
+            "choices":[
+                "8",
+                "5"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How old is Jane?</span></div></span></div>",
+            "created":1360731600,
+            "id":1531653,
+            "title":"You sister, Jane"
+        },
+        "151322":{
+            "author_id":"cartoon",
+            "author_name":"shadow",
+            "choices":[
+                "Ken",
+                "Kelly"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you become Ken or will you become Barbies little sister Kelly?</span></div></span></div>",
+            "created":1359867600,
+            "id":1523562,
+            "title":"Ken or Kelly"
+        },
+        "152":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Household",
+                "Other relatives",
+                "Someone who is considered 'family'"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Household family? Or other relatives?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421594,
+            "title":"You're a family member"
+        },
+        "1521":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Mom",
+                "Dad",
+                "Little sister"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will you become?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421595,
+            "title":"Household"
+        },
+        "15211":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "She becomes your twin sister",
+                "She changes into your child"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And what will happen to your Mom as you become her</span></div></span></div>",
+            "created":1347771600,
+            "id":1429209,
+            "title":"Mom"
+        },
+        "152111":{
+            "author_id":"shifter98",
+            "author_name":"Greatshift98",
+            "choices":[
+                "In your room",
+                "In the guest room (reality change)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where do you wake up?</span></div></span></div>",
+            "created":1433048400,
+            "id":1985994,
+            "title":"She becomes your twin sister"
+        },
+        "15213":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Your new twin sister!",
+                "Your... older brother?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And what will your sister become?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459370,
+            "title":"Little sister"
+        },
+        "152131":{
+            "author_id":"gwarner",
+            "author_name":"Onlyonekey",
+            "choices":[
+                "5",
+                "10"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How old is your little sister, who you will soon be?</span></div></span></div>",
+            "created":1352091600,
+            "id":1461530,
+            "title":"Your new twin sister!"
+        },
+        "1521312":{
+            "author_id":"sauron1234",
+            "author_name":"sauron1234",
+            "choices":[
+                "Your sister's age is 10",
+                "Your sister is older than 10"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you sure she is aged ten, and not older?</span></div></span></div>",
+            "created":1480482000,
+            "id":2244091,
+            "title":"10"
+        },
+        "1522":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Grandma Patricia",
+                "Your mom's older sister, Aunt Joan",
+                "Your 3 year old cousin Bobby"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do you become?</span></div></span></div>",
+            "created":1347771600,
+            "id":1429211,
+            "title":"Other relatives"
+        },
+        "1523":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Your girlfriend",
+                "Your best friend",
+                "Your old babysitter"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will you become?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421596,
+            "title":"Someone who is considered 'family'"
+        },
+        "15231":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "She will become you!",
+                "She will become your twin!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will happen to your girlfriend as you transform?</span></div></span></div>",
+            "created":1349672400,
+            "id":1442865,
+            "title":"Your girlfriend"
+        },
+        "153":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Pet",
+                "Wild animal"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Pet, or wild animal?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421597,
+            "title":"You're an animal"
+        },
+        "1531":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Mammal",
+                "Reptile",
+                "Bird"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mammal, reptile, or bird?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421598,
+            "title":"Pet"
+        },
+        "15311":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you be a dog?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421640,
+            "title":"Mammal"
+        },
+        "153111":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Golden Retriever",
+                "Other breed"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of dog?</span></div></span></div>",
+            "created":1347771600,
+            "id":1429213,
+            "title":"Yes"
+        },
+        "1531111":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Your mom treats you to Dog Food in the morning, and you enjoy it!",
+                "You grow a longer dog tongue and drink water from the toilet bowl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And how do your changes start?</span></div></span></div>",
+            "created":1347944400,
+            "id":1430363,
+            "title":"Golden Retriever"
+        },
+        "15311111":{
+            "author_id":"born2beagator",
+            "author_name":"Reclusive Writer",
+            "choices":[
+                "Mom gives you a cup of water, but you can't figure out how to drink out of it.",
+                "You want more food."
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up from a restless night and head to breakfast, stomach grumbling.  You hope mom has something good this morning.<br>\r\n<br>\r\n\"Good morning boy, I have your favorite this morning!\"  Mom says, setting a bowl on the table.<br>\r\n<br>\r\nYou look in the bowl and see dog food.  \"What is this?\"  You ask.<br>\r\n<br>\r\n\"Trust me, try it.\"  Mom said with a smile.  <br>\r\n<br>\r\nShrugging, you pick of the spoon and try a mouthful.  It is crunchy...and delicious!  You find yourself spooning as much as you can as quickly as you can into your mouth.</span></div></div>",
+            "created":1424062800,
+            "id":1935459,
+            "title":"Your mom treats you to Dog Food in the morning,..."
+        },
+        "15311112":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "You walk on all fours!",
+                "You start barking at the mailman!"
+            ],
+            "content":"<div class=\"\"><div> <span>You roll out of bed, and travel to the bathroom. You were still half asleep, and didn't notice your tongue hanging out of your mouth. You lifted the toilet seat, and just as you were about to go, you sniffed the air. Something smelled good. You leaned down, and stuck out your tongue, now long and flat, like a dog's. You licked the toilet water, and stood up, not exactly realizing how strange it was. You went out of the bathroom.<br>\r\n<br>\r\nWhat will the next change be?</span></div></div>",
+            "created":1349240400,
+            "id":1439549,
+            "title":"You grow a dog tongue"
+        },
+        "153111121":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "The kitchen, expecting some delicious breakfast",
+                "The backyard, being in the bathroom reminded you that you need to go"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where do you walk on all fours to?</span></div></span></div>",
+            "created":1350882000,
+            "id":1452011,
+            "title":"You walk on all fours!"
+        },
+        "1531111211":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "She treats you like a dog",
+                "She treats you like a human"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You drop onto all fours, not finding it weird at all. You trotdownstairs to the kitchen, where your Mom is waiting for you.<br>\r\n<br>\r\nHow does she respond to you?</span></div></span></div>",
+            "created":1352005200,
+            "id":1460444,
+            "title":"The kitchen, expecting some delicious breakfast"
+        },
+        "15311112111":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Breakfast!",
+                "No time for that, you have to go to the bathroom!"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hi boy,\" said your mother, crouching in front of you.<br>\r\n<br>\r\nShe scratched you behind the ears, making kissing noises.<br>\r\n<br>\r\n\"Where's your collar? How'd you get those clothes on boy?'<br>\r\n<br>\r\nShe grabbed each of your clothes, and took them off. Soon, you were naked, and your mother left. Your long dog tongue hung out of your mouth as you whimpered. Your mother came back in, holding a collar. She put it around your neck, and rubbed the top of your head.<br>\r\n<br>\r\nWhat happens now?</span></div></div>",
+            "created":1352005200,
+            "id":1460458,
+            "title":"She treats you like a dog"
+        },
+        "153111121111":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "You start to realize something is wrong during your breakfast",
+                "You finish your breakfast, and mom (master) decides to take you for a walk"
+            ],
+            "content":"<div class=\"\"><div> <span>\"OK, boy, Breakfast!\"<br>\r\n<br>\r\nYou suddenly get very excited as your mother... your master? Anyways, whoever she was, she went to the counter and grabbed a big bowl of your dog food. It smelled so delicious to you, not realizing that your nose was starting to change, becoming wet and black, and more powerful in the process.<br>\r\n<br>\r\nYour mother/master/whoever put down the bowl and you jumped into it as soon as you could.<br>\r\n<br>\r\nBut in the back of your head, you knew something was off....</span></div></div>",
+            "created":1352005200,
+            "id":1460467,
+            "title":"Breakfast!"
+        },
+        "1531112":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "Terrier ",
+                "Some other breed"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay how about a terrier?</span></div></span></div>",
+            "created":1347771600,
+            "id":1429267,
+            "title":"Other breed"
+        },
+        "15311122":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "Poodle",
+                "Other Type of Dog"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this breed?</span></div></span></div>",
+            "created":1350709200,
+            "id":1450433,
+            "title":"Some other breed"
+        },
+        "153112":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Cat",
+                "Guinea pig"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Cat or guinea pig?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421641,
+            "title":"No"
+        },
+        "15312":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Iguana",
+                "Snake"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Iguana, or snake?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421642,
+            "title":"Reptile"
+        },
+        "153121":{
+            "author_id":"chrono1899",
+            "author_name":"Chronological Order",
+            "choices":[
+                "Eat breakfast. (veggies for you) ",
+                "Embrace some more. (still worried about you)"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up the next on a surface that is unfamiliar yet not entirely unwelcome, mulling this over in your head for a moment, you begin to focus more on the strangeness of the surface and lack of bed sheets. Suspicion growing, you decide to wake up and figure it out. Attempting to stand up, you begin shifting your legs and arms to get up, and try to push up off your elbows to achieve a vertical position, but failing because of your now suddenly green and reptilian arms. Blinking you begin to panic and thrash whipping your green and black stripped tail against the glass of the terrarium in a confused frenzy. <br>\r\nSuddenly, a voice that you didn't know called out in a surprised tone: \"Whoa,whoa! Calm down, whats wrong Boy?\" (or girl) and beginning to run his hand down your back cautiously. From what you could see, he was a man in his late teens, a mop of curly hair on his head and a very skinny, pale frame. He obviously didn't get out much. Even though you didn't even know his you felt safe with there and a strange sense of warmth filled your chest at his touch. You leaned into it, and proceeded to gently claw at his wrist, requesting to be picked up. He silently, gingerly, situated you over his shoulder and continued stroking your back. He then said, \"You sure seem cuddly after that tantrum. Are you sure your okay, Bud?\". You only responded by burying your face in the crook of his neck. You two then...<br>\r\n<br>\r\n </span></div></div>",
+            "created":1496638800,
+            "id":2331632,
+            "title":"Iguana"
+        },
+        "15313":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Songbird",
+                "Parrot"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Songbird, or parrot?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421643,
+            "title":"Bird"
+        },
+        "1532":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Mammal",
+                "Bird",
+                "Reptile"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mammal, bird, or reptile?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421599,
+            "title":"Wild animal"
+        },
+        "15321":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will you become a bear?</span></div></span></div>",
+            "created":1346821200,
+            "id":1421600,
+            "title":"Mammal"
+        },
+        "154":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Someone you know",
+                "Someone you've never seen, and don't know",
+                "Someone you've seen, but don't know"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will it be with?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459361,
+            "title":"You swap bodies"
+        },
+        "1541":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Your teacher",
+                "Your sister's best friend",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will it be?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459365,
+            "title":"Someone you know"
+        },
+        "15411":{
+            "author_id":"bfine2626",
+            "author_name":"Bfine2626",
+            "choices":[
+                "Mrs. Sansone ",
+                "Mrs, alvarez"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mrs. Sansone- 30 years old and teaches geometry, also happens to be maie and 7 months pregnant with twins<br>\r\n<br>\r\nMrs. Alvarez-32 years old, teaches art and photography, married, 8 1/2 months pregnant.</span></div></span></div>",
+            "created":1488344400,
+            "id":2283870,
+            "title":"Your teacher"
+        },
+        "1542":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "A little girl",
+                "A college student",
+                "An elderly man"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will it be?</span></div></span></div>",
+            "created":1352005200,
+            "id":1460483,
+            "title":"Someone you've never seen, and don't know"
+        },
+        "15422":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the student male or female?</span></div></span></div>",
+            "created":1352005200,
+            "id":1460484,
+            "title":"A college student"
+        },
+        "154222":{
+            "choices":[
+                "Choice 1",
+                "Choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>As you're getting ready for school in the morning, your vision fades and blacks out. When you wake, you're on the floor and very groggy. Trying to standing, you stumble into your bed and manage to get yourself into a sitting position.<br>\r\n<br>\r\nUpon examining yourself for bruises from falling, you are shocked to find a dainty figure with two B cups bound by tight red business attire. Feeling your face, you feel silky long locks and a soft feminine face confirming your fears. You've somehow become a beautiful redhead college girl.<br>\r\n<br>\r\n<a rel=\"nofollow\" href=\"https://images-cdn.9gag.com/photo/a0bqQNB_700b.jpg\" target=\"_blank\">https://images-cdn.9gag.com/photo/a0bqQN...</a><br>\r\n<br>\r\nFinding a black purse, you examine a drivers license for a Tanya Williams and a pink iPhone with the start of the fall college semester marked at two weeks away. Some paperwork on a desk shows you've been accepted as a finances and mathematics double major at the University of California.<br>\r\n<br>\r\nWith two weeks of summer break left, what do you do?</span></div></div>",
+            "created":1514005200,
+            "id":2431807,
+            "title":"Female"
+        },
+        "1543":{
+            "author_id":"bfine2626",
+            "author_name":"Bfine2626",
+            "choices":[
+                "Celebrity gender = male",
+                "Gender= female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Celebrities and what gender are you now?</span></div></span></div>",
+            "created":1488344400,
+            "id":2283873,
+            "title":"Someone you've seen, but don't know"
+        },
+        "15432":{
+            "author_id":"bfine2626",
+            "author_name":"Bfine2626",
+            "choices":[
+                "Very pregnant queen B",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Beyonce as she is pregnant with twins</span></div></span></div>",
+            "created":1488344400,
+            "id":2283874,
+            "title":"Gender= female"
+        },
+        "155":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "You are a girl stereotype",
+                "You are a mythical creature",
+                "More change options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could you be?</span></div></span></div>",
+            "created":1347944400,
+            "id":1430412,
+            "title":"Other"
+        },
+        "1551":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "You are the drunk redneck woman stereotype",
+                "You are the dark goth girl stereotype",
+                "More female stereotypes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of Girl Stereotype are you?</span></div></span></div>",
+            "created":1347944400,
+            "id":1430413,
+            "title":"You are a girl stereotype"
+        },
+        "15513":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "blond dumb",
+                "shy girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of Girl Stereotype are you?</span></div></span></div>",
+            "created":1348030800,
+            "id":1430914,
+            "title":"More female stereotypes"
+        },
+        "155132":{
+            "author_id":"credil",
+            "author_name":"Credil",
+            "choices":[
+                "16",
+                "Younger"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you still 16 years old?</span></div></span></div>",
+            "created":1360818000,
+            "id":1531858,
+            "title":"shy girl"
+        },
+        "1552":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "An ugly, green, slimey Troll",
+                "A Beautiful, White, Pure Unicorn",
+                "More Mythical Creatures"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What do you transform into?</span></div></span></div>",
+            "created":1347944400,
+            "id":1430450,
+            "title":"You are a mythical creature"
+        },
+        "15521":{
+            "author_id":"yoshikingll",
+            "author_name":"GoneToTheDogs",
+            "choices":[
+                "A Female Troll",
+                "A Male Troll"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And what kind of troll do you become?</span></div></span></div>",
+            "created":1347944400,
+            "id":1430451,
+            "title":"An ugly, green, slimey Troll"
+        },
+        "15522":{
+            "author_id":"cooling999",
+            "author_name":"cooling999",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What gender are you when you wake up?</span></div></span></div>",
+            "created":1491022800,
+            "id":2298411,
+            "title":"A Beautiful, White, Pure Unicorn"
+        },
+        "15523":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "A disgusting, tragic werewolf",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other mythical creatures can you become?</span></div></span></div>",
+            "created":1347944400,
+            "id":1430495,
+            "title":"More Mythical Creatures"
+        },
+        "155232":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "The horrible, deadly dragon",
+                "An old, wise wizard"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Any other transformations?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459933,
+            "title":"other"
+        },
+        "1552321":{
+            "author_id":"cooling999",
+            "author_name":"cooling999",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What gender are you when you wake up?</span></div></span></div>",
+            "created":1491022800,
+            "id":2298412,
+            "title":"The horrible, deadly dragon"
+        },
+        "1552322":{
+            "author_id":"ekka1",
+            "author_name":"hiiro",
+            "choices":[
+                "something else",
+                "keep going with the wizard"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>perhaps you want something else?</span></div></span></div>",
+            "created":1356584400,
+            "id":1495862,
+            "title":"An old, wise wizard"
+        },
+        "15523221":{
+            "author_id":"ekka1",
+            "author_name":"hiiro",
+            "choices":[
+                "kitsune fox",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>maybe this</span></div></span></div>",
+            "created":1356584400,
+            "id":1495863,
+            "title":"something else"
+        },
+        "1553":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "You will become a boy stereotype",
+                "You will become a strange alien",
+                "More choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What? More choices?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459350,
+            "title":"More change options"
+        },
+        "15532":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Already established",
+                "Custom"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will the alien already be established? Or your own creation?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459930,
+            "title":"You will become a strange alien"
+        },
+        "155321":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "A Xenomorph",
+                "A Wookiee"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which alien?</span></div></span></div>",
+            "created":1351918800,
+            "id":1459932,
+            "title":"Already established"
+        },
+        "1553212":{
+            "author_id":"dragus66",
+            "author_name":"Lord Draven",
+            "choices":[
+                "No, Wookie",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Or something else?</span></div></span></div>",
+            "created":1609350960,
+            "id":2966549,
+            "title":"A Wookiee"
+        },
+        "15532122":{
+            "author_id":"dragus66",
+            "author_name":"Lord Draven",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A Shroob? The aliens from Mario and Luigi Partner's in Time?</span></div></span></div>",
+            "created":1609351260,
+            "id":2966551,
+            "title":"Something else"
+        },
+        "155322":{
+            "author_id":"comiccow6",
+            "author_name":"Comiccow6",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How's this:<br>\r\n<br>\r\nShort and plump. Has two eyes, an two nostrils, no nose. Sharp teeth, a tail, and red scales. Three arms, two fingers on each hand.</span></div></span></div>",
+            "created":1351918800,
+            "id":1459967,
+            "title":"Custom"
+        },
+        "15533":{
+            "author_id":"warhammer10000",
+            "author_name":"prego",
+            "choices":[
+                "Pregnancy",
+                "Try another."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what about this?</span></div></span></div>",
+            "created":1352005200,
+            "id":1460479,
+            "title":"More choices!"
+        },
+        "155331":{
+            "author_id":"bfine2626",
+            "author_name":"Bfine2626",
+            "choices":[
+                "You get ready for your new job",
+                "You explore your body"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up and notice you are in a completely different bedroom. It is a much larger master bedroom and the sun is beginning to shine through the window. You are now laying in a a big king sized bed. A strange man is sleeping next to you in the bed. Rolling over onto your back, you notice a large hump under the covers. \"This is starting to get weird\" you think to yourself. You struggle to sit up because your weight has shifted drastically to the front of your body. Blonde strands of hair fall in front of your eyes. <br>\r\n<br>\r\n\"What is going on..\" You again think to yourself. <br>\r\n<br>\r\nYou are finally able to sit up and pull of the covers. You look down and see two huge, swollen, milk filled, d cup breasts laying on top of a gigantic pregnant belly. You get up and your center of gravity is completely different. You waddle over to the bathroom and you look in the mirror and see this. <a rel=\"nofollow\" href=\"http://s1175.photobucket.com/user/bfine2525/media/Pregnant/image_zpsc6wgrjqv.jpeg.html\" target=\"_blank\">http://s1175.photobucket.com/user/bfine2...</a>][IMG]<a rel=\"nofollow\" href=\"http://i1175.photobucket.com/albums/r625/bfine2525/Pregnant/image_zpsc6wgrjqv.jpeg\" target=\"_blank\">http://i1175.photobucket.com/albums/r625...</a>[/IMG][/URL]<br>\r\n<br>\r\nMemories fill your head and you are now 41 yeal old Katie fehlghner. You are a weather meterologist for a philadelphia news station. The giaant bump of a belly is because you are 30 weeks pregnant with twin girls. You rub your new belly And feel two kicks. The strange man who is now your husband comes over into the bathroom.<br>\r\n<br>\r\nWhat happens next?</span></div></div>",
+            "created":1451883600,
+            "id":2084394,
+            "title":"Pregnancy"
+        },
+        "155332":{
+            "author_id":"comics",
+            "author_name":"Duke FoxFire",
+            "choices":[
+                "You have no memory",
+                "Other "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does this work for you?</span></div></span></div>",
+            "created":1470718800,
+            "id":2193554,
+            "title":"Try another."
+        },
+        "1553321":{
+            "author_id":"jusakid",
+            "author_name":"MisterMan ",
+            "choices":[
+                "To your closet",
+                "To an old closet "
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up feeling totally blank. You try to comprehend what\u2019s going on you can\u2019t. You are scared because you aren\u2019t thinking anything. You don\u2019t remember who you are or where you are. Suddenly a girl walks in. \u201cMorning brother\u201d she says loudly, grinning evilly. \u201cWho are you?\u201d You say. \u201cI\u2019m just your big sister you love so much\u201d she says. You instantly believe her because you don\u2019t know better not to.\u201d I can tell you more about you\u201d your sister says. You nod heavily letting her know you want to know. She takes you...</span></div></div>",
+            "created":1514005200,
+            "id":2431812,
+            "title":"You have no memory"
+        },
+        "15533211":{
+            "author_id":"jusakid",
+            "author_name":"MisterMan ",
+            "choices":[
+                "Regular clothes ",
+                "Baby clothes "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is in your closet?</span></div></span></div>",
+            "created":1514005200,
+            "id":2431813,
+            "title":"To your closet"
+        },
+        "155332111":{
+            "author_id":"jusakid",
+            "author_name":"MisterMan ",
+            "choices":[
+                "For a boy",
+                "For a girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>For a girl or for a boy?</span></div></span></div>",
+            "created":1514005200,
+            "id":2431814,
+            "title":"Regular clothes "
+        },
+        "1553321112":{
+            "choices":[
+                "Reader choice 1",
+                "Reader choice 2"
+            ],
+            "content":"<div class=\"\"><div> <span>\"There are several outfits in this closet. Choose one that you like and you will receive a life that reflects upon your choice,\" your sister says.<br>\r\n<br>\r\nThere's a bikini, a dress, and some different sets of casual clothing.<br>\r\n<br>\r\nWhat do you choose?</span></div></div>",
+            "created":1514005200,
+            "id":2431820,
+            "title":"For a girl"
+        },
+        "155332112":{
+            "author_id":"jusakid",
+            "author_name":"MisterMan ",
+            "choices":[
+                "For a girl",
+                "For a boy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>For a boy or for a girl?</span></div></span></div>",
+            "created":1514005200,
+            "id":2431815,
+            "title":"Baby clothes "
+        },
+        "1553321121":{
+            "author_id":"jusakid",
+            "author_name":"MisterMan ",
+            "choices":[
+                "Takes you to the kitchen ",
+                "Let\u2019s you play with dolls "
+            ],
+            "content":"<div class=\"\"><div> <span>She opens the closet and you see all kinds of things. There are two bins to the right. One that has clean diapers and one that has dirty diapers. Up above on some hangers are various girly things. Some onesies, princess dresses, baby nighties and more. In the left corner there are tons of dolls and girly things. Your sister tells you that they are your things and all you can do is believe her. She picks out an extra pink princess dress and a thick diaper and walks over to a changing table you hadn\u2019t noticed before. She motions for you to lay down and you do.She takes off your clothes and diapers you. You then stand up and she helps you into the dress. She giggles as you stand there diapered and in a completely feminine dress. She then...</span></div></div>",
+            "created":1514005200,
+            "id":2431819,
+            "title":"For a girl"
+        },
+        "1553322":{
+            "author_id":"sasuke-sama",
+            "author_name":"Sasuke-sama",
+            "choices":[
+                "You are another being wearing the rubber mask and suit of your former self",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?</span></div></span></div>",
+            "created":1487912400,
+            "id":2281639,
+            "title":"Other "
+        },
+        "15533221":{
+            "author_id":"sasuke-sama",
+            "author_name":"Sasuke-sama",
+            "choices":[
+                "Anime character?",
+                "Other?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who  did you become Under the mask and suit?</span></div></span></div>",
+            "created":1487912400,
+            "id":2281644,
+            "title":"You are another being wearing the rubber mask a..."
+        },
+        "155332212":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "yes",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>maybe a girl?</span></div></span></div>",
+            "created":1496725200,
+            "id":2331975,
+            "title":"Other?"
+        },
+        "15533222":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "like this story",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>My name is John Saunders, I'm 14 years old. I live on the Gulf coast with my parents and my older sister Kate, who is only 11 months older than me. My best friends are Dan Johnson (14) and his cousin Becky Johnson (14). For the last few days, I've been feeling queasy and uncomfortable. My family and I thought it was just food poisoning. We're about to find out just how wrong we are.<br>\r\nBut let me start from the beginning:<br>\r\nIt was a nice sunny day on the Gulf Coast of Florida. I was spending the afternoon lounging by the pool with my sister Kate and my friends Becky and Dan. It was nice to be able to come outside for a change, I had been stuck inside the last few days with an inexplicable stomach bug; I spent the better part of yesterday throwing up. I was still feeling queasy but it was not anything I could not handle.<br>\r\nI walked outside from the kitchen with a pitcher of lemonade. As I made my way over to the pool, I heard Kate talking with the others about their plans for the weekend. Kate and I were not going to be doing much; we were stuck watching the house while our folks went out of town for my dad\u2019s 30th high school reunion. Becky and Dan were both going to a family reunion at their grandparent\u2019s house in Miami. I was mildly annoyed by that last part; because although I loved my sister and considered her to be a friend, I was bummed that I would only have her to hang out with this weekend.<br>\r\nAs I sat down on one of the chairs Becky, who was in the center of the pool, said, \u201cYou guys are lucky you\u2019re staying here this weekend.\u201d Swimming to the edge, she said, \u201cI\u2019d rather be here than listen to my family wonder why I don\u2019t have a boyfriend yet.\u201d<br>\r\n\u201cStop complaining about that, Beck.\u201d Sighing, Dan said, \u201cNana brought that up one time last Christmas and you\u2019re blowing it all out of proportion.\u201d<br>\r\n\u201cPut yourself in my position, Dan; I\u2019m the oldest girl in our generation, I\u2019m the only one old enough to be dating.\u201d Groaning, Becky said, \u201cJust once I\u2019d like Nana to find some fault with Christie and Meaghan; or hell, even you.\u201d<br>\r\n\u201cI\u2019m sure your grandma just looking out for what\u2019s best for you, Becky.\u201d Chuckling, I said, \u201cIf it makes you feel any better, I know you\u2019ll find a boyfriend soon.\u201d<br>\r\n\u201cThanks, John.\u201d Smiling, she said, \u201cI hope so.\u201d<br>\r\n\u201cI don\u2019t see what all the fuss is about dating.\u201d Climbing into the water, Kate said, \u201cI haven\u2019t had a boyfriend since middle school, and I\u2019m fine with it.\u201d<br>\r\n\u201cIf my mom heard you say that, she\u2019d say you\u2019ve got your priorities straight.\u201d Pausing, Dan said, \u201cShe doesn\u2019t want me dating until at least my junior year, so I can focus on school.\u201d<br>\r\n\u201cCan we please stop talking about our love lives?\u201d Getting up from my chair, I went over to the pool edge and jumped in. \u201cWe\u2019re only 14 years old; we have plenty of time to worry about dating.\u201d<br>\r\n\u201cJohn\u2019s right.\u201d Smiling, Kate said, \u201cRight now the only thing we have to worry about is who's going to win best 2 out of 3 in a game of chicken.\u201d<br>\r\nEveryone smiled at the mention of chicken. As Dan and Kate climbed into the water, I said, \u201cLet\u2019s make things interesting; Becky and me vs. Kate and Dan.\u201d<br>\r\n\u201cSounds like a plan to me.\u201d<br>\r\n</span></div></div>",
+            "created":1537938000,
+            "id":2554411,
+            "title":"Other"
+        },
+        "155332221":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "continue"
+            ],
+            "content":"<div class=\"\"><div> <span>The four of us played chicken for about an hour; with Kate and Dan eventually winning six games to nine. At that point, the weather was starting to turn ugly; and wind and rain for a developing tropical storm struck the coast. As we got out of the water, Becky said, \u201cWe\u2019ll have to do a rematch after Dan and I get back; in the mean time I have to change and get to the Peterson\u2019s house. I\u2019m supposed to be babysitting their daughter tonight.\u201d<br>\r\nI felt sorry for Becky when I heard that because Cyndi Peterson was a 5-year-old known for being rather hyperactive. \u201cGood luck with that, Beck.\u201d<br>\r\nAfter saying goodbye to Dan and Becky, I joined Kate inside. As I walked over to the fridge, Kate looked to me and said, \u201cAre you okay, John? You\u2019re still looking kind of green.\u201d<br>\r\n\u201cI think it\u2019s the chlorine smell from the pool, it\u2019s making me a little queasy.\u201d Grabbing a ginger ale from the fridge, I said, \u201cI\u2019m going to lie down for a little bit.\u201d<br>\r\n*******************<br>\r\nIt was not long before my folks came home from work; both of them soaked from walking to the front door in the rain. As he walked into the kitchen, dad turned to me. \u201cJohn, go check the crawl space and make sure water isn\u2019t pooling up under there like it did last time.\u201d<br>\r\n\u201cSure thing, dad; I\u2019ll grab a flashlight and check it out.\u201d<br>\r\nI made my way into the garage where there was an access door to the crawl space in the corner. Opening the door, I shined a light down and found that there was currently no water pooling up underneath. Relieved to see that, I walked back into the kitchen and informed my dad of the results.<br>\r\nWhile my mom got started on dinner, I joined Kate in the family room as she turned on the TV. Looking at me, Kate said, \u201cI don\u2019t know about you, but I\u2019m actually ready for school to start next week.\u201d<br>\r\n\u201cYeah, I\u2019m kind of ready myself.\u201d Sighing, as I turned on the TV, I said, \u201cAs much as school sucks, I\u2019m starting to get sick of staying home all the time.\u201d<br>\r\n\u201cSame here, but there's one reason I'm not looking forward to going back, and it's that bitch Kelly Henderson.\u201d Sighing in annoyance, Kate said, \u201cJust because she\u2019s on the cheer squad, she thinks she\u2019s the most popular girl in our grade.\u201d<br>\r\n\u201cA lot of the guys think she\u2019s attractive.\u201d Blushing slightly, I said, \u201cI\u2019ll admit I\u2019ve always had a thing for blondes.\u201d<br>\r\n\u201cPlease tell me you\u2019re joking.\u201d Shocked, Kate said, \u201cShe\u2019s stuck up and is a total slacker when it comes to school; she\u2019s the definition of a blonde. Thinking she can get by only on her looks. I worked with her on a group project last year and I ended up having to do the whole project by myself.\u201d<br>\r\n*******************<br>\r\nLater that evening, after the storm had abated somewhat, I was in my room chatting with my cousin Rachel on Skype. Despite being a year older than me and currently living in Virginia, we were close. I was telling her about my discomfort over the last few days and how it had not gotten any better in the last few hours.<br>\r\n\u201cI don\u2019t think that\u2019s because of Kate kicking you, John; if it was you would have gotten better by now.\u201d Pausing, Rachel said, \u201cSounds to me like you may have gotten a case of food poisoning.\u201d<br>\r\n\u201cI\u2019m not sure; to the best of knowledge I haven\u2019t eaten anything questionable.\u201d<br>\r\n\u201cI got to go, my mom is calling.\u201d Pausing, Rachel said, \u201cFeel better; I\u2019ll see you next month in the Keys.\u201d<br>\r\n</span></div></div>",
+            "created":1537938000,
+            "id":2554413,
+            "title":"like this story"
+        },
+        "1553322211":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "find out that it was not a dream",
+                "continue"
+            ],
+            "content":"<div class=\"\"><div> <span>A short time later, after saying good night to my folks, I went to my room to get ready for bed. Still feeling a little queasy from whatever had been affecting me the last few hours, I walked to the bathroom to grab an antacid. As I left the bathroom, I saw my mom walking up the stairs. She must have seen me come out of the bathroom, because she said, \u201cGetting ready for bed, honey?\u201d<br>\r\n\u201cYeah, I was just getting an antacid for my stomach; I\u2019m starting to feel queasy again.\u201d<br>\r\n\u201cI\u2019m starting to worry about this. If you\u2019re still queasy in the morning, I\u2019m taking you to the hospital.\u201d<br>\r\n\u201cOkay mom, thanks.\u201d<br>\r\n\u201cSee you in the morning.\u201d<br>\r\nI walked across the hall to my room and closed the door. <br>\r\nAfter changing into my pajamas, I climbed into bed. I soon fell asleep, with the thunder in the distance, unaware of how my life was about to change forever.<br>\r\n<br>\r\nAs I started to dream, I found myself sitting in the bleachers overlooking the football field at my school. Looking around at my surroundings, I saw several teens talking amongst each other a few rows up from me; while the cheerleaders were on the field warming up before practice. As I became aware of the surroundings more, I saw Kelly Henderson walk onto the field. It looked to me as if she was looking for someone; maybe one of the cheerleaders was missing.<br>\r\n<br>\r\nWithout warning, I suddenly felt the urge to stand up and walk away. After stepping onto the gravel in front of the bleachers, I barely made it 15ft before I heard Kelly\u2019s voice behind me. \u201cThere you are, Heather; come on, practice is about to start.\u201d<br>\r\n<br>\r\nTurning around, I saw Kelly waving as she walked in my direction. Shrugging it off, I turned and continued to run. It was not long before I felt someone\u2019s hand grab my arm and pull me around. I found myself face to face with the Kelly, who now looked quite annoyed about something. Pulling my arm back, I said, \u201cLet go of me, Kelly.\u201d<br>\r\n<br>\r\n\u201cHeather, you can\u2019t just leave before practice starts.\u201d Pausing, Kelly said, \u201cWe have a major competition next week, and you in particular need to practice your splits.\u201d<br>\r\n<br>\r\nBefore I could say anything else, Kelly started pulling me back in the direction of the football field. I tried to pull myself from her grip, saying, \u201cYou\u2019re nuts, Kelly; I\u2019m not a cheerleader.\u201d<br>\r\n<br>\r\nI soon realized how wrong I was, when I happened to look down and saw I was wearing a cheer uniform; complete with the school colors. Not only that, but I had somehow acquired the figure of a teenage girl. As Kelly pulled me towards the field, I caught my reflection in a nearby window. It was not that of a teenage boy, instead, it was that of an attractive brunette wearing a cheer uniform. Not only that, but she seemed to be mimicking my movements exactly.<br>\r\n<br>\r\nAs I started to realize the girl was somehow me, I woke up covered in sweat. Sitting up in bed, I thought to myself, \u201cWhat the hell was that about?\u201d<br>\r\n</span></div></div>",
+            "created":1537938000,
+            "id":2554415,
+            "title":"continue"
+        },
+        "15533222111":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "continue"
+            ],
+            "content":"<div class=\"\"><div> <span>I suddenly felt very nauseous; so I scrambled out of bed, only to fall flat on my face. As I sat up on the floor, I felt as if I was suddenly off balance somehow. The effect became more apparent when I stood up and walked towards the door; it was as if some extra weight was now on my chest.<br>\r\n<br>\r\nI carefully made way over to the door, only to stop when I saw something in the mirror. Unable to see clearly, I reached for the light switch and was shocked by what I saw in front of me. Staring back at my through the mirror was the reflection of the same girl from the dream; only she was now wearing pajamas that were too tight in certain areas.<br>\r\n<br>\r\nI started to panic when the reflection copied all my movements; I had somehow been turned into the girl from my dreams. As I slowly placed my hands on what I began to realize were my breasts, I screamed at the top of my lungs and promptly fainted.<br>\r\nFrom the noise I made my father was alarmed and stormed into my room: He sits next to me on my bed and wanted meu to explain why I screamed that loud?<br>\r\nI was thinking about to explain him my sudden change into a girl, but as he also addressed me as Heather like the others in my dream I was sure he thinks I am and always have been Heather, his daughter\u2026.<br>\r\nSince I am scared I decided not talking about this issue, and told my Dad that I only had a bad dream, which was not even a lie. My Dad promises that he is and will be there always for me. I thanked him and he leaves.<br>\r\n<br>\r\nHere I am all alone in my room, which was now kind of weird and bizarre, since it was still my room, a more or less but now changed along with my body into a typical young lady\u2019s room.<br>\r\nLooking into the mirror there was no more the man I used to be: <br>\r\nI totally have been replaced by a rather attractive young woman\u2026.<br>\r\nStill shocked I went back to my bed, still covered with some strange pajama\u2026.<br>\r\nAfter a while I realized that I was no longer dreaming and somehow this strange and scary dream must have become reality\u2026<br>\r\nIt was a weekend so no school and at around 11:00 I went downstairs to see my mum in the kitchen.<br>\r\nI only took out some plain t-shirt I found and some yoga pants:<br>\r\nMom saw me and said: \u201cHello darling you don\u2019t look good wearing that old t-shirt\u2026<br>\r\nI wanted to give this later to you, but here I got these for you.\u201d And mom handed me some bag from a typical fashion store for a teenage girls\u2026<br>\r\nI looked inside the bag and found some dress inside.<br>\r\n\u201cSorry about the color but they were on sale and you know we don't have much money, so sorry again.\u201d Said mom.<br>\r\nI did not want to hurt my mom\u2019s feelings, so I said: \u201cno this is fine, thanks mom\u201d. She smiled and we separated again. I knew that I had to wear this now and show it to mom, damn!<br>\r\n<br>\r\nBack in my room I had to see closer what my mother has bought. There was more than the dress inside the bag. Slowly I started to pull out two packs of cotton and lace pink thongs and a few matching bras.<br>\r\nAngry I just threw everything on the ground and went into my bed\u2026<br>\r\n<br>\r\nAfter a while your mom came by: \u201cSorry darling I have to go to work don't worry there is no rush it's Saturday but I thought you would like to get dressed into the new dress before your friend Dan arrives\u2026\u201d<br>\r\n<br>\r\nDamn, I suddenly started to remember that I had arranged something with Dan, my best friend for the weekend, but this was before I have unwillingly turned into a girl\u2026.But that appointment seems to be still valid\u2026.<br>\r\n</span></div></div>",
+            "created":1537938000,
+            "id":2554423,
+            "title":"find out that it was not a dream"
+        },
+        "155332221111":{
+            "choices":[
+                "Burst out laughing at what you are wearing ",
+                "Thinks you look nice"
+            ],
+            "content":"<div class=\"\"><div> <span>You get a shower then return to your bedroom and look at things on the floor and walked up to them and although you didn't want to put them on.<br>\r\n<br>\r\nTo be honest they didn't feel to bad, the next thing you know the door bell rings and you anwser it and see Dan standing there.<br>\r\n<br>\r\nHey Heather we still going to the cinema to watch Avengers, you quickly realised you are both just friends.<br>\r\n<br>\r\nHe then...</span></div></div>",
+            "created":1538110800,
+            "id":2555400,
+            "title":"continue"
+        },
+        "1553322211112":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "in the movie theatre",
+                "on the way",
+                "you are interupted - by your mom who complains about your outfit again"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He even thinks you look nice while you are wearing the most casual and tomboyish outfit you found among your changed wardrobe. He still must be your best friend and of course you still want to go to the movies to see this great Marvel block buster.</span></div></span></div>",
+            "created":1538110800,
+            "id":2555664,
+            "title":"Thinks you look nice"
+        },
+        "15533222111121":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "ha ha",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After a while you arrive in the movie theatre and Dan makes some comments about Captain Marvel, who is a girl!<br>\r\nHe said: \u201cI wish to see you in such a costume\u201d<br>\r\n</span></div></span></div>",
+            "created":1557850440,
+            "id":2659749,
+            "title":"in the movie theatre"
+        },
+        "15533222111122":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Continue ",
+                "Continue "
+            ],
+            "content":"<div class=\"\"><div> <span>On the way Dan stopped to tie up him shoe lace and you leaned against a wall and as Dan got up from tieing his shoe lace you moved away from the wall.<br>\r\n<br>\r\nAs you did you heard a ripping noise and looked down and realised that there was now a hole near your crotch area as a nail had been cought on your jeans as you moved away from the wall. <br>\r\n<br>\r\nDan looked around quickly and saw a shop across the road that sold clothes but it only sold dresses. <br>\r\n<br>\r\nYou both went in and explained the satiation to them and the girl behind the counter tried her best to find a tomboy dress. <br>\r\n<br>\r\nShe gave you <a rel=\"nofollow\" href=\"https://www.amazon.com/Lyrur-Womens-Sleeveless-Spaghetti-Straps/dp/B07C1JT5ZS?crid=WYAYBCI4AF80&amp;keywords=skater%2Bdress&amp;qid=1538386602&amp;s=Clothing&amp;sprefix=Skat&amp;sr=1-8&amp;ref=mp_s_a_1_8&amp;th=1&amp;psc=1#\" target=\"_blank\">https://www.amazon.com/Lyrur-Womens-Slee...</a>  and <a rel=\"nofollow\" href=\"https://www.amazon.com/Clothink-Women-Sleeve-Cropped-Cardigan/dp/B015MWXBIS?keywords=watermelon+red+cardigan&amp;qid=1538386902&amp;sr=8-16&amp;ref=mp_s_a_1_16#\" target=\"_blank\">https://www.amazon.com/Clothink-Women-Sl...</a> and you put them on and then you both left the went to the cinema.<br>\r\n<br>\r\nYou felt stupid wearing the dress but Dan tried his best to help you forget about you it.... </span></div></div>",
+            "created":1538370000,
+            "id":2557337,
+            "title":"on the way"
+        },
+        "155332221111221":{
+            "author_id":"rosenheim34",
+            "author_name":"rosenheimer",
+            "choices":[
+                "Dan makes a move on you",
+                "something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Some moments later the movie starts and you enjoy it and indeed you are almost forgetting that you are wearing a dress and a girl\u2026.But suddenly\u2026..</span></div></span></div>",
+            "created":1538370000,
+            "id":2557462,
+            "title":"Continue "
+        },
+        "1553322211112211":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Put a arm around you",
+                "Starts stroking your inner thigh "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Dan do... </span></div></span></div>",
+            "created":1538370000,
+            "id":2557541,
+            "title":"Dan makes a move on you"
+        }
+    },
+    "info":{
+        "author_id":"comiccow6",
+        "author_name":"Comiccow6",
+        "brief_description":"What happens when you wake one day feeling a bit strange? Now over 20,000 views!!!",
+        "created":1346844540,
+        "description":"<td align=\"left\" class=\"norm\">It was a normal day. You had breakfast, played some video games, rode your bike, had lunch, watched TV, had dinner, and went to sleep. But when you woke up, you felt... strange. What happened?<br>\r\n<br>\r\n<br>\r\nRules:<br>\r\nNo sex<br>\r\nNo death<br>\r\nSwearing allowed, but nothing too bad<br>\r\nNo weight gain<br>\r\nAnything is a change<br>\r\nHave fun!</td>",
+        "id":1889614,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1609351260,
+        "modified":1609351260,
+        "pretty_title":"Changes"
+    }
+}

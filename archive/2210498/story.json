@@ -1,0 +1,154 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "choices":[
+                "Card playing table. I could get some money.",
+                "The bar. There\u2019s a black haired girl over there. Maybe she\u2019s lonely?",
+                "The courtyard. I want to be alone.",
+                "The lounge. I\u2019m tired."
+            ],
+            "content":"<div class=\"\"><div> <span>(I toned down the stuff in the casino so its more \u2018young friendly\u2019)<br>\r\nYou walk into the casino and it\u2019s busy as usual. You walk around and admire your surroundings. The lights are sparkling, the air is filled with laughs and shouts, and there\u2019s a strong smell of drink in the air. There\u2019s a card playing table, the bar, an outdoor courtyard, and a lounge. Where do you go?<br>\r\n</span></div></div>",
+            "created":1579237200,
+            "id":2774756,
+            "title":"The Casino"
+        },
+        "11":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "choices":[
+                "Evens",
+                "Odds"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You head over to the table and get a hand. Looking over your cards, you decide to bet on your</span></div></span></div>",
+            "created":1579237200,
+            "id":2774758,
+            "title":"Card playing table. I could get some money."
+        },
+        "111":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "choices":[
+                "2",
+                "4",
+                "6"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What number?</span></div></span></div>",
+            "created":1579237200,
+            "id":2774759,
+            "title":"Evens"
+        },
+        "1112":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "choices":[
+                "Risk more",
+                "Try again"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You got tricked! Risk more money or try again?</span></div></span></div>",
+            "created":1579237200,
+            "id":2774761,
+            "title":"4"
+        },
+        "11121":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "choices":[
+                "2",
+                "6"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose carefully</span></div></span></div>",
+            "created":1579237200,
+            "id":2774762,
+            "title":"Risk more"
+        },
+        "111211":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "choices":[
+                "Yes"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You got your money back! Well played. Want to head to the bar?</span></div></span></div>",
+            "created":1579237200,
+            "id":2774765,
+            "title":"2"
+        },
+        "111212":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, you lost all your money. Try again?</span></div></span></div>",
+            "created":1579237200,
+            "id":2774763,
+            "title":"6"
+        },
+        "1113":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You lost! Try again?</span></div></span></div>",
+            "created":1579237200,
+            "id":2774760,
+            "title":"6"
+        },
+        "112":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "choices":[
+                "1",
+                "3",
+                "5"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose a number</span></div></span></div>",
+            "created":1579237200,
+            "id":2774766,
+            "title":"Odds"
+        },
+        "12":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "choices":[
+                "Water",
+                "Simple Galacti-Scotch (Non-Alcoholic)",
+                "Fish on the rocks (Alcohol)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You walk over to the bar and sit down near the girl, a seat between you two out of respect. She doesn\u2019t look at you, but sips her single fish on the rocks while watching the bartender serve others. What do you order?</span></div></span></div>",
+            "created":1579237200,
+            "id":2774767,
+            "title":"The bar. There\u2019s a black haired girl over the..."
+        },
+        "121":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "choices":[
+                "\u201cNo.\u201d"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide against alcohol and get a glass of water. The girl finishes her drink, leaving the fish untouched. \u201cYou know how long you stayin\u2019 here?\u201d</span></div></span></div>",
+            "created":1579237200,
+            "id":2774768,
+            "title":"Water"
+        },
+        "1211":{
+            "author_id":"kimshf",
+            "author_name":"Kimberly Fodor",
+            "choices":[
+                "\u201cSure.\u201d"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The girl chuckles, then turns to look at you, her black eyes glittering in the light. \u201cWell, I know a patrol will be heading around here soon, but until then, I can walk with you.\u201d</span></div></span></div>",
+            "created":1579237200,
+            "id":2774769,
+            "title":"\u201cNo.\u201d"
+        }
+    },
+    "info":{
+        "author_id":"kimshf",
+        "author_name":"Kimberly Fodor",
+        "brief_description":"You\u2019re visiting Cantonica and stop by the casino.",
+        "created":1579240980,
+        "description":"<td align=\"left\" class=\"norm\">So you\u2019ve arrived at the wonderful city of Canto Bight. Fan friggin tastic. Why are you there? I don\u2019t know. Anyway, you decide to go to the casino there for some reason, but I don\u2019t have any control over your decisions.</td>",
+        "id":2210498,
+        "image_url":"https://www.writing.com/main/images/action/display/ver/1579242429/item_id/2210498.jpeg",
+        "last_full_update":1579242420,
+        "modified":1579242420,
+        "pretty_title":"The Casino In Canto Bight"
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"ezone_69",
+            "author_name":"Ezone",
+            "choices":[
+                "Go to the house and unpack",
+                "Check out the stable",
+                "Go to the barn",
+                "You hear a commotion going on!",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>10<br>\r\n9<br>\r\n8<br>\r\n7<br>\r\n6<br>\r\n5<br>\r\n4<br>\r\n3<br>\r\n2<br>\r\n1<br>\r\n\"Congrats, you won! Thanks for using www.gov.auction.com\"<br>\r\n<br>\r\nYour amazed by the fact you just won! Not only that, but you practically stole it for $50k! You proceed to checkout, and arrange your move out to the farm. As a young guy, straight out of collage, this was the best opportunity you could have!<br>\r\n<br>\r\n2 weeks later...<br>\r\n<br>\r\n\"Hi! I'm Sandra, or San for short, and you are?\"<br>\r\n<br>\r\n\"I'm Nathan, but you can just call me Nate.\" You say to the agent showing you the farm.<br>\r\n<br>\r\n\"Nice to meet you Nathan, now I'm on a tight schedule, so I'll give you a quick run down. The house was built in the late 70s, 4bed. 3bath. 1 kitchen. The barn has a few cows and other animals, the stable has a few horses, and you have 2 farm dogs taking care of things, if you need anything, my number is on the kitchen table. Oh and don't let the animals surprise you.\" She says hopping into the helicopter.<br>\r\n<br>\r\n\"What do you mean by that?\" you say as the heli is about to take off.<br>\r\n<br>\r\n\"I'm sorry I can't hear you! My meetings at 9, I gotta go!\"<br>\r\n<br>\r\nAnd with that, Sandra left you at your new farm, with little to go with. Maybe this was going to be more than you expected it to be. Oh well, it's part of a life experience. What should you do now?</span></div></div>",
+            "created":1554023400,
+            "id":2637592,
+            "title":"Day 1"
+        },
+        "11":{
+            "author_id":"ezone_69",
+            "author_name":"Ezone",
+            "choices":[
+                "Sleep",
+                "Watch TV",
+                "Eat",
+                "Hold on. You hear something down stairs",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide the best thing to do at the moment is to go to your home, and unpack.<br>\r\n<br>\r\nThankfully the house is fully furnished, and it's only a couple of boxes, so unpacking will be easy. You get out you entertainment stuff, and hook up you video games, and TV in the living room. You bring the old tv to the basement, and continue what you were doing. You put away all your clothes, and put new bed sheets on the bed in your room, and that about does it!<br>\r\n<br>\r\nWhat should you do now?</span></div></div>",
+            "created":1554025620,
+            "id":2637598,
+            "title":"Go to the house and unpack"
+        },
+        "111":{
+            "author_id":"kitsunehunter",
+            "author_name":"Sojo",
+            "choices":[
+                "Second person",
+                "Third person (Anyone)",
+                "Third person (Reserved for Sojo)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I want to change things up a bit by giving the choice of keeping this in second person or switching to third person to allow some more diversity of characters.</span></div></span></div>",
+            "created":1569007320,
+            "id":2721220,
+            "title":"Sleep (branching path)"
+        },
+        "114":{
+            "author_id":"ezone_69",
+            "author_name":"Ezone",
+            "choices":[
+                "You charge into the kitchen!",
+                "You peek in the kitchen to see who's there",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You hear something down stairs, so you decide to rush down and see what it is!<br>\r\n<br>\r\nYou reach the living room, and hear someone rummaging about in the kitchen. Before you confront them, how do you want to approach this situation?</span></div></span></div>",
+            "created":1554352860,
+            "id":2639748,
+            "title":"Hold on. You hear something down stairs"
+        },
+        "1142":{
+            "author_id":"webscratcher",
+            "author_name":"webscratched",
+            "choices":[
+                "The farms dog searching for a snack",
+                "A cat digging through the fridge"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Deciding to stay hidden for the moment to see who\u2019s in the kitchen before you eventually would confront them seemed like the best strategy. Slowly opening the door, you peek inside the room.<br>\r\n<br>\r\nWho do you see in the kitchen?</span></div></span></div>",
+            "created":1554599100,
+            "id":2641078,
+            "title":"You peek in the kitchen to see who's there"
+        },
+        "11421":{
+            "author_id":"ezone_69",
+            "author_name":"Ezone",
+            "choices":[
+                "About to eat",
+                "About to make her rounds of the farm",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You peek inside the kitchen, and see a anthro border collie searching in the cabinets for food, but how could this be! There is no way this is real! You decide to pinch yourself to see if you were dreaming. To your surprise you feel the pain of your pinch, and you were quite certain you were not dreaming.<br>\r\n<br>\r\nAs for the dog in the kitchen, you decide to man up, and walk in.<br>\r\n<br>\r\nYou enter the kitchen and say to the dog. \"Umm. excuse me, who are you, and why are you in my house?\" The border collie turns around and looks at you with a smile. \"Oh! You must be the new owner of the farm! It's so nice to meet you!\" she says running to give you a hug. Your a little taken back by this, and you struggle a little. After a moment she breaks off the hug. \"Anyways I'm Hanna, I run most things around, and make sure that this farm is in working order.\" Your still a lite shook about all this, but at least you know what's going on. \"It's nice to meet you Hanna. I had no idea that this farm was. You know, like animal people.\" She just laughs at what you said \"haha that's our government, keeping everything under wraps. Anyways I was about to ____________, would you like to join?\"</span></div></div>",
+            "created":1556000940,
+            "id":2648741,
+            "title":"The farms dog searching for a snack"
+        },
+        "114212":{
+            "author_id":"webscratcher",
+            "author_name":"webscratched",
+            "choices":[
+                "Stable",
+                "Barn",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Sure. I just arrived and that seems like a nice way to get to know this place\", Hanna nods, \"It is. You also get to know most of the others, if they're awake that is. Some tend to sleep really long and either I or Sherry have to wake them up. But we can talk while walking\", you both go out the back, Hanna leading the way. <br>\r\n<br>\r\n\"So you mentioned Sherry. Is she also a border collie?\", \"No she's a husky. Right now she's sleeping though. We keep turns who stays awake at night, into the morning and who over the day into the night.\", \"So you had something happening before?\", \"No. This farm is so secluded from anything, it's a wonder the mailman comes out here even if it's just ads.\", that's true, it took you forever to get here. <br>\r\n<br>\r\n\"But I take my role as a guard dog for this farm very serious and so does Sherry. If something where to happen we'd be the first to know\".<br>\r\n<br>\r\nComing up to the _____, Hanna knocks and enters the _____ right after.</span></div></div>",
+            "created":1559441940,
+            "id":2667898,
+            "title":"About to make her rounds of the farm"
+        },
+        "115":{
+            "author_id":"ezone_69",
+            "author_name":"Ezone",
+            "choices":[
+                "Check out the farm",
+                "Check out the animals",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else should you do?</span></div></span></div>",
+            "created":1554540060,
+            "id":2640764,
+            "title":"Other"
+        },
+        "12":{
+            "author_id":"ezone_69",
+            "author_name":"Ezone",
+            "choices":[
+                "\"Ya I got a question?\"",
+                "\"Ok let's see someone else\"",
+                "\"I think I need to rap my head around things at the house\"",
+                "You pass out",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to look your new horses. You've never owned one before, so you might as well get learning now!<br>\r\n<br>\r\nYou enter the stable, and you see how big it is! It must be big enough for up to 20 horses!  Of course you doubt there's that many here. You look over to the stall left of you and see a horses rear end sticking out. You start walking over to the horse, and you say. \"Hey girl, i guess I'm the new farmer now.\" Letting it know your here. Then suddenly the horse stands up! Just like a human! You are completely shocked by this! How is this possible!<br>\r\n<br>\r\nThe horse just laughs and says. \"Ha, by the look of shock on your face, I imagine they didn't tell you about what type of animals live here. Anyways, I'm Jessica. It's nice to meet you!\" She says reaching out her hand for a handshake. You slowly reach out your shaky hand for the handshake. \"B-but how?\" You say very puzzled.<br>\r\n<br>\r\nShe leans against the wall and tells you what happened \"Well back in the 50s the government started experimenting on engendering super solders. They started putting animal DNA in humans to give them the animals abilities. It didn't work out too well, the budget was cut back to just this farm. And here they decided to put human DNA into animals to make them better workers. Then they were quit surprised when the first puppy came out looking quite human like. So after razing the pup into a kid, then an healthy adult, with no medical issues. They realized this was worth looking into, so they renovated this farm, and started breeding more humanoid animals, or as you might call us \"furries\" and seeing if we would end up being normal for a new race in society. It didn't turn out that way. Due to a lack of faith in the program, so now were just living our best out on this farm, it's a pretty sweet life.\"<br>\r\n<br>\r\n\"I never would have imagined the government would experiment with this stuff\" you say puzzled.<br>\r\n<br>\r\n\"Ya, but they've done weirder things before. Anyways any questions? Or do you want me to introduce you to some of us?\"</span></div></div>",
+            "created":1554184800,
+            "id":2638412,
+            "title":"Check out the stable"
+        },
+        "14":{
+            "author_id":"ezone_69",
+            "author_name":"Ezone",
+            "choices":[
+                "House",
+                "Barn",
+                "Stable",
+                "Forest",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You hear what sounds like something falling over. 'Must be the wind' you say to yourself. Then you hear screaming coming from somewhere. Where is it coming from?</span></div></span></div>",
+            "created":1554182160,
+            "id":2638396,
+            "title":"You hear a commotion going on!"
+        },
+        "145":{
+            "author_id":"reborner",
+            "author_name":"Reborner",
+            "choices":[
+                "Outhouse",
+                "Chicken Coop",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else could the screaming be coming from?</span></div></span></div>",
+            "created":1554210060,
+            "id":2638556,
+            "title":"Other"
+        },
+        "15":{
+            "author_id":"jcmsrules",
+            "author_name":"Gentle Giantess's Rule",
+            "choices":[
+                "He see's a 120ft tall Anthro Cat sleeping",
+                "He finds an anthro horse",
+                "There's two anthros talking about their new owner. (sneaky listening)",
+                "A mouse anthro finds Nate",
+                "He passes out for no reason. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Nate decides to look around the farm for a little bit. But once he goes behind the barn he finds something that blows his mind.<br>\r\n<br>\r\n<br>\r\n<br>\r\nWhat does he see?</span></div></span></div>",
+            "created":1554304860,
+            "id":2639228,
+            "title":"Other"
+        }
+    },
+    "info":{
+        "author_id":"ezone_69",
+        "author_name":"Ezone",
+        "brief_description":"Congrats on buying a farm from a \"off the books\" government auction! ",
+        "created":1554020520,
+        "description":"<td align=\"left\" class=\"norm\">Congratulations on buying a \"off the books\" government research farm! Thanks to budget cuts, your country can no longer afforded to do \"dumb\" experents, thankfully that means you just got a great deal on a new farm! Far from any civilization, you have total privacy!<br>\r\n<br>\r\nFeatures of this farm include.<br>\r\n<br>\r\n.1 big, 2 story farm house, compleat with basement<br>\r\n.1 stable<br>\r\n.1 barn<br>\r\n.5 acres of clear farm land<br>\r\n.2351 acers of surrounding land<br>\r\n.A river and a few creeks for lots of clean water<br>\r\n.1 helipad (helicopter not included)<br>\r\n.1 bunker/research lab(empty)<br>\r\n.8 solar panels for electricity<br>\r\n.2 sat dishes for internet and tv<br>\r\n.Undisclosed amount of animals<br>\r\n<br>\r\nHope you enjoy your new home! And pleas don't sue if anything goes wrong.</td>",
+        "id":2186774,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1569007320,
+        "modified":1569007320,
+        "pretty_title":"Anthro farm"
+    }
+}

@@ -1,0 +1,959 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "To find the treasure",
+                "To save the world (Or Destroy It)",
+                "To find the Golden Idol",
+                "To get out of the maze",
+                "More..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It's a Special Day. What do you need to do today?</span></div></span></div>",
+            "created":1156654800,
+            "id":521093,
+            "title":"Where to today?"
+        },
+        "11":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Through",
+                "Around"
+            ],
+            "content":"<div class=\"\"><div> <span>You set your ship down on the island and your crew sets the anchor. It's been many nights since you, the great pirate captain, set out to find the ancient treasure of Johny Depp- err.... Jack Sparrow!<br>\r\nYou can either go through the forest, or around it. Both ways should bring you in the right direction.<br>\r\n</span></div></div>",
+            "created":1156654800,
+            "id":342668,
+            "title":"Pirate Quest"
+        },
+        "111":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Attack him",
+                "Heed his warning"
+            ],
+            "content":"<div class=\"\"><div> <span>You lead your crew through the jungle, and suddenly, a barrage of arrows comes and kills most of your crew. As men fall and scream, you order all who stand to retreat. <br>\r\n<br>\r\nAs you rest on the beach, your numbers severely reduced, a dark skinned man in little clothing aproaches from the forrest.<br>\r\n<br>\r\n\"Get out.\" he moans.</span></div></div>",
+            "created":1157000400,
+            "id":343617,
+            "title":"Warning"
+        },
+        "1111":{
+            "content":"<div class=\"\"><div> <span>You raise your sword, and your pirates do the same and scream thier battle cry. \"Never get in our way!\" You all charge the man at once, and a barrage of arrows come from nowhere. Two minutes later, the beach has been littered with the bodies of your whole pirate crew... and yourself of course.</span></div></div>",
+            "created":1159765200,
+            "id":361012,
+            "title":"More Arrows"
+        },
+        "1112":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Kill Him",
+                "Run Away"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Not wanting to take any chances, you order your entire crew to step back, out of the forrest.<br>\r\n<br>\r\nUnfortunately, that's not what he meant. The man comes charging at you with an axe.</span></div></span></div>",
+            "created":1164258000,
+            "id":361005,
+            "title":"Misunderstanding"
+        },
+        "11121":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Kill Them",
+                "Run Away"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>BANG! One of your Crew members shoots him through the heart and he falls to the ground. All of a sudden, Two more men come out of the woods carrying axes.</span></div></span></div>",
+            "created":1164258000,
+            "id":361008,
+            "title":"Double Axes"
+        },
+        "111211":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>Suddenly, as you raise your shotgun, they throw the axes straight at you, chopping off your arm and leg. <br>\r\n<br>\r\nYour crew continues to kill the two axe bearers and run into the forrest to find your treasure. You just sit on the beach and die on blood loss. Too Bad.</span></div></div>",
+            "created":1164258000,
+            "id":361009,
+            "title":"Too much to Swallow"
+        },
+        "111212":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Investigate",
+                "Trust your Crew"
+            ],
+            "content":"<div class=\"\"><div> <span>As the Axe Bearers throw the axes at you, you duck and the axes pierce the skulls of two of your crew mates. You turn tail and run back to your ship. This is one treasure you just don't need.<br>\r\n<br>\r\nBack on the ship, your crew is plotting something.</span></div></div>",
+            "created":1164258000,
+            "id":361010,
+            "title":"Anchors Away!"
+        },
+        "1112121":{
+            "choices":[
+                "Do you investigate, hoping your mounting fear is unfounded?",
+                "Do you simply let it pass that the crew is tired and just wants more rest?"
+            ],
+            "content":"<div class=\"\"><div> <span>You notice your remaining crew seems to be avoiding you. You hear rumors of a mutiny, but you are also catching rumors that all is well. <br>\r\n<br>\r\nStill, you want to be careful. You have lost trust in those around you, but you really have no proof that you shouldn't trust them. <br>\r\n<br>\r\nYour crew hits the barracks in the ship early. You stay up, afraid to go to sleep. All remains quiet the next morning. In fact, every crew member is late for breakfast. You haven't heard a peep. <br>\r\n<br>\r\n</span></div></div>",
+            "created":1165726800,
+            "id":364627,
+            "title":"Back on the Ship"
+        },
+        "11121211":{
+            "author_id":"3oct1111",
+            "author_name":"Wendy",
+            "choices":[
+                "Next life"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're alone you look for you crew and cant find anyone. You're soon bored and killed, never knowing what happened to your crew, it haunts your soul</span></div></span></div>",
+            "created":1260939600,
+            "id":806634,
+            "title":"Do you investigate, hoping your mounting fear i..."
+        },
+        "111212111":{
+            "author_id":"3oct1111",
+            "author_name":"Wendy",
+            "content":"<div class=\"\"><div> <span>Many years later it's the present you have been reborn and are a modern archeologist named Jessica wright on a dig on that very same island. You find an ancient tome that worn that all whom step on this island with greed as their intent shall be taken to the afterlife, your colleges scoff at this but you somehow know it's true</span></div></div>",
+            "created":1260939600,
+            "id":806635,
+            "title":"Next life"
+        },
+        "11121212":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Turn back and save them",
+                "Keep going"
+            ],
+            "content":"<div class=\"\"><div> <span>That was one hectic encounter. No man could still have his appetite after losing so many crewmates, only to leave the island empty handed. You eat alone, but leave plenty of food for when your crew finally decides to eat. <br>\r\n<br>\r\nWhen you go up deck, you find the row boats are missing. In the distance, you see your crew rowing back to the island.</span></div></div>",
+            "created":1208322000,
+            "id":520737,
+            "title":"Abandonment"
+        },
+        "111212121":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Back into the forest",
+                "Along the beach"
+            ],
+            "content":"<div class=\"\"><div> <span>They're your crew, damn it! No one leaves the crew without the Captain's permission. So, it's up to you to save them from an innevitable death.<br>\r\n<br>\r\nYou turn the ship around, and bring it back to the island. When you arrive, you see a set of footprints leading into the forest. A second set of footprints follow the beach around. The crew must have split up.</span></div></div>",
+            "created":1208322000,
+            "id":520741,
+            "title":"Turn back and save them"
+        },
+        "1112121211":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>Your entire crew was almost wiped out in there. The ones on the beach will be safe, the ones who needed saving are the ones who went back into the forest. You sprint through the forest, hollering the names of the crew. You attract a lot of attention. A minute later, you're surrounded and taken captive. You jumped to conclusions. The footprints leading into the forest were the old ones from the day before. You should have known your pirate crew was smarter than to make the same mistake twice.<br>\r\n<br>\r\n<br>\r\nWell, the Crew was smart enough. Can't say the same for the captain.</span></div></div>",
+            "created":1208322000,
+            "id":520743,
+            "title":"Same mistake twice"
+        },
+        "1112121212":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Aproach the ship",
+                "Hide behind a rock"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Fools!\" you yell. They went into the forest. You were all lucky enough the first time, but there's no way they could have survived a second onslaught by the natives. You have to save the ones who still live.<br>\r\n<br>\r\nYou dash along the beach, until a black flag catches your eye. Another Pirate Ship!</span></div></div>",
+            "created":1208322000,
+            "id":520746,
+            "title":"Enemies sighted"
+        },
+        "11121212121":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You run up to the ship. You're shot by their Captain on sight.<br>\r\n<br>\r\nSeriously, WOW. That was a smart move. If you were still alive, you would definitely be a world renown strategist. </span></div></span></div>",
+            "created":1208322000,
+            "id":520748,
+            "title":"Dummy"
+        },
+        "11121212122":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Chase down the enemy pirates",
+                "Save the ship"
+            ],
+            "content":"<div class=\"\"><div> <span>You duck behind a rock before you're sighted. <br>\r\n<br>\r\n\"Who was that?\" says one man.<br>\r\n<br>\r\n\"I saw another ship earlier. It must have docked on the other side of the island.\"<br>\r\n<br>\r\n\"Go burn it down!\" yells the Captain. \"Everyone else, let's go after the treasure!\"<br>\r\n<br>\r\nThe Captain and his band enter the forest. There doesn't seem to be any other path to the treasure. You'll have to go in eventually. But still, they're sending men to burn your ship! Rescuing the crew and getting the treasure is pointless if you're trapped on the island.</span></div></div>",
+            "created":1208322000,
+            "id":520749,
+            "title":"Hide behind a rock"
+        },
+        "111212121221":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Request a duel",
+                "Attack him now"
+            ],
+            "content":"<div class=\"\"><div> <span>And escaping without your crew is a path without honor. Your crew is closer than family. No matter what, you will NOT abandon them! <br>\r\n<br>\r\nYou leap out and run through the crowd of pirates, slashing at them with your sword as you run. They're all caught off guard, and get knocked over. You lunge at the Captain, who turns and catches your your sword with his hook. \"Well, well, well, What have we here?\" He lowers your sword, and stands face to face with you. </span></div></div>",
+            "created":1208322000,
+            "id":520753,
+            "title":"Chase down the enemy pirates"
+        },
+        "1112121212211":{
+            "author_id":"kecleon352",
+            "author_name":"Metamorphosis",
+            "choices":[
+                "Be patient and wait for him.",
+                "The lives of your crew are at stake. Get him now!"
+            ],
+            "content":"<div class=\"\"><div> <span>You growl at the other captain. You have to admit, he's good. Suddenly, an idea pops into your head. You look him straight in the eye. \"I challenge you to a duel.\" You said without wavering.<br>\r\n<br>\r\nSuddenly, the entire pirate crew burst out laughing. The captain laughed hardest of all. \"You want to duel? With me? For what?\" <br>\r\n<br>\r\nYou stared at him dead serious. \"For burning down my ship. That's what. If I win, you relinquish your crew and your ship to me.\"<br>\r\n<br>\r\nThe captain growled at you. \"Fine. But if I win, you're dead.\" The crew started to clamor excitedly. \"Do we have a deal, then?\"<br>\r\n<br>\r\nYou nodded. \"We do.\" The captain pulled out a large scabbard from his side. You held your sword at ease as you began to circle each other. <br>\r\n<br>\r\nBut, should you wait for him to make the first move, or should you?</span></div></div>",
+            "created":1395169320,
+            "id":1762399,
+            "title":"Request a duel"
+        },
+        "111212121222":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>If the ship burns, your crew will be trapped on the island! The ship comes first! You dash after the men carrying torches, and tackle them. The torches extinguish as a wave comes and splashes over them. <br>\r\n<br>\r\nIt's too late though, as you stare down the coast, you see five more men throwing torches at the ship. They slipped past you without you noticing.<br>\r\n<br>\r\nAs the ship burns into the ocean, so do your hopes of escape.</span></div></div>",
+            "created":1208408400,
+            "id":521089,
+            "title":"Burning hope"
+        },
+        "111212122":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>They decided to leave the crew in search of treasure. It's not your fault they're probably going to die. You continue sailing on, and recruit new mates at the next port. Maybe this time, your crew won't turn on you the second you set foot on the island...</span></div></div>",
+            "created":1208322000,
+            "id":520738,
+            "title":"New Crew"
+        },
+        "1112122":{
+            "author_id":"roselessthorn",
+            "author_name":"Rose Saunders",
+            "content":"<div class=\"\"><div> <span>They are your crew, so you decide to trust them.<br>\r\n<br>\r\nYou forget, though, that your First Mate has always been ambitious. That night he slits your throat in your sleep and takes your treasure, your ship, and your glory.<br>\r\n<br>\r\nThat\u2019s what you get for trusting pirates.</span></div></div>",
+            "created":1165208400,
+            "id":363386,
+            "title":"Mutiny!"
+        },
+        "11122":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>You don't feel like dealing with this man. You and your crew hustle on to the ship and try to set sail. You need to get away from the island.<br>\r\n<br>\r\nFive hundred feet away from the shore, you never saw the man sneak aboard, and slit your neck when he got the chance.</span></div></div>",
+            "created":1164258000,
+            "id":361011,
+            "title":"Stealthy Cut"
+        },
+        "112":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>You lead your crew around the forrest. It didn't look safe. A good captain should protect his...<br>\r\n<br>\r\nYou watch on as your ship sails away, loaded with your treasure, and different pirates you've never seen. It was a trap. Pirates came searching for treasure and thier boat was hijacked. Then the next time someone came searching, the stranded pirates did the same. <br>\r\n<br>\r\nWell, such a well known treasure would atract somebody soon, hopefully.</span></div></div>",
+            "created":1157000400,
+            "id":343619,
+            "title":"Stranded"
+        },
+        "12":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Left to the Deadly Swamp",
+                "Right to the peaceful village",
+                "I want to be Vilian!   ~ALTERNATE STORY~"
+            ],
+            "content":"<div class=\"\"><div> <span>Your name is Hero. You Have been given the duty to save the the world from the evil clutches of the evil mastermind, Vilian. You set out through your village to begin your quest, possibly never to return home again. <br>\r\n<br>\r\nYou come to a fork in the road. Right leaves the village and heads through a Swamp. Left continues through the village, but doesn't go anywhere useful.<br>\r\n<br>\r\n<br>\r\n<b>Alternatively, you can choose to be Vilian instead.</b></span></div></div>",
+            "created":1156654800,
+            "id":458060,
+            "title":"Hero vs. Villian"
+        },
+        "121":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Bridge",
+                "Vine"
+            ],
+            "content":"<div class=\"\"><div> <span>You trudge through the swamp. After discovering the muck sticks to your boots, you hop along a set of rocks and stick to dry land. <br>\r\n<br>\r\nIt's not long before you find yourself at a cliff. Theres an old bridge that looks like it could fall apart any second. Theres also a vine you could use to swing yourself across.</span></div></div>",
+            "created":1157173200,
+            "id":343849,
+            "title":"Mucky Muck"
+        },
+        "1211":{
+            "author_id":"jacknife78",
+            "author_name":"Jacknife78",
+            "choices":[
+                "You use your sword to push it off the side of the bridge",
+                "You hack the snake to bits"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to take your chances with the bridge.  While it looks old and rickety, it is actually quite sturdy and apon closer inspection you see that it is made from elvin wood.<br>\r\n<br>\r\nAt the end of the bridge, you see a snake blocking your path.  By its coloring, you can tell that it is a poisonious viper.  You pull your sword out of its sheath.  Nothing will stand in between you and Villian</span></div></div>",
+            "created":1157259600,
+            "id":344294,
+            "title":"Sturdy Bridge"
+        },
+        "12111":{
+            "author_id":"me_duh_inc",
+            "author_name":"me_duh",
+            "choices":[
+                "Investigate the disturbance",
+                "Ignore it once again and move on"
+            ],
+            "content":"<div class=\"\"><div> <span>The snake makes no attempt to strike you as you approach it. <i>There is no need to kill the creature</i> you think. After all, if you went around killing things without them attacking you first, well, then you what kind of hero would you be? Carefully you use your sword to push the snake off the bridge, out of your way, and onto solid ground. Immediately it slithers away into some nearby bushes, and you resheath your sword. <br>\r\n<br>\r\nAs the sound of leaves rustling as the slender body of the snake travels through their resting place and moves on, you continue on your way. Best not to waste any time; there is no telling the amount of havoc Villian could wreak if you do not reach him soon. <br>\r\n<br>\r\nWith the sun high in the sky and mercilessly beating down on you, you hope for some shade and a place to rest your feet. You pull the gourd from your waist and sip the cool water. However, as you retie it to your belt you notice a slight movement in the tall grass a short distance down the road. This area is often filled with animals. <i>Perhaps another snake. I wouldn't be surprised</i> you muse as you choose to ignore the disturbance and carry on with your quest. <br>\r\n<br>\r\nWhen you see movement again, this time accompanied with an unusual sound, you're not so sure a simple snake or rabbit or bird could be responsible.</span></div></div>",
+            "created":1159678800,
+            "id":350007,
+            "title":"A Disturbance"
+        },
+        "121111":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>You aproach the bush where the sound is coming from, and push it's leaves aside. Suddenly, You black out.<br>\r\n<br>\r\nWhen you wake up, it's dark, torchlight barely makes it visable. You get a look at the people securing you to the wall. Goblins.<br>\r\n<br>\r\nFor Twenty Years, the goblins kept you chained up, for no reason you could think of. When you finally escape, an older man, the world is a little more evil. Should have been more careful, and stopped Villian!</span></div></div>",
+            "created":1164258000,
+            "id":363282,
+            "title":"Twenty years pass..."
+        },
+        "121112":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Kill The First One",
+                "Kill The Second One"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to merely ignore it, as it's no threat to you. However, you still run past. Eventually, the bright sun tells you that you're almost out of the swamp.<br>\r\n<br>\r\nNo sooner than you had stepped out of the swamp, Two hooded men aproach you.<br>\r\n<br>\r\n\"Hero! This man is evil!\"<br>\r\n\"No Hero, That man is evil!\"<br>\r\n\"Don't listen to him! He's trying to trick you!\"<br>\r\n\"No! He's the evil one!\"<br>\r\n\"Cut him down before he kills us all!\"<br>\r\n\"No Hero, Do the Right thing and Kill Him!\"<br>\r\n<br>\r\nTime To chose.</span></div></div>",
+            "created":1164258000,
+            "id":361016,
+            "title":"Mystery Men"
+        },
+        "1211121":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>You raise your sword once more, and slash at the first man across the face. \"Nooooo!!\" He yells out as his head splits in two, and black blood splatters your clothes.<br>\r\n<br>\r\n\"You picked right. Thank you.\" The hooded man says. \"Come to my home so we can rest.\"<br>\r\n<br>\r\nYou go to follow the man, but suddenly, to both of your surprise, a huge black tentacle extends from the body of the dead man! <br>\r\n<br>\r\nBefore you had time to react, It dragged you back into the swamp, and you never emerged again... </span></div></div>",
+            "created":1165122000,
+            "id":363216,
+            "title":"Correct Choice"
+        },
+        "1211122":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Cut the Claw",
+                "Duck Down"
+            ],
+            "content":"<div class=\"\"><div> <span>You slash up and down at the second man. Red blood splatters all over you as you realize what you'd done. You killed the wrong one! You drop his dead body to the ground carefully and turn around.<br>\r\n<br>\r\n\"Muahahahahahaha!\" The first man laughs, as his hands turn into claws, horns shoot out of his head, and a gruesome tail apears behind him. His skin was now Black like coal.<br>\r\n<br>\r\nHe Swings an oversized claw at you, coming in from the right.</span></div></div>",
+            "created":1165122000,
+            "id":363250,
+            "title":"Wrong Choice"
+        },
+        "12111221":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Dark",
+                "Light"
+            ],
+            "content":"<div class=\"\"><div> <span>You hold up your blade as the claw comes at you, and it gets caught up against it. \"I'll never lose to you!\" you say, wanting to make up for what you did.<br>\r\n<br>\r\nThe monster pulls back hs arm in pain. You leap upward and cut him right down the center. Both halves drop to the ground.<br>\r\n<br>\r\nSuddenly, the bodies of both of the dead men stand up, dripping with blood.<br>\r\n<br>\r\n\"You want to be a Hero.\" The Demon man says.<br>\r\n<br>\r\n\"But being a Hero isn't always right.\" The old man warns.<br>\r\n<br>\r\n\"Darkness is the power to do what you need to.\"<br>\r\n<br>\r\n\"But Light is the power to do what you have to.\"<br>\r\n<br>\r\nBoth men hold up a necklace, glowing black and white consecutively. \"Choose your path.\" The both say. \"Light, or Dark.\"<br>\r\n<br>\r\n<b>Both Choices are right, but will drasticly change the direction of the story.</b><br>\r\n<br>\r\n</span></div></div>",
+            "created":1165122000,
+            "id":363219,
+            "title":"Dark, Or Light"
+        },
+        "121112211":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Enter it",
+                "Turn Around and Leave"
+            ],
+            "content":"<div class=\"\"><div> <span>You take the black amulet from the demon, and both of the men fade into the ground, rotting to dust. \"Be wary, Hero.\"<br>\r\n<br>\r\nYou place the necklace around your neck, and suddenly, everything changes. Pitch Black armor covers your entire body, and your left arm transforms into a giant, spiked, clawed one. Your sword becomes thick, black, and heavy. Darkness is pouring straight from it.<br>\r\n<br>\r\n\"What has happened?\" you say, noticing you're no longer outside the swamp, but standing in front of a big gate surrounded by fire.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1165122000,
+            "id":363222,
+            "title":"Dark Hero"
+        },
+        "1211122111":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>You take your new sword with both hands, and slash down the big wooden doors that blocked the gate off. Soon as it's open, the flames rush out, and engulf you imiediately. <br>\r\n<br>\r\nThe fire didn't seem too bad, but what really got you, were the flaming crocodile's that were camoflaged in the fire. You never noticed until it was too late.</span></div></div>",
+            "created":1165122000,
+            "id":363228,
+            "title":"Gate of Flames"
+        },
+        "1211122112":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Run up it's arm",
+                "Attack the Ruby"
+            ],
+            "content":"<div class=\"\"><div> <span>Seeing it stupid, and immature to jump into a Gate of Flames, you turn around and leave. However, a wall of fire soon blocks your path.<br>\r\n<br>\r\nYou look back to the root of the walls, the gate, and see what is emerging. A Giant. But no ordinary giant. This giant is on fire.<br>\r\n<br>\r\nThe giant slowly reaches at you with a giant flaming hand. The flames seem to be coming from a Ruby ofthe bracelet on it's wrist.</span></div></div>",
+            "created":1165122000,
+            "id":363230,
+            "title":"Flaming Giants"
+        },
+        "12111221121":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>When the fist slams into the ground, you leap on top of it, and start to run up it's arm. You get almost up to the shoulder, when the other hand comes at you. <br>\r\n<br>\r\nSPLIIIII!!<br>\r\n<br>\r\nYou cut the hand off, as it grabs you, and it starts hurdling toward the ground, with you in it's grip.<br>\r\n<br>\r\nYou didn't realize how high up you were.</span></div></div>",
+            "created":1165122000,
+            "id":363253,
+            "title":"Ramp and Fall"
+        },
+        "12111221122":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Right Tower",
+                "Left Tower"
+            ],
+            "content":"<div class=\"\"><div> <span>You run enderneath the giant's wrist and swing your dark blade across the Ruby, splitting it in two. The giant suddenly extinguishes, and falls over, deystroying the gate. All the flames clear, and you're on top of a building. <br>\r\n<br>\r\nDark clouds spewing lightning loom overhead. Two towers stand tall in the middle of the roof. \"Villian...\" You say. You must be in his castle.<br>\r\n<br>\r\nYou aproach one of the towers, and get ready to face your nemisis.</span></div></div>",
+            "created":1165122000,
+            "id":363252,
+            "title":"Flames Clear"
+        },
+        "121112211221":{
+            "choices":[
+                "Ignore your gut feeling; you've never had good intuition",
+                "Take one of the other doors and be safe."
+            ],
+            "content":"<div class=\"\"><div> <span>You enter the right tower, where you see three doors surrounding you: one straight ahead, one to the left, and one to the right. You have a feeling that the one on the right doesn't lead to Villain, but it is dangerous and could still kill you. You aren't sure about the other two, though.</span></div></div>",
+            "created":1181797200,
+            "id":416307,
+            "title":"Three Doors"
+        },
+        "1211122112211":{
+            "author_id":"closeknight",
+            "author_name":"CloseKnight",
+            "choices":[
+                "Villian",
+                "A Harmless Looking Creature"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk through the right door to find that there are torches lighting the room. the door closes behind you and disappears.You start walking and 5 gigantic swords swing from the ceiling. You roll away and get caught in a rain of darts. You put your claw in front of your face and the darts get deflected. you finally get to the other side and open the door. You see...</span></div></div>",
+            "created":1193202000,
+            "id":456608,
+            "title":"The danger room leads to Villain? or maybe not!"
+        },
+        "12111221122111":{
+            "author_id":"hurttoto",
+            "author_name":"^HURTTOTO^",
+            "choices":[
+                "you win",
+                "you lost"
+            ],
+            "content":"<div class=\"\"><div> <span>\"SO you FOUND ME EH?\" he says as he takes off his cloak and reveals to be a glowing floating yellow triangle with one Eye<br>\r\n<br>\r\n\"might as well not bother telling you my name its too late any ways once the spell is complete oh and dont even think about rewinding time again yes i know your abilities as long as you are here you cant use that ability\" he says HAHAHHAHAHAHAHAHAHAHAHAA<br>\r\n<br>\r\n<br>\r\nnarrator:(runs)\"This is the finale the final battle<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<b>By the way if you lose this story collapses</b></span></div></div>",
+            "created":1480533780,
+            "id":2244058,
+            "title":"Villian"
+        },
+        "12111221122112":{
+            "choices":[
+                "Order the dragon to release the harmless creature.",
+                "Run to the door on the other side and leave."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The harmless looking creature is being attacked by a Dragon. The dragon matches your armor but, looks like it wants to kill you.<br>\r\n<br>\r\nWhat do you do</span></div></span></div>",
+            "created":1296709200,
+            "id":1046912,
+            "title":"A Harmless Looking Creature"
+        },
+        "121112211221121":{
+            "choices":[
+                "Take the offer.",
+                "Don't take it and kill her."
+            ],
+            "content":"<div class=\"\"><div> <span>You order the dragon to release the harmless creature. It obeys completely willingly. Then you see the harmless creature turn in to an old lady. She's a witch. You have a strong will to kill her but, before you do, she asks you a question. \"Hero. I know that the darkness inside you is telling you to kill me. Since you know i'm a witch I will grant you an offer for saving me. I will take away the evil inside of you and leave the power and disguise of it, but, also allow you to have the power of light.\"</span></div></div>",
+            "created":1296709200,
+            "id":1046914,
+            "title":"Order the dragon to release the harmless creature."
+        },
+        "1211122112211211":{
+            "choices":[
+                "Disguise it as a necklace",
+                "Disguise it as a book"
+            ],
+            "content":"<div class=\"\"><div> <span>You accept her offer and the Witch drains out your darkness. You immeditely feel enlightened and happy. <br>\r\n\"You need to disguise the darkness so no one else can find it and use it for themselves.\" <br>\r\nYou think about how you should disguise the darkness....</span></div></div>",
+            "created":1356121980,
+            "id":1492259,
+            "title":"Take the offer."
+        },
+        "12111221122112111":{
+            "author_id":"dekarserverbot",
+            "author_name":"EveryoneKtoA",
+            "content":"<div class=\"\"><div> <span>You decide that it can be easier to hide your darkness in a little necklace than in a sturdy book.<br>\r\nToo bad that necklaces trend to be both tempty and easy to wear. A fellow random adventurer arrived a few minutes after you made your choice and put on the necklace nexdragothe fallen dragon.<br>\r\nAfter doing this, all you could felt was a cool sharp object piercing your back, seconds later tour throat was cut and a new vilian has born.</span></div></div>",
+            "created":1493658180,
+            "id":2313561,
+            "title":"A gold necklace..."
+        },
+        "12111221122112112":{
+            "author_id":"dekarserverbot",
+            "author_name":"EveryoneKtoA",
+            "choices":[
+                "one of Nietzche writtings",
+                "one of Stephanie Myer writtings"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide going for the cliche book. This evil book was not your typical ancient book with yellow pages and a leather cover with gold ornaments. In fact, the book looked like a new generation mass produced book.<br>\r\nThe witch made one last request: \"you must choose a cover, think in one book that nobody would be interested in.\"<br>\r\nYou either had no imagination for something like that or already knew that if you were original somebody will get intrigued and read it,  so you thought in a really lame already written book. It was...</span></div></div>",
+            "created":1493658660,
+            "id":2313563,
+            "title":"Disguise it as a book"
+        },
+        "1211122112211212":{
+            "content":"<div class=\"\"><div> <span>You ignore her words and slash at her with your sword. The minute you do so, you releize your mistake. How could you be a hero when you killed someone who begged you for mercy?! Feeling guilty, you feel you shouldn't be the one to be a hero and defeat Villian. You give up on your mission and Villian takes over the world.</span></div></div>",
+            "created":1356121800,
+            "id":1492255,
+            "title":"Don't take it and kill her."
+        },
+        "121112211221122":{
+            "author_id":"kirbyfan1996",
+            "author_name":"Kirby",
+            "content":"<div class=\"\"><div> <span>You attempt to run past the dragon. However, the seemingly harmless creature catches you and stares you in the face. \"You weakling! You would let a harmless creature perish for your cowardice?\" Before you can answer, the creature changes into an old woman. You realize that she is a witch. \"For you insolence, you shall take my place in guarding this room!\" Before you can protest, you feel yourself suddenly aging while you see the witch becoming a beautiful woman. \"I hope you like being cooped up here for the rest of your life, seeing as you were so eager to quickly leave before.\" She disappears, and you are transformed into a harmless looking creature. Looks like you won't be defeating the villain anytime soon.</span></div></div>",
+            "created":1370640060,
+            "id":1606531,
+            "title":"Failure to Leave"
+        },
+        "1211122112212":{
+            "author_id":"closeknight",
+            "author_name":"CloseKnight",
+            "content":"<div class=\"\"><div> <span>You take the door on the left since the middle was obviously a trap. You open the door and walk in. As you get into the middle of the room the door closes and it becomes pitch black. You try to find a way out but the door disappeared. You black out after you get hit on the head with something heavy. When you wake up your chained to the wall and there is 7 drills aimed toward your legs, arms, crotch, stomach, and head. You close your eyes hoping it won't hurt. I'm afraid you have reached............</span></div></div>",
+            "created":1193202000,
+            "id":456520,
+            "title":"The left door"
+        },
+        "121112211222":{
+            "content":"<div class=\"\"><div> <span>You enter the left tower. No one is in sight. You cautiously step forward and open the door directly in front of you, expecting a giant throne room where Villain is hiding.<br>\r\nYou were partially correct. It does look like an evil lair, but when you step inside Villain is nowhere. \"Surprise.\" comes a calm voice behind you. It's VILLAIN!!! He ambushed you. Before you can say or do anything, he kicks you to the floor and starts to attack you with his blade viciously and repeatedly.</span></div></div>",
+            "created":1181797200,
+            "id":416306,
+            "title":"The Right Choice...Not"
+        },
+        "121112212":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Fly to the Castle in the Distance",
+                "Launch the Ball of Light"
+            ],
+            "content":"<div class=\"\"><div> <span>You take the necklace, and slip it around your neck. Both of the men sink into the earth and vanish. \"Be wary, Hero.\"<br>\r\n<br>\r\nSuddenly, pure white armor starts to mold onto your body. White, feathery wings force thier way out of your back. Your sword becomes long, thin, light weight, and a holy aura seems to emit from it. <br>\r\n<br>\r\n\"What has happened?\" You say, beating your wings, which forces you backwards, on to a large rock. You hold up your hand, and a ball of white energy gathers.<br>\r\n<br>\r\nAll of a sudden, images you couldn't see before, close in on you. Dark, long shadows start to stretch closer, and closer. </span></div></div>",
+            "created":1165122000,
+            "id":363224,
+            "title":"Light Hero"
+        },
+        "1211122121":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Fly to the Castle",
+                "Enter the Portal"
+            ],
+            "content":"<div class=\"\"><div> <span>Not knowing what to do, you beat your new wings as if they were always yours. The shadowed figures don't follow. <br>\r\n<br>\r\nAs you aproach the castle, you take a deeper look. It's Black, dark, and monsterous things were all around it. It was definitely Villian's castle! <br>\r\n<br>\r\nHowever, a white hole apeared in the sky a few meters away from you. \"Come... Hero...\" said a female voice from inside.</span></div></div>",
+            "created":1165122000,
+            "id":363259,
+            "title":"Find Safety!"
+        },
+        "12111221211":{
+            "choices":[
+                "You sweet talk the guard.",
+                "Sneak past the hole in the wall."
+            ],
+            "content":"<div class=\"\"><div> <span>Seeing as you are in the possession of wings, you decide on an aerial assault. Villain's castle is encompassed by a tall, towered, and rectangular wall that is guarded by many muscular guards that you are sure would be quiet unpleasant to deal with in a fist fight. (These guards were generally Villain's least favorite guards, for they were the most easily harmed.) The castle itself is a large central building that has two wings. (left and right) Attached to the hub and the wings was many superfluous towers that housed commodities such as swimming pools and indoor golf courses. Underground beneath the left wing was the secret hideout for Villain whenever his castle was under attack. As you approach the castle, one of the guards standing at the wall spots you begins to stupidly grunt at the men in the towers to begin firing at the winged intruder. You aim some well placed light blasts at the wall and destroy some of the offensive towers, but their are still more to be dealt with. Eventually the castle defense gets the best of you, and you are forced to retreat. You decide to try a different method of infiltrating the castle. You obviously broke down enough wall that the guards will need to spend some time for repairs, so you may be able to go over the wall while the guards are focused with repairs. As you approach the wall for the second time today, you notice a guard who appears to be exceptionally stupid. So, how you going to get in.  </span></div></div>",
+            "created":1291611600,
+            "id":1009852,
+            "title":"Aerial Assault"
+        },
+        "121112212111":{
+            "content":"<div class=\"\"><div> <span>You walk up to the guard and reveal your beautiful wings. You try to sweet talk the guard into letting you into the castle. The guard is mesmerized by your beauty and let's you sneak into the castle. Success! You walk straight into the castle and walk up a large spiral staircase. Although you were able to walk into the castle, the guard you sweet talked boasts to the other guards about how you talked to him. The other guards take action and send a large search party through out the castle. They catch you and you are sent to the dungeon. From there, you are not able to stop the Villian.</span></div></div>",
+            "created":1356121260,
+            "id":1492247,
+            "title":"You sweet talk the guard."
+        },
+        "12111221212":{
+            "content":"<div class=\"\"><div> <span>You decide to take your chances with the white hole. Adjusting to the harshness of the light inside, you assess your surroundings. You appear to be in a mammoth rectangular room. Nothing appears to be in this room, so you decide to continue your battle with Villain. Looking for the exit, you trip over something and landing on your head. You stand up, in a much more sour mood, and look for a place to sit down. As if the room could read your mind, a incredibly inviting chintz armchair appears about two feet away. Sitting down, you commence in massaging your temples when you hear the same disembodied feminine from outside Villain's voice speaking to you.<br>\r\n\"Are you enjoying the chair? It's quite new.\" <br>\r\n\"Who are you?\" you ask, trying not to have your voice reflect your astonishment.<br>\r\n\"I am the physical representation of Requiem, the resting place for heroes of light, much like yourself. Here whatever you wish will be reality. It should be noted however...\" ---but you never find out whatever should be noted or why it is so important; you no longer care. You wish for a cold refreshment, and one, exactly as pictured it materializes on a beautifully crafted mahogany table beside you. You reach over and drink take a sip from a straw with an excess amount of bending in its tubing. You decide to spend some good quality time here.<br>\r\n<br>\r\n                                                                               ...<br>\r\n<br>\r\nThe extra two days you were intending to spend here eventually wind into an extra seven days, then just five months, and then just a couple of years until you decide to face Villain. From your vantage point, Villain isn't a threat, so anything he could do would not effect you. You decide life inside Requiem would be a much better fate than battling for the protection of some villagers you do not even know the name of. You eventually end up spending your entire life here, and you die blissfully in your sleep. <br>\r\n<br>\r\n                                                                               ...<br>\r\n<br>\r\nMeanwhile, Villain gathers his forces and prepares to do battle with you, the legendary Hero. Villain begins his conquest after about twelve years of waiting for you to challenge him. Villain hopes destroying a few villages will scare you out of hiding. Disappointed that all villages are devoid of sword wielding Heroes, he figures you died on your quest to him. Without anyone to disturb Villain's plans for the new world order, he begins his conquest. The world plunges into a irreversible darkness and all powers of light have been destroyed. Way to go buddy...</span></div></div>",
+            "created":1291611600,
+            "id":1009814,
+            "title":"A \"Happy\" Ending"
+        },
+        "1211122122":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>You thrust your arm forward, and the ball of Light flies into the shadowy figures. However, instead of being harmed by it, they begin to grow. The black outlines become brown. Their eyes red. Soon, you feel sharp claws digging into your chest. \"Villian...\" You mutter, as a malevolent figure stands over you.<br>\r\n<br>\r\nBy adding light to the shadow creatures, you gave them the ability to cross into this world. You also gave them a free meal.<br>\r\n<br>\r\nYou taste like chicken. </span></div></div>",
+            "created":1193202000,
+            "id":456615,
+            "title":"Launch the Ball of Light"
+        },
+        "12111222":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>You drop down,without thinking, only wanting to escape. Though the claw misses you, the man leaps, and wraps his tail around you, restricting you.<br>\r\n<br>\r\n\"I'm going to...\" The sound of his voice is cut off, because it's pretty difficult to hear someone over the sound of your flesh being eaten.</span></div></div>",
+            "created":1165122000,
+            "id":363226,
+            "title":"Down Snack"
+        },
+        "12112":{
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You kill the snake mercilessly, not wanting to die from a stupid snake bite. Suddenly you notice that there are other snakes coming at you from everywhere. Oops. \"Maybe you should have spared it\", you think as you get bitten everywhere.</span></div></span></div>",
+            "created":1181797200,
+            "id":416311,
+            "title":"Death by Stupid Snake Bites"
+        },
+        "1212":{
+            "author_id":"jacknife78",
+            "author_name":"Jacknife78",
+            "content":"<div class=\"\"><div> <span>     You feel that the vine would be the safer mode of travel.  However, it had rained earlier.  When you are halfway though your swing, your fingers slip and you plummet to the bottom of the ravine.  Luckily, you land on a soft pile of furs at the bottom of the ravine.  Unluckily, those furs belong to a family of bears which devour you for disturbing their sleep. </span></div></div>",
+            "created":1157259600,
+            "id":344286,
+            "title":"Swinging to safety?"
+        },
+        "122":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>You stroll carefully down the village path. You have to save all these unsuspecting vic- \"Hey!\" you shout. <br>\r\n<br>\r\nYour mother picks you up and drags you back home. \"No child of mine is leaving the village on his own!\"<br>\r\n<br>\r\nOh well. Maybe the sages should have chosen someone more Eligible than a ten year old to save the world. Too bad.</span></div></div>",
+            "created":1157173200,
+            "id":456614,
+            "title":"You're only ten?"
+        },
+        "123":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Human",
+                "Alien",
+                "Animal"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You were born to be the villain! But what are you? </span></div></span></div>",
+            "created":1515439260,
+            "id":2438394,
+            "title":"I want to be Vilian!   ~ALTERNATE STORY~"
+        },
+        "13":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Help Him",
+                "Find a new lead"
+            ],
+            "content":"<div class=\"\"><div> <span>\"You have Twenty-Four hours. Don't fail me.\" Said your master as he sent you off.<br>\r\n<br>\r\nYou had twenty-four hours to assassinate the king of Gomel City. Your ninja clan was behind many of the murders in the city, and you were paid handsomely for them.<br>\r\n<br>\r\nHowever, this was your first mission, and your master trusted you with such an important one. It was an honor.<br>\r\n<br>\r\n<br>\r\n<br>\r\nYou slip between two buildings, staying close to the wall. You're tailing some servant from the king's palace. You could follow him in through the secret entrance.<br>\r\n<br>\r\nSuddenly, two men dressed in red pick up the boy, and shove him in a sack, running away.</span></div></div>",
+            "created":1167541200,
+            "id":369734,
+            "title":"First Mission"
+        },
+        "131":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Follow Him",
+                "Change of Plans: Kill Him"
+            ],
+            "content":"<div class=\"\"><div> <span>You quickly take out your sword and slice off the arm of one of the men. He screams and they drop the sack. \"GAHH, GET HIM!!\" The man yells as blood splats onto the ground. The other man suddenly has a spear, and jabs it in your direction, trying to puncture your stomach. You reach into a pouch at your waist, and quickly toss a Smoke Bomb in his face. Smoke explodes from within, and the entire street is covered in a thick blanket of the smog.<br>\r\n<br>\r\nTrained in the art of blind combat, you quickly locate the boy you just saved, and carry the sack to a nearby alley, and release him without allowing him to see you. When he comes to, he wipes away his tears, and begins running... in the direction opposite the castle.</span></div></div>",
+            "created":1193202000,
+            "id":456612,
+            "title":"Help Him"
+        },
+        "1311":{
+            "author_id":"dekarserverbot",
+            "author_name":"EveryoneKtoA",
+            "content":"<div class=\"\"><div> <span>You followed the boy, even if he moves away from the castle. Suddenly the castle and the idol are no longer in your sight.<br>\r\nThe boy reaches his home, you lost like 13 hours following him, you won't make it on time no matter what you do.<br>\r\nYour only options are either being killed by your own clan for your failure or commit harakiri, defeated you kill yourself.</span></div></div>",
+            "created":1489567440,
+            "id":2290023,
+            "title":"Follow Him"
+        },
+        "1312":{
+            "author_id":"dekarserverbot",
+            "author_name":"EveryoneKtoA",
+            "choices":[
+                "keep hidden",
+                "Attack them"
+            ],
+            "content":"<div class=\"\"><div> <span>The boy is no use and plain ugly too, so you just behead him with your sword. A silent but messy kill, then you get rid of the body and carry the empty sack to a closer location to the castle.<br>\r\nYou hide inside the sack waiting for the hemchmen to find your concealed self. It does work, you heard some footsteps. But what now?</span></div></div>",
+            "created":1489567920,
+            "id":2290026,
+            "title":"Change of Plans: Kill Him"
+        },
+        "132":{
+            "content":"<div class=\"\"><div> <span>You look around for someone who might be able to lead you in. You spot another person walking in, and you follow him. You are able to sneak your way into the heavily guarded throne room and behind the throne. You are just about to assassinate the king. \"Wow, this was easy!\" you think. You pull out your sword and plunge it straight through...the throne. The king isn't there at the time; he's busy at a meeting. Uhoh. You're caught red handed and executed.</span></div></div>",
+            "created":1181797200,
+            "id":416317,
+            "title":"A Foolish Mistake"
+        },
+        "14":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Left Path",
+                "Straight Path",
+                "Right Path"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Yes, you're trapped in a magical maze with many paths, but only one way out. <br>\r\n<br>\r\nYou run down the hall, dark, stone walls on both sides of you. And then it stops. A fork in the road, and three pathways to chose.</span></div></span></div>",
+            "created":1167541200,
+            "id":369724,
+            "title":"First fork"
+        },
+        "141":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>You swerve to the right and continue down the left path cautiously fearing for traps. The stone walls seem to go on forever. After a good few minutes of running, you get to the end and think you wandered into a trap. You didn't.<br>\r\n<br>\r\nHowever, it <i>was</i> a dead end. Go back and try again.</span></div></div>",
+            "created":1167541200,
+            "id":369725,
+            "title":"Dead End"
+        },
+        "142":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Crawl through the hole",
+                "Go to the right"
+            ],
+            "content":"<div class=\"\"><div> <span>You continue straight and run down the hall directly in front of you. It's a short run before more light hits your face.<br>\r\n<br>\r\nThe path to the right looks to continue straight for a good few hundred feet, but you can see light coming from a hole in the wall, that's just barely large enough for you to crawl through.</span></div></div>",
+            "created":1167541200,
+            "id":369726,
+            "title":"Hole"
+        },
+        "1421":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>You boost yourself into the hole and start to crawl. It gently goes upward, seeming to go up, back to the overworld. You keep crawling, determined to get out. The tunnel gets smaller, thinner, tighter, the further you move upward, but you are desperate for freedom.<br>\r\n<br>\r\nThe light source become clear as you reach the end. A small, bottle cap sized hole leading outside. Too small to get out of.<br>\r\n<br>\r\nYou try and back up, but it's too tight, and you've become wedged in, unable to back out.<br>\r\n<br>\r\nWell, you're bound to lose some weight after not eating for a few days, why not try and get out then?</span></div></div>",
+            "created":1167541200,
+            "id":369728,
+            "title":"Light at the End of the Tunnel"
+        },
+        "1422":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "choices":[
+                "Take the Right",
+                "Take the Left"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You go down the right, and walk for a much shorter time than you had expected. You come to yet another fork in the road, with only two paths this time.<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1167541200,
+            "id":369729,
+            "title":"Second Fork"
+        },
+        "14221":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "choices":[
+                "Door A",
+                "Door B"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to keep going right, it's not much of a plan you know, but it is a plan nonetheless. Slowly you edge your way along the dank corridor. After what seems like an eternity, but in truth is little more than half an hour you reach the end. <br>\r\n<br>\r\nThere are two doors before you, ruining your plan before it got started. With a sigh of irritation you examine the doors, they are wooden. There are no markings on either door, they are identical in every way.<br>\r\n<br>\r\nWhich door do you choose?</span></div></div>",
+            "created":1173243600,
+            "id":387574,
+            "title":"A cunning plan."
+        },
+        "142211":{
+            "choices":[
+                "Sit and listen to the wind",
+                "Run to the side of the room"
+            ],
+            "content":"<div class=\"\"><div> <span>You reach out your hand and push open the door. Stepping cautiously through it, you come into a room with walls of the same crumbling stone which you cant seem to escape.  <br>\r\nIn the middle of the room is a pile of rubble.  Hoping that , perhaps, there is some trap door underneath or some hint as to how you can leave this terrible maze, you begin shifting the stones.  <br>\r\nThere is no trap door and you fall back with exhaustion. <br>\r\nAs you do so, a stone cuts into your back.  You start up in pain and on looking back, notice that there is something strange about the stone.  It has writing on it.  You strain to read in the dim light...<br>\r\n      <i>A Malaysian tiger runs where a Venetian tiger sits and listens to the wind</i></span></div></div>",
+            "created":1173416400,
+            "id":388123,
+            "title":"Puzzle stone"
+        },
+        "1422111":{
+            "content":"<div class=\"\"><div> <span>You sit down, and hear a slight windy noise. It gets louder and louder, slowly growing into a chanting voice. You strain to make out the words. You listen very carefully and you hear... \"And the Venetian tiger gets hunted more.\" A slow realization creeps over your face, and you jump up, but it is too late. The channeled, rolling boulder squashes you before you can move.</span></div></div>",
+            "created":1260334800,
+            "id":803446,
+            "title":"Sit and listen to the wind"
+        },
+        "1422112":{
+            "author_id":"pie4u2",
+            "author_name":"TSC",
+            "choices":[
+                "Help the poor man",
+                "who cares?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you run down the hall, you see a man. He is lying facedown, appariently unconsiose. You look at him. Do you help or keep running?</span></div></span></div>",
+            "created":1189400400,
+            "id":443485,
+            "title":"A man?"
+        },
+        "14221121":{
+            "choices":[
+                "Follow his advice?",
+                "Distrust his advice?"
+            ],
+            "content":"<div class=\"\"><div> <span>You stop and help the old man up and give him some food., and he thanks you. He gives you some advice. He says that ten feet down the passage, there is a right and a left turn. The left turn, he says, is very dangerous. As you walk down the passage, there is a left and a right turn. Do you...</span></div></div>",
+            "created":1260334800,
+            "id":803449,
+            "title":"Help the poor man"
+        },
+        "142211212":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Stand frozen in fear.",
+                "Dodge to the side."
+            ],
+            "content":"<div class=\"\"><div> <span>Although you're glad you helped him, you decide to disregard the man's advice. He still seemed pretty delirious when you left him, as though he wasn't entirely sure where he was. Therefor, you think it's safe to take the left passage.<br>\r\n<br>\r\nYou go through the left passage. A few steps in, you step on a raised stone, which sinks into the ground. A booby trap! A horizontal blade swings out of the wall, right at your neck!</span></div></div>",
+            "created":1335762000,
+            "id":1326250,
+            "title":"Distrust his advice?"
+        },
+        "1422112121":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Proceed down the passageway.",
+                "Try to put your head back on."
+            ],
+            "content":"<div class=\"\"><div> <span>Your life flashes before your eyes as the silvery blade rushes toward your neck. Suddenly, there is a sharp pain, and your vision begins to tumble as your head slides off your shoulders. It hits the ground with a dull thud.<br>\r\n<br>\r\nTo your great surprise, you are still alive, and you can still feel your body! Concentrating a little, you walk it over to where your head landed, and pick yourself up. As you examine your neck stump, you wonder why the blade didn't kill you. Eventually you figure it must have been magic.</span></div></div>",
+            "created":1335762000,
+            "id":1326252,
+            "title":"Stand frozen in fear."
+        },
+        "14221121211":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Go back and try to see there's another way to go.",
+                "Set your head down and think about what to do."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to move on. Tucking your head under your arm, proceed to head down to the end of the passageway, making sure to keep an eye out for booby traps this time.<br>\r\n<br>\r\nYou get to the end of the passage and... there's nothing here! It's a dead end! Just recessed shelf with too candles burning on either side.</span></div></div>",
+            "created":1335762000,
+            "id":1326257,
+            "title":"Proceed down the passageway."
+        },
+        "142211212111":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "content":"<div class=\"\"><div> <span>This is obviously a dead end. You decide to head back and see if you can't find another way out. Before you go though, you decide to try and put your head back on, but it just slides off your shoulders. You quickly catch it, before anything bad can happen. You guess you'll just have to get used to not having your head attached. You proceed back down the passageway, in hopes of finding a way out of this maze.<br>\r\n<br>\r\nUnfortunately, you don't pay attention to where you're going, and you step right into another trap! More blades fly out of the walls, ceiling, and floor, chopping your body into pieces! Fortunately, you're still alive, since the blades seem to be of the same kind that chopped your head off. UNfortunately, you won't be able to reattach your body parts, for the exact same reason! You're stuck like this!<br>\r\n<br>\r\nAs time passes, various people and creatures come through the maze, and stumble upon you. Most of them end up taking a part of you with them, either as a souvenir, or (gulp), a meal. Suffice to say, you never see any of them again. Eventually, you are whittled down to just a head. Then, an enterprising adventurer has the bright idea of dividing you up further by carefully using the trap blades.<br>\r\n<br>\r\nAfter that, things just get worse and worse for you. The first adventurer  took the top of your head to use as a plate, leaving your brain exposed. A second took the remains of your head to use as a boll, leaving just your face, ears, and brain behind. At long last, someone takes pity on you. They decide to take your face and ears with them. Eventually, the two of you make it out of the maze! When he gets home, he treats you very well, and the two of you become good friends.<br>\r\n<br>\r\nOne day however, you feel your thoughts getting a bit sluggish. It occurs to you, that your brain is still in the maze, and that something bad must be happening to it! However, since you can't see, hear, or feel anything near it, you have no way of telling what's happening.<br>\r\n<br>\r\nBack in the maze, your brain is slowly being picked away, be it by birds, insects, mold, or even simple exposure to the elements. As more and more parts of it are consumed, more and more of your mind starts to fade. Then, one fateful day, another adventurer comes by, fails to notice your brain in time, and steps on it. Your already failing mind dies completely as soon as your brain is squished by that boot. Although your friend morns your loss, instead of giving you a funeral, he sells your still living face and ears as a novelty mask and earrings respectively.</span></div></div>",
+            "created":1337576400,
+            "id":1341915,
+            "title":"Go back and try to see there's another way ..."
+        },
+        "142211212112":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Place your head on the pedestal.",
+                "Open the treasure chest."
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to just set your head down and do what it does best, think. You place it on the shelf between the two candles. Suddenly, your viewpoint sinks slightly and a section of the wall slides open! You must have accidentally placed your head on a switch! You pick your head up, and walk into the room that just opened up.<br>\r\n<br>\r\nInside, you see a treasure chest and a pedestal with nothing on it.</span></div></div>",
+            "created":1335762000,
+            "id":1326263,
+            "title":"Set your head down and think about what to do."
+        },
+        "1422112121121":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Let's get out of here! Ask to be teleported out.",
+                "A treasure? Neat! Ask the orb to hand it over."
+            ],
+            "content":"<div class=\"\"><div> <span>Well, putting your head on stuff worked before. You place your head on the pedestal.<br>\r\n<br>\r\nSuddenly, a shining orb appears, and floats in front of you. You here a voice explaining that it's here to help you out. It offers to give you either a treasure, or to teleport you out of the maze.</span></div></div>",
+            "created":1335762000,
+            "id":1326270,
+            "title":"Place your head on the pedestal."
+        },
+        "14221121211211":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "content":"<div class=\"\"><div> <span>You ask the orb to teleport you out of the maze. There is a blinding flash of light, and suddenly you can here birds chirping! You're back in the forest where you found the maze! Off to the side, you recognize the entrance it.<br>\r\n<br>\r\nYou try to turn around, but although your body responds to your command, your view remains fixed on the entrance. Oh no! When that orb teleported you out, it must have sent only your head! Your body is still inside!<br>\r\n<br>\r\nYou sigh in defeat. Your only hope now is that someone comes along who's willing to help, since you can't risk blindly running your body into the maze's traps. You decide to close your eyes and take a short nap while you wait.<br>\r\n<br>\r\nEventually, someone else <i>does</i> come, and you ask them for their help. They agree, and head into the maze. You never see them again. This process repeats itself for many years.</span></div></div>",
+            "created":1335762000,
+            "id":1326273,
+            "title":"Let's get out of here! Ask to be teleported..."
+        },
+        "14221121211212":{
+            "choices":[
+                "Long life",
+                "Sight"
+            ],
+            "content":"<div class=\"\"><div> <span>The orb complies with your request, materializing a metal collar and two stones. <br>\r\n<br>\r\n\"One is the stone of long life, and will protect you from the traps of the maze.<br>\r\nThe other is the stone of sight, and will show you that which others can not see.<br>\r\nOnly one stone can be inserted into the collar, the one that is not chosen will return with me when I leave.\" it explains.<br>\r\n<br>\r\nPutting the collar on, it seems it's wide enough to hold the two halves of your neck together. So with your head back on your shoulders where it belongs, you have a decision to make.</span></div></div>",
+            "created":1339822800,
+            "id":1361108,
+            "title":"A treasure? Neat! Ask the orb to hand it over."
+        },
+        "142211212112121":{
+            "content":"<div class=\"\"><div> <span>Taking the gem of long life, and fitting it into the socket on the collar, you hear \"Verry well, you are now protected from any future traps, and any magic or curses placed on you by past traps.\"<br>\r\n<br>\r\nIt takes a fraction of a second for you to realize your mistake in that choice, as a searing pain erupts in your neck, and you feel warm liquid start to flow down over your shoulders. <br>\r\n<br>\r\nNo matter how hard you try, the collar will not come off, and soon everything goes black.</span></div></div>",
+            "created":1339884720,
+            "id":1361113,
+            "title":"Long life"
+        },
+        "142211212112122":{
+            "choices":[
+                "left door",
+                "right door"
+            ],
+            "content":"<div class=\"\"><div> <span>Taking the gem of sight, and fitting it into the socket on the collar, you hear \"Verry well, you are now able to see that which has been hidden from you.\"<br>\r\n<br>\r\nLooking around the room, you can now see that two of the walls are hollow, and have pressure plates beneath them, though seeing the world like this is disorienting.<br>\r\nUncliping the collar your vision returns to normal, and you almost forget to catch your head as it starts to slip.<br>\r\n<br>\r\n\"Thanks.\" you say as the wisp disappears, before looking at where the too 'doors' are supposed to be. </span></div></div>",
+            "created":1339885080,
+            "id":1361119,
+            "title":"Sight"
+        },
+        "1422112121122":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "content":"<div class=\"\"><div> <span>You decide to see what's in the treasure chest. Putting your head down on the floor, you kneel down and pry it open. You lift your head up to take a look inside and... It's a mouth! The whole inside of the chest is a mouth! You've found a mimic! Just then, the chest monster lurches forward, knocking into your stomach, and causing your head to land in its maw. You are swallowed whole, and soon the rest of your body joins you as a meal for the mimic.</span></div></div>",
+            "created":1335762000,
+            "id":1326268,
+            "title":"Open the treasure chest."
+        },
+        "14221121212":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "content":"<div class=\"\"><div> <span>You figure that you should probably try to put your head back on. You place it on your shoulders, but it just slides off again. This time, it rolls down a hole in the ground, one that's much too small your body to follow.<br>\r\n<br>\r\nAfter falling for a few minutes, your head reaches the bottom with a splat.</span></div></div>",
+            "created":1335762000,
+            "id":1326255,
+            "title":"Try to put your head back on."
+        },
+        "1422112122":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You deftly sidestep the blade, only to step on the trigger for another booby trap. This one launches a barrage of poison darts at you. You don't see them, and end up getting hit. You fall over and everything goes dark.</span></div></span></div>",
+            "created":1335762000,
+            "id":1326251,
+            "title":"Dodge to the side."
+        },
+        "14221122":{
+            "author_id":"pie4u2",
+            "author_name":"TSC",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You keep running. As you run your mind drifts to that poor man. You wish you had helped him........unfourtuantly, all your thinking left you no time to stop when you see a cliff at the end of the hall. you fall some 1000 miles when SPLAT!!!</span></div></span></div>",
+            "created":1189400400,
+            "id":443486,
+            "title":"Oh well........."
+        },
+        "142212":{
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you open the door, suddenly arrows fire out of it, pumping into your body. It appears you didn't make it.</span></div></span></div>",
+            "created":1260334800,
+            "id":803442,
+            "title":"Door B"
+        },
+        "14222":{
+            "author_id":"moonhawk",
+            "author_name":"Ginfla",
+            "content":"<div class=\"\"><div> <span>You decide to turn left, it's a maze after all and everyone knows mazes don't follow logical paths. You are so caught up in your thoughts that you fail to notice the large gap in the floor. Until you step into it that is. On the bright side you have a long way down to contemplate the foolishness of not paying attention when trapped in a madman's maze.<br>\r\n<br>\r\nIt's a shame it will all go to waste, as your life, and adventure end here when you finally reach the bottom.</span></div></div>",
+            "created":1173243600,
+            "id":387575,
+            "title":"Oops"
+        },
+        "143":{
+            "author_id":"mid-knight",
+            "author_name":"Divine Bandit",
+            "content":"<div class=\"\"><div> <span>You run down the path to the right, and it gently curves down hill. You run for a few seconds and suddenly slip. You slide down the hall, and enter pitch darkness as you start to fall... down... and down...<br>\r\n<br>\r\n<br>\r\nTwenty years later, you're still falling...</span></div></div>",
+            "created":1167541200,
+            "id":369727,
+            "title":"Falling"
+        },
+        "15":{
+            "author_id":"kirbyfan1996",
+            "author_name":"Kirby",
+            "choices":[
+                "To catch 'em all",
+                "To fall in love",
+                "To help other people",
+                "To invent something great",
+                "More..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What do you want to do?</span></div></span></div>",
+            "created":1383441720,
+            "id":1688031,
+            "title":"More Quests"
+        },
+        "155":{
+            "choices":[
+                "To find my brother a new girlfriend .......",
+                "To get a new babysitter .......",
+                "To find out what the other sex looks like ........."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>To find my brother a new girlfriend .......<br>\r\n<br>\r\nTo get a new babysitter .......<br>\r\n<br>\r\nTo find out what the other sex looks like .........</span></div></span></div>",
+            "created":1520780760,
+            "id":2463103,
+            "title":"More..."
+        }
+    },
+    "info":{
+        "author_id":"mid-knight",
+        "author_name":"Divine Bandit",
+        "brief_description":"The quest for something is here. But one wrong choice ends the story!",
+        "created":1156714800,
+        "description":"<td align=\"left\" class=\"norm\">Each starting Path is a different story. It goes pretty standard, pick a choice, move on to the next chapter... But if you pick the wrong chapter, It's over. There's only one right choice here.<br>\r\n<br>\r\n<br>\r\nRules<br>\r\n1) IF you add a Chapter, please try to make both the wrong, and right choices. <br>\r\n2) Keep the storys seperate. <br>\r\n3) Keep it apropriette.<br>\r\n4) That should be it, unless someone ruins it.<br>\r\n<br>\r\n</td>",
+        "id":1149556,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1520780760,
+        "modified":1520780760,
+        "pretty_title":"One Wrong Choice... "
+    }
+}

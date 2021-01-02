@@ -1,0 +1,98 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"codex33486",
+            "author_name":"Codex33486",
+            "choices":[
+                "Press the button.",
+                "Wait for your strength to return."
+            ],
+            "content":"<div class=\"\"><div> <span>You find yourself coming out of a deep, deep sleep. You can't open your eyes or move any part of your body, nor can you remember who you are or how you came to be here. As time goes by, you find that you can move your left index finger--a little. You can feel a button under your finger.</span></div></div>",
+            "created":1413047100,
+            "id":1870043,
+            "title":" "
+        },
+        "11":{
+            "author_id":"codex33486",
+            "author_name":"Codex33486",
+            "choices":[
+                "Wait for more strength to return.",
+                "Try to press the button again."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You don't have enough strength to press the button.</span></div></span></div>",
+            "created":1413047160,
+            "id":1870044,
+            "title":" "
+        },
+        "111":{
+            "author_id":"codex33486",
+            "author_name":"Codex33486",
+            "choices":[
+                "Wait for more strength to return.",
+                "Try to press the button again."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You still can't open your eyes or remember how you got here, but more strength has returned to your left hand.</span></div></span></div>",
+            "created":1413047280,
+            "id":1870045,
+            "title":"Frame 3"
+        },
+        "1112":{
+            "author_id":"codex33486",
+            "author_name":"Codex33486",
+            "choices":[
+                "Wait for more strength to return.",
+                "Press the button once again."
+            ],
+            "content":"<div class=\"\"><div> <span>You press the button, and then you are aware of a whirring mechanical noise. Then you can feel cool air rushing over your body. The noise stops, and then there is a soft chime, followed by a feminine voice that seems to be inside your head. \"Do not try to move,\" the voice says sweetly. \"Your awareness and strength will improve shortly as the wakeup cycle proceeds. You have arrived at your destination. Press the button under your finger when you are ready for your mission briefing.\" The voice repeats the message, you hear the chime again, and then all is quiet once again.</span></div></div>",
+            "created":1413047640,
+            "id":1870048,
+            "title":"Try to press the button again."
+        },
+        "112":{
+            "author_id":"codex33486",
+            "author_name":"Codex33486",
+            "choices":[
+                "Wait for more strength to return."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You try hard, but you don't have enough strength to press the button.</span></div></span></div>",
+            "created":1413052800,
+            "id":1870063,
+            "title":"Try to press the button again."
+        },
+        "12":{
+            "author_id":"codex33486",
+            "author_name":"Codex33486",
+            "choices":[
+                "Try to press the button again."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>After some time passes, you feel yourself getting a little stronger. You think that you are able to press the button now.</span></div></span></div>",
+            "created":1413047400,
+            "id":1870046,
+            "title":"Wait for your strength to return."
+        },
+        "121":{
+            "author_id":"codex33486",
+            "author_name":"Codex33486",
+            "choices":[
+                "Press the button.",
+                "Wait for more strength to return."
+            ],
+            "content":"<div class=\"\"><div> <span>You press the button, and then you are aware of a whirring mechanical noise. Then you can feel cool air rushing over your body. The noise stops, and then there is a soft chime, followed by a feminine voice that seems to be inside your head. \"Do not try to move,\" the voice says sweetly. \"Your awareness and strength will improve shortly as the wakeup cycle proceeds. You have arrived at your destination. Press the button under your finger when you are ready for your mission briefing.\" The voice repeats the message, you hear the chime again, and then all is quiet once again.</span></div></div>",
+            "created":1413047580,
+            "id":1870047,
+            "title":"Try to press the button again."
+        }
+    },
+    "info":{
+        "author_id":"codex33486",
+        "author_name":"Codex33486",
+        "brief_description":"This is an experimental interactive story called \"The Mission.\"",
+        "created":1413046980,
+        "description":"<td align=\"left\" class=\"norm\">This is my attempt at an experimental interactive story.</td>",
+        "id":2013892,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1413052800,
+        "modified":1413052800,
+        "pretty_title":"The Mission Part 1"
+    }
+}

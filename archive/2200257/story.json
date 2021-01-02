@@ -1,0 +1,324 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's begin with your gender.  Are you male or female?</span></div></span></div>",
+            "created":1568005200,
+            "id":2715962,
+            "title":"Choose Your Gender"
+        },
+        "11":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Kid (5 - 10 Year Old)",
+                "Preteen (11 - 15 Year Old)",
+                "Teen (16 - 20 Year Old)",
+                "Young Adult (20 - 30 Year Old)",
+                "Adult (30 - 40 Year Old)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Next is your age.  What's your age range?</span></div></span></div>",
+            "created":1568005200,
+            "id":2715966,
+            "title":"Your Age"
+        },
+        "111":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Yourself",
+                "Your Family",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your a young little boy who gains possession of the De-Evolve App on your phone. How will you test the app?</span></div></span></div>",
+            "created":1574052780,
+            "id":2748132,
+            "title":"Boy Curiosity"
+        },
+        "1111":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Devolve",
+                "Evolve"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to choose yourself as a way to see if this app works or not. Opening the app, you select your name and hit enter. Then there are two options on the app, one saying 'Devolve', the other saying 'Evolve' Which will you choose?</span></div></div>",
+            "created":1577074500,
+            "id":2763377,
+            "title":"Self Testing"
+        },
+        "112":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Yourself",
+                "Your Family",
+                "More Targets"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your a preteen boy who gains the possession of the De-Evovle App on your phone. Who will you test it on?</span></div></span></div>",
+            "created":1574659980,
+            "id":2751454,
+            "title":"Testing the App"
+        },
+        "1121":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Devolve",
+                "Evolve"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to choose yourself as a way to see if this app works or not. Opening the app, you select your name and hit enter. Then there are two options on the app, one saying 'Devolve', the other saying 'Evolve' Which will you choose?</span></div></div>",
+            "created":1577681580,
+            "id":2766786,
+            "title":"Self Testing"
+        },
+        "113":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Yourself",
+                "Your Family",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your are a teenage boy who gains the possession of the De-Evolve App on your phone. Who will you test it on?</span></div></span></div>",
+            "created":1575261540,
+            "id":2754419,
+            "title":"Teenage Curiosity"
+        },
+        "114":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Yourself",
+                "Your Family",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're a young man who entered college and gained an app that can devolve anyone you choose. Who is going to be the first target?</span></div></span></div>",
+            "created":1575865920,
+            "id":2757299,
+            "title":"Male College Student"
+        },
+        "115":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Yourself",
+                "Your Family",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a fully grown man that is married and have kids, wishing to have an exciting life. That's when you discovered an app and can devolve anyone you target. You wonder who will you choose to devolve?</span></div></span></div>",
+            "created":1576470960,
+            "id":2760148,
+            "title":"Full Grown Man"
+        },
+        "12":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Kid (5 - 10 Year Old)",
+                "Preteen (11 - 15 Year Old)",
+                "Teen (16 - 20 Year Old)",
+                "Young Adult (20 - 30 Year Old)",
+                "Adult (30 - 40 Year Old)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Next is your age.  What is your age range?</span></div></span></div>",
+            "created":1568005200,
+            "id":2715969,
+            "title":"Your Age"
+        },
+        "121":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "You Test It on Yourself",
+                "Test it on your Parents",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your a young little girl who gains possession of the De-Evolve App on your phone.  How will you test the app?</span></div></span></div>",
+            "created":1568005200,
+            "id":2715972,
+            "title":"Choose Your Path"
+        },
+        "1211":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Devolve",
+                "Evolve"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to choose yourself as a way to see if this app works or not. Opening the app, you select your name and hit enter. Then there are two options on the app, one saying 'Devolve', the other saying 'Evolve' Which will you choose?</span></div></div>",
+            "created":1572842520,
+            "id":2742039,
+            "title":"Self Testing"
+        },
+        "1213":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Test it on your friends",
+                "Test it on random people",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What are the other choices.</span></div></span></div>",
+            "created":1568005200,
+            "id":2715977,
+            "title":"More Story Branches"
+        },
+        "122":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Test it on yourself",
+                "Test it on your Parents",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your a preteen girl who gains the possession of the De-Evovle App on your phone.  Who will you test it on?</span></div></span></div>",
+            "created":1568005200,
+            "id":2715982,
+            "title":"Testing the App"
+        },
+        "1221":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Devolve",
+                "Evolve"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to choose yourself as a way to see if this app works or not. Opening the app, you select your name and hit enter. Then there are two options on the app, one saying 'Devolve', the other saying 'Evolve' Which will you choose?</span></div></div>",
+            "created":1572241560,
+            "id":2739304,
+            "title":"Self Testing"
+        },
+        "1223":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Test it on your friends",
+                "Test it on random people",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else will you test the app on?</span></div></span></div>",
+            "created":1568005200,
+            "id":2715983,
+            "title":"More people to test it on"
+        },
+        "123":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "You Test It on Yourself",
+                "Test it on your Parents",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your are a teenage girl who gains the possession of the De-Evolve App on your phone.  Who will you test it on?</span></div></span></div>",
+            "created":1568005200,
+            "id":2715984,
+            "title":"Testing the App"
+        },
+        "1231":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Devolve",
+                "Evolve"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to choose yourself as a way to see if this app works or not. Opening the app, you select your name and hit enter. Then there are two options on the app, one saying 'Devolve', the other saying 'Evolve' Which will you choose?</span></div></div>",
+            "created":1571636580,
+            "id":2736110,
+            "title":"Self Testing"
+        },
+        "124":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "You Test It on Yourself",
+                "Test it on your Family",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're a young woman who entered college and gained an app that can devolve anyone you choose.  Who is going to be the first target?</span></div></span></div>",
+            "created":1568523600,
+            "id":2718864,
+            "title":"Young Adult (20 - 30 Year Old)"
+        },
+        "1241":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Devolve",
+                "Evolve"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to choose yourself as a way to see if this app works or not. Opening the app, you select your name and hit enter. Then there are two options on the app, one saying 'Devolve', the other saying 'Evolve' Which will you choose?</span></div></div>",
+            "created":1571031960,
+            "id":2732571,
+            "title":"You Test It on Yourself"
+        },
+        "1243":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Test it on your friends",
+                "Test it in college",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else do you want to test the app on?</span></div></span></div>",
+            "created":1568608680,
+            "id":2718866,
+            "title":"More Choices"
+        },
+        "12433":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Test it on your boyfriend",
+                "Test it on random people",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Anymore people to test it on?</span></div></span></div>",
+            "created":1568608740,
+            "id":2718867,
+            "title":"More Choices"
+        },
+        "125":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Choose yourself",
+                "Choose a family member of yours",
+                "You choose your friends"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a fully grown woman that is married and have kids, wishing to have an exciting life.  That's when you discovered an app and can devolve anyone you target.  You wonder who will you choose to devolve?</span></div></span></div>",
+            "created":1569818220,
+            "id":2725691,
+            "title":"Adult (30 - 40 Year Old)"
+        },
+        "1251":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Devolve",
+                "Evolve"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to choose yourself as a way to see if this app works or not.  Opening the app, you select your name and hit enter.  Then there are two options on the app, one saying 'Devolve', the other saying 'Evolve'  Which will you choose?</span></div></div>",
+            "created":1570424280,
+            "id":2729297,
+            "title":"Yourself"
+        }
+    },
+    "info":{
+        "author_id":"luisjm",
+        "author_name":"M",
+        "brief_description":"There's an App where a user can Devolve from a human all the way to an organism.",
+        "created":1568087940,
+        "description":"<td align=\"left\" class=\"norm\">In today\u2019s technological world, everyone has apps on their portable phones.  Whether it be for playing, work, news, or watching videos, there is always an app for anyone to enjoy.  But there is one rare app that few people know.  Lately, a mysterious app appeared in every phone and tablet called De-Evolve.  The purpose of this app is to devolve the host\u2019s body or someone else\u2019s into different classes down the evolutionary ladder.  It acts as a time machine where the user can witness the past in the most impressive of ways.  It can also devolve the world around the person to match the environment of the host\u2019s devolved body along with both outfit and mentality.  There's also the option of switching from De-Evolve to Evolve as the user can look into the future of what the human race will become.  Not only that, but it can also act as a timer on how long the devolving takes and how long the effects will last, this will include leaving the devolved host\u2019s change permanent.<br>\r\n<br>\r\nThere will be people that would like this app to have a much simpler life, to have a break from all the work they had to do, or to take part of a life long history.  Though few would like to devolve themselves, they only use it for vacation purposes or understanding their roots from the very start.  However, there would be few of them that do like to stay in the devolve state their in for the rest of their lives, let along back to the very start of life.  Still, this app is the most sophisticated and unique of apps out there.<br>\r\n<br>\r\nThe rules are simple...<br>\r\n<br>\r\n1. The De-Evolve App will work on one person, or a group of people<br>\r\n2. Nudity and Sex is allowed if you wish to add it.<br>\r\n3. There will be no violence in this story<br>\r\n4. Be creative<br>\r\n<br>\r\nThis is your story.  This is your experience of the app.  This is where you will experience your trip back or forward in time.  Let us begin!</td>",
+        "id":2200257,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1577681580,
+        "modified":1577681580,
+        "pretty_title":"De-Evolve App"
+    }
+}

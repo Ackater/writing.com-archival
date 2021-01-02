@@ -1,0 +1,795 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "John, age 18",
+                "Amy, age 17",
+                "same characters, younger age",
+                "same characters, older age",
+                "Completely different characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your character.</span></div></span></div>",
+            "created":1411275600,
+            "id":1859832,
+            "title":"First things first."
+        },
+        "11":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Jenna, the hottest girl at school, who enjoys teasing John when he loses.",
+                "Miley, John's younger sister of 15 going on 30 year old dominatrix.",
+                "Rich, a Bisexual friend of John's who enjoys his escapades.",
+                "Dina, a cruel girl who enjoys humiliating John for the sake of it.",
+                "More options..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is John's opponent?</span></div></span></div>",
+            "created":1417928400,
+            "id":1898923,
+            "title":"John, age 18"
+        },
+        "111":{
+            "author_id":"teraton_arm",
+            "author_name":"Teraton",
+            "choices":[
+                "Before class starts.",
+                "Gym class.",
+                "Somewhere outside of school."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where was Jenna going to start trouble for John?</span></div></span></div>",
+            "created":1429678800,
+            "id":1968102,
+            "title":"Jenna, the hottest girl at school, who enjoys t..."
+        },
+        "1112":{
+            "author_id":"teraton_arm",
+            "author_name":"Teraton",
+            "choices":[
+                "\"Playing dodgeball.\"",
+                "\"Doing our physical fitness exams.\"",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><div> <span>Gym was not, by any stretch of the imagination, a class John enjoyed. Yeah, it was a break from the usual sort of sitting-and-writing work that the other classes were comprised of. On the other hand, he was a lot better at sitting and writing than he was at running, or jumping, or generally being good at sports. Not that he was totally out of shape; he just wasn\u2019t very fit. Or coordinated. Or enthusiastic.<br>\r\n\tOf course, there was something that John was enthusiastic about. Everyone in school knew it. Most of them had seen the aftermath at least once. Some of them, like the girl walking towards him as he exited the boy\u2019s locker room, even abused this fact from time to time.<br>\r\n\t\u201cHey Johnny!\u201d John flinched at the voice. He wore a half-hearted grin, but as he turned to face its owner, he knew he was in for an experience that day.<br>\r\n\t\u201cH-Hey, Jenna.\u201d<br>\r\n\tJenna was well known at school, being a senior like John, and one who had that right mix of pretty, clever, and friendly to become very popular. Of course, she was friendly to people who were already her friends- if you were bothersome, or like John was, exploitable, she knew how to make your life hard. Thanks to his habit, John was a favorite target for her in recent years. Still, he knew there were worse people that could be coming up to him, predatory look in their eyes. Not many, but still\u2026.<br>\r\n\t\u201cSo, John\u2026 Do you know what we\u2019re doing in gym today?\u201d John shook his head, Jenna not even bothering to hide her smile anymore. \u201cCoach says that today, we\u2019re\u2026\u201d</span></div></div>",
+            "created":1429678800,
+            "id":1968103,
+            "title":"Gym class."
+        },
+        "11121":{
+            "author_id":"teraton_arm",
+            "author_name":"Teraton",
+            "choices":[
+                "John's team does poorly on purpose.",
+                "John's team barely matching Jenna's.",
+                "John gets injured somehow."
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cDodgeball, huh?\u201d John couldn\u2019t say he was too happy to hear that. A couple of jogs around the school track, half-assing his way through barely-supervised games of badminton, that was more his speed.<br>\r\n<br>\r\n\t\u201cMm-hm. And you know what I thought we could do? To make things a little more interesting?\u201d<br>\r\n<br>\r\n\t\u201c\u2026\u201d<br>\r\n<br>\r\n\t\u201cI thought we could make a little wager.\u201d Despite himself, John\u2019s curiosity was piqued. Try as he might, he was already hooked.<br>\r\n\t\u201c\u2026What kind?\u201d<br>\r\n<br>\r\n\tJenna\u2019s smile got wider, if that was even possible. \u201cWell, we can pretty reasonably make sure that the two of us are on different teams. The games should go fast enough that we have time for at least 3 rounds. Whoever\u2019s team loses that round\u2026.\u201d<br>\r\n<br>\r\n\t\u201c\u2026.Has to take something off?\u201d John finished.<br>\r\n<br>\r\n\t\u201cExactly! We\u2019ll leave the socks and shoes, for fairness\u2019s sake, so with shirt, shorts, and underwear on each of us, that\u2019s three \u2018strikes\u2019 a piece.\u201d Jenna extended a hand towards John. \u201cDo we have a deal?\u201d<br>\r\n<br>\r\n\tBoth John and Jenna knew that, at this point, she didn\u2019t even have to ask. John took her hand and shook it. \u201cDeal.\u201d<br>\r\n<br>\r\n\t\u201cPerfect!\u201d The two of them joined the rest of the class just as the coach was coming out of her office to conduct warmups and explain the day\u2019s plans. The class was divided into two teams (John could swear that some of the other kids were already leering at him eagerly), and sure enough, Jenna was on the opposite team. The Coach blew her whistle, the game started, and\u2026.</span></div></div>",
+            "created":1429678800,
+            "id":1968104,
+            "title":"\"Playing dodgeball.\""
+        },
+        "111211":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Jenna's teammates catch on, and begin trying to lose on purpose as well.",
+                "It was a complete route, and John's team loses once again.",
+                "John's team has an accident?"
+            ],
+            "content":"<div class=\"\"><div> <span>If John didn't know any better, he might have thought his team was just having a bad luck streak, as the first round ended rather quickly with his team members getting quickly eliminated, but then it struck him that there was something odd; his team was mostly comprised of the girls in the class.<br>\r\n<br>\r\nOnly then did he suspect that this might have been a rigged game, that perhaps Jenna had convinced them to lose on purpose so that she could humiliate John again.<br>\r\n<br>\r\nAs the round came to a close, John caught Jenna giving him a knowing look; she wanted him to strip, sighing, John removed his t-shirt, exposing his bare chest, and became very much aware that his team were trying their best to stare at him as inconspicuously as possible.<br>\r\n<br>\r\nAs the second round started...</span></div></div>",
+            "created":1430370000,
+            "id":1971536,
+            "title":"John's team does poorly on purpose."
+        },
+        "1112112":{
+            "author_id":"teraton_arm",
+            "author_name":"Teraton",
+            "choices":[
+                "Jenna's team gets a hat-trick, John has to bare it all.",
+                "Some of his teammates take pity on him, and delay the match until the class ends",
+                "The coach comes out, demanding to know what's going on."
+            ],
+            "content":"<div class=\"\"><div> <span>Things weren't much different the second time around. Jenna's team looked bored, but nonetheless they kept on their warpath, chucking ball after ball at the girls on John's team. John could have sworn that the girls on his team were jumping straight into the path of the oncoming projectiles, but he didn't have time to really look as he was jumping every which way trying not to get hit. Eventually though, his efforts proved to be for not; he was running to grab a ball left on the ground, when he \"mysteriously\" tripped. He felt the cold tile slide against his shoulder, the sting of rubber on his bared chest, and a sense of dread as he looked up into Jenna's grinning face.<br>\r\n<br>\r\n\"Alright, Johnny,\" she said, as John climbed to his feet, \"you know what to do.\"<br>\r\n<br>\r\nJohn hooked his thumbs into the waistband of his shorts, but before he pulled them down, he frowned, looking up at Jenna. \"You rigged this game, didn't you?\"<br>\r\n<br>\r\nJenna took on a look of mock hurt. \"What? Me? Don't be such a sore loser, John!\" <br>\r\n<br>\r\nJohn grumbled, looking over his shoulder at the girls on his team, waiting anxiously for John to carry out his penalty. He shook his head, sighed deeply, and send his shorts falling to the floor. His black boxer briefs left little to the imagination, and despite himself, there was already a bulge growing at the front of it. Doing his best to ignore the giggles and murmurs from behind him, John kicked his shorts towards Jenna, who picked them up with a flourish before tossing them out of the way.<br>\r\n<br>\r\nAlmost out of energy, almost out of time, and pretty much out of hope that he'd get any help from his teammates, John got ready for the final match to just be over...</span></div></div>",
+            "created":1440997200,
+            "id":2028298,
+            "title":"It was a complete route, and John's team lo..."
+        },
+        "11121121":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "John accepts, but wants different rules.",
+                "John accepts the current proposal.",
+                "John refuses, and must continue the rest o the day naked."
+            ],
+            "content":"<div class=\"\"><div> <span>John's heart was beating a million times a second by now, he was barely able to stabilize his hands to remove his boxers, finally exposing his hard boner to the open air, he heard a couple of catcalls aimed at him, and John himself couldn't believe how he wasn't just orgasming on the spot.<br>\r\n<br>\r\n\"Well Johnny boy, looks Like I win,\" Jenna gloated haughtily, John could do nothing but glare at her impotently, knowing that he was probably not even allowed to cover up \"unless you want to go double or nothing?\"<br>\r\n<br>\r\n\"... What are you suggesting?\" John's heart was leaping up to his throat, despite knowing that this was probably a set-up, he couldn't stand not asking.<br>\r\n<br>\r\n\"Well, I was thinking we could go one last round, loser takes all, and by all, I mean clothes and a forfeit.\" Jenna proposed a sudden death match between her team and John's, if John loses, he has to perform a forfeit right there for everyone, if he won however, not only will he get his clothes back, Jenna would also have to strip completely naked and perform the forfeit herself.</span></div></div>",
+            "created":1441515600,
+            "id":2030640,
+            "title":"Jenna's team gets a hat-trick, John has to ..."
+        },
+        "111211211":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "John wants to to switch teams with Jenna.",
+                "John wants the first throw.",
+                "John wants to play one on one against Jenna."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Alright, you're on.\" John said, to the cheers of everyone else, Jenna looked quite smug, knowing that she will get to humiliate John \"But on one condition.\"<br>\r\n<br>\r\nThe cheers were silenced and Jenna's smirk disappeared, she thought for a second, then said:<br>\r\n<br>\r\n\"Well, I suppose that's fair, let's hear it.\" She agreed, and gave John the chance to even the odds.</span></div></div>",
+            "created":1470777780,
+            "id":2193629,
+            "title":"John accepts, but wants different rules."
+        },
+        "111211212":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "John loses again, to no one's surprise.",
+                "John wins!?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>John couldn't help himself, As simple and obvious Jenna's trap was, John could think of nothing but taking the bet.<br>\r\n<br>\r\n\"You're on!\" John declared the bet taken, and they began playing again.</span></div></span></div>",
+            "created":1454907600,
+            "id":2101210,
+            "title":"John accepts the current proposal."
+        },
+        "115":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Emily, a girl with a crush on John, who seems to lose just as much as John does.",
+                "Lita, a girl who enjoys having sex with John, and uses strip games to do so.",
+                "more options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else becomes John's rival?</span></div></span></div>",
+            "created":1420952400,
+            "id":1916495,
+            "title":"More options..."
+        },
+        "1153":{
+            "choices":[
+                "Paul, 12 years old, John's first cousin visiting from Oaklahoma",
+                "Beth, 11 years old, neighborhood girl selling cookies",
+                "Readers Choice"
+            ],
+            "content":"<div class=\"\"><div> <span><br>\r\n             Who else becomes John's rival?<br>\r\n<br>\r\n<br>\r\n<br>\r\n              Paul (12 yrs. old) John's first cousin visiting from Oaklahoma...<br>\r\n<br>\r\n               Beth (8yrs.old) neighborhood girl selling cookies...</span></div></div>",
+            "created":1421211600,
+            "id":1917934,
+            "title":"more options"
+        },
+        "11532":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "John wins some and loses some, he and Beth are both down to a single piece.",
+                "John gets skunked, he's naked with Beth still completely dressed.",
+                "John is more resilient than she though, and has her naked in no time."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Alright already, I'm coming!\" John yelled out to the doorbell that was ringing quite incessantly, he rushed down to the door in irritation, it was Sunday and he was home alone, he liked to enjoy the weekends in peace, neither his parents nor his sisters were around and it was one of the few chances he had to enjoy himself.<br>\r\n<br>\r\n\"Yeah, who is it?\" John asked in clear boredom as he opened the door, only to be greeted by Beth, an 11-year-old girl who was wearing her girl scouts uniform and was carrying quite a hefty and overstuffed bag.<br>\r\n<br>\r\n\"Hey John, I'm selling some cookies and I really need to make my quota so I get my badge.\" Beth did her best to give John the most endearing puppy-dog eyes she could muster. \"Please buy some.\"<br>\r\n<br>\r\nJohn was taking aback by the sudden request, but he seemed rather uncomfortable: \"Hey Beth, sorry but I need my allowance to buy some new clothes.\"<br>\r\n<br>\r\nThis was true; John had gone through quite a few sets of clothing, all thanks to his costly habit of playing strip games, his opponents didn't give them back that often, and he was forced to replace them with his own money.<br>\r\n<br>\r\n\"C'mon John, I know you can spare some to buy these.\" Beth opened her bag and showed off the stacks of cookie boxes \"They're pretty tasty.\"<br>\r\n<br>\r\n\"I can't Beth, I'm sorry.\" John insisted, but Beth seemed undeterred, she did, however, change her approach,<br>\r\n<br>\r\n\"Okay then John, how about a different deal?\" Beth said, shrinking back and closing her bag, she seemed reticent to try this \"I hear you like to play strip games? So let's play.\"<br>\r\n<br>\r\n\"What?\" John was certainly surprised; was his reputation that widespread that even a teenage girl who just hit puberty knew about it? And was he seriously considering her offer?<br>\r\n<br>\r\n\"Let's play rock paper scissors, when you win a hand, I take off a piece of clothing and you can have a box for free,\" Beth began explaining, John wondered if she prepared herself for this eventuality \"on the other hand, if I win, you take a piece off and you have to buy a box from me.\"<br>\r\n<br>\r\nAfter some consideration, John agreed to the game, <br>\r\n<br>\r\n\"Okay, we'll play out here on the front porch.\" John was surprised by the final condition Beth made, but that was her plan all along, she was already starting to mess with his head, she knew this game was all about psychological superiority.</span></div></div>",
+            "created":1470780240,
+            "id":2193642,
+            "title":"Beth, 11 years old, neighborhood girl selling c..."
+        },
+        "11533":{
+            "author_id":"teraton_arm",
+            "author_name":"Teraton",
+            "choices":[
+                "Candice, his manager who excuses his habit as long as she can exploit it.",
+                "Ms. Hanson, his 30yo neighbor who's only a little bit better at games than John",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Some more choices, this time a bit older than John.</span></div></span></div>",
+            "created":1429419600,
+            "id":1966290,
+            "title":"Readers Choice"
+        },
+        "115331":{
+            "author_id":"teraton_arm",
+            "author_name":"Teraton",
+            "choices":[
+                "Candice herself; his performance determines if he or she gets naked.",
+                "His coworkers; whoever sells to meet their quota gets to keep their clothes.",
+                "The clock; he needed to stock shelves faster, or be stripped."
+            ],
+            "content":"<div class=\"\"><div> <span>Sitting facing the window of her office, Candice watched her employees make their way to their positions for the opening shift. It was going to be a long day for all of them, with the sales the store was running that weekend. Of course, one of them might feel the crunch a little more than the others...<br>\r\n<br>\r\nJohn was happy to work at the department store. It was a calm, simple job, if occasionally pretty demanding. He had yet to be stripped there, too! ... Sure, he'd shown up to work undressed, on an occasion or two, but his manager Candice was nice enough to not fire him over it. She'd even let him organize the stock room those days, keeping him safely away from public eyes.<br>\r\n<br>\r\nOf course, what he didn't realize was that Candice had a problem, and John's habit figured pretty heavily into the solution. It was simple enough, though it would pit John against...</span></div></div>",
+            "created":1440997200,
+            "id":2028309,
+            "title":"Candice, his manager who excuses his habit as l..."
+        },
+        "115333":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Trevor the amateur porn director",
+                "A group of women challenge John and friends",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's try some group games</span></div></span></div>",
+            "created":1464066000,
+            "id":2153185,
+            "title":"More choices"
+        },
+        "1153331":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "John matches his own forfeits",
+                "Another player loses faster than John",
+                "John's first non-clothing forfeit"
+            ],
+            "content":"<div class=\"\"><div> <span>Trevor just turns eighteen himself but he's eager to film his first porno. He decides his first video will be a strip game with forfeits. Naturally he asks John who says yes. He gets three other guys and four girls as well. He has to pay some of them or they won't participate. To make it fair, he has to pay all of them the same. John would do it without pay but the pay is an added bonus.<br>\r\n<br>\r\nTrevor explains the rules. \"The game is like memory. I made my own cards for this game. The cards are color coded so each of you must pick a color. The choices are red, orange, green, blue, purple, teal, brown, and gray.\"<br>\r\n<br>\r\nThe girls choose purple, teal, blue and red. John chose green for go.<br>\r\n<br>\r\nTrevor continues, \"In each color, there are a total of twelve pairs. I will start the game by randomly laying out four pairs for each of you. So there will be a total of sixty four cards on the table. On your turn, turn over two cards. Let's say Mark turns over two cards that are both red shoes. That means Sherry who chose red has to take her shoes off. Mark gets to go again until he picks two cards that don't match.\"<br>\r\n<br>\r\nMark asks, \"What if we match our own color?\"<br>\r\n<br>\r\nTrevor explains, \"Then you have to do whatever forfeit is on your card. If you draw your own color and you don't want to do the forfeit then try to pick a second card you know doesn't match it. However, you would end your turn having revealed one of your forfeit cards to the next player. I will give you a little incentive to match your own forfeit. For every pair you find, whether yours or someone else's, I'll give you twenty dollars. That means $1,920.00 dollars is up for grabs on top of what other money you might make.\"<br>\r\n<br>\r\nJenna asks, \"How can you afford all that money?\"<br>\r\n<br>\r\nTrevor explains, \"I've been saving up for a car but I'm sure I can make up the cost by selling this video. Anyway, the first set of cards you'll be matching will take care of your outer wear. One tells you to remove both shoes. One takes care of both socks. One removes outer shirt or blouse. And the other removes pants, shorts or skirts. When the first set of cards have been reduced to ten cards left, I'll mix in the next set of cards. Guys will have to wear an undershirt because one forfeit removes bra or undershirt. There is of course a forfeit that removes underwear and when you've drawn your last clothing forfeit, you have to be naked so no cheating by wearing extra clothes. There are a couple of non-clothing forfeits in the second set. When these cards are down to the last ten, I will mix in a third set which are pure forfeits. So altogether, in the game are six clothing forfeits and six non-clothing forfeits. On top of that, if I feel inspired, I might dare you to do additional forfeits and pay you for each additional forfeit you do. At the very end of the game, the one who lost the most has to do a forfeit decided by the one who won the most.\"<br>\r\n<br>\r\nTrevor paused to let them contemplate the rules. \"I know some of you have your limits of what you won't do. The cards themselves are tame and won't cross any of your limits. The additional forfeits might but you can refuse if I don't offer enough money. The final forfeit should also be relatively tame so whichever of you wins, don't ask for anything extreme. Unless you have questions, I think we're ready to play.\"</span></div></div>",
+            "created":1464066000,
+            "id":2153217,
+            "title":"Trevor the amateur porn director"
+        },
+        "11533313":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "John says, \"Yes.\"",
+                "John says, \"No.\"",
+                "Option 3"
+            ],
+            "content":"<div class=\"\"><div> <span>Although John enjoyed these games and didn't mind losing, he wouldn't purposefully lose. Even when he had an opportunity to match his own forfeit, the twenty dollars wasn't his motivation so he ended his turn. He lost his pants anyway but his principle was that he didn't lose his pants on purpose. Therefore, when the second set of cards were mixed in, John still had his shirt.<br>\r\n<br>\r\nJohn was actually winning this game of memory. Rich, Mark, Jenna and Emily were already completely naked before John lost his underwear. So John played while still wearing both his shirt and undershirt. His cock and ass were still covered except for tantalizing peeks.<br>\r\n<br>\r\nIt was Sherry's turn and she turned over a green gag. John knew where the match was and hoped Sherry had forgotten. Her hand moved toward the match, then past it, but then came back to it. John turned away so he wouldn't see it. Everyone else laughed.<br>\r\n<br>\r\nTrevor said, \"You have the first choice between eight gags. Four of the gags are just bandannas that you can still talk through but you have to have in your mouth, not just covering it. BUT, I will pay you a hundred dollars to choose the cock gag.\"</span></div></div>",
+            "created":1464066000,
+            "id":2153236,
+            "title":"John's first non-clothing forfeit"
+        },
+        "115333131":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Mark's turn",
+                "Jenna's turn",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>The cock gag had two dildos attached. One was small enough to easily fit in the mouth. The other was seven inches long and thick. There was a breathing tube through the center of both dildos.<br>\r\n<br>\r\nRich joked that John couldn't handle the bigger dildo. Trevor said, \"I'll give you a hundred dollars to try.\"<br>\r\n<br>\r\nJohn tried but he couldn't get past his gag reflex. \"No, can't do it.\"<br>\r\n<br>\r\nTrevor said, \"I'll raise it up to a thousand dollars to wear the gag with the bigger one down your throat.\"<br>\r\n<br>\r\nJohn really tried but he really couldn't do it.<br>\r\n<br>\r\nTrevor said, \"I'm not going any higher than a thousand.\"<br>\r\n<br>\r\nJohn said, \"It doesn't matter how much you offer, I can't do it.\"<br>\r\n<br>\r\nTrevor said, \"What if you had help?\"<br>\r\n<br>\r\nTrevor pointed and Rich took the gag. John felt a cock against his ass crack. Then he felt the gag against his lips. He put his hands against the gag to keep it out, then he said, \"Wait.\"<br>\r\n<br>\r\nJohn added extra lube to the gag. Then he pressed himself into Rich and braced. Rich's cock responded by pressing into John's ass crack. John reached around behind Rich to get a firm grip and said, \"Now.\"<br>\r\n<br>\r\nThe feeling was severe but over quickly. After a little gagging, John got used to breathing that way. Rich snapped the latch and it was secured.<br>\r\n<br>\r\nJohn felt a cock press against his hole but it had not gone in. John pulled away.<br>\r\n<br>\r\nThe tip of the dildo was deep down John's throat and not leaving any time soon.</span></div></div>",
+            "created":1464066000,
+            "id":2153247,
+            "title":"John says, \"Yes.\""
+        },
+        "12":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Her friend Suzie, who likes getting Amy into embarrassing situations",
+                "Her friend Jamie, who has a thing for having Amy naked under his will",
+                "Her rival Samantha, who enjoys humiliating Amy in all sorts of manners",
+                "One of her teachers",
+                "someone else entirely"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does Amy play against?</span></div></span></div>",
+            "created":1411275600,
+            "id":1859840,
+            "title":"Amy, age 17"
+        },
+        "121":{
+            "author_id":"okayterrific",
+            "author_name":"okayterrific",
+            "choices":[
+                "the boardwalk",
+                "the bowling alley",
+                "trivia night at a restaurant"
+            ],
+            "content":"<div class=\"\"><div> <span><br>\r\nAmy and Suzie had been best friends since they first met in Kindergarten and over the years Suzie, more than anyone else, had taken advantage of Amy\u2019s refusal to turn down a strip game.   Amy never minded Suzie\u2019s challenges because she had absolute trust in her and of course because she enjoyed the games.  Although she never lost a bet or a challenge on purpose she could count on one hand the number of times Suzie had lost compared to the dozens and possibly hundreds of times that Amy had lost. <br>\r\n<br>\r\nAmy\u2019s favorite aspect of their games together is that Suzie always made the challenge out in public where the risk of humiliation and exposure were at their greatest.  Raising the stakes like that always made the game most enjoyable for her and Amy was usually wet with anticipation whenever the two of them hung out somewhere other than one of their houses. <br>\r\n<br>\r\nShe had no plans tonight and was dressed in only  a pair of tiny shorts and a t-shirt when she lay on her bed to watch TV and catch up with her DVR recording.  Just as she stretched her bare legs out in front of her she heard the familiar tone that she had assigned to Suzie on her cell phone and she grabbed it excitedly.<br>\r\n<br>\r\n\u201cI\u2019m bored, you wanna do something?\u201d Suzie asked.<br>\r\n<br>\r\n\u201cYeah, I\u2019d love to get outta here, \u201cAmy replied.  \u201cI just need a few minutes to change.  What did you have in mind?\u201d<br>\r\n<br>\r\nSuzie responded, \u201cAlright, I\u2019ll be there in 15 then we can go to\u2026\u201d<br>\r\n</span></div></div>",
+            "created":1416286800,
+            "id":1888958,
+            "title":"Her friend Suzie, who likes getting Amy into em..."
+        },
+        "1212":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "\"He's fine with us playing a strip game with the customers there.\"",
+                "\"He's letting us have the place to ourselves this afternoon.\"",
+                "\"He's letting us throw a party there for no charge.\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"The bowling alley?\" Amy was somewhat incredulous, of all the things she imagined doing on her time off, it was certainly not bowling.<br>\r\n<br>\r\n\"Trust me, you'll love it!\" Suzie assured her, saying goodbye and hanging up before Amy could ask anything else.<br>\r\n<br>\r\n15 minutes later, Suzie arrived and picked up Amy.<br>\r\n<br>\r\n\"So why are we going bowling of all places?\" Amy's curiosity was reaching its peak, she had to ask.<br>\r\n<br>\r\n\"Well, let's just say that I know the owner,\" Suzie explained \"which means...\"<br>\r\n<br>\r\n<br>\r\n------------------<br>\r\n<br>\r\nA) \"He's fine with us playing a strip game with the customers there.\" - Amy and Suzie play a Strip game in front of an audience<br>\r\n<br>\r\nB) \"He's letting us have the place to ourselves this afternoon.\" - Amy and Suzie are playing alone in the alley<br>\r\n<br>\r\nC) \"He's letting us throw a party there for no charge.\" - Amy and Suzie invite other people to join in the strip game</span></div></div>",
+            "created":1416373200,
+            "id":1889599,
+            "title":"the bowling alley"
+        },
+        "12121":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "A packed alley, with people of all ages and types.",
+                "A modestly populated alley, with mostly men and boys playing.",
+                "It's almost empty save for some staff, unfortunately."
+            ],
+            "content":"<div class=\"\"><div> <span>The reasoning made Amy's heart skip, she would get to play a strip bowling game? And in front of complete strangers as well?<br>\r\n<br>\r\nAmy could barely contain her excitement at the prospect, she couldn't wait to get to the bowling alley now.<br>\r\n<br>\r\n\"Keep your pants, Amy,\" Suzie, noticing her friend's excitement \"Well, at least until I beat them off you.\"<br>\r\n<br>\r\n\"Very funny.\" Amy's response was sarcastic, but she actually was extremely excited to play.<br>\r\n<br>\r\nAs the two reached the bowling alley, they stepped inside where Amy saw...</span></div></div>",
+            "created":1417842000,
+            "id":1898529,
+            "title":"\"He's fine with us playing a strip game..."
+        },
+        "123":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "in school, for all the school to see.",
+                "after school, and most likely in public.",
+                "at her part time job, where even her boss can see."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What and where does Samantha challenge Luna?</span></div></span></div>",
+            "created":1411275600,
+            "id":1859856,
+            "title":"Her rival Samantha, who enjoys humiliating Amy..."
+        },
+        "1231":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "In between classes in the classroom.",
+                "In the gym, while they're in PE.",
+                "During an assembly."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, exactly <i>where </i>in school?</span></div></span></div>",
+            "created":1411275600,
+            "id":1859860,
+            "title":"in school, for all the school to see."
+        },
+        "12311":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "\"... See who gets more questions right in every class, the loser strips.\"",
+                "\"... We play rock paper scissors now, loser remains naked the whole day.\"",
+                "\"... We see who the class wants naked most, the 'winner' strips.\""
+            ],
+            "content":"<div class=\"\"><div> <span>Today was a boring day in school, like every other day, Amy sat there, wishing that the day would go faster, it was only the first period too.<br>\r\n<br>\r\nSalvation came and the bell rang, Amy groaned in relief, letting her head rest on the desk.<br>\r\n<br>\r\n\"Psst!\" Amy heard from across the class.<br>\r\n<br>\r\n\"Yo, Lamy!\" That nickname was unique though, Amy recognized it immediately, it was her arch-nemisis' Samantha's favorite nickname for her, no creativity at all, though a creative one wouldn't help any more.<br>\r\n<br>\r\n\"What do you want, Samantha?\" Amy, exasperated, replied laboriously.<br>\r\n<br>\r\n\"How about a strip game?\" Those words, almost like magic, echoed in Amy's mind, she knew she was helpless to resist.<br>\r\n<br>\r\n\"You're on!\" Amy agreed enthusiastically, even though she hadn't even heard the terms for the game yet.<br>\r\n<br>\r\n\"Alright then, we'll...\"</span></div></div>",
+            "created":1413522000,
+            "id":1873158,
+            "title":"In between classes in the classroom."
+        },
+        "123112":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Amy wins by a hair, and gets Samantha naked.",
+                "Amy loses at the very last round, manages to stay in her underwear.",
+                "It wasn't even close, Amy was naked before Sam lost a single piece of clothing."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, does Amy win?</span></div></span></div>",
+            "created":1413522000,
+            "id":1873159,
+            "title":"\"... We play rock paper scissors now, loser..."
+        },
+        "1231123":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Amy tries to bargain for another chance... With a riskier outcome.",
+                "The class starts to pay \"Extra\" attention to Amy.",
+                "Samantha refuses to return Amy's clothes at the end of the day."
+            ],
+            "content":"<div class=\"\"><div> <span>Amy couldn't believe her luck, throw after throw, she kept losing piece after another, she even suspected cheating, but how would you cheat in rock paper scissors?<br>\r\n<br>\r\nSoon enough, Amy was forced to remove all of her clothes, first the shoes and socks, she enjoyed the feeling of the cold school floor underneath her soles, then her skirt went, under which she wore a pair of black panties, soon enough, Amy lost her shirt, revealing her perky breasts and already hard nipples, many commented on her lack of bra, and it was one more throw before Amy found herself peeling her panties off and standing completely naked in front of the class, covering her breasts with one arm and her crotch with the other.<br>\r\n<br>\r\nThe entire class was focused on  her, either laughing at her embarrassment, disgusted with her \"slutty\" behaviour, or extremely excited at the sight of the naked and nubile 17 year old.<br>\r\n<br>\r\n\"I'll be taking those now.\" Samantha said as she reached down and collected all of Amy's clothes \"You won't be needing those today.\"<br>\r\n<br>\r\nAmy, now beyond embarrassment (and even arousal) sat back shyly in her chair, fully aware that her nudity was the center of attention now.</span></div></div>",
+            "created":1413522000,
+            "id":1873255,
+            "title":"It wasn't even close, Amy was naked before ..."
+        },
+        "12311231":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Amy loses yet again, and must perform a forfeit.",
+                "Amy wins, and happily wears the now naked Samantha's clothes."
+            ],
+            "content":"<div class=\"\"><div> <span>The next class was history, Amy tried her best to stay calm, but the teacher was clearly aware that Amy had somehow gotten herself naked yet again, the most humiliating part was that she knew that the teacher wouldn't mind, since she was already stripped naked during class so many times it was normal to the staff.<br>\r\n<br>\r\n\"Everyone, I know you're enjoying Miss Summers' current attire, but please focus on the class.\" was the only thing the teacher said to address this situation.<br>\r\n<br>\r\nAfter the class was done, Amy approached Samantha on her own this time around, pleading the girl to give her another chance.<br>\r\n<br>\r\n\"Fine, tell you what, we'll play one round, if you win, you get my clothes, but if you lose, you do a forfeit.\"<br>\r\n<br>\r\nAmy's heart was thumping madly, but she was already hooked, she agreed to play.</span></div></div>",
+            "created":1435899600,
+            "id":2002708,
+            "title":"Amy tries to bargain for another chance... With..."
+        },
+        "123112311":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "\"... You get 10 smacks on the rear.\"",
+                "\"... You will have one picture taken of you by us after class.\"",
+                "\"... You will add an extra minute to the time we get to fondle you afterwards.\""
+            ],
+            "content":"<div class=\"\"><div> <span>Amy's losing streak continued, with a paper against scissors, the class cheered as Amy now faced a forfeit.<br>\r\n<br>\r\n\"You will raise your hand whenever the next teacher asks a question, when you're at the board, you must do your best to display your cute little butt and pussy to us\" Sam began explaining.\"And for every question you get wrong...\"<br>\r\n<br>\r\nAmy was now terrified, next class was Math, one of her least favorite subjects.</span></div></div>",
+            "created":1435899600,
+            "id":2002711,
+            "title":"Amy loses yet again, and must perform a forfeit."
+        },
+        "1233":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "A coffee shop as a waitress.",
+                "An office as a clerk.",
+                "Nowhere in particular, she's a babysitter."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where does Amy work?</span></div></span></div>",
+            "created":1417842000,
+            "id":1898497,
+            "title":"at her part time job, where even her boss can see."
+        },
+        "12331":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Samantha was there as a customer, and she specifically requested Amy to serve.",
+                "Samantha was there as a new waitress.",
+                "Samantha was there as Amy's boss!"
+            ],
+            "content":"<div class=\"\"><div> <span>Amy loved to play strip games, however, that obsession came with a few drawbacks, such constantly losing her clothes to her opponents, which meant having to justify losing them to her parents every now and then.<br>\r\n<br>\r\nHer parents, while not exactly concerned with her ending up in various states of undress and humiliation, did seem to mind buying her new clothes frequently and wasting money on them this way, which meant that Amy had to get a job simply to pay for any clothes she lost in her games.<br>\r\n<br>\r\nAnd that job as a waitress in the local coffee shop, \"Starducks\", a duck themed shop with sickening yellow motif, it even had a silly duck hat as part of the uniform, Amy had been stripped naked in public many times, but having to wear that costume was still one of the more humiliating experiences in her life.<br>\r\n<br>\r\nAnd it was probably going to get worse, as Amy saw her rival. Samantha, in the shop today...</span></div></div>",
+            "created":1418965200,
+            "id":1904728,
+            "title":"A coffee shop as a waitress."
+        },
+        "123311":{
+            "author_id":"lolwritingcom",
+            "author_name":"Lolwritingcom",
+            "choices":[
+                "A complicated card game",
+                "Amy has to... Do her job?",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>It was odd to have been requested specifically to be someone's server. Her boss, Emily, had made it clear, though, that Amy was to be as gracious and obedient to her customers as possible. Emily, a bit like her parents and teachers, seemed to constantly think that Amy needed to be taught a lesson about something- responsibility, caution... who could tell? She'd learned one thing, at least- to listen to what Emily told her.<br>\r\n<br>\r\n\"Hi, and welcome to Starducks, can I-\"<br>\r\n<br>\r\n\"Hey, Amy.\"<br>\r\n<br>\r\nAmy stopped talking and gawked at the person who had asked to be served by her- Samantha, her rival at school. Samantha had an infuriating habit of being just a little bit better than Amy at everything and flaunting it at her. Worse, while Amy's addiction to strip games was not exactly a secret, Samantha seemed to know better than anyone how to goad her into playing and getting in over her head with the bets.<br>\r\n<br>\r\n\"Wh- Samantha! Who... who told you I worked here?\" Amy sputtered.<br>\r\n<br>\r\n\"Oh, you know, word gets around. I thought you could fetch me a coffee... and then join me for a little strip game.\"<br>\r\n<br>\r\n\"You're on!\" Amy exclaimed, ever eager to get her revenge on Samantha. \"Wait... at work? What kind of game?\"<br>\r\n<br>\r\n\"Oh, don't worry about the 'at work' part. I've already talked to your boss, and she thinks it would be good for you. As for what game, well- you didn't ask! So I guess it will be a surprise. I think I placed an order, though... you <i>do</i> want to listen to your customers, don't you?\"<br>\r\n<br>\r\nAfter Amy dutifully retrieved a coffee for Samantha, she returned to the table and discovered that Samantha's game was...</span></div></div>",
+            "created":1429246800,
+            "id":1965662,
+            "title":"Samantha was there as a customer, and she speci..."
+        },
+        "1233112":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Amy somehow manages to fall short of $40 all three days at first, losing.",
+                "Amy actually manages to win all first three days, stripping Samantha.",
+                "Amy loses on the first two days, but wins the last!"
+            ],
+            "content":"<div class=\"\"><div> <span>As Amy delivered the coffee to Samantha, carefully setting the cup down on the table, she stood there waiting for Samantha t explain the game, but the girl simply sat there, sipping her coffee casually, almost as if she no longer saw Amy there.<br>\r\n<br>\r\nOf course, this was all just a way for Samantha to get on Amy's nerves, and Amy was getting impatient.<br>\r\n<br>\r\n\"Yes?\" Samantha asked innocently, finally looking up at Amy.<br>\r\n<br>\r\n\"I have work to do, you know, so hurry up and tell me what we're playing.\" Amy lied; the place was relatively empty at this time, the customers tended to come and go randomly, and right now was one of the lulls.<br>\r\n<br>\r\n\"Well, you said it yourself, actually,\" Amy was still puzzled by this, and her face showed it \"You simply have to do your job, albeit a bit better than usual, of course.<br>\r\n<br>\r\n<br>\r\n\"You see, I've been told by Emily that you make about $25 in tips each day correct?\"<br>\r\n<br>\r\nAmy nodded, still silent and waiting for the actual \"game\".<br>\r\n<br>\r\n\"However, it seems that your co-workers typically make anywhere between $40 and $70 every day, despite working as much as you,\" Samantha finally began coming to her point \"clearly, you're not putting your heart into it.\"<br>\r\n<br>\r\nAmy wanted to object; Samantha was sitting there practically calling her either lazy, stupid, or any combination of the two, but she had a point, she seemed to make far less in tips than her co-workers, and it always ground Amy's gears, but she felt like she understood what the game was now.<br>\r\n<br>\r\n\"So now to explain the game, you have to make as much in tips as I tell you do for one whole week, starting from today at $40 dollars.<br>\r\n<br>\r\n\"For the first three days, I won't increase the amount, but from then on, I will be increasing the amount by $10 each day, until the next week, if you fail at any given day, you must show up the next day with one less piece of clothing.\"<br>\r\n<br>\r\nAmy tried counting the pieces of her work uniform; there were the pants and shirt, shoes and socks made four, presumably her underwear as well would make five, that left the work apron they had to wear and the hat.<br>\r\n<br>\r\n\"The uniform has seven pieces...\" Amy questioned out loud.<br>\r\n<br>\r\n\"The hat doesn't count.\" Samantha replied, grinning at her revelation \"it's the shop's brand, after all.\"<br>\r\n<br>\r\n\"Okay, that takes care of me, how about you?\" Amy wanted to curse about the issue of the hat, however, she had more of the game to learn about.<br>\r\n<br>\r\n\"As a way to motivate you, I will be taking off two pieces of clothing each day you win, and since I'm only wearing six, that means you can have me naked by day four.\" Samantha explained, oddly enough, the rules seemed to favor Amy this time, who immediately suspected a caveat \"and as an extra incentive, not only will I remain in that attire during my visits here like you would, I will also have to stay as such the entire day, including in school.\"<br>\r\n<br>\r\n\"Alright, but that can't be all, can it?\" Amy asked, not sure whether or not it was the right idea to do so, but she wanted to be prepared in case Samantha planned to cheat by hiding information from her.<br>\r\n<br>\r\n\"Of course not, there's still the matter of forfeits,\" Samantha could hear Amy swallow in tension \"If you cannot manage to break the $50 barrier by the last day of the week, you will be forced to work the last day completely naked, and if you fail one last time, you will have to do a forfeit.<br>\r\n<br>\r\n\"I, however, can suffer a forfeit only if you manage to get me naked first, in other words, I can take up to four forfeits, provided you manage to win every day, and you can even get me naked for most of the week even if you lose the game.\"<br>\r\n<br>\r\nThis was a long winded explanation by Samantha, but Amy felt that she had followed most of it just fine.<br>\r\n<br>\r\nAnd now the game was on.</span></div></div>",
+            "created":1429333200,
+            "id":1965899,
+            "title":"Amy has to... Do her job?"
+        },
+        "12331121":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Amy removes her pants, her butt was on display now.",
+                "Amy removes the shirt, it was clear she had no bra, with nip slips abound.",
+                "Amy removes her apron, and gets it over with."
+            ],
+            "content":"<div class=\"\"><div> <span>Amy did her best to be the most charming, endearing and likeable waitress, yet despite her best efforts, none of the customers seemed willing to tip her all that much, at best, she got a dollar from every order she fulfilled, regardless of how much the order was.<br>\r\n<br>\r\n15% of two cups of regular sized coffees was about a single dollar, and she never got any more than $1.50 as a tip from any order, even large, 4 grand sized cups that should have gained her anywhere near 3 to 4 dollars.<br>\r\n<br>\r\nAnd it wasn't that the customers were especially cheap that day, she noticed all the other waitresses and waiters were getting much more in tips than her.<br>\r\n<br>\r\nthat meant that by the end of the first three days, Amy could barely break the $30 barrier; and each day Samantha would come by and make sure she was removing all the clothes she had to.<br>\r\n<br>\r\nIt was an easy choice at first, her shoes and socks, nobody really noticed the barefoot waitress on the third day, but on the start of the fourth day, Amy had to pick her piece carefully.</span></div></div>",
+            "created":1470776880,
+            "id":2193627,
+            "title":"Amy somehow manages to fall short of $40 all th..."
+        },
+        "123311212":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Amy only manages $35 in tips, she's still in danger of the forfeit.",
+                "Amy makes $43, not enough to win, but at least she won't be doing a forfeit.",
+                "Amy makes $52 in tips; she managed to win this round."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Time to take off another piece, Amy.\" Samantha said as she walked in through the front door of the coffee shop, it was still early in the morning, so there weren't that many customers around, but they all turned their heads towards Amy when they heard what was happening.<br>\r\n<br>\r\n\"Fine, I'll take off my shirt. Hold on, I'll go take it off in the back.\" Amy sighed and headed towards the employee only area, only to be stopped by Samantha.<br>\r\n<br>\r\n\"Nope, you get to take it off right here.\" And that's when Amy realized her mistake, she had nothing underneath the shirt, and she would have to take the apron off first to take the shirt off, meaning her breasts would be on display while she did.<br>\r\n<br>\r\nThere was no turning back however, and so Amy undid the knots of the apron in front of the watchful eyes of the customers, once it was off, she unbuttoned the few buttons around her neck, then grabbed the hem of her shirt and lifted it up and off her body.<br>\r\n<br>\r\nAmy stood there topless, she felt her nipples harden and her loins tingle in excitement, but she caught herself almost immediately and put the apron back on, she could see the disappointed looks on the customers' faces.<br>\r\n<br>\r\n\"That was a nice show.\" Samantha quipped glibly at Amy's display before reminding her of the rules \"Now, you have to make $50 today, or you'll be without another piece of clothing tomorrow.\"<br>\r\n<br>\r\nHow does Amy do?</span></div></div>",
+            "created":1470779280,
+            "id":2193638,
+            "title":"Amy removes the shirt, it was clear she had no ..."
+        },
+        "1233112123":{
+            "author_id":"shyexposure",
+            "author_name":"shyexposure",
+            "choices":[
+                "Amy makes the cut again, hitting $61 in tips",
+                "Amy doesn't make the cut and has to take off another piece",
+                "A customer messes up, and who takes off a piece is left to the patrons"
+            ],
+            "content":"<div class=\"\"><div> <span>It was the next day, and after her unavoidable nipple flash to the entire cafe, Amy was determined to do better and win against Samantha. As she began her day, the tips flowed like they had the previous days, and it was clearly a disappointment on her.<br>\r\n<br>\r\nHowever, when she reached certain tables, the tips seemed more generous and forthcoming. At one point, she even couldn't believe it when she counted $5 for a $1 coffee, and it made her smile brighten. The customers seemed to realize this, and made a bit of effort to give Amy a bit more of a generous tip as she served them.<br>\r\n<br>\r\nAs the day progressed on, the customers who had giving her near negligence in tips seemed to have disappeared, and those wanting to see her bright smile were in full swing. At one point, a mother of two even complimented Amy on a good performance and tipped her nearly double of what her meal was!<br>\r\n<br>\r\nEcstatic, Amy was positively walking on clouds as she thought this might mean for her, and her happiness didn't go unnoticed. When it was time for the count up, Amy's manager Emily expressed her pleasure in counting more than what the days called for, even if it was by a slight increase. Still, a close win was a win in her books, and she congratulated Amy in making 52$ in tips.<br>\r\n<br>\r\nWhen Samantha came back on the final day, eager to strip Amy of more of her clothes, she was met with both shock and disappointment. Amy had outplayed her second raise in the stakes, and it was now her turn to strip clothing off.<br>\r\n<br>\r\n\"Well Samantha?\" Amy beamed. \"I won this time, so what's it gonna be? I know what it'd be if I had my way.\"<br>\r\n<br>\r\n\"Yeah sure you would.\" snapped Samantha. She absolutely hated losing.<br>\r\n<br>\r\nBut a bet was a bet, so she had to remove two articles of clothing right here in the cafe. Looking around, she noticed she and Amy were the center of attention. That little show last time must have piqued their interest. Sighing, Samantha reached down and took off her shoes and socks, the same that Amy had done previously. No way was she giving everyone a free show early. Smirking back at Amy, she walked to her table barefoot and made ready to order.<br>\r\n<br>\r\n\"Just wait till tomorrow Amy, things'll be different.\"</span></div></div>",
+            "created":1473910560,
+            "id":2210315,
+            "title":"Amy makes $52 in tips; she managed to win this ..."
+        },
+        "12331122":{
+            "author_id":"lolwritingcom",
+            "author_name":"Lolwritingcom",
+            "choices":[
+                "Naked, as agreed",
+                "Fully clothed, to Amy's surprise"
+            ],
+            "content":"<div class=\"\"><div> <span>It turned out that Samantha had severely underestimated what Amy was capable of when she put her mind to it. Once she decided that she wanted to be a good waitress, the change was almost instantaneous. Her customers loved her: she was friendly, knowledgeable, fast, and flirty with the boys. Every day she did a little better, getting $51 on the first day, $67 on the second day, and $83 on the third day, easily surpassing her goal of 60.<br>\r\n<br>\r\nAmy happily showed off her handful of tips to Samantha at the end of the third day. No one had noticed much when she had come in on the second day without shoes and socks, but showing up on the third day in a bra and panties had the place abuzz about her. \"I hope this wasn't too embarrassing for you, Sammy, because it's going to be a whole lot different tomorrow!\" Amy gloated, while Samantha double-checked Amy's tips with a pale face. \"And don't forget- you lose your underwear for the whole day, including at school. But you remember that- it was your game, after all. Well... see you tomorrow!\" Amy left work, looking forward to school the next day, where Samantha showed up...</span></div></div>",
+            "created":1430197200,
+            "id":1970943,
+            "title":"Amy actually manages to win all first three day..."
+        },
+        "123311221":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Amy continues to do well, and Samantha must do two forfeits.",
+                "Amy fumbles, and has to take off a piece of clothing.",
+                "Amy gets cocky, and offers a \"double or nothing\" deal to Samantha."
+            ],
+            "content":"<div class=\"\"><div> <span>All eyes were on Samantha, while the usual case was the sight of a naked Amy running around quite humiliated, there was also the occasional case where it was someone else, either by sheer luck or force of will, ended up on the receiving end of the nudity usually reserved for Amy, and on even rarer occasions, the odd forfeit.<br>\r\n<br>\r\nPeople were quite excited at the rare sight of a naked Samantha, who seemed to take her nudity in stride, even in the face of photos and videos, however, the game was not over yet, and it could spell major humiliation for Samantha.</span></div></div>",
+            "created":1430715600,
+            "id":1973499,
+            "title":"Naked, as agreed"
+        },
+        "1233112211":{
+            "author_id":"shyexposure",
+            "author_name":"shyexposure",
+            "choices":[
+                "I want you to get on a table and spread your legs for customers to get you off\"",
+                "Be the cafe 'Dairy Cow' and let customers fondle those tits\"",
+                "If a customer has a 'special order' with your body in mind, do it\""
+            ],
+            "content":"<div class=\"\"><div> <span>As the day wore on, it seemed Amy was a proverbial engine of efficiency. Perhaps the knowledge that she was finally getting back at Samantha was her drive. The girl had been a constant state of torment for Amy, always rigging strip games to go in her favor. Perhaps now, with a level playing field she might realize her error. Whatever it was, Amy was happy, and her attitude sprung into the people she served, who in kind tipped her well.<br>\r\n<br>\r\nAt the end of the day, the cafe was still packed, and both girls knew the reason why. Samantha was seated at her usual table, looking as if her nudity in public wasn't bothering her all that much. But if looked at closely, you could see the deep pink blush staining her cheeks beneath her eyes.<br>\r\n<br>\r\n\"Hey Samantha.\" Amy quipped upon arriving at her table. \"Wanna know my income today?\"<br>\r\n<br>\r\n\"Actually yes, though I'm afraid to ask really...\" murmured Samantha. <br>\r\n<br>\r\nTruth be told, if she lost again, she'd have to do two forfeits, and that didn't sit well with her. If she remembered right, her usual forfeits for Amy was to make her masturbate to orgasm, then suck the cocks of the males around her. So she had a little trepidation plaguing her mind on what she'd go through if she lost. Her thoughts were interrupted by Amy leaving her earnings on Samantha's table for her to see.<br>\r\n<br>\r\nIt didn't bode well for her.<br>\r\n<br>\r\n\"$73?! You're seriously telling me you made $73 in tips today, no lies?\" Samantha gasped her disbelief.<br>\r\n<br>\r\nAmy grinned.<br>\r\n<br>\r\n\"No lie Samantha. Now I know the rules of the game, which means you owe me two forfeits. Of course you'll be remaining naked both here and school, so that's out. But I can still have you <i>do</i> something at school as a forfeit.\"<br>\r\n<br>\r\nSamantha couldn't help it, she gulped.<br>\r\n<br>\r\n\"But for now...\" Amy continued \"I think my first forfeit for you will be right here.\"<br>\r\n<br>\r\n\"F-fine. What is it Amy?\" Samantha sighed in defeat. She couldn't believe this! Another chance to utterly humiliate Amy and it was backfiring on her! What the hell was happening?!<br>\r\n<br>\r\n\"Well...</span></div></div>",
+            "created":1473911520,
+            "id":2210320,
+            "title":"Amy continues to do well, and Samantha must do ..."
+        },
+        "124":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Mr. Dowd, the math teacher who wants Amy to improve at maths.",
+                "Ms. Swift, a free spirit who encourages Amy's habit thinking it's unique.",
+                "Other teachers."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But which teacher will challenge Amy?</span></div></span></div>",
+            "created":1447304400,
+            "id":2060217,
+            "title":"One of her teachers"
+        },
+        "1243":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Mr. Bert, a physics teacher who enjoys toying with his students, especially Amy.",
+                "Mrs. Doolittle, the gym trying to curb Amy's habit through discipline.",
+                "Even more?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what other teachers can challenge Amy?</span></div></span></div>",
+            "created":1447304400,
+            "id":2060221,
+            "title":"Other teachers."
+        },
+        "125":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "Her sister Bella, who's jealous of Amy's bigger breasts.",
+                "Her three younger cousins, Bernie, Tommy and Beth who like to prank Amy.",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else would tangle with Amy?</span></div></span></div>",
+            "created":1411275600,
+            "id":1859844,
+            "title":"someone else entirely"
+        },
+        "1251":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "In her own house",
+                "In the Mall",
+                "somewhere else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where does Bella challenge Amy?</span></div></span></div>",
+            "created":1438923600,
+            "id":2018069,
+            "title":"Her sister Bella, who's jealous of Amy's bigger..."
+        },
+        "12512":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "The arcade/gameshop.",
+                "The bookstore",
+                "The food court."
+            ],
+            "content":"<div class=\"\"><div> <span>Amy wanted to be anywhere other than here, hell even here in the mall would be fine, as long as it wasn't with Bella, she had to cancel any plans she had with her friends to chaperon her little sister, it would be fine if her sister wasn't this massive nerd who had no interest in anything <i>interesting</i> the mall had to offer, just the video games shop, the arcade and the bookstore, among other such crap.<br>\r\n<br>\r\nBut in actuality, Bella had been happy to have her sister along for the ride, not because she valued her in any meaningful way, but because, thanks to her sister's annoying habit of playing strip games, she was often indecently dressed around any of Bella's friends, which meant that the already flat chested Bella was having any attention drawn from her on a regular basis, she had trouble making friends as it is, and Amy's flaunting of her still small breasts was not helping.<br>\r\n<br>\r\nThus Bella devised a plan, she would make an example out of her sister, humiliating her so badly she would stop playing games around her younger sister, and if that didn't work, well, at least Bella would get the satisfaction of dominating her older, prettier sister in a public fashion.<br>\r\n<br>\r\nBut where to do so?</span></div></div>",
+            "created":1447304400,
+            "id":2060234,
+            "title":"In the Mall"
+        },
+        "125121":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "The light gun shooter.",
+                "The dance machine.",
+                "The Latest Fighting Game"
+            ],
+            "content":"<div class=\"\"><div> <span>The arcade/gameshop combo store buzzed with life and noise, it wasn't because it was busy, in fact, it was almost completely deserted, at this time of day nobody was at the arcade, it was more of a night thing, the shop itself was far deep inside the arcade, so the staff couldn't keep an eye on most of it, not that it mattered at this hour.<br>\r\n<br>\r\nThe noise came from all the arcade machines, which buzzed in an automated symphony of cacophonous noises, all waiting to be played with.<br>\r\n<br>\r\nWhat game does Bella choose?</span></div></div>",
+            "created":1454907600,
+            "id":2101218,
+            "title":"The arcade/gameshop."
+        },
+        "1252":{
+            "author_id":"paladium23",
+            "author_name":"Wasted Days",
+            "choices":[
+                "Go and get some food.",
+                "Play outside.",
+                "See you have some fun with yourself."
+            ],
+            "content":"<div class=\"\"><div> <span>Every human being on this planet is different. Some like traveling, others prefer staying at home, we all have something special about us and Amy wasn't the exception. However, Amy wasn't different because of her hobbies, she had a, let's say, weakness, every time she was dared to play a strip game Amy couldn't declined, no matter how unfair the game was, she was always in.<br>\r\n<br>\r\nThis story begins in her home, it was a hot Saturday, so Amy decided to take a shower, meanwhile, her three cousins, Bernie, Tommy and Beth were getting bored.<br>\r\n<br>\r\n\"Ugh, it's always like this when we visit aunt Betty, there's nothing to do.\" 13 year old Bernie complains.<br>\r\n<br>\r\n\"How about we play outside?\" 9 year old Tommy proposes, but his brother and sister reject the idea.<br>\r\n<br>\r\n\"I know!\" 14 year old Beth says. \"Do you want to tease Amy?\" All seem to agree on this one and prepare for the show.<br>\r\n<br>\r\nAs Amy steps out of the bathroom wearing a robe, Tommy comes to her.<br>\r\n<br>\r\n\"Amy, Amy, I need your help.\" said the little boy. \"Beth and Bernie are fighting again.\"<br>\r\n<br>\r\nShe wanted to dress before getting involved, but Tommy keeps asking her, so she walked to the living room with him. When they arrived, Beth and Bernie, pretending to have an argument, are still battling, Bernie pushes his sister to the ground to give it more realism.<br>\r\n<br>\r\n\"All right, knock it off you two.\" Amy intervenes. \"Now what's the problem?\" <br>\r\n<br>\r\n\"I told Bernie that boys wear more clothes than us.\" Beth says.<br>\r\n<br>\r\n\"You're lying!\" Bernie replies. \"Girls wear more clothes.\" He acts as if he was going to start again.<br>\r\n<br>\r\n\"Enough.\" Amy grabs each other. \"This is ridiculous, you need to find a way to resolve this.\"<br>\r\n<br>\r\nBrother and sister look at each other and nodded.<br>\r\n<br>\r\n\"I have an idea.\" Beth said. \"If you are so confident with your opinion, how about each takes off a piece of clothing until one gets completely naked? That way we'll see which one wears more clothes.\"<br>\r\n<br>\r\n\"Fine with me.\" Bernie responds.<br>\r\n<br>\r\nThe two of them take off their socks, then they paused and turn to see Amy.<br>\r\n<br>\r\n\"What?\" she asks.<br>\r\n<br>\r\n\"Your turn.\" said Beth.<br>\r\n<br>\r\n\"This is a problem between you two, not me.\" Amy replies, she started to sweat, holding herself to not join them.<br>\r\n<br>\r\n\"Come on, Amy, you are also a girl, Bernie needs to learn a lesson.\"<br>\r\n<br>\r\n\"Unless you are too chicken to be in a strip game.\" Bernie said.<br>\r\n<br>\r\nA switch turned inside of Amy, she was embarrassed, but couldn't resist this feeling. She took her sandals off.<br>\r\n<br>\r\nNext was Bernie's pants and Beth's skirt, but both were wearing shorts underneath it, unfortunately for Amy, the robe was her last piece of clothing. She awkwardly moved \"I guess boys wear more clothes.\" Beth smiles. \"I'm sorry.\"<br>\r\n<br>\r\n\"I'm sorry too, sister.\" Bernie hugs her.<br>\r\n<br>\r\nAmy sighed. \"Okay, since we're done with this, I'll take my robe and go to my room.\" However, there was nothing on the floor, she turned and saw little Tommy running towards Amy's room with her robe and sandals.<br>\r\n<br>\r\nShe chased him until he closed the door of her room.<br>\r\n<br>\r\n\"Tommy, come out and give me my robe.\" She knocks.<br>\r\n<br>\r\nWith this, Beth and Bernie laughed at her cousin, more embarrassed than before she keeps knocking.<br>\r\n<br>\r\n\"Oh, hey Tommy.\" Bernie said, Amy sees that Tommy had been already with his brother and sister. \"He got out of the window.\" She thought.<br>\r\n\"Well, Amy, if you can't enter your room that means you are staying naked for a while.\" Beth laughed some more. \"I guess now we can</span></div></div>",
+            "created":1584750480,
+            "id":2804296,
+            "title":"Her three younger cousins, Bernie, Tommy and Be..."
+        },
+        "1253":{
+            "author_id":"bluemarche",
+            "author_name":"Bram Lueche",
+            "choices":[
+                "John Benson, the other protagonist!?",
+                "Her parents? Along with some other chore, of course.",
+                "Someone else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else would strip Amy?</span></div></span></div>",
+            "created":1412312400,
+            "id":1865967,
+            "title":"someone else"
+        },
+        "12532":{
+            "author_id":"shyexposure",
+            "author_name":"shyexposure",
+            "choices":[
+                "Clean the attic. Every box dropped is a piece of clothing.\"",
+                "Wash the cars. Each time you're distracted, I claim a piece of clothing\"",
+                "Help me pick out new underwear at the mall. Every time you 'want' will cost you\""
+            ],
+            "content":"<div class=\"\"><div> <span>It goes by saying, Amy was not a hard working young woman, not even around the house. In fact, her penchant for strip games ended up being her parents way of motivating her to do anything to help at all. Still, it was interesting to see exactly how motivated she got when strip games were involved. Her mother Betty especially had a tendency to use them to influence Amy in order to help around the house. <br>\r\n<br>\r\nNow, as the young woman lies astride her bed whilst her family was downstairs doing whatever they were doing, Amy's mother suddenly calls up the stairs to her.<br>\r\n<br>\r\n\"Amy! I need to your help down here please!\" she yelled upward, hoping her daughter was paying attention.<br>\r\n<br>\r\n\"Awh mom! Can't dad or sis do it? I don't wanna!\" Amy whined back as she rolled around on her bed<br>\r\n<br>\r\n\"No! Now get down here and help me so the house looks better than it does right now! Chop chop!\"<br>\r\n<br>\r\nBetty knew from experience this wouldn't work, but she still tried to see if anything would change. After another fifteen minutes of silence, it was clear it wouldn't and she marched back to the bottom of the stairs.<br>\r\n<br>\r\n\"Amy! How about this? If you help me, we'll make a game out of it!\"<br>\r\n<br>\r\n\"A game?\"<br>\r\n<br>\r\n\"Yes, one of those strip games you love so much, how about it?\"<br>\r\n<br>\r\n\"Why didn't you say so?! Be right there!\"<br>\r\n<br>\r\nIt wasn't long before Amy was dressed in a tank-top, bra, denim-shorts, panties, and open-toed shoes. She hugged Betty and stood up straight, stretching a bit to work out some kinks. As for Betty, she couldn't help but take notice of her daughter's beautiful developing body and a small flash of something lit in her eyes before she turned away.<br>\r\n<br>\r\n\"Alright young lady, here's what the chore is: We're going to...</span></div></div>",
+            "created":1473912360,
+            "id":2210331,
+            "title":"Her parents? Along with some other chore, of co..."
+        },
+        "13":{
+            "author_id":"paladium23",
+            "author_name":"Wasted Days",
+            "choices":[
+                "Amy Summers, age 12",
+                "John Benson, age 11",
+                "Younger?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Same characters, younger age.<br>\r\n</span></div></span></div>",
+            "created":1588988820,
+            "id":2832630,
+            "title":"same characters, younger age"
+        },
+        "14":{
+            "author_id":"jdrake",
+            "author_name":"Jaime Drake",
+            "choices":[
+                "John Benson, age 20",
+                "Amy Summers, age 19"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Same characters, older age</span></div></span></div>",
+            "created":1514066520,
+            "id":2431846,
+            "title":"same characters, older age"
+        },
+        "142":{
+            "author_id":"jdrake",
+            "author_name":"Jaime Drake",
+            "choices":[
+                "Her rival, Samantha",
+                "Her best friend, Suzie",
+                "Her history professor, Dr. Elizabeth Bathroy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who will she face?</span></div></span></div>",
+            "created":1514066700,
+            "id":2431847,
+            "title":"Amy Summers, age 19"
+        },
+        "1423":{
+            "author_id":"jdrake",
+            "author_name":"Jaime Drake",
+            "choices":[
+                "Poker, the classic option",
+                "Rock, Paper, Scissors, something quick and simple",
+                "Darts, just becasue"
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Amy had been going to college for a few months now, and already she had caused a splash with her wild antics. She was a strip game addict, plain and simple, and in the uninhibited environment of a college town this had been exploited repeatedly and publically. It was only mid-October and already she was the most famous girl on campus. She didn't mind too terribly, since it was basically an extension of her high school antics, but she had been hoping to make a different reputation for herself. Her best friend and roommate Suzie, not to mention her old high school rival Samantha, had seen that it was otherwise, though. After the first dorm party her reputation had spread, and now she was once again at the mercy of any that would prey on her.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0But that was neither here nor there. She was headed into class, which everyone had silently agreed was off limits since they had to focus on the material or flunking out. As a result she had thus far avoided any antics in classes and her reputation with her professors had been spared as a result, well as far as she knew anyways. Her last class of the week was Early Modern Slavic History with Dr. Bathroy. She was by far the sternest professor in the History Department, always wearing her jet black hair in a severe bun, reputedly a habit she picked up serving in the Marine Corps. Today she was wearing a dark black suit that matched her hair over a crisp white shirt. Her three-inch black stiletto heels clacked as she entered the lecture hall. \"Our topic today will be the Thirteen Years' War between Habsburg Austria and the Ottoman Empire from 1593-1609,\" she boomed, instantly silencing any chatter in the hall, \"but first, I have your papers back.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Amy was nervous about hers. The night before it was due she had wound up tied naked to Samantha's bedpost while she and her friends had a movie marathon, and she was reasonably worried that the final product had not been her best effort. She gulped as Dr. Bathroy handed her paper to her, but instead of the expected scouring of blood-red ink culminating in an \"F\" it simply read, \"See me after class.\" Amy was extra worried now and spent the lecture with her stomach twisting into knots.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0After class she approached the professor, her eyes wide and her hands wringing unconsciously. \"Ah yes, Ms. Summers,\" she said without looking at Amy, \"we'll discuss this in my office.\" Dr. Bathroy turned and left then, her attention on some notes and paying the nervous coed no mind. Amy followed behind her, struggling to keep pace with the confident older woman as she swept through the hall. At her office she placed the papers in a filing cabinet, calling to Amy as she walked in, \"Shut the door, Ms. Summers.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Amy hastened to comply, then took a seat in a chair that sat facing Dr. Bathroy's desk. Her professor spent a long minute before organizing papers before she acknowledged Amy's presence. \"Your paper was well below my standards, and even that of your previous work,\" she finally said as she typed on her computer, \"and that made me curious. I did some digging and I found a video of just what you were doing the night before the assignment was due.\" With that she presented her computer monitor to Amy, which had a video playing of the girl bound naked to her rival's bedpost and cumming from a vibrator tied to her pussy. \"From there,\" Dr. Bathroy continued without giving any indication that she noticed the blood wasa draining from Amy's face, \"I dug more and found out that you have certain habits...\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Amy was mortified. Her professor had discovered her addiction, to say nothing of the fact that she had seen her O-face. The older woman stood now, towering over Amy. \"As it stands now, your paper will receive a failing grade, but I'm not unsympathetic and I'm willing to give you a chance to rewrite it.\" Amy felt like she knew where this was going, but she didn't see any way out of this. She had to pass this class, and she needed at least a B- on her paper to do so, judging by how the semester was going so far. \"You want to play a strip game?\" Amy asked, shaking from nervousness and, if she was being honest, excitement.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Dr. Bathroy smirked. \"Not just that,\" she said, a malicious glee touching her features, \"if I win, then you will spend the night as my fucktoy. If you win, then I'll grant you any one forfeit up to the same.\" Amy nodded, her head spinning from a mix of terror and arousal. Dr. Bathroy sat on the desk facing Amy, her arms crossed across her breasts, and said, \"Since you are the challenged you may choose the game.\"<br>\r\n<br>\r\nWhat will Amy choose?</span></div></div>",
+            "created":1514072280,
+            "id":2431876,
+            "title":"Her history professor, Dr. Elizabeth Bathroy"
+        },
+        "14231":{
+            "author_id":"jdrake",
+            "author_name":"Jaime Drake",
+            "choices":[
+                "Dr. Bathroy wins, then claims her prize from Amy",
+                "Amy Wins, and has to decide what to do with her professor"
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Poker,\" Amy decided.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Very well,\" cooed Dr. Bathroy as she rose and fetched a deck of cards from her desk. She sat back in her desk chair and faced Amy down, then began shuffling. Her motions were those of a practiced card shark, all smooth effortless gestures. Amy began to think she might be in over her head.<br>\r\n<br>\r\nWho will win?</span></div></div>",
+            "created":1514072640,
+            "id":2431878,
+            "title":"Poker, the classic option"
+        },
+        "142311":{
+            "author_id":"jdrake",
+            "author_name":"Jaime Drake",
+            "choices":[
+                "Amy is taken to the library",
+                "Amy is taken to the gym"
+            ],
+            "content":"<div class=\"\"><div> <span> \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Amy took a look at her first hand. It was nothing special, but she had a shot at a two-pair, and so traded two cards. Br. Bathroy only traded in one, which made Amy nervous. Her fears were magnified when she got nothing on her draw, leaving her with only a low pair. She was wearing six pieces, shoes, socks, a shirt, a skirt, and of course her bra and panties. She could take six losses, and on the seventh her history professor would win her, and she couldn't imagine what the older woman might have in store for her. As Dr. Bathroy revealed the two-pair she held, though, Amy began to consider the possibilities. It seemed especially ominous that Dr. Bathroy's queen-high pair would have crushed Amy's sevens and fives, even if she had gotten the two pair.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Good sport that she was, Amy kicked off her shoes, a set on sensible sneakers she wore to class, and prepared herself for the next hand. To her shock, the cards went her way and she pulled a three-of-a-kind. Dr. Bathroy had another two-pair, and so relinquished her heels with an amused smirk that a well-fed lioness might give a baby gazelle. Somehow this shook Amy even more, and her hands trembled as she picked up the next hand. It was garbage, and she was slipping off her socks shortly after. Her bare feet touched the cold tile floor, sending a shiver up her spine. It caused her to idly contemplate how difficult it would be to run away now if Dr. Bathroy decided to pounce on her. Despite that, she could feel herself flush, everywhere.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0She picked up her next hand, and actually yelped in excitement. Jack, jack, jack, seven, seven, a full house! This drew another amused look from Dr. Bathroy, who opted to just fold her nothing hand. She stood, and with a predator's grace peeled off her dark black jacket, holding it in her hand for a moment while she gazed into Amy's eyes. After a second she let it simply fall to the floor and returned to shuffle again, apparently unperturbed by its loss. Amy, though, was still mesmerized, and it wasn't until the next hand was in front of her that she snapped out of it. She was all-but gushing when she did.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Still in a daze, Amy accidentally traded half of the only pair she had, and was too embarrassed to make this known to her professor. It cost her the hand, and her skirt. Her hands fumbled with the zipper, so she stood to get better leverage. After a second she took a deep breath, calming herself enough to get the zipper, and she slid the blue garment down, past the curve of her ass, down her soft thighs, and finally into a pile at her feet. She was wearing a pair of simple pink cotton panties that may have been a size too small. Dr. Bathroy actually laughed once when she saw them, causing Amy to reflexively cover them with her hands as she blushed again. Her professor was the one seated, yet somehow the look she gave Amy conveyed how she looked down on her. As the coed sat for the next hand Dr. Bathroy said, \"That underwear is for little teenage girls.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Amy did her best to hide her humiliation, but she knew it did next to nothing. She was barely even excited when she won the next hand, winning Dr. Bathroy's skirt in turn. The woman rose confidently and went to stand above Amy. In one effortless motion she undid the zipper on her own skirt, and a swift tug brought it to the floor. Amy was almost eye-level with the professor's panties, and they were nearly artwork. Comprised mostly of a small triangle of intricate black lace, they only covered half of the woman's neatly trimmed bush. The lace parted near her sex, which was covered only by a string gleaming white pearls that disappeared into the fold of Dr. Bathroy's womanhood. Amy gawked. \"These,\" Dr. Bathroy said, a hand on her hip as she looked down on Amy, \"are what a woman wears.\" With that she turned to return to her seat, giving Amy a glimpse of her perfect ass as she did.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Something broke inside Amy. She couldn't quite focus on the game after that and she made a series of play errors that cost her the next three hands. First went her shirt, a simple band t-shirt that Amy got at a concert. It went off, revealing a pink bra that matched her girl's panties. Instead of dropping it to the floor, as the rest of the discarded clothing had been, Amy dropped it on the professor's desk, almost like an offering. Next went her bra, which joined the shirt on the desk. Removing it revealed her pert B-cup breasts. They were perky and, as many had told her, had a nice bounce to them, but Amy could see that they were much smaller than Dr. Bathroy's and this fact only deepened her feelings of inferiority to the woman before her. Finally her panties joined the pile, revealing her perfectly shaved pussy to the professor, which drew a glare of desire from the woman. Now she sat naked before the older woman, lost in a haze of desire.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Dr. Bathroy dealt the next hand, but it was a formality. Within herself, Amy had already submitted, and that, she realized, was the game all along. Amy had chosen the game hoping to use the random nature to her advantage, but Dr. Bathroy had been playing a different game, twisting the coed and her perversions until she had tricked the girl into sub-space. As a result, Amy had made key errors that cost her the game, and now she was Dr. Bathroy's for the night. The older woman saw Amy's realization, and winked at her, then rose, resting her palms on the desk, and said, \"Get on your knees, pet.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Amy instantly complied. Dr. Bathroy rummaged in the bottom drawer of her desk, and Amy could swear she heard the rattling of chains. A minute later the older woman emerged holding a pair six-inch heels. She stepped into them, only increasing her height and sense of dominance. She beckoned Amy with one finger, and the coed crawled to her, stopping to kneel at her feet. Dr. Bathroy slipped a steel collar around the girl's neck. It looked like it came from an honest-to-god dungeon, and Amy considered that she may have actually heard chains in the professor's desk. Next came a black strap-on that Dr. Bathroy stepped into and secured over her elegant underwear. \"Suck it,\" she commanded Amy.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0The coed hastened to comply, being more than a little with the practice at this point in her life. She went to lick the length of the nine-inch shaft, but was met with a brisk slap to the cheek. \"When I give you a command, slave,\" Dr. Bathroy scolded, \"you say 'yes Mistress.'\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Amy gulped. \"Yes, Mistress,\" she squeaked before resuming her work. She gave the artificial phallus a long, slow lick before beginning to slowly bob her mouth up and down the shaft, getting slowly and steadily to the base as she did. Next she felt her Mistress adjusting her hair, pulling it into pigtails she soon realized. \"You want to dress in little teenage girl panties, you can wear your hair like one, slave,\" the professor chided.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Yes, Mistress,\" Amy responded before resuming her work on the strap-on.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"You learn quickly, slave,\" Dr. Bathroy mused, \"now give me your hands.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Amy did so at once, and shortly after Dr. Bathroy had authentic medieval dungeon irons around her wrists. The links were connected by a short, heavy chain and the entire set was made of solid steel. The coed wouldn't be going anywhere, to say the least. Next Amy was unceremoniously tossed to the ground on her chest, where her Mistress clapped a second set of irons onto the girl's ankles. Then she jerked her up by the hair and used the pigtails for leverage as she rammed the strap-on down her throat. Within a minute she was deepthroating Amy, who fought back tears from the vicious assault. With an especially cruel thrust she forced Amy's nose into her underwear, and the woman said, \"Smile for the camera.\"<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Amy looked up in time to see the flash. After Dr. Bathroy pulled out, taking a moment to smear Amy's saliva over her face while she reached for the pile of clothing on her desk. She retrieved Amy's pink panties and held them up. \"Open wide,\" she commanded Amy. The girl gulped but said, \"Yes, Mistress,\" and opened her mouth as wide as it would go. Dr. Bathroy jammed the girl's own underwear into her mouth, taking the time to ensure they were thoroughly wedged in before snapping another picture.<br>\r\n<br>\r\n \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\"Now,\" she thought out loud, \"what to do with you tonight?\"</span></div></div>",
+            "created":1514693760,
+            "id":2434646,
+            "title":"Dr. Bathroy wins, then claims her prize from Amy"
+        },
+        "15":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Frank Stephenson, 18, a genius",
+                "April Tannenbaum, 17, a genius",
+                "Mark Brown, 18, an athlete",
+                "Theresa Goodwin, 18, an athlete",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>John and Amy are too easy. Would you find it more fun to have a challenge? Try one of these characters.</span></div></span></div>",
+            "created":1457845200,
+            "id":2117099,
+            "title":"Completely different characters"
+        },
+        "153":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "A group",
+                "One person",
+                "Reader's choice"
+            ],
+            "content":"<div class=\"\"><div> <span>At six feet three, with brown hair like a coyote and sea green eyes, Mark is a heartthrob that every woman wants. He happens to be bisexual but is more interested in the challenge then he is in the sex. He plays strip games knowing that occasionally he loses and has to submit but he continues to play for the deliciousness of the victory: even if all Mark wins is a good show.<br>\r\n<br>\r\nHe's an all around athlete, good at every sport but especially good at basketball.<br>\r\n<br>\r\nHis cock is approximately 7 inches long, and he tolerates anal play if he has to.<br>\r\n<br>\r\nHis target is?</span></div></div>",
+            "created":1457845200,
+            "id":2117107,
+            "title":"Mark Brown, 18, an athlete"
+        },
+        "1531":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Gym class dodgeball",
+                "A basketball team",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which group?</span></div></span></div>",
+            "created":1457845200,
+            "id":2117112,
+            "title":"A group"
+        },
+        "15312":{
+            "author_id":"bejjinks",
+            "author_name":"bejjinks",
+            "choices":[
+                "Mark's team takes an early lead",
+                "Trevor's team takes an early lead",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Are you serious? We beat you fair and square.\"<br>\r\n<br>\r\nMark says, \"On a technicality. If I had been allowed to play, we would have won.\"<br>\r\n<br>\r\nTrevor says, \"You should have thought of that before you got suspended. What were you doing naked in the computer lab anyway?\"<br>\r\n<br>\r\n\"Nevermind, you want a rematch or don't you?\"<br>\r\n<br>\r\n\"Yea sure, alright, but which court?\"<br>\r\n<br>\r\n\"There's an old athletic center that went out of business. They still allow people to rent it out for events. The price is really low because there are no services or amenities. It's just an old athletic center. Even the pool is drained and empty.\"<br>\r\n<br>\r\n\"Knowing you, this won't be a simple game of basketball. What terms do you want, one piece of clothing per point?\"<br>\r\n<br>\r\n\"Yea, except shoes and socks don't count and don't cheat by wearing more than the standard clothes for basketball. Also, the one who makes the point decides which opposing team member to take clothes from and if that team member has no clothes to take, than forfeits can be taken.\"<br>\r\n<br>\r\n\"Now wait a minute there. What's to prevent you from conspiring against one player just so you can get a forfeit from him?\"<br>\r\n<br>\r\n\"How about no forfeits until all opponents have lost one item of clothing and a second forfeit waits till all opponents lost two items, no third forfeit until all have lost three etcetera.\"<br>\r\n<br>\r\n\"And what about these forfeits? Let's set some limits on what kinds of forfeits are allowed.\"</span></div></div>",
+            "created":1457845200,
+            "id":2117145,
+            "title":"A basketball team"
+        },
+        "154":{
+            "author_id":"mrwoodson",
+            "author_name":"mrwoodson",
+            "choices":[
+                "shy",
+                "extremely playful"
+            ],
+            "content":"<div class=\"\"><div> <span>She can't resist a game and believes she will always win the game to be played. For an athlete she is a little curvy and everybody wants her, so Theresa has  good defensive reflexes. Theresa is challenged a lot of places she goes to including track meets.So how is she going to be for your story ?</span></div></div>",
+            "created":1466583840,
+            "id":2168441,
+            "title":"Theresa Goodwin, 18, an athlete"
+        }
+    },
+    "info":{
+        "author_id":"bluemarche",
+        "author_name":"Bram Lueche",
+        "brief_description":"Our protagonists can't get enough of strip games, doesn't matter where or with who.",
+        "created":1411345140,
+        "description":"<td align=\"left\" class=\"norm\">You're a healthy teenager with a healthy attitude about sex and other things of the sort, the thing is, you've got a not so healthy obsession with strip games, doesn't matter what the game is, where it's played, or who you play it with, if there's mention of a strip game, you're not going to refuse, that is, if you're not the one who suggested it.<br>\r\n<br>\r\nIt should go without saying that, for the most part, you end up losing all your clothes, and at the mercy of your opponent.<br>\r\n<br>\r\nNaturally, this sort of fixation gets you into some pretty humiliating situations, and some very exciting ones too.<br>\r\n<br>\r\nYour friends know about your obsession, and they don't seem to mind going along with it.<br>\r\n<br>\r\nYour enemies know that you never refuse a strip game, so they tend to use that against you often.<br>\r\n<br>\r\nOddly enough, your teachers don't seem to mind, in fact, some of them have taken it as a way to motivate you in school, at least, that's what they claim when you end up naked and humiliated, with any given task at hand.<br>\r\n<br>\r\nEnjoy your adventures, after all, everyone else seems to as well.<br>\r\n<br>\r\n-------------------------------------------------------------------------------------<br>\r\n<br>\r\nYour characters are as folllow:<br>\r\n<br>\r\n<b>- John Benson:</b> At six feet tall, with blonde hair and hazel eyes and 18 years of age, John is not exactly a bad looking guy, in fact, if not for his humiliating habit, he'd probably be pretty popular, instead, the entire school seems fixated on his humiliation as much as he is on strip games.<br>\r\n<br>\r\nHe typically enjoys playing video games, not very athletic, which often results in his loss in many of his games.<br>\r\n<br>\r\nHe happens to be bisexual, so his opponents are often male as much as they are female.<br>\r\n<br>\r\nHis cock is approximately 7 inches long,  and he happens to get quite stimulated from anal play.<br>\r\n<br>\r\n<br>\r\n<b>- Amy summers:</b> Amy is 17 years old, with shoulder length blond hair and green eyes, perky B36 breasts and a very toned ass standing at 5 foot 6 and with a slender body, while she is a knockout, she typically seems very reserved and clumsy, that is, until there is mention of strip games, then all of a sudden, Amy seems quite outgoing and ready to take on anyone, and although she becomes quite competitive, her clumsy nature usually results in her abject nudity and humiliation at the hand of her opponents.<br>\r\n<br>\r\nLoves to read but hates math and science, which usually means that any challenge to her mental abilities that comes her way usually results in her loss.<br>\r\n<br>\r\nTo make matters worse, she happens to be a squirter, and very anally receptive.<br>\r\n<br>\r\n-------------------------------------------------------------------------------------<br>\r\n<br>\r\nNo gore, vore or rape, fantasy or sci-fi elements such as shrinking or growing, scat or diapering.<br>\r\n<br>\r\nOther sexual activity is fine, but keep it respectful and try to maintain good grammar.</td>",
+        "id":2010714,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1588988820,
+        "modified":1588988820,
+        "pretty_title":"Strip Game Addict"
+    }
+}

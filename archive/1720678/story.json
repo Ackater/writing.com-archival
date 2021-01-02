@@ -1,0 +1,1299 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Boy",
+                "Girl"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a boy, or a girl?</span></div></span></div>",
+            "created":1288414800,
+            "id":983856,
+            "title":"Before we get started..."
+        },
+        "11":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Young teen (13-15)",
+                "Young adult (16-21)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so you're, no doubt, a dashing young lad who's about to be thrown quite the curve ball in life. But how old are you really?</span></div></span></div>",
+            "created":1288414800,
+            "id":983858,
+            "title":"Boy"
+        },
+        "111":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "A Digimon",
+                "A Pokemon",
+                "Something else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, what kind of creature is abducting you?</span></div></span></div>",
+            "created":1288414800,
+            "id":983862,
+            "title":"Young teen (13-15)"
+        },
+        "1112":{
+            "author_id":"boy0001",
+            "author_name":"Viper",
+            "choices":[
+                "Charizard",
+                "Dragonite",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>what pokemon will abduct you?</span></div></span></div>",
+            "created":1407214800,
+            "id":1837722,
+            "title":"A Pokemon"
+        },
+        "11123":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "Yes, legendaries",
+                "No, ordinaries"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a Legendary? Or would you prefer an ordinary Pokemon?</span></div></span></div>",
+            "created":1413694800,
+            "id":1873980,
+            "title":"more"
+        },
+        "111232":{
+            "author_id":"mike92586",
+            "author_name":"MikeC",
+            "choices":[
+                "Charizard",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Giant Ordinary Pokemon would abducte you but who?</span></div></span></div>",
+            "created":1413694800,
+            "id":1874179,
+            "title":"No, ordinaries"
+        },
+        "1112321":{
+            "author_id":"dinosaurking",
+            "author_name":"dragon",
+            "choices":[
+                "Yes!!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There is already a Charizard choice, so here is a different one, how about a Lucario?</span></div></span></div>",
+            "created":1533832860,
+            "id":2531101,
+            "title":"Oops!!"
+        },
+        "1113":{
+            "author_id":"d-man72",
+            "author_name":"D-man72",
+            "choices":[
+                "Mlp.",
+                "Other",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So all I've got is ponies... so two other free options for you.</span></div></span></div>",
+            "created":1409979600,
+            "id":1853096,
+            "title":"Something else?"
+        },
+        "11131":{
+            "author_id":"d-man72",
+            "author_name":"D-man72",
+            "choices":[
+                "Pony",
+                "Anthro/Human"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it a human, anthro, or full on pony?</span></div></span></div>",
+            "created":1410066000,
+            "id":1853547,
+            "title":"First off..."
+        },
+        "111311":{
+            "author_id":"cmwrite",
+            "author_name":"CMwrite",
+            "choices":[
+                "The main six",
+                "CMC",
+                "someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>ok, but which group of characters get to abduct you?</span></div></span></div>",
+            "created":1477976400,
+            "id":2231252,
+            "title":"Pony"
+        },
+        "111312":{
+            "author_id":"d-man72",
+            "author_name":"D-man72",
+            "choices":[
+                "Anthro",
+                "Human"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Human or anthro?</span></div></span></div>",
+            "created":1410066000,
+            "id":1853548,
+            "title":"So which is it?"
+        },
+        "1113121":{
+            "author_id":"d-man72",
+            "author_name":"D-man72",
+            "choices":[
+                "Anthro Cadence!",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>To start off, what about Princess Cadence?</span></div></span></div>",
+            "created":1410066000,
+            "id":1853549,
+            "title":"Which pony is it then?"
+        },
+        "11131211":{
+            "author_id":"d-man72",
+            "author_name":"D-man72",
+            "choices":[
+                "Growth.",
+                "Already big."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Also, if the author allows it, will she be around human sized, soon growing, or will she be already gigantic?</span></div></span></div>",
+            "created":1410152400,
+            "id":1854050,
+            "title":"Anthro Cadence!"
+        },
+        "111312111":{
+            "author_id":"d-man72",
+            "author_name":"D-man72",
+            "choices":[
+                "That night...",
+                "In the morning..."
+            ],
+            "content":"<div class=\"\"><div> <span>Aleks was calmly walking down the street, hands in his pocket, and his head at an angle. Tonight was generally peaceful, not a sound was heard throughout the night. However, Aleks heard a sound... the clicking of a gun. He felt the cold medal pushed up against his head through his hair. He wanted to look back, to see who the offender was, but feared that they would shoot if he moved.<br>\r\n<br>\r\n\"Money.\" A single word escaped the mouth of the thug, it was obvious what they wanted. \"Now.\" The same thug said, sounding a bit impatient.<br>\r\n<br>\r\n\"Alright, chill.\" Aleks responded, slowly reaching into his pocket and pulling out his wallet. He then handed it to the thug behind, how snatched it away.<br>\r\n<br>\r\n\"Now be a good boy, and stand there for me.\" The thug said as he started rummaging through the wallet, putting the gun down. He thought Aleks would be too scared to move, but Aleks would not put up with this. The young man quickly turned around, throwing a punch directly into the mans jaw. He stumbled, dropping Aleks' wallet. He went for a second punch, but a sudden pain in his stomach stopped him. Looking down, he saw a slowly growing blood stain on his shirt, he had been shot.<br>\r\n<br>\r\n\"Piece of...\" The thug began, but Aleks was already lossing consciousness from loss of blood. Soon enough, he fell to the ground, desperately trying to stop his bleeding. \"You're going into the river you disobedient piece of trash.\" The thug said, lifting him up nd spxhucking him into a nearby river, allowing his body to float downstream.<br>\r\n<br>\r\nAleks just kept floating, the cold water helping the bleeding a tiny bit, but not enough to save him. He had no idea how long he had been floating, but it felt like eternity.<br>\r\n<br>\r\nNot far off now was a pink anthromorphic alicorn. Her legs had the joints of a human, but the structure of a pony, her body looked like a human females, she had the arms and hands of a human, and she had the head of a pony. Her mane and tail consisted of violet, rose and pale gold, all coming down in streaks. She was sitting on the beach of an isolated island, staring off into the sky.moutmof the corner of her eye though, she saw a figure floating in the water.<br>\r\n<br>\r\nCadance got to her hooves, looking at what was in the river, and her eyes widened at the sight. She saw a human floating. She called forth her magic, bringing the man out of the water and towards her. Looking him over, he was still alive, but wouldn't be for long. She panicked a little, she needed to save this man, it was the right thing to do. She quickly ran to her home, hoping she could save Aleks.</span></div></div>",
+            "created":1410238800,
+            "id":1854500,
+            "title":"Growth."
+        },
+        "1113121111":{
+            "author_id":"d-man72",
+            "author_name":"D-man72",
+            "choices":[
+                "Later that night...",
+                "In the morning..."
+            ],
+            "content":"<div class=\"\"><div> <span>Aleks groaned as he regained consciousness, he still felt the dull throbbing of what use to be pain in his stomach. Opening his eyes, he saw that he appeared to be in a cabin of sorts. How he got here, or where he was now we're questions brewing in his mind. He tried pushing himself off the bed he was laying on, letting out a small grunt of pain.<br>\r\n<br>\r\n\"Oh, you're awake,\" a female voice called out, seemingly talking to him. Aleks turned, looking towards the direction of the voice, but instead of seeing a human female, what he saw instead was a pink horse creature. Cadance stood at the door of the room, coming in to check on Aleks as he recovered. Once he saw him just staring at her, she let out a small sigh. \"You're shocked I'm a talking pony walking on two legs, right?\"<br>\r\n<br>\r\n\"Holy shit...\" Aleks said, baffled as to how this creature, now known she, existed. Was she like a Bigfoot, creatures that have been 'sighted' but never actually seen, or was he just vividly hallucinating do to blood loss (which was unlikely).<br>\r\n<br>\r\n\"I'll take that as a yes,\" Cadance said, \"and no, I'm not just some imaginary creature you made up,\" she said as she took a seat at a nearby chair. \"Please be careful, I'm not a medic or docter by any means, so I don't know how well the bandages will hold up. But I did do a good job if I saw so myself,\" Cadance looked at the silent Aleks, \"You can respond, sir,\" she said, Aleks shook his head, being addressed by her.<br>\r\n<br>\r\n\"Oh, um, thanks for helping me,\" he quickly said, I bit to fast for his own liking. \"Uh, can I ask something real quick?\" He asked, not off the bed and standing.<br>\r\n<br>\r\n\"Of course,\" Cadance responded.<br>\r\n<br>\r\n\"WHAT THE FUCK IS GOING ON?!\" Aleks yelled, shocking Cadance.<br>\r\n<br>\r\n\"Okay... not the question I was expecting, but reasonable I guess...\" She began \"Well, I had found you floating down the river with a horrible wound, so I brought you in and nursed you back to health, the best I can,\" Cadence said, \"Oh, I forgot to introduce myself. My name is Cadance, as you can most likely tell, I'm not... native here. What is your name?\"<br>\r\n<br>\r\n\"Aleks... Uh, what exactly are you? You said a pony right?\"<br>\r\n<br>\r\n\"Correct.\"<br>\r\n<br>\r\n\"But... You look-\"<br>\r\n<br>\r\n\"Nothing like the ponies here on earth?\" Cadance finished Aleks' sentence, gaining a nod from him. \"Well, I'm not from earth, obviously. I am from a land called Equestria, which is on a planet called... actually, now that I think about it, I don't think we ever named our planet. Point is, I'm not from earth,\" Cadance summed up.<br>\r\n<br>\r\n\"Okay, why are you here then?\"<br>\r\n<br>\r\n\"That's the thing, I'm not entirely sure how I got here. One day, I'm tucked into bed, the next morning I find myself here on this island. I've been here for a few weeks now, about three maybe. I had to build this cabin and collect food and usable water, it was difficult, but as you can see, I've managed.\"<br>\r\n<br>\r\n\"Wait, you built this in three weeks, by yourself?\"<br>\r\n<br>\r\n\"Yes, I did. That reminds me, I never showed you,\" Cadance began, standing up from her seat, \"I was able to get this done because I have this ability,\" at this, Cadance's horn, that Aleks only now noticed, lit up as a pair of curtains opened up, allowing the moonlight in.<br>\r\n<br>\r\n\"What the, how did you...\" Aleks questioned, though he never finished his sentence.<br>\r\n<br>\r\n\"I am an alicorn, I have unicorn magic, and,\" she unfolding wings Aleks didn't know she had, \"pegasus wings. As well as the strength and endurance of an earth pony. It was all these factors that helped me survive here.\"<br>\r\n<br>\r\n\"Wings, you can fly, right? Then why don't you leave this island?\" Aleks asked.<br>\r\n<br>\r\n\"I can, but I heard most humans aren't the nicest when it comes to strange creatures,\" at this, Aleks realized that his question was a bit stupid to ask.<br>\r\n<br>\r\n\"Right...\"<br>\r\n<br>\r\n\"But, if you want me too, I can fly you back to civilization,\" she offered. Aleks considered it for a moment.<br>\r\n<br>\r\n\"Do you have anyone else here?\"<br>\r\n<br>\r\n\"... No, I've just been here by myself, your the only being I've talked to in three weeks,\" Cadance responded, here ears drooping a bit, realizing that after he's gone, she would be alone again. Aleks saw this, and considered his options.<br>\r\n<br>\r\n\"You know what Cadance, I'll stay here with you,\" he said, putting on a smile.<br>\r\n<br>\r\n\"What? But... what about your friends, and your family?\"<br>\r\n<br>\r\n\"I don't have that good relationship with my family, and my friends will just have live without me. I'm too nice to leave you alone here,\" at this, Cadance began to tear up a bit, the human was willing to sacrifice his normal life to make sure she wasn't alone. Being caught up in the moment, Cadance ran over to him, enveloping him in a hug.<br>\r\n<br>\r\n\"Thank you so much Aleks, you have no idea how much this means to me,\" she said, tears gently falling down her face. After recovering from suddenly being hugged, Aleks wrapped an arm around her, feeling the silky smooth fur of hers (she didn't wear clothes, since her fur acted as her clothing). In this moment, Aleks saw how tall she was. About 5'8\", just four inches shorter than him, though unbeknownst to both of them, that would last long.</span></div></div>",
+            "created":1444885200,
+            "id":2047592,
+            "title":"Saved by a strange creature."
+        },
+        "11132":{
+            "author_id":"nobodyknowhere",
+            "author_name":"Persleigh Zachary scaymore",
+            "choices":[
+                "giant adult male(stranger)",
+                "grown family member"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>okay i don't know what the hell is with the other options but here are the more... normal, options</span></div></span></div>",
+            "created":1605232680,
+            "id":2939309,
+            "title":"Other"
+        },
+        "111322":{
+            "author_id":"nobodyknowhere",
+            "author_name":"Persleigh Zachary scaymore",
+            "choices":[
+                "older brother/cousin(male)",
+                "father/uncle"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>let me be a little more specific</span></div></span></div>",
+            "created":1605232740,
+            "id":2939310,
+            "title":"grown family member"
+        },
+        "11133":{
+            "author_id":"gabrielrenze",
+            "author_name":"Gabo",
+            "choices":[
+                "Mythical",
+                "Man-made fictional (Movies/books/other video games etc.)",
+                "others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I think these two choices might pique your interest.</span></div></span></div>",
+            "created":1605493080,
+            "id":2940636,
+            "title":"Other"
+        },
+        "112":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "A Digimon",
+                "A Pokemon",
+                "Something else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, what kind of creature is abducting you?</span></div></span></div>",
+            "created":1288414800,
+            "id":983863,
+            "title":"Young adult (16-21)"
+        },
+        "1121":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Renamon",
+                "Angewomon",
+                "Other?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And what digimon has found you?</span></div></span></div>",
+            "created":1291093200,
+            "id":1005864,
+            "title":"A Digimon"
+        },
+        "11211":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Cooperate",
+                "Screw that. Beat the crap out of him."
+            ],
+            "content":"<div class=\"\"><div> <span>\"This sucks.\"<br>\r\n<br>\r\nAxel kicked a stray piece of crumpled paper out of his way as he walked through the city streets.<br>\r\n<br>\r\n\"If there's a God, he hates me.\"<br>\r\n<br>\r\nHe had just lost his job, his car had been stolen, and he lived over twenty miles away. With no cell phone to call anyone, he was stuck walking back to his house. It was already eight o'clock, and he had school the next morning. His mind wandered a fair bit as he continued, keeping his hands in his jacket pockets to ward off the cold fall air. Another chill breeze ruffled his combed-back dark brown hair, and penetrated his jacket and the Hawaiian shirt he wore beneath. His sapphire eyes were downcast, staring intently at the pavement. In his own misery, he didn't even notice someone walk out of an alley and begin following him.<br>\r\n<br>\r\nThat one person was soon joined by a second, and then a third, all the while eluding Axel's notice. As Axel approached the bridge that led out of the city towards his hometown, a fourth man stepped out of the forest area off to the side of the road, and stopped him from the front.<br>\r\n<br>\r\n\"Hey, kid,\" The first man who was tailing him said, \"Hand over your wallet and turn out your pockets. Do as we say, and you won't get hurt. Much.\"</span></div></div>",
+            "created":1291179600,
+            "id":1005965,
+            "title":"Not a good day"
+        },
+        "112111":{
+            "author_id":"blader",
+            "author_name":"blader",
+            "choices":[
+                "You wake up with her still on top of her",
+                "Rena's making a soup of some kind (please don't say she's gonna eat him)"
+            ],
+            "content":"<div class=\"\"><div> <span>(switching from 3rd to 2nd person)<br>\r\n<br>\r\nYou can't believe what was happening, \"worst day ever\" you think. You pull out you're wallet as it didn't have much and throw it to the guy who asked as well as you're useless car keys, he looks through the wallet and says \"hey kid what's you're card number?\" You tell him and he smiles \"thanks kid, well come on guys there's no way this coward will call the cops so let's just leave him alone\" he says before turning around and he follows with his partners following. You just stand there stunned \"Ok so i've lost my job, my car, I just got mugged, this day totally sucks\" you think starting to walk across the bridge. You make it about half way when you hear a car horn and you jump to the side seeing a car race past you, problem was this was a footbridge. You let out a sigh as you fall over the side and plunge into the river below. You try to swim but the current was too strong, you keep fighting as you didn't want to die yet but you slowly lose strength and eventually you just give up. You feel like you're lungs are on fire and you black out sure that you were gonna die. <br>\r\n<br>\r\nYou wake up for a bit and you feel yourself being dragged out of the river, \"are you okay?\" you hear a female voice ask. You're just able to moan a bit indicating you were alive but not in good shape before you black out again. You wake up again afraid out of you're mind, you look around and you're in a giant cave big enough to hold something like 20 bears and them some with room to spare during the winter months. You notice a large fire in the middle of the cave and you look around for the person that saved you. You can't see anyone but you're covered in a large yellow and white blanket, you figure it had to be 8 times you're size so 40ft long, it was a weird blanket, it looked like it was some kind of bi pedal fox and part of it was covererd in purple, and it felt like there was a pair of arms around you're back. This weird blanket even seemed to have a tail, \"I really hope this isn't some weird dead animal\" you think. You try to get up but the \"blanket\" covering you was too heavy and you swear it felt like when you moved it moved with you and the arms got tighter. \"Hello\" you yell trying to get the attention of that female that had saved you, you hear movement and you look around that's when you realize the movement was nearby. You look down and you're shocked as you see the tail on the blanket twitch from side to side.<br>\r\n<br>\r\n\"Ahh\" you scream and you try to push you're way away from this creature that was on top of you. It holds you even tighter and pulls you closer rubbing the part that had been right next to you're head which you realize was it's head against you. \"Ok there's got to be a way out of this\" you think frantically, you reach over and rub it's side and much to you're suprise the creature lets out a giggle. You rub some more till it's gently laughing and you're able to free yourself, you run over to the fire and grab one of the sticks out of the fire hoping you can use it to hold this thing back. It stirs and stretches then looks at where you're supposed to be and you see worry spread over it's face, it looks around and when it notices you it smiles and gets up. You were right it stood 40ft tall and now that it was standing up you recognized what it was but that was impossible. It was a renamon from that digimon show you watched when you were younger but those were supposed to be fiction. It steps forward and you hold the burning stick in front of you \"stay....stay back\" you say but the renamon advances. You swing the branch and she easily dodges it and knocks it out of you're hands back onto the fire. <br>\r\n<br>\r\nShe bends down and stares at you eye to eye \"don't worry little one i'm not going to hurt you\" she says.<br>\r\n<br>\r\nRecognizing the voice you say \"wait, you're the one that saved me\"<br>\r\n<br>\r\n\"Yes, I found you in the river, you weren't doing very well so I brought you home and took care of you\" she giggles for a second \"you wouldn't let go of my fur the whole time I was watching over you so I had to carry you around\" she says.<br>\r\n<br>\r\n\"But...but that's impossible you're supposed to be fiction\" you say. She reaches over and gently pokes you with 1 finger, \"does this feel like fiction?\" she asks.<br>\r\n<br>\r\n\"Well no, but why'd you save me?\" you ask.<br>\r\n<br>\r\n\"Well I can't just leave someone to die, besides it's nice to finally have some company\" she replies.<br>\r\n<br>\r\n\"I'm Axel\" you say hesitantly reaching out a hand.<br>\r\n<br>\r\n\"I'm,....you know I don't think I have a name\" the renamon says.<br>\r\n<br>\r\n\"How about Rena?\" you ask starting to settle down.<br>\r\n<br>\r\n\"That sounds cute, i'll take it\" Rena says. \"Well you'll probably want to be leaving now\" Rena continues.<br>\r\n<br>\r\n\"I think I can stay, I mean what kind of gratitude is it to just leave the girl who saved me\" you say.<br>\r\n<br>\r\n\"Don't you have a family to get back to?\" Rena asks.<br>\r\n<br>\r\n\"Nah I haven't spoken to my family in ages after I said I needed to spread my wings, no girlfriend, and no job so it's not like anyone's gonna come looking for me\" you say. \"So I can stay with you if you really need some company\" you say. Rena pounces on top of you and she has a smile on her face \"oh thank, thank you, it's been so lonely\" she says before nuzzling you.<br>\r\n<br>\r\n\"So how'd you get here?\" you ask.<br>\r\n<br>\r\n\"You know I don't know, I just remember being here with my mother and it's all i've really known\" Rena says.<br>\r\n<br>\r\n\"Is you're mother still around?\" you ask looking around.<br>\r\n<br>\r\n\"No, she passed a while back\" Rena says.<br>\r\n<br>\r\n\"I'm sorry for bringing it up\" you say.<br>\r\n<br>\r\n\"No it's ok, I have you now to keep me company\" Rena says before hugging you.<br>\r\n<br>\r\n\"You're a very affectionate renamon\" you say as she hugs you.<br>\r\n<br>\r\n\"Well why wouldn't I be, you're just so cute, and you were constantly trying to bury yourself into my fur before so you must like me\" she says smiling. Well you had to admit she looked very cute and she did take care of you.<br>\r\n<br>\r\n\"Is there any food around here?\" you ask.<br>\r\n<br>\r\n\"Oh you're hungry, well then just let me go get something for you\" Rena says putting you down and running out of the cave.<br>\r\n<br>\r\n\"Well this isn't how I expected today to go but it could be a heck of a lot worse, warm place to stay, food and drink, and I get a giant renamon as a companion yeah this could be a lot worse\" you think as you lay back. Rena comes back in a second carrying a bunch of berries, she bends down and offers you one \"open up\" she says.<br>\r\n<br>\r\n\"I can feed myself\" you say sitting up and reaching for the berry but she pulls back.<br>\r\n<br>\r\n\"You're in my house you will follow my rules\" Rena says smiling \"now open up or no food.\" You let her feed you the berries and she smiles the whole time, \"so Axel can you tell me about yourself?\" Rena asks.<br>\r\n<br>\r\n\"There's not that much to tell, I'm just a normal guy, who got mugged today and accidentally jumped off a bridge\" you say laughing a little.<br>\r\n<br>\r\n\"You poor thing\" Rena says pulling you to her and holding you against her chest. \"Don't worry i'll take care of you from now on\" she says.<br>\r\n<br>\r\n\"I can take care of myself\" you say.<br>\r\n<br>\r\n\"Oh hush, you don't like my hospitality?\" Rena asks staring at you eye to eye and you can see the loneliness she's suffered reflected in her eyes.<br>\r\n<br>\r\n\"No I guess being taken care of by you wouldn't be so bad\" you say hugging her. You feel one of her paws rub over you're back and you snuggle yourself into her fur. Rena gets up making sure to lift you with her, she walks over to the area you woke up on which you realize now was a bed of leaves and twigs. Rena puts you down and then slowly lays on top of you making sure not to hurt you, \"Good night Axel\" she says.<br>\r\n<br>\r\n\"Good night Rena\" you say honestly happy that the events of today had happened.</span></div></div>",
+            "created":1293080400,
+            "id":1021002,
+            "title":"Cooperate"
+        },
+        "1121111":{
+            "author_id":"blader",
+            "author_name":"blader",
+            "choices":[
+                "Object",
+                "don't object"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up slowly with Rena still laying slightly on top of you. You try to wiggle out so you can go to the bathroom but Rena just rolls over and hugs you close to her. She starts mumbling \"glad.....company.....not alone anymore\" causing you to smile. You're just able to wiggle yourself out and you head outside the cave to do you're buisness. You re-enter the cave once you're finished and you find Rena still asleep. You lay down next to her and just watch her sleep for a bit \"she's actually pretty cute\" you think as she rolls over so she's on her side facing you now. You move closer and you stroke her back \"wow she's so soft\" you think. You keep stroking until Rena wakes up and she looks at you with that piercing stare.<br>\r\n<br>\r\n\"Um......good morning\" you say not sure if you upset her.<br>\r\n<br>\r\n\"Good morning\" Rena says as a smile breaks out on her face, \"can you do that again that felt really good\" Rena says.<br>\r\n<br>\r\n\"Sure\" you say, you walk behind Rena and start gently stroking her back and she lays back down on the bed. You sit there and stroke her for a good 10 minutes before Rena sits up and smiles at you. \"Thanks Axel that felt soo good\" Rena says.<br>\r\n<br>\r\n\"No problem it's the least I can do for saving me\" you say. Rena wraps her arms around you and pulls you close to her. She gently rubs you're back and starts humming. \"So Axel what do you think of me as a blanket?\" Rena asks.<br>\r\n<br>\r\n\"Well that's a weird question but you're really comfy, warm. and fuzzy\" you say.<br>\r\n<br>\r\n\"Thanks Axel, i'm glad to hear that\" Rena says pulling you back and smiling a bit.<br>\r\n<br>\r\n\"Ugh i'm hungry\" you say.<br>\r\n<br>\r\n\"Oh let me get some more berries\" Rena says getting up and running out of the cave. You run out after her wanting to find out where Rena found these berries. You follow her through a bunch of trees, bushes, and even over a small stream until she enters a clearing full of bushes. You walk up to one of the bushes and they're full of berries, Rena enters the centre of the clearing and much to you're suprise she starts glowing. You hide behind one of the bushes as Rena transforms or well digivolves into Kyubimon. She lets out a bunch of ghost fire that surrounds the area. You slowly step out from behind the bush and Rena or should I say Kyubimon turns and stares at you.<br>\r\n<br>\r\n\"Hey I didn't know you could digivolve\" you say walking up but you stop as Kyubi-Rena snarls at you. She pounces toward you and knocks you over easily as she was now atleast 100ft tall as her face was bigger then you were. You try to back up but she blocks you're path with her paws and stares down intently at you. \"Rena are you ok?\" you ask as she wasn't doing anything. She leans her head down and licks you once with her tongue, she gently breathes on you for a bit washing over you with her warm breath. She opens her mouth wide and lowers her head toward you, \"Waitttt\" you yell prompting her to stop right above you. KyubiRena raises her head and stares at you confused, more becuase she stopped then you yelling. She looks down at you a second time and sniffs you this time, she pushes you with her muzzle now somewhat confused that she didn't just eat you. You sit up and gently stroke her muzzle somewhat assure that she won't eat you. KyubiRena lays down so that one of her paws is over top of you and she starts glowing again, you shut you're eyes once she started glowing as it was such a bright light. When you open them you find Rena laying there, she opens her eyes and is shocked to see you there.<br>\r\n<br>\r\n\"Axel what are you doing here? are you ok? did you see it?\" Rena asks.<br>\r\n<br>\r\n\"I followed you to find out where you got the berries from, i'm alright and I saw you become Kyuubimon not only that but you well tried to eat me\" you say answering each of her questions in turn. She hugs you tightly \"I'm so sorry\" she says \"whenever I become Kyuubimon I go kind of feral that's why I seal myself with the ghost fire\" Rena says.<br>\r\n<br>\r\n\"It's ok it's not like i'm hurt or anything\" you say.<br>\r\n<br>\r\n\"Yeah but...but you'd be dead and I would of been the one who killed you\" Rena says starting to cry.<br>\r\n<br>\r\n\"Hey hey it's nothing to cr...mmphh\" you're cut off as Rena kisses you. You're shocked for a second as you could tell the feeling behind the kiss as Rena hugged you tightly when she kissed you. You feel her lips quiver as you weren't returning it so you gently kiss her back, you feel her whole body quiver and she totally lets go pushing you over and laying on top of. She kisses you again and again for a good minute before getting up, \"i'm....i'm sorry, i'm not sure what came over me I just....I just don't want to be alone again\" Rena says starting to cry again. She hides her face and turns so you can't see but you can easily see her body shaking. You walk up and look around her \"her Rena, you did stop yourself you know, it's the reason i'm not hurt\" you say. She just turns away and you sigh. You walk around her so you're standing in front of her and you grab each of her arms with a hand. You slowly part them suprised she wasn't putting up any resistance. She stares at you through teary eyes and you slowly move forward and wrap you're arms around her neck before kissing her. She just stares at you shocked before kissing back, you break the kiss after half a minute passes and you smile at her, \"Rena you saved me so I owe you my life, so it's ok if you took it\" you say smiling. Rena shakes her head and she hugs you tightly \"I don't want you to die\" she says.<br>\r\n<br>\r\n\"Fine then I won't\" you reply. Rena stares at you and she starts crying again. \"Hey hey, stop that\" you say brushing a few tears aside \"I don't ever want to see you cry, because if you're sad that'll make me sad too\" you say prompting her to hug you again. \"Can we have some berries now i'm still kind of hungry\" you say.<br>\r\n<br>\r\n\"Sure\" Rena says she pushes you back so you land on you're butt \"wait there\" Rena says as she zips around the clearing picking berries. She returns in a few minutes and offers you a berry \"open up\" she says. You sigh and let her feed you, however you notice she's smiling the whole time. She feeds you every berry by hand up till the last one that looked different, all the others berries were blue or black but this one was red. Rena picks this one up and stares at it for a bit before placing it halfway in her mouth. She leans over and wait expectantly. \"No, no way am I doing that\" you say. Rena's ears droop and you see her eyes quiver for a second, \"Oh fine\" you say eating the berry and kissing her in the process.<br>\r\n<br>\r\n\"Yay\" Rena says tackling you and hugging you after the berry's gone, \"now come Axel it's time we went home\" Rena says picking you up and running back to the cave. She puts you down and walks further into the cave a noticeable spring in her step. Rena turns around and runs up to you, she pushes you over and cuddles up next to you. \"Axel you'll never leave right?\" Rena asks. \"You should of asked that sooner but no Rena i'll never leave since you're so kind\" you say rubbing her back.<br>\r\n<br>\r\n\"That's good\" Rena says as she lays her head down covering you're whole lap.<br>\r\n<br>\r\n\"Sleepy?\" you ask.<br>\r\n<br>\r\n\"No I just want to be near you\" Rena says happily. You smile at her words and you start stroking her back.<br>\r\n<br>\r\n\"Hey Rena do you mind if I go use the river to wash off\" you say.<br>\r\n<br>\r\n\"Not without me\" she says lifting her head up.</span></div></div>",
+            "created":1293339600,
+            "id":1022999,
+            "title":"You wake up with her still on top of her"
+        },
+        "11211111":{
+            "author_id":"blader",
+            "author_name":"blader",
+            "choices":[
+                "Rena doesn't get up and she teases you a bit",
+                "Rena gets up but decides to play a trick on you"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I don't think that's necessary\" you say.<br>\r\n<br>\r\n\"You're not leaving unless I come\" Rena says.<br>\r\n<br>\r\n\"Oh come on i'm not going to leave\" you say but Rena stands firm. After a few minutes you sigh \"fine you can come\" you say and she smiled at you. She stoop up and you followed her to the river, you tentativley stuck you're foot in when you reached it and much to you're surpise it was somewhat warm, \"it's midday, so the sun's been shining on it for a while\" Rena says. You start taking you're shirt off and stop as you realize Rena is watching you, \"I kind of need you to turn around\" you say. She does so but you were sure you saw her peek over her shoulder atleast once. You stepped into the stream and thankfully the current was barely non existant here, you swam around for a bit before you heard a splash and Rena swims up to you. \"Rena what are you doing\" you ask turning and heading for the shore, she swims up next to you \"not much I just wanted to swim too\" she says. You crawl onto the shore making sure to cover yourself and you lay down in the grass. Rena walks out and shakes herself before sitting down in the grass, \"what are you doing?\" she asks.<br>\r\n<br>\r\n\"Letting the sun dry me\" you reply.<br>\r\n<br>\r\n\"You'll catch a cold like that\" she says.<br>\r\n<br>\r\n\"No I won't it's summer\" you reply, Rena leans down and hugs you, you jump backwards. \"What's wrong?\" she asks.<br>\r\n<br>\r\n\"You're still wet\" you say, she just shrugs off you're answer and moves toward you \"so, this way we'll both get warmer faster\" she says but she has a weird look in her eyes. \"Besides you don't seem to mind\" she comments. You weren't sure what she meant until she pointed down, you look to see that not only were you facing her fully nude but you were as large as you could have been. \"Ahhh\" you yell and cover yourself, running over to you're clothes, thankfully the sun had dried you enough so that when you put you're clothes on none got wet. Rena walks up giggling, \"what's wrong?\" she asks.<br>\r\n<br>\r\n\"Aren't you embarassed, since you just saw me naked?\" you ask.<br>\r\n<br>\r\n\"No, you see me nude everyday\" she replies.<br>\r\n<br>\r\n\"What are you talking about, there's a patch of fur over you're breasts and vagina, that's not naked to me\" you say. \"Besides you well saw me when I was well...\" you trail off. Rena smiles and lifts you up into a hug \"it's ok, I know that just means you find me attractive, i'm flattered\" she says. You couldn't look her straight in the face you were blushing too much, Rena giggles again and gently nuzzles you \"Axel don't worry, I don't mind it, in fact I like you like that too\" she says. You turn and stare at her shocked \"what? I can't find you attractive? silly boy\" she says smiling. She taps you on the nose and giggles again, \"well come on let's head back, we could be seen out here\" she says opting to carry you instead of putting you down and letting you follow her. You reach the cave and much to you're suprise you shiver in Rena's arms, \"I told you you'd catch cold\" she says putting you down. She runs to the back of the cave and looks around for a bit before looking behind a rock. She comes back carrying a bunch of sticks and soon has a fire going. She pushes you closer to it before laying behind you. You hold you're hands out to get them warmed up and Rena pulled you back, Rena nestles you against her stomach and not really having any reason to reject her invitation you get comfy and lay back. You looked over to see her smiling at you, and she lays her head down very much content and secure. You laid you're head back and you were soon asleep as when you next opened you're eyes the fire was out. You looked over to see Rena asleep, although it was clearly still daytime as the sun was shining brightly into the cave. You stretch and walk outside a bit, that's when you hear it. It sounded like breathing, and you hear a twig snap, you duck behind the cave wall and much to you're suprise you see a brown bear walk out of the trees and it heads straight for Rena's cave.<br>\r\n<br>\r\nYou run back inside and start shaking Rena \"wake up, wake up\" you say. She opens her eyes and smiles at you \"morning \"yawn\" Axel\" she replies.<br>\r\n<br>\r\n\"It's not morning and we kind of have a problem\" you say turning as part of the light was blocked out as the bear enters. Rena turns and stares at the bear and it snarls at the both of you raising itself up to about 8ft tall. Rena however stands up and totally dwarfs the bear, the bear unfazed however charges forward. Rena just smiles and you see blue flame start to surround her fist. Just before the bear's on top of her she punches it square in the face. The bear is thrown backwards like it got hit by a truck, it turns and stares at Rena before quickly retreating out the way it came. You stand there shocked and Rena turns and smiles at you \"was that the problem?\" she asks casually.<br>\r\n<br>\r\n\"Uh...yeah it was\" you reply.<br>\r\n<br>\r\n\"Well it's taken care of\" she says.<br>\r\n<br>\r\n\"Wow, remind me never to get on you're bad side ok\" you say still shocked at what you just saw.<br>\r\n<br>\r\n\"You won't\" Rena says confidently, she lays down and her tail moves from side to side for a bit \"hey axel you mind stroking my back?\" Rena asks.<br>\r\n<br>\r\n\"Sure\" you reply, you walk over and start stroking her and Rena sighs, you looked her over as you stroked her and the longer you had to examine her the fewer and fewer flaws you found in her. Rena finally turns after about 5 minutes and you had started imagining things so you weren't really paying attention.<br>\r\n<br>\r\n\"Axel, you sure are bold\" Rena says, you stop and look down to see you're hand was right over her nether regions, without the fur well you were glad it was there.<br>\r\n<br>\r\n\"Oh crap, i'm sorry\" you say backing up, Rena sits up and smiles at you \"it's alright, what distracted you so much?\" she asks.<br>\r\n<br>\r\n\"Well I was thinking about how flawless you are\" you say.<br>\r\n<br>\r\n\"Oh stop, i'm not flawless\" she replies blushing a bit.<br>\r\n<br>\r\n\"But you are, you're smart, athletic, beautiful, kind I can't find a fault\" you say seriously.<br>\r\n<br>\r\n\"Really?\" Rena asks.<br>\r\n<br>\r\n\"Yeah, and i'm just plain old me\" you say sighing a bit. Rena stares at you with those peircing eyes and you saw them soften. Rena gets up and stares at you \"so you're just you are you?\" she says. You nod and she sighs, she walks around you and picks you up depositing you on the bed of leaves and twigs. She lays over you holding herself up a bit and smiles down at you, \"you're not just you, you're mine now and that makes you special\" Rena says. You sigh and you're about to sigh again when Rena seals it in you're throat by kissing you \"stop being all depressed, you're a nice guy, and you were kind enough to stay with a weirdo like me\" Rena says.<br>\r\n<br>\r\n\"You're not a weirdo you're a beautiful fox woman and anyone who says otherwise is just wrong\" you reply quickly. Rena smiles again before gently falling over top of you. \"Thank you Axel, that's the nicest thing anyone's ever said to me\" Rena says wrapping her arms around you.<br>\r\n<br>\r\n\"No problem, but ah can you kind of get up\" you ask.<br>\r\n<br>\r\n\"Why?\" Rena asks.<br>\r\n<br>\r\n\"Well i'm kind of embarrassed\" you say.</span></div></div>",
+            "created":1295240400,
+            "id":1037303,
+            "title":"Object"
+        },
+        "112111111":{
+            "author_id":"blader",
+            "author_name":"blader",
+            "choices":[
+                "you lose it",
+                "You don't lose it"
+            ],
+            "content":"<div class=\"\"><div> <span>Rena smiles down at you, \"oh you are?\" she asks pushing herself down and pushing her chest down near engulfing you're torso.<br>\r\n<br>\r\n\"Rena get off\" you say trying to push her back but she deftly grabs you're hands and pins them to you're side before wrapping her arms around you. \"So how many kids do you want Axel?\" Rena says sitting up pinning you're arms with her legs, \"i've always wanted a lot, more to love\" she says. You don't answer and she seems to pout, \"aww Axel do you not like me enough for that?\" she says.<br>\r\n<br>\r\n\"No, I mean yes I like you enough, i'd love to be you're mate\" you say looking away, when you look back at Rena she had a huge smile on her face. \"Geez Axel I was just kidding\" she says, \"I wasn't\" you reply. Rena looks down at you shocked, \"Axel....you'd really want me?\" she asks.<br>\r\n<br>\r\n\"Of course Rena\" you reply, by now her legs had relaxed and you sat up hugging her lower body, \"Rena I want no other then you, i'll admit when I first saw you I was scared of you, but now, well you've taken such good care of me and well I love you\" you say. Rena looks down at you shocked, \"no Axel you can't\" she says pushing you back.<br>\r\n<br>\r\n\"Why?\" you ask suprised.<br>\r\n<br>\r\n\"The last person who loved me died because of me\" Rena says.<br>\r\n<br>\r\n\"Rena that just showed how much they cared\" you say but Rena shakes her head \"Rena i'd die for you\" you say. You seem to have said the wrong thing as she lets out a roar and tackles you, \"don't...don't..ever..say..that\" she breaks down and lowers her head down next to yours. You stroke her and after a few seconds she brings herself up, \"the last one who loved me, was my mother\" she says not able to make eye contact, \"and she did die for me, she died so I could get away to here and it wasn't years ago, it was a few months ago\" Rena says looking at you. You looked up at Rena shocked, she looks away and steps off, \"i'm sorry Axel, i've kept you here for my own purposes\" she says. She's so suprised that you tackled her that you were able to bowl her over, you both rolled once and you ended up sitting on her chest, you looked down at her and hugged her as tightly as you could \"Rena, i'm sorry you had to go through that\" you say pretty much crying yourself. Rena wraps her arms around you tightly and snuggled her head into you're shoulder and lets loose, you spent the next few minutes gently stroking her back and telling her it would be ok as she cried her heart out. Finally the tears subsided and Rena looked up at you \"i'm sorry Axe,,,,\" you didn't let her finish, kissing her with all you're mouth you explored her mouth with you're tongue. Rena actually seemed to get impatient and pushed you're tongue back with hers, exploring you're mouth was a lot easier as her tongue pretty much filled you're mouth. Finally after a few seconds Rena broke the kiss and looked up at you \"Axel..\" she starts.<br>\r\n<br>\r\n\"Shh Rena just enjoy the moment\" you say.<br>\r\n<br>\r\nShe shakes her head, \"Axel I need to tell you something\" she says.<br>\r\n<br>\r\n\"Please don't let it be something else sad, because then i'm never gonna stop hugging you\" you reply smiling at her. Rena grins, \"no it isn't\" and you let out a small cry as she flips you both over so that she was sitting on you're legs again, \"I just thought you'd like to know I feel the same\" she says. You smiled up at her, \"well that's great news, so um.... any other things you should tell me, like um what happened to you and you're mother?\" you ask.<br>\r\n<br>\r\nRena sighs and climbs off sitting down, \"me and my mother were brought here by you're kind expirimenting with transdimensional technology, you are right in considering us fiction as we could probably conquer you're world in a day if we invaded full force. Anyways the scientists held us captive for a year testing us, probing us, but never once trying to befriend us, like you had Axel\" she stops for a second to give you a quick hug. \"Anyways, my mother was thrice my size yet they somehow kept her restrained finally she broke free from her restraints and transformed into kyubimon, if you thought I was large she was atleast 300ft in her form\" Rena says. She looks away \" my mother proceeded to ravage the facility and when all was over I was left standing on a pile of rubble and my mother was nowhere to be seen\" she says. \"What was the research facilities name?\" you ask.<br>\r\n<br>\r\n\"Blue bay research\" she replies.<br>\r\n<br>\r\nYou freeze, that was the research facility right on the edge of town, you read the story of it getting demolished in the paper, There were over 100 people killed in the destruction of the facility, you looked over at Rena, \"hey Rena you'd never do something like that?\" you ask. Rena looks at you like she read you're mind, \"Axel I was surrounded by bodies even though they were a lot smaller, so no I wouldn't\" Rena says. You nod, \"sorry if that seems accusatory\" you say.<br>\r\n<br>\r\n\"It's alright\" Rena says cuddling you, \"I just wish I could see my mother again\" she says. You froze as suddenly the sky seemed to darken like the sun was blotted out, you tapped Rena and she turned and sniffed the air, you saw something in her eyes before she shook her head. You looked at Rena and she looked relived but also scared, \"Rena what's wrong?\" you ask as she kept looking at the mouth of the cave that was till darkened. \"I...I swear I can smell my mother's scent\" she says looking at you. Throwing caution to the wind you threw caution to the wind and ran to the mouth of the cave and froze when you got outside. Standing there blotting out the sun was Rena's twin, except a lot larger, you just stood there staring up and up and up open mouthed. The figure turns and notices you, \"oh hello\" she says leaning toward you, you quickly realized there was only one being this could be. \"Hey...uh Rena you might want to come out here?\" you yell.<br>\r\n<br>\r\n\"No, for some reason I swear I can smell my mother, it's torture\" she yells back.<br>\r\n<br>\r\n\"For the love of all that's good in the world get you're ass out here\" you yell back into the cave. Rena finally walks out and freezes staring at the figure way above her.<br>\r\n<br>\r\n\"Hello my little kit, you've grown since I saw you last\" Rena's mother says. Without hesitation Rena runs forward and leaps like an athlete landing in her mother's waiting arms. You just sat back and watched as mother and daughter embraced. Rena's mother turns and stares at you growling a bit \"so who are you\" she asks angrily.<br>\r\n<br>\r\n\"Axel, at you're service ma'am\" you say bowing. She's actually taken aback, \"Rena?\" she asks.<br>\r\n<br>\r\n\"Relax mom, I saved him from drowning he's a good human\" Rena says. \"Axel i'd like you to meet Kiera my mother\" Rena says.<br>\r\n<br>\r\n\"My pleasure\" you say.<br>\r\n<br>\r\nKiera smiles, \"well if you've befriended my daughter, you can't be all bad\" she says.<br>\r\n<br>\r\n\"Thanks, you don't seem to be that bad, for a 120ft tall renamom\" you reply.<br>\r\n<br>\r\n\"Little one why does he call you Rena?\" Kiera asks.<br>\r\n<br>\r\n\"Well, he gave me the name, and just a few minutes ago he offered to be my mate\" Rena continued.<br>\r\n<br>\r\nKiera stares down at you suprised, she nods, \"well this is an interesting turn of events.\" she says.<br>\r\n<br>\r\nShe lowers her face toward you and you knew she could eat you in one gulp. \"Mom don't hurt him\" Rena yells. <br>\r\n<br>\r\nKiera much to both you're suprise laughs \"I wouldn't dream of it, you obviously seem to enjoy being with this man, although I hope he knows what will come with being you're mate\" she replies.<br>\r\n<br>\r\n\"What do you mean?\" you ask.<br>\r\n<br>\r\n\"Oh, well when you 2 go at it, Rena will become my size\" Kiera says. You stood there stunned and....</span></div></div>",
+            "created":1297918800,
+            "id":1055354,
+            "title":"Rena doesn't get up and she teases you a bit"
+        },
+        "1121111112":{
+            "author_id":"blader",
+            "author_name":"blader",
+            "choices":[
+                "There is a stream with giant fish",
+                "Gigantic berry patch"
+            ],
+            "content":"<div class=\"\"><div> <span>\"So what's the big deal about that?\" you ask.<br>\r\n<br>\r\n\"Y...you're not scared?\" Keira replies lowering her head again looking very confused.<br>\r\n<br>\r\n\"Will she still be the same Rena?\" you ask.<br>\r\n<br>\r\n\"Of course, she'll just be my size\" Keira says.<br>\r\n<br>\r\n\"So then what's the problem, just more Rena for me to love\" you reply.<br>\r\n<br>\r\n\"You probably just want me to have a bigger chest\" Rena says smiling at you.<br>\r\n<br>\r\n\"Well....that's part of it\" you reply. Rena laughs and lifts you up \"Axel you little perv\" she says.<br>\r\n<br>\r\n\"Sorry Rena but you're just so beautiful, and more of you has to be better\" you reply. Rena grins \"well then Axel let's get to it\" she says. <br>\r\n<br>\r\n\"Wait get to what?\" you reply.<br>\r\n<br>\r\n\"The fun\" Rena replies, she turns to her mother \"so does it happen all at once?\" she asks.<br>\r\n<br>\r\n\"As soon as you both finish\" Keira replies. Rena nods and starts walking off still holding you \"so Axel, how many kits do you think is enough?\" she asks.<br>\r\n<br>\r\n\"W-what? I don't know you said you wanted a lot\" you reply staring up at her.<br>\r\n<br>\r\nRena nods and her pace quickens \"well then you're gonna have to give me all you got\" she says her pace becoming a full on sprint. She bursts into the clearing where those berry bushes were and as she walks to the center \"this should be big enough\" she says putting you down on the grass. One of her paws firmly pushes you back into the grass before she starts to undress you.<br>\r\n<br>\r\n\"R-Rena isn't this taking things a bit too fast?\" you ask.<br>\r\n<br>\r\nRena stops for a second before continuing \"Axel you said you wanted to be my mate, well I want to be yours, I want your kits\" she says stripping you of your underwear. She smiles down at you warmly and gently, \"don't worry Axel I promise i'll be as gentle as I can\" she says her massive body hovering over yours. You slowly nod and Rena gently smiles and lowers herself starting. <br>\r\n<br>\r\nFor the next half hour all you knew was the gentleness of Rena's touch as she stroked and hugged your body. The warmth of her depths as you gave yourself up to her and she gave herself to you. The softness of her fur as she gently lowered herself on you or hugged you tightly, her warm breath washing over you. You learned just how much she could control you, how soft she was and every curve of her body. Finally you lay on top of Rena's body fully spent as she pretty much purrs underneath you, her warm chest surrounding you in the afterglow.<br>\r\n<br>\r\n\"Axel that was amazing, I love you so much\" she says her arms wrapping around you.<br>\r\n<br>\r\n\"I love you too Rena\" you reply. Suddenly you feel something hit you, it was like you wanted to sleep but you knew it was unnatural, you weren't able to fight it and blacked out. When you woke up your head was still on warm soft fur, you raised your head and froze at what you saw. Rena had grown during your sleep, as her mother said she was now atleast her size of 120ft tall, Rena was probably 125. Rena yawns and stretches and she looks around lazily then more worried \"Axel, Axel where are you\" she says turning left and right pushing her chest which had grown on it's own inflating atleast one cup size into you over and over.<br>\r\n<br>\r\n\"Rena down here\" you shout up at her, she freezes and looks down at her chest her fear quickly turning to calm as she saw you between her now quite large chest. \"Hello my little love\" she says smiling at you.<br>\r\n<br>\r\n\"Hey Rena, I was right you're still beautiful at this size\" you say sitting up between her small hills. Rena giggles \"you look so cute Axel\" she says putting a hand under her chest she sits up and you fall onto her palm. She lifts you up and kisses your whole front \"such a cutie\" she says. She smiles at you slyly and her tongue darts out and licks you.<br>\r\n<br>\r\n\"Hey\" you say but she licks you again, and again and again until you were soaked.<br>\r\n<br>\r\n\"Blech what was that?\" you ask her wiping saliva off yourself.<br>\r\n<br>\r\n\"I never really got to taste you, it's one of the ways foxes tell their mate\" Ren says smiling, \"plus you taste kind of good\" she says.<br>\r\n<br>\r\n\"Ok Rena that's kind of creepy\" you reply.<br>\r\n<br>\r\nRena's ears press back against her head \"sorry Axel, we really should go find my mother now\" she says. You can't help but nod and Rena holds you to her chest for a second \"\"don't worry Axel i'll make sure nothing happens to you\" she says.<br>\r\n<br>\r\nYou nod \"I know you will Rena\" you reply. Rena starts walking back to her cave and she reaches it in only a few seconds, she looks around and it was kind of easy to tell where Keira went as she left a trail of overturned trees in her wake. The cave however was a lot further away then we expected taking us an hour to reach it. Rena looks around, \"hey I can't see mom\" she says, you looked around when suddenly Keira pops out of a solid rock. You both just stare at her \"how did you do that?\" you ask.<br>\r\n<br>\r\nKeira smiles at you \"oh come now, you don't think we don't have some illusionary magic?\" she says staring at you.<br>\r\n<br>\r\n\"Uh....no?\" you reply. Keira giggles and walks back through the rock, Rena follows her and you were shocked at what was inside. The absolutely massive cavern had a covering of leaves over the whole floor, in 2 places were 2 beds of soft grass although one was clearly made not long ago. Keira smiles at the 2 of us \"I'm glad to see that your mating went well\" she says.<br>\r\n<br>\r\nRena smiles at her mother \"thanks mom\" she says. Keria looks at Rena \"so how was he?\" she asks. \"Mom!!\" Rena shouts at her mother.<br>\r\n<br>\r\n\"I'm not going to steal him, I'm just curious if your first time went well\" Keira replies suprisingly calm as you and Rena were both red as a tomato.<br>\r\n<br>\r\n\"It went fine thank you\" Rena says moving over to one of the 2 grass beds, she lays out and places you down near her. \"Aww Axel I can't cuddle with you like I could before\" she says staring down at you. You look up at her \"oh I'm sure we can come up with something\" you reply smiling. Rena smiles at you mischeviously \"your right\" she says lifting you up between 2 fingers. She puts you down on her stomach \"hey Axel could you, rub my tummy?\" she asks.<br>\r\n<br>\r\n\"Sure Rena\" you reply. You reach down and start stroking the soft fur underneath you, you felt Rena's body instantly relax and she sighs \"Axel that feels so good\" she says. You smiled a bit \"I'm glad your enjoying yourself Rena, you deserve a little pampering every now and again\" you say Rena moaning a bit as you hit a sweet spot.<br>\r\n<br>\r\n\"But I don't \"oooh\" do anything\" Rena replies.<br>\r\n<br>\r\n\"Of course you do, you took care of me, you gave me a bed and a home, Rena I love you, something like this is the least I can do to repay you\" you say. Suprisingly you felt Rena' hand wrap around you and you were pulled up to her face \"Axel you don't owe me anything, I love you too and your love is all I need, although something like that tummy rub every now and again would be nice\" she says. You nod and you heard a cough both of you turning to see Keira standing there the 2 of you totally forgetting about her. \"I'm sorry to interrupt you 2 but we should go get some dinner\" Keira says.<br>\r\n<br>\r\n\"Dinner, that's right how do you eat at this size?\" you ask.</span></div></div>",
+            "created":1304398800,
+            "id":1099485,
+            "title":"You don't lose it"
+        },
+        "112112":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Axel is just barely conscious.",
+                "Nope, he's catching Z's... hopefully."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, fine,\" Axel said, slowly removing his wallet from the depths of his pocket. He dropped it on the ground and took a few steps back.<br>\r\n<br>\r\nThe thug who had done the talking moved in to pick it up, but just as he had his hand on it, Axel was right in front of him, his knee slamming into the thug's head. The thief went sprawling, but before he was down and out, his three companions were all over Axel, beating him senseless.<br>\r\n<br>\r\nLess than five minutes of brutal violence later, Axel was unconscious and heavily bruised, and a few knife wounds were bleeding openly.<br>\r\n<br>\r\n\"What do you want to do with this punk, boss?\" One of the muggers asked.<br>\r\n<br>\r\n\"Toss him into the river,\" The man that Axel had initially hit said.<br>\r\n<br>\r\nThe group lifted Axel together and tossed him over the edge, listening with satisfaction to a loud splash, and watching victoriously as he drifted downstream.<br>\r\n<br>\r\nAxel didn't go more than half a mile before he washed up on a bank, some of his cuts still submerged in water. The cold water partially revived him, and as he stared vacantly to one side, he noticed a large, blurry yellow shape less than fifty yards away.<br>\r\n<br>\r\nRenamon was getting a drink by the water's edge, as was her habit after a decent evening meal. But as she tasted the water, she noted a peculiar, coppery taste to it, subtle, but present none the less. She lifted her head, and sniffed the air slightly, finding a similar scent hanging about, but less diluted than the taste in the water. Following her nose, she looked over and saw something vaguely familiar lying next to the water. She moved over quickly to investigate.</span></div></div>",
+            "created":1292562000,
+            "id":1016479,
+            "title":"...Or not."
+        },
+        "1121121":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "That night...",
+                "The next evening..."
+            ],
+            "content":"<div class=\"\"><div> <span>Axel watched the unclear form move over to him quickly, all the while his vision growing more and more unfocused. Whatever it was that was in front of him lifted him carefully, avoiding as best it could touching any of the more serious wounds. Axel slowly slipped away as blood loss began to take hold.<br>\r\n<br>\r\nRenamon observed the creature's lack of response with immediate concern. There were growing dark red spots on the cloth on its skin, and its breathing was growing faint. She quickly picked it up, a fairly easy task considering it was only about a quarter of her size. It was groaning in pain quietly as she moved, which only convinced her to pick up her pace to go home.</span></div></div>",
+            "created":1292734800,
+            "id":1017932,
+            "title":"...but not for long."
+        },
+        "11211211":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Well? Answer her. She asked you a question.",
+                "At a bit of a loss for words."
+            ],
+            "content":"<div class=\"\"><div> <span>Axel woke up uncomfortably warm. He tried moving, only to be stopped by an immense pain in his arm. He examined the crude splint on it, surmising that his arm was most likely broken, to which he expressed three words:<br>\r\n<br>\r\n\"God damn it.\"<br>\r\n<br>\r\nHe looked around to get a bearing on his surroundings, and noted that he was in a sparingly lit cave, well furnished for something roughly four times his size. Over by a one of the walls was a large lake that stretched on for a rather remarkable distance. He watched in detached fascination as something moved towards where he was. As it broke the surface, he noted it looked like a giant yellow fox standing on its hind legs. It's midnight blue eyes focused on him as it advanced. By his own estimates, Axel guessed it was roughly twenty-some feet tall. He stood up to quickly run away, but before he had taken a single step, the creature pounced on him, holding him in place. Axel decided against squirming out of fear that that might only encourage it.<br>\r\n<br>\r\n\"Please try not to move too much. You might tear open some of your wounds.\"<br>\r\n<br>\r\nAxel stared in partial disbelief. Something that could easily use him as lunch was speaking to him.<br>\r\n<br>\r\n\"Am I using the correct language? I think humans around here speak English, but I'm not certain. If you can understand me, please, tell me your name.\" Renamon said while Axel stared at her like an idiot.</span></div></div>",
+            "created":1292994000,
+            "id":1020011,
+            "title":"That night..."
+        },
+        "112112112":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Might as well have a bath now.",
+                "Go to sleep now."
+            ],
+            "content":"<div class=\"\"><div> <span>Axel was too busy trying to process what was going on to notice Renamon talking to him.<br>\r\n<br>\r\n\"Hello? Anybody there?\" Renamon asked curiously, waving a hand in front of Axel's face.<br>\r\n<br>\r\nAxel blinked, glanced over at her, and said, \"Axel. My name is Axel Lombard.\"<br>\r\n<br>\r\nRenamon let him go, and as he took a step back, said, \"I wasn't joking when I said you shouldn't move much.\"<br>\r\n<br>\r\n\"Where are my shirt and jacket?\" Axel asked, looking around. \"I know those things don't just magically disappear.\"<br>\r\n<br>\r\nRenamon pointed over towards the fire by the wall opposite to the lake. As Axel began to move, Renamon quickly picked him up in a fashion that resembled a hug. \"I told you not to move much.\"<br>\r\n<br>\r\n\"What do you care?\" Axel asked sharply, \"What the Hell makes me so important to you? You don't even know anything about me.\"<br>\r\n<br>\r\nRenamon simply hugged him tighter and said, \"It's true that I don't know much about you, but I found you, bleeding to death on a riverbank. And that's what I care. Because I can't just stand idly by and watch someone die. Not again.\"<br>\r\n<br>\r\nAxel was tempted to ask what she was talking about, but decided to let it be. Rather, he asked a simple question. \"How long are you going to keep hugging me? Seriously. This is kind of awkward.\"<br>\r\n<br>\r\n\"To be fair, I'll give you a choice,\" Renamon said, \"You can take a bath now, or we can rest for the night, and you can take a bath in the morning.\"</span></div></div>",
+            "created":1293166800,
+            "id":1021572,
+            "title":"At a bit of a loss for words."
+        },
+        "1121121121":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Accept that as an offer for a place to live.",
+                "Politely decline staying with her."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, since I don't like washing up in the morning, I suppose I'll take a bath now.\" Axel said, slightly uncomfortable with the fact that Renamon was still hugging him. \"But I take my baths alone. So don't even think about joining me, or anything like that.\"<br>\r\n<br>\r\n\"Well, that's too bad.\" Renamon said, moving over to the lakeside. \"Because if you're taking a bath, then I have to be with you, just to make certain you don't hurt yourself. Although, if it makes you feel any better, I can alter my size to something closer to yours.\"<br>\r\n<br>\r\n\"Not helping at all.\" Axel muttered through gritted teeth.<br>\r\n<br>\r\n---------------------------------------------------------------------------- -------------------------------------------------------<br>\r\n<br>\r\nIn the lake, while Axel was mid-torso deep in the water, Renamon came up behind him and asked, \"So, how did you get all these scars?\"<br>\r\n<br>\r\n\"A result of my parents bringing their work home.\" Axel replied flatly. \"Every time they actually came home, that is. Which is to say, maybe twice a week, and never for long. And is it too much to ask for a little privacy?\"<br>\r\n<br>\r\n\"So... what are your parents like?\" Renamon pressed, intrigued to hear about her guest.<br>\r\n<br>\r\n\"If they gave any less of a damn about me, they wouldn't even know I existed.\" Axel said, still emotionless. \"Hell, I could run away and they probably wouldn't notice for a decade. The school doesn't require that I attend, I don't have a job anymore, and I've been left for dead. I doubt anyone would come looking for me.\"<br>\r\n<br>\r\n\"So you could stay here with me and there'd be no problem?\" Renamon asked hopefully.</span></div></div>",
+            "created":1293339600,
+            "id":1022677,
+            "title":"Might as well have a bath now."
+        },
+        "11211211211":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "No trouble getting stuff.",
+                "A few problems with the plan."
+            ],
+            "content":"<div class=\"\"><div> <span>\"I could stay here, yes.\" Axel said scrubbing his arm around the makeshift splint on it. \"But if I'm going to, I'd need to go home to get a few things.\"<br>\r\n<br>\r\nRenamon simply let out a very happy \"Yay!\" before picking up Axel in a massive bear hug from behind. She may have only been slightly larger than Axel at that point, but she was still strong enough to be able to nearly lift him out of the water.<br>\r\n<br>\r\n\"You know, this is really awkward for me!\" Axel said loudly, flailing slightly in Renamon's grip, trying to get her to let go.<br>\r\n<br>\r\n\"Hm? Oh, right. Sorry.\" Renamon said sheepishly, \"I forgot that you have some modesty issues. Sorry about that. I just got really excited is all. It can be very lonely here after a while.\"<br>\r\n<br>\r\n\"I know the feeling.\" Axel said, moving towards the shoreline while Renamon played in the water a bit longer. \"Anyway, we can head to my house tomorrow. I presume you can find where you found me at?\"<br>\r\n<br>\r\n\"It shouldn't be too hard.\" Renamon said, moving towards Axel after he got his jeans back on. She hugged him as she reverted back to her original height and continued, \"Because when we get there, we just have to follow the river upstream-\"<br>\r\n<br>\r\n\"Until we find a bridge that I will definitely recognize, and from there, I just have to follow the road back to my house.\" Axel completed her statement. \"It's not too much that I'd be retrieving; a few Hawaiian shirts, the few jeans I have that fit me. The little necessities. Perhaps a few blankets and a sleeping bag. Maybe a cot or a hammock. And if I'm lucky, my parents won't have been home to ask questions, assuming they ever paid that much attention to me. But for now, I just need some sleep.\"<br>\r\n<br>\r\n\"Agreed.\" Renamon said. She set Axel down on his back, and very carefully lay down over him, acting as a very large and living blanket.<br>\r\n<br>\r\n\"I just realized something.\" Axel said, before closing his eyes, \"I don't even know your name.\"<br>\r\n<br>\r\n\"I suppose I don't really have one,\" Renamon said pensively, \"I'm not sure why, but I feel like it just fits if you call me Rena. How's that sound?\"<br>\r\n<br>\r\n\"It sounds good.\" Axel replied. \"Good night, Rena.\"</span></div></div>",
+            "created":1293512400,
+            "id":1023926,
+            "title":"Better than nothing"
+        },
+        "112112112112":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Axel gets through the coversation without much trouble.",
+                "Not so easy to convince them of anything."
+            ],
+            "content":"<div class=\"\"><div> <span>Early next morning, around five a.m., Axel woke up and shifted a little. Something on top of him shivered, as if enjoying that feeling. It took Axel a moment to recall that he wasn't at home. He was staying with a giant Renamon who he could now refer to as Rena, and he was planning on staying with her.<br>\r\n<br>\r\n\"Could you do that again?\" Renamon asked quietly. <i>You know you're too good at reading people when you can <b>hear</b> them blush</i>, Axel thought. He repeated his movements, getting another squirm out of Rena, who simply sighed happily. \"Thanks, that felt marvelous.\" Axel could've sworn he felt a faint purring, but paid it no mind for the moment.<br>\r\n<br>\r\n\"Shall we go get my stuff?\" Axel asked as Rena sat up. \"I suspect it might take a while to go through the whole process.\"<br>\r\n<br>\r\n\"Away we go.\" Rena replied, practically beaming.<br>\r\n<br>\r\n---------------------------------------------------------------------------- ----------------------------------<br>\r\n<br>\r\nFor the most part, the trip was uneventful. Finding the bridge had been simple, and covering the sixteen miles between the bridge and Axel's home had been a breeze. As they approached Axel's house, however, Axel motioned for Rena to stop.<br>\r\n<br>\r\n\"Rena, I really do appreciate your help,\" Axel said in a tone that made Rena suspect he didn't want to say it. \"But it would be a very bad idea for you to go near my house. If my parents are there, and they see you, they wouldn't rest until they have you in a cage and can run God only knows how many tests on you. So for your own safety, wait to pick me up until i get back here. Please.\"<br>\r\n<br>\r\n\"Then I will wait.\" Rena replied, sitting down in a meditative pose.<br>\r\n<br>\r\n\"Thanks.\" Axel said, running off towards his home.<br>\r\n<br>\r\nAs Axel opened the front door, a voice stopped him dead in his tracks. \"Welcome home, Axel.\"<br>\r\n<br>\r\n\"Hi, mom.\" Axel said through gritted teeth. His mother was standing in the kitchen, chopping carrots, as if nothing was the matter, yet Axel still got the unnerving feeling that his parents weren't quite human. The blank, analytical voice made it all the more unsettling.<br>\r\n<br>\r\n\"And where exactly were you last night?\" She inquired, sound as though she didn't really care. \"If you were under the impression that you can just vanish and we won't notice, you're sorely mistaken. Your father and I are very upset with you about that.\"<br>\r\n<br>\r\n\"I was staying with a friend,\" Axel replied lamely, \"My car was stolen, then I was mugged while walking home, and then, I was thrown off a bridge into a river.\"<br>\r\n<br>\r\n\"You really should know better than to try lying to us.\"<br>\r\n<br>\r\n\"Dad. You're both home.\" Axel said with sarcastic enthusiasm.</span></div></div>",
+            "created":1293598800,
+            "id":1024647,
+            "title":"A few problems with the plan."
+        },
+        "1121121121122":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Waits patiently for nightfall. He can sneak out.",
+                "May need help from Rena."
+            ],
+            "content":"<div class=\"\"><div> <span>\"You honestly expect us to believe that you lost the car, were robbed, and thrown off a bridge, and then had to stay with a friend?\" Axel's dad asked. He easily had the build of a quarterback, leading few people to believe he actually worked as a scientist, but nobody questioned it when he said so.<br>\r\n<br>\r\n\"Yeah, I do.\" Axel said, trying to remain calm. It wasn't easy when nobody believed him. \"Also, I was fired. Not kidding. Call my former boss and ask. She'll tell you as much.\"<br>\r\n<br>\r\n\"What friend were you staying with?\" Axel's mom inquired, moving from carrots to onions.<br>\r\n<br>\r\n\"What?\" Was all Axel could manage in his surprise at the question.<br>\r\n<br>\r\n\"Who. Did. You. Stay. With.\" Axel's mother repeated slowly. \"Name, address, and phone number.\"<br>\r\n<br>\r\nAxel hesitated trying to think fast to satisfy the questions. \"Her name is Rena. I've never really paid attention to her address, and I don't think she has a phone.\"<br>\r\n<br>\r\n\"You really are not helping your case.\" Axel's dad growled off to the side. \"Until we meet this girl that you've never mentioned before, you will be confined to your room.\"<br>\r\n<br>\r\n\"So resilient. He makes me think of that project we worked on so long ago.\" Axel's mom said as she heard Axel's door slam shut. \"Do you ever wonder what happened to it after it escaped?\"<br>\r\n<br>\r\n\"Not really.\" Axel's father said flatly. \"It probably died  not long after it got out. Things like that wouldn't blend into a forest very well, and if it did survive until now, the amount of food it would need would be... well, I'll leave it considerable quantities per meal. Probably.\"<br>\r\n<br>\r\nMeanwhile, Axel...</span></div></div>",
+            "created":1293771600,
+            "id":1026034,
+            "title":"Not so easy to convince them of anything."
+        },
+        "11211211211221":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Axel gets away on his own.",
+                "Rena trys saving him anyway"
+            ],
+            "content":"<div class=\"\"><div> <span>Axel packed what was available of what he needed in silent haste, filling up two duffel bags with clothes, blankets, and pillows. As he set those down next to his window, he practically fell back onto his bed. <i>I suppose I have to wait for nightfall before I can leave.</i> Axel thought as he lay there, letting his fatigue overrun him.<i> I hope Rena doesn't get impatient easily.</i><br>\r\n<br>\r\n-----------------------------------------------------<br>\r\n<br>\r\nWith nothing to safely do but sit and wait, Rena, meanwhile, had begun napping, waiting for Axel to enter the clearing any moment, a bag or two packed and ready to leave. <i>It's been over two hours by now. How can he not have gotten what he needed and got away?</i> Rena shifted slightly in discomfort of the idea, recalling the scars on Axel's body. <i>But he said for me to wait here, no matter how long it takes. He could easily have been detained, so he's fine...right?</i><br>\r\n<br>\r\n------------------------------------------------------<br>\r\n<br>\r\n\"I'm telling you, dear, that boy had a plotting look in his eyes, like he intends to run away.\" Axel's father said, pacing back and forth. \"And this girl he calls Rena, who is she? How long has he known her? And where does she live? We've never heard of her, never even met her, and yet something about what Axel said makes me feel like she's very intimate with him. It's unnerving, knowing that there's something he's managing to hide from us.\"<br>\r\n<br>\r\n\"Calm yourself, Jan. I say we let him be.\" Axel's mother said, placidly tossing together a salad, despite Jan's look of utter shock. \"If he's left to his own business, then we can track him. Most likely, back to our mystery girl, in the case of which, we then find some use for her. It's simple enough. We let him go, our questions get answers.</span></div></div>",
+            "created":1296882000,
+            "id":1047899,
+            "title":"Waiting game."
+        },
+        "112112112112211":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "She recognizes him.",
+                "She's too sleepy, and reflexively tries to eat him."
+            ],
+            "content":"<div class=\"\"><div> <span>Axel had quickly fallen asleep after he finished packing up and hidden his bags. He slept through the afternoon, waking only to have dinner when it was served. He squirmed a bit in agitation while he continued to wait, impatient to get away from this place he once called home. Eventually, his mother walked in and sat down next to him on his bed.<br>\r\n<br>\r\n\"Is there anything you want to talk about?\" She asked, catching Axel completely off guard. Never before had such interest been expressed towards him that he was aware of, and yet now he was being asked how he was. \"I know it's probably not the best feeling in the world, with Jan not believing you about why you're late getting home, but I've noticed that your arm is actually damaged.\"<br>\r\n<br>\r\n\"And?\" Axel replied, bordering on the same kind of indifference he was so accustomed to receiving.<br>\r\n<br>\r\n\"Well, this girl, Rena, seems like a good friend if she put that splint on it. But I just can't help but wonder, what's she like?\"<br>\r\n<br>\r\n\"She's tall, blond, athletic, smart, and charming.\" Axel replied flatly, as if that was the end of the conversation. <i>When did she start caring?</i> Axel wondered as his mother left quietly, apparently expecting no further answers. He shortly resumed napping, continuing his wait for midnight.<br>\r\n<br>\r\n--------------------------------------------------------------------------<b r></b>\r\n<br>\r\n<i>This can't go on for much  longer</i>, Rena thought. <i>Something isn't right for how long he's taking. But he told me to wait, even if I don't want to. So he's probably right.</i><br>\r\n<br>\r\n---------------------------------------------------------------------------&lt; br /&gt;\r\n<br>\r\nAxel slipped his bags over his shoulders as his clock ticked past the twelve. He slowly opened his door, shuffling out before it opened to the point where it squeaked. Within minutes of slow walking, he was finally making a silent dash across the back  yard, moving for the treeline, so as to avoid tripping the motion detectors out front. After five minutes of quiet dashing, he was standing in front of Rena as she slept, her breathing calm and slow.<br>\r\n<br>\r\n\"Rena,\" Axel whispered, softly rubbing her shoulder. Her eyes snapped open, and she quickly pinned him down before...</span></div></div>",
+            "created":1299301200,
+            "id":1065083,
+            "title":"The Great Escape."
+        },
+        "1121121121122112":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Accept that as an apology.",
+                "Get angry."
+            ],
+            "content":"<div class=\"\"><div> <span>Rena quickly grew to a phenomenal size with Axel still pinned down under her paw. Before he knew it, Rena's jaws were closing around him, her teeth missing him by inches. Axel tried to remain as still as he could, vainly attempting to convince himself that Rena had a reason for this. He felt a shifting beneath himself, and after being coated in saliva, he was moving closer to the sheer drop of Rena's esophagus. Axel closed his eyes the moment he felt himself moving downward at a slow pace, certain that if he opened them, he would be completely unable to prevent himself from vomiting. It was a few minutes before he felt any change in his surroundings, but the change was very abrupt. Where once he had been relatively tightly enclosed, he now found himself in free-fall, splashing into Rena's stomach. After a few moments, Axel felt a burning sensation on his right arm, in a very centralized fashion, as though only a small area was being digested. He quickly waded over to one of the sides, despite the increasing pain in his arm, and the following pains all over the rest of his body, particularly where he'd been cut and stabbed. Without hesitation, he delivered one sharp punch to the wall of Rena's stomach, which caused her to double over in pain, throwing Axel off his feet.<br>\r\n<br>\r\n<i>That's my cue</i>, Rena thought as she went down to her knees.<br>\r\n<br>\r\nAxel felt another shift in gravity, followed by a rush of stomach fluids blasting him off his feet and back up Rena's throat. He landed with an audible thump on his back, and quickly scrambled to his feet while Rena merely followed him with her eyes.<br>\r\n<br>\r\n\"What... the hell... was...<b>that</b> for?\" Axel shouted at Rena. She looked apologetically at Axel before silently moving over to him and examining his right arm.<br>\r\n<br>\r\n\"I thought so...\" Rena mused quietly to herself as she noticed a small incision on Axel's forearm. She shifted her size down to just slightly larger than Axel, and quickly ran a claw through the cut, getting a yelp of pain from Axel. He jerked away from her, glaring in such a manner that most people would have cringed in fear.<br>\r\n<br>\r\n\"You owe me an explanation.\" Axel said with clear hostility.<br>\r\n<br>\r\n\"I guessed that your parents, since you suggested that they were very clever, would do something.\" Rena said, holding up a tiny silvery cylinder. \"I think they were planning on following us.\"</span></div></div>",
+            "created":1300424400,
+            "id":1072029,
+            "title":"Not what it seems..."
+        },
+        "11211211211221121":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "They're safe for now.",
+                "They're still followed somehow."
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cAnd you couldn't have asked or warned me before you did <b>that</b>?\u201d Axel spat out with slight vehemence. His harsher edge of anger had subsided with his understanding of reason, but that didn't stop the general agitation at what had transpired.<br>\r\n<br>\r\n\u201cYou said yourself that your parents are cunning, so I simply did something that I felt was well within precautionary measures.\u201d Rena said, shrugging, \u201cWould you rather that they\u2019d followed us and found me?\u201d<br>\r\n<br>\r\n\u201c\u2026No\u2026\u201d Axel said hesitantly. Rena was trouncing him with logic, and he had no defense to it.<br>\r\n<br>\r\n\u201cAnd if I had asked or warned you of what I was about to do, would you have agreed to do so, or at least not have fought back as much as you did?\u201d Axel didn't need his eyes to detect the smug little smile on Rena\u2019s face.<br>\r\n<br>\r\nAxel was at a loss for words. He could have said as much about the immorality of it as he wanted, but he had no real argument against the pragmatic soundness of Rena\u2019s idea. \u201cSorry, I would've just appreciated it more if I had known that you weren't about to kill me. That is, to say, I don\u2019t suppose I mind the action itself as much as that little primal fear of being eaten alive, uncertain whether or not I\u2019m going to live to see tomorrow. Warn me next if there\u2019s a \u2018next time\u2019.\u201d<br>\r\n<br>\r\nRena simply smiled and, after reverting to her massive size, picked up Axel's bags in one hand, and Axel in the other.</span></div></div>",
+            "created":1302411600,
+            "id":1085343,
+            "title":"Still not happy about that."
+        },
+        "11213":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Aquaveemon?",
+                "Other? (Are there really any others?)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about...</span></div></span></div>",
+            "created":1291093200,
+            "id":1005871,
+            "title":"Other?"
+        },
+        "112132":{
+            "author_id":"buzzhead3",
+            "author_name":"Buzzhead",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>yah like gatomon! so how about her?</span></div></span></div>",
+            "created":1298869200,
+            "id":1062000,
+            "title":"Gatomon"
+        },
+        "1121321":{
+            "author_id":"blader",
+            "author_name":"blader",
+            "choices":[
+                "You talk about your lives in the past year",
+                "Sally wants to play"
+            ],
+            "content":"<div class=\"\"><div> <span>It was late at night by the time you're shift ended and you were walking down the street, the only reason you came in was overtime for this company meant triple pay. Suddenly you freeze, you swear you could feel yourself being watched, but you couldn't tell from where, or by what. You slowly started walking faster then before but you tried to act casual, you make it to the the streetlamp at the edge of your street when you felt something pass you. You tried to retaliate punching at whatever it was, you connected but whatever it was just laughs and you felt something cover your whole face and you fainted from lack of oxygen. <br>\r\n<br>\r\nYou slowly awoke from unconsciousness, it was weird, you were laying on something furry, and soft, like a big soft carpet. You heard a female voice gently humming, you slowly moved and then froze as a hand or what you could only assume was a hand as big as your body covered you. It gently petted you and you started to feel sleepy and you heard the same humming voice say \"that's it, just go back to sleep.\" You resisted the urge to go to sleep however and the voice seems to have an epihpany \"I know warm milk\" it says. You heard rummaging and soon a cup filled with milk was at your lips, you slowly drank and she was right, you near instantly fell asleep, you heard a giggle but it was weird it sounded like....a cat's meow. You woke up slowly, you were still on the large carpet you were on before and you heard breathing. You slowly got up and looked around, it was weird, it looked like you were in some sort of building namely a kitchen with wood floors, but everything was huge, and I mean huge, everything had to be made for something 200ft tall. <br>\r\n<br>\r\nYou started moving around and you swear you heard purring, the carpet you were on was weird. It led up and down but barely side to side and up led to 2 large hills, you walked across the carpet and froze as you looked through the gap created by the hills. You were looking down at a face, somewhat human but it had cat ears on the top of it's head instead of normal ones, a small black nose, a small mischievious smile on it's mouth, it was covered in fur and when she blinked you saw it had big blue curious eyes. You slowly stepped back but you stepped in the wrong spot as you heard the creature give off an audible moan and the eyes opened. It quickly sat up and looked down at you, you were picked up in between 2 claws at and you finally got a good look at whatever had kidnapped you. She wasn't human, that much was evident not only due to size but the fact she was covered in white fur, it was also evident whatever she was, she was a feline. There were purple strips on her tail as well as a tiny bell and ribbon more suited to a normal sized cat. She had long powerful legs, those of a hunter and they ended in paws not feet. Her body was very athletic so she was slim and well-built but she wasn't covered in muscle. Her arms were long and slender and ended in hands covered in fur and pads and her chest was huge, probably d-cups as they sagged a bit as whatever this thing was it was not wearing clothes which made you turn away as her nether regions were in full view. You felt yourself lifted up and the purring increases \"so your finally up\" she says. <br>\r\n<br>\r\n\"Y...you can talk\" you say looking at her eye to body.<br>\r\n<br>\r\n\"Of course I can talk\" she replies. You were silent for a few minutes as you really couldn't think of anything to say, okay you could but \"please don't eat me\" didn't seem right at this moment. The creature seems to grow impatient and pokes you, \"geez I finally find you after all this time, and you forget about me\" she says poutily.<br>\r\n<br>\r\n\"What? I think i'd remember something like you if I met you\" you say. She looked hurt, more because you said you, then anything else.<br>\r\n<br>\r\n\"You really don't remember?\" she says. She puts you down, lays out on the floor and starts rolling from side to side mewing, as you don't seem to get it she gets up, walks over to a fridge as big or bigger then most high-rises and pulls out a fish. She puts the fish in her mouth and repeats the action and you were left dumbfounded. \"That..that can't be, you're Sally, that stray I fed\" you say backing up as she quickly eats the fish. <br>\r\n<br>\r\n\"Bingo\" Sally says looking at you, \"you'd be suprised what some government experiments can do to a kitten\" she continues. You just stared up at her, 2 years ago you had fed this cat everyday and even made a little house for her out of a blanket, a box, and an umbrella for when it rained, but one day, a year ago, she had just disappeared. You looked for her for a week straight but there was no sign of her. You stared up at her and she smiled \"well aren't you gonna say something?\" she says.<br>\r\n<br>\r\n\"You're...bigger, then I remember, and how are you standing on 2 legs?\" you say.<br>\r\n<br>\r\n\"Yeah the government wanted a bio weapon, so they made me this big, they made me human like to reduce fear\" she says. \"Thankfully the project's been discontinued and well now that the government doesn't want the news about me getting out, they made me this house and I get free everything, tv, food, water, it's pretty sweet\" she says.<br>\r\n<br>\r\n\"Why do you look like that gatomon character from digimon?\" you ask.<br>\r\n<br>\r\n\"Oh, one of the researchers was a fan, and he insisted that everyone would be able to identify me better if I looked similar yet distinct, thus no ring, and no purple except on the tail, also no gloves\" she says. You look back over at her tail and you start walking towards it and she lowers it, you look at the bell and pink ribbon again, it was the same one. The one you had given Sally and she had worn proudly from that day on. \"I never forgot you\" she says, \"you actually kept me going through all the experiments and other testing\" she says. You turned and stared at her you're eyes misting, \"i'm sorry, I couldn't find you, I looked and looked but still...\" you trail off as tears start to fall. You run up and hug her side \"Sally I missed you so much\" you say burying you're face in her fur, you were sure she was smiling as you felt her furry hand wrap around you and she picks you up and hugs you. \"I missed you too Alex\" she replies. You hugged you're kitten, excuse me, cat's cheek and she rubbed against you, \"geez you don't even have my scent on you anymore\" she says. You laughed as she playfully rubbed against you when a realization hit you, \"wait Sally were you the one who kidnapped me?\" you ask.<br>\r\n<br>\r\n\"Well....maybe\" she says her tail flicking from side to side.<br>\r\n<br>\r\n\"What about my family, it's been hours, I should have been home\" you say. Sally nods \"don't worry, the government took care of that, you are now working for them in a high paying job that placed you overseas. As for why you never came home, you're presence at your new job was needed immediatley and you were flown out.\" she says.<br>\r\n<br>\r\n\"So...what's my job?\" you ask.<br>\r\n<br>\r\n\"Well the technical name is supervisor of biological studies and natural warfare.\" she says.<br>\r\n<br>\r\n\"Plain english please\" you reply.<br>\r\n<br>\r\n\"My caretaker\" she says happily.<br>\r\n<br>\r\n\"So...i'm going to watch over you till we die?\" you ask.<br>\r\n<br>\r\n\"Yep, although don't worry we will get out of here, they said if everything goes well I can be revealed in 20 or 30 years, give or take a few\" Sally says. You nod, it wasn't the best circumstance, but you were reunited with you're cat. You think to yourself and decide to try something \"lay down on your stomach\" you say, she puts you down and lays down. You climb onto her head and start scratching behind her ears and instantly she starts purring up a storm, you stop for a second and then start again and you were just able to reach under her chin. It was like you were standing next to a jet engine the purring was so loud and you knew this was your Sally. </span></div></div>",
+            "created":1299042000,
+            "id":1063121,
+            "title":"yes"
+        },
+        "11213212":{
+            "author_id":"blader",
+            "author_name":"blader",
+            "choices":[
+                "You wake up with Sally",
+                "You wake up with a different government test"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I know let's play a game\" Sally says lifting you off her head and putting you down on the floor.<br>\r\n<br>\r\n\"Sure, what do you have in mind?\" you reply.<br>\r\n<br>\r\n\"How about hide and seek, I really want to see just how good my mouse is at hiding\" she says smiling somewhat wickedly.<br>\r\n<br>\r\n\"Mouse?\" you reply staring up at her.<br>\r\n<br>\r\nShe lowers her head and whispers get \"get running mousey\" for some reason this spurs you into action and you bolted in the other direction into the only other room you saw, you heard Sally start counting and you took only a few seconds to scan the entirety of what you quickly figured out was a living room. It had a couch in the center, tv cabinet on one side, and a small table on the other side with the staircase. You decide the cabinet is the safest bet and you run towards it, you smile as you run under it seeing a small lip on the inside you climb up and lay in the small space it created.<br>\r\n<br>\r\n\"20, ready or not mousey here I come\" Sally shouts. You heard Sally run into the room and start looking around you heard a vase get lifted up, the table moved around, you froze as her nose stuck under the tv cabinet and she sniffed but somehow missed you. \"Hmm he's not in this room, he's smarter and faster then he looks\" Sally says, you were a little annoyed by the comment but you just let it go. <br>\r\n<br>\r\nYou heard Sally start walking upstairs \"mousey I already know you're not downstairs, it's just a matter of time till I find you\" she shouts probably to get you to panic, however you weren't upstairs so the tactic didn't work. You sit back in the little alcove as you heard Sally move upstairs, she came back down after a few minutes and shouted \"alright mousey your better at this then I thought, however I will find you\" you heard her walk back to the kitchen probably thinking you had slipped past her when she was upstairs and went to hide there. <br>\r\n<br>\r\nYou layed back in the little space and somehow you fell asleep as the next thing you knew you jolted awake at the sound of something it sounded almost like whimpering. You heard something very large fall to the floor and Sally's voice, \"why, I finally found you again, why did you leave me?\" and then you heard her start to sob. You jumped down from your little spot and ran out from under the gigantic tv cabinet to find Sally on hands and knees. \"Sally?\" you say really unsure if she was okay, her ears perked up at the sound of your voice and she turned her head her eyes locking right onto you. <br>\r\n<br>\r\nShe leaped at you sliding over the floor for a bit her hands closing around you, you were lifted up and she happily licked you and rubbed you against her cheek \"you didn't abandon me\" she says joy evident in her voice. \"I am never letting you out of my sight again\" she says holding you at arms length she suprises you as she leans forward and kisses you for a second \"I love you my little mouse\" she says starting to purr she hugs you to her cheek again. <br>\r\n<br>\r\n\"Sally, your ok right?\" you ask startled by the actions of the last few seconds.<br>\r\n<br>\r\n\"Oh, of course, it's just, I thought my ultimate nightmare was coming true, I, I thought you'd hate the new me and abandon me\" she says holding you out and looking down at you.<br>\r\n<br>\r\n\"What? I would never do that, your still my wonderful and cat and I love you\" you say.<br>\r\n<br>\r\n\"I love you too\" she replies and then flares red \".....you know as a pet\" she says.<br>\r\n<br>\r\n\"Oh no you don't you really do love me don't you?\" you ask.<br>\r\n<br>\r\n\"Well, you took care of me, always made sure i had food and shelter and you, you loved me and accepted me even as a stray when no one else would, so of course I love you\" she says. You motion for Sally to move forward and she does and you kiss her nose \"that's my lovely kitten\" you say. Sally smiles the biggest smile you've ever seen and she moves forward and grabs your shirt between her teeth. She then lowers herself to all 4s and bounds up the stairs you swinging from under her mouth your shirt the only thing keeping you from being sent hurtling. She leaps onto the bed and carefully deposits you onto the gigantic bed, before you can do anything her tail wrapped around you along with the rest of her body and she starts purring up a storm. You look up at your giant cat and she smiles down at you \"my cute little mousey\" she says lowering her head and gently licking you.<br>\r\n<br>\r\n\"Can you please stop with the mouse nickname, no offense but it kind of makes me feel like I'm prey\" you say.<br>\r\n<br>\r\n\"Don't worry, I would never hurt my little mousey\" she says smiling at you \"maybe play around a bit but I'd never hurt you\" she says. You stare up at the cat and she lifts you up and turns onto her stomach \"do you honestly think I'd hurt you, I mean you did so much for me, plus I have had you unconcious for a while\" she says putting you down on her stomach. She pulls herself back across the bed till she's resting against the headboard of the bed \"is there anything I can do to prove I wouldn't hurt you\" she says.<br>\r\n<br>\r\n\"I can think of a few things, but I'd really rather not do any of them\" you say \"besides if you wanted me hurt you would have, so I'll just trust you\" you say. Sally started to gently purr again \"thank you so much\" she says lifting you up and cuddling you \"how did I ever get so lucky to meet you\" she says.<br>\r\n<br>\r\n\"The same way I was lucky to meet you my beautiful kitten\" you say hugging her cheek. Sally lays back and lays you out on her back, then she starts to gently pet you with 1 finger \"you know I always loved your petting, it always told me that you were paying attention to me and me alone, on top of it feeling soooo good\" she says giggling. You could only nod in reply as she was being so gentle you couldn't believe this was coming from something so big. You froze as you felt Sally's claw pull on your shirt, \"come on now mousey let's get you out of those clothes\" she quietly says.<br>\r\n<br>\r\nYou slowly move so her claw is out of your clothes and sit up \"I'm quite happy clothed for right now\" you reply.<br>\r\n<br>\r\n\"Aww is someone embarrassed? Don't worry little mouse I won't laugh\" she says. You look up at the giant cat who smiles and says in a whisper that felt more like a command then a whisper \"little mousey take them off\" Sally putting emphasis on each word. You stared up at her for a few seconds and she smiled that wicked grin only cats can. You felt one claw weazle it's way under your shirt and pull back out again. You slowly undress as Sally would probably declothe you forecfully if you didn't and then freeze as you felt her finger start to gently stroke your back again and you were gently pushed into Sally's stomach. You couldn't help but relax even going so far as to lay out so she had easy access to you \"that's it little mousey, kitty won't hurt you\" Sally whispers. <br>\r\n<br>\r\nYou just nodded in reply and Sally gently pushed you up her body one finger still petting you, she stopped you in between her small hills. You look up at your giant cat who smiles down at you \"as long as you take care of me mousey I'll always take care of you, now go to sleep\" she whispers. The effect of her whole little speech was however ruined as she had to lift you up for a few seconds to get under the covers herself but she gently put you back down between her hills \"good night my little mouse\" she says going back to stroking you.<br>\r\n<br>\r\n\"Good night my big and beautiful kitten\" you reply giving off a small sigh before the combination of Sally's heartbeat and the gentle petting lulled you to sleep. </span></div></div>",
+            "created":1306645200,
+            "id":1115178,
+            "title":"Sally wants to play"
+        },
+        "1121322":{
+            "author_id":"buzzhead3",
+            "author_name":"Buzzhead",
+            "choices":[
+                "yes",
+                "no"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>then how about the plant girl. Lilymon ?</span></div></span></div>",
+            "created":1298869200,
+            "id":1062001,
+            "title":"Flower power !!!!!!"
+        },
+        "11213222":{
+            "author_id":"fxd-001",
+            "author_name":"ForestFire5000",
+            "choices":[
+                "Yes, Ladydevimon",
+                "no, other..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about one who is a bit more evil? </span></div></span></div>",
+            "created":1299301200,
+            "id":1065261,
+            "title":"Ladydevimon"
+        },
+        "112132222":{
+            "author_id":"nobodyx",
+            "author_name":"The Languid Lizard",
+            "choices":[
+                "Growlmon it is",
+                "nope, keep going..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how bout a the male dinosaur Growlmon?</span></div></span></div>",
+            "created":1350450000,
+            "id":1448915,
+            "title":"Growlmon"
+        },
+        "1121322221":{
+            "author_id":"nobodyx",
+            "author_name":"The Languid Lizard",
+            "choices":[
+                "A large red monster",
+                "*THWACK* Out cold"
+            ],
+            "content":"<div class=\"\"><div> <span>It was Kieth's favorite day; friday. A day to b happy about when work was over, and, being it his first day of vacation, Kieth felt like taking the scenic route home today.<br>\r\n<br>\r\nHis location was the best he could wish for; mountainous roads and houses separated by large increments of trees, some even miles away. His job was a steady one which he enjoyed. Being the manager of a small wing of a corporate business had it's upsides and downsides. Though due to his experience in his field, and his dillagence and hard working attitude, he was able to afford a nice sized house, a steady income and a backyard full of mountain and trees. All at the age of 23.<br>\r\n <br>\r\nHis stroll through the less walked path was a pleasent one, full of autumn air and auburn tree leaves falling steadily over head. Being bundled up in a soft, warm coat was one of his guilty pleasures, and the nippy air that brushed over his body helped him gain an excuse to do so. As he watched the wind blow steadily he began to notice some strange sounds; first a couple of thumps followed by rustling then many footsteps and a few men shouting.<br>\r\n<br>\r\nHe shrugged this off for hunting season....but the more he thought of it, the more he realized that thumping couldn't have been human. \"Wooo-AAUH!\" Kieth fell into what he thought was a small pot hole, but on further inspection, noticed it was a huge paw print, three digits jutting out of a large base. He quickly stood up and walked away with vigor.<br>\r\n<br>\r\nHis curiosity got the best of him though as he walked straight back to the prints and would follow it to the source. For a good 20 yards he tracked the large imprints path, coming upon a complete stop. He looked left and right, just staring at piles of trees and a big bush. He looked all around the ground searching for more clues as to the owner of these prints when he came across the faint imprint of a foot. He carefully looked closer and saw lead to somewhere near, crawling on all hands to gain suspense.<br>\r\n <br>\r\n\"OOF\" His head bumped into a pile of bush and he looked up to see nothing but foliage. He grunted and turned away annoyed that nothing was ther- *SNATCH*<br>\r\n<br>\r\nIn an instant he was plunged into darkness, a long red...something had snatched him into the bushes and he was struggling for life, trying to break free of the long objects grasp, cries muffled by it. All his struggling stopped as a hot breath blew over his head. \"I don't want you to scream, struggle or try to escape. Do waht i say and you'll live.\" A deep yet youthfull voice was wispering to him. \"Now, will you co-operate?\" He nodded his head rapidly to gesture yes. \"Good. Now, i'm being followed by some... people that i'd rather not have them following me. What i need you to do,is tell them i kept heading upwards, towards the mountain top straight across my tracks. Make sure you seem convincing enough or they won't buy it.\" He released him as soon as he heard footsteps.<br>\r\n<br>\r\n\"You there! Sir!\" A group of men wearing uniforms came scrambling up to Kieth the leader of the group, in lab coat uniform and panting heavily. \"Sir, have you seen anything strange or noises not akin to this area?\" Kieths heart pounded. He could lie and maybe get away or end up dead, or tell the truth and be at the mercy of the monster. He nodded his head.<br>\r\n<br>\r\n\"Y-yeah.. i saw a big red blur head that way!\" Kieth pointed towards the direction the prints were going and made sure of it by glancing back a bit \"I-i couldn't tell what it was but it was fast! You might wanna hurry, or you'll lose it!\" The man grimaced and gestured for the men to follow running straight upwards. Kieth froze there for a good five minutes before he jumped at a voice coming from behind.<br>\r\n<br>\r\n\"Phew.. thought i'd never lose them.\" The bushes rustled and light footsteps were heard Kieth had enough time to turn around and see-</span></div></div>",
+            "created":1350882000,
+            "id":1452047,
+            "title":"Forced Help"
+        },
+        "11213222212":{
+            "author_id":"nobodyx",
+            "author_name":"The Languid Lizard",
+            "choices":[
+                "...\"What are you?\"",
+                ".......(dead silence)"
+            ],
+            "content":"<div class=\"\"><div> <span>A large red tail smacked straight into his head, knocking him out and into unconciousness.<br>\r\n---------------------------------------------------------------------------- -------------------------------------------------------------------------------- --------<br>\r\n<br>\r\nKieths head ached, his body ached and worst of all he had just woke up. Kieth halted before moving a limb as he noticed several thing; first, he was on a steady up and down motion, second he was in an arching postion over something that would shift back and forth, thirdly... he heard breathing. Kieth had his senses in order and was about to jump, opening his eyes and only twitched before he heard the beast talk to him.<br>\r\n<br>\r\n\"Do you really wanna do that? It's a good fall there from me to the ground.\" He stopped in his path waiting for his victim to act. Kieth slouched back into his position as if to make the beast think it was futile but as soon as the giant started walking again, he lept as fast as he could and-<br>\r\n<br>\r\nWas caught. One tight hand grabbed him and was met by another, slowly pulling him to the front. \"I told you not to jump!\" His body underwent a small fit of vertigo as he was swung in front of the beast, there in front of him he stared and gasped. Before him was the face of a very malicious looking monster, reptilian in style. His face jutted out only shortly in a small manor of a snout and two horns grew from the top of his head. A small black triangle traveled down his snout and was preceeded by two smaller triangles, two black lines traveled up from his lips to his snout and faded to his red hue. His crimson color was mottled by strange symbols and a very white underbelly. But his most notable features were his big yellow eyes and his grey, spiked hair. <br>\r\n<br>\r\nKieth thought of one thing to do; scream for help. \"HEEEELP!\" The monster glared at the human. \"Help! Someone please help, there's a monster, he's kidnapped me! HELP! HELP!\"<br>\r\n<br>\r\n\"HEY!\" The monster shook the human a bit. \"Keep it down will yah!\" He snarled at the fragile human to get his point across, this only made Kieth struggle and wince, causing him to squirm uncontrallably.<br>\r\n<br>\r\n\"HELP! POLICE! SOMONE!\" He continued struggling.<br>\r\n<br>\r\n\"Stop it!\" He squeezed on the human but he didn't stop squirming and shouting. \"Don't make me...\" The human wouldn't listen. \"GRRRR, Okay you asked for this!\" THe monster brought the human to his mouth slowly opwning and beginning to insert the human into his mouth.<br>\r\n<br>\r\nKieth froze, he watched as the teeth of the beast swept over his vision and his front was filled with the gaping maw of the monster, he stuttered and before being completely consumed by the mouth he shouted: \"WAIT! NO! Stop\" The hand paused \"I'll cooperate, i'll cooperate. Just don't eat me please. I won't say a word!\" He pleaded in a defeated tone.<br>\r\n<br>\r\nSeveral seconds passed before he was relieved of his stress and was brought back into the fresh air. \"Do you rally promise?\" The monster gave him a stern look. Kieth nodded without hesitation, \"Then will you shut up so i don't have to eat you? I don't want to get caught, but if we do, either way, you'll be my snack if anything goes wrong!\" Kieth sniffled as he nodded and let his head hang low. \"Good, now, just be glad you riding on my shoulder instead of my gut!\" He was forcefully placed back into his former position, now facing the same direction as the monster.<br>\r\n<br>\r\n\"The name's Growlmon....by the way...\" Growlmon started to walk right on as if nothing had just happened.<br>\r\n </span></div></div>",
+            "created":1350968400,
+            "id":1452644,
+            "title":"*THWACK* Out cold"
+        },
+        "112132222122":{
+            "author_id":"nobodyx",
+            "author_name":"The Languid Lizard",
+            "choices":[
+                "Holds it in, put goes in the spot hes in",
+                "RUns behind a bush for decency issues..."
+            ],
+            "content":"<div class=\"\"><div> <span>Keith could only grasp onto the smooth scaled, and almost fleshy surface of the monster keeping him hostage... or Growlmon as it called itself. He didn't want to anger the beast anymore than he already had and just lied on the monsters shoulder hunched in an uncomfortable position. If he wanted to look forward he'd have to crane his body upward and that caused stress against the shoulder that made him feel unpleasent, not to mention tiresome. So instead he would conform his body to the monsters body and just stared straight down to the ground, watching it pass by, each step of the giant taking him further into the mountains and further away from home.<br>\r\n<br>\r\nOf course looking down at the ground was usually inturrupted by the monsters body, occassionally getting in the way of his vision. This gave him a slight view of his body. This beast was strong and muscular, with formed pecks and bold arms, nothing bulged though, with muscles as great as his you believed he could rip a tree down just with one arm. Scanning lower on his body, you noticed that his hips were just a teeny bit wider than what male would normally posses in proportion. Then there were those legs and feat, both collosal to Keith, not to mention very dangerous. A quick trip underneath those padded crushers and would be lights out.<br>\r\n<br>\r\nBut what Kieth really couldn't stop glancing at was his huge endoument. An ample set of pure white colored orbs hung below the that pole of meat that made Kieth concsious of his own size. The shaft was a simple, long piece of flesh that began with white base and ended with an almost beige color. It was intimidating the least to say, and massive compared to your state and size. Whenever you'd get a clear glance at his set you would blush and try to look away, embaressed of the thoughts that crept into your mind... just thinking about being underneath the soft, heavy sets of twin balls, maybe even lying underneath his soft fleshy mounds of cheeks while he slowly began to sit on--<br>\r\n<br>\r\nA pair of massive claws grabs Kieth from the shoulder and he tenses immediatley, hoping he isn't going to use him as a snack. The beast bends down and slowly places Kieth on the ground with hands still wrapped around him. This was an incentive probably to let him know not to run away. Sighing as he's finally released from the grip he turns around to the stern looking face of the lizard; Growlmon. \"Now, it's getting late and i've been walking most of the day with you as cargo,\" His voice was deep yet commanding and calm. \"so we're setting up camp here. I want you to stay in ths spot while i go hunting for food, you can probably tell from my gurgling gut that im famished.\" He begins to turn around when Kieth begins to place a foot to step in the direction away from him.<br>\r\n<br>\r\n*THUMTH* A large foot came crashing down right in front of his vision. Grolmon was bent over and snarling at the man who was trembling in fear. \"When i say stay here,\" a forceful push is applied to the smaller males body to get him back into his original spot \"I mean that you don't move from this spot until i come back, not a single inch, or your punishment... will not be so pleasent.\" At this he stood back up and walked into the forest, prowling for food and quickly leaving Keiths sight.<br>\r\n<br>\r\n\"H-holy shit.. he means business..\" Keith stood there in the dried up twigs and leaves of the camping grounds that he was occupying. The setting sun cast rays of light through the leaves that hung in the various trees. Finally, after many moments of peace ful standing, darkness began to strike along with the cold nipping autumn air. This was getting to Keiths mind... and his bladder. He really had to go, but he didn't want to move at all..<br>\r\n</span></div></div>",
+            "created":1363582800,
+            "id":1553503,
+            "title":"A Walk and a rest."
+        },
+        "1121322222":{
+            "author_id":"techempire2684",
+            "author_name":"BIC",
+            "choices":[
+                "Biyomon ",
+                "More digimons"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about biyomon?</span></div></span></div>",
+            "created":1498107600,
+            "id":2340718,
+            "title":"nope, keep going..."
+        },
+        "1122":{
+            "author_id":"infinity421",
+            "author_name":"infinity421",
+            "choices":[
+                "A Charizard ",
+                "An eeveelution",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So what giant Pokemon has abducted you?</span></div></span></div>",
+            "created":1372568400,
+            "id":1620441,
+            "title":"A Pokemon"
+        },
+        "1123":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "A Furry.",
+                "An amorphous slime creature?",
+                "Something else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, here are a few more options.</span></div></span></div>",
+            "created":1298264400,
+            "id":1057911,
+            "title":"Something else?"
+        },
+        "11231":{
+            "author_id":"blader",
+            "author_name":"blader",
+            "choices":[
+                "Housepet (cats, dogs, bunnies, hampsters....)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright what kind of furry? I mean there's a lot</span></div></span></div>",
+            "created":1306472400,
+            "id":1114121,
+            "title":"A Furry."
+        },
+        "112311":{
+            "author_id":"infinity421",
+            "author_name":"infinity421",
+            "choices":[
+                "Anthro dog",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about an anthro dog?</span></div></span></div>",
+            "created":1372568400,
+            "id":1620527,
+            "title":"Housepet (cats, dogs, bunnies, hampsters....)"
+        },
+        "1123112":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Giant Cat Girl!",
+                "OMG my captive is a giant mouse girl O_o"
+            ],
+            "content":"<div class=\"\"><div> <span>Or how about <br>\r\n<br>\r\nA cute sexy Neko Giantess Cat Girl ( Tail and Ears ONLY The rest is human no fur elsewhere )<br>\r\n<br>\r\nOr <br>\r\n<br>\r\nA cute sexy Giantess Mouse Girl wearing glasses ( big mouse ears and a tail the rest is human No fur elsewhere )</span></div></div>",
+            "created":1402462800,
+            "id":1810476,
+            "title":"Other"
+        },
+        "11231122":{
+            "author_id":"amwicker",
+            "author_name":"AMHound",
+            "choices":[
+                "Let's actually make this a choice.",
+                "Actually, I'm fine with the mouse girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>That's a rather limited selection, really. And it's only two females of very similar types. How about we diversify?</span></div></span></div>",
+            "created":1410325200,
+            "id":1855183,
+            "title":"Room for Change"
+        },
+        "112312":{
+            "author_id":"blader",
+            "author_name":"blader",
+            "choices":[
+                "Exotic animals (jackals, hippos, lions)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright how about more exotic animals</span></div></span></div>",
+            "created":1306472400,
+            "id":1114151,
+            "title":"Other"
+        },
+        "1123121":{
+            "author_id":"blader",
+            "author_name":"blader",
+            "choices":[
+                "Jackal ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright let's get more specific with this.</span></div></span></div>",
+            "created":1306472400,
+            "id":1114158,
+            "title":"Exotic animals (jackals, hippos, lions)"
+        },
+        "11231211":{
+            "author_id":"blader",
+            "author_name":"blader",
+            "choices":[
+                "\"Actually there is a thing or 2 I could use\"",
+                "\"I am perfectly content right now Anette\""
+            ],
+            "content":"<div class=\"\"><div> <span>\"Oh man what a day I'm beat\" you say shutting the door to your house and dropping your attache case on the floor. You kick off your shoes, hang your coat up and walk upstairs to change into something less stuffy then a business suit. After changing into a pair of black shorts and a white t-shirt as it was summer. You walked downstairs, grabbed a popsicle, sat down in your personal recliner with a fan, shut the lights off and just sat there watching tv. \"It feels so good to unwind\" you think to yourself as you sat in the dark nothing on your mind other then the flickering images of the television, the soft breeze the fan was blowing upon you, and the cool treat you were licking. <br>\r\n<br>\r\nFor some reason you decided to look over at the wall length window you had in the living room, the sight you saw froze your heart. All you could see in the darkness were 2 green orbs as well as some golden things to the sides and underneath the orbs that reflected the light of the tv. These orbs were easily as big as your torso and as soon as you saw them they as well as the gold disappeared, you shook your head and looked back to see only darkness.<br>\r\n<br>\r\nBeing the curious person you are however you decide to go investigate, you search around and finally find a flashlight in a drawer, you walk to door and flick the light on cautiously stepping outside. The beam travels over a bunch of things before hitting something strange, it looked black even with the beam right on it, you tilted the beam sideways and you nearly blinded yourself as the beam reflected full force on you. You stumbled backwards tripping over a tree root and dropping the flashlight, you just lay there for a second until something totally eclipsed the light of the flashlight and something surrounded you. <br>\r\n<br>\r\n2 things came together one lifting you up the other covering your entire front, it was strange as the things felt well furry. You were held up to a third surface that was also furry and you felt movement, like something breathing, \"what the hell is going on?\" you think. You tried to scream but the thing almost seemed to know you were going to scream as the top part pushed down on you sending the message \"shut up or else.\"<br>\r\n<br>\r\nWhatever this thing was it started to move, you just lay there between what you realized were hands but they were covered in fur. This creature just kept running you heard a tree fall every so often, how big is this thing?\" you think to yourself. You saw streams of light and knowing it was a little past midnight you knew that this creature had entered some sort of lit, place. All too suddenly you were dropped on what you quickly realized was a throne and the creature stepped back and smiled down at you. <br>\r\n<br>\r\nYou looked up to see what you were dealing with, first you realized this creature was massive in size standing probably 80ft tall as the throne was on a raised area with stairs leading up to it probably to let some sort of king rule over their subjects from well, on high. Next you realized that it was a she, and she was some kind of jackal like Anubis. She had very large pointed ears sticking out of the top of her head and long black hair that cascaded down her back. Pure green eyes stared down at you curious as to what you were doing and her face led down into a muzzle with a quite cute small black nose at the end. She wore 2 gold bands which held parts of her hair together in circles and a 3rd ornate circle of gold almost like a very expensive collar surrounded her neck. Her body was covered in fur as black as a moonless night as well as a white dress reminiscent of Cleopatra that flowed down to the floor. Even with the dress you could tell she had a wonderful figure, her arms and legs were long and thin. She had a very noticeable hourglass figure and her chest was quite big probably DD as 2 quite noticeable orbs could be seen through the dress. From what you could see a small dog-like tail also extended from the back of the dress.<br>\r\n<br>\r\n\"Pharaoh, are you alright?\" the girl asks. Her speech not only knocked you out of your reverie but made you jump a foot in the air. You looked up at the jackal girl as even though you were on a raised throne you were still only neck height on her and timidly replied \"y...you can talk?\"<br>\r\n<br>\r\n\"Of course I can my pharoah, how could I serve you if I could not speak?\" she asks. <br>\r\n<br>\r\n\"Serve me?\" you ask honestly confused.<br>\r\n<br>\r\n\"Yes, I have traced your ancestry back to the great pharaohs of Egypt and becuase of that my pharaoh I must ask a great favor of you\" she says. She stops for a second and deciding on something she lowers herself to the floor in a bowing position. \"Please oh pharaoh, I am Anette daughter of Anubis, please accept me as your servant\" she says.<br>\r\n<br>\r\n\"Uh....why?\" you ask really too overwhelmed to do much more then go along with what was happening.<br>\r\n<br>\r\n\"My pharaoh, as you can see I am a jackal, we are meant to serve the great pharaohs, however as I young when Egypt rained by the time I grew up the pharaohs started to die out, I am suprised I even found one remaining\" she says smiling slightly now.<br>\r\n<br>\r\n\"Why do you have to serve?\" you ask Anette.<br>\r\n<br>\r\n\"My Pharaoh, a Jackal servant passes onto the afterlife with their Pharaoh, to serve them in bliss for all eternity, I have lived many centuries and have not served a single pharaoh, I can feel my life coming to an end, I know this is not Egypt but please oh Pharaoh allow me the honor of serving you so that I may serve you and see my family in the afterlife\" she says.<br>\r\n<br>\r\n\"Wait....so if you don't serve a pharaoh you won't see your family again?\" you ask the gigantic jackal, all fear of her disappearing. She nods and you look at her still bowed form. \"All right then, Anette my one and only servant you may stand\" you say having to hold back a smile as you really weren't someone who had power often.<br>\r\n<br>\r\nShe slowly stands up trying to act like a slave she tries to hold back her emotions but you can just see her tail wagging from side to side. She drops down on one knee \"thank you oh Pharaoh, I promise that I will do my best to serve you and to provide your every need and want\" she says.<br>\r\n<br>\r\nYou couldn't help but smile \"that is wonderful Anette thank you, although we have just met how can you be so loyal?\" you ask. Anette stares at you and smiles \"I was raised as a servant my Pharaoh so I must be able to trust easily\" she replies. She looks down at you and smiles \"my Pharaoh may i know your name?\" she asks.<br>\r\n<br>\r\n\"Alex\" you reply staring at the jackal.<br>\r\n<br>\r\n\"Thank you my Pharaoh, now I know what to enscribe in your pyramid\" she says.<br>\r\n<br>\r\n\"Uh...thanks, you do know most people now a days live a lot longer then back in the times of Ancient Egypt right?\" you ask.<br>\r\n<br>\r\n\"Yes I do my Pharaoh, in fact it's part of what I am counting on, so that you will live your life to the fullest and then you will pass and I will pass soon after\" she says.<br>\r\n<br>\r\n\"That sounds alright Anette\" you reply. She starts to fidget \"is there something wrong?\" you ask.<br>\r\n<br>\r\n\"Yes my Pharaoh, you have not commanded me, are you satisfied right now?\" she asks.</span></div></div>",
+            "created":1306558800,
+            "id":1114841,
+            "title":"Jackal "
+        },
+        "112312112":{
+            "author_id":"infinity421",
+            "author_name":"infinity421",
+            "choices":[
+                "Ask her a question",
+                "Actually, it is pretty late... Maybe tomorrow..."
+            ],
+            "content":"<div class=\"\"><div> <span>Anette fidgets for a couple of seconds, obviously wanting to serve you in some way, but bowing to your decision. \"As you wish, Pharoah.\" She says, somewhat disappointedly, and sits down next to your throne. <br>\r\n<br>\r\nYou zone out as you begin to truly think about your situation. Not only were you a direct descendant of the ancient Egyptian Pharoahs, which in itself was a pretty big shock, but you also had an eighty foot tall anthropomorphic jackal as a servant, who seemed to be completely loyal to you. <br>\r\n<br>\r\nHuh. <br>\r\n<br>\r\nYou find your thoughts dwelling on Anette. She was, obviously, extremely large, but how did she get that big, and was she still growing? And what was her childhood like?<br>\r\n<br>\r\nYou found the thought of the giant jackal strolling throughout Egypt to be an entertaining and interesting one. <br>\r\n<br>\r\nYou looked up at Anette, your throne neck height to her, and...</span></div></div>",
+            "created":1374901200,
+            "id":1635382,
+            "title":"Content"
+        },
+        "11231212":{
+            "choices":[
+                "Yes",
+                "Try Again"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe a Hippo?</span></div></span></div>",
+            "created":1350277200,
+            "id":1447561,
+            "title":"Other"
+        },
+        "112312122":{
+            "choices":[
+                "Yes",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Lion Maybe?</span></div></span></div>",
+            "created":1350277200,
+            "id":1447562,
+            "title":"Lion"
+        },
+        "1123121222":{
+            "choices":[
+                "Yes.",
+                "no."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a hyena?</span></div></span></div>",
+            "created":1350277200,
+            "id":1447563,
+            "title":"Hyena"
+        },
+        "11231212221":{
+            "author_id":"irven",
+            "author_name":"irven",
+            "choices":[
+                "The anthro hyena begins to walk off somewhere",
+                "A group of lions appear, led by the two who fled before, and attack"
+            ],
+            "content":"<div class=\"\"><div> <span>You run through the savanna as fast as possible, sweating heavily in the African sun. You glance over your shoulder at the two lions running after you, their fangs bared as they roar at you.<br>\r\n<br>\r\nThis safari did not go as planned.<br>\r\n<br>\r\nFirst your truck runs out of gas a few miles away from the camp, then you get attacked by lions. Not a good day for you. You finally reach a tree that looks climbable, and clamber up it, managing to evade the big cats for a little bit. They reach the tree and swipe at you, but they aren't able to climb up the tree. The problem now is that you're stuck here, and you don't see any way to get down.<br>\r\n<br>\r\nBut then, you see a large shape moving between the trees of the savanna. It's staying low, and the tall grass around here obscures it further, but you can tell that it's very big and colored gold and brown. The two lions stop swiping at you, and turn towards the shape, having sensed its presence through scent or hearing. They back away from the shape as it rises from the grass, and you stare in awe at a creature you've never seen before.<br>\r\n<br>\r\nIt resembles a hyena, but two major things stand out about it: first, it has the body shape of a young human woman, complete with a pair of fur-covered (and rather small, you note) breasts on its chest; and second, it (or more likely, \"she\", considering her chest) is several stories tall, standing above even the trees of the savanna. As she stands there, you get a good look at her, taking in her golden fur with dark brown spots on her sides, arms, and apparently the back too; the short fluffy tail waving behind her; and two big ears standing up tall on her head, which seems like an odd mix of humanoid and canine. The creature also has digitigrade feet, and hands with three fingers and a thumb. All of her digits have short, sharp claws.<br>\r\n<br>\r\nThe giant anthropomorphic hyena looms over the trees as she stares at the two lions with her dark eyes, baring her maw full of fangs. The two lions, understandably, run away from this new threat. Unfortunately, you cannot do the same. The anthro hyena takes her gaze off the lions and turns to you, making you sweat even more in fear. You're high up in the tree, and it would be too difficult to safely make your way down and run; and even if you did, the giant beast would be upon you in no time. So, all you can do is watch as the bizarre and gigantic cross between hyena and girl walks towards you. At your place in the tree, you're just about chest height with the giant creature, and so she crouches to bring her face up close to you upon reaching you. You shudder as you realize that her face is as big as your whole body.<br>\r\n<br>\r\nShe sniffs at you a little bit, cocking her head to the side. You stay still, not wanting to agitate this creature. It seems like that was a good idea, as she does not attack you.<br>\r\n<br>\r\nHowever, she does do something else. Reaching forward with her left hand-like paw, the fingers splayed, you realize she's about to grab you. You remain still nonetheless, and allow her hand to reach you. The fingers curl around your torso, thankfully not pinning your arms, since they were already raised to hang on to branches. The giant creature's grip tightens around you, your body squeezed between the surprisingly soft pawpads on her palm and fingers, and you let go of the branches you were holding, because there's no sense in trying to resist as she pulls you from between the tree's branches and out into the open air.<br>\r\n<br>\r\nRising to her full height, she brings you up to her face and studies you with interest. Though her grasp is firm and slightly painful, you refuse to squirm. It would be useless, after all. You just stay still as this strange feminine beast holds you dozens of feet above the ground and looks you over.<br>\r\n<br>\r\nAfter studying you for a while...</span></div></div>",
+            "created":1467608400,
+            "id":2175133,
+            "title":"The anthropomorphic hyena"
+        },
+        "1123122":{
+            "author_id":"infinity421",
+            "author_name":"infinity421",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about farm animal anthros?</span></div></span></div>",
+            "created":1352350800,
+            "id":1463842,
+            "title":"Other"
+        },
+        "11231221":{
+            "author_id":"infinity421",
+            "author_name":"infinity421",
+            "choices":[
+                "Horse anthro",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about an anthro horse?</span></div></span></div>",
+            "created":1372654800,
+            "id":1620726,
+            "title":"Farm Animal Anthros"
+        },
+        "112312212":{
+            "author_id":"mike92586",
+            "author_name":"MikeC",
+            "choices":[
+                "Cow / bull",
+                "Other farm animals"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about an anthro cow or bull?</span></div></span></div>",
+            "created":1397019600,
+            "id":1776248,
+            "title":"Other"
+        },
+        "11233":{
+            "choices":[
+                "Yes.",
+                "Something else. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a giant human? </span></div></span></div>",
+            "created":1325653200,
+            "id":1252217,
+            "title":"Something else?"
+        },
+        "112331":{
+            "choices":[
+                "Giant.",
+                "Giantess. "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>   Second question, giant or giantess?</span></div></span></div>",
+            "created":1325653200,
+            "id":1252218,
+            "title":"Yes."
+        },
+        "1123311":{
+            "choices":[
+                "Do I touch it with my hands ? ",
+                "With my feet ? ",
+                "With my mouth and tongue ?",
+                "Something completely different ..."
+            ],
+            "content":"<div class=\"\"><div> <span>You have been abducted by a Giant male of about 15 years of age, you are scared out of your mind at the Giant boy who now has you in his giant hand.<br>\r\n<br>\r\nYou didn't believe in giants before but now being carried away to his lair, how could I not believe, his lair turned out to be a cave in a huge wooded forest, as we finally got to his cave, I thought that I was dead, going to be eaten alive but to my utter surprise, he sets me down at his feet and sits down on the ground with me, I see that his toga style of attire is not bound anywhere and as he sits down in front of me, I could see his soft but huge penis flopping around under his toga.<br>\r\n<br>\r\nI got excited by watching his Penis and asked him if he wanted to play a game ? <br>\r\nHe answered Yes and we decided to play hide and seek, he counted to 20 and I ended up hiding underneath his giant penis, the smell of his penis was driving me crazy and I had to touch it ...</span></div></div>",
+            "created":1546357860,
+            "id":2597131,
+            "title":"Giant."
+        },
+        "1123312":{
+            "choices":[
+                "Her little stunt has attracted attention, people try to help you.",
+                "No one helps and we cut to her lair. "
+            ],
+            "content":"<div class=\"\"><div> <span>       That day, everything began as per normal for you, a boy of  age 18 in high school and with a bright future ahead too to boot. You had no inkling of what was to happen, the day when your life changed forever and you would no longer look at things the same way again. The best place to start is the scene of the incident. It was the middle of the night and on the edge of the suburban town you lived in ,a girl looked at your house with eager eyes, the darkness doing little to throw her off her plans for you.<br>\r\n<br>\r\n   She was a brunette and was about your age, pretty brown eyes too with a nice sized bust of about 36 C's and wore outfits that showed off her assets well too, it was too dark to make out what she was wearing but she certainly would have been gorgeous in a better light. The only thing you would have noticed about her that was different from the other girls was that she was a giantess. 184 feet of homo-gigantus, the proper name for someone like her. She moved silently, trying her best not to give away her presence though at her size, she still generated a fair amount of rumblings on the ground, she made her way quickly but relatively steathily into your yard.<br>\r\n <br>\r\n   You were woken up by the ground shaking but most people thought little of it, it was not uncommon to have tremors or even small earthquakes in this area at this time of the year, seismologists had told them not to be alarmed.  You felt something was wrong, as though someone was watching you and you were about to go back to sleep when a huge fist slammed through the roof and made a hole in it, revealing the giantess to you, though in the darkness you cannot make out her features very well. \" HOLY SHIT! WHAT THE HELL IS THAT THING!\" you scream and try to run but it is a futile effort, her massive hand easily grabs you away and into her palm you are forced into, bringing you close to her face for her to look at. <br>\r\n<br>\r\n   \" You're even cuter than I thought you'd be in person little guy, we'll get to know each other very well soon.\" she smiles but you can't tell in the extreme darkness and she begins to close her palm and bring you back to her humble abbode. </span></div></div>",
+            "created":1325998800,
+            "id":1254782,
+            "title":"The Day Everything Changed. "
+        },
+        "11233122":{
+            "author_id":"hipcomp",
+            "author_name":"Hipcomp",
+            "choices":[
+                "A large cave ",
+                "Her ginormous castle"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With little to no interruptions of any kind, the giantess had taken you away as you kept on struggling within the palm of her colossal hand. The lair she had taken you to was...</span></div></span></div>",
+            "created":1537197600,
+            "id":2548890,
+            "title":"No one helps and we cut to her lair. "
+        },
+        "112331222":{
+            "author_id":"hipcomp",
+            "author_name":"Hipcomp",
+            "choices":[
+                "She's a long lost friend of yours ",
+                "You saw her in your dreams "
+            ],
+            "content":"<div class=\"\"><div> <span>To your surprise, your finally destination was a gigantic castle that was large enough for her to live in. You couldn't even imagine how long it would've taken for this castle to be built. You remained paralyzed in a state of shock and confusion as you carefully examined every single detail. By the looks of it, you were currently in the throne room, where the giantess was stroking her right index fingernail through your hair as she held you in the open palm of her left hand, with a large smile on her face during every second of it.<br>\r\n<br>\r\nThe craziest part of all of this was that this castle wouldn't be just decently looking at normal size, it would be a masterpiece of a castle no matter what size it was. The throne itself was a good example of that, as it was completely made out of gold and decorated entirely in rubies, daimonds and other gemstones. You were not sure if you should be scared or glad that you were taken away by this giantess. <br>\r\n<br>\r\n\"Hey sweetie, is there something wrong? You haven't looked at me once!\"<br>\r\n<br>\r\n\"That's b-b-because it was too d-dark outside for me to s-see\"<br>\r\n<br>\r\n\"But we're inside now, which is... you know, not outside. So why haven't you looked at me yet?\"<br>\r\n<br>\r\n\"D-Do I really need to?\"<br>\r\n<br>\r\n\"Of course you need to! You don't want to spend the rest of your life here not knowing how your life partner looks, would you?\"<br>\r\n<br>\r\nYou then slowly began turning yourself around until your eyes met hers, which were the size of two moons. When you finally saw her face in all it's glory, you immediately noticed that...</span></div></div>",
+            "created":1537202760,
+            "id":2548928,
+            "title":"Gigantic castle!"
+        },
+        "112332":{
+            "choices":[
+                "Yeah!",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps a different sort of furry? Perhaps one that's been extinct for a long, long time?</span></div></span></div>",
+            "created":1350277200,
+            "id":1447565,
+            "title":"Something else. "
+        },
+        "1123321":{
+            "choices":[
+                "Dinosaurs",
+                "Other extinct animals"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, so, are we going to do dinosaurs or something else?</span></div></span></div>",
+            "created":1350277200,
+            "id":1447566,
+            "title":"Extinct!"
+        },
+        "11233211":{
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, but now we have to choose a dinosaur. What about the king of the dinosaurs? Tyrannosaurus Rex</span></div></span></div>",
+            "created":1350277200,
+            "id":1447567,
+            "title":"Dinosaurs"
+        },
+        "11233212":{
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's start with the most well know non dinosaur extinct animal? What about the wooly Mammoth</span></div></span></div>",
+            "created":1350277200,
+            "id":1447568,
+            "title":"Other extinct animals"
+        },
+        "112332122":{
+            "choices":[
+                "Yes",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about a sabertooth tiger?</span></div></span></div>",
+            "created":1350277200,
+            "id":1447569,
+            "title":"Cat's Cradle"
+        },
+        "1123321222":{
+            "choices":[
+                "Yes",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about a woolly rhino?</span></div></span></div>",
+            "created":1350277200,
+            "id":1447619,
+            "title":"Rhino Rampage"
+        },
+        "1123322":{
+            "choices":[
+                "Yes",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps a creature from mythology?</span></div></span></div>",
+            "created":1353301200,
+            "id":1471220,
+            "title":"Of the mythes"
+        },
+        "11233221":{
+            "choices":[
+                "Gargoyle",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, how about the best choice for mythical beast? The gargoyle</span></div></span></div>",
+            "created":1353301200,
+            "id":1471223,
+            "title":"A mythical creature"
+        },
+        "112332211":{
+            "choices":[
+                "She speaks to you",
+                "She flies off with you"
+            ],
+            "content":"<div class=\"\"><div> <span>You're not even sure how it happened. You were minding your own business, a 20 year old dude running out at night, jogging around your college campus. Suddenly you felt a cold wind as if something flew directly above you. You shiver and then decide to shrug it off. Then you hear a strange noise like something moving through the air.<br>\r\n<br>\r\n\"What's that?\" you ask. \"A low flying jet? It's ten o'clock at night. Maybe I shouldn't have come out here.\" Suddenly, you hear a crash as if something landed. \"What was that?!\" Now you're afraid and you nervously walk forward to investigate. You see two red glowing lights and hesitate as you come forward. \"Is anybody there?\" you ask.<br>\r\n<br>\r\nIt was their the lights turn to you and you see that they look just like a pair of glowing red eyes. You gulp and step back as the eyes' owner stands up and you see a huge figure that had to be at least two hundred feet tall. This figure looked female in body shape, very hourglass figured and with a pair of large wings and a tail. This figure also appears to have four large horns jutting out of her forehead with long hair reaching down to her tail. The figure lets out a shriek and then you realize something. You were looking at a ginormous gargoyle.<br>\r\n<br>\r\nYou let out a scream and run away but it is no use, the gargoyle giantess swoops down and snatches you with her large clawed fingers and takes you up to her face as you tremble.</span></div></div>",
+            "created":1353474000,
+            "id":1472672,
+            "title":"Gargoyles Are Alive"
+        },
+        "1123322112":{
+            "choices":[
+                "Her cleavage",
+                "Her loincloth"
+            ],
+            "content":"<div class=\"\"><div> <span>You're scared half to death. You had no idea that gargoyles, living gargoyles existed and even if you did, there's no way you'd think they were as titanic as this giantess. You really hope that this gargoyle was friendly but it wasn't looking good as she raises her tail into the air and flaps her wings several times. This giantess is preparing to fly away and she was going to take you with her.<br>\r\n<br>\r\nAs she flies off, you try to bite her to make her leg you go, but you chip a tooth on her hard skin. This was bad. But apparently this garg isn't going to carry you in her palm all night. She's going to put you someplace safe, but where?</span></div></div>",
+            "created":1353560400,
+            "id":1473024,
+            "title":"She flies off with you"
+        },
+        "112332212":{
+            "choices":[
+                "Yes",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What about a gorgon?</span></div></span></div>",
+            "created":1353301200,
+            "id":1471224,
+            "title":"Gorgon"
+        },
+        "12":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "Young teen (13-15)",
+                "Young adult (16-21)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A beautiful, lively, and youthful lass of course. And now for the question to be avoided on a first date, how old are you?</span></div></span></div>",
+            "created":1288414800,
+            "id":983861,
+            "title":"Girl"
+        },
+        "121":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "A Digimon",
+                "A Pokemon",
+                "Something else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, what kind of creature is abducting you?</span></div></span></div>",
+            "created":1288414800,
+            "id":983865,
+            "title":"Young teen (13-15)"
+        },
+        "1212":{
+            "author_id":"numerio",
+            "author_name":"Tex",
+            "choices":[
+                "Chu evolutions",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I personally like the Pikachu Evolutions.</span></div></span></div>",
+            "created":1352178000,
+            "id":1462444,
+            "title":"A Pokemon"
+        },
+        "1213":{
+            "choices":[
+                "An Alien is cool?",
+                "Something else for the Earth girl?",
+                "Even more choices please for the Earth girl?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a giant Alien?</span></div></span></div>",
+            "created":1289019600,
+            "id":988607,
+            "title":"A Giant Alien?"
+        },
+        "12131":{
+            "choices":[
+                "The Giant Alien is humanoid?",
+                "The Giant Alien is not humanoid?"
+            ],
+            "content":"<div class=\"\"><div> <span> Thirteen-year-old Julie Wilson is a beautiful young American girl.  She has long, curly, strawberry blond hair, blue eyes, fair skin, and a petite body, with curvy hips.  She is overly developed for her age, with double D size breasts, and she has a fantastic ass too.  She is a gymnast, and a member of her schools cheerleading squad.  She is also a bit nerdy, and she is an extremely modest person too.  On this day, she is currently resting on a sandy beach dressed only in her hot pink bikini.  She was only dressed in the bikini on a dare from her friends.  It was either that or she would have to go to a nude beach, yikkes!  <br>\r\n<br>\r\n As she tans on the beach, resting on a towel, with her eyes closed, she starts to hear the sound of people screaming and running away in panic.  She opens her lovely eyes and sees the reason why everyone is running.  She sees a huge spaceship above her.  She then sees that it is emitting a greenish beam that is engulfing her.  She then feels herself slowly being lifted off of the ground by some invisible force towards the spaceship.  Now floating in midair, heading towards the ship, she desperately kicks and screams for help, but it was futile.  She sees the bottom hatch of the ship opening up, and she knows she is being lifted into it. As she enters the darkened ship, she finds herself being gently placed into a glass jar, or specimen jar.  She then feels the beam releasing her, and she soon discovers that she is trapped in this glass like cage, still dressed in her bikini.  She then hears something, looks up in fear to see above her\u2026      <br>\r\n</span></div></div>",
+            "created":1289019600,
+            "id":988628,
+            "title":"A Giant Alien!"
+        },
+        "121311":{
+            "choices":[
+                "\"Hello my pet or my lunch! I have not decided which!\" ",
+                "\"Finally, I have a mate to breed my other pet with!\" "
+            ],
+            "content":"<div class=\"\"><div> <span> Still dressed in her bikini, Julie cringes in fear as she looks up to see a gigantic looking, humanoid shaped, alien creature standing above her, and it was gazing down at her with a weird kind of lust in its big black eyes. To her, this creature looks like something out of Japanese Animation. She then hears the creature speaking to her in English. It says to her... <br>\r\n<br>\r\n<br>\r\n The alien creature looks like Ogremon from Digimon.  <br>\r\n  <a rel=\"nofollow\" href=\"http://www.digimon-paradijs.nl/digimon-analyzer/image2/ogremon.gif\" target=\"_blank\">http://www.digimon-paradijs.nl/digimon-a...</a><br>\r\n</span></div></div>",
+            "created":1290574800,
+            "id":999996,
+            "title":"The Giant Alien is Ogremon!"
+        },
+        "1213111":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Pet",
+                "Test Subject "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Hello there my new</span></div></span></div>",
+            "created":1402462800,
+            "id":1810475,
+            "title":"\"Hello my pet or my lunch! I have not decid..."
+        },
+        "1213112":{
+            "choices":[
+                "She can't break free from the container",
+                "She manages to escape, and something unexpected happens"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Finally, I have a mate to breed my other pet with!\" the ogre-like giant alien says in a creepy way, and covers her with a glass container. \"Now you can't escape!\" he says laughing. \"Now you just wait for a moment...\" he says, and leaves the giant room. <br>\r\n<br>\r\nWether the other \"pet\" is a human or not, Julie certainly doesn't want that. She has to escape! </span></div></div>",
+            "created":1311915600,
+            "id":1157274,
+            "title":"An ogre's pet? "
+        },
+        "12131122":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "The Alien returns! And.. ( options inside )",
+                "Teleportor Activated! Julie back on the beach but Growing soon"
+            ],
+            "content":"<div class=\"\"><div> <span>With all her might and a running start she makes a running tackle at the side of the jar. She somehow manages to tip it onto its side. The force sends her flying out of the jar and into a beaker full of some kind of orange syrup like liquid. <br>\r\n<br>\r\nShe struggled to stay afloat for Julie couldn't swim due to its consistency. She accidentally ingested a couple mouthfuls.<br>\r\n<br>\r\n\"Blech this taste worse than medicine\" she said. Her struggles were starting to prove useless until strangely the goo was being absorbed into Julie's body as if she were a sponge. After a few minutes every drop had been absorbed into her body.<br>\r\n<br>\r\n\"Huh that was weird\" said Julie not feeling any different. Once more she got her prison on its side this time however she was able to crawl out. She was glad she was still clad in her bikini swimsuit. <br>\r\n<br>\r\nShe read the label that was on the beaker she was in \"Experimental Growth Serum. Oh wow I kind of hope it works, it might be my only hope at surviving this\" said Julie as she started to formulate some plans.<br>\r\n<br>\r\nJulie started to look around but tripped on a pencil landing on a button.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1402462800,
+            "id":1810472,
+            "title":"She manages to escape, and something unexpected..."
+        },
+        "121311221":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Gets shrunk while Julie has her 1st Growth Spurt",
+                "Find the hyperdrive activated and Julie starting her 1st Growth Spurt ( NO CURE "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Just as Julie presses the button by accident the Alien returns and</span></div></span></div>",
+            "created":1402462800,
+            "id":1810474,
+            "title":"The Alien returns! And.. ( options inside )"
+        },
+        "12132":{
+            "author_id":"giantlolikaiju",
+            "author_name":"UltimateGiantess",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, why not an actual human giant for a abductor?</span></div></span></div>",
+            "created":1500181200,
+            "id":2354122,
+            "title":"Actual human giant?"
+        },
+        "121321":{
+            "author_id":"giantlolikaiju",
+            "author_name":"UltimateGiantess",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, now which gender? Male or female?</span></div></span></div>",
+            "created":1500181200,
+            "id":2354123,
+            "title":"Which gender?"
+        },
+        "1213212":{
+            "author_id":"gilligfan",
+            "author_name":"PrincessKooh",
+            "choices":[
+                "Child 5-8",
+                "Preteen 10-12",
+                "Teen 13 - 16"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last choice-  the female giantess that does the abducting<br>\r\nIs why age range?</span></div></span></div>",
+            "created":1500216060,
+            "id":2354362,
+            "title":"Female"
+        },
+        "12132121":{
+            "author_id":"giantlolikaiju",
+            "author_name":"UltimateGiantess",
+            "choices":[
+                "Some sort of bedroom that is really girly and big",
+                "In a cave being prepared for something, almost ancient like"
+            ],
+            "content":"<div class=\"\"><div> <span>Well, this is seriously one strangle day that she just went to. My name is Molly, and is age 15. She usually one of the lesser known popular girls at school, like having plenty of friends, a decent body with her C-Cup breasts, a sharp butt, and a few other things that easily can make someone at least admire her. Well let's just say that she got one huge thing happened to her today.<br>\r\n<br>\r\nShe was heading to school one day and was heading through the forest, and then suddenly the ground begun to rumble just as her car that her friend was driving slid off the road and crashed into a tree. They were wondering what caused the ground to rumble, and then suddenly we all saw what caused it to rumble. She fainted just as I saw the huge thing, but from what I saw, it was a huge child, like somewhere around 200ft tall. She doesn't know what she was wearing at the time since she fainted, but she was horrified and shocked of what she saw.<br>\r\n<br>\r\nSuddenly, Molly eyes starts to open and she wakes up to see that she is in...?<br>\r\n<br>\r\n(The clothes of the giantess will be revealed in the next chapter, and her age is around 5-8).</span></div></div>",
+            "created":1500313860,
+            "id":2355022,
+            "title":"One strange day?"
+        },
+        "121322":{
+            "author_id":"giantlolikaiju",
+            "author_name":"UltimateGiantess",
+            "choices":[
+                "Yeah",
+                "Ripoff, next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here is a cool idea. Why not a giant alien humanoid like robot abducts the girl for some reason, maybe experimentation or something?</span></div></span></div>",
+            "created":1504454040,
+            "id":2379443,
+            "title":"Giant alien robot"
+        },
+        "122":{
+            "author_id":"doom7951",
+            "author_name":"Somebody McSomeone",
+            "choices":[
+                "A Digimon",
+                "A Pokemon",
+                "Something else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now, what kind of creature is abducting you?</span></div></span></div>",
+            "created":1288414800,
+            "id":983867,
+            "title":"Young adult (16-21)"
+        },
+        "1223":{
+            "choices":[
+                "King Kong",
+                "Mermaids/Mermen",
+                "Something Else "
+            ],
+            "content":"<div class=\"\"><div> <span>A damsel in distress being stolen away by a 20-40 foot tall gorilla? A classic story.<br>\r\n<br>\r\nBut is she on Skull Island or in some place closer?<br>\r\n<br>\r\nOr are you taken by something else entirely? <br>\r\n<br>\r\nPerhaps a summer trip with your friends takes you out into some mysterious waters where massive humanoids wait just beneath the surface? <br>\r\n<br>\r\nOr you could pick something else. </span></div></div>",
+            "created":1496984400,
+            "id":2333666,
+            "title":"King Kong or A Giant Mermaid/Man? "
+        },
+        "12231":{
+            "choices":[
+                "Skull Island",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where are we?</span></div></span></div>",
+            "created":1496984400,
+            "id":2333667,
+            "title":"King Kong"
+        },
+        "122312":{
+            "choices":[
+                "King In The City",
+                "Nope, something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did King Kong get loose in your town/city?</span></div></span></div>",
+            "created":1496984400,
+            "id":2333668,
+            "title":"Somewhere Else"
+        },
+        "1223122":{
+            "choices":[
+                "Let's Go Camping",
+                "That sounds stupid"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What if Kong lived in the forest about 40 minutes away from your house and a bunch of your friends want to go camping? </span></div></span></div>",
+            "created":1496984400,
+            "id":2333669,
+            "title":"Nope, something else"
+        },
+        "12231221":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "Stephanie",
+                "Tara",
+                "More Choices"
+            ],
+            "content":"<div class=\"\"><div> <span>And finally, who are you?<br>\r\n<br>\r\nStephanie Washington, 21 years old, an African-American cheerleader at the local junior college<br>\r\n<br>\r\nTara Williams, 16 years old, a blonde, blue eyed volleyball player who is a sophomore at the local high school<br>\r\n<br>\r\nMore choices<br>\r\n</span></div></div>",
+            "created":1593539580,
+            "id":2859193,
+            "title":"Let's Go Camping"
+        },
+        "122312213":{
+            "author_id":"deverx",
+            "author_name":"SWLatina",
+            "choices":[
+                "Ebra",
+                "Victoria",
+                "Etsuko"
+            ],
+            "content":"<div class=\"\"><div> <span>Here are three more choices<br>\r\n<br>\r\nEbra Baqri, 17 years old, a dusky doe eyed beauty who is home schooled<br>\r\n<br>\r\nVictoria, 19 years old, a petite but curvaceous Latina who recently graduated high school and works full time at her family's restaurant<br>\r\n<br>\r\nEtsuko Daniels, 20 years old, a shy but beautiful Asian-American girl who goes to the local university</span></div></div>",
+            "created":1593539640,
+            "id":2859195,
+            "title":"More Choices"
+        },
+        "12232":{
+            "choices":[
+                "Hang Ten!",
+                "Let's Go Scuba Diving"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of vacation are you guys going on? <br>\r\n<br>\r\nSurfing on a private island with your absurdly rich friends or going scuba diving in the tropics with a bunch of friends from college? </span></div></span></div>",
+            "created":1496984400,
+            "id":2333670,
+            "title":"Mermaids/Mermen"
+        },
+        "12233":{
+            "author_id":"giantlolikaiju",
+            "author_name":"UltimateGiantess",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why not a human giant?</span></div></span></div>",
+            "created":1500181200,
+            "id":2354124,
+            "title":"Giant"
+        },
+        "122331":{
+            "author_id":"thebyebyeman",
+            "author_name":"TheByeByeMan",
+            "choices":[
+                "The Island",
+                "Another Story"
+            ],
+            "content":"<div class=\"\"><div> <span>Here's a potential story for a giant human abduction:<br>\r\n<br>\r\nA group of 8 college kids and the captain of your friend's private boat; you're all going on a personal cruise through the Caribbean. After a few days at sea, the group gets caught in a storm that draws them towards an uncharted island with a massive wall separating 1/10th of the island from the rest of it. What lies beyond? Well, you probably have an idea.<br>\r\n<br>\r\nCharacters:<br>\r\n-Allie Watson (You): 20, 5'7, dark hair, moderately good looking. Is on the trip because Max, Stacy, and Valeria, mutual friends of Jenna, love her even though Jenna (the girl whose obscenely rich family owns the boat) hates Allie. <br>\r\n<br>\r\n-Stacy Bryans: 20, 5'11, blonde, athletic, and is a genuinely nice person. She cares about the well being of everyone on board and hopes that they're having a good time. She's not obnoxiously extroverted, but she generally loves people and is willing to be athe shoulder to lean on. <br>\r\n<br>\r\n-Max Richardson: 19, 6'4, heavier set guy, darker skin. Kind of shy in.spite of his size.<br>\r\n<br>\r\n-Jenna Jameson: 19, 5'5, ginger, outwardly friendly, but incredibly condescending and passive aggressive<br>\r\n<br>\r\n-Jason Lee: 21, 5'10, Asian, Jenna's boyfriend, alpha male mentality<br>\r\n<br>\r\n-Valaria Alverez: 21, 4'11 Hispanic, very extroverted<br>\r\n<br>\r\n -Chad Rogers: 19, 6'0, sandy-blonde hair, surfer body, has a crush on Allie<br>\r\n<br>\r\n-Michelle Johnson: 20, 5'2, black, distant, shy<br>\r\n<br>\r\nPotential Giants/Giantesses (these characters don't have to simultaneously exist in the story. If one route wants to feature one of these giants or giantesses but not include the other ones, that's totally fine):<br>\r\n<br>\r\nGiants:<br>\r\n-Finn: 18 years old, 50 feet tall, dark hair, white<br>\r\n<br>\r\n-Harc: 30 years old, 60 feet tall, Samoan<br>\r\n<br>\r\n-Orion: 25 years old, 100 feet tall, black<br>\r\n<br>\r\nGiantesses:<br>\r\n-Elma: 16 years old, 50 feet tall, ginger, blue eyes<br>\r\n<br>\r\n-Marva: 27 years old, 60 feet tall, Pacific Islander, dark hair, unnaturally bright amber eyes<br>\r\n<br>\r\n-Calypso: 21 years old, 100 feet tall, sandy blonde, freckles on face, hazel eyes, faint pink lips, bright pink finger nails<br>\r\n<br>\r\nDo you want to start The Island or do you want a different scenario? </span></div></div>",
+            "created":1504384980,
+            "id":2378974,
+            "title":"Story Pitch- The Island"
+        },
+        "1223312":{
+            "author_id":"thebyebyeman",
+            "author_name":"TheByeByeMan",
+            "choices":[
+                "Let's go with this scenario",
+                "I want a different story"
+            ],
+            "content":"<div class=\"\"><div> <span>Jurassic Park but with monster people replacing dinosaurs<br>\r\n<br>\r\nThe T-Rexes= 50 foot tall men/women, aggressive<br>\r\n<br>\r\nThe Bracheosaurouses= 100 foot tall men/women, aggressive<br>\r\n<br>\r\nThe Tricerotops and Stegosaurous= large centaurs<br>\r\n<br>\r\nThe Dilophosaurous/Raptors= vampires<br>\r\n<br>\r\nFlying dinosaurs= fairies of various sizes<br>\r\n<br>\r\nCompies= 8 inch tall vampires<br>\r\n<br>\r\nRandom mid-sized dinosaurs= Amazonians<br>\r\n<br>\r\nSea dinos= mermaids/mermen of various sizes<br>\r\n<br>\r\n<br>\r\nThe park is opening for the first time and you, along with the rest of your year 12 class, have been given the chance to take the tour before anyone else. But after a power outage, all of the monsters get loose and run amok throughout the park.<br>\r\n<br>\r\nDo you want to visit Monster Park or do you want a different scenario?</span></div></div>",
+            "created":1504387080,
+            "id":2378990,
+            "title":"Another Story- Monster Park"
+        },
+        "12233122":{
+            "author_id":"giantlolikaiju",
+            "author_name":"UltimateGiantess",
+            "choices":[
+                "Abducted and Turned into a Giant",
+                "Not really"
+            ],
+            "content":"<div class=\"\"><div> <span>How about a story where instead of you being abducted by an actual giant, why not an actual story where you do get abducted and then you are turned into a bloodthirsty giant?<br>\r\n<br>\r\nThe story would go out like this, you were just one day minding your business through town when suddenly a minivan comes up driving by you, you try to walk away, but then suddenly some people come out and subdue you and take you into the van and drive away. Next thing you know, you are in a testing facility where you are revealed to been transformed into a giant, and whatever happened from there comes up to the reader.<br>\r\n<br>\r\nWant to use the Abducted then Turned into a Giant story?</span></div></div>",
+            "created":1504453800,
+            "id":2379441,
+            "title":"Abduction Twist"
+        }
+    },
+    "info":{
+        "author_id":"doom7951",
+        "author_name":"Somebody McSomeone",
+        "brief_description":"Something giant has caught you, now what?\r\n(gift points may be awarded at a later date)",
+        "created":1288468860,
+        "description":"<td align=\"left\" class=\"norm\">Okay, not going to tie up anyone with terribly many rules. Just a few words of warning  before you go in.<br>\r\n<br>\r\n1. There can be sex, but don't go terribly into detail. Additionally, sex with minors is strictly forbidden. Do not test me on that.<br>\r\n<br>\r\n2. Please make the entries worth their chapter page. Try to make it at LEAST one paragraph. I will allow things such as a \"So are you a boy or a girl?\" as a chapter when appropriate.<br>\r\n<br>\r\n3. I will probably remove chapters written that violate guideline number one.<br>\r\n<br>\r\n4.Try to avoid killing the main character.<br>\r\n<br>\r\n5. And please, keep the focus on the main character and the captor. Try not to add additional main characters.<br>\r\n<br>\r\nWith that out of the way, please, feel free to add as you see fit, and most importantly, have fun.</td>",
+        "id":1720678,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1605493080,
+        "modified":1605493080,
+        "pretty_title":"Giant Abduction"
+    }
+}

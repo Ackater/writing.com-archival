@@ -1,0 +1,464 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "The Chosen Clan",
+                "The Angelus Clan",
+                "The Gurglemeister Clan",
+                "The Firebelly Clan",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which clan are you in?</span></div></span></div>",
+            "created":1214802000,
+            "id":550109,
+            "title":"First things first "
+        },
+        "11":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your gender?</span></div></span></div>",
+            "created":1214802000,
+            "id":550112,
+            "title":"Which Gender?"
+        },
+        "111":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Tamer",
+                "Exilist",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Which class is for you?<br>\r\n<br>\r\nTamer: Can tame monsters to fight by your side. Can use genric magic such as lightning or fire. (Can be either gender)<br>\r\n<br>\r\nExilist: Can communicate with, and befriend monsters. Has bad associations with other humans. 100% chance of avoiding digestion with friends. (Male only)<br>\r\n</span></div></div>",
+            "created":1214861100,
+            "id":550146,
+            "title":"Choose a class..."
+        },
+        "1112":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Go to the western Forest of Doubts (safest)",
+                "Go to the eastern Forest of Doubts",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>     It's the middle of the night, but you're still awake. You're busy packing your things so you can leave before morning. <br>\r\n     As you put the last of your things in your rucksack, you realize you haven't decided where to go. You've never left the city before, but you've heard plenty about the areas around it. <br>\r\n     To the east and west is the Forest of Doubts, this city cuts the forest in half. The forest is the safest of the three areas surrounding it, but it is still dangerous to go there. To the south is the Marshland, a boggy area filled with man-eating plants and reptiles. Supposedly, the queen of nagas lives in a cave in there. Finally, to the north is the infamous Plain of Beasts, many travelers have lost their lives there. It is by far the most dangerous area you could go to, but no-one would think to look for you there.</span></div></div>",
+            "created":1214861880,
+            "id":550147,
+            "title":"You are Jason, the Exilist"
+        },
+        "11123":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Go to the Marshland",
+                "Go to the Plain of Beasts"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, that leaves the Marshland and the Plain of Beasts...</span></div></span></div>",
+            "created":1214861940,
+            "id":550150,
+            "title":"The other places"
+        },
+        "111232":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "A squirrel, thank goodness...",
+                "A Fifi, a creature that looks like an oversized blue skunk"
+            ],
+            "content":"<div class=\"\"><div> <span>   As you leave town, you turn and take one last look at the city you were born in. \"No time for regrets now,\" you say to yourself as you turn back to the path ahead. <br>\r\n    Soon after you enter the Plain, you hear the cry of a harpy. Surprised, you dive behind a nearby tree and wait for it to fly away. Thankfully, it didn't notice you, it was getting into a fight over territory with another harpy.<br>\r\n     You breath a sigh of relief and sit down. So far, it looks like none of the 'beasts' have noticed your presence. At least you think that until you feel something brush your arm. You turn in surprise to see...</span></div></div>",
+            "created":1214862360,
+            "id":550151,
+            "title":"Welcome to the Plain..."
+        },
+        "1112322":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Sweet-talk the Fifi",
+                "Attack!"
+            ],
+            "content":"<div class=\"\"><div> <span>   You stare at the Fifi in terror, expecting to be attacked. But the Fifi just stares at you, as if it's waiting for you to make the first move. You've always heard that all the monsters in the world would eat you in a moment's notice, but maybe this isn't the case. <br>\r\n    Thinking quickly, lest the Fifi change it's mind, you think of two thingss you could do, first off, you could try and sweet-talk it, you've always been good with animals. Also, you have a knife in your bag, you could attack the Fifi and hope for the best. <br>\r\n     You decide to...</span></div></div>",
+            "created":1214862840,
+            "id":550154,
+            "title":"Encounter!"
+        },
+        "11123221":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "She wants to carry you to safety, in her stomach!",
+                "She wants you to follow her to her burrow "
+            ],
+            "content":"<div class=\"\"><div> <span>     \"Hi there, cutie?\" you say with a slight stammer, \"What do you want?\" The Fifi rubs its head against you, and then, to your great surprise, talks! \"Well, I was looking for food, but I haven't decided whether I want to eat you or not,\" the Fifi says. <br>\r\n      This doesn't help your fear any. \"YOU CAN TALK?!\" you pratically yell in surprise. The Fifi jumps on you, pushing you to the ground, and places a paw over your mouth. \"Shhh!\" she whispers to you, \"Do you want those harpies to hear you?\" You had completely forgotten about the harpies.<br>\r\n      You shake your head fiercely in response. \"Good,\" she says before getting off of you, \"No more screaming then.\" You nod in agreement.<br>\r\n      Suddenly, you hear fierce flapping of wings. You look up to see that the two harpies are flying away. \"That's odd,\" you comment. The Fifi gives you a look. \"You can't smell the naga coming this way?,\" she asks. <br>\r\n       \"N-naga?\" you stammer. The Fifi groans. \"I forgot how bad you humans are at smelling things,\" she says, \"Look, unless you want to be naga-chow, you're going to have to trust me.\" <br>\r\n       \"That depends,\" you respond, \"What do you plan on doing?\"</span></div></div>",
+            "created":1214863680,
+            "id":550158,
+            "title":"Sweet-talk the Fifi"
+        },
+        "111232211":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "The Fifi is true to her word, you aren't digested",
+                "Well, it's been nice knowing you..."
+            ],
+            "content":"<div class=\"\"><div> <span>    \"I'm going to eat you,\" she responds simply. You stare at her, jaw dropped in a mixture of surprise and horror. \"What?\" she asks, \"If I eat you, you'll be safe from the naga.\" <br>\r\n    \"Y-yeah,\" you manage to stammer, \"B-but who's gonna save me from you?\" The Fifi sighs. \"Look, I promise I won't digest you.\" she says, \"And even if I'm tricking you, wouldn't you rather be eaten by me than a naga?\"<br>\r\n     You realize that you're not getting a choice in the matter. Reluctantly, you nod, telling the Fifi to eat you alive. The Fifi opens her mouth and pushes it around your head. Soon, you find yourself slipping down her throat and into the hot and slimy confines of her stomach.<br>\r\n      The Fifi lies down on her back and gives her stomach a content pat. \"There now isn't that better?\" she asks jokingly. You don't respond, you just lay in her stomach, hoping that the Fifi hasn't lied to you.</span></div></div>",
+            "created":1214867340,
+            "id":550594,
+            "title":"You're food, one way or the other..."
+        },
+        "112":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Amazon",
+                "Tamer",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Which class?<br>\r\n<br>\r\nAmazon: Strongest offensive class. Can only use generic magic. High chance of avoiding being eaten. (Female Only)<br>\r\n<br>\r\nTamer: Can tame monster to fight by your side. Can use genric magics like thunder and fire. (Can be of either gender)</span></div></div>",
+            "created":1214861280,
+            "id":550145,
+            "title":"Class"
+        },
+        "12":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your gender?</span></div></span></div>",
+            "created":1214802000,
+            "id":550113,
+            "title":"Gender"
+        },
+        "13":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your gender?</span></div></span></div>",
+            "created":1214802000,
+            "id":550114,
+            "title":"Gender"
+        },
+        "14":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your gender?</span></div></span></div>",
+            "created":1214802000,
+            "id":550116,
+            "title":"Gender"
+        },
+        "15":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "The Darkswallow Clan",
+                "The Cult",
+                "The Demongut Clan",
+                "None, play as a monster ^-^"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, here are the other clans...</span></div></span></div>",
+            "created":1214802000,
+            "id":550110,
+            "title":"Other Clans"
+        },
+        "151":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your gender?</span></div></span></div>",
+            "created":1214802000,
+            "id":550117,
+            "title":"Gender"
+        },
+        "152":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your gender?</span></div></span></div>",
+            "created":1214802000,
+            "id":550118,
+            "title":"Gender"
+        },
+        "153":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Male ",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your gender?</span></div></span></div>",
+            "created":1214802000,
+            "id":550119,
+            "title":"Gender"
+        },
+        "154":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your gender?</span></div></span></div>",
+            "created":1214802000,
+            "id":550120,
+            "title":"Gender"
+        },
+        "1541":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Centaur",
+                "Naga",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok pick a species...</span></div></span></div>",
+            "created":1214875320,
+            "id":550204,
+            "title":"Monsters! ^-^"
+        },
+        "15413":{
+            "choices":[
+                "Fifi",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would you like to be a skunkish Fifi?</span></div></span></div>",
+            "created":1220848080,
+            "id":579637,
+            "title":"Fifi"
+        },
+        "154131":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Go for the human (You're too hungry)",
+                "Go for the unfamiliar scent  (It might be easy food)"
+            ],
+            "content":"<div class=\"\"><div> <span>     You wake up to the sound of your hungry belly, reminding you that you haven't eaten recently. You get up and climb out of your small burrow in the Plain of Beasts. There aren't many other Fifi out yet... which could be good for you.<br>\r\n     \"The early skunk gets the human,\" you chuckle to yourself. As you trot off you notice two strong scents, one belongs to a human, and the other is unfamiliar. \"Hmmm.... Descisions, descisions...\" you say aloud.</span></div></div>",
+            "created":1221763860,
+            "id":584013,
+            "title":"Start of a new day..."
+        },
+        "154132":{
+            "choices":[
+                "Be a Kichi",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>How about my original species, the Kichi? In their true forms they resemble 3 foot tall boys with fox-features and soft golden fur. However they will often appear as tiny, and lightning fast, fox-cubs, or unnaturally well-endowed women. There are only twelve Kichi in the world and they are very territorial. This is also partly due to the fact that they are immune to digestive acids, besides those of other Kichi. Making them very difficult to dispose of. That is if you can manage to swallow one in the first place.</span></div></div>",
+            "created":1220849340,
+            "id":579645,
+            "title":"The Kichi"
+        },
+        "1541321":{
+            "choices":[
+                "A Kari is nearby.",
+                "Another Kichi?!"
+            ],
+            "content":"<div class=\"\"><div> <span>The low groaning of your stomach welcomed you back to the world, as you stirred from your slumber. You were in your cub form, and glanced down at your stomach. It was still fairly large, but you had digested away the majority of your meal during the night. With a last little yawn you walked to the river and stuck out your hind-end. Your tail flipped up as you let out a long-pent fart, fouling the air around you, and pushed out the remains of the amazon. She had put up a fight, but was no match for your speed and strength. Your stomach returned to normal as you released the load into the river, watching it wash downstream. It was out of sight, and your home was clean. Though it would not be fun for the town downstream. You grinned a little at this thought.<br>\r\n<br>\r\nWith your buisness done, you returned to your true form and stretched your arms above your head, yawning slightly. You were still a little tired, but a bit of fun would certainly shake it from your mind. Your tail flicked about as you headed to the exit of your den and stepped outside, looking across the plains around you. Everything within this part of the unknown regions was your domain, though most of the residents did not think of it as such. Suddenly, however, a strange scent caught your nose. You immediatly narrowed your eyes, looking about for the source.</span></div></div>",
+            "created":1220849880,
+            "id":579649,
+            "title":"An intruder?"
+        },
+        "1542":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Kari",
+                "Naga",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of monster are you?</span></div></span></div>",
+            "created":1214802000,
+            "id":550121,
+            "title":"Monster, RAWR! ^-^"
+        },
+        "15421":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Normal",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of Kari?</span></div></span></div>",
+            "created":1214802000,
+            "id":550129,
+            "title":"Kari FTW! (I couldn't resist)"
+        },
+        "154212":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Sand Kari",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>...Here is another one...</span></div></span></div>",
+            "created":1214802000,
+            "id":550130,
+            "title":"Other"
+        },
+        "1542122":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Stone Kari",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>3 left to go....</span></div></span></div>",
+            "created":1214802000,
+            "id":550131,
+            "title":"other"
+        },
+        "15421222":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Hive Kari (real name unknown please tell me!)",
+                "Dark Kari"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last two, pick one!</span></div></span></div>",
+            "created":1214802000,
+            "id":550132,
+            "title":"Other"
+        },
+        "15422":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Normal",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which naga are you?</span></div></span></div>",
+            "created":1214802000,
+            "id":550133,
+            "title":"Nagas!"
+        },
+        "154222":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Red Naga",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here's another one...</span></div></span></div>",
+            "created":1214857920,
+            "id":550134,
+            "title":"Other"
+        },
+        "1542222":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Royal Naga",
+                "Fire Naga"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last two....</span></div></span></div>",
+            "created":1214857980,
+            "id":550135,
+            "title":"Other"
+        },
+        "15423":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Yes",
+                "No way!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about.... a Harpy or one of it's recolors?</span></div></span></div>",
+            "created":1214802000,
+            "id":550122,
+            "title":"You are a different monster?"
+        },
+        "154231":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Yes",
+                "One of the others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a harpy or not?</span></div></span></div>",
+            "created":1214802000,
+            "id":550126,
+            "title":"Harpy or recolor?"
+        },
+        "1542312":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Groaning Bird",
+                "Fire Strife"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a Groaning Bird or a Fire Strife?</span></div></span></div>",
+            "created":1214802000,
+            "id":550127,
+            "title":"One of the others"
+        },
+        "154232":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "OK",
+                "No way!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a shape-shifter? </span></div></span></div>",
+            "created":1214802000,
+            "id":550123,
+            "title":"First non-RPG monster!"
+        },
+        "1542322":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Yes ",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a centauress or one of it's recolors?</span></div></span></div>",
+            "created":1214802000,
+            "id":550124,
+            "title":"More"
+        },
+        "15423221":{
+            "author_id":"snorlaxkid",
+            "author_name":"Reddmon",
+            "choices":[
+                "Centauress",
+                "Dark Mare"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you a Centauress or a Dark Mare?</span></div></span></div>",
+            "created":1214802000,
+            "id":550125,
+            "title":"Which one?"
+        }
+    },
+    "info":{
+        "author_id":"snorlaxkid",
+        "author_name":"Reddmon",
+        "brief_description":"Credit for idea goes to the great RPG maker Duamutef!",
+        "created":1214856480,
+        "description":"<td align=\"left\" class=\"norm\">This interactive takes place in the world of Duamutef's Glorious Vore RPG, except 50 years later on. Male characters are allowed this time! Note: Some classes are only available to a specific gender.<br>\r\n<br>\r\nRules:<br>\r\n-Game clans and world must be kept intact, but the Unknown Regions (areas unexplorable in the RPG) are free to be made<br>\r\n-Soft vore is the main topic vore-wise, but cock vore and unbirthing are allowed.<br>\r\n-Feel free to make new towns and clans in the Unkown regions<br>\r\n-Keep areas explorable enviromentally correct (no drastic climate changes, unless areas are from the game)<br>\r\n- Add monsters that don't appear in the RPG as much as you want!<br>\r\n-Feel free to make up your own classes for characters, just leave a description!<br>\r\n-And finally, ADD OFTEN! ^-^<br>\r\n<br>\r\n<br>\r\nClans and Cities Available to begin with:<br>\r\n- The Chosen Clan which starts in the City of Regen (the home city in the RPG)<br>\r\n-The Angelus Clan which starts in the City of Angels<br>\r\n-The Gurglemeister Clan which starts in the City of Wormgut<br>\r\n-The Firebelly Clan which starts in Skinbane City<br>\r\n-The Darkswallow Clan which starts in Blackscourge City<br>\r\n-The Cult which starts in Varrid Temple<br>\r\n-The Demongut Clan which starts in The Demongut Castle (actual name unkown, please tell me!)<br>\r\n<br>\r\nAnother Note: If I mention 'recolors' when talking about monster species I mean ones that are recolors of a monster's sprite in the RPG.</td>",
+        "id":1445332,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1221763860,
+        "modified":1221763860,
+        "pretty_title":"It's A Vorish World..."
+    }
+}

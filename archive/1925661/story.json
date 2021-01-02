@@ -1,0 +1,521 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"darkmaster57",
+            "author_name":"comedy",
+            "choices":[
+                "Animation",
+                "Video games",
+                "Live action",
+                "Original",
+                "Reader's choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>To start, what kind of gt/gts character you want to interact with?</span></div></span></div>",
+            "created":1364187600,
+            "id":1557411,
+            "title":"Choices"
+        },
+        "11":{
+            "author_id":"darkmaster57",
+            "author_name":"comedy",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What sex is the character going to be?</span></div></span></div>",
+            "created":1364187600,
+            "id":1557413,
+            "title":"Animation"
+        },
+        "111":{
+            "author_id":"darkmaster57",
+            "author_name":"comedy",
+            "choices":[
+                "Chris Thorndyke (Sonic X)",
+                "Lan Hikari (Megaman NT Warrior)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ok, now for the options...</span></div></span></div>",
+            "created":1364187600,
+            "id":1557420,
+            "title":"Male"
+        },
+        "1113":{
+            "author_id":"thehobbit101",
+            "author_name":"Bilbo Baggins",
+            "choices":[
+                "Aang (Avatar The Last Airbender)",
+                "Desna (The Legend of Korra)",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Then how about these two?</span></div></span></div>",
+            "created":1508361360,
+            "id":2403253,
+            "title":"Other"
+        },
+        "112":{
+            "author_id":"darkmaster57",
+            "author_name":"comedy",
+            "choices":[
+                "Sakura Haruno (Naruto)",
+                "Lucy Heartfilia (Fairy Tail)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who doesn't love cute girls and their messes,right?</span></div></span></div>",
+            "created":1364187600,
+            "id":1557421,
+            "title":"Female"
+        },
+        "1123":{
+            "choices":[
+                "Chi Chi (Dragon Ball Z)",
+                "Helen Parr (Elasti-girl, Incredibles)",
+                "Francine (American Dad)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices of girls to trap you in their toilet!</span></div></span></div>",
+            "created":1483160400,
+            "id":2257009,
+            "title":"Other"
+        },
+        "11231":{
+            "author_id":"timmysmomsgas",
+            "author_name":"Timmys Mom's Gas",
+            "choices":[
+                "Chi Chi",
+                "Another"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chi Chi or another dragon ball girl?</span></div></span></div>",
+            "created":1532254740,
+            "id":2523245,
+            "title":"Chi Chi (Dragon Ball Z)"
+        },
+        "11233":{
+            "author_id":"thehobbit101",
+            "author_name":"Bilbo Baggins",
+            "choices":[
+                "Continue with Francine (American Dad)",
+                "Other female characters"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There are more fictional female characters then just those three. So lets add more choices to the story.</span></div></span></div>",
+            "created":1548272160,
+            "id":2606478,
+            "title":"Other choices"
+        },
+        "112332":{
+            "author_id":"ridley23",
+            "author_name":"writer49er",
+            "choices":[
+                "Marie Kanker (Ed Edd n Eddy)",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, let\u2019s keep going</span></div></span></div>",
+            "created":1556218500,
+            "id":2650265,
+            "title":"Other female characters"
+        },
+        "12":{
+            "author_id":"darkmaster57",
+            "author_name":"comedy",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now for the sex choice.</span></div></span></div>",
+            "created":1364187600,
+            "id":1557415,
+            "title":"Video games"
+        },
+        "121":{
+            "author_id":"darkmaster57",
+            "author_name":"comedy",
+            "choices":[
+                "Sora (Kingdom Hearts)",
+                "Vyse (Skies of Arcadia)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now for more choices.</span></div></span></div>",
+            "created":1364187600,
+            "id":1557427,
+            "title":"Male"
+        },
+        "122":{
+            "author_id":"darkmaster57",
+            "author_name":"comedy",
+            "choices":[
+                "Fran (Final Fantasy XII)",
+                "Jessica Albert (Dragon Quest VII)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choices,choices,choices.</span></div></span></div>",
+            "created":1364187600,
+            "id":1557429,
+            "title":"Female"
+        },
+        "1223":{
+            "author_id":"benjifish",
+            "author_name":"wiz",
+            "choices":[
+                "Tifa Lockheart (Final Fantasy VII)",
+                "Princess Peach (Mario)",
+                "Samus Aran (Metroid)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So one of these then?</span></div></span></div>",
+            "created":1494392400,
+            "id":2317334,
+            "title":"Other"
+        },
+        "12231":{
+            "author_id":"benjifish",
+            "author_name":"wiz",
+            "choices":[
+                "She drops you into her panties",
+                "She shoves you up her anus"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You were unconscious for some time, and you wake up at Tifa's place. And she has a secret fetish. What does she do?</span></div></span></div>",
+            "created":1494392400,
+            "id":2317335,
+            "title":"Tifa Lockheart (Final Fantasy VII)"
+        },
+        "122312":{
+            "author_id":"benjifish",
+            "author_name":"wiz",
+            "choices":[
+                "A turd comes out",
+                "She practically pees out of her ass"
+            ],
+            "content":"<div class=\"\"><div> <span>Tifa strips completely naked and brings you down by her ass. She then forcefully shoves you up her anus while letting out a sigh of arousal. This clearly turns her on. She then puts her panties back on, lies down, and starts fondling her breasts. Eventually, she starts to masturbate. Every now and then, while you are suffering in her cavernous rectum, Tifa lets out a horrible fart (which is not enough to force you out of her ass.<br>\r\nAfter what seemed like an eternity, you see a brown mass of shit approaching the anus. Tifa then rushes towards the toilet. She pulls down her panties, sits on the toilet and squeezes you out and into the bowl. And then...</span></div></div>",
+            "created":1494392400,
+            "id":2317336,
+            "title":"Tifa's anus "
+        },
+        "13":{
+            "author_id":"darkmaster57",
+            "author_name":"comedy",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Again, what sex?</span></div></span></div>",
+            "created":1364187600,
+            "id":1557416,
+            "title":"Live action"
+        },
+        "131":{
+            "author_id":"darkmaster57",
+            "author_name":"comedy",
+            "choices":[
+                "Max Russo (Wizards of Waverly Place)",
+                "Lanny (Pair of Kings)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now for some boy action.</span></div></span></div>",
+            "created":1364187600,
+            "id":1557425,
+            "title":"Male"
+        },
+        "132":{
+            "author_id":"darkmaster57",
+            "author_name":"comedy",
+            "choices":[
+                "Jessie Prescott (Jessie)",
+                "Lilly Truscott (Hannah Montana)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does this whole choices thing annoying you? I hope so.</span></div></span></div>",
+            "created":1364187600,
+            "id":1557431,
+            "title":"Female"
+        },
+        "1321":{
+            "author_id":"hitman1996",
+            "author_name":"thehitman",
+            "choices":[
+                "she does",
+                "she waits a few hours",
+                "she does it tomorrow after calling emma"
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up on a bed in the penthouse of the Ross family and see that this is Jessie Prescotts room and that she is there staring at you and she is smiling down at you she giggles and says shes going to keep you and put you in her butt does she do it right away</span></div></div>",
+            "created":1481518800,
+            "id":2248860,
+            "title":"Jessie Prescott (Jessie)"
+        },
+        "13211":{
+            "author_id":"bobboob600111",
+            "author_name":"zdfe",
+            "choices":[
+                "Stuck in ass",
+                "Shit out"
+            ],
+            "content":"<div class=\"\"><div> <span>She puts you in her ass and you slide down her<br>\r\nCrack and right next to her anus it reeks but you can't really move as jesses cheeked are squishing you as she moves around you start to get sucked in her anus first your hands go in you start to panic and try to get it out but its only pleasing Jessie and she uses her ass muscles to suck you up eventuly your all the way in<br>\r\nBut do you have to wait a while or dose she god to go</span></div></div>",
+            "created":1490677200,
+            "id":2295925,
+            "title":"she does"
+        },
+        "132112":{
+            "author_id":"bobboob600111",
+            "author_name":"zdfe",
+            "choices":[
+                "Pants",
+                "Toilet"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does she shit you out in her pants or toilet</span></div></span></div>",
+            "created":1490677200,
+            "id":2295926,
+            "title":"Shit out"
+        },
+        "1323":{
+            "choices":[
+                "Rachel Weisz (The Mummy)",
+                "Sigourney Weaver (Alien series, Galaxy Quest)",
+                "Even More Choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options!</span></div></span></div>",
+            "created":1483160400,
+            "id":2257016,
+            "title":"Other"
+        },
+        "13231":{
+            "choices":[
+                "Just farts to start",
+                "Lake of yellow"
+            ],
+            "content":"<div class=\"\"><div> <span>   You wake up floating and trapped in a giant glass bowl with about knee deep water.  As you take stock of your surroundings, you see a huge version of a bedroom all around you.  Its dark outside the window, and the light is on.   The bowl you are trapped in seems to be a re-purposed cheap fish bowl, set by the edge of a giant bed.  By your guess, you are abut three inches tall.  <br>\r\n   \"Oh good, you are awake!\" boomed a British woman's voice from above, followed by a giggle.  You look up and see Rachel Weisz laying over the edge of the bed, staring down at you with a mischevious smile.  \"I caught you staring at my ass during the Premier of my movie!  You would't stop staring! So, since my old slave, um...expired, so when I saw you walking by yourself down that alley after the Premier, I just had to shrink you and bring you home!\"  <br>\r\n   Rachel climbed off the bed and stood, towering over the bowl.  She was wearing a short nightie and white panties.  She crouched down, smiling again.  \"You see, I almost always awake with a quite a need to relieve myself several times a night, and I prefer not to cross the cold floor of my hall to do so.  I'm glad you are awake so I can try you out now, I ate and drank so much today, and haven't been able to, shall we say, 'take a load off' since my last toilet cleaner expired.\"  <br>\r\n   She turns around, showing you her giant ass, straining against the cotton fabric of her panties.  Rachel giggles at your look of horror as she jiggles her ass, her moving feet shaking the water in the bowl you are trapped in.  \"I tend to take really big dumps normally, dear, and I haven't been able to shite in three days!  I almost feel bad for you, but chin up! At least I will feel a few pounds lighter.  Rachel takes off her panties, the abyss of her buttcrack slowly appearing as the cotton was pulled down.  Her ass was as big as a house to you!<br>\r\n   Rachel squats down over the bowl, and the world seems to go dim.  You look up and see her giant shaved pussy and massive ass slowly spread wider and wider as she came down until you saw it...  You were filled with dread as her giant asshole directly hovered over you, each wrinkle and fold of it half as big as you. The hole itself looked big enough to swallow you whole.  It pulsed slightly and her buttcheeks jiggled on either side of the top of the bowl as Rachel giggled above you.<br>\r\n   \"Oh, finally!\" Rachel sighed, \"I can feel it coming little man, are you ready?\"<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1483160400,
+            "id":2257180,
+            "title":"Rachel Weisz (The Mummy)"
+        },
+        "13233":{
+            "choices":[
+                "Eva Mendez ",
+                "More choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices!</span></div></span></div>",
+            "created":1483246800,
+            "id":2257355,
+            "title":"Even More Choices!"
+        },
+        "132332":{
+            "choices":[
+                "Michelle Rodriguez",
+                "More choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices!</span></div></span></div>",
+            "created":1483246800,
+            "id":2257357,
+            "title":"More choices!"
+        },
+        "1323322":{
+            "choices":[
+                "Lucy Lawless",
+                "More choices!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More choices!</span></div></span></div>",
+            "created":1483246800,
+            "id":2257358,
+            "title":"More choices!"
+        },
+        "14":{
+            "author_id":"darkmaster57",
+            "author_name":"comedy",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do i really need to say something on this one?</span></div></span></div>",
+            "created":1364187600,
+            "id":1557418,
+            "title":"Original"
+        },
+        "142":{
+            "choices":[
+                "Feet?",
+                "Fart?",
+                "Toilet?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you pick an 18 year old red head named Shannon what will happen?</span></div></span></div>",
+            "created":1495774800,
+            "id":2325567,
+            "title":"Female"
+        },
+        "1421":{
+            "choices":[
+                "Keeps quiet (shrinks you)",
+                "Screams (soccer team personal foot slave)"
+            ],
+            "content":"<div class=\"\"><div> <span>You find yourself trapped in the girls locker room so you hide in the locker to keep from being in sight and you hear the door open up and a bunch of soccer girl come in. \"God I need new shoes these stink\" Shannon says as she drops the shoes outside of the locker your in you gulp knowing that the one your in might be hers. You find out as she opens the locker to see you and she\u2026</span></div></div>",
+            "created":1495774800,
+            "id":2325569,
+            "title":"Feet?"
+        },
+        "14211":{
+            "choices":[
+                "Try to escape (enrage her)",
+                "Take it "
+            ],
+            "content":"<div class=\"\"><div> <span>she covers you mouth and squeezes your crouch \"no whimpering slave\" Shannon says with an evil grin as you slowly shrink down. \"What did you do to\u2026\" you try to say as she pick you up. \"I just got a new pair of socks\" she says as she puts you in her stinky smelly shoes. \"Alright girls time for practice\" Shannon says giggling and you knew that this wasn't going to be easy</span></div></div>",
+            "created":1495774800,
+            "id":2325570,
+            "title":"Keeps quiet (shrinks you)"
+        },
+        "142112":{
+            "choices":[
+                "She leaves you for others",
+                "Takes you home"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>It was horrible for three bourse you had to endure the smell of Shannon's feet as sweat dropped down on you and made you gag on every small breath of air you got it was unbearable but soon they were heading towards the locker room again</span></div></span></div>",
+            "created":1495774800,
+            "id":2325573,
+            "title":"Take it "
+        },
+        "1423":{
+            "choices":[
+                "Stay in the band room",
+                "Go home with her"
+            ],
+            "content":"<div class=\"\"><div> <span>You were in the band room listening to music and playing on you phone when Shannon walks in being the popular girl she was you knew she was out of your league  especially with her knee high socks she had on and a tight pair of running shorts and her soccer teams jersey on.which is why you were surprised when she walked you to you to talk \"hey word around the school is your into some kinky shit\" she says with a grin. \"Ummmmm I\u2026\" she cuts you of as she sits on your lap sucking your neck \"how about you and me go back to my place\" she grined</span></div></div>",
+            "created":1495774800,
+            "id":2325576,
+            "title":"Toilet?"
+        },
+        "14231":{
+            "choices":[
+                "Loudly farts",
+                "Silently farts bus is oh so deadly "
+            ],
+            "content":"<div class=\"\"><div> <span>I'm sorry but I have to stay here to work on\" she cuts you off again and you start to feal weird and start to shrink down on the seat you were once on now face to face with her vagina. \"That's fine me and the soccer team can use you\" she said grinning as she picked you up and slid u into her black tight panties now trapped between her checks she gave her self a  Wedgy pushing you deeper in \"let me give you a preview of the rest of your life\" she said as she</span></div></div>",
+            "created":1495823340,
+            "id":2325581,
+            "title":"Stay in the band room"
+        },
+        "142312":{
+            "choices":[
+                "No one knows",
+                "Shannon tells them"
+            ],
+            "content":"<div class=\"\"><div> <span>As she silently fart your completely over come with the smell of rotting eggs and sewers it was so bad that you were nearly knocked out \"and that was just my warm up\" she giggled and you felt you start to walk into the girls locker room and you hear a stall door open and your putted out of her panties and are facw to face with a toilet \"now it's time for the real fun to being\" she says as he turns you into the only toilet I n the girls locker room. \"Well upen up babe\" she grins as she pulls her pants down and sits down on you stating off with a small steam of piss \"is that yummy? I no I left your  sense of smell and taste as well as you hearing\" she laughed and she finished up \"this ones gunna hurt\" she said as diarrhea filled the bowl which was now your mouth. It was horrible the taste and smells filling the bowl and more and more poured out of her*\"ahhh \" ah yelled \"now I'd love to stay and chat but I think the other girls want to meet you\" she said with a grin as she wiped and flushed making you swollow \" I'd feel bad for you but sucks to suck\" she says with a wink and girls start to flood the locker room.</span></div></div>",
+            "created":1495824180,
+            "id":2325584,
+            "title":"Silently farts bus is oh so deadly "
+        },
+        "15":{
+            "author_id":"1john123",
+            "author_name":"Fun guy ",
+            "choices":[
+                "Slave ",
+                "Mistress ",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You can choose to be the toilet or the one useing it</span></div></span></div>",
+            "created":1496301900,
+            "id":2328960,
+            "title":"Toilet revenge"
+        },
+        "151":{
+            "author_id":"1john123",
+            "author_name":"Fun guy ",
+            "choices":[
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are viewin from the perspective of indigo a loud mouthed girl who talked bad on her ex who is now dating an powerful witch </span></div></span></div>",
+            "created":1496302080,
+            "id":2328961,
+            "title":"Slave "
+        },
+        "1511":{
+            "author_id":"1john123",
+            "author_name":"Fun guy ",
+            "choices":[
+                "Act smug",
+                "Walk away"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you are walking home one day from school you feal good tarnishing the reputation of you ex you smile but as you walk home you see his now current girl friend walk towards you with anger in her eyes it seems as if she know what you did you\u2026</span></div></span></div>",
+            "created":1496302260,
+            "id":2328962,
+            "title":"Next"
+        },
+        "15111":{
+            "author_id":"1john123",
+            "author_name":"Fun guy ",
+            "choices":[
+                "Kendall walks in ",
+                "You hear a party"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Huh look who it is its big asses Kendall\" you say trying to get her angry \"you know I have half a mind to kill you, you pathetic shit head\" Kendall says boiling with anger \" a shit head yes that all I am to everyone just a big shit head\" you laugh thinking how childish is was for her to say that . \"Fuck you\" Kendall yes in anger as she throws a fist knocking you out cold. You wake up hours later in a bathroom tied down in a kneeling position with you head up and unable to close you jaw only able to chew from some sort of Magic. \"What the hell is happening\" you say almost inaudible from the magic messing with you jaw.</span></div></div>",
+            "created":1496302620,
+            "id":2328964,
+            "title":"Act smug"
+        },
+        "151111":{
+            "author_id":"1john123",
+            "author_name":"Fun guy ",
+            "choices":[
+                "She farts",
+                "She takes her pants off"
+            ],
+            "content":"<div class=\"\"><div> <span>A loud burp is head as Kendall walks in giggling holding a large bag with food from several stores \"glad to see my toilet is away, great timeing since I just brought home food for myself but don't worry I'll save some for you\" she says with a large grin, you become so terrified you are unable to talk or move which wouldn't of mattered as Kendall sat on your face with a heavy thud her tight yoga pants covering your face as your small body had to hold her 230 pounds of weight alone. \"Hope you don't mind if I have a seat\" she says hold back a laugh as she pulls over a table and starts to devour Mexican foo, Japanese food, as well as other fast foods. You can feal her getting heavier with every bite she would take.</span></div></div>",
+            "created":1496303100,
+            "id":2328965,
+            "title":"Kendall walks in "
+        },
+        "1511111":{
+            "author_id":"1john123",
+            "author_name":"Fun guy ",
+            "choices":[
+                "She ready to blow",
+                "Her boyfriend comes in"
+            ],
+            "content":"<div class=\"\"><div> <span>You think to your self that this isn't that bad anyway being party lesbian you are and she did have a nice ass until Kendall leaned over to the right, at first you thought this was her being nice to you. That thought ran away quickly as Kendall let off a silent deadly fart that plunged deep inside of you nose causeing all senses to free only focusing on the smell of the gas. You could taste it as well it tasted like pure shit log my that has to suck *coughs* whoa that stinks bad....well time for a laxative\" Kendall says laughing \"no please\" you say in broken English \"never shit head\" Kendall says siting back down on your face trapping you with the sent of her gas as you hear her take her laxatives. \"Ah the whole bottle should be nice\" she says chugging down the entire bottle. After of few minutes of silence and some taps on a phone from Kendall you hear a sounds that chills you to your bones.</span></div></div>",
+            "created":1496303640,
+            "id":2328971,
+            "title":"She farts"
+        },
+        "15111111":{
+            "author_id":"1john123",
+            "author_name":"Fun guy ",
+            "choices":[
+                "Has to shit more ",
+                "Has to pee"
+            ],
+            "content":"<div class=\"\"><div> <span>Kendall start to tremble as the slides her yoga pants completely off followed by her panties and she plants her ass directly on you face with her asshole right in your mouth \"hear comes round number one\" she says sounds strained. You hear loins grunts and the a large liquid flow of hot Nasty diarrhea flows out from her ass and pours into your mouth filling up quickly causing you to chock but then swollow. It was unbelievable the taste was like cleaning a sewer with only your toung and the smell was that of pure shit as she continued unloading into your mouth causeing you to swollow three mouthfuls before she stopped to fart. \"Hows that taste shit head\" Kendall says grinning your try to scream for help but all that is hear is gurgling as Kendall begins another assault from her behind causeing you to become nauseous but the smell was so bad it wakes you up every time to become close to passing out.</span></div></div>",
+            "created":1496304360,
+            "id":2328975,
+            "title":"She ready to blow"
+        },
+        "151111111":{
+            "author_id":"1john123",
+            "author_name":"Fun guy ",
+            "choices":[
+                "Give in ",
+                "Stay smug"
+            ],
+            "content":"<div class=\"\"><div> <span>Slowly over time her waste becomes more solid causeing you to chew to survive as you cling to life as your body becomes filled with her waste. \"Won't be long until you nothing shit stain\" Kendall says laughing. But after eight hours of continuous shitting Kendall gets off your face hoping into the shower to clean off but then shortly comes out. \"I'll give you one of two options admit defeat and I'll keep you alive, but say smug and I'll kill you right now\" she says firmly and you no it's not going to be pretty\u2026</span></div></div>",
+            "created":1496304720,
+            "id":2328979,
+            "title":"Has to shit more "
+        },
+        "1511111111":{
+            "author_id":"1john123",
+            "author_name":"Fun guy ",
+            "choices":[
+                "Try to escape ",
+                "Beg for mercy "
+            ],
+            "content":"<div class=\"\"><div> <span>I give in you announce\"  she smiles as you start to shrink \"good now I can wear you all day in my panties\" Kendall places you into her large rump and crushes you by sitting down on her bed saying \"goodnight\u2026 oh by the way I have really bad night gas so enjoy the Dutch oven down there\" you gulp as you hear her roll over tripping you under her ass. Every minute she would fart some silent other loudly but all were dealy the covers were so tight not one bit of gas was lost until the morning. As Kendall woke she stretched causing you to fall deeper into her ass and she let one rip that outshined all the overs combined. \"Sucks to be you slave\" she says belittling you.</span></div></div>",
+            "created":1496305320,
+            "id":2328981,
+            "title":"Give in "
+        }
+    },
+    "info":{
+        "author_id":"darkmaster57",
+        "author_name":"comedy",
+        "brief_description":"U're shrunk and everyone wants to stick you in their behinds.",
+        "created":1364219520,
+        "description":"<td align=\"left\" class=\"norm\">Thhe only things allowed are farting,pooping(in pants or in toilet) and anal play(no vore).dick is allowed ,but the main focus is the ass.</td>",
+        "id":1925661,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1556218500,
+        "modified":1556218500,
+        "pretty_title":"Toilet GTS/GT interactive fiction"
+    }
+}

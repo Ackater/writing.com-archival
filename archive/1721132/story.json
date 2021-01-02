@@ -1,0 +1,791 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Mora",
+                "Rachael",
+                "Taffy",
+                "Sarah",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Time to choose who will be changing this time...</span></div></span></div>",
+            "created":1288587600,
+            "id":984756,
+            "title":"Select a character"
+        },
+        "11":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Werewolf",
+                "Vampire",
+                "Infected",
+                "Blob",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You've chosen Mora? Seems like an obvious yet pleasing pick, her already being the main character!<br>\r\n<br>\r\nSo, what will she become?</span></div></span></div>",
+            "created":1288587600,
+            "id":984773,
+            "title":"Mora"
+        },
+        "113":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Boomer",
+                "Tank",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Infected seems like the better choice for Mora to become?</span></div></span></div>",
+            "created":1295566560,
+            "id":1039049,
+            "title":"Infected"
+        },
+        "115":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Kaiju",
+                "Lamia",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would you prefer something from this set?</span></div></span></div>",
+            "created":1288587600,
+            "id":984796,
+            "title":"Others"
+        },
+        "1153":{
+            "choices":[
+                "Dragon",
+                " Gargoyle",
+                "others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>how about these ?</span></div></span></div>",
+            "created":1375825800,
+            "id":1641606,
+            "title":"More choices"
+        },
+        "12":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Werewolf",
+                "Vampire",
+                "Infected",
+                "Kaiju",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, the victim will be Rachael? Excellent choice!<br>\r\n<br>\r\nWhat will she become?</span></div></span></div>",
+            "created":1288587600,
+            "id":984769,
+            "title":"Rachael"
+        },
+        "123":{
+            "author_id":"foxclox",
+            "author_name":"Foxclox",
+            "choices":[
+                "Hunter",
+                "Smoker",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Infected will she be?</span></div></span></div>",
+            "created":1289365200,
+            "id":991072,
+            "title":"Infected"
+        },
+        "1231":{
+            "author_id":"foxclox",
+            "author_name":"Foxclox",
+            "choices":[
+                "Students: Shin, Pepper-Ann, Ann, Traci",
+                "Ruffians: Davin, Angel, Tiare, Vixy",
+                "Different kind of group(s)."
+            ],
+            "content":"<div class=\"\"><div> <span>What was once thought to be only to be another overrated form of influenza transformed into a pandemic that has rocked the very foundation of the once thriving Prime society. The great calamity had not only shocked the world even though the Infection was safely isolated within the Prime continent. It was quickly decided for many of the capable nations such as the US, Canada, Russia, the UK, and Israel to form a coalition force to confront the plague and save anyone who are still alive.<br>\r\n<br>\r\nFar from the metropolitan areas of Gossamer, one would think that living in the outskirts would be much safer than the crowded city but in a sick twist of irony it is the country side that received the biggest brunt of the Infection when former survivors who tried to escape to safety only to turn into zombies and started attacking the locals. One farm in peculiar has suffered it's one massacre by one of its own tenants, a cat woman who turned into one of the infamous 'Hunters' has mercilessly slaughtered the other residents regardless of they were once like family. There are rumors about this one feline predator that identify it from the rest of the infected, not because of the Hunter's unique method of targeting her prey but because there is always a blonde lock of hair stuck between her fanged teeth.<br>\r\n<br>\r\nThe Hunter has trekked towards the chaotic streets of Gossamer to find new prey and surely enough she has found one group of survivors in peculiar who are on their way to a military checkpoint. Knowing only to kill, the shadowy demoness crept around them until the right moment to strike. But fate may something else in store for the both of them. Nevertheless, the Hunter begins to seek to commit violent murder upon the group of...</span></div></div>",
+            "created":1289365200,
+            "id":991084,
+            "title":"Hunter"
+        },
+        "1233":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Tank",
+                "Witch",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps one of these is more fitting?</span></div></span></div>",
+            "created":1289365200,
+            "id":991073,
+            "title":"Other"
+        },
+        "12333":{
+            "author_id":"foxclox",
+            "author_name":"Foxclox",
+            "choices":[
+                "Boomer",
+                "Next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this one?</span></div></span></div>",
+            "created":1289365200,
+            "id":991075,
+            "title":"More"
+        },
+        "123332":{
+            "author_id":"foxclox",
+            "author_name":"Foxclox",
+            "choices":[
+                "Charger",
+                "Last two"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>No, how about this one?</span></div></span></div>",
+            "created":1289365200,
+            "id":991076,
+            "title":"Next"
+        },
+        "1233322":{
+            "author_id":"foxclox",
+            "author_name":"Foxclox",
+            "choices":[
+                "Spitter",
+                "Jockey"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last choices!</span></div></span></div>",
+            "created":1289365200,
+            "id":991077,
+            "title":"Last two"
+        },
+        "124":{
+            "author_id":"director714",
+            "author_name":"wowee",
+            "choices":[
+                "Toxic Waste",
+                "Technological misshap",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So how does Rachael transform into a huge Kaiju beast?<br>\r\n<br>\r\nCould it be because toxic waste.<br>\r\n<br>\r\nMaybe some sort of nano-cell mishap?<br>\r\n<br>\r\nOr something else completely?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1291438800,
+            "id":1008139,
+            "title":"Kaiju Rachael, but how?"
+        },
+        "1241":{
+            "author_id":"director714",
+            "author_name":"wowee",
+            "choices":[
+                "Rachael stumbles upon the waste while jogging",
+                "Someone else finds the waste.",
+                "No one finds it yet, and Alej's plan goes according to plan"
+            ],
+            "content":"<div class=\"\"><div> <span>It was late at night when our story began, and a small commotion was taking place on the farthest and most desolate part of the Las Lindas ranch. A small unlabeled van parked itself at the piece of land, and three figures exited the vehicle all were in protective haz-mat suits.  One slid the van\u2019s door open, to reveal several yellow drums bearing a hazards material sign. As the first shadowy figure began pulling the drums out, the second figure spoke quietly to it.<br>\r\n<br>\r\n\u201cYou are to say nothing about this, understand?\u201d came the unmistakable commanding voice of Alejandra Coldthorn. <br>\r\n<br>\r\n\u201cYes off course\u201d said one of her gruff hired workers in agreement. He knew Alej, ran a tight ship and he was not one to step out of line.<br>\r\n<br>\r\n\u201cYou\u2019d better if you want that bonus we discussed\u201d Alej said back with assent, then making her way to the third, shorter suit wearer.<br>\r\n<br>\r\n\u201cGee boss, I\u2019m like, really sorry, and all this happened.\u201d This time the voice of Tootsie Roswell Alej\u2019s closest assistant, her voice muffled slightly from behind the unrevealing yellow suit. <br>\r\n<br>\r\n\u201cPerish the thought my little lab rat.\u201d Alej said as she placed a welcoming hand on her assistants head. \u201cYour laboratory\u2019s costly mistake may have left me with these barrels of radiation waste on my hands, but it also brought me opportunity. If I plant this stuff here on the Las Lindas ranch, and later just happen to notify the high prime of the high toxicity level of the land, the authorities will have no other recourse then to shut the whole farm down. Taking care of that Mora Linda once and for all\u2026\u201d said Alej now clenching her hands into fists as she said so in a visible act of rage.<br>\r\n<br>\r\n\u201cYour a genius boss!\u201d said an approving Tootsie and as soon as the barrels were buried, and all traces someone had been there were concealed, they took off back towards the company\u2019s headquarters, thrilled to watch their plot unfold. <br>\r\n<br>\r\nThe next morning...<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1291438800,
+            "id":1008142,
+            "title":"Toxic Waste dumping of an evil coroporation."
+        },
+        "12411":{
+            "author_id":"director714",
+            "author_name":"wowee",
+            "choices":[
+                "The toxic waste (She\u2019s going to grow right now!)",
+                "Just a cramp as she had thought (She\u2019s not going Kaiju just yet\u2026)"
+            ],
+            "content":"<div class=\"\"><div> <span>Out for her morning fitness jog Rachel tread her usual route around the Las Linda\u2019s territory taking her all around the farms countryside.  The brisk air filling her lungs as she pushed herself further and further along warmed her body up for the day ahead. Suddenly, as quickly as Rachael\u2019s foot hit the ground, the dirt beneath her gave way and the raven haired cat found herself lying on top of multiple neon yellow colored barrels.<br>\r\n<br>\r\n\u201cWhat the hell is this!\u201d she yelled to no one getting up and brushing the dirt off her clothes. She then noticed one of the lids of the barrels had cracked open slightly and was dripping green oozing slime, and that it had gotten all over her. \u201cWHAT THE HELL!\u201d she angrily yelled again. She\u2019s was going to have to shower right now, and she hadn\u2019t even worked up a real sweat yet. What a terrible morning this had become for her. That worse part was she had to walk all the way back to the ranch which was quite some ways, and covered in this goop she did not feel like walking any more.  In fact she felt kind of funny like her legs were getting warm, although that could just be a cramp or bruise developing in her calves after her sharp tumble. <br>\r\n<br>\r\nThe cause of this sensation was...<br>\r\n<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1291438800,
+            "id":1008152,
+            "title":"Rachael stumbles upon the waste, literally "
+        },
+        "124111":{
+            "author_id":"director714",
+            "author_name":"wowee",
+            "choices":[
+                "Right towards the farmhouse! ",
+                "The city of Gossamer and right towards Alej. Corp!"
+            ],
+            "content":"<div class=\"\"><div> <span>\u201cOooaahhhh\u201d Rachael cried as the burning sensation spread throughout her body. \u201cThis is that stupid cow\u2019s fault\u201d she thought as anger built inside of her. \u201cHow could Mora be allowed to run a farm, if she couldn\u2019t keep her property unpolluted of toxic waste?\u201d Her vision was turning black now as anger surged through her body, amplified by the chemical ooze.  The last thought she had now was one of giving a big \u201cFUCK YOU BITCH!\u201d or \u201cI QUIT!\u201d to her unfair boss, when she felt something take over her: rage! <br>\r\n<br>\r\nAs the feelings of rage swept through her body it became transformed by it.  Her bones moved and twisted spurned on by her hate, shooting the cat to two hundred feet high, her paws ballooning out to train size as her clothes were instantly ripped to shreds. Her hair lengthened growing enormously long, turning to rock hard manes of death. Her tail transmogrified as well growing into a hard spiky appendage behind Rachael completing the Kaiju transformation.  Rachael gave a roar of power when the change finished, losing some self-control as fury began taking over her body. <br>\r\n<br>\r\nElsewhere Mora Linda had been out early surveying the land that morning. It had been a clam morning, and the crops were growing beautifully, Mora made sure to make a mental note that the harvest season was coming soon. As she did so, a large black cloud seemed to have blocked the early sun from her view. Squinting at it she realized it wasn\u2019t a cloud, but a giant monstrous creature. One that also sort of looked like Rachael...No it<u> was </u>her!<br>\r\n<br>\r\n\u201cMoooooorrrrrrraaaaaaaaaa!\u201d said Rachael dragging out each syllable in a thunderous tone. She spotted the cow easily from her new height and made one crashing step towards the insignificant looking cow .Mora started to run from the colossus but was no match for the giantess great steps, each one leaving a deep crater of a footprint in the ground below her.  A spiny tail thrashed and thrashed as she approached the bossy the once bossy bovine.  The tail again whipped around the beast this time inadvertently hitting Mora and sent the cow flying far away and into a bundle of hay, only slightly stifling her plummet as she landed. <br>\r\n<br>\r\nHaving now lost the object of her rage when it had been within her grasp, made the cat beast even angrier than before.  Thoughts of wrath uncontrollably raged across her mind thoughts like: \u201cIt\u2019s not fair!\u201d \u201cShe always gets off easy!\u201d \u201cMinos is mine you bitch!\u201d   A burning sensation spread across her once more the rage within her supplying her body with substance to grow further shooting the cat up to a towering height of three hundred feet.<br>\r\n<br>\r\nThe last thing Mora saw before she blacked out was the giant shadow colored beast as she headed towards\u2026<br>\r\n</span></div></div>",
+            "created":1291525200,
+            "id":1008881,
+            "title":"A beast is born."
+        },
+        "1241112":{
+            "author_id":"director714",
+            "author_name":"wowee",
+            "choices":[
+                "Rachael hears Alej out clearly and listens to her idea.",
+                "Rachael knocks Alej aside and wreaks havoc downtown"
+            ],
+            "content":"<div class=\"\"><div> <span>Mora lay on the hay bale staring out of the big farm house she\u2019d crashed into. Glancing outward she saw Rachael\u2019s gigantic body standing high above the farmhouse but then going around it. Mora breathed a sigh of relief before she blacked out; it was a small gift for the cow was that she was headed towards the glowing city of gossamer rather than the Las Linda\u2019s farm. The rest of the house flooded out of the building at the sound of the booming footsteps, finding only massive paw print sunk into the earth, and unaware that Rachael actually was the monster responsible.<br>\r\n<br>\r\nSomehow in her rage binge Rachael remembered the Alej co. logo imprinted on the inside of the toxic waste barrels.  If she couldn\u2019t find one, she would take her rage out on the other one of the two constantly competing cows.<br>\r\n<br>\r\nA little later at the penthouse of the Alej co. building a blond mouse girl started off into the distance with a pair of binoculars.<br>\r\n<br>\r\n\u201cUmm like, boss?\u201d Tootsie said \u201cYou totally, need to take a look at this\u2026.\u201d She said handing her superior the pair of binoculars with her mouth wide open.<br>\r\nAlejandra gazed at the looming black that was Rachael. The huge figure heading straight towards her multistory building looking pissed. \u201cTootsie, ready the car and bring a megaphone.\u201d She commanded, not a trace of fear in her authoritative voice.<br>\r\n<br>\r\n\u201cWait! WHAT!?\u201d Tootsie asked not believing what she\u2019d just heard. <br>\r\n<br>\r\n \u201cShe will not destroy what I\u2019ve worked so hard for! We\u2019re going to have to try and reason with it.\u201d Alej said handing the binoculars back to her assistant.<br>\r\n<br>\r\n\u201cShe boss?\u201d Tootsie asked still shocked by her bosses\u2019 coldness towards the pressing disaster. <br>\r\n<br>\r\n\u201cYes, I meant she! I recognize her from my illegal spying on that mud-hole they call the Las Lindas farm.\u201d<br>\r\n<br>\r\n\u201cShall I ready the Robo-cheese boss?\u201d Tootsie asked as they headed out.<br>\r\n<br>\r\n\u201cNo, let\u2019s hold our fire for now.  I\u2019m going to try and talk to her first; I think I can make this work to our advantage\u2026 We might both want the same goal if I\u2019m not mistaken.\u201d Alej said grinning eager to take any chance presented to her and turn it into her favor.<br>\r\n<br>\r\nAlmost instantly the pair was on their way towards the looming figure.  Arriving some distance in front of the beast Alej, clicked on the megaphone and the electrical device screeched a noise which was loud enough to draw the gigantic creatures\u2019 attention.<br>\r\n<br>\r\nThrough a mega phone Alej made her case to Rachael. \u201cListen, I admit you were an innocent bystander caught in Mora and I\u2019s conflict! But I also know that you weren\u2019t really happy at the farm. I\u2019m asking you to come and work for me, and together we can make the ranch an inconsequential spot underneath our feet.\u201d Alej paused after giving her small speech, which Tootsie instantly applauded. <br>\r\n<br>\r\nRachael looked like she was considering the statement; Alej and Tootsie could only wait for the gargantuan Rachael\u2019s reply.<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1292168640,
+            "id":1013455,
+            "title":"The city of Gossamer and right towards Alej. Corp!"
+        },
+        "12411121":{
+            "author_id":"director714",
+            "author_name":"wowee",
+            "choices":[
+                "Rachael reaches the ranch.\u2026",
+                "Trouble occurs along the way... (The High primes Army?)  "
+            ],
+            "content":"<div class=\"\"><div> <span>Rachael\u2019s mind was clear as she heard Alej\u2019s plan. She did not want to waste this chance for revenge against her boss, and this woman said she could do it.<br>\r\n<br>\r\n\u201cDeal\u201d Rachael said in a roar, but with keeping her emotions under control.<br>\r\n<br>\r\n\u201cSplendid!\u201d said Alej through the megaphone. Then in an aside to Tootsie she whispered, \u201cSee my dear, the enemy of my enemy is my friend.\u201d <br>\r\n<br>\r\nTurning again to the black beast before her, Alej unfurled her scheme. \u201cNow my dear, there is no mistaking it you are big! Very Big! Easily big enough to squash the ranch if you wanted, so big that I knew instantly what had caused your new \u201cchanges!\u201d But I take no chances when it comes to revenge, and I would highly doubt that the high prime for whatever reason would not step in to protect that god awful dump Las Linda\u2019s. So I ask, only ask mind you, that we accelerate your mutation process, getting your cells to full power before they revert back to normal size, making you in turn revert to normal. Now is the time to strike against Mora one and for all. Sound good?\u201d Alej sounded like a commander to Tootsie as she spoke, one of the many reasons she adored her brave and fearless leader.<br>\r\n<br>\r\nThe rage boiled in Rachael\u2019s blood as she thought of the name Mora, if she was going to become an even bigger monster to take care of the bitch then she\u2019d definitely do it! She nodded her head in agreement with the plan.<br>\r\n<br>\r\nAlej signaled for Rachael to follow the vehicle to the storage warehouse of Alej Co. \u201cRight this way!\u201d said Alej, leading them to the supply of toxic waste from the power reactor. Scores of barrels occupied the warehouse, each of them exactly like the ones on the farm, each dripping with bright green ooze.<br>\r\n<br>\r\n\u201cYou\u2019re sure this will work?\u201d Alej asked her scientific subordinate, as the booming paws of Rachael caught up with them. <br>\r\n<br>\r\n\u201cUh\u2026 pretty sure, like I\u2019m 90% sure, maybe 85%.\u201d She said grinning and turning her eyes into squints. Alej had no other recourse though this would have to do. Putting on a smiling face she informed Rachael of how she could power up. Cramming herself into the spacious warehouse the kaiju kitten sat before the barrels and listened intently.<br>\r\n<br>\r\n\u201cNow, Rachael wasn't it? Rachael, my genius assistant here informs me that your fur has toughened so it\u2019s hard plated, meaning hardly anything can penetrate it. So giving your radiation as you encountered it before won\u2019t work. However you\u2019ll be pleased to hear that the other option is radiation internally, and that still remains valid. So all you have to do is down a couple of these barrels, and you should be even larger and in control in no time. By the way when I meant couple I meant couple ten or twenty have to keep things in proportion to your size you know?\u201d she added backing up from the black cat.<br>\r\n<br>\r\nThe beast shrugged and assigned herself to the task as she began helping herself to the barrels, letting the warm radiation flow through her body  which now giving a feeling of fondness for the warmth not a burning sting. Alej and Tootsie watched as the guzzling visibly began affecting the beast.<br>\r\n <br>\r\nInstead of growing taller, this time the radiation served to make her body bulkier. Filling with mass and gaining a slight paunch Rachael continued ingesting the waste, barrels and all. Her body bulged thicker swelling up with new girth at unbelievable rates. As Rachael stomach continued surging outward faster than the rest of her body, Alej realized that to an outsider the beast would now appear quite chubby, but the layer of\u2026whatever it was, served as an impenetrable protective layer from any outside threat. The additional girth that went to Rachael\u2019s gigantic cushy tush also served the purpose of allowing her to be able to crush any opposition against her overstuffed looking booty. That was not all though, as her nails lengthen turning into razor sharp claws built for tearing and shredding anything in their path.  Her teeth sharpened as well much in the same way.  Her eyes changed color to a blood red hue, all of these changes giving Rachael an even more monstrous appearance than before.<br>\r\n<br>\r\nFinishing the last handful of ooze with a resounding burp the weighty beast crawled on her hands and knees outside of the warehouse, where Alej alone greeted her still with megaphone in hand. <br>\r\n<br>\r\n\u201cTootsie has elected to be our surveillance as we head towards the ranch.\u201d Alej said as she pointed to a lone remote control helicopter in the sky. \u201cI however wish to join you first hand, to witness the end of my rival. If I may\u2026\u201d she said beckoning for Rachael\u2019s hand. Rachael, held out a large palm which Alej, took cover in as her new command post.<br>\r\n  <br>\r\n\u201cOnward!\u201d cried the cow as the two headed towards the Las Lindas ranch where they\u2019d both been earlier that morning, plans of destruction running through their heads.<br>\r\n</span></div></div>",
+            "created":1292172600,
+            "id":1013490,
+            "title":"Hearing her out.."
+        },
+        "125":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Blob",
+                "The Thing",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps one of these?</span></div></span></div>",
+            "created":1288587600,
+            "id":984795,
+            "title":"More"
+        },
+        "13":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Werewolf",
+                "Vampire",
+                "Blob",
+                "Infected",
+                "Next set"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Taffy is your choice? A sweet selection indeed!<br>\r\n<br>\r\nWhat will the beautiful bunny turn into?</span></div></span></div>",
+            "created":1288587600,
+            "id":984775,
+            "title":"Taffy"
+        },
+        "131":{
+            "author_id":"gawayne",
+            "author_name":"DJ Jaxx",
+            "choices":[
+                "Taffy then begins to change",
+                "The next day Digit sees her wounds and heals them, but Taffy starts acting off..",
+                "Taffy dreams & speaks with a girl who looks like herself & the creature (Ria)"
+            ],
+            "content":"<div class=\"\"><div> <span>It was a quiet night out at Gossamer where Taffy was grocery shopping for the Las Lindas residents.<br>\r\n<br>\r\nThe group had run out of fresh food ingredients and Taffy needed to procure more asap, lest Randal make more of his dreaded hot sausage.<br>\r\n<br>\r\nThe bunny girl was walking back when she heard a rustling in the woods. Something was nearby.<br>\r\n<br>\r\n\"Who's there?\" she asked, feeling a bit timid. She looked and noticed a pair of feral eyes on a shadowy figure. It revealed itself in moments.<br>\r\n<br>\r\nIt was a large brown furred wolf of somekind. At first glance one would think it to be a nude wolf Prime, but the creature had a more animalistic body structure, designed to work on either two or four legs despit having handlike paws.<br>\r\n<br>\r\nTaffy was scarred stiff when she saw it, and was going to run when it pounced and bit her shoulder.<br>\r\n<br>\r\n\"Aagh!\" she yelped as she felt the predator's razor sharp fangs. She was afraid of more pain, but it didn't come. Opening her closed eyes Taffy saw te creature retreat back into the woods, toward the serene full moon.<br>\r\n<br>\r\nAfter an hour Taffy got up, finally having gathered herself she ran home forgetting the groceries and went straight to her room.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1309584120,
+            "id":1138733,
+            "title":"Werewolf Taffy"
+        },
+        "1312":{
+            "author_id":"gawayne",
+            "author_name":"DJ Jaxx",
+            "choices":[
+                "She goes for a walk and discovers some odd tendency",
+                "She doesn't like any of her clothes and decided to go for something edgier.",
+                "She gets into an arguement with Rach, leading up to a fight with more changes."
+            ],
+            "content":"<div class=\"\"><div> <span>The next morning after a less than comfortable rest Taffy managed to rise up out of her bed. Despite the fact that her bed was unkempt due to her tossing and turning, the gray bunny decided not to fix it yet. <br>\r\n<br>\r\nInstead she went to brush her teeth and make herself a little more manageable. When she brushed she noticed that a few of her teeth felt different. She touched her teeth with her tongue and discovered that all of her teeth were sharper. Not only that, but when she tried to brush her hair it seemed thicker and less manageable. Even so she managed to style it and went downstairs. She saw all the others and was promptly greeted by Mora.<br>\r\n<br>\r\n\"Hey bun,\" the cow Prime said, that's when she noticed a strange look Taffy's eyes. \"you okay? You don't look so good.\"<br>\r\n<br>\r\n\"Yeah I was attacked by some kind of animal last night when I was getting groceries. I ran all the way back home and collapsed in bed.\"<br>\r\n<br>\r\n\"OMG, are you ok?\" Sarah asked, similar looks of concern were plastered on the faces of the rest of the Las Lindas crew.<br>\r\n<br>\r\n\"I was bitten, the spot's kind of sore...\" Taffy admitted showing the wound. The others gasped, the bite marks were large and deep.<br>\r\n<br>\r\n\"Cripes that had to hurt...We better take Taffy to a doctor.\"<br>\r\n<br>\r\n\"No it's really ok. Digit can fix it.\"<br>\r\n<br>\r\n\"Right.\" the nanozell spirit said before touching the wound. It healed almost fully, but left a noticable scar. \"Weird, that should've disappeared.\"<br>\r\n<br>\r\n\"It's fine hun, it stopped hurting. Now I just need some food.\"<br>\r\n<br>\r\n\"I'll have Miles pick some groceries and fast food up. What do you want?\" Mora asked.<br>\r\n<br>\r\nUsually Taffy would ask for something light or a salad, but when asked one thing came to mind.<br>\r\n<br>\r\n\"Meat...Something with a lot of meat.\"<br>\r\n<br>\r\n\"Meat huh? No prob.\" the redhead then bullied the rogue of LL into fetching the food. In the meantime Taffy...</span></div></div>",
+            "created":1309646160,
+            "id":1139072,
+            "title":"A slightly different flavor of Taffy"
+        },
+        "134":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Witch",
+                "Tank",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Infected will she turn into?</span></div></span></div>",
+            "created":1295566440,
+            "id":1039046,
+            "title":"Infected"
+        },
+        "135":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Kaiju",
+                "The Thing",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of these instead?</span></div></span></div>",
+            "created":1288587600,
+            "id":984794,
+            "title":"Next set"
+        },
+        "14":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Werewolf",
+                "Vampire",
+                "Kaiju",
+                "Infected",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You've chosen Sarah? This should be fun!<br>\r\n<br>\r\nChoose what the kitten will turn into...</span></div></span></div>",
+            "created":1288587600,
+            "id":984771,
+            "title":"Sarah"
+        },
+        "141":{
+            "author_id":"director714",
+            "author_name":"wowee",
+            "choices":[
+                "fainted at the sight of her own blood (Story continues next morning)",
+                "said l feel fine Let's go trick-or-treating! (Change happens that night)",
+                "something else..."
+            ],
+            "content":"<div class=\"\"><div> <span>It was a warm and dark Halloween night and the Las Lindas gang was out trick-or-treating in the outskirts of Gossamer. Sarah dressed in her horde armor led the pack wanting to hurry as fast as she could to the next house in her never ending quest for candy.<br>\r\n<br>\r\nThe next house however lay between a dark patch of forests. Sarah padded the trail fearlessly until she spotted a pair of bright hypnotizing eyes gleaming from within a thicket of trees. She studied the sinister figure that was hiding in the tress on one side of the path. Was it a dog? No it was too big!  Sarah drifted closer and approached the silhouetted creature carefully. Now she was so close she could feel the shadowy beast breathing on her outreached hand.<br>\r\n<br>\r\n\"Sarah stay away from that thing!\" said her protective sister Rachael from within the pack that was a distance behind her, but Sarah wouldn\u2019t dare back down now. If she was going to be a true goblinologist she could never be afraid of larger than normal sized dogs like this. As she veered towards the hunched over beast she took one step too many and frightened whatever it was.  It lurched back then snapped at Sarah\u2019s paw, before retreating off into the darkened forest depths.<br>\r\n<br>\r\n\"OW! It bit me\" Sarah said retracting her hand, and nuzzling the spot where it had been injured.<br>\r\n<br>\r\n\"I told you Sarah! How many times have I told you\u2026\" Rachael started, catching up to her sister, but Rachael quit the lecture at the sight of her little sister\u2019s hand. Sarah studied the paw as a small, tiny red bead of blood formed. \"See it broken skin too\" Rachel said upset at the sight. \"I just hope whatever bit you didn\u2019t have rabies.\" She continued helping her sister up.<br>\r\n<br>\r\nSarah then\u2026</span></div></div>",
+            "created":1288933200,
+            "id":987572,
+            "title":"Who's afraid of a Werewolf?"
+        },
+        "1412":{
+            "author_id":"director714",
+            "author_name":"wowee",
+            "choices":[
+                "This...feels...great! (Sarah remains in control of herself in werewolf form)",
+                "AH-oooooh! she howls (She's gone full werewolf)",
+                "Hungrrrrry... (Sarah is full werewolf) (This path could lead to Vore)"
+            ],
+            "content":"<div class=\"\"><div> <span>\"C\u2019mon, I\u2019m fine Let's go trick-or-treating!!\" Sarah said yanking her hand back from her overprotective sisters paw. It would take an injury ten times the size of this one to stop her from free candy. Rachael and the other ranch members admired Sarah\u2019s tenacious spirit as she continued leading them down the dark trail. Suddenly a silvery moon began to poke out from the clouds bathing the dark forest in its light. Sarah stepped into a patch of the moonlight and that was all that was needed for the transformation to begin. She first marveled at her fur which glittered brightly in the silver light, it shimmered brightly again before turning color and gaining a silvery tone. <br>\r\n<br>\r\n\"Woah\" said Miles bedazzled at the sight, as he and the pack witnessed the start of the transformation.<br>\r\n<br>\r\n\"Guys\u2026\" Sarah turned to face them, a look of worry adorning her face, \"I feel funny\u2026\" she managed to get out before clutching herself and crying out in pain as her entire body was rocked with aches. That\u2019s when she felt her body begin to change. Sarah\u2019s body exploded with muscles, her form lengthening to a lithe lupine form. Her once yellow hair, igniting into beautiful gold colored mane countering her now silver shaded pelt. Her face lengthened as it stretched outwards and gained a snout that sat upon a large set of jaws. But as quickly as the change had started the change was over, and Sarah's form stopped trembling. The others could only stand back and watch not daring to near Sarah after such a wild transformation. Sarah moved first instead, standing up and further pronouncing her full size, the once loose fitting fake armor, now fitting securely against the werewolf's new shapely frame, she turned towards her friends, they could now see her eyes had changed as well. How Sarah\u2019s eyes had turned golden from their once blue hue, and how now they were predatorily gazing back at the group.<br>\r\n<br>\r\n\"Sarah?\" called her sister tearfully trembling. \u201cAre you okay, Sarah? Say something!\"<br>\r\n<br>\r\nSarah seemed to pause after hearing these words, as if she were figuring out what the concept of speech was for the first time. Then she parted her jaws and then came a deeper huskier version of her own voice\u2026</span></div></div>",
+            "created":1288933200,
+            "id":987637,
+            "title":"Were-Sarah"
+        },
+        "14123":{
+            "author_id":"director714",
+            "author_name":"wowee",
+            "choices":[
+                "Of course, leave it to Sarah to be the only werewolf to eat candy",
+                "Nope Sarah's hungry for fresh meat \u201cIt\u2019s vorephing time!\u201d"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hunnngry\u2026.\u201d came the voice from the werewolf before them, sending a wave of panic over the farmhands.  To add to this statement a loud rumbling came from within the kitten, her stomach gurgling in a sign that it was longing for food.<br>\r\n<br>\r\n\u201cGuy\u2019s?\u201d asked Mora \u201cWhat do we do now?\u201d she said as everyone began to fear for their safety.  The whole group now seemed to slowly back away from the recently transformed creature whose glimmering gold eyes glowered towards the group. <br>\r\n<br>\r\nRachael racked her mind for what to do, and suddenly came up with an idea. The older sister now grabbed everyone\u2019s Halloween bags \u201cJust a second, I have an idea!\u201d she explained to the group as shed did so, the others could only sit back and watch what the black cat had planned. Cautiously she approached her enormous \u201clittle\u201d sister and turned the several bags of candy over, spilling the contents onto the ground making piles of sugary sweets and chocolates form in front of the silvery animal.  Backing off Rachael watched intently to see if the offering would appease the beings\u2019 appetite. <br>\r\n<br>\r\nEying the pile of candy in front of her, the former kitten walked towards it striding on all fours.  Sniffing the mound first the werewolf eyes instantly lit up with recognition. Immediately the beast voraciously tore into the sweets wrappers and all disappearing into her vast mouth. The group watched as she scarfed all of their \u201chard earned\u201d candy, getting a horrifying look at the powerful jaws and hunger that lay behind the werewolf\u2019s innocent face. Taking her share of the candy mound <i>and then some</i>, Sarah gorged herself completely on the pile, all of the treats swelling her stomach into a small potbelly as she took in more and more of the confections.<br>\r\n\t<br>\r\nSoon the display of her boundless hunger was finished and Sarah turned from the pile expectantly towards them; a face smeared with chocolate meeting them. \u201cMorrrre!\u201d demanded the voice somewhat still like Sarah\u2019s but much throatier.<br>\r\n<br>\r\n\u201cS.s.see guys?\u201d Rachael started shakily, quietly approaching the beast with a leftover piece of candy and presenting it uneasily. \u201cShe\u2019s not harming anybody, It\u2019s still Sarah in there\u2026\u201d her voice cracking slightly as Sarah used a lengthy tongue to lap the piece from Rachael\u2019s hand and into her powerful jaws. <br>\r\n<br>\r\n\u201cUhhh\u2026Sure hun...\u201d said Taffy joining Rachael by Sarah stroking the beasts\u2019 mane faintly, wanting to believe that the innocent Sarah was still around inside the werewolf before her. Taffy had often come across werewolves in her games of dungeons and dames, but was amazed to have encountered one in real life. \u201cWe just have kept her satisfied until sun up.\u201d she said showing  off her experience with werewolf lore. <br>\r\n<br>\r\n\u201cWell what are we waiting for?\u201d Mora asked the group. \u201cLet\u2019s trick or treat like our lives depend on it!\u201d Mora commanded and the group headed off to gather as much candy as they could.<br>\r\n<br>\r\nDoes the plan work?<br>\r\n<br>\r\n<br>\r\n</span></div></div>",
+            "created":1291525200,
+            "id":1008847,
+            "title":"Hungrrrrry....(possible vore in the futre?)"
+        },
+        "141231":{
+            "author_id":"vocalrvbplayer",
+            "author_name":"Vocal",
+            "choices":[
+                "Actually, Mora just went back to fetch the truck to get Sarah back to the ranch",
+                "Uh oh, those wild Dog's came back, and they're here for the main course!"
+            ],
+            "content":"<div class=\"\"><div> <span>Finally, after spending another few hours of getting candy, Mora and company managed to get enough Halloween candy to prevent being on Sarah the WereCat's menu for a late-night meal, as they watched as Rachel's transformed \"little\" sister viciously chow down on all the Halloween candy that they managed to gather for the second time.<br>\r\n<br>\r\nBut luckily for them, Sarah's stomach got too full from devouring a whole lot of candy, only without the candy sickness. However, as they looked at the food coma-induced werecat, Miles noticed how Sarah wasn't interested on eating him and the others when she ate all of the candy like an animal as he said, \"A werewolf that eats candy? Well, that's something you wouldn't expect to see.\" \"I know, right? It's like she doesn't even want to eat us.\" Taffy replied, as the pink-haired rabbit was curious as to how Sarah wasn't getting sick from eating too much candy, especially how much they just gave her.<br>\r\n<br>\r\nBut as Rachel sat by her transformed sister, Randal became somewhat...concerned for Sarah's current physical condition, looking toward Miles and asked, \"Yeah, but how long will she stay like this?\" Then, after looking at the WereCat that was Sarah, Minos spoke up to the group and answered, \"I don't have all the answers here myself, guys. But right now, I think we should get the truck and haul Sarah back to the...\" <br>\r\n<br>\r\nHowever, just as he was about to finish his sentence, Minos looked to his left and saw that Mora was gone as he said, \"Wait, where's Mora?\" Noticing that the boss of Las Lindas herself was now missing, the group minus Sarah were guessing that either Mora might've headed back to the truck...or those feral dogs that bit Sarah and turned her into what she is now came back for seconds. </span></div></div>",
+            "created":1397956020,
+            "id":1782939,
+            "title":"A Candy-Eating WereCat"
+        },
+        "141232":{
+            "author_id":"director714",
+            "author_name":"wowee",
+            "choices":[
+                "Miles!",
+                "Minos!"
+            ],
+            "content":"<div class=\"\"><div> <span>Uneasily the two girls left the side of Sarah and headed back to the rest of the group.<br>\r\n<br>\r\n\u201cI will stand guard for the group, I believe you two but just to be safe\u201d said Minos to Rachael and Taffy. Minos whose huge body was perfectly built for protection of others continued \u201cWe must wait till sun up, but after that Sarah will be fine.\u201d and because he sounded so confident in his deeply spoken words the rest of the group felt safer.<br>\r\n<br>\r\nUnfortunately Sarah the werewolf did not feel the same way. Still hungry for something a lot more wholesome then candy, she let out a howl of a word. \u201cMMMMMooooorrre\u201d is what she said throatily and charged wildly towards the group. Unable to grab hold of her sister Rachael could only watch Sarah dashing by her.<br>\r\n<br>\r\n\u201cRUN! Cried Idward as the pack shot off down the trail and to the safety of the ranch.<br>\r\n<br>\r\n\u201cWait! Sarah!\u201d Rachael cried trying to control her sister. But Sarah and the rest of the house members had gone out of sight. Running quickly to catch up with the pack, she witnessed Sarah attacking her first victim. Unbelievably the werewolf had somehow managed to swallow whole one of the house members.<br>\r\n<br>\r\nGetting closer she could make out the bottom halve of the figure as Sarah gulped them down it was unmistakably the shape of\u2026<br>\r\n</span></div></div>",
+            "created":1292195040,
+            "id":1013744,
+            "title":"Sarah's hungry for fresh meat."
+        },
+        "1412321":{
+            "author_id":"director714",
+            "author_name":"wowee",
+            "choices":[
+                "Sarah listens to her and spits Miles out\u2026but now he\u2019s been bitten? Uh Oh!",
+                "Sarah continues swallowing Miles down the hatch whole!"
+            ],
+            "content":"<div class=\"\"><div> <span>It was Miles! Rachael could see the black cats hind legs bucking as he struggled in Sarah\u2019s maw. <br>\r\n<br>\r\n\u201cSarah! Sarah put him down now!\u201d Rachael cried, hoping to get her sisters attention. Sarah tilted her head back easing the struggling figure of Miles further down\u2026<br>\r\n<br>\r\n\"No now down your throat! Spit him out!\"<br>\r\n<br>\r\nSarah looked at where the commands were coming from and as Rachael locked eyes with her, she was actually stunned by the feral beauty of the were-wolf/cat. Her fur glinted and flowed about her like fallen snow shining in the silvery moonlight.  Quickly she snapped from the trance the beast, no, her sister had cast upon her and she watched as Sarah made her next move swiftly\u2026<br>\r\n<br>\r\n</span></div></div>",
+            "created":1300052940,
+            "id":1069804,
+            "title":"The First victim of the Werecat"
+        },
+        "142":{
+            "author_id":"ohshc",
+            "author_name":"las moras",
+            "choices":[
+                "Rachel worried over how late she was out.",
+                "Taffy who noticed the marks on her neck.",
+                "Minos who noticed something was different about Sarah."
+            ],
+            "content":"<div class=\"\"><div> <span>Sarah was walking home from the general store having gone into town to grab some milk when she noticed they were starting to run low. However she got distracted, not an unusual occurrence for the flighty kitten, by a red glint in the shadowed alleyway as she walked closer her mind began to fog. She couldn't think about what she was doing as she walked into the alleyway and when she was well into the shadows and out of sight everything went black.<br>\r\n<br>\r\nShe woke up sometime later with a pain in the right side of her neck and an inexplicable thirst. Disoriented and more than a little scared Sarah quickly headed back to the farm.<br>\r\n<br>\r\nWhen she arrived the first person she met was...</span></div></div>",
+            "created":1392620040,
+            "id":1746998,
+            "title":"Vampire"
+        },
+        "144":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Boomer",
+                "Witch",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Infected will she turn into?</span></div></span></div>",
+            "created":1288674000,
+            "id":985648,
+            "title":"Infected"
+        },
+        "1441":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Mora",
+                "Rachael",
+                "Miles"
+            ],
+            "content":"<div class=\"\"><div> <span>Nobody had seen it coming. Continent officials were baffled at where it had come from. It had been months since the first patient had escaped his hospital room and was gunned down, but even that was enough to spread the infection to several others. The Infection was like no other, the stuff of horror movies. It was known to infect nearly any mammal and swiftly kill them, with the excpetion of Primes, reducing them to insane, heavily mutated monsters.<br>\r\n<br>\r\nWith the entire county nearly overrun, citizens were advised to stay indoors, lock themsleves up, avoid contact with anyone who's possibly been infected and wait for help. As the Horde gathers outside, the Infected begin to outnumber the healthy, and the Infection begins to spread to the rest of the continent.<br>\r\n<br>\r\nEven the beloved High Prime had fallen victim, causing a complete collapse of civilization. Businesses were heavily affected by this, and Las Lindas and Alexandria Dairy were not immune to the ill effects of the zombie apocalypse. The latter's CEO soon joined the Infected Horde, as did her assistant. The residents of the former, however, were able to use their dear farm as a safe house of sorts, as it was far enough away from the big city that everyone present believed they were sure to be rescued in time.<br>\r\n<br>\r\nBut now they were running low on supplies, becoming paranoid, and noticing that Sarah wasn't doing too well...<br>\r\n<br>\r\nIdward was getting antsy, spending most of his days by the radio, listening for anything. Nothing but dead air. No further instructions, nothing. Standing up he paced around the room, looking back at the radio, the speakers giving nothing but static.<br>\r\n<br>\r\nHe looked out through the boarded-up windows towards the city. Fire, but he was sure the rioting had stopped, not that this was comforting. Any normal people were likely holed up in their houses like this, with the Infected wandering the street.<br>\r\n<br>\r\nIt was dusk, and lately the countryside had become oddly quiet. Perhaps the wild animals knew better to hang around and fled before the Infection could follow them...?<br>\r\n<br>\r\nHe heard someone open the door behind him. Turning around, his tired eyes saw...</span></div></div>",
+            "created":1288674000,
+            "id":985650,
+            "title":"The Infection"
+        },
+        "14412":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "It's a report on the general state of things",
+                "It's a report detailing the various types of Special Infected"
+            ],
+            "content":"<div class=\"\"><div> <span>Rachael, who had brought Sarah outside for some fresh air. \"She's only gotten worse...\", Rachael whispers to Taffy as she places her sister on the couch. Sarah moans and rubs her belly. \"S-Sis... Taffy... My tummy hurts so bad...\", she sobs, letting out a sickly belch. Taffy stroked Sarah's hair, hugging her. \"It's okay, dear...\", she tried to reassure the young cat, only barely holding together herself. She glanced at Rachael, sighing. \"We're running really low on medicine.\"<br>\r\n<br>\r\n\"I know... Poor Sarah's had that stomach ache for three days now...\", Rachael replied, looking ready to cry, \"I bet it's from all the stress and lack of food...\" Sarah belched again, moaning and taking her hands away from her belly. Rachael and Taffy could see it had suddenly bloated up. Sarah now looked like she was several months pregnant with twins.<br>\r\n<br>\r\n\"Oh God... Sarah...!\", Rachael whimpered, rubbing her little sister's belly. \"Rach, I feel so full...!\", Sarah whined, tears streaming down her cheeks.<br>\r\n<br>\r\n\"Isn't it obvious?!\" Miles was standing in the doorway, looking enraged, \"Sarah's becoming a Boomer, I just know it! You're endangering us all by keeping her here, Rachael! She needs to be kicked out to join the damn Horde or killed right here and now!\" <br>\r\n<br>\r\n\"Goddammit, will you SHUT THE HELL UP!\", Idward yelled, sitting back down by the radio. \"Just... We might miss a broadcast.\", he sighed, lowering his head. The fox had begun to lose hope. \"He hasn't broadcasted in awhile... He... He just overslept, right...? Right?!\" He glanced tearfully at the others. \"The Voice of Survival's still alive, right?!\" He began to cry. While's Sarah's physical health degraded, Idward had become much more mentally unstable. A radio DJ calling himself \"The Voice of Survival\" had broadcasted updates from the city. However, with each passing day, his broadcasts became fewer and fewer with greater lengths between them.<br>\r\n<br>\r\nMiles sat down, sighing and burying his face in his hands. \"Look, I'm one of the last people who wants to say this, but Sarah can't stay...\" Rachael pulled him back up and slapped him. \"I'm not letting you kick Sarah out OR kill her! I... I'm sure she's okay, it's just stress...\"<br>\r\n<br>\r\n\"Y-Yeah...\", Sarah weakly agreed, \"S-Stress...\" She moaned as her gut gurgled loudly, visibly swelling larger by another inch. \"Wh-Where's Rannie...? I want Rannie...\"<br>\r\n<br>\r\n\"He's scouting the area with Minos and Mora. They'll all be back very soon.\", Rachael assured the large-bellied kitten.<br>\r\n<br>\r\nRandal and Mora, having grown up on the farm, knew how to use firearms. Of course, they had never shot at anything more threatening then a hungry coyote or some old cans, and said gun was only a bolt-action hunting rifle. Still, it was better then nothing. They had taken to raiding a roadside store for supplies. The city was a deadzone, though the two had considered venturing to the outskirts if needed.<br>\r\n<br>\r\nTaffy was unsure if they had actually killed or even seen an Infected yet.<br>\r\n<br>\r\nThe radio crackled. Idward's eyes lit up. It was The Voice of Survival. Mora rushed in with Minos and Randal, all three of them looking very pale and frightened. It seemed they had encountered something outside. Before they could say anything, they heard The Voice of Survival speaking and listened in...</span></div></div>",
+            "created":1288674000,
+            "id":985652,
+            "title":"Sick Kitty"
+        },
+        "144122":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Hours later...",
+                "A few days later..."
+            ],
+            "content":"<div class=\"\"><div> <span>The DJ grunted, and various Infected sounds could be heard. \"Sorry I took so long, folks. I needed to run out into the streets. Needed medical supplies. I'll stay with you as long as I can...\" The Voice of Survival sounded grim today. \"Anyway, I snatched some files from an evac center. Seems the government was researching the Infection. First line's golden--\"This is not a form of infleunza.\" No shit.\"<br>\r\n<br>\r\nThe voice stopped for a moment, a few more sounds being heard. \"Sorry, I was giving myself a dose of morphine. I don't know how much longer I have. Anyway, looks like they've kept tabs on the so-called \"Special Infected\". Yeah, they're special alright. Most of you in the city have already seen plenty of normal ones. Believe it or not, that's not as bad as the Infection gets. If you've seen a Special Infected, you'll know what I'm talking about. I already mentioned the Boomers. Well, it gets worse. That crap they're puking up? The normal zombies are attracted to it like fucking flies. Also, they're so full of that stuff, they tend to explode if shot or otherwise shaken up. I don't know if it can infect you. Hell, I don't even know how it spreads. I should be a fuckin' zombie already. But still, if you need to leave your safehouse or hiding place, do so in groups of at least four at all times.\"<br>\r\n<br>\r\nSarah took a moment to speak as the Voice paused again. \"I... I hope I'm not one of them...\"<br>\r\n<br>\r\nThe Voice continued. It was clear that he was using his new medical supplies on himself as he spoke. \"The Hunters are nasty sons of bitches. They don't look too different from normal zombies, but they're faster, stronger, and can leap a good 30 feet to catch you. They pin you down and rip you open with their claws. Unless you've got some buddies with you, it's already too late for you as soon as you hear that thing scream.<br>\r\n<br>\r\nThe ones with the long tongue things are Smokers. Those tumor things emit smoke when punctured. But the smoke seems mostly harmless, or at least no different from tobacco smoke. The bastards use their tongues to grab you. They're VERY fuckin' long and can keep a grown man restrained easily.<br>\r\n<br>\r\nAlso, the Special Infected seem smarter then normal ones. I don't know how smart, but keep your guard up. I'll say it again, be ready for anything.\"<br>\r\n<br>\r\nMora was the next to speak during the torturously long pause. \"Alejandra and Tootsie were in the barn--they were white all over with red eyes and long claws, and they were just sitting there and sobbing...\"<br>\r\n<br>\r\n\"Also, if you ever hear crying, think twice before checking it out.\", The Voice continued, panting. \"They call 'em Wtitches, they're apparently always female, and can be identified by their white hair and long-ass claws. Whatever you do, when you hear one crying, do not fucking try to help her, or do anything to alarm her. They don't actively attack people, but for some reason their strength is superhuman. I saw one with my own eyes. Guy tried to kill her. Emptied his entire clip into the girl. She gutted him before he could finish reloading.\"<br>\r\n<br>\r\nHe paused and sighed. \"If anything, you should feel sorry for them. I think they still have their old memories. That's why they cry all the time... They know they're monsters...\" <br>\r\n <br>\r\nMora sniffled, trying not to cry. \"P-Poor Alej...\" Her thoughts were interrupted by another sickly belch from Sarah as the kitten's belly grew again. \"Wh-Wh... Why is this happening to meeeeeee...?\", Sarah moaned. <br>\r\n <br>\r\nRandal slumped down on the coach, rubbing his eyes as he put the rifle down. \"I wish we could help them...\", he mused hopelessly. The voice continued again. \"We've also got the Charger, that big one with the one huge scabby arm and the crushed face. They're really strong and like to charge at you like a goddamn bull and slam into you, grabbing you before they start slamming you into the pavement. You see one, don't stand around. Then there's the Spitters. The virus did something to there stomachs. They've got big bloated guts, a bit of green tint to their skin, and there jaws are extremely corroded. They can spit up some nasty acid. Stuff burns like a fucking--\"<br>\r\n<br>\r\nThe Voice stopped, his tone suddenly rising, becoming angrier while at the same time sounding like he was in great pain. \"If you get the acid on you, find a way to get it off immediately! Trust me on this!\"<br>\r\n<br>\r\nDigit quietly teleported in, hovering next to Sarah. The kitten looked over at Digit, trying to smile. \"Hi, Digit... Can you rub my tummy? It's so full...\" Digit nodded, smiling back, rubbing Sarah's bloated belly.\"Still not feeling any better, Sarah?\", she asked, knowing the answer. Sarah shakes her head in response to Digit's question. \"No... Still not better... And now my tummy's growing...\" Digit held Sarah close. \"Well... I hope you get better...\"<br>\r\n<br>\r\n\"Next we got Jockeys, hunched monkey-like ones. Don't let the deformed look fool you, they're crafty little bastards. They like to leap onto your back and ride you like a damn horse, and steer you towards shit you're trying to stay away from. Like the Horde, or a dangerous ledge, or a puking Boomer, or a Witch's personal space. And they won't stop fucking laughing.\" The Voice grunted and snarled in revulsion. \"If you've seen the next one, chances are you did the sensible thing and ran the fuck away. If you managed to actually kill it, congrats, you've got the biggest balls in the goddamn world. I'm talking about the Tanks. The virus turned to some people into these massive musclebound gorilla-looking things. They're insanely aggressive, even for zombies, they can throw cars and chunks of pavement like they're made of cardboard, and they can take one hell of beating. If you see one, get to high ground, and start praying it goes away.\"<br>\r\n <br>\r\nRandal whimpers at the description of the Tanks. \"Good lord... And I thought all those other ones were bad...\" Mora nods, sighing. \"We're gonna need alot more guns...\"<br>\r\n<br>\r\nMinos turned to Mora and Randal. \"Are there any gun shops nearby? Maybe we can raid one for ammo and better weapons.\" Mora thought for a moment. \"Hm... Yeah, I think there was one about 10 minutes from here...\" Minos nodded. \"Okay, we'll hit it. We'll need a party though. Mora, Randal? You two know how to use guns, so one or both of you would be preferable.\"<br>\r\n<br>\r\n\"Alright, we'll go with you.\", Mora agreed, \"Miles, you coming with us?\" Miles shrugged and looked around for a weapon. \"Yeah, I guess so. Better than sitting here waiting to die.\"<br>\r\n<br>\r\nSarah mewed in fear and pain as her belly grew again, her breasts swelling with it now, her calves and ankles looking like they were suffering from serious water retention. \"D-Digit, I'm so scared... What if Miles is right about me becoming a Boomer...?\" Digit bit her lip, as she agreed with what Miles had been saying about Sarah being a Boomer. \"Well... Even if you do become one... I'm sure you won't attack us...\", she muttered, her reassurance clearly sounding like she didn't believe herself at all. Sarah yelped as her face suddenly plumped up, grabbing everyone's attention. The kitten now looked very obese. \"Sarah...\", Rachael whimpered, helping Digit rub the white catgirl's massive belly.<br>\r\n<br>\r\nTaffy began to help rub Sarah's belly with Digit and Rachael. \"I'll stay here with Sarah.\", she told the others, \"Idward should stay too. He's in no condition to venture out.\"<br>\r\n<br>\r\n\"We're going to be using melee weapons.\", Minos added, \"Grab something sharp or heavy. We're using that until we can grab some guns.\" Miles grabs a nearby set of golf clubs, chuckling. \"These'll do just fine.\", he says with a grin. He handed one each to Mora, Randal and Minos. \"Alright, let's head on out...\"<br>\r\n<br>\r\nSarah looks over at Taffy, tears flowing more than ever. \"T-Taffy...\", she moans, belching between every few words, \"I don't wanna get any bigger... Don't we have any medicine...?\"<br>\r\n<br>\r\n\"We have some, Sarah. And they'll come back with more medicine soon. I promise.\", Taffy tried reassuring the catgirl. \"Good...\", Sarah sniffled, \"Cause I really, REALLY need medicine...\" Rachael helped the enormous kitten stand up. She, Taffy and Digit immediately noticed what a tremendous ass Sarah had developed along with everything else, the catgirl's shorts almost completely torn open in the back. \"Come on, Sarah, let's get you into your bed...\" Taffy nodded in agreement with Rachael. \"Yeah, some sleep will do you good, Sarah.\"</span></div></div>",
+            "created":1288674000,
+            "id":985669,
+            "title":"Special Infected Report"
+        },
+        "1441222":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Sarah vomits on Taffy",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Over the next couple of days, things didn't get any better, but at least they didn't get worse.<br>\r\n<br>\r\nMora and the others had been able to acquire more guns, food and medicine, and during the walk back from the shop they raided, they had encountered and killed a Charger that they realized with great horror had once been Ambar. As the Voice had promised, Alej and Tootsie never really bothered anyone, aside from the constant loud crying. Speaking of the Voice, he hadn't been heard from in awhile, making Idward all the more paranoid and unstable. Sarah kept growing, now very obviously a Boomer, no one could deny it any longer. But through some miraculous and generous twist of fate, she was able to stay optimistic and hold onto her sane mind, soon getting used to her frequent vomiting, slightly decayed arms, fungus growth and enormous, heavy body. Now everyone just needed to be very careful around her--one bad move and they could become Infected themselves, or cause her to explode...<br>\r\n<br>\r\nTaffy hummed to herself as she cooked that night's meal. Lately it had been a whole lot of spam, but nearly everyone had gotten used to it. Thankfully, Sarah didn't eat anymore, so that meant less food was used up. Digit had done a good job of providing emergency power, enough to cook and keep the occassional light on, though everyone had also gotten used to the constant darkness of the boarded-up farmhouse, and Mora and Randal had taken turns keeping watch, a rifle always nearby.<br>\r\n<br>\r\nAlthough she didn't eat anymore, Sarah was still quite attracted to the smell of the food Taffy was preparing. She waddled into the kitchen, her presence made known by her belching and sloshing. \"Hi, Taffy!\", she giggled, sitting her fat ass down on the floor, legs spread wide to allow room for her gut. She knew she was much too heavy for a chair now. \"What'cha making? More spam?\" She tried to rub her overinflated tummy, but her arms were too fat and short to reach.<br>\r\n<br>\r\nTaffy chuckled. Sarah's sense of smell seemed more potent. \"Yes, more spam.\", she replied, \"It's all the gas station down the road has anymore, according to Mora.\" She turned towards Sarah. \"You holding up alright, sweetie?\"<br>\r\n<br>\r\nThe Infected kitten nodded happily. \"Yep! I only puked four times today!\", she stated proudly, \"And hey, guess what? Digit said I'm so big, I have no bellybutton! Isn't that cute?\" It seemed she had grown to find her new form as adorable as her original one. Taffy couldn't help but smile. The catgirl carefully heaves herself back onto her swollen feet. <br>\r\n<br>\r\nTaffy giggled, walking up and giving the kitten a soft pat on the gut. \"That's excellent, Sarah!\" It was great to see Sarah had remained so cheerful in spite of everything.</span></div></div>",
+            "created":1288674000,
+            "id":985677,
+            "title":"A few days later..."
+        },
+        "14412221":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Meanwhile...",
+                "Stay for the Q&A"
+            ],
+            "content":"<div class=\"\"><div> <span>Sarah suddenly looked sick, making all-too-familiar gurgling noises and belches before suddenly vomiting all over Taffy. The rabbitgirl got covered in Boomer Bile, and the two of them stared in shock at each other for a moment before someone finally spoke up.<br>\r\n<br>\r\n\"O-Oh no... I'm so sorry, Taffy!\", Sarah whimpered, eyes going huge and watery.<br>\r\n<br>\r\nTaffy'e eyes went wide, her mouth agape as she stared back at Sarah in silence, the thick green bile covering her from head to toe, before speaking up after what seemed like hours.<br>\r\n<br>\r\n\"Oh shit...\"<br>\r\n<br>\r\nIt wasn't long before Taffy started showing signs of mutation. It began with her hands, her fingers growing very long and sharp. Everyone knew right away what she was doomed to become. Sarah was ashamed, needless to say, and was afraid to talk to anyone for over an entire day. Taffy found her later on, wanting to talk to her about what was happening...<br>\r\n <br>\r\nTaffy opened the door to the bathroom, sniffling as she looked in the medicine cabinet, hoping to find a nail file. It was long shot, but it could work, she reasoned. She stopped as she noticed Sarah in the shower, sitting on the floor and crying to herself, glancing up and looking at Taffy. \"T-Taffy... I'm so sorry...\", Sarah sobbed, noticing Taffy's fingers. The bunny's hair was now rapidly losing its colour, more of her natural white showing than the cute pink. \"I understand completely if you want me to leave...\" She paused to vomit, adding to the massive load of Bile that had already gathered in a slimy pool around her. Taffy sniffled, rubbing her eyes as she rushed forward and carefully hugged the bloated cat, sobbing. \"It's okay Sarah.\", the bunny reassured, \"You didn't mean to do it.\" <br>\r\n<br>\r\n\"I just can't control when I puke...\", Sarah continued, feeling her flabby bile-inflated body smoosh against Taffy, \"I can't go near anyone else now, what if I puke on them too?\"<br>\r\n<br>\r\n\"Well...\" Taffy paused before she continued. \"...At least I'm sorta Infected now, so...\" She paused again, sniffling and wiping tear away. \"Goddammit, I can't stop crying.\", she mumbled, sounding slightly annoyed. \"So maybe you can stand up for me if anyone treats me different...?\", Sarah asked, calming down as Taffy continued hugging her. Taffy smiled, nodding as she helped Sarah stand up. \"Yes, because we both know that even though we're physically different, we're still the same people.\" She chuckled and managed a somewhat wider smile. \"Besides, it's more my fault I'm Infected then yours. Should've known better then to pat your belly, Bile Bomb!\", she joked.<br>\r\n<br>\r\nSarah giggled and nodded, her face jiggling. \"Yeah, I mean, seriously! I could puke at any moment, and you go and do something like that?\" She reaches up and wipes some tears off of Taffy's face. \"You only have yourself to blame, silly bunny!\" Taffy helped Sarah back to her room as the two continued to laugh, Taffy also draining the tub of Bile {with a bit of difficultlty, thanks to her new set of claws}, the two spending the rest of the night in Sarah's room, Taffy asking Sarah questions on what it was like being Boomer specifically, and an Infected in general.</span></div></div>",
+            "created":1288674000,
+            "id":985695,
+            "title":"A Massive Mistake"
+        },
+        "144122212":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "We first focus on Taffy's chance to satisfy her urge..."
+            ],
+            "content":"<div class=\"\"><div> <span>\"So, what would you like to know?\", the cheerful Boomer kitten asked Taffy, sitting her fat ass down on her bed. \"Well, first I guess I'd like to know what it feels like. You know, to always have enough Bile in your body that you need to puke so much and you're always on the verge of exploding?\", the Witch bunny asked, sitting next to Sarah. \"Well, it felt really painful at first\", Sarah replied, rubbing whatever she can reach of her gut, \"But now I've gotten used to it. I just need to walk carefully and avoid pointy objects. And the puking isn't so bad, really. It helps relieve my tummy.\" She paused for a moment to vomit, covering the Bile-stained floor in a fresh coating. \"Next question!\"<br>\r\n<br>\r\nTaffy chuckled, just now noticing that the entire floor was covered in Sarah's Bile. \"So, the puking is sorta how you prevent yourself from just exploding randomly?\", she theorized. \"Pretty much!\", Sarah giggled, \"So I actually kinda enjoy it, because it's my body's way of keeping me from dying!\" Taffy giggled with her. Even with such a morbid condition, Sarah had kept such a cheerful attitude. \"Also, I've noticed your sense of smell is much stronger since you started mutating. Anything to say on that?\"<br>\r\n<br>\r\n\"Hm... Not really. I've always had good smelling, but maybe being an Infected helped it get even better!\", she chirped in reply, playfully sniffing Taffy. \"You still smell nice!\" Taffy lightly pushed Sarah away, the slight force on her belly causing another loud belch. \"Cut that out!\", she laughed. Sarah laughed as well, belching a few more times. \"Next question!\", she cooed. Taffy stroked her chin with her elongated index finger, thinking for a second.\"Any strange urges?\", she quizzed.<br>\r\n<br>\r\n\"Just the urge to mark whatever's mine with my Bile.\", she answered, getting up to demonstrate. She belched and puked Bile all over one of her stuffed animals. \"Mine!\", she playfully growled, sticking out her flabby tongue. The bunny giggled at Sarah's childish territorialism. \"Cute. But...I kinda have a different urge...\" She blushed. \"I really don't want anyone else to know right now...\"<br>\r\n<br>\r\n\"Tell me!\", Sarah mewed, sitting back down and cuddling her Bile-covered plushie, \"I won't tell anyone else!\" Taffy blushed harder, sniffling as she covered her face bashfully.<br>\r\n<br>\r\n\"I... I want to eat someone...\"<br>\r\n<br>\r\nSarah seemed VERY impressed. \"Ooooh! Taffy, I never knew you were into cannibalism!\", she remarked with a wide grin. Taffy sobbed, chuckling shortly after. \"Shut up! All you want to do is puke on things! I have to deal with the fact someone else looks like lunch to me!\"<br>\r\n<br>\r\n\"Hey, screw you!\", Sarah shot back, still laughing, \"Puking just keeps me alive and doubles as a fun way of letting people know to stay away from my stuff!\" She belched and let out another stream of Bile, rubbing her huge belly's sides. \"Oooh... I have new stretchmarks...\", she cooed, tracing along the deep purple marks with her thick fingers. Taffy leaned back on the bed, running her fingers through her long white hair. \"You're way too adorable for your own good, Sarah. Even as bloated Bile balloon.\"<br>\r\n<br>\r\n\"Y'know what else is great about being so big?\", the kitten giggled, \"I don't need to wear anything. I'm too big for any of my clothes!\" Taffy grinned to herself as she saw a personal benefit of her own. \"I guess I can look forward to not preparing meals now. That's just asking to infect everyone else.\", she mused, realizing she now had alot of free time. \"Right! Besides, I'm sure we'll all be Infected before long!\", Sarah cheered, \"You're finally free to do whatever you want!\"<br>\r\n<br>\r\nSuddenly, Taffy stopped laughing, and although she was still crying, she remained optimstic. \"Hey... We're infected and we're not mindless monsters, right, Sarah?\" She had begun to realize something. \"Yeah, that's right. We're Infected, but we've managed to stay intelligent and sane.\", Sarah replied, apparently realizing the same thing...<br>\r\n<br>\r\n\"Maybe not all Infected are crazed monsters!\", Taffy shouted happily.\"Holy hell! I don't what this means, but holy hell!\" Sarah squealed and jiggled gleefully. \"We can find the sane ones and start civilzation all over again!\", she meowed, belching and puking again in her excitement. Taffy nodded quickly. \"Right! We're going to be fine, Sarah!\" She got up and almost lunged at Sarah, stopping just before reaching her, giggling as she remembered how volatile Sarah's innards had become.<br>\r\n<br>\r\nSarah giggled with her friend, gently hugging her. \"We should help the others become Infected so they can live safely in the new civilization full of them!\", she suggested happily. The smile vanished from Taffy's face. \"You really think that's a great idea, Sarah? I mean, what if they lose their minds?\" Sarah thought for a moment. \"Well... What if getting the Infection from a sane Infected turns people into sane Infected?\", she hypothesizes.<br>\r\n<br>\r\n\"That...could be possible...\", Taffy noted. \"I mean, I'm no doctor, but it could be that there's different strains of the virus and ours doesn't effect mental capacity...\" Taffy recalled the urges. \"...Much.\" Sarah nodded in agreement, standing back up. \"Come on, let's go pursue our urges right now! I'll infect someone to see if we're right, and you can go out and eat someone!\" The bunny grinned rather fiendishly. \"Great... I have the perfect idea of who I wanna eat...\"<br>\r\n<br>\r\n\"Oh? Who is it?\", Sarah asked with a grin equally fiendish. Taffy sniffled, looking towards the window. \"The two crybabies that have been keeping us awake every night...\"<br>\r\n<br>\r\n\"Alej and Tootsie...? Okay, but make sure they aren't like us...\", Sarah replied with a bit of a whimper, \"If they're okay, let them come inside...\" With that, she waddles off to find someone to infect. Taffy got up and left shortly after Sarah, keeping a mental note to check if Alej and Tootsie could be saved. If not? Well, at least it would finally be alot quieter at night...</span></div></div>",
+            "created":1288674000,
+            "id":985856,
+            "title":"Interview With the Infected"
+        },
+        "1441222121":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "She finds the courage to stay and fight",
+                "She runs for her life"
+            ],
+            "content":"<div class=\"\"><div> <span>Taffy went out to the barn, sobbing to herself as she stepped into the sunlight. The light was hurting her eyes, it seemed to be another Witch trait. She opened the barn doors. Rachael's workout equipment was in total ruin from being clawed at and thrown around by Alej and Tootsie, metal and plastic everywhere, the sandbag hanging slashed up and empty above a huge pile of sand. The two noisy Witches sat in the middle of the barn, still crying as always.<br>\r\n<br>\r\nTaffy carefully approached them, still uncontrollably sobbing herself. If Sarah could get used to the puking, she'd have to get used to the constant crying. She looked at Alej first, speaking quietly.\"...Alejandra?\" She hoped the dairy farm CEO would at least recognize her own name. She did, but her reaction was far from pleasant. Her head shot up to glare at Taffy, teeth bared and red eyes glowing as she starts screaming and growling at her. Tootsie does the same. It seems The Voice was right about a Witch's personal space. Now that she was closer to them, Taffy noticed what they were wearing--Tootsie was in her underwear and Alejandra had only the tattered remains of a shirt clinging to her massive breasts. Taffy was starting to figure out herself that Witches seem to experience a constant fever of some kind--maybe this explained Alej and Tootsie's lack of clothing.<br>\r\n<br>\r\nThe couple raised their claws threateningly, their noises growing more intense. Taffy had only a few seconds left to get away from the mouse and cow before they would become startled and move in for the kill...</span></div></div>",
+            "created":1288674000,
+            "id":985867,
+            "title":"Witch Hunt"
+        },
+        "14412221212":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Meanwhile, Sarah has started looking for a test subject..."
+            ],
+            "content":"<div class=\"\"><div> <span>The bunny whimpered, bolting for the door and slamming it shut, closing her eyes as her face met the sun again. Scared out of her mind, Taffy didn't move, her body leaning against the door, the terrified bunny muttering the word \"Fuck\" over and over again for a good 5 minutes. Before long, she heard the couple crying again. She couldn't let this keep going, something had to be done... She was a Witch too, she could easily take them down...<br>\r\n<br>\r\nTaffy groaned, opening the door once again, taking a deep breath before running at them. This would be merciful. She would make it quick and painless, Taffy reassured herself. Once she was close enough, she took a swipe at Alej, aiming right for her neck. Before Alej could react, her throat had been slashed open. She gurgled, trying to scream, choking up blood, then collapsed dead. Tootsie stared at her dead lover for a moment before shrieking and flying into a blind rage, sobbing louder than ever as she began slashing mercilessly at Taffy.<br>\r\n<br>\r\nTaffy leapt back, one of Tootsie's claws taking out a lock of her opponent's hair. Tootsie was slashing wildly, though she was leaving herself open for a counterattack. Taffy lunged forward, attempting to stick her claw into Tootsie, hoping she could deliver the coup de grace before Tootise left her in ribbons. Tootsie gasped, eyes wide and lip quivering as Taffy's claw pierced her chest. Taffy had managed to shove her claw right through the mousegirl's broken heart.<br>\r\n<br>\r\nTaffy winced, sobbing as she realized what she had just done, the mousegirl dying before her. Taffy carefully set the corpse back onto the ground, closing Tootsie's eyes and muttering small prayer for the two, still sobbing as she yanked her claw out. \"I hope you girls find peace...\", she cried, holding herself as she stood back up.<br>\r\n<br>\r\nShe decided to try and eat both of them together while keeping them as intact as possible. It would be difficult, but it would be worth it if it meant Alej and Tootsie could truly find peace together. She arranged their corpses into a loving embrace, the two of them looking like they were merely sleeping after a passionate moment.<br>\r\n<br>\r\nShe then picked them both up, unhinging her jaw. Taffy forced the couple into her mouth, slowly but surely forcing them both down her gullet head-first and snapping her jaw shut once they had settled into her stomach. She sat down on the cold ground, her belly stretched before her, almost eclipsing the bunny herself with its sheer size.<br>\r\n<br>\r\nShe tried to stand up, but her belly was weighing her down. It seemed she would have to wait until the girls digested before she could walk again. Taffy nuzzled her new gut. She felt...comforted by its size. Closing her eyes and sniffling, the Witch bunny settled down for a well-deserved nap...</span></div></div>",
+            "created":1288674000,
+            "id":985905,
+            "title":"She runs for her life"
+        },
+        "144122212121":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "She finds someone else to infect",
+                "She checks up on Taffy's progress"
+            ],
+            "content":"<div class=\"\"><div> <span>Sarah had started looking for a test subject. She decided one of the easiest to go for would be Digit. \"Digit?\", she called, \"Where are you?\" The resident spirit appears in blinding flash of light before Sarah. \"Yes, Sarah?\", she chirped, smiling at the Boomer kitten. \"I was wondering, can nanozell spirits like you become Infected?\", the Infected catgirl asks curiously, grinning and belching. \"I don't really know Sarah.\", Digit replied, \"I kinda doubt it.\"<br>\r\n<br>\r\n\"How about we find out?\" Before Digit could answer, Sarah puked all over Digit, covering her entirely in Bile. Digit leapt back, yelping in surprise. \"Sarah!\", she shrieked at the Boomer kitty. Sarah whimpered a little at her friend's reaction. \"Digit, I need your help with something--Taffy and I need to find out if sane Infected can turn others into sane Infected... If a nanozell spirit can become an Infected, we really need you to become one...\"<br>\r\n<br>\r\n\"Well, you could've asked before puking on me!\", Digit grumbled, crossing her arms. \"I suppose I could modify my nanozell to try and see how the virus behaves... I won't become Infected, but I can see how the virus acts.\" She looked away. \"Could've warned me Sarah...\"<br>\r\n<br>\r\n\"I'm really sorry, Digit...\", Sarah replies, turning away. \"So, how will this modification thing work...?\"<br>\r\n<br>\r\n\"Uh... It'd take too long to explain.\", Digit muttered, embarassed and figuring Sarah wouldn't understand the technobabble anyway. Sarah blinked. \"Oh. Okay then. Let me know how it turns out!\", Sarah giggled, turning and waddling away.</span></div></div>",
+            "created":1288933200,
+            "id":987194,
+            "title":"Meanwhile..."
+        },
+        "1441222121212":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Digit coughing uncontrollably, Mora panicking",
+                "Rachael throwing stuff around and screaming, Randal and Minos trying to calm her"
+            ],
+            "content":"<div class=\"\"><div> <span>Upon opening the barn doors, what Sarah saw would surprise her.<br>\r\n<br>\r\nTaffy was asleep, having now rolled on top of her belly. But the most shocking bit was that Taffy was dry-humping her own massive gut in her sleep. Panting, a look of purest ectasy on her face. With Alej and Tootsie gone, Sarah could only imagine the contents of the belly Taffy was so vigorously humping, moaning a little, claws rubbing the massively bloated gut.<br>\r\n<br>\r\nSarah giggled, blushing and waddling in, deciding she'd watch this for awhile before waking the Witch bunny. Moaning again, Taffy smacked her lips. Clearly she was enjoying her new size, though Sarah was curious as to what Taffy was dreaming about.<br>\r\n<br>\r\nSarah waddled closer to Taffy, stopping to puke on the way there, and gently shook her awake. \"Taffy... Hey, Taffy, wake up...!\", she whispered. The bunny began to wake up, looking around the barn in confusion, before turning red, very embarrassed as she realized what Sarah had just caught her doing. \"Were you...humping yourself, Taffy?\", Sarah asked, blushing and giggling. \"N-No!\", Taffy quickly retorted, rolling backwards onto her rear.<br>\r\n<br>\r\n\"Yes you were!\", the Boomer kitten insisted, \"What were you dreaming about?\"<br>\r\n<br>\r\n\"I'd rather not say.\" Taffy blushed even deeper. \"Come on, you can tell me!\", Sarah cooed playfully, rubbing Taffy's belly, the Witch bunny's meal audibly digesting. \"You told me about your vore urges, you can tell me about this!\"<br>\r\n<br>\r\n\"It was related to precisely that...\" Taffy blushed impossibly deep. \"I was eating insane Infected...\" <br>\r\n <br>\r\nSarah was very interested now, purring as she kept rubbing Taffy's gut. \"Oooh! That's kinda hot, Taffy!\", she giggled, belching between every few words as usual, \"Tell me more! How huge did you get?\"<br>\r\n<br>\r\n\"Oh, shut up!\", Taffy chuckled nervously, \"It's my dream, it's none of your business!\" Sarah pouted and helped Taffy stand up. \"Oh, fine.\", she mewed, \"Let's go back inside, maybe you can tell me later.\" The Boomer kitten helps Taffy waddle back to the house. As soon as they enter, they hear...</span></div></div>",
+            "created":1290229200,
+            "id":997535,
+            "title":"Big-Bellied Bunny"
+        },
+        "14412221212122":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Minos finally manages to calm Rachael",
+                "Taffy and Sarah attempt to help"
+            ],
+            "content":"<div class=\"\"><div> <span>Rachael smashing things up in a nearby room, Randal and Minos attempting to restrain her. The black kitten was screaming and throwing things around for seemingly no reason, having just thrown a small table at Miles, leaving him unconscious.<br>\r\n<br>\r\n\"Rachael, please calm down!\", Randal could be heard whimpering, \"Rachael! Stop!\" Rachael growled in reply, sounding a bit scared herself through her rage. \"I can't help it! I don't know what the fuck is wrong with me!\" Sarah and Taffy ran in to help. \"Sis, what's happening--\"<br>\r\n<br>\r\nSarah interrupted herself with a gasp as she saw her sister. All of Rachael's muscles above the hips had grown considerably larger, her shirt torn wide open in multiple places, and each hand could easily grab and crush her own head. Sarah and Taffy now knew exactly what was happening--Rachael was becoming a Tank, arguably the most dangerous Infected. Even if she did keep her mind, it wouldn't be easy to calm her. Or at least it would be harder than before.</span></div></div>",
+            "created":1290229200,
+            "id":997571,
+            "title":"I find a Rachael Tank in this place..."
+        },
+        "1443":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Hunter",
+                "Smoker",
+                "Next ones"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of these?</span></div></span></div>",
+            "created":1295566320,
+            "id":1039045,
+            "title":"Other"
+        },
+        "14433":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Tank",
+                "Next choice"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would you prefer to see Sarah as a Tank?</span></div></span></div>",
+            "created":1295566500,
+            "id":1039048,
+            "title":"Next ones"
+        },
+        "145":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Blob",
+                "Lamia",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps you'd prefer one of these?</span></div></span></div>",
+            "created":1288587600,
+            "id":984793,
+            "title":"More"
+        },
+        "15":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Minos",
+                "Randal",
+                "Miles",
+                "Idward",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Want one of the guys?</span></div></span></div>",
+            "created":1288587600,
+            "id":984757,
+            "title":"Other"
+        },
+        "151":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Werewolf",
+                "Vampire",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You've chosen Minos? You do have excellent taste!<br>\r\n<br>\r\nChoose how the sexy bull will transform...</span></div></span></div>",
+            "created":1288587600,
+            "id":984782,
+            "title":"Minos"
+        },
+        "1513":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Infected",
+                "Kaiju",
+                "Other again"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of these instead?</span></div></span></div>",
+            "created":1288587600,
+            "id":984783,
+            "title":"Other options"
+        },
+        "152":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Werewolf",
+                "Vampire",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, the victim is Randal? Fabulous!<br>\r\n<br>\r\nChoose the pretty pup's transformation...</span></div></span></div>",
+            "created":1288587600,
+            "id":984764,
+            "title":"Randal"
+        },
+        "1523":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Infected",
+                "The Thing",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>More options...</span></div></span></div>",
+            "created":1288587600,
+            "id":984765,
+            "title":"More"
+        },
+        "15231":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Boomer",
+                "Next option"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Let's begin with the first option of seven...</span></div></span></div>",
+            "created":1295566800,
+            "id":1039055,
+            "title":"Infected"
+        },
+        "15233":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Kaiju",
+                "Still more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would you prefer this?</span></div></span></div>",
+            "created":1288587600,
+            "id":984767,
+            "title":"More mk II"
+        },
+        "153":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Werewolf",
+                "Vampire",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You've selected Miles? Let's see how much this experience changes him!<br>\r\n<br>\r\nChoose what the handsome catboy will become...</span></div></span></div>",
+            "created":1288587600,
+            "id":984779,
+            "title":"Miles"
+        },
+        "1533":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Infected",
+                "Blob",
+                "Make like I'm Britney Spears and gimme more!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of these, perhaps?</span></div></span></div>",
+            "created":1288587600,
+            "id":984781,
+            "title":"More"
+        },
+        "15331":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Hunter",
+                "Next option"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We're down to two options per page, so get ready to click through a number of \"next option\" links if this wasn't your first choice for Miles to become.</span></div></span></div>",
+            "created":1295566680,
+            "id":1039051,
+            "title":"Infected"
+        },
+        "15333":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Kaiju",
+                "Moar!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would you prefer this one?</span></div></span></div>",
+            "created":1288587600,
+            "id":984791,
+            "title":"Make like I'm Britney Spears and gimme more!"
+        },
+        "154":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Werewolf",
+                "Vampire",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You've chosen Idward? A novel choice indeed!<br>\r\n<br>\r\n...<br>\r\n<br>\r\nHe's a writer. It's funny.<br>\r\n<br>\r\nWhat will he become?</span></div></span></div>",
+            "created":1288587600,
+            "id":984777,
+            "title":"Idward"
+        },
+        "1543":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Kaiju",
+                "Infected",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One of these instead?</span></div></span></div>",
+            "created":1288587600,
+            "id":984792,
+            "title":"More choices"
+        },
+        "155":{
+            "author_id":"theswedishelf",
+            "author_name":"TheSwedishElf",
+            "choices":[
+                "Alejandra",
+                "Tootsie",
+                "Digit"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And now the remaining few...</span></div></span></div>",
+            "created":1288587600,
+            "id":984758,
+            "title":"Other again"
+        }
+    },
+    "info":{
+        "author_id":"theswedishelf",
+        "author_name":"TheSwedishElf",
+        "brief_description":"The main characters of Las Lindas get turned into a number of famous monsters.",
+        "created":1288625520,
+        "description":"<td align=\"left\" class=\"norm\">Inspired by the Halloween 2010 comics on the Katbox, this story allows you to turn the main cast of the comic into a variety of famous terrifying icons from movies, games and myth. The choices are as follows:<br>\r\n<br>\r\n- Werewolf<br>\r\n- Vampire<br>\r\n- Infected<br>\r\n- Kaiju<br>\r\n- Lamia<br>\r\n- Blob<br>\r\n- The Thing {in summary, whatever monstrous, gross and terrifying mutations you can think of, caused by alien parasites, in tribute to John Carpenter's film}<br>\r\n- Dragon<br>\r\n<br>\r\nJust about anything goes, the usual rules set for my interactives apply, except the one about no death without restoration. Since this is a horror setting, it's allowed.<br>\r\n<br>\r\nExpansion is definitely allowed as well, along with getting other characters transformed within one character's storyline, but keep the focus on the star, of course.<br>\r\n<br>\r\nWith that said, have fun!</td>",
+        "id":1721132,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1397956020,
+        "modified":1397956020,
+        "pretty_title":"Las Lindas M/F Monster Transformation"
+    }
+}

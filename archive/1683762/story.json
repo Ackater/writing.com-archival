@@ -1,0 +1,589 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Warcraft",
+                "Starcraft"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What world is your Character from?</span></div></span></div>",
+            "created":1277010000,
+            "id":903083,
+            "title":"Warcraft Or Starcraft?"
+        },
+        "11":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "The Alliance",
+                "The Horde",
+                "The Undead",
+                "The Burning Legion",
+                "The Nuteral Races"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is your Allegance towards?</span></div></span></div>",
+            "created":1277010000,
+            "id":903086,
+            "title":"Warcraft"
+        },
+        "111":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Human",
+                "Elf",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your allegance is towards the Alliance. What race are you?</span></div></span></div>",
+            "created":1277269200,
+            "id":904942,
+            "title":"The Alliance"
+        },
+        "1112":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Night Elf",
+                "High Elf",
+                "Half-Human, Half High Elf"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, you're an Elf of some sort. Which type?</span></div></span></div>",
+            "created":1358027040,
+            "id":1507115,
+            "title":"Elf"
+        },
+        "1113":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Dwarf",
+                "Gnome",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other Alliance race could you be?</span></div></span></div>",
+            "created":1277269200,
+            "id":904943,
+            "title":"Other"
+        },
+        "112":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Orc",
+                "Troll",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So your Allegance is towards the Horde. What sort of race are you?</span></div></span></div>",
+            "created":1277269200,
+            "id":904946,
+            "title":"The Horde"
+        },
+        "1123":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Tauren",
+                "Blood Elf",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what other Horde race are you?</span></div></span></div>",
+            "created":1292302800,
+            "id":1015143,
+            "title":"Other"
+        },
+        "11232":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>So, you are one of the sin'dorei, a Blood elf. You've tasted Demonic magic, and you feel the need for more. No one trusts you, people who were once your friends look at you with hate, or fear even. Those with magic in them stay clear of you, even more than others. Merchants increase their prices when you come to their shops. Guards put their hands on their weapons when you come close to them. Surviving takes a mixture of skill, and luck.<br>\r\n<br>\r\nNow, you better tell me what gender you are, or I'll run you through, you demon-lover!</span></div></div>",
+            "created":1292302800,
+            "id":1015171,
+            "title":"Blood Elf"
+        },
+        "112321":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Revan Riverfire",
+                "A Different Blood Elf"
+            ],
+            "content":"<div class=\"\"><div> <span>Do you want to be The following Blood Elf, or another??<br>\r\n<br>\r\nRevan Riverfire<br>\r\nFormer High Elf Ranger<br>\r\nGood with Bow and Sword, and some magic<br>\r\nIs somewhat unique among Blood Elves, as he'll only take the amount of magic he needs to survive, and no more, unless he is being attacked by someone who uses magic themselves. He is like a man in the desert with only one canteen of water, taking small sips to stave off thirst.<br>\r\nHe seeks out others like himself, trying to show to the other races that there is still honor amongst the fallen elves.</span></div></div>",
+            "created":1292302800,
+            "id":1015187,
+            "title":"Who are you?"
+        },
+        "1123211":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "The usual Prices (High)",
+                "The thief follows him in."
+            ],
+            "content":"<div class=\"\"><div> <span>Reven Riverfire stood outside the tavern. It was a seedy-looking place in a dangerous part of town. The blood elf felt something, which caused him to slowly turn his head. There in the alley was someone watching him.<br>\r\n<br>\r\n<i>Just a thief,</i> Revan thought to himself. <i>He'll be dealt with by the local authorities.</i><br>\r\n<br>\r\nTime was, he would of done something, and dispatched the thief himself. But now, if he even touched his bow or sword, at least half the town guard would show up, with their blades at his throat, and arrows pointed at his chest.<br>\r\n<br>\r\nWith a sigh, Revan entered the tavern, hoping that he'd be able to get something to eat, and at least a place to sleep.</span></div></div>",
+            "created":1292821200,
+            "id":1018771,
+            "title":"Revan Riverfire"
+        },
+        "11232111":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "The others make things difficult.",
+                "The woman gives him a chance."
+            ],
+            "content":"<div class=\"\"><div> <span>As Revan walked into the tavern, he felt the eyes of everyone turn to him. Conversations stopped, people held their drinks in their hands, and more than a few pickpockets stilled their hands, just barely touching their targets' money purses or pouches.<br>\r\n<br>\r\n\"What are you lot looking at?\" said the goblin behind the counter. \"If demon-lover's coin be good, he welcome here.\"<br>\r\n<br>\r\nAt this, things were business as usual, conversation resumed, eating and drinking, and so on.<br>\r\n<br>\r\n\"I'm no demon lover,\" Revan muttered as he stepped forward, and walked towards the counter.<br>\r\n<br>\r\n\"So, what do you want?\" the goblin asked.<br>\r\n<br>\r\n\"Some good food, a good drink, and a bed to sleep in,\" Revan said as he put his money pouch on the counter.<br>\r\n<br>\r\n\"How about a woman?\" the goblin asked with a mad grin. \"Might get you one for a nice bargin.\"<br>\r\n<br>\r\nAn elfen woman's face came to Revan's firey green eyes, which caused his lips to turn up slightly. Then, they turned down, into a deep frown.<br>\r\n<br>\r\n\"No thanks on the woman,\" he said with a sigh. \"I couldn't touch another, not after..... it happened.\"<br>\r\n<br>\r\n\"I understand,\" the goblin said with a sigh. \"Lost some of my own family to the Undead.\"<br>\r\n<br>\r\n\"So, how about a trade?\" Revan asked.<br>\r\n<br>\r\n\"What you got?\" the goblin asked, his grin returning. \"And what you want in return?\"<br>\r\n<br>\r\n\"Information, for information.\"<br>\r\n<br>\r\n\"What do you have?\"<br>\r\n<br>\r\n\"The location of a man who is planning to steal from you.\"<br>\r\n<br>\r\n\"What do you want to know?\"<br>\r\n<br>\r\n\"If anyone is doing any hiring for a guard or some such thing.\"<br>\r\n<br>\r\nAt this, the goblin began stroking his face.<br>\r\n<br>\r\n\"Well,\" he said. \"There is a small caravan leaving in the morning. I hear that they are looking for a few guards.\"<br>\r\n<br>\r\n\"And where would they be?\"<br>\r\n<br>\r\n\"They are staying at the <i>Brown Dog</i>. It's the stable on the North end of town. I hear the cargo is something rare.\"<br>\r\n<br>\r\n\"Thank you,\" Revan said as he took a few gold coins out of his pouch. \"Your thief is in the alley across from the tavern.\"<br>\r\n<br>\r\n\"You're welcome, and that will pay for everything.\"<br>\r\n<br>\r\n\"Good,\" Revan said as he turned around. \"I'll be back later for the food and room.\"<br>\r\n<br>\r\nAs Revan walked down the street towards the stable, he saw a few people watching him. One was a human man who was armed with a sword. Another was a male dwarf who was armed with a warhammer. A third was a human woman. She seemed to be the one in charge, if the amulat around her neck was any indication.<br>\r\n<br>\r\n<i>A sorceress from Dalaran,</i> Revan thought. <i>Well, at least getting magic should be easy, if they hire me.</i></span></div></div>",
+            "created":1293944400,
+            "id":1027944,
+            "title":"The usual Prices (High)"
+        },
+        "112321111":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Revan Leaves",
+                "Revan stays."
+            ],
+            "content":"<div class=\"\"><div> <span>However, as Revan stepped towrds the sable, he saw the two men get out their weapons and step in front of the woman.<br>\r\n<br>\r\n\"What are you looking for demon-lover?\" asked the human guard.<br>\r\n<br>\r\n\"I heard there was a job for guard duty,\" Revan said calmly.<br>\r\n<br>\r\n\"Yeah,\" the dwarf said as he took a pipe out of his mouth. \"That's protecting the lady and her stuff from scum like you.\"<br>\r\n<br>\r\nRevan took a closer look at the two men. The human looked young, but his eyes spoke of some experiance fighting, though they mostly said farmer, and that he was scared. The dwarf spoke of experiance, but he seemed to have a lot of anger, more than even most dwarves.<br>\r\n<br>\r\nHe then took another look at the woman. The only magic that radiated from her came from the amulat. It was a latant spell, one for protection.<br>\r\n<br>\r\nHe then took a look at the crates he could see. Most were covered with canvas, but the few he could see had no markings.<br>\r\n<br>\r\n\"So, what are you protecting?\" he asked. \"Weapons? Armor? What?\"<br>\r\n<br>\r\n\"It's none of your business demon lover,\" the dwarf said angerly. \"Now you get going or I'll crush your skull in.\"</span></div></div>",
+            "created":1294030800,
+            "id":1028560,
+            "title":"The others make things difficult."
+        },
+        "1123211111":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "A planned attack on the group",
+                "another job"
+            ],
+            "content":"<div class=\"\"><div> <span>Revan heard some footsteps approaching, as well as the clinking of armor.<br>\r\n<br>\r\n\"Is there a problem here?\" asked a voice with authority. <br>\r\n<br>\r\n\"There's no problem guard,\" Revan said as he turned around to face the person. \"I asked them if they had a job available, but they don't. I was just leaving them anyways.\"<br>\r\n<br>\r\n\"In that case, get moving and don't bother anyone else,\" the guard said, as he twisted his hands around the handle of a spear. \"Otherwise I'll spit you with this, and have your hide roasted- good fire ought to burn the demon out of you.\"<br>\r\n<br>\r\n\"I'm not a demon lover,\" Revan muttered as he walked away. <br>\r\n<br>\r\nTwenty years ago, he'd probably have gotten the job, back when he was a Quel'dorei, or a High Elf. But now, ever since the war against the undead, he'd become a Sin'dorei, or a Blood Elf. This was due to the destruction of the Sunwell, where all High elves got their magic from. But now, most members of that once-glorious race had turned to other sources of magic, especially that of demons. Even those still clung to the High elf way of life had to deal with withdrawal, lest they also turned into Blood elves.<br>\r\n<br>\r\nRevan sighed as he thought about his life. He'd had a wife, a couple of children, with the oldest married, and expecting their first child. Then the Undead came, lead by the Traitor Prince Arthas. He'd been lucky to escape, but the rest hadn't, and he hoped that they were dead, and not among those resurrected to serve the Scourge.<br>\r\n<br>\r\nAs he walked, he heard something about...</span></div></div>",
+            "created":1358024700,
+            "id":1507077,
+            "title":"Walking away and Memories"
+        },
+        "113":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Living member",
+                "Undead member"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So your Allegance is towrds the Undead. Question: Are you a Living member of the Undead, or are you an undead member of the Undead?</span></div></span></div>",
+            "created":1277269200,
+            "id":904949,
+            "title":"The Undead"
+        },
+        "12":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "A Terran",
+                "A Protoss",
+                "A Zerg"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What race are you?</span></div></span></div>",
+            "created":1277010000,
+            "id":903090,
+            "title":"Starcraft"
+        },
+        "121":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Civilian",
+                "Soldier"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you are a member of the Terran/Human race. Are you a civilian or a soldier?</span></div></span></div>",
+            "created":1277269200,
+            "id":904951,
+            "title":"A Terran"
+        },
+        "1211":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your gender?</span></div></span></div>",
+            "created":1277269200,
+            "id":904953,
+            "title":"Civilian"
+        },
+        "1212":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What's your gender?</span></div></span></div>",
+            "created":1277269200,
+            "id":904954,
+            "title":"Soldier"
+        },
+        "12121":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Terran Dominion",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What Terran faction do you serve?</span></div></span></div>",
+            "created":1283576400,
+            "id":950074,
+            "title":"What Faction?"
+        },
+        "121212":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Confederacy Reminats",
+                "Still other factions"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So you don't serve in the Dominion military. Who else is there?</span></div></span></div>",
+            "created":1283576400,
+            "id":950079,
+            "title":"Other Terran Factions"
+        },
+        "1212122":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "UED Reminats",
+                "A Few more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, who else is there?</span></div></span></div>",
+            "created":1283576400,
+            "id":950082,
+            "title":"Still other factions"
+        },
+        "12121221":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Corpral Ryan Richardson",
+                "Other UED soldier"
+            ],
+            "content":"<div class=\"\"><div> <span>So, you're one of those fellas who came all the way from Earth. The defeat and loss of the main Expidition Fleet has cut off all chances of you going back. You and your remaining Squadmates struggle to survive, making due with stolen weapons and vehicals, trying to avoid fighting as much as possible.<br>\r\n<br>\r\nNow, who are you?<br>\r\n<br>\r\nCorpral Ryan Richardson<br>\r\n123th Division, Pegesus Squadran<br>\r\nLeads by example, fights alongside of his men. Tries to make alliances with whatever locals he comes across, at least long enough for his men to heal up and get resupplied.<br>\r\nHas less then 100 men with him.</span></div></div>",
+            "created":1292302800,
+            "id":1015215,
+            "title":"UED Reminats"
+        },
+        "121212212":{
+            "author_id":"hawkfang105",
+            "author_name":"falconclaw105",
+            "choices":[
+                "Commodore Zanderfled and his men",
+                "Yet another UED soldier"
+            ],
+            "content":"<div class=\"\"><div> <span>So you are someone else from Earth who managed to survive in this hostile galaxy are you, <br>\r\n<br>\r\nCommodore Lynen Zanderfeld <br>\r\nWas in placed in charge of the liberated Dominion ship called the Laughing Crow<br>\r\nForced to bail after being damaged from an emergancy hyper-jump made to the planet Bhekar Ro<br>\r\nThe crew is lost and Zanderfeld is old and injured but with his elite squad of three men <br>\r\nHe is much like Admiral Gerard DuGalle on the outside and in manner but he often makes choices in the interest of his men.<br>\r\nHe does not trust protoss of any sort and is very aware that his men are disheartened.<br>\r\nHe does know that big things have happened on Bhekar Ro but of the specifics he does not know (Bhekar Ro's battle is from the book Starcraft #2 Shadow of the Xel'Naga)<br>\r\n<br>\r\nOr are you someone else</span></div></div>",
+            "created":1308027600,
+            "id":1126212,
+            "title":"Other UED soldier"
+        },
+        "1212122121":{
+            "author_id":"hawkfang105",
+            "author_name":"falconclaw105",
+            "choices":[
+                "Find the nearest escape pods",
+                "Head for the Laughing Crow"
+            ],
+            "content":"<div class=\"\"><div> <span>Having been forced into an escape pod by two men in power suits and a low power ghost you notice that the men who brought you here are part of your most elite squad of soldiers without saying a word you nod to them then turn your attention to the P.I.G. fastened to the front of the pod. Its radar shows that another large annommoly is appearing from hyper space. Unable to discern what this other large object is and unable to do anything about it you focus your attention to the whereabouts of your former vessel having been covered in acid and put through an emergency jump has likely put this vessel out of commission at this point in time you don\u2019t even know what planet you are near all that matters is that you know where the Laughing Crow puts down and how many pod make it out of that ship. <br>\r\n<br>\r\nAfter an awful landing your men are forced to help you out of the pod as your left leg doesn't seem to work right. After you are on the ground and all emergancy supplies are collected from the pod you check the P.I.G. for planet side info. You find that you are on the planet of Bhekar Ro. You recall that there was a battle here not too long ago, but thats not important you need to find your men and prepare incase of any zerg pursuit. What do you do now?<br>\r\n<br>\r\nYou saw 9 escape pods launch  a few of which landed not to far away they would not supply many men or supplies and it may take too long to find them to help anyone trapped on the Laughing Crow when it crashed.<br>\r\n<br>\r\nThe Laughing Crow would be a good rendezvous for those who landed in escape pods. You could go there and set up a radar becan but that might draw unwanted visitors.</span></div></div>",
+            "created":1308027600,
+            "id":1126234,
+            "title":"Commodore Zanderfled and his men"
+        },
+        "12121221211":{
+            "author_id":"hawkfang105",
+            "author_name":"falconclaw105",
+            "choices":[
+                "move on to find the ship and rendezvous with your crew",
+                "do something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Having a bum leg and only three men would not be much help for injured crew of an entire battlecruiser so Zanderfeld decides to head towards the nearest crashed escape pod and link up with the soldiers inside. It is not long before the slow moving group runs into the first escape pod using the radar on the P.I.G. There were five men aboard it but only one was wearing any armor and another didn't even have a weapon. They were a sorry lot and two were weeping despite themselves. Zanderfeld knew there wasnt time for this as others could be dieing for every moment they waste. Having been the Commodore of their ship he figured he could use his authority for now to get them to move on but he would have to find a way to increase morale in the long run or there would trouble in his ranks. <br>\r\n<br>\r\nAfter some shouting and giving of orders the five men were on their feet and the unarmed man was given a side arm for the time being. Zanderfeld then decided to send the men to the position to the second nearest escape pods and then give the order to head to the final landing spot of the Laughing Crow. It was lucky that this planet was mainly flat and very lush with only small vegetation. These things showed that first and most importantly the zerg have not infested the planet, and second it showed where the towers of smoke were coming from. Having found the first dropship with no problem was a good thing Zanderfeld decided but to have found it filled with of rank no higher than lance corporal was rather disheartening and created worries about how bad things went in space. They continued to find more escape pods and were heading towards the last two when their radar showed that the large ship they saw earlier was entering orbit. The smoke and clouds prevented Zanderfeld from making out what the ship was so he decided to slip his men and find the escape pods as quickly as possible. Besides that he figured he should start heading for the Crow himself taking one of his men with him.</span></div></div>",
+            "created":1308114000,
+            "id":1126934,
+            "title":"Find the nearest escape pods"
+        },
+        "121212212111":{
+            "author_id":"hawkfang105",
+            "author_name":"falconclaw105",
+            "choices":[
+                "Try to ally with the settlement",
+                "fortify the ship's remains and prepare to defend yourselves"
+            ],
+            "content":"<div class=\"\"><div> <span>\"The ship is not too much farther south of here,\" Zanderfeld remarks dryly before adding, \"Mr.Russel I want you to check the ship that is southwest of here. Lieutenant Solovik you go east to that escape pod. You and any men you retrieve will then move directly to the Crow and prepare for an attack of any kind.\"<br>\r\n\"Right away Sir\" Solovik replied without pause.<br>\r\n\"As you command Commodore,\" Spc Mike Russel said after he registered the order.<br>\r\n\"And you, Sergeant Tolviseki,\" Zanderfeld looked to the remaining soldier, \"need to help me walk. This leg is going to give out on me soon.\"<br>\r\n\"We need to get a medic to look at that for you soon Sir,\" Tolviseki advised.<br>\r\n\"And we will, as soon as the more seriously injured men are looked after,\" Zanderfeld responded curtly.<br>\r\n<br>\r\nBy the time Zanderfeld limped his way to the downed ship the men there had stopped most of the fires and gather much of the supplies that could be salvaged from the wreckage. The ship was badly damaged and would most definitely not fly again anytime soon.<br>\r\n\"I want a roll call done to see how many men we have at our disposal,\" Zanderfeld order his second in command First Lieutenant Kane Tinberum. \"I also want scouts to scour the landscape to see what our standing is, and tell the scouts to attempt to avoid contact with any civilized life. If they do make contact have them look for a truce if that's not possible I want them back here in a timely fashion.\" Zanderfled adds blandly.<br>\r\n<br>\r\nWhen the scouts return that night they bring news on a good sized civilian settlement off to the west about 9 miles. They also say that the large ship seems to be of protoss origin.<br>\r\n<br>\r\nWith eyes focused on the horizon in the direction of the mysterious ship he summons a medic and takes a seat on large piece of wreckage. 'We need help but the people of this planet may not be friendly or if they are they may not be able to withstand an attack from a protoss ship. Then again the Protoss may attack them anyway and they may need our help then and even though we are in tough shape right now they would be better off with help when it comes to battle with the powerful and deadly Protoss.</span></div></div>",
+            "created":1308114000,
+            "id":1127028,
+            "title":"move on to find the ship and rendezvous with yo..."
+        },
+        "1212122121111":{
+            "author_id":"hawkfang105",
+            "author_name":"falconclaw105",
+            "choices":[
+                "Continue on to the town"
+            ],
+            "content":"<div class=\"\"><div> <span>After about fifteen minutes passed Zanderfeld's leg is wrapped and splinted and the roll call is finishing.<br>\r\n\"What are the numbers Lieutenant?\" Zanderfeld asks Kane tiredly.<br>\r\nKane clears his throat and responds, \"We have 32 uninjured men, 54 walking wounded, and 71 men reported missing or dead. We also have 42 <br>\r\nworking sets of CMC Powered Armor, 3 Vultures including Sergeant Fedrick's and one Goliath.\"<br>\r\n\"Hmm I dont like those numbers,\" Zanderfeld mumbles. \"Tell the men to take what they can and make their way to the town and send Sergeant Meliski to make commince negotiations for peace and support,\" He orders Kane. \"Oh and if they are not willing to be civil, send in Mr. Russel to fix that.\"<br>\r\nKane smiled and laughed interally after he replied in the affermative.<br>\r\n\"I will join you at the town tomarrow,\" Zanderfeld said to Kane as he was walking away. Zanderfeld then went into the ship to his personal quarters where he looked at the mess scattered about and he noticed how even his large desk had moved across the room reveiling his safe. He first went to the desk and opened a drawer from which he grabbed a small photo of his wife and daughter whom he knew in his heart he would never see again. Next he went to his safe and opened it to find the old relic of a pistol he was given upon reaching the rank of officer. The pistol which used .45 cal. rounds which were no longer manufactured but there was a small stock of them in the safe. He took both the ammo and the pistol.</span></div></div>",
+            "created":1308442860,
+            "id":1128980,
+            "title":"Try to ally with the settlement"
+        },
+        "12121221211111":{
+            "author_id":"hawkfang105",
+            "author_name":"falconclaw105",
+            "choices":[
+                "Continue to details"
+            ],
+            "content":"<div class=\"\"><div> <span>When Zanderfeld finally made it to the town he found that not only were the people willing to accommodate them but ever since Zanderfeld's men silently exterminated the Dominion occupation in the area earlier that day before they contacted the town. Zanderfeld was always impressed easily by success but the fact that his men had wiped out an entire Dominion Squadron spread out in across a town of a little more then 100.  there were, of course, only a dozen dominion soldiers on this small settlement but the town was liberated none the less. Zanderfeld went to his second to see if he could get details on how the job was done.</span></div></div>",
+            "created":1308715620,
+            "id":1131614,
+            "title":"Continue on to the town"
+        },
+        "121212212111111":{
+            "author_id":"hawkfang105",
+            "author_name":"falconclaw105",
+            "choices":[
+                "Phase Two"
+            ],
+            "content":"<div class=\"\"><div> <span>\"So Lieutenant inform me of your actions here.\" Zanderfeld ordered.<br>\r\n\"Sir I must first inform you there was much guess work and the men met all expectations on this mission.\" Kane started. \"What happened was...(flashback begins)\"<br>\r\n<br>\r\n\"Sir I have spotted eight men on patrol in the town sir,\" Spec Mike Russel was reporting to Kane about 2 mile out of town behind some rocky remains of what used to be a mountain. \"I also found that other then their tower and small compounds this place has no real defenses. I believe we could take it with minimal casualties if we attacked immediately.\"<br>\r\n\"No attacking now would lead to warn the Dominion of our presence. We need to strike quietly and avoid alerting the populace and the dominion.\" Kane explained then turned to the men crowding the area. \"Mick, Cowboy, and Pizza Boy get over here,\" he called to his favorite squad of men, \"Here is the plan we need to follow the details precisely because there will be no second chances. You will need five volunteers. First I want Mike to enter the com room using his cloaking field. Next Mick and two men will move up and using radio contact and your ability to act like a rock watch the guards from the outcropping .5 miles north of town. They will direct the movements of first Cowboy and his man then the movements of Pizza Boy and his guy. The first group will flank the Southwest side and the second the Southeast side. Mike will then bump his transmitter and in case the dominion are able to pick up his transmitter's frequency his signal was be four quick bumps. If you hear only three wait five minutes then I will send in backup on the central force and it is a firefight for the town.\" Kane looked around at his men who either nodded to themselves or stood patiently. He then finished by asking, \"You fuck ups scan me?\"<br>\r\n\"Sir yes sir,\" was the sober response from each man. <br>\r\n\"Good to hear let's get started then,\" Kane ordered as the men moved away.<br>\r\n<br>\r\nMike Russel the only ghost in the squad began his 2 mile run to the town. He was the squad's recon, scout and spy meaning that he was the one of the most crucial members in this mission. If he failed the Dominion would likely be here in a few days and they needed time to recover and orient themselves.  He had to infiltrate not only the town, but also the town\u2019s long range com tower which apparently doubled as a missile turret so that meant once he was in the town his cloaking would be useless and it would require him to sneak in the old fashioned way in broad daylight. The fact that this would be done by day would seem to be stupid or illogical but Kane thought he could do it and he trusted Kane\u2019s judgment and reasoning. The townsfolk were in the mines and fields at this time of day which helped the plan of not frightening the people. As Mike was about .2 miles away from the town a sensor in his suit began warning him that he was detectable by the tower\u2019s radar. Which meant that the guard\u2019s visors would pick him up if they looked at him, there was no alert put out by the tower though and that was because he had taken a route similar to the one he saw a civilian go out. <br>\r\n<br>\r\nOnce he got to the town he decloaked and entered a  building just close enough to the com tower that the scrambler he had brought with him would cover an area just large enough for him to get to the tower cloaked. But he would have to hurry because once the building and anything else the radar could see in the scrambler\u2019s range disappeared a guard would be sent to check the area and if the com man was not dead when the scrambler was found the mission would be a failure. Another added variable would be if the resident came home and found a strange man setting up a radar scrambler in their living room they might be suspicious of an imminent attack.<br>\r\n<br>\r\nHaving the Scrambler set up without issue Mike checked his suits power reserves and connected the scrambler to it\u2019s power source. Moving quickly he cloaked himself and exited the building. He sprinted from the building he used as cover to com tower in a matter of seconds. As he slowed down to enter the door, which was hilariously left open, he drew his knife and his silenced 8mm gauss pistol. Looking into the building he found the com man asleep in the first room. After cracking the man on the back of the head with his pistol, Mike quickly gagged the man with the core of an apple that was laying on the com self and piece of cloth from the man\u2019s own shirt and tied his hands and feet with zip ties he kept with him for things like this. He then sounded the signal to begin phase two.<br>\r\n<br>\r\n</span></div></div>",
+            "created":1313559360,
+            "id":1169793,
+            "title":"Kane's squad, Odin's Wolves"
+        },
+        "1212122121112":{
+            "author_id":"hawkfang105",
+            "author_name":"falconclaw105",
+            "choices":[
+                "The return home"
+            ],
+            "content":"<div class=\"\"><div> <span>After about fifteen minutes passed Zanderfeld's leg is wrapped and splinted and the roll call is finishing.<br>\r\n\"What are the numbers Lieutenant?\" Zanderfeld asks Kane tiredly.<br>\r\nKane clears his throat and responds, \"We have 32 uninjured men, 54 walking wounded, and about 71 men reported missing or dead. We also have 42 <br>\r\nworking sets of CMC Powered Armor, 3 Vultures including Sergeant Fedrick's and one Goliath.\"<br>\r\nZanderfeld sighed and gave Kane the order to get the ship fortified and prepare to defend against an assault.<br>\r\nwith that he entered the ship found the remains of his personal quarters righted his favorite chair against a wall for support and sat. It was not long before he rose looking at the dark trashed room around him he went to his cabinet and opened the drawer inside he found the old picture of his wife and child knowing in his heart he would never see them again he decided that all he had left was to protect his men and instill in them a hope he would never carry.<br>\r\nAfter about twenty minutes he placed the picture in his pocket and went to the small safe he kept in his quarters. He opened the safe and inside he saw as he knew would be there a pistol given to officers of the UED it was a relic and used forty-five cal. ammo which there was a small supply of in the safe. He takes the gun, loads it and holsters it on his hip. He then walks out of his personal quarters and takes supervising his men.<br>\r\nWithin an hour the fortifications are completed and men are posted on watch duty. It takes only a few minutes before the small army of men see hell unfold before them.</span></div></div>",
+            "created":1308200400,
+            "id":1127690,
+            "title":"Fortify the ship's remains and prepare to d..."
+        },
+        "12121221211121":{
+            "author_id":"hawkfang105",
+            "author_name":"falconclaw105",
+            "content":"<div class=\"\"><div> <span>Zanderfeld looks around as the air around him begins to ripple and bend. He and his men are too stunned to say anything when they see a large blue vortex rip through the very essence of time and space in front of them. Men are consumed by this vortex, lifted off of their feet along with the fortifications they stand on. Some decide to fire upon the vortex to no avail. It takes less then a minute before the vortex is gone as quick as it came. No one is willing or able to comment on what just happened most just stand slack jawed staring towards the patches of dirt where their former comrades stood. It only take a few moments before the vortex opens again consuming the rest of the men except the three who stood furthest back. <br>\r\nZanderfeld again looks around this time seeing no indication of his men the men he just swore to himself he would protect. The words \"I have failed\" ran through his mind and he reaches for his gun and put it to his head as he sobs and drops to his knees.<br>\r\nThe vortex opens again grabbing the three the gun fires as they are picked up.<br>\r\n <br>\r\nThe Protoss Commander looks upon the final group of men his lone arbiter brought in. \"The one in the middle seems to have commit suicide,\" he thinks to himself. He then continues to order the death of the final two survivors of the most recent power lusting invaders to this sector.</span></div></div>",
+            "created":1308200400,
+            "id":1127702,
+            "title":"The return home"
+        },
+        "12121222":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Official military",
+                "Backwater militia"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, do you serve in an official military, or are you some backwater militia?</span></div></span></div>",
+            "created":1283576400,
+            "id":950087,
+            "title":"A Few more"
+        },
+        "121212221":{
+            "author_id":"oreo69",
+            "author_name":"oreo69",
+            "choices":[
+                "Sure thing",
+                "Nope- not them."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about being a member of the group lead by James Raynor?</span></div></span></div>",
+            "created":1389661860,
+            "id":1727170,
+            "title":"Raynor's Raiders"
+        },
+        "12122":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Terran Dominion",
+                "Others"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What Faction do you serve?</span></div></span></div>",
+            "created":1283576400,
+            "id":950089,
+            "title":"What Faction?"
+        },
+        "121222":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Confederacy Reminats",
+                "Still other factions"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, What other Terran Factions are there?</span></div></span></div>",
+            "created":1283576400,
+            "id":950095,
+            "title":"Other Terran Factions"
+        },
+        "1212222":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "UED Reminats",
+                "A Few more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else is there?</span></div></span></div>",
+            "created":1283576400,
+            "id":950097,
+            "title":"Still other factions"
+        },
+        "12122221":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Female Soldier 1",
+                "Female Soldier 2+"
+            ],
+            "content":"<div class=\"\"><div> <span>So, you're one of those fellas who came all the way from Earth. The defeat and loss of the main Expidition Fleet has cut off all chances of you going back. You and your remaining Squadmates struggle to survive, making due with stolen weapons and vehicals, trying to avoid fighting as much as possible.<br>\r\n<br>\r\nNow, who are you?</span></div></div>",
+            "created":1294030800,
+            "id":1028493,
+            "title":"UED Reminats"
+        },
+        "121222211":{
+            "choices":[
+                "Do a all out charge and hope for the best...",
+                "Retreat to an old abandon bunker that has military supplies and protection..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Your name is Kate. You and your buddies are stuck on backwater station the Zergs are right at your door step your evac has left you do to Zerg AA fire. What can you do?</span></div></span></div>",
+            "created":1362649980,
+            "id":1545404,
+            "title":"Female Soldier 1"
+        },
+        "1212222111":{
+            "choices":[
+                "Retreat just like my friend said!!",
+                "Carry my fallen comrade to safety if there is any..."
+            ],
+            "content":"<div class=\"\"><div> <span>\"Kate!!! We are outnumber and nearly out of ammo!!!\" Says one of your close friends. \"We have to retreat before we are surrounded-!!\" And hydarlisk arrow pierced your friend's skull... You shoot up the beast and go to you fallen comrade... What do you do now?</span></div></div>",
+            "created":1362650700,
+            "id":1545410,
+            "title":"Do a all out charge and hope for the best..."
+        },
+        "12122222":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF Is 31 on 6/3/20",
+            "choices":[
+                "Official military",
+                "Backwater militia"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, do you serve in an official military, or a backwater militia?</span></div></span></div>",
+            "created":1283576400,
+            "id":950099,
+            "title":"A Few more"
+        },
+        "123":{
+            "choices":[
+                "Fighting",
+                "Overlord",
+                "Civilian"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of Zerg?</span></div></span></div>",
+            "created":1283835600,
+            "id":952017,
+            "title":"A Zerg"
+        },
+        "1233":{
+            "author_id":"zassiliss",
+            "author_name":"Rear Admiral Zassiliss",
+            "choices":[
+                "Kyle arives on the bridge without incident.",
+                "Kyle runs into someone on the way.",
+                "A Different story"
+            ],
+            "content":"<div class=\"\"><div> <span>Kyle Landow sat up slowly and ineffectively rubbed the sleep from his eyes. He staggered to his feet and ambled over to the mirror hanging on the wall. His room was spartan, as were most aboard the command cruiser <i>High September</i><br>\r\n<br>\r\nKyle looked at himself in the mirror. <i>Ugly as ever, Kyle.</i> He thought to himself, indeed he once was Terran. What looked back at him in the mirror didn't look very Terran. He had large chitin plates protecting his back, most of his skin had been replaced by small chitin scales, as with most Zerg the chitin was a dark brown in color. His feet were stuffed inside of a pair of well used boots, but, had they been visible they would have appeared more like claws then feet. He still had a thick mat of black hair atop his head. Finally his face, a pair of mandibles had replaced the lower half of his mouth, he tried to keep them pressed together most of the time and mercifully he still had lips to try and hide the terrible fangs in his mouth. All in all he appeared to be part Terran part Hydralisk with a bit of zergling thrown in for good measure.<br>\r\n<br>\r\nAnd he hated it.<br>\r\n<br>\r\nHe'd never asked to be pressed into the Confederate militia on Backwater station. He never requested a forward observation post that was overrun along with the rest of the planet. He'd wanted to die when the zerg had experimented with him, in attempts to find viable uses for his species in the swarm. Yet through it all, he'd survived. He'd escaped Char after the death of the overmind brought him freedom.<br>\r\n<br>\r\nAnd now here he was, Redstone III one of the most hellish planets in the sector. Another day in paradise. Yeah, right.<br>\r\n<br>\r\nAs Kyle began to don the rest of his on-ship attire his desk comp activated and began to demand his attention with a series of beeps.<br>\r\nKyle poked at the comm key as he finished buttoning on his duty jacket. His voice was deeper then it once was, as occasionally picked up a click or a buzz. \"go ahead\" He stated in monotone. A small holographic image of the <i>High September's</i> Communication officer, Ensign Grav, \"Commander,\" his voice clicked \"Ve may have a zituation, Ve've detected two Dominion Shipz about vive clickz vrom uz.\"<br>\r\n<br>\r\nKyle couldn't help but stifle a chuckle, the young drone tried so hard to speak coherent English, \"I'll be up in 5.\"</span></div></div>",
+            "created":1319002020,
+            "id":1209293,
+            "title":"Another day on Redstone"
+        },
+        "12331":{
+            "author_id":"zassiliss",
+            "author_name":"Rear Admiral Zassiliss",
+            "choices":[
+                "Let's book it!",
+                "We need to give the SCVs more time."
+            ],
+            "content":"<div class=\"\"><div> <span>Kyle stepped onto the bridge of the <i>High September,</i><br>\r\n<br>\r\nShe wasn't the prettiest ship in the fleet but she was a powerhouse. The bridge was set up in the standard layout for the <i>Behemoth</i> class Battlecruiser, it now had that \"comfortable\" feel to it. Kyle walked over to the holo table and called up the latest sensor reports, a pair of <i>Hercules</i> class Battlecruisers were slowly plotting by. Comm chatter indicated that they were looking for zerg activity in the area, or a place for the lead ship's Comm officer to take a leak, it was hard to tell.<br>\r\n<br>\r\nKyle continued to study the movements of the Dominion ships as his second in command stepped onto the bridge. Andrew Knox was a large man, of all the infested crew, he was one of the hardest to tell from a true Terran. Were it not for his lightly glowing orange eyes and long claws instead of finger tips he'd fit right in with normal society. He kept his brown hair shaved short and his face smooth and clean.<br>\r\n<br>\r\nKyle turned to address Andrew, \"Well, this' interesting. We came here trying to escape Dominion activity and get some quick cash. Instead we run right into a patrol.\"<br>\r\n<br>\r\nAndrew growled, \"Wonderful. Have they detected us yet?\"<br>\r\n<br>\r\nGrav had been listening to the comm chatter since Kyle had arrived, he clicked for a moment. \"CkCkCk.. They, Zay nothing. No zound.\"<br>\r\n<br>\r\nKyle drew back, \"Uh oh.\"<br>\r\n<br>\r\nGrav fed the comm line onto the bridge speakers, the bridge was silent for several seconds that seemed to strech on forever, until.....<br>\r\n<br>\r\nFlush.<br>\r\n<br>\r\nA voice finally spoke. \"Ah, that's better! Now'd I miss anything?\"<br>\r\nA second voice responded, \"Nope, quiet as a graveyard.\"<br>\r\n<br>\r\nThere was an audible sigh of relief from everyone on the bridge.<br>\r\n<br>\r\nKyle chuckled, \"You've gotta be kidding me.\"<br>\r\n<br>\r\nAndrew frowned, \"Sir, we should bug out once those ships leave, the Dominoin might be lookin' to set up here.\"<br>\r\n<br>\r\nKyle scratched his chin, \"They might just have been a scouting party from a larger detachment keeping an eye on things. To be honest there are some zerg planetside....\" He regarded the so-called planet for a moment. \"Well, dirtside anyway.\"<br>\r\n<br>\r\nAndrew considered the second option for a moment, \"Either way, it's your call commander.\"<br>\r\n<br>\r\nKyle pondered their situation for a moment, an encounter with the Dominion would be bad, very bad. They were also getting dangerously low on resources, Redstone III was rich in said resources. Having made his decision he spoke:</span></div></div>",
+            "created":1319006940,
+            "id":1209324,
+            "title":"SITREP ASAP!"
+        },
+        "123312":{
+            "author_id":"zassiliss",
+            "author_name":"Rear Admiral Zassiliss",
+            "choices":[
+                "The basecamp ablaze",
+                "A Protoss Mothership"
+            ],
+            "content":"<div class=\"\"><div> <span>\"We're too low on resources to pull out now.\" Kyle stated in a mater of fact manner. \"We have to hold out until our holds are a little more full. Besides, I don't think half of our ships even have enough fuel to make a jump.\"<br>\r\nAndrew sighed, \"Your right.\" He turned to look out into space, \"Keep a constant watch, sound an evacuation order if more ships show up.\"<br>\r\n<br>\r\nGrav skittered closer to Kyle, \"You have a perzonal trazmizzion. Line two.\"<br>\r\n<br>\r\nKyle thanked the eager Zerg and seated himself at the communication console and put on a pair of headphones for privacy. \"Go ahead.\" He stated.<br>\r\n<br>\r\nA female voice answered quickly, \"Kyle, we've found something you're going to want to look at. Bring some marines, we'll need them.\"<br>\r\n<br>\r\nKyle sighed, \"Trouble?\"<br>\r\n<br>\r\n\"Maybe.\"<br>\r\n<br>\r\n\"I'm on my way.\"<br>\r\n<br>\r\nKyle stood and headed for the corridor, \"Andrew, you have the bridge. Grav, tell Chriss to prep a shuttle and some marines.\"<br>\r\n<br>\r\nAndrew raised an eyebrow, \"Problem on the surface?\"<br>\r\n<br>\r\nKyle smirked, \"Not for long.\"<br>\r\n________________________________________<br>\r\n<br>\r\n<br>\r\nThe dropship lowered it's heatsheilds as it finished reentry. \"Cruising at 350 KPH, ETA 2 minutes.\" The pilot reported.<br>\r\n<br>\r\nKyle now wore his CMC-300 powered armor, each suit had to be customized to fit an infested Terran, and Kyle was no different. The backpack of the suit had been pushed downward so that his natural chitin armor could fit in place and the boots had been modified to allow his clawed feet to be used properly. He sat waiting with 14 equally armored persons, both infested and non. People under his command, people he had to protect. His people.<br>\r\n<br>\r\n\"Well, that's new. You're not going to like this commander.\" The pilot comented on the current situation.<br>\r\n<br>\r\nKyle stood and made his way to the cockpit, \"Oh, crap.\" He exclaimed as he caught sight of......</span></div></div>",
+            "created":1319057880,
+            "id":1209583,
+            "title":"Dire Straits"
+        },
+        "1233121":{
+            "author_id":"zassiliss",
+            "author_name":"Rear Admiral Zassiliss",
+            "choices":[
+                "Abarents",
+                "Dominion"
+            ],
+            "content":"<div class=\"\"><div> <span>Kyle's feet hit the dirt before the dropship's landing gear. He dashed for the Command center, his heart in his chest. The building was mostly intact, a section of the center's outer hull had been ripped away by a powerful blast. A pair of SCVs were working to patch up the damage, while the others were continuing to load minerals and canisters of Vespine gas onto the heavy transports.<br>\r\n<br>\r\nKyle dashed into the airlock but the tight space forced him to slow down. <i>Clair, you HAVE to be alright.</i> He thought as he popped the seal on his helmet. The airlock finished cycling and he advanced into the command center proper.<br>\r\n<br>\r\nClair stood waiting for him, a wan smile crossed her face. Her auburn hair was messy and her face was covered in soot and grease but her emerald, green eyes shone through. She was petite but not frail, and a bit on the short side. Kyle nearly crushed the Terran woman as he pulled her into a power suit bear hug.<br>\r\n<br>\r\n\"I'm fine you big lug! Now put me down!\" She childed.<br>\r\n<br>\r\nKyle released her carefully, \"What happened? The place is more shot up then New Gettysburg!\"<br>\r\n<br>\r\nClair's face darkened as she spoke one word.....</span></div></div>",
+            "created":1319063940,
+            "id":1209649,
+            "title":"Camping out"
+        },
+        "12331212":{
+            "author_id":"zassiliss",
+            "author_name":"Rear Admiral Zassiliss",
+            "choices":[
+                "The domonion attacks!",
+                "The evacuation goes smothly."
+            ],
+            "content":"<div class=\"\"><div> <span>\"It was the Dominion.\" Clair stated gravely. \"A reaper squad hit us fast and then took off. Losses were minimal, but they know we're here.\"<br>\r\nKyle analyzed the situation, scratching his split chin. \"Those battlecruisers are part of a trap, they've known that we're here all along. We have to move, Now!\"<br>\r\n<br>\r\nClair's brow furrowed, \"The Dominion was in the system and you didn't tell us?\"<br>\r\nKyle paused for a moment, \"They didn't detect us and it seemed like...\"<br>\r\n\"Like Mr. Big Shot could handle himself without telling the civilians about the bad guys!\" Clair exclaimed obviously displeased. \"This' the third time you've done this and it's gotten us into trouble.\"<br>\r\nKyle held up his hands in defeat. \"I'm sorry, I thought you were busy down here and I didn't want to bother you.\"<br>\r\nClair huffed, \"Well I'm bothered now.\"<br>\r\nKyle adjusted his helmet, \"I'll handle it.\" He headed for the airlock.<br>\r\nClair smiled sadly, \"Come back in one piece, ok?\"<br>\r\nKyle cycled the airlock with the words, \"Trust me.\"<br>\r\n<br>\r\n___________________________________________<br>\r\n<br>\r\nKyle joined up with his marines waiting outside, they were starting to patch up the bunkers. Colonel McDurmit, the Marine 2nd division commander. Held up a shredded piece of armor plating, \"D-8 explosives. This bunkers' trashed. They might still be in the area.\"<br>\r\nKyle shook his head, \"It doesn't matter, we're pulling out.\" He looked around the base parimiter. \"Roll call!\" He yelled out, his helmet amplifying his voice.<br>\r\nThe ground around the ruined bunker seemed to come alive as two dozen zerg emerged from hidden burrows. One hydralisk slithered forward, a scar marked just above his eye. Kyle smiled as Xyff, the Zerg 2nd division commander, approached and hissed inquiringly.<br>\r\n\"We're buggin' out, keep our people safe.\"<br>\r\nXiff nodded and slithered away, the assortment of Hydralisks, zerglings and defilers followed him closely.<br>\r\n<br>\r\nKyle called Clair's command center as he watched a pair of <i>Hercules</i> transports take flight, bound for the fleet hidden among the fragments of Redstone. She answered a few seconds after he lost sight of the transports. \"The first transports are away, the barracks will be going next followed by the engineering bay.\"<br>\r\n\"Keep it movin' we don't know when our new neighbors will come knockin'.\" Kyle signaled a pair of the marines present to follow him as he headed around the base perimeter.</span></div></div>",
+            "created":1319269200,
+            "id":1210909,
+            "title":"Reaping whirlwind"
+        },
+        "123312121":{
+            "author_id":"zassiliss",
+            "author_name":"Rear Admiral Zassiliss",
+            "choices":[
+                "Cue the cavalry!",
+                "We're in a heap of trouble!"
+            ],
+            "content":"<div class=\"\"><div> <span>Kyle knew the Dominion wouldn't give him a chance to escape. Priority had been placed on evacuating everyone, SCVs abandoned the mineral veins and pressure mines. They still weren't fast enough.<br>\r\n<br>\r\nThe first salvo came out of nowhere. The entire northern bunker network was obliterated, Kyle felt rather glad he'd decided to abandon that area. His marines had dug into a rocky mountain ridge that was to the west of the bunkers, they were preparing a pair of concussion mortars. Kyle knew he couldn't defeat the Dominion, but the enemy's destruction was not the objective today. They had to hold out just a few minutes until all of the transports and buildings had escaped.<br>\r\n<br>\r\nKyle surveyed the terrain around him. He had positioned himself on top of the western ridge that protected the basecamp. Across the plain he could see the Dominion forces; Siege tanks, Goliaths, Diamondbacks, and a host of marines. He couldn't call for air support least his fleet's position be revealed to the enemy. Over the intercom he heard one of the marines grumble, \"We're screwed!\"<br>\r\n<br>\r\nKyle felt rather screwed at that point, once the goliaths got in range they'd tear the escaping transports apart, if they remained grounded the tanks would pound them. Then the second salvo hit. <br>\r\nIt was just a mop up shot, the remaining bunker debris disappeared in a fiery explosion. Kyle pondered his situation, the Zerg were on the Eastern side of the plain where a series of sloping hills offered reasonable concealment. He was sure the zerglings he had on hand could take out the Goliaths and the tanks, if only the marines were gone. The Diamondbacks were push overs, the concussion mortars could take them out quickly. But the marines would over run his position.... There were just too many.<br>\r\n<br>\r\nKyle's anger began to build, he hated unwinable scenarios. It wasn't fair! He needed an edge, an advantage! Anything!</span></div></div>",
+            "created":1320216900,
+            "id":1216618,
+            "title":"Knock Knock...."
+        },
+        "1233121211":{
+            "author_id":"zassiliss",
+            "author_name":"Rear Admiral Zassiliss",
+            "choices":[
+                "This time they get away!",
+                "More trouble!"
+            ],
+            "content":"<div class=\"\"><div> <span>To say that things had not gone well would be a major understatement.<br>\r\nKyle ducked behind the rocky ridge top as Dominion marines took pot shots at him and his forces. They were totally pinned down and the dominion's siege tanks were firing unabated. The barracks had been hit several times and was badly damaged, the zerg biosteel would heal, given enough time.<br>\r\n<br>\r\nXyff and the Zreg were now directly behind the Dominion forces, if they were to attack now the Dominion marines would shred them.<br>\r\n<br>\r\nThe marine to Kyle's left screamed in pain and fell backwards rolling down the ridge, he was probably still alive. Infested Terrans were more resilient then the vanilla version.<br>\r\n<br>\r\nThe ground beneath Kyle's feet suddenly decided to revolt and throw him and his marines. A loud sonic boom split the sky followed by a massive explosion. Kyle stood and looked into the plain below, the Dominion forces were in complete disarray. A trio of CA/F-17B Wraith Starfighters headed back for the upper atmosphere before the Goliaths could get a lock on them. The Grim Angels squadron wasn't really a true squadron, Kyle's troops had found three intact wraiths on a brood wars battlefield and got them back into working order. Most of the marines had been torched by the firebombs dropped by wraiths.<br>\r\n<br>\r\nKyle smiled as he psionicly contacted Xyff and ordered him to attack.<br>\r\n<br>\r\nThe battle didn't last long after that. The goliaths and tanks were ripped to pieces by the Zerglings, Kyle and his marines provided fire support.<br>\r\n<br>\r\nKyle smiled, they'd bought some more time.</span></div></div>",
+            "created":1321860840,
+            "id":1226488,
+            "title":"Angelic Salvation"
+        }
+    },
+    "info":{
+        "author_id":"alockwood1",
+        "author_name":"BIG BAD WOLF Is Thankful",
+        "brief_description":"Travel to either the Koprulu Sector or to Azeroth in this interactive. 2,370+Views",
+        "created":1277066760,
+        "description":"<td align=\"left\" class=\"norm\">Create a story involving a person from either the Starcraft Universe or Warcraft Universe.<br>\r\n<br>\r\nAlso, the story is to start after the wars of either \"Starcraft: The Brood Wars\" or \"Warcraft 3: The Frozen Throne\". The stories of \"Starcraft 2\" and the \"World of Warcraft\" series are allowed, but I'd like some background to the stories, as I'm not very familiar with them.<br>\r\n<br>\r\nRules<br>\r\n<br>\r\n1. No Fetishes. Nothing against them, but they are not allowed here.<br>\r\n<br>\r\n2. No Cross-overs. A character from Warcraft is not to end up in the Starcraft universe. However similar characters and stories are allowed.<br>\r\n<br>\r\n3. Original characters must be the main ones. Famous ones, like Jaina Proudmoore and Sarah Kerrigan, are only to be mention in passing. For instance, it can be mentioned that someone important held a speech, but the speech can't be viewed from their point of view.<br>\r\n<br>\r\n4. Third person only.<br>\r\n<br>\r\nHave fun.<br>\r\n<br>\r\nTwo spots from which you can get information are the following.<br>\r\n<a class=\"blue2roll\" rel=\"nofollow\" href=\"http://starcraft.wikia.com/wiki/StarCraft_Wiki\" target=\"_blank\">http://starcraft.wikia.com/wiki/StarCraft_Wiki</a><br>\r\n<a class=\"blue2roll\" rel=\"nofollow\" href=\"http://www.wowwiki.com/Warcraft_universe\" target=\"_blank\">http://www.wowwiki.com/Warcraft_universe</a></td>",
+        "id":1683762,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1526149620,
+        "modified":1526149620,
+        "pretty_title":"A Starcraft/Warcraft Story"
+    }
+}

@@ -1,0 +1,767 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Good Guys",
+                "Bad Guys"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose your alignment.</span></div></span></div>",
+            "created":1273035600,
+            "id":878565,
+            "title":"Allies"
+        },
+        "11":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Elf",
+                "Human",
+                "Dwarf",
+                "Rider",
+                "Werecats"
+            ],
+            "content":"<div class=\"\"><div> <span>Rider: Dragon riders. Possesses more elfish physical property even if you are human. Able to use magic.<br>\r\n<br>\r\nElves: Old race, immortal to old age. Can be killed by combat, poison and disease. Taller than average human, able to change appearance according to your own liking.<br>\r\n<br>\r\nDwarf: Shorter than average human, but stronger. Thicker bones than human, able to drill holes into bones.<br>\r\n<br>\r\nWerecats: As the name suggests... They are like werewolves, only that they morph into cats instead of wolves. Highly stealthy and seems to have a high affiliation with magic.</span></div></div>",
+            "created":1273122000,
+            "id":879068,
+            "title":"Good Guys"
+        },
+        "111":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you male or female?</span></div></span></div>",
+            "created":1332478800,
+            "id":1300995,
+            "title":"Elf"
+        },
+        "1111":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Character 1",
+                "Character 2",
+                "Character 3"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character are you?</span></div></span></div>",
+            "created":1334379600,
+            "id":1315263,
+            "title":"Male"
+        },
+        "11111":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Continue your mission to find Arya",
+                "Find the Shade and kill him"
+            ],
+            "content":"<div class=\"\"><div> <span>Your name is Regia. You are a sex morpher. You like to change your sex from time to time. You are the master of disguise, able to look like anyone you've met. You can even fool anyone snooping in your mind that you are the person your impersonating. Your the perfect spy. You have been sent by Queen Islanzadi to search for her daughter, Arya who hasn't returned from delivering the dragon egg to the humans. So far, you have found out that she is being held captive by a Shade named Durza, who has somehow convinced the Urgals to follow him. Disguising yourself as an Urgal, you join their tribe and find out the city where Arya is being held. You also gather that the Urgals are working for the Shade out off fear. If you can kill the Shade, they would be free.  </span></div></div>",
+            "created":1334379600,
+            "id":1315271,
+            "title":"Character 1"
+        },
+        "112":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Varden",
+                "Free",
+                "Varden's Spy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you of the Varden, or free?<br>\r\n<br>\r\nVarden: Group of people banded themselves together to resist King Galbatorix.</span></div></span></div>",
+            "created":1273813200,
+            "id":883076,
+            "title":"Human"
+        },
+        "1121":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Stick to your plan",
+                "Follow Nasuada's plan"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Madam! We have grave news!\" A footman rushed into the court. Nasuada* looked up from her battle plans and asked softly:\" What is it?\"<br>\r\n<br>\r\nThe footman replied:\" We have heard Urgal* advance towards our territory!\"<br>\r\n<br>\r\nNasuada gritted her teeth and muttered:\" So it's them again.\"<br>\r\n<br>\r\nYou immediately said:\" Ma'am! We've got to attack them at once!\"<br>\r\n<br>\r\nNasuada said calmly:\" Let's see what they want first.\"<br>\r\n<br>\r\n\"But-\"<br>\r\n<br>\r\n\"No, I've made up my mind!\"<br>\r\n<br>\r\nYou slumber back to your room.<br>\r\n<br>\r\nNasuada: Daughter of Ajihad, former leader of the Varden. Inherits place as leader after her father's death.</span></div></div>",
+            "created":1273813200,
+            "id":883081,
+            "title":"Varden"
+        },
+        "11211":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Chase after them",
+                "Go back to camp"
+            ],
+            "content":"<div class=\"\"><div> <span>You though: What does that little girl know about warfare anyway. You decided to stick to your original plan. You faked an order from Nasuada, ordering to attack the Urgals. Taking two thousand men with you, you marched out of camp. Two miles from camp, you met the Urgals and ordered your men to charge. After a fight, the Urgals ran away, cursing.</span></div></div>",
+            "created":1273813200,
+            "id":883379,
+            "title":"Stick to your plan"
+        },
+        "11212":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Attack the Kull now",
+                "Let him speak"
+            ],
+            "content":"<div class=\"\"><div> <span>As the Urgals approached, their leader stepped forward and laid down his arms. \"What are they doing?\" you asked. The Urgal leader walked towards your camp, no weapon visible, and asked for an audience with the leader of the Varden. Lady Nasuada raised her hand, indicating that it was O.K to approach. As the Urgal approached, you realised that it was a Kull*. If this Kull decided to kill Lady Nasuada, with the small force you had here, you would not be able to stop it. <br>\r\n<br>\r\nDo you attack the Kull now, or wait for him to speak?<br>\r\n<br>\r\n*Kull: A breed of Urgal, much bigger and stronger than the others, normally leaders in their tribes. Even without weapons, a Kull could kill several men with it's horns</span></div></div>",
+            "created":1334466000,
+            "id":1315886,
+            "title":"Follow Nasuada's plan"
+        },
+        "112122":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Lady Nightstalker*\" said the Kull \"We only attacked the Varden under the influence of the Shade Durza*, we wish to join you on the Burning Plains against Galbatorix*\" \"How do we know we can trust you?\" you asked. \"I offer myself to have my mind examined by the Varden to make sure there is no treachery\" replied the Kull. There was a gust of wind as a dragon landed next to them. \"I saw the Urgals approach\" said it's rider \"Is everyone O.K\" The dragon bared it's teeth at the Kull. \"Stand down, Saphira*, he doesn't seem to mean me any harm\" said Lady Nasuada. the rider dismounted. \"Eragon*\" said Lady Nasuada \"I need you to examine this Kull's mind, make sure he is sincere in what he says. Eragon goes to the Kull and concentrated. Does Eragon find treachery?<br>\r\n<br>\r\n*Saphira:The last free dragon. Hatched for Eragon<br>\r\n*Eragon: The last free dragon rider. He has been given the nickname Shadeslayer for killing the Shade, Durza.<br>\r\n*Durza: A shade that was under Galbatorix's power. Manipulated the Urgals into working for him and was later killed by Eragon, Saphira and Arya.<br>\r\n</span></div></div>",
+            "created":1334466000,
+            "id":1315892,
+            "title":"Let him speak"
+        },
+        "1121222":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Skip to the battle",
+                "Eragon comes to see you"
+            ],
+            "content":"<div class=\"\"><div> <span>Eragon looked at Nasuada and shook his head. \"Nothing that would suggest a lie\" he said. You decided to accept the Urgals. However, because of their past, you would not trust them, and you were sure many among the Varden would not trust them either. \"I am going to prepare, the battle is tomorrow\" you say, leaving Nasuada's tent. You go back to your tent in the Varden's army and got ready your armour and your long sword. The sword had been forged by the elves when you had saved one of their kin from Galbatorix's soldiers. Using your weapon, you had single handedly fought your way into the soldier's camp and freed the elf. She had then helped you to dispose of the others. Your heroism earned you a ring with the yawe symbol on it, a symbol which named you 'elf friend' You had also been shown the elven city, Ellesmera, one of the few humans that had set foot in the city except the riders. You had been given one of the old elven swords, crafted by their forgemaster, Rhunon before the fall of the Riders. While not a riders sword, it was still exceptionally powerful. </span></div></div>",
+            "created":1334898000,
+            "id":1319614,
+            "title":"No"
+        },
+        "11212222":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Tell Eragon yes",
+                "Tell Eragon no"
+            ],
+            "content":"<div class=\"\"><div> <span>As you pull on your armour, you hear a knock on your tent pole. Going outside, you see Eragon. Behind him, you saw twelve elves. \"What do you need, Eragon\" you asked. \"Lady Nasuada would like you to be one of her guards\" said Eragon \"They have decided to have two men, two dwarves and two urgals guarding her at all times\" \"The dwarves are willing to cooperate with the urgals?\" you asked, astonished. Dwarves could hold grudges for a long time. \"They have agreed that Lady Nasuada's protection is more important than any feud they may have with the urgals\" replied Eragon \"I know that you are up to the task\" You consider this. Lady Nasuada's guard? This was a high honour. You had no love for the Urgals, but if you were part of the guard, you would have to work with them. Then again, maybe they were telling the truth. </span></div></div>",
+            "created":1334898000,
+            "id":1319619,
+            "title":"Eragon comes to see you"
+        },
+        "112122221":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Block it with your own body",
+                "Shout out a word"
+            ],
+            "content":"<div class=\"\"><div> <span>The sound of breaking dawn woke you up. Clattering armor plates, tingling chain mails, and clinking spear heads resonated throughout the whole camp. The battle was just up ahead, and the Varden could not afford to lose. The battle of the Burning Plains was about to commence.<br>\r\n<br>\r\nThe magicians readied their wards and spells, while, you and other fellow \"commoners\" prepared your armor and weapons. You marched along with the other Nighthawks, which was the group established to protect Lady Nasuada from danger. You see the mass of troops the Empire gathered. They looked like a swarm of bees. A chorus of horns and trumpets thundered over the plains, and the battle started.<br>\r\n<br>\r\nWhile the other soldiers charged, you stood your ground, looking around for any hint of paranormal activity. You are the center of the army, the very rib cages that protect the delicate heart. Your duty was to protect the most important organ, even if it meant breaking yourself in half. Things were started to look bad, since the enemies refused to die, even when suffering severe cases of hemorrhage. You tightened your grip on your sword handle, preparing for the worst case scenario. Your weapon was surprisingly light. You named it \"Draumr Maela\", or Quiet Dream in the ancient language. Actually Eragon helped you name it, but it's still the same, since it is your sword.<br>\r\n<br>\r\nSuddenly, an arrow flew out of nowhere and accelerated towards Lady Nasuada. One of the Urgals reacted quickly and tried to block it with his shield, but the arrow flew with such force it ripped his arm off.<br>\r\n<br>\r\nThe arrow was flying fast towards Lady Nasuada... In the split second, you...</span></div></div>",
+            "created":1335675600,
+            "id":1325182,
+            "title":"Nighthawks"
+        },
+        "1121222211":{
+            "author_id":"maxm00",
+            "author_name":"Kiriel",
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You jump in the air and the arrow stabs into your heart.  As you lay on the ground bleeding out you look back at your life.  As you slowly die you are satisfied with the knowledge that you saved an important leader in the fight for independence.</span></div></span></div>",
+            "created":1356590340,
+            "id":1495566,
+            "title":"Block it with your own body"
+        },
+        "1121222212":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "You stop to watch the fight",
+                "You continue your duty to protect Nasuada"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Jierda!\" you shouted. The arrow snapped in the air and fell to the ground, it's momentum stopped. \"Interesting use of magic\" said Jana, your fellow human guard \"If I know magic, that was a hard spell to cast\" \"The elves taught me magic after I saved one of their kin\" you say \"After I saved her, she realised I had the ability to learn magic, she taught me herself\" \"What was the elves name?\" asked one of the dwarves. \"Yaela\" you replied. Nasuada overheard your conversation. \"One of Eragon's spellcasters is named Yaela\" said Nasuada \"Perhaps it is the same person\" \"Perhaps\" you reply \"There's nothing we can do about it now, let's continue the battle\" You turned, slicing a soldiers head off, then jumped on another, wrestling a second sword from him. Leading with your elf-made sword, you charged into a group of soldiers, disposing of them in quick succession. You looked up as Saphira dived out of the sky and shot fire at a group of soldiers. \"What's that?\" you asked, pointing to the sky. A large, winged shape was coming through the smoke of the Burning Plains. As the shape neared, you realised it was a dragon. A red dragon, a rider astride it. Saphira, noticing the new threat, flew up to meet it. \"That dragon is red, it's not Galbatorix's dragon\" you say \"Who's the rider?\" \"I don't know\" said Nasuada, straining her eyes to see. You were distracted by a group of soldiers rushing at you. \"Brisingr!\" you shouted. A fireball engulfed the ground in front of the soldiers. Unable to stop their momentum, the soldiers ran straight into the fire. As soon as they get into the fire, you shouted \"Letta!\" The soldiers froze on the spot. You watched as they were burned to asphyxiation, then released both your spells. Exhausted, you refuelled your energy with the energy in your sword. \"That was an impressive display of magic\" said a voice to your left. A few yards away, Trianna, head of the Du Vrangr Gata, was fighting with a soldier. You ran over and dispatched him. \"You might have a place in the Du Vrangr Gata\" said Trianna. You shake your head. \"I prefer to work independantly\" you say \"Thanks for the offer, though\" You turn and slash at another soldier. You looked up to see both Saphira and the red dragon falling out of the sky, still fighting. Eragon and the rider were clashing swords. Suddenly, the red dragon broke off and dived at a contingent of dwarves. \"That's Hrothgar's unit\" said Nasuada. You heard the cries of dismay from the dwarves. Eragon jumped from Saphira and knocked the rider of the red dragon off his dragon. They continued fighting on the ground.   <br>\r\n</span></div></div>",
+            "created":1342220640,
+            "id":1377844,
+            "title":"Shout out a word"
+        },
+        "11212222121":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Help the Varden destroy the last of Galbatorix's soldiers",
+                "Go to the medical tent to check on Eragon"
+            ],
+            "content":"<div class=\"\"><div> <span>\"We should fall back, Lady Nasuada\" you say \"We don't want to get in the way of a dragon fight\" Lady Nasuada looked up to see both Saphira and the red dragon coming towards the group from opposite sides. You flung Nasuada on the ground as the rest of the Nighthawks dropped. You all had a narrow escape as the dragons clashed right over your heads. Spittle flew. Claws thrashed. \"Jana\" you said \"Get Nasuada out of here\" You then stood up, took out your elf blade and jumped onto the back of the red dragon. You got ready, steadying yourself, and then stabbed downwards. The elf blade punched through the red dragon's wards and into it's hard scales. The red dragon roared in agony. You felt a moment of pity for it, before it started rocking, trying to throw you off. You held onto your own sword, the only thing anchoring you to the red dragon, but to no avail. Your sword flew out of the red dragon's flesh and you started to fall. Your mind was blank. You could not think of any spell that could save your life. You heard the beat of wings and something closed around your waist. You heard Saphira's voice in your head. \"<i>That was a reckless and dangerous thing to do, (your name)</i>\" \"I know, I can explain...\" you started. \"<i>No need, you did well</i>\" said Saphira \"<i>You need to help Eragon</i>\" Saphira flew over Eragon and the red dragon's rider. \"Saphira, when I say, drop me as close to the rider as you can\" you say. \"<i>This is a bad idea</i>\" said Saphira, reading what you are going to do in your mind. You were directly over the other rider. \"Now!\" Saphira dropped you. You positioned yourself so that as you crashed into the rider, you came from the side, bringing the full force of your fall down upon him. He was knocked over. You stood up, unharmed by the fall, but the red dragon riders' wards were depleted deflecting you. You felt Eragon engage the rider in a battle of minds. Paralysed, he could not stop you as you stood up off him. He managed to break free and ran to his dragon. Using an item in his tunic, the red dragon rider healed his dragon's wounds and took off. As the dragon flew off, Galbatorix's army charged for one final assault. Eragon was panting. He was in no position to fight. You quickly looked over his wounds from the fight with the red dragon rider. You placed your hands on one of them and muttered \"Weise heil\" The skin healed. Immediately, Eragon looked better. What he really needed right now was rest. \"Saphira, take him back to the medical tent, he needs a better healer than me\" Saphira gathered Eragon in her claws, gently, and carried him back to the tent.  </span></div></div>",
+            "created":1343233860,
+            "id":1388919,
+            "title":"You stop to watch the fight"
+        },
+        "112122221212":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "You get back to Nasuada, Roran is still there",
+                "You get back to Nasuada, Roran is not there"
+            ],
+            "content":"<div class=\"\"><div> <span>You head back to the medical tent to see that Eragon is in one of the hospital beds. <br>\r\n\"How is he?\" you asked one of the Varden healers.<br>\r\n\"He'll live,\" replied the healer \"That battle took a lot out of him.\" <br>\r\n\"I need to get back to Lady Nasuada, can you tell me when he wakes?\" you asked<br>\r\n\"I'll have to tell Lady Nasuada anyway,\" said the healer \"And his cousin too.\"<br>\r\n\"His cousin?\" you asked \"I thought he was back in Carvahall.\" <br>\r\n\"He arrived during the battle on a pirated Empire ship,\" said the healer \"He killed the Twins, which turned the tide of the battle.\" <br>\r\n\"Where is he, I should speak with him,\" you said <br>\r\n\"He is speaking with Lady Nasuada at the moment,\" said the healer \"If you hurry, you might be able to catch him.\" <br>\r\n\"Thank you,\" you said, and ran off to find Eragon's cousin, Roran.</span></div></div>",
+            "created":1355668680,
+            "id":1489174,
+            "title":"Go to the medical tent to check on Eragon"
+        },
+        "1121222212121":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Nasuada agrees to your plan",
+                "Nasuada disagrees with your plan"
+            ],
+            "content":"<div class=\"\"><div> <span>A young boy, around about 17 years old, was in the tent talking to Nasuada. You stood in the entrance to the tent and listened as he told his tale. The more you heard, the more you were impressed with him. This boy had convinced an entire village to follow him from their homes, across most of Alagaesia to find the Varden. Nasuada, too, looked moved, although most people would not see it. Roran also told of his love for a woman, which he wished help with rescuing from the Razaac. <br>\r\n\"Nasuada, may I speak with you a moment?\" you asked, interrupting Roran. She nodded and followed you out of the tent. <br>\r\n\"The boy's a natural at inspiring people, he could be of use to us in convincing others to join the Varden,\" you say \"If you send myself and a small company of soldiers with him, we can spread propaganda and inspire the Empires people to defect.\" <br>\r\n\"Galbatorix rules by fear,\" said Nasuada \"The people of the Empire will never defect as long as that is so, but if you can find isolated villages, like Carvahall, they might be more willing to defect, and they would bring skills that the Varden needs.\" <br>\r\n\"So will you send us?\" you asked \"To gather recruits for the Varden?\" <br>\r\nNasuada considered.</span></div></div>",
+            "created":1356721920,
+            "id":1496561,
+            "title":"You get back to Nasuada, Roran is still there"
+        },
+        "11212222121211":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Roran agrees",
+                "Roran disagrees"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I agree to your plan, but cannot spare the men to accompany you, if you and Roran wish to do this, you will have to travel alone,\" said Nasuada, and before you could protest, continued \"Two men travelling alone would attract less attention than a small company of soldiers.\" <br>\r\nAs much as you wanted to argue Nasuada's decision, you had to admit she had a point. The Varden's warriors were spread thin as it was, and bringing warriors away from these areas would weaken their defenses.<br>\r\n\"Very well,\" you say \"If Roran agrees, we will set out in a few days.\" <br>\r\nNasuada led you into her tent, and introduced you to Roran. <br>\r\n\"I just came from your cousin,\" you say \"The healers say he will make a full recovery.\" <br>\r\nRoran's expression didn't change, but his posture shifted a little as he relaxed. <br>\r\n\"I have decided to send you with (your name) to recruit people in the Empire to join the Varden,\" said Nasuada \"It is a very dangerous task, I will not lie, but you have shown you can succeed in inspiring others, If you should choose to accept this mission, I promise you I will do everything in my power to save Katrina from the Razaac.\" <br>\r\nRoran considered for a long time before answering. </span></div></div>",
+            "created":1356722640,
+            "id":1496579,
+            "title":"Some of what you wanted"
+        },
+        "112122221212111":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "You and Roran leave",
+                "You and Roran have to wait on Eragon returning from a scouting mission"
+            ],
+            "content":"<div class=\"\"><div> <span>\"O.K,\" said Roran \"But you must update me whenever we call to update you on our progress, update us on the investigation.\" <br>\r\n\"We will,\" said Nasuada \"But we won't always be able to keep in contact, this is a dangerous mission.\" <br>\r\n\"I accept,\" said Roran \"I shall have to take a sword, my hammer would be too conspicuous in the Empire, could you look after it until I return?\" <br>\r\n\"We will keep it safe,\" said Nasuada \"You will have to leave tomorrow, Eragon can take you as far as the nearest city of the Empire, I don't want to risk him being sent further.\" <br>\r\n\"O.K,\" said Roran \"Where shall we send anyone who agrees to join the Varden's cause?\" <br>\r\n\"Bring them along with you until we contact you,\" said Nasuada \"Then send them to wherever we are, be wary though, there will be spies in the Empire that will try to trick you into thinking they want to join the Varden and then telling the Empire's soldiers.\" <br>\r\n\"I'll make them swear oaths in the ancient language not to speak of what they hear,\" you say \"I don't like using such methods, but I don't see another way.\" <br>\r\n\"Good,\" said Nasuada \"Try not to advertise your presence too much, make your speeches and get out, don't hang around long enough for the Empire soldiers to arrive.\" <br>\r\n </span></div></div>",
+            "created":1366146060,
+            "id":1573034,
+            "title":"Roran agrees"
+        },
+        "1122":{
+            "choices":[
+                "Someone else's point of view",
+                "Still Ivy"
+            ],
+            "content":"<div class=\"\"><div> <span>The mountains just ahead of you were enormous.  Their snowy tips touched the white sky and their bases, where you were riding toward, seemed like huge mounds that rose out of the green earth.  Once you reached the foothills, which began a forest of huge trees, bigger than any others you have ever seen, you heard horses and something heavier than horses that traveled on two legs.<br>\r\n<br>\r\n\"Go, Eagle, go!\"  You urged your stallion to gallop toward the noise.  He didn't seem to want to.  \"It's okay, Eagle.\"  The horse ran reluctantly, but ran none the less, for at least a half-mile, until you reached a clearing with a broad lake and a waterfall in it; you arrived just as someone dove beneath the waterfall.  Huge creatures, like people with broad horns like rams' turned toward you.  \"The lake, Eagle!\"  He didn't need to be told twice.  Being the smart horse he was, Eagle dove into the lake and swam like heck toward the waterfall, then went under it.  The pounding water washed out all sound and battered at you and Eagle with what seemed like bone crushing force, pushing them under.  But just as your lungs began to scream for air, Eagle climbed out onto a rocky cave with a large group of people in it.  <br>\r\n<br>\r\nA tall dark-skinned man looked at you strangely as you pushed your long brown hair, now soaking wet, out of your eyes.  \"Who are you?\"  His inflection was strange, much like the southerners you often associated with in the port towns.  <br>\r\n<br>\r\n\"I am Ivy.\"  You looked straight at him.  \"Ivy the Warrior.\"</span></div></div>",
+            "created":1273813200,
+            "id":883313,
+            "title":"Free"
+        },
+        "114":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Elf Rider",
+                "Human Rider"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What race are you?</span></div></span></div>",
+            "created":1273122000,
+            "id":879071,
+            "title":"Rider"
+        },
+        "1141":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Go to Queen's and wait",
+                "Go to the sparring areas",
+                "Practice your magic"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Time to wake up!\" Arya* called from outside. You easily shake away the waking dreams when you sleep. You got dressed and hurried out the door, you see Arya and Vandir standing in front of your \"house\". You and the two started the usual phrase of greeting:\"Atra estern\u00ed ono thelduin.**\" which is replied by :\"Mor'ranr l\u00edfa unin hjarta onr.***\"<br>\r\n<br>\r\nArya said:\" We have heard of a new Rider in the land. A free Rider.\"<br>\r\n<br>\r\nYou look surprised, and reply:\" I thought Oromis**** and I were the only Riders left.\"<br>\r\n<br>\r\nArya look at you solemnly, and said in a almost whispering tone:\" We do not know for sure.\"<br>\r\n<br>\r\n\" Anyway, Queen Islanzadi wants to see you. But in a few hours from now.\" Vandir said.<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n<br>\r\n---Explanation---<br>\r\n<br>\r\nArya: Princess of the elves.<br>\r\n<br>\r\nAtra estern\u00ed ono thelduin: May good fortune rule over you<br>\r\n<br>\r\nMor'ranr l\u00edfa unin hjarta onr: Peace live in your heart.<br>\r\n<br>\r\nOromis: Only rider surviving the apocalypse of the Foresworn and King Galbatorix.</span></div></div>",
+            "created":1273208400,
+            "id":879511,
+            "title":"Elf Rider"
+        },
+        "11412":{
+            "author_id":"jaylianw",
+            "author_name":"B. A. Lupis",
+            "choices":[
+                "Kick her off.",
+                "Counter and pin her down."
+            ],
+            "content":"<div class=\"\"><div> <span>As you head over to the great expanse of grass, Arya says she'll join you. You think to yourself, 'Why not?'<br>\r\nOnce you decide that it will be hand to hand combat, you square of in a low crouch and anticipate her first move. Previously, you had decided that there would be no magic involved.<br>\r\nYou wait for the tell-tale muscle twitch indicating which direction she'll go. Your heart starts to race and adrenaline pumps into your system and your muscles start to tighten with it. She finally decides which angle she wants to come at you from and you don't see her movement and she's on you in a split second, wrestling you to the ground.</span></div></div>",
+            "created":1289278800,
+            "id":990617,
+            "title":"Go to the sparring areas"
+        },
+        "114122":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Kicks you off her",
+                "Pulls you in closer, holding you close"
+            ],
+            "content":"<div class=\"\"><div> <span>With no time to draw your sword, you step to the side of Arya and grab her sword arm. You throw her to the ground and pin her down. You could feel her panting below you. You are very close to her now. You could see her striking beauty up close. You had secretly been in love with her for years, but had never had the courage to speak up. Arya and you were around the same age (a rarity among elves) you had learned the ways of the elves together, and you were always welcome at Queen Islanzadi's court, even before you became a rider. Arya loved riding on your dragon, which you had named Vrael after the leader of the Dragon Riders before they fell. You had found Vrael's egg when you had gone to the battlefield where Galbatorix had destroyed the Riders. The egg had hatched to you on your journey home. Arya made her next move, interrupting your train of thought</span></div></div>",
+            "created":1332738000,
+            "id":1303051,
+            "title":"Counter and pin her down."
+        },
+        "1141222":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Oromis, your tutor",
+                "Queen Islanzadi, the queen of the elves and Arya's mother"
+            ],
+            "content":"<div class=\"\"><div> <span>Arya put her arms round your neck and pulled you in closer. Your lips locked and you were kissing. Her lips tasted delicious. Arya had not used any spells to change her appearance in the hundred years she had been alive. Her beauty was pure. You thought that perhaps she had cast a spell to make the taste on her lips. In the short moment that seemed to drag on in both of your minds, but seemed far too short, you broke apart. There was silence between you for a few seconds. Then, Arya got up and left. You thought about going to talk to someone about this, but who should you tell?</span></div></div>",
+            "created":1332824400,
+            "id":1303765,
+            "title":"Pulls you in closer, holding you close"
+        },
+        "11412221":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "You find her",
+                "She has left to be the egg courier between the dwarves and the Varden"
+            ],
+            "content":"<div class=\"\"><div> <span>You and your dragon go to Oromis's hut on the Crags of Taelnir and Oromis greets you. \"What troubles you (Your name)\" asked Oromis. \"Today, in the sparring areas, I managed to get Arya on the ground, we kissed and she left\" you say \"I have feelings for her, but for the first time in my life, I don't know how to go on from here\" \"You are a rider, (your name), you have a duty to all the people to Alagaesia, Arya has a duty to her people and the Varden, under normal circumstances, if we were not at war with Galbatorix, you could join with her without cause for harm, but you are one of the last free riders in Alagaesia, and because of this, Galbatorix will do everything in his power to get you under his control\" Oromis quickly put some more logs on the fire that was cooking his dinner and then said \"You came for my advice, yes? Tell her how you feel, tell her about the danger she might be in if she was joined with you and then, if she still wishes to be with you, you may do it\" You bowed and said \"Thank you, Oromis elda\" You then climbed onto your dragon and went to find Arya. </span></div></div>",
+            "created":1337554680,
+            "id":1341272,
+            "title":"Oromis, your tutor"
+        },
+        "114122211":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "A few months later- word of Arya's capture reaches you",
+                "The next day- training with Oromis"
+            ],
+            "content":"<div class=\"\"><div> <span>You found Arya standing in the shade of the Menoa tree. <br>\r\n\"Arya?\" You said, catching her attention.<br>\r\nShe looked over to you. <br>\r\n\"You're leaving,\" you stated \"It's not because of me, is it?\"<br>\r\n\"I have a duty to my people,\" said Arya \"As well as to the Varden, leaving Du Weldenvarden has no bearing on my feelings for you.\" <br>\r\n\"I know,\" you said \"I just needed to hear it from you.\"<br>\r\n\"Then hear this,\" said Arya, slipping into the Ancient Language \"I will stay faithful to you.\"<br>\r\n\"I will stay faithful to you,\" you repeated, also in the Ancient Language. <br>\r\nArya nodded, and left the shade of the Menoa tree. <br>\r\nYou wondered when you would see her again.</span></div></div>",
+            "created":1373837820,
+            "id":1627995,
+            "title":"You find her"
+        },
+        "11413":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Go with her",
+                "Do something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"What does this new rider look like, I should like to scry him\" you say. \"We do not know\" replied Arya \"I am going to the Varden, as that is where he is headed\" \"Shall I come with you?\" you ask. Arya shook her head. \"You and Oromis are our secret weapons against Galbatorix, if you show yourselves now, we will lose the element of surprise\" You nodded. \"Why don't I come with you on foot then, leave my dragon here\" Arya considered. \"I'd have to ask the queen\" she said. Do you go with her to talk to her mother, or do you do something else?</span></div></div>",
+            "created":1333170000,
+            "id":1306482,
+            "title":"Practice your magic"
+        },
+        "114131":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "You and Arya leave Du Weldenvarden",
+                "You gather some supplies"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ah, Arya and (your name),\" said Queen Islanzadi \"Thank you for coming.\"<br>\r\n\"You mentioned a new rider,\" said Arya \"But I thought there were no more dragon eggs, let alone riders.\" <br>\r\n\"That's not quite true,\" you say \"The original eggs vanished after the battle on Vroenguard, but we don't know where they went, this new rider may have found an egg somewhere that the riders and Galbatorix overlooked.\"<br>\r\n\"That sounds impossible,\" said Arya \"If it's true, we need to find that rider before Galbatorix does.\"<br>\r\n\"By your leave, Islanzadi,\" you say \"I'll go and track down this rider, Arya can help, and we'll bring them back here.\"<br>\r\n\"You have my permission, (your name),\" said Islanzadi \"Go quickly, there is no time to waste.\" </span></div></div>",
+            "created":1367787480,
+            "id":1584722,
+            "title":"Go with her"
+        },
+        "1142":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Go find Eragon",
+                "Go find Sloan (the butcher)",
+                "Go find Horst (the blacksmith)"
+            ],
+            "content":"<div class=\"\"><div> <span>You are walking swiftly behind a herd of stags, ready to shoot your arrow anytime. Your body tensed, but freezes from time to time, avoiding detection by the stags. Slowly reaching into your quiver, you pull out an arrow and notched it, then pulling the string back as far as dared, not making a sound. Minutes passed by as you seek a perfect time to release that arrow, but till now, you have found none. Finally, after what seems like hours, you found the perfect time. Your whole body tensed again, then you released that arrow, which flew like a eagle out of a cage.<br>\r\n<br>\r\nThe arrow hit its target, and a female stag fell down, dead. The rest of them ran like scattered flies chased from their feast. You walked over to the dead stag, and pulled the arrow from its neck. Carrying it up, you walked back to your house in Carvahall*.<br>\r\n<br>\r\nSuddenly, you step on a round rock, and slipped. You pull up your disoriented body and examined the rock more carefully. It is shaped perfectly into an oval-like sphere. White and yellow lines mark the entire stone. It's beautiful, so you take it home, wondering how much it's worth.<br>\r\n<br>\r\nYou arrive home and dried the stag meat to prepare it for the winter. Then the time is yours.</span></div></div>",
+            "created":1273640400,
+            "id":881947,
+            "title":"Human Rider"
+        },
+        "11423":{
+            "author_id":"tell-it",
+            "author_name":"joker",
+            "choices":[
+                "horst",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I was looking for a thread that was no where else. I will add the chapter you were looking for and add my thread.<br>\r\n<br>\r\nAgain, sorry.</span></div></span></div>",
+            "created":1320814800,
+            "id":1220545,
+            "title":"sorry"
+        },
+        "114231":{
+            "author_id":"tell-it",
+            "author_name":"joker",
+            "choices":[
+                "farmer",
+                "weaver"
+            ],
+            "content":"<div class=\"\"><div> <span>After a fortnight in the spine, I found myself in caravel. My first order of bisness was to get a new knife for Marn, my younger brother. as I made my way up the hill to the local blacksmith, I heard the faint wisps of the bellow that fed air into the furnece. I pushed the door open and saw horst's son, Baldor. \"Hello, Staurk. I got that knife you asked me for.\" he walked over to the tools and pulled a knife in a sheath out from behind a sturdy looking hammer,\" It would be easyer to fightr an urgle than to keep a secret from Marn, how old will he be?\" <br>\r\n<br>\r\n\" six,\" you say smileing, \" You didn't have to get a sheath, I could buy one.\"<br>\r\n<br>\r\n\"Tell him its our present.\"  I handed Baldor some meat and headed out of carevel toward my house. what does your family do.</span></div></div>",
+            "created":1320814800,
+            "id":1220632,
+            "title":"horst"
+        },
+        "1142312":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "You touch the dragon",
+                "You take the dragon to the Varden"
+            ],
+            "content":"<div class=\"\"><div> <span>You make most of your money from hunting, but your family also owns two sheep, one male and one female, and sell milk and wool to survive. Most other hunters don't go into the Spine. They're scared of it, but it's not really as bad as Sloan the Butcher makes out. You walk into the house and go up to your room at the top of the house. You set the strange stone on the ground, ponder it for a while, then go to your bed. During the night, you are woken by a strange scraping sound. You check around the room and conclude that the sound is actually coming from inside the stone on the ground. The a hole opened in the stone and a small, yellow dragon pushed it's way out. It was around this point that you came to the conclusion that perhaps this stone wasn't really a stone. It was an egg. </span></div></div>",
+            "created":1330491600,
+            "id":1286364,
+            "title":"weaver"
+        },
+        "11423121":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Everything",
+                "Ask him if you can go somewhere private"
+            ],
+            "content":"<div class=\"\"><div> <span>You approach the dragon. It looks up at you with it's small, yellow eyes. It brings it's head up and nuzzles your hand. As it makes contact with your hand, you feel an intense burning sensation. When you looked at your hand again, you saw a strange symbol on it. You decide to go to the square and trade some wool with the traders. You leave your dragon in your room and go to Carvahall. While there, you hear a story told by the town storyteller, Brom. <br>\r\n<br>\r\nYou are sitting round the campfire. Most of the traders had gone to bed. Those that were left were sitting round the fire, eating their evening meal. Brom cleared his throat and began to speak. He told of the dragons. The all out war between the elves and the dragons and the pact signed at the end which created the dragon riders. You listened to him. You waited for him to finish. After that, the traders went home. It was just you and Brom next to the fire. \"Brom\" you say, wondering how much to tell him. What do you tell him? </span></div></div>",
+            "created":1330491600,
+            "id":1286379,
+            "title":"You touch the dragon"
+        },
+        "114231212":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Your dragon flys out and attacks. ",
+                "You attack and your dragon grows "
+            ],
+            "content":"<div class=\"\"><div> <span>\"What is it you want?\" asked Brom. You showed him your hand where you had touched the dragon. Brom's eyes widened. \"That's a gedwey insignia\" he said \"It's the mark of a dragon rider\" You stepped backwards, too shocked for words. \"How did you get this?\" asked Brom. Brom told you his story. It was only fair that you tell him. So you began. You told him that you had been hunting in the woods when you found the egg. You hadn't thought much of it. When you got home, the egg had hatched and, after touching it, you had gained the mark. \"Where is your dragon?\" asked Brom. \"It's back at my house\" you say. \"Lets go, quick\" said Brom \"We must get it quickly\" You and Brom run back to your house. Only to find it burning. You ran towards it and forced your way in. You saw your little brother on a table, cowering against the flame. You quickly jumped over the fire and threw him over it to Brom. You tried to look for your parents. There wasn't anyone else in there. \"Come on\" said Brom \"It's your dragon we need to find\" You, Brom and your brother, Reece run out of the house. \"See if you can hear your dragon\" said Brom \"Dragon and rider are telepathically linked\" You quickly reach out with your mind, trying to find your dragon. You sensed something, then heard a female infants voice \"Help me\" \"Where are you\" you asked in your mind. Suddenly, your vision changed. You were inside a box, looking out into a clearing with several men in red cloaks and armour. You pulled out of your dragons mind and told Brom what you had seen. \"I don't know where they are\" said Brom. \"I do\" you say \"It's a clearing in the Spine\" You led Brom and Reece into the Spine and by a known path. You held up your hand to stop them and then pointed to smoke coming up from a clearing to the right. You pull out your bow, which you had on your back when you went to Carvahall earlier and fitted an arrow inside. \"Are you crazy?\" asked Brom \"There are too many of them\" You aimed the arrow for your dragon's cage. It was a simple cage, bound with rope. Your arrow severs the rope and the cage falls open.</span></div></div>",
+            "created":1330491600,
+            "id":1286392,
+            "title":"Ask him if you can go somewhere private"
+        },
+        "1142312122":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Spar for a while with Reece",
+                "Brom returns, leading a boy from your town and a blue dragon"
+            ],
+            "content":"<div class=\"\"><div> <span>As you fire an arrow at what appears to be the leader of the group of soldiers, your dragon grows. The man gets up from his perch, making you miss him by inches. He draws his sword and advances towards the growing dragon. You fire another arrow, slicing through a thin part of a large branch on a tree above a group of the soldiers. It falls on them, crushing them to death. You saw your little brother edging towards the fallen soldiers. You don't have to worry about him now. You fire at the captain again. This time, you bring him down. Your dragon grows, bigger than anything you'd ever seen. It let out a tremendous roar. The remaining soldiers ran. <br>\r\n<br>\r\n\"That was fun\" said the dragon in your head. <br>\r\n\"I never gave you a name\" you said, out loud. <br>\r\n\"How about Sulphira\" said Brom \"Suits her, don't you think?\" <br>\r\n\"A good name\" said the dragon. And so, Sulphira she would be called<br>\r\n\"We need to reach the Varden\" said Brom \"There's just a few things I have to do first, stay here, gather weapons and food from the soldiers packs, it's going to be a long trip\" <br>\r\n<br>\r\nBrom left. Leaving you and Reece to scavenge what you could from the soldiers. You looked around the weapons that all the soldiers had. You eventually found one to your liking. Reece also seemed to have found a good sword.</span></div></div>",
+            "created":1330491600,
+            "id":1286404,
+            "title":"You attack and your dragon grows "
+        },
+        "11423121222":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "You are attacked",
+                "You reach the other side of the Spine"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I thought all of the dragons were destroyed\" you said, staring in amazement at the blue dragon. \"You came upon your dragon by mere chance\" said Brom \"Eragon here also found his egg by chance\" You shook hands with Eragon. \"This is Saphira\" said Eragon. The blue dragon looked into your eyes and a voice came into your head \"Greetings young one\" The voice was female, like your own dragon's voice. \"We need to go\" you say \"If we stay here, they'll trace these dead soldiers to us\" Brom nodded and led the way away. \"Have you flown yet?\" aske Brom. Both you and Eragon shook your heads. \"Go, fly, I'll follow, we need to reach the Varden quickly\" You climbed onto Sulphira for the first time. You looked round to see Eragon sitting on Saphira. You both took off. Looking down, you watched Brom and Reece continue walking. </span></div></div>",
+            "created":1330491600,
+            "id":1286468,
+            "title":"Brom returns, leading a boy from your town and ..."
+        },
+        "114231212222":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "They fly",
+                "They don't fly"
+            ],
+            "content":"<div class=\"\"><div> <span>As you flew over the trees, you realised that the forest was thinning. You had reached the edge of the Spine. \"Shall we go down and wait for Brom and Reece?\" you shout to Eragon. \"We probably should\" Eragon replied. You and Eragon brought your dragons into land. It wasn't long before Brom and your brother came out of the trees. \"We need to keep moving\" said Brom \"We spotted some Urgal tracks a few miles back\" \"Should we go on foot now?\" asked Eragon. Brom considered. \"If we want to reach the Varden, we'll have to move quickly, perhaps we would be better if we were all in the air\" \"I can take Reece\" you say. \"I'm sure Saphira can take you and me\" said Eragon. </span></div></div>",
+            "created":1332133200,
+            "id":1298023,
+            "title":"You reach the other side of the Spine"
+        },
+        "1142312122221":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Watch",
+                "Flee"
+            ],
+            "content":"<div class=\"\"><div> <span>As you and Reece fly next to Brom and Eragon, you can't help but think how cold it has become. Then, you see a large, winged creature rise from the forest and pelt towards you. \"Razaac!\" shouted Brom. Saphira and Sulphira sped up. As you went, you saw another of the creatures rise up in front of you. \"There's another one\" you shout. \"Go!\" shouted Brom \"I'll hold them off. Brom stood up on Saphira and prepared to jump. Do you watch what he is about to do, or speed off in the direction of the Varden?</span></div></div>",
+            "created":1332478800,
+            "id":1300999,
+            "title":"They fly"
+        },
+        "11423121222212":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Sulphira and Reece agree",
+                "Reece wants to go with you"
+            ],
+            "content":"<div class=\"\"><div> <span>You fly as fast as you can away from these strange creatures. You weren't sure what they were, but you weren't going to wait around to find out. You were a few miles away before you realised that Eragon and Saphira had not followed. You feared the worst. You now felt guilty about leaving them to the Razaac. Both of you together may have had a chance. \"We shouldn't have left them\" you say. Both Reece and Sulphira agreed. \"There's not much we can do about it now\" said Sulphira. She flew on. \"Hey, does anyone actually know how to reach the Varden?\" asked Reece. Sulphira stalled her wings and landed in a tree. \"Brom gave me the information, I should be able to find it\" she explained \"We need supplies though\" As she said this, you reach a small city. \"Should I go into the city and find us some supplies?\" you asked. </span></div></div>",
+            "created":1332738000,
+            "id":1303060,
+            "title":"Flee"
+        },
+        "114231212222122":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Angela takes you to her herb shop",
+                "Angela tells you that she has heard from Brom and Eragon"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'm going with you\" said Reece \"I can watch your back\" You look to Sulphira. \"It would be better to have safety in numbers\" said Sulphira \"I would attract too much attention\" So eventually, you agree to let Reece go with you. You walk to the city gates. \"Hold it!\" said one of the guards on the door\" You and Reece stop. \"What is your business in Teirm\" So this was Teirm, a ship building village, you had heard of it before. \"They came to see me\" said a woman from inside the gate. As the guards looked at her, she pulled off her hood. \"My name is Angela, a herbalist here in the city, they came for some healing herbs to cure their sick mother\" Bewildered, you nodded. Reece backed you up. \"We have travelled far, Angela agreed we could stay the night with her and then tomorrow, we would start the journey back\" The guards raise their pikes and let you through the gate. </span></div></div>",
+            "created":1333170000,
+            "id":1306487,
+            "title":"Reece wants to go with you"
+        },
+        "1142312122221222":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Agree to go with Angela",
+                "Go on with Reece and leave Angela"
+            ],
+            "content":"<div class=\"\"><div> <span>\"What is your business here, Dragon Rider\" asked Angela. Your hand flys to your sword. Angela cackles. \"If I was an enemy, would I not have let you get captured by the guards on the gate\" \"Then who are you, and how do you know I'm a Dragon Rider\" you ask. \"Your companions came through here\" said Angela \"Brom and Eragon are alive, or at least, they were when I last saw them\" \"They were heading to the Varden\" you say, believing you could trust Angela \"We were separated during a Razaac attack\" \"I am planning to go to the Varden\" said Angela \"Perhaps you can join me on the journey\" You turn to Reece. \"What do you think?\" you ask him. \"She looks like a witch\" said Reece \"I don't trust her\" Angela laughed. \"I know magic, but your brother also has that capability\" This last remark threw you. \"I can do magic?\" you ask. Angela nodded. \"Your magic comes from your dragon\" she explained \"Magic requires words in the Ancient Language of the elves, I can teach you on the journey to the Varden\"</span></div></div>",
+            "created":1333170000,
+            "id":1306488,
+            "title":"Angela tells you that she has heard from Brom a..."
+        },
+        "11423121222212221":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Press her to teach you now",
+                "Accept it"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I won't be going for a few days yet\" said Angela \"Solembum hasn't returned from his hunting trip, and I don't want to leave without him\" \"Why do you want to go to the Varden\" asked Reece. \"I always like to be where things are happening\" said Angela. They had reached Angela's shop. It was a small shop, but the only one on a street of houses that were obviously meant for the wealthy. Angela went inside the shop and you followed. She sat down on one of the many chairs in the room and started writing things on a piece of paper. Looking at the piece of paper, you see a small picture of a toad. \"Is that a toad?\" you asked. Angela frowned. \"That depends\" she said. \"Depends on what\" asked Reece. \"I think toads don't exist\" said Angela \"This is what i'm doing, trying to prove that all toads are frogs\" \"Could you teach me some of this Ancient Language?\" you asked Angela \"Maybe later\" she replied </span></div></div>",
+            "created":1336242720,
+            "id":1330051,
+            "title":"Agree to go with Angela"
+        },
+        "114231212222122212":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Angela's fortune",
+                "Skip to the Varden"
+            ],
+            "content":"<div class=\"\"><div> <span>As you watched Angela writing, you didn't notice a small, cat like creature coming in the front door. \"Ah, Solembum\" said Angela. The cat (If it was a cat) looked straight at you. Then you heard a voice in your head. ''Welcome, Dragon Rider\" \"Solembum, I presume\" you thought in reply. \"Yes\" said the cat \" I am a werecat\" Then you noticed Angela looking at you. \"Would you like me to tell your fortune?\" she asked. \"O.K\" you say. Angela pulled out some bones and tossed them into the air. A closer look at the bones as they landed revealed them to have different runes on them. </span></div></div>",
+            "created":1336391340,
+            "id":1331349,
+            "title":"Accept it"
+        },
+        "11423121222212222":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "It's Brom",
+                "It's someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Sorry, Angela, but I think I should go and find Brom and Eragon\" you say. \"Goodbye then, (your name)\" said Angela. You left Teirm with the supplies you had bought. You and Reece climbed onto Sulphira and took off. \"We need to find Brom and Eragon\" you say \"Did you find any sign of them in your hunting expedition?\" \"I picked up Saphira's scent, I followed it to Leona Lake\" replied Sulphira \"I'll take you there now\" Not long after that, you noticed a small camp beside a lake. There was someone tied up next to the camp. You landed in the woods nearby so as not to alert anyone in the cmp to your presence. You sneaked towards the camp. You watched from the shadows as a strange creature tightened the bonds on their captive. It was then that you noticed the captive was Eragon. Rage overtook you. These things had captured Eragon. You pulled out your bow and got ready to shoot. \"I wouldn't do that if I were you\" said a voice to your left. Looking over, you saw a man standing over you. </span></div></div>",
+            "created":1336392780,
+            "id":1331354,
+            "title":"Go on with Reece and leave Angela"
+        },
+        "114231212222122222":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Put the plan into action",
+                "Wait for night"
+            ],
+            "content":"<div class=\"\"><div> <span>\"This is the wrong place to talk\" said the man \"Can we go back to your camp?\" You nodded and led him back through the trees to the clearing you had landed in. \"What dod you find?\" asked Sulphira. \"It's Eragon\" you say \"He's been captured\" \"I thought all the riders had been destroyed\" said Murtagh \"Your a rider?\" You nodded. \"As is Eragon\" you say \"Which is why we need to rescue him\" \"Those things that captured them\" said Murtagh \"They're called the Razaac, they're faster and stronger than any human, the arrow would have wounded him, but then you would have been killed\" \"Maybe Sulphira can help\" you say \"Provide a distraction so we can get Eragon out\" \"That reminds me, they also have a blue dragon in a cage too\" said Murtagh \"I can free it while you free Eragon\" A plan had been formed, now all that remained was to put it into action. </span></div></div>",
+            "created":1336393440,
+            "id":1331356,
+            "title":"Murtagh"
+        },
+        "1142312122221222221":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "You go for a ride on Sulphira. Eragon is captured again. ",
+                "Something else happens"
+            ],
+            "content":"<div class=\"\"><div> <span>As Sulphira bombarded the Razaac with fire, you ran towards Eragon. Pulling out your knife, you cut the ropes. As you helped him up, you both heard a roar as Murtagh freed Saphira. Then, there were two dragons attacking the Razaac. They got up and ran. The dragons landed. Reece came out of hiding and Eragon thanked Murtagh for his help. \"We have to get out of here\" you say \"They'll be back\" \"We should split up\" you say \"Theres only two of them\" Saphira took off, carrying Eragon and Murtagh while Sulphira took off carrying you and Reece. Brom, who turned up as you were about to leave, went on horseback. At the end of the day, yuo regrouped. You asked Eragon what had happened since you had left them. Eragon told you that Brom was once a rider and they had been tracking the Razaac for weeks. He also told you about a recurring dream he had had. He even joined minds with you to show you the dream. \"Brom taught me how to scry her\" said Eragon \"I think we need to rescue her\" \"Do you have any idea where she is?\" you ask. Eragon shook his head. </span></div></div>",
+            "created":1336395240,
+            "id":1331372,
+            "title":"Put the plan into action"
+        },
+        "114232":{
+            "author_id":"tell-it",
+            "author_name":"joker",
+            "choices":[
+                "People of caraval",
+                "army of the king Galbatorix"
+            ],
+            "content":"<div class=\"\"><div> <span>As I stalked toward the encampment, I raised Reona to a fighting stance. The group ahead could not see the brownish-green blade befind the brush and trees. I had observed them for a while as they crossed the spine, and before that, heard the birds wisper about them. maybe I'm mad,but then, it has served me well. Keeping me alive. This group is then probably mad, to. For they haven't diminished exept in the size of an indevigual.<br>\r\n<br>\r\nI stepped out of the cover of the trees, and imeadetly was spotted by a number of people who drew weapons. One man setpped forward,\"Who are you?\" he inquired.<br>\r\n<br>\r\n\"I am who I am. You?\"</span></div></div>",
+            "created":1320901200,
+            "id":1221103,
+            "title":"other"
+        },
+        "1142322":{
+            "author_id":"yogi-bear",
+            "author_name":"Undbitr",
+            "choices":[
+                "follow the soliders",
+                "return home"
+            ],
+            "content":"<div class=\"\"><div> <span>\"We are soldiers sworn to the service of his majesty king Galbatorix. Now who are you?\" said the man who had originally stepped forward.<br>\r\n\"I'm Jason son of Rengald. I was just walking through the woods when I heard you and your band of troops making the loudest racket I've heard in a week. If I may ask where are you heading?\" you said sheathing your blade.<br>\r\n\"I'm afraid I can't tell you sir but please return home.\" said a man stepping forward he had a red cloak draped across his back on it you saw stars and what looked like a tree.<br>\r\n\"Alright I'll return home, but if you need guidance I'd be more than willing to help you find your way through the woods.\" you said talking to the man in the cloak.<br>\r\n\"no it's fine, you return home now, Jason was it?\"<br>\r\n\"yes sir.\" you said marching back into the woods when suddenly the man shouted to you \"Jason! If you find a white stone with yellow markings bring it to us.\"<br>\r\n\"will do sir.\"<br>\r\n</span></div></div>",
+            "created":1320987600,
+            "id":1221740,
+            "title":"army of the king Galbatorix"
+        },
+        "11423221":{
+            "author_id":"tell-it",
+            "author_name":"joker",
+            "choices":[
+                "find the egg",
+                "make camp"
+            ],
+            "content":"<div class=\"\"><div> <span>I loudly walked away from the clearing till I had not seen them for a few minutes. I then followed them. I asked the birds to report to me while I searched for the stone like egg that they had asked me to look for. I knew it was a dragon egg becuase I have a dragon that I had seen hatch, to my father. He came to me after  my father was killed. promiseing me that I was as rightful of a Rider as my father, for I had touched him at the same trime. Saring, my dragon, has taught me as well as Veral had to my father. I move to a thicket, and pear iin with my mind. Reaching out, feeling. The egg is not there.<br>\r\n<br>\r\nA wood peckker strikes a tree, twices quickly and once after a pause. The soilders are heading this way! I Reach out and feel them coming closer, I bolt the other way. I feel an emptyness in front of me. The forest opens up to a revien. \"Saring!\" As I fell over the edge a tree sprang from the side of the cliff. It caught me and flew off ocross the canyon.</span></div></div>",
+            "created":1322715600,
+            "id":1232582,
+            "title":"follow the soliders"
+        },
+        "12":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Foresworn",
+                "Shade",
+                "Urgals",
+                "Human"
+            ],
+            "content":"<div class=\"\"><div> <span>Foresworn: Group of Dragon Riders that sworn loyalty to Galbatorix, King of Alagaesia.<br>\r\n<br>\r\nShade: Human possessed by spirits, due to trying to summon spirits stronger than them self. Stronger than average Elves, few survive killing a Shade.<br>\r\n<br>\r\nUrgal: Ram horned humanoid creatures, stronger than average human. Bigger and able to last longer in harsh environment than human.</span></div></div>",
+            "created":1273122000,
+            "id":879070,
+            "title":"Bad Guys"
+        },
+        "121":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Sword",
+                "Hammer",
+                "Bow and arrow"
+            ],
+            "content":"<div class=\"\"><div> <span>\" Get ready for training.\" Your servant called from the outside. You groaned and climbed out of bed, then, after the usual hygienic routine, you step out in full golden armor. You walked towards your dragon: Galzra, who is in the shade of light green. You smile and pat his back. <i> Good morning Galzra. </i> You said to him.<br>\r\n<br>\r\n<i>Morning Little One.</i> You could of swore he smiled.<br>\r\n<br>\r\nMurtagh* walked over and patted your back and said:\" Time to train.\"<br>\r\n<br>\r\nYou smile and led Galzra to the training grounds. Together, you and Galzra flew around the stadium twice, and landed. Murtagh smirked and jumped on Thorn*, then pulled out his hand-and-a-half sword. What is your weapon?<br>\r\n<br>\r\n<br>\r\n<br>\r\nMurtagh: New generation of the Forsworn, son of Morzan, original Forsworn. Half brother of Eragon.<br>\r\n<br>\r\nThorn: Murtagh's dragon. Red scaled, accelerated growth.</span></div></div>",
+            "created":1273813200,
+            "id":883378,
+            "title":"Foresworn"
+        },
+        "1213":{
+            "author_id":"yogi-bear",
+            "author_name":"Undbitr",
+            "choices":[
+                "\"go get rested up\"",
+                "\"let's go again\"",
+                "\"Murtagh you go I want to talk to Galzra and Trent\""
+            ],
+            "content":"<div class=\"\"><div> <span>You quickly pulled your bow off your back and strung an arrow just as Murtagh unsheathed his blood red sword Zarok. You pulled back and loosed three arrows in rapid succession. Murtagh closed the distance between you and him in a matter of seconds when WHAM! the dragons collided infront of you with Galzra on top of Thorn. you jumped back ran a couple feet back and waited for Murtagh to show himself. around the Dragons he came you loosed and hit him square in the chest. and then a booming voice said \"Murtagh you're dead, and it looks as though Galzra is down also.\" you looked at your dragon and saw him under Thorn. You loosed five arrows at Thorn. They all bounced off and you drew your short blade and bolstering your magic you jumped up and onto Thorn, you put the blade under thorns neck when the voice said \"Thorn is dead. Good job Trent.\" you hoped off of Thorn and walked over to Galzra smiling and said to Murtagh \"That was the best in a while Murtagh.\"<br>\r\n\"yeah same to you. if you keep up like you have been my brother won't chance.\" replied Murtagh.<br>\r\nthen the voice said...</span></div></div>",
+            "created":1310965200,
+            "id":1150156,
+            "title":"Bow and arrow"
+        },
+        "12131":{
+            "author_id":"yogi-bear",
+            "author_name":"Undbitr",
+            "choices":[
+                "bedroom",
+                "other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Now you two go get rested up you'll have a big day tomorrow.\" the voice said.<br>\r\n\"Yes my lord.\" you and Murtagh said in unison. You then walked out the door on the far side of the field Murtagh walking beside you with the two dragon's behind you. Thorn's Red and Galzra's green created an interesting color combination between the two of them.<br>\r\n\"What spell did you use when you hopped up on Thorn's neck?\" Murtagh asked removing the block from his sword.<br>\r\n\"I used the spell Galbitorix taught us a week ago 'Efri' you remember right?\" you said, using the word for Upper in the ancient language while also removing the blocks from your arrows, a much longer process, but wholey worth it.<br>\r\n\"Yeah I remember. I thought you might have used 'Trethin' though.\"  Murtagh responded using the word for  Jump.<br>\r\n\"I'll see you later okay?\" you asked<br>\r\n\"Yeah sure same time?\" he asked<br>\r\n\"Yeah see you then.\"<br>\r\n<br>\r\n<br>\r\nWhere do you go next?<br>\r\n<br>\r\n(Edited some grammar and structural mistakes :P) --Sora_Roxas</span></div></div>",
+            "created":1322715600,
+            "id":1232857,
+            "title":"\"go get rested up\""
+        },
+        "122":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Put only a few, but drug her.",
+                "Put alot, and watch her carefully.",
+                "Put alot of guards, drug her, and lock her in a dungeon under ground."
+            ],
+            "content":"<div class=\"\"><div> <span>You are a Shade under King Galbatorix's* rule, being a Shade, you posses inhumane abilities that aid you in fighting. Only few has survive killing one of your kind. This day, you are sent to be the ambush unit on three elves, Arya** and her two guards. You wait on the path they were supposed pass through, with your Urgal companions, you hid under a bush. Then, you hear a faint galloping sound, minute by minute, it is growing louder. You were the first to spot the trio, so you whisper to your Urgal soldiers, telling them to get ready. When the three are in range, you suddenly shot out of the bush you're hiding behind, and instantly took the life of one guard. The once proud guard fell, and lay motionless on the ground. This alerted the remaining two, but before they can come to their senses, your soldiers charged out from behind the bushes, attacking them.<br>\r\n<br>\r\nAfter a quick fight, the two guards lay there, soundless, while Arya, your main target is unconscious. You gently pick her up, and carried her away, although her charm could charm the heck out of any mortal man, it has no effect on you.<br>\r\n<br>\r\nYou arrive at Gil'ead two days later, and you carry Arya to a cell, and wonder how many guards should you put...<br>\r\n<br>\r\n<br>\r\n<br>\r\nGalbatorix: Once a Dragon Rider, but slaughtered all of them except him and the Foresworn, then claimed himself King of Alagaesia.<br>\r\n<br>\r\nArya: Princess of the Elves, ambassador, and stolen dragon egg carrier.</span></div></div>",
+            "created":1273726800,
+            "id":882462,
+            "title":"Shade"
+        },
+        "1221":{
+            "author_id":"platina",
+            "author_name":"Sora_Roxas_Keyblade",
+            "choices":[
+                "Memories"
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to put only a few guards on her, but, to be careful, you also drug her. You smile and went to rest.<br>\r\n<br>\r\n-- Two Months Later--<br>\r\n<br>\r\n\"You received an order, sir.\" A messenger reported. You ask him what is the order, and he spoke:\" King Galbatorix heard of a new Rider on the Lands of Alagaesia, and have you go and intercept on his trail.\"<br>\r\n<br>\r\nYou walked out alone, excited. It has been along time since you fought a worthy opponent, and you are anxious to know how strong a Rider can be without his dragon. You examine your sword for any damage, and saw a cut on it. It was a mark of the fight between you and Ajihad.</span></div></div>",
+            "created":1274418000,
+            "id":886665,
+            "title":"Put only a few, but drug her."
+        },
+        "123":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Before the battle of Farthen Dur",
+                "Before the battle of the Burning Plains (Urgals are allies of the Varden)",
+                "After the fall of Galbatorix (Urgals can be Riders)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>At what point in the Urgals timeline is this?</span></div></span></div>",
+            "created":1335243600,
+            "id":1321930,
+            "title":"Urgals"
+        },
+        "1233":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "A year (two eggs have hatched)",
+                "Ten years (twenty eggs have hatched)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How long after the fall of Galbatorix does this story take place?</span></div></span></div>",
+            "created":1335243600,
+            "id":1321931,
+            "title":"After the fall of Galbatorix (Urgals can be Rid..."
+        },
+        "12331":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Meeting Vanir",
+                "Skip to the egg"
+            ],
+            "content":"<div class=\"\"><div> <span>It was just a year after the fall of Galbatorix. Alagaesia were enjoying a period of peace. The urgals, because of their help in overthrowing Galbatorix, were given land to farm and cultivate. They were also added to the pact between the races of Alagaesia and the dragons. The dragon egg that had been captive by Galbatorix had hatched to Arya of Du Weldenvarden. A purple egg was on it's way to the urgal village where, as was tradition in most races, children would parade in front of the egg to see if it would hatch. You would be one of these children. You were strong and towered over your fellows, you had the makings of a Kull. You knew that Arya had gone to Artelam, a race outside of Alagaesia to train as a rider. You had yet to meet Vanir, the new egg courier. </span></div></div>",
+            "created":1335243600,
+            "id":1321935,
+            "title":"A year (two eggs have hatched)"
+        },
+        "12333":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "100 years (The Riders have become powerful again and dragons have been restored)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Another span of years</span></div></span></div>",
+            "created":1335243600,
+            "id":1321936,
+            "title":"Other"
+        },
+        "124":{
+            "author_id":"ryannfraser",
+            "author_name":"Ryan",
+            "choices":[
+                "Human",
+                "Razaac"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Human or Razaac?</span></div></span></div>",
+            "created":1335243600,
+            "id":1321943,
+            "title":"Human or Razaac"
+        }
+    },
+    "info":{
+        "author_id":"platina",
+        "author_name":"Sora_Roxas_Keyblade",
+        "brief_description":"You're in the world of Eragon. No need to read Eragon to understand. Explanation included",
+        "created":1273071060,
+        "description":"<td align=\"left\" class=\"norm\">You are about to enter the world of Eragon<br>\r\n<br>\r\nThis story is in second-person point of view. So if you want to add a chapter, plz keep it in second-person form ( Main Character is YOU! No names please.)<br>\r\n<br>\r\nYou do not need to read the series to understand the story. Explanation included.</td>",
+        "id":1670375,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1373837820,
+        "modified":1373837820,
+        "pretty_title":"Eragon: Your Own Story"
+    }
+}

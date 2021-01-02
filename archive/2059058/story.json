@@ -1,0 +1,308 @@
+{
+    "chapters":{
+        "1":{
+            "choices":[
+                "Dynasty Warriors",
+                "Samurai Warriors",
+                "Warriors Orochi",
+                "Dynasty Warriors Gundam",
+                "A different entry"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, which entry in the series do you want to delve into?</span></div></span></div>",
+            "created":1443330000,
+            "id":2040249,
+            "title":"Choose your Adventure!"
+        },
+        "11":{
+            "choices":[
+                "Wei",
+                "Wu",
+                "Shu",
+                "Jin",
+                "Miscellanious"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which clan do you want to choose?</span></div></span></div>",
+            "created":1443330000,
+            "id":2040511,
+            "title":"Warring States"
+        },
+        "111":{
+            "author_id":"br0kendestiny",
+            "author_name":"BB42",
+            "choices":[
+                "Cao Cao",
+                "Xiahou Dun",
+                "More Wei Officers"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now which warrior of Wei do you choose to gain weight?</span></div></span></div>",
+            "created":1450501200,
+            "id":2076470,
+            "title":"Wei"
+        },
+        "1113":{
+            "author_id":"br0kendestiny",
+            "author_name":"BB42",
+            "choices":[
+                "Xiahou Yuan",
+                "Dian Wei",
+                "More Wei Officers"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who do you choose to gain weight? Xiahou Yuan? Or Dian Wei?</span></div></span></div>",
+            "created":1450522980,
+            "id":2076471,
+            "title":"More Wei Officers"
+        },
+        "12":{
+            "choices":[
+                "Takeda",
+                "Oda",
+                "Tokugawa",
+                "Uesugi",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which clans shall be chosen?</span></div></span></div>",
+            "created":1443330000,
+            "id":2040516,
+            "title":"Samurai Warriors"
+        },
+        "125":{
+            "choices":[
+                "Akechi",
+                "Shimazu",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>There are more options to choose from!</span></div></span></div>",
+            "created":1443330000,
+            "id":2040517,
+            "title":"More"
+        },
+        "13":{
+            "choices":[
+                "Fu Xi",
+                "Da Ji",
+                "Kaguya",
+                "Nuwa",
+                "More Characters to Follow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one of these lovely folks will start packing on the pounds?</span></div></span></div>",
+            "created":1452928560,
+            "id":2089933,
+            "title":"Warriors Orochi"
+        },
+        "14":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "Dynasty Warriors Gundam 1",
+                "Dynasty Warriors Gundam 2",
+                "Dynasty Warriors Gundam 3",
+                "Dynasty Warriors Gundam Reborn"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which game's story do you want to go with? The large story all characters share, like in One and Three? Or the episodic format of Two and Reborn?</span></div></span></div>",
+            "created":1572423660,
+            "id":2740174,
+            "title":"Dynasty Warriors Gundam"
+        },
+        "141":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "Amuro's Team",
+                "Kamille's Team",
+                "Judau's Team",
+                "More teams"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which team is going to fatten up?</span></div></span></div>",
+            "created":1572424020,
+            "id":2740176,
+            "title":"Dynasty Warriors Gundam 1"
+        },
+        "1414":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "Domon's Team",
+                "Heero's Team",
+                "Loran's Team"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which team is going to fatten up?</span></div></span></div>",
+            "created":1572424140,
+            "id":2740177,
+            "title":"More teams"
+        },
+        "14143":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "Loran",
+                "Emma",
+                "Puru Two",
+                "Henkin",
+                "Horace"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's going to get a huge gut? Loran, Emma, Puru (NOT Ple) Two, Henkin, or Horace?</span></div></span></div>",
+            "created":1572424260,
+            "id":2740178,
+            "title":"Loran's Team"
+        },
+        "141431":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "Just Loran",
+                "Loran and Emma",
+                "Loran and Puru Two",
+                "Loran, Emma, and Puru Two",
+                "The entire team"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is anyone else going to pack on the pounds?</span></div></span></div>",
+            "created":1572424440,
+            "id":2740180,
+            "title":"Loran"
+        },
+        "1414314":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "They decide to take a break and get a snack",
+                "They try different exercise techniques",
+                "The alarm sounds, they're under attack!",
+                "A few weeks later, they're all even fatter",
+                "Two of them manage to lose weight, while one gains it"
+            ],
+            "content":"<div class=\"\"><div> <span>On board the Argama, in it's gym, three big bellies bobbed and bounced, the rest of the corpulent forms they were a part of jiggling just as much.<br>\r\n<br>\r\n\"*huff* Keep it up! We're burning a lot of calories!\" Emma, cheered on her two friends as the three of them performed jumping jacks.<br>\r\n<br>\r\n\"Oh man! *huff* *huff* I'm about to collapse!\" Loran complained, who was the most out-of-shape of the three. Not because he was particularly heavier, he wasn't, but because even before they gained weight he wasn't as athletic as the other two.<br>\r\n<br>\r\n\"Pull *huff* yourself *huff* together!\" Puru Two chided, partly to distract herself from her own exhaustion. Not that she wouldn't have said it if she wasn't exhausted.<br>\r\n<br>\r\n\"You better mind *huff* your manners!\" Loran shot back.<br>\r\n<br>\r\n\"Both of you *huff* knock it off! *huff* *huff*\"<br>\r\n<br>\r\nAll three were red in the (chubby) face and sweating, to the point of glistening with it. In Loran and Emma's cases, this extended to the parts of their bellies were visible. They had only been exercising for a little under seven minutes and they all were acting like they had been traversing a desert without any water. It didn't even take seven minutes for them to get like this.<br>\r\n<br>\r\nEven though they all had vastly different personalities, being members of the AEUG and sharing beliefs typical of it's members was pretty much all they had in common, they had all gotten fat around the same time. None of them were really sure why they got so fat, they just found themselves eating more and more, and when they snapped out of their denial of how much weight they were gaining, it was only because they had gotten so fat they couldn't deny it anymore. Maybe it was the stress of their situation, after all, while they had been in plenty of stressful situations, a planet possibly crashing into Earth was something else. Or maybe it was some effect of this mysterious planet they were on. Though Emma felt like that explanation was just dodging responsibility, even if it would explain their predicament perfectly.<br>\r\n<br>\r\nLoran's belly was a great, big ball of adipose that was fighting his suspenders and the buttons on his shirt. The suspenders and buttons was very clearly under a lot of stress, the gaps between each button exposing chubby, brown belly flab. The entirety of his underbelly was left visible, which really showed off how much it was jiggling when he walked, one of the gaps in his button-up shirt showed off his incredibly deep bellybutton. The ball of fat was very soft and nice to play with. Loran liked to sometimes feel it up and mess around with it, but only when he was positive no one would see him, of course.<br>\r\n<br>\r\nHis chest had become soft and plush man boobs that used his tummy as a shelf. The jiggling sacks of fat were big enough to be mistaken for actual boobs, making Loran look even more like a girl. Not that he needed any help in that regard, as his Laura disguise proved.<br>\r\n<br>\r\nHis butt was huge, bigger then the behinds of some women. Each ass cheek used to be perky and toned, but that had disappeared and been replaced with soft, squishy fat that jiggled with every step. His ass easily filled up any normal-sized chair he sat down in, with some flab even spilling off the sides. It was safe to say Loran had the biggest ass of the three.<br>\r\n<br>\r\nThis bubblebutt was complimented by a pair of chubby legs that were equally lacking in tone. They were soft and meaty with chub, jostling with each footfall and pressing together with pretty much no separation. His arms were soft and flabby, with no muscle or tone to them.<br>\r\n<br>\r\nLoran's face was always rather inviting, and the weight he had gained only amplified that. With soft, chubby cheeks and a double chin, pretty much every angle his face once had was swallowed by chub, leaving it round and pie-like. This made him look even more friendly, which Loran didn't mind. What he did mind, however, was that it left him pretty much incapable of looking serious, any attempts at asserting himself or trying to force a situation to defuse now only looked cute.<br>\r\n<br>\r\nEmma's belly was a giant orb of adipose that stretched her uniform to it's very limits. Her green uniform top couldn't be completely zipped anymore, the gaps showing off plenty of belly fat and her bellybutton, which was just as cavernous as her Moonrace friend's. Her belt was incredibly tight on her, holding on for dear life. The AEUG pilot was really worried that her gut would snap her belt right in half. Emma's gut had a hang to it and would jiggle and bounce with every step she made, throwing off her natural rhythm.<br>\r\n<br>\r\nShe easily had the biggest boobs of the group. They were massive orbs of soft fat that jutted out just as much as her gut, which was really saying something. Her tits were massive enough that they forced the part of her vest that covered them to part, giving anyone who looked at her an eyeful of cleavage. Like her ball of a tummy, they jiggled with every step.<br>\r\n<br>\r\nHer butt used to be fairly flat and toned but now it was big and soft. It wasn't just embarrassing to have such a big and jiggly behind, but it was impractical, as the cockpit chair for the Gundam MK-II was too small for it. sure she could squeeze into it, but it was really uncomfortable and distracting, which she was worried might be throwing her off her game.<br>\r\n<br>\r\nBeing a former member of the Titans, and compared to Loran and Puru Two, the only one to receive military training, Emma sued to have the most fit and toned arms and legs of the group. What was once arms and legs befitting of a solider were now arms and legs befitting of a couch potato. Her legs were chunky, rubbing together when she walked, with hardly much separation when she wasn't. Her arms were chubby, her biceps now bulges of fat that would jiggle whenever she threw a punch. Needless to say, Emma was a lot weaker now, good thing she usually only fought in her mobile suit.<br>\r\n<br>\r\nEmma's face hadn't been affected too much by her weight gain, but it was still much softer nonetheless. Her cheeks were a little softer and she now had a small double chin, which would go from small to big whenever she looked down at her gut. Emma didn't exactly like how her face now looked less tough and more cuddly, but she was determined to make due with it. She wasn't going to like a little fat get in the way of being an authority figure.<br>\r\n<br>\r\nPuru Two's gut was big, the biggest of the three. Well, in proportion to her small stature. It was a giant sphere of adipose that was pressing against the Puru's unique normal suit with all it's chubby might, it wouldn't be unreasonable for one to be worried it was about to explode right out of it. The outline of her cavernous bellybutton was even visible. Gravity caused Puru Two's gut to hang down to obscure her crotch, emphasizing how filled with fat it was. The ball of chub would start bobbing and bouncing when the Puru walked or was piloting her Qubeley. Puru Two didn't like having a gut but she liked that she could at least see it as a weapon by belly bumping her enemies. Or someone annoyed her, like Loran.<br>\r\n<br>\r\nPuru Two's breasts had gone from nearly flat to big enough to fill up a B cup, an impressive size for someone her age, albeit much more jiggly. Having bigger boobs was the one thing about getting fat she actually liked, though if someone else was bragging about having bigger tits because they got fat, Puru Two would've said that's like being proud your car is fast as it falls off a cliff.<br>\r\n<br>\r\nFor someone her size, her ass was impressive. Her cheeks were the size of volleyballs and bounced as a reminder of how fat she was whenever the Puru made a step, especially if she was running, which she wasn't doing often these days. Much like her belly, her bubblebutt was jiggly and pressing against her normal suit. Unlike Loran and Emma, Puru Two didn't have to squeeze into the cockpit chair of her mobile suit, as it was designed for someone much older. So while it was a bit too big for her before, it was now a comfortable fit for the now obese Puru Two. <br>\r\n<br>\r\nHer arms and legs were soft and pudgy. While no one was expecting toned arms and legs from someone Puru Two's age, the way they were coated with jiggly flab made it clear she out of shape. However, thanks to the enhancements she as part of her artificial creation, she wasn't as out of shape as she would've been fi she was normal.<br>\r\n<br>\r\nThe part Puru Two hated the most about getting fat was easily how fat her face was now. Like Loran, her face had lost all it's angles, and those angles were replaced with puffed-up cheeks and a double chin. This rendered nearly all of her moments of anger or snarking as adorable, much to her chagrin. An easy way to piss her off was to pinch her chubby cheeks.</span></div></div>",
+            "created":1572425940,
+            "id":2740182,
+            "title":"Jiggly Jumping Jacks"
+        },
+        "14143141":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "A few weeks later, they're all even fatter",
+                "The alarm goes off, they're under attack!",
+                "They have a burping contest",
+                "An unmanned mobile suit approaches the Argama",
+                "Emma becomes convinced the planet is affecting their appetites"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Don't *huff* waste your energy bickering. *huff*\" Emma chided.<br>\r\n<br>\r\n\"A-Actually, *huff* can we take a break?\" Loran asked, though he had a feeling the answer was no. \"*huff* *huff* I'm competently spent.\"<br>\r\n<br>\r\n\"No, Loran.\" Emma said after some huffing. \"We've gotta lose these bellies. Earth is *huff* depending on us\"<br>\r\n<br>\r\n\"You- *huff* You're right.\"<br>\r\n<br>\r\nThey were only able to keep this up for another minute, and by that point their forms had long suffered greatly from their exhaustion, becoming much more sluggish and clumsy.<br>\r\n<br>\r\n\"*huff* A-Actually, I've gotta side with Loran on this.\" Puru Two said.<br>\r\n<br>\r\n\"I *huff* I think we did pretty good *huff*, right?\" Loran said. \"So how about *huff* we take *huff* a break?\"<br>\r\n<br>\r\nEmma really wanted to say no, quitting after not even ten minutes of exercise was pathetic for soldiers, but at this rate, they were all about to collapse. \"I *huff* suppose so.\"<br>\r\n<br>\r\nAnd with that, they all collapsed together. Simply put, they were a mess, their bellies moving in and out as they caught their breaths. It was a wonder how they were able to get up to drink some water. Perhaps they were just that thirsty.<br>\r\n<br>\r\nBut right after they satisfied their thirst, their hunger made itself known. In other words, their tummies all growled at the same time, eliciting blushes on the faces of the three AEUG members as each one looked down at their giant belly. Loran chuckled nervously as he patted his tummy. \"How about an after workout snack?\" He cheerfully said with a smile.<br>\r\n<br>\r\n\"For once, you've got a good idea.\" Despite it being a backhanded compliment, Puru Two smiled back at Loran as they hi-fived each other.<br>\r\n<br>\r\n\"You guys...\" Emma started, trying to ignore her own hunger.<br>\r\n<br>\r\n\"I know, I know. But just because we're trying to lose weight doesn't mean we should starve ourselves.\" Loran said, rubbing his chubby belly as he thought about all the food he was about to eat. He could really go for some pizza right now.<br>\r\n<br>\r\n\"Hey, if you want to starve yourself, I'll eat your share.\" Puru Two said as she also rubbed her gut in anticipation, except she was thinking about bingeing on ice cream instead of pizza.<br>\r\n<br>\r\nEmma chuckled. \"Well, in that case, I guess I'll have to save you from your own gluttony and eat as much a I can!\" Emma joked and gave a big slap to her gut, sending it jiggling. She was in the mood for some burgers. \"In all seriousness, you're right, a little snack wouldn't hurt.\"<br>\r\n<br>\r\n+++<br>\r\n<br>\r\n\"BUUUUUUUUUUUURRRRRRRRRRP!\"<br>\r\n<br>\r\nAn incredibly loud belch erupted from Loran, Emma, and Puru Two as they rubbed their packed-full middles with satisfied looks on their chubby faces, you wouldn't be able to tell they were working out just one hour ago. The burp was loud enough to make the room itself shake, the remains of their bingeing trembling on the table they were sitting at. The three of them were utterly stuffed! Their guts had nearly doubled in size, Emma's snapped her belt in half, while Loran's snapped his suspenders and popped off all the buttons on his shirt except for the top one that was responsible for keeping his moobs covered. This left both their tummies completely exposed to this strange, new world. Normally they would be horrified but after a good binge like that, it was impossible to have a care in the world. The embarrassment could wait until tomorrow.<br>\r\n<br>\r\n\"Oh man! BOOOORRRP! That hit the spot!\" Loran gave his big belly a hearty slap, resulting in lots of jiggling and another big burp from the big-bellied Moonrace.<br>\r\n<br>\r\n\"You -UUUUUURRRP- said it. UUURRAAAP!\" Emma gave her gut a few pats in a satisfied manner.<br>\r\n<br>\r\n\"Puru -BUUUURRRRP- Puru!\" Puru Two said as she grabbed the sides of her well-fed gut and shook it.<br>\r\n<br>\r\n\"Huh? What does \"Purupuru\" mean?\" Loran asked. \"Is that an inside joke or something?\"<br>\r\n<br>\r\nPuru Two blushed. \"N-Nothing! It doesn't mean anything!\"</span></div></div>",
+            "created":1572426360,
+            "id":2740185,
+            "title":"Snacking > Exercising"
+        },
+        "15":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "Hyrule Warriors",
+                "One Piece Pirate Warriors",
+                "Dragon Quest Heroes",
+                "Arslan: The Warriors of Legend",
+                "Another entry"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which entry do you want to delve into?</span></div></span></div>",
+            "created":1443330000,
+            "id":2040254,
+            "title":"A different entry"
+        },
+        "151":{
+            "choices":[
+                "Link ",
+                "Zelda",
+                "Someone else,,,"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, now we've made it to Hyrule itself! Who here is going to start packing on the pounds, hm?</span></div></span></div>",
+            "created":1452928680,
+            "id":2089934,
+            "title":"Hyrule Warriors"
+        },
+        "1513":{
+            "author_id":"n.m.e",
+            "author_name":"N.M.E",
+            "choices":[
+                "Ruto",
+                "Impa",
+                "next"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about this?</span></div></span></div>",
+            "created":1456941300,
+            "id":2112145,
+            "title":"Someone else,,,"
+        },
+        "15133":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "Fi",
+                "Midna",
+                "More choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Now who do you want to get fat?</span></div></span></div>",
+            "created":1461808740,
+            "id":2140224,
+            "title":"Light and Shadow"
+        },
+        "151331":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "Fi stuffs herself",
+                "They all stuff themselves",
+                "They have an eating contest."
+            ],
+            "content":"<div class=\"\"><div> <span>Link panted, struggling to to catch his breath as he leaned onto the sword he planted into the ground for support. The blonde was exhausted, the Hylian army had just fought a long and tiring battle, one they come out of victorious. As one of the many soldiers serving on the front lines, Link needed to rest.<br>\r\n<br>\r\n\"Master, I detect that you are experiencing high levels of exhaustion. I suggest laying down in bed and resting, along with drinking an ample amount of water.\" Fi stated, floating by Link's side. The sword spirit had fought with Link during the battle.<br>\r\n<br>\r\n\"*Y-yeah. *Huff* that sounds *huff*  that sounds good.\" Link responded, he really wished that he could just fall asleep right now.<br>\r\n<br>\r\n\"I think I have a better idea.\" Zelda said as she walked towards the pair. She had participated in the battle just as much as they had, which meant that she was just as exhausted. \"Since we've just brought Hyrule a large victory, I say we have an even larger feast! We'll stuff ourselves till our bellies are stuffed to the brim.\" The gluttonous princess gave her stomach a few pats for emphasis.<br>\r\n<br>\r\n\"That'd be great, Zelda.\" Link said.<br>\r\n<br>\r\n\"I do not see how overeating to such an extant would aid us.\" Fi replied. \"Do you and Link not normally avoid doing so?\"<br>\r\n<br>\r\n\"That's part of the fun.\" Zelda explained, smiling in a friendly manner. \"It's us letting go of all our worries and just enjoying ourselves. And enjoying all that tasty food. Mmmm.\" She rubbed her tummy in excitement as she imagined all the yummy food she would devour tonight.<br>\r\n<br>\r\n\"I see. I would like to enjoy this feast with you and master, if you would allow it\" Fi said, she was curious as to what this experience would be like.<br>\r\n<br>\r\n\"Of course!\" Zelda enthusiastically answered. \"I'd be disappointed if you didn't join us.\"<br>\r\n<br>\r\n\"As would I but can you even eat, Fi?\" Link asked, the blonde had never actually seen Fi eat or even see her hungry.<br>\r\n<br>\r\n\"Yes\" The sword spirit answered. \"The inside of my body is identical to yours. However, it would only function if there was a need for it to do so, like if I were to eat.\"<br>\r\n<br>\r\n\"Well, you're going to be doing a lot of that tonight.\" Zelda said, a big smile on her face. \"Get ready to have a stuffed belly, Fi!\"<br>\r\n<br>\r\nHours later, during the night, a truly massive feast laid before Fi, Link, and Zelda. When Zelda said they were going to have large feast, she wasn't kidding. The table in Zelda's private room was filled to the brim with tons of delicious and fattening foods, such as cakes, pies, hams, and much more.<br>\r\n<br>\r\n\"This looks amazing, Zelda!\" Link said, nearly drooling as he breathed in the delectable aroma.<br>\r\n<br>\r\n\"Thanks, Link. And you can bet that it tastes even better.\" Zelda said, she couldn't wait to start stuffing herself.<br>\r\n<br>\r\nA loud rumble escaped Link's and Zelda's guts. Sheepish grins appeared on their blushing faces. Fi felt a twinge of envy at the sight, she often wondered what it would be like to be normal like her close friends.<br>\r\n<br>\r\n\"What are we waiting for? Let's dig in!\" Zelda enthusiastically said immediately before she and Link began eating. Fi briefly looked around the room for a shovel before quickly realizing that \"dig in\" in this case was an expression.<br>\r\n<br>\r\nFi picked up an apple and took a bite out of it, she paused for a moment to take in just how delicious it tasted, a blush appeared on her face for the first time in her life. She quickly finished the entire thing and immediately looked for something else to eat. She ate a whole loaf of bread and then devoured an entire tray of pie. her gluttony did not go unnoticed by Link and Zelda<br>\r\n<br>\r\n\"I'm glad that you're enjoying the food, Fi.\" Link said, he and Zelda were pretty surprised with how fast Fi was eating.<br>\r\n<br>\r\n\"I-I-It's delicious.\" Fi stuttered, she was completely overcome by the sensation she was feeling. <br>\r\n<br>\r\n\"It feels wonderful to enjoy yourself, doesn't it?\" \" Zelda said.<br>\r\n<br>\r\nFi nodded, her unfamiliarity with the situation was obvious in her eyes. She released a loud, unladylike burp and blushed.<br>\r\n<br>\r\n\"Excuse me.\" Fi stated.<br>\r\n<br>\r\n\"Good one, Fi!\" Zelda complimented, grinning.<br>\r\n<br>\r\n\"You're not upset?\" Fi was confused, she was certain that belching was considered rude.<br>\r\n<br>\r\n\"Of course not.\" Zelda released an unladylike belch of her own. \"Tonight is all about having fun.\"<br>\r\n<br>\r\nFi looked towards Link for his thoughts on the matter.<br>\r\n<br>\r\n\"Enjoy yourself, Fi.\" Link said with a warm smile.<br>\r\n<br>\r\n\"I shall, master.\"</span></div></div>",
+            "created":1462265820,
+            "id":2142577,
+            "title":"A Well-Earned Feast"
+        },
+        "1513312":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "They fall asleep",
+                "They continue rubbing each other's bellies",
+                "Lana joins them"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Man, \u2013UUUURRRP- that was good!\" Zelda said, giving her satisfied belly a hearty slap for emphasis.<br>\r\n<br>\r\n\"You said it. UUURRRP!\" Link said, rubbing his filled up belly.<br>\r\n<br>\r\n\"It was a most \u2013UUURRRP- enjoyable \u2013URP- experience.\" Fi stated, giving her overstuffed stomach a soothing rub.<br>\r\n<br>\r\nFi, Link, and Zelda had just finished eating their massive feast together and their stomachs were packed tight enough to prove it. Their bellies had become incredibly large and round. Link's orb-like belly had managed to snap his belt in half and forced his shirt to rise up quite a bit, completely exposing the orb of adipose. Zelda's corset had been snapped in half as well, her bulging middle responsible, exposing the entirely of the princess' middle. Fi's tummy had forced her shirt up almost to her chest, revealing her jiggly tummy and bellybutton. The sword spirit felt so weird having a part of her exposed like that.<br>\r\n<br>\r\n\"We should do this \u2013UURRP- again sometime.\" Link said, a pleased smile on his face.<br>\r\n<br>\r\n\"Definitely.\" Zelda said.<br>\r\n<br>\r\nBefore she could voice her approval of the idea, Fi felt a pressure build up in her chest as her stomach gurgled, she was about to belch. The sword spirit had never felt so much gas at once. While Fi had been burping quite a lot tonight, she still attempted to keep that to a minimum and maintain her manners. However, Fi could tell that that she was going to have to forget about her manners for a moment.<br>\r\n<br>\r\n\u201cUUUUUUUUUUUUUUUUUUUUURRRRRRRRRRRRAAAAAAAAAAP!\u201d<br>\r\n<br>\r\nThe belch Fi unleashed was absolutely gigantic, it caused the entire room to shake and the licked clean dishes on the table to wobble. Link, Zelda, and even Fi were absolutely stunted, it was by far the largest belch any of them had ever heard. Link and Zelda stared at  the sword spirit in awe.<br>\r\n<br>\r\n\"Excuse me.\" Fi said after a few seconds of silence.<br>\r\n<br>\r\n\"That was amazing, Fi!\" Zelda complimented, a big grin gracing her face.<br>\r\n<br>\r\n\"It was?\" Fi said, confusion evident in her voice.<br>\r\n<br>\r\n\"Of course! I've never seen someone burp that loudly before!\" Zelda replied. \"It's pretty impressive.\"<br>\r\n<br>\r\n\"I thank you for the complement, p-princess.\" Fi said with a small smile, bowing as much as her stuffed belly would allow her.<br>\r\n<br>\r\nThe sword spirit soon let out a small moan as she placed a hand on her bloated tummy and rubbed it.<br>\r\n<br>\r\n\"Are you alright, Fi?\" Link asked in a concerned tone.<br>\r\n<br>\r\n\"Yes, master. UURRP! I believe that I am suffering from what you would refer to as a \"stomachache\".\" Fi explained, her belly let out another gurgle. \"There is no need for concern, it is merely an uncomfortable feeling.\"<br>\r\n<br>\r\n'Still, I think you could use a belly \u2013URRRAAAP- rub.' Zelda stated. \"Lay down on my bed and I'll get to work on your tummy.\"<br>\r\n<br>\r\n\"Very well, a \"belly rub\" sounds very nice.\" Fi said before laying on Zelda's very comfy bed. She moaned as the soft mattress.<br>\r\n<br>\r\n\"You too, link.<br>\r\n<br>\r\n\"M\u2013UUURRRAAP- Me?\" Link stated in confusion.<br>\r\n<br>\r\n\"I think your tummy could use a massage too.\" Zelda then gave Link's belly a poke, eliciting a belch from him/.<br>\r\n<br>\r\n\"I-If you say so.\" Link was blushing. While he and Zelda had been very close friends for a while, this was the first time they had ever gotten  this intimate.<br>\r\n<br>\r\nLink laid down next to Fi, their bloated stomachs sticking into the air, rising up and down slightly with every breath they took.<br>\r\n<br>\r\n\"Trust me guys, this is going to feel \u2013URRAAP- amazing.\" Zelda said.<br>\r\n<br>\r\nZelda began to rub Fi's and Link's full bellies. Fi and Link moaned as they felt their discomforts fade away and as a soothing warmth filled them. Fi and Link simultaneously unleashed a massive belch.<br>\r\n<br>\r\n\"Well, excuse you two!\" Zelda playfully said.<br>\r\n<br>\r\nThe princess smiled as her hands made rhythmic movements on her friend's overfed tummies. Her friends burped and moaned all the while. Zelda didn't just give rub their guts, she also patted, jiggled and kneaded them, which also felt amazing to Link and Fi.<br>\r\n<br>\r\nA while into the massage, Link felt that it wasn't fair that Zelda didn't get a belly rub herself. The bloated princess did a better job and hiding her discomfort then most would in her situation, but Link could still tell that she had a tummyache. Deciding to rectify that, Link reached hid hand out and began rubbing Zelda's big belly.<br>\r\n<br>\r\nThe blonde moaned as she felt a soothing feeling overcome her. She looked down at her belly and saw Link's hand rubbing it. Touched by Link's kindness, she looks toward the Hero of Hyrule.<br>\r\n<br>\r\n\"I thought your tummy could use a massage too.\" Link said with a dorky smile, blushing up a storm.<br>\r\n<br>\r\nZelda smiled warmly at Link, she was blushing just as much as her friend.<br>\r\n<br>\r\n\"Thanks, Link. UUUUUUUUURRAAAAAAAAAP!\"</span></div></div>",
+            "created":1462326120,
+            "id":2142864,
+            "title":"Big Feast, Big Bellies"
+        },
+        "155":{
+            "author_id":"errorman",
+            "author_name":"Errorman",
+            "choices":[
+                "Fist of the North Star: Ken's Rage",
+                "Bladestorm: The Hundred Years War",
+                "Another entry"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one?</span></div></span></div>",
+            "created":1443330000,
+            "id":2040255,
+            "title":"Another entry"
+        },
+        "1552":{
+            "choices":[
+                "Jeanne D'Arc",
+                "Edward, the Black Prince",
+                "More Characters to Follow"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, time for some good ol' European action! Who'll start packing on the pounds here?</span></div></span></div>",
+            "created":1452928740,
+            "id":2089935,
+            "title":"Bladestorm: The Hundred Years War"
+        }
+    },
+    "info":{
+        "author_id":"errorman",
+        "author_name":"Errorman",
+        "brief_description":"Dynasty Warriors WG",
+        "created":1443332880,
+        "description":"<td align=\"left\" class=\"norm\">Description: So, how many folks out there have ever played Warriors games, such as Dynasty Warriors, Samurai Warriors, Hyrule Warriors, etc.? How many people have played Warriors games, and wished that most of the characters were fat? Well, here\u2019s a fic for you! This story features both men and women throughout the franchise getting incredibly obese, and you get the ability to dictate just how big they\u2019ll get!<br>\r\n<br>\r\nNow, here are a few rules:<br>\r\n<br>\r\n1.) Don\u2019t include any insta-weight gain. For example, don\u2019t say, \u201cOh, X gained 1,000 pounds over night!\u201d or something to that degree. Make the weight gain as natural as possible, unless magic of some sort is involved.<br>\r\n2.) Make sure your grammar is good. There\u2019s nothing more annoying than having to read through a near-indecipherable chapter.<br>\r\n3.) No underage sex of any sort.<br>\r\n4.) Try to keep a sense of continuity going through the chapters.<br>\r\n<br>\r\nWell, that\u2019s about it! Hope everyone enjoys adding chapters to this story! Any and all are appreciated.</td>",
+        "id":2059058,
+        "image_url":"https://www.writing.com/main/images/action/display/ver/1572422781/item_id/2059058.png",
+        "last_full_update":1572426360,
+        "modified":1572426360,
+        "pretty_title":"Waddlin\u2019 Warriors (Male/Female)"
+    }
+}

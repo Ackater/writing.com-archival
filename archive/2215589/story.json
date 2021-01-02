@@ -1,0 +1,763 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check out the common area (Magi-Tech)",
+                "Check out the left curtain (Technology)",
+                "Check out the right curtain (Magic)",
+                "Talk to the shopkeep",
+                "Try to sneak into the back curtain (Employees Only)"
+            ],
+            "content":"<div class=\"\"><div> <span>Walking through an old section of town, you pass by a number of closed and rundown shops. Many of the storefronts seem like they haven't seen a customer in decades. You had been visiting the bank nearby your apartment and decided that the day was simply too nice to drive in. Especially since the bank was within easy walking distance. On the way back, you decided to take a slightly different route home.<br>\r\n<br>\r\nRounding a corner, you spot the old video rental store, or at least the building that used to house it. Walking closer, you notice that not only is it no longer closed, it is also no longer a video rental shop. You pause to read the signs on the building, most notably of which is the store name, \"Magi-Tech\". Some of the posters in the windows also show that today seems to be the \"Grand Opening!\" with \"Unbelievable Discoveries in Store!\"<br>\r\n<br>\r\nYour curiosity getting the better of you, you enter the store. Immediately, you feel like something is... off about the store. Not necessarily bad, just not... correct? Was this store really that big before? Scanning across the aisles of product, you can see a few other customers milling about and perusing the shop's wares. <br>\r\n<br>\r\nLooking along the outer walls, you notice three curtained doorways, each with a sign above them. They read, \"Technology\", \"Employees Only\", and \"Magic\", when reading from the left wall to the right. Looking up, you realize that the common area appears to be the area for \"Magi-Tech\". Although, pretty much everything you see looks rather normal.<br>\r\n<br>\r\nNear the \"Employees Only\" curtain, you can see the register is currently being manned by a rather punky looking teenager, though you could have sworn that there was a rather dapper looking gentleman there a moment earlier.</span></div></div>",
+            "created":1583989200,
+            "id":2800369,
+            "title":"Old town, new store"
+        },
+        "11":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Check out the smaller items",
+                "Check out the appliances",
+                "Check out the 3-D printers",
+                "Check out something else",
+                "Ask an employee for assistance."
+            ],
+            "content":"<div class=\"\"><div> <span>Looking near the front of the store, you see mostly smaller knickknack type products with no real specific categorization that you can see. Further in, there appears to be progressively larger products, going from things like kitchen appliances to giant 3-D printers. </span></div></div>",
+            "created":1584248400,
+            "id":2802103,
+            "title":"Check out the common area (Magi-Tech)"
+        },
+        "12":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Examine the android",
+                "Check the gadgets",
+                "Take a look at the weapons",
+                "Take another look out that window",
+                "Try checking that door"
+            ],
+            "content":"<div class=\"\"><div> <span>Passing through the curtain on the left wall, it feels like you passed through some thin barrier of static. It made your hairs stand on end for a moment. Glancing around, you notice a counter with a rather retro looking android standing behind it.<br>\r\n<br>\r\nRather than seeing shelves in this section of the store, it mostly has the appearance of the interior of some kind of spaceship, with interactive displays all over the walls. There's even one that's just showing space, possibly to further the illusion of being in a spaceship?<br>\r\n<br>\r\nNear the android, there also appears to be a sci-fi type door. Wonder where that leads...<br>\r\n<br>\r\nLooking back to the displays, you note that some show fancy tech gadgets, while others appear to show various sci-fi weaponry.</span></div></div>",
+            "created":1584248400,
+            "id":2802109,
+            "title":"Check out the left curtain (Technology)"
+        },
+        "121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Don't respond, just look it over",
+                "Greet it back",
+                "Ask about a product (without acknowledging it directly)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you approach the android, it jerks to life. \"Welcome dear customer! How may I help you?\"<br>\r\n<br>\r\nWalking closer to it, you...</span></div></span></div>",
+            "created":1584248400,
+            "id":2802112,
+            "title":"Examine the android"
+        },
+        "1212":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Follow the android",
+                "Politely refuse the excited android",
+                "Go back to looking at the technology department"
+            ],
+            "content":"<div class=\"\"><div> <span>Upon your greeting, the android seems... happier?<br>\r\n\"If you have any questions about the products of this area, don't be afraid to ask! You might even want to look into androids yourself. I am not actually an android, er rather, I'm not one full-time.\"<br>\r\n<br>\r\nYou give a confused look.<br>\r\n<br>\r\n\"Sorry, never mind that. Here, let me show you the robotics department!\" <br>\r\n<br>\r\nThe android moves to the sci-fi door and opens it to reveal a corridor that matches the current aesthetic.</span></div></div>",
+            "created":1584248400,
+            "id":2802113,
+            "title":"Greet it back"
+        },
+        "12121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Nathan (35 year old male)",
+                "Amy (20 year old female)",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"I'm sorry dear customer, I never got your name...\" the android asks as it walks to a door labeled \"ROBOTICS\"<br>\r\n<br>\r\n\"Oh, my name is...____________\" you reply as you enter the room.</span></div></span></div>",
+            "created":1584248400,
+            "id":2802116,
+            "title":"Follow the android"
+        },
+        "121211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "A custom robot",
+                "A used robot",
+                "One of the other options"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well Nathan, we have a number of different options for you to choose from. We have packages for you to design your own personal robot. We have a number of \"slightly used\" models to choose from as well. We project for our robotics lessons to be extremely popular. Additionally, we have a number of implants to choose from if you wish to become a cyborg!\"<br>\r\n<br>\r\nAs the android speaks, it walks over to an alcove and slots in before turning off. You're about to ask if it's still there when suddenly a holographic image of an androgynous face appears in front of you.<br>\r\n<br>\r\n\"So... are you interested in anything particular?\" it asks.</span></div></div>",
+            "created":1584248400,
+            "id":2802120,
+            "title":"Nathan (35 year old male)"
+        },
+        "1212113":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Robotics lessons",
+                "Cyborg implants",
+                "You"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"I'm interested in _________ .\" you state.</span></div></span></div>",
+            "created":1584248400,
+            "id":2802122,
+            "title":"One of the other options"
+        },
+        "12121131":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "I have questions",
+                "Let's do it!",
+                "I'd rather not"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Perfect!\" The face exclaims, \"Our course will take you through the experiences of robotic, the ins and outs, and then afterwards, you get your personally designed robot! You'll come out of the course having learned more than you ever though possible about robots. How they think, how they work, and even how the regular populous treats them. The course runs for 6 months and is all inclusive, including housing.The cost up front is about $2149, but it is well worth it. What do you think?\"</span></div></div>",
+            "created":1584248400,
+            "id":2802125,
+            "title":"Robotics lessons"
+        },
+        "121211312":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "A genderless robot",
+                "A male robot",
+                "A female robot"
+            ],
+            "content":"<div class=\"\"><div> <span>\"If you'll sign these and provide payment, we can start designing your robot right now using this computer in front of you. There are some additional course bits that you can add when it comes time to look into its features.\"<br>\r\n<br>\r\nAfter signing the forms (who really reads those EULAs anyway) insert your card and immediately get it back.<br>\r\n<br>\r\n\"Alright! Payment is processing. To start with, what kind of robot were you thinking?\"</span></div></div>",
+            "created":1584248400,
+            "id":2802128,
+            "title":"Let's do it!"
+        },
+        "1212113123":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Nano (Less than an inch)",
+                "Tiny (1-12 inches)",
+                "Larger"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Alright, we different size categories. Which do you wish to choose from?</span></div></span></div>",
+            "created":1584248400,
+            "id":2802134,
+            "title":"A female robot"
+        },
+        "12121131233":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Small (1-3 feet)",
+                "Medium (3-6 feet)",
+                "Larger"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>We have a vast array of sizes, so choose well...</span></div></span></div>",
+            "created":1584248400,
+            "id":2802136,
+            "title":"Larger"
+        },
+        "121211312333":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Big (6-10 feet)",
+                "Large (10-30 feet)",
+                "Giant (30-100 feet)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Larger sizes will allow for different features than the others...</span></div></span></div>",
+            "created":1584248400,
+            "id":2802137,
+            "title":"Larger"
+        },
+        "1212113123333":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "50 feet",
+                "100 feet",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What specific size were you thinking?</span></div></span></div>",
+            "created":1584248400,
+            "id":2802141,
+            "title":"Giant (30-100 feet)"
+        },
+        "12121131233332":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Sure, I've always wanted to explore space!",
+                "Nah, I don't even know how to fly a regular plane..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Time for some of those fancy features! At that size, she will already have a cockpit installed, do you want to go for being able to transform into an actual ship?</span></div></span></div>",
+            "created":1584248400,
+            "id":2802143,
+            "title":"100 feet"
+        },
+        "121211312333321":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "All the sensors!",
+                "Minor sensors",
+                "Is there a middle ground?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay then, how about the sensors? Do you want as much sensory input as possible, or just the simple stuff?</span></div></span></div>",
+            "created":1584248400,
+            "id":2802145,
+            "title":"Sure, I've always wanted to explore space!"
+        },
+        "1212113123333211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Holograms!",
+                "Little robot",
+                "Human interfaces?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How do you want the user interface? We've got holograms, simple little robots, and human interfaces.</span></div></span></div>",
+            "created":1584248400,
+            "id":2802147,
+            "title":"All the sensors!"
+        },
+        "12121131233332113":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "All the overrides!",
+                "Minimal overrides",
+                "No overrides"
+            ],
+            "content":"<div class=\"\"><div> <span>Essentially, it's just a human body that the ship/robot can use to interact with her crew. She can even leave the ship! Everything she does is fed back to the main ship body.<br>\r\n<br>\r\nAlright last feature, do you want command overrides? You can go with overrides for all systems, which includes the interface. Another option is to only allow overrides for the primary systems, life support etc. You could also just go with no overrides at all.</span></div></div>",
+            "created":1584248400,
+            "id":2802149,
+            "title":"Human interfaces?"
+        },
+        "121211312333321131":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Pass out",
+                "Try to face the attacker",
+                "Ask what's going on"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Perfect\" you hear the face in front of you say. <br>\r\n<br>\r\n\"Let's begin.\" you hear it say, but this time from behind you?<br>\r\n<br>\r\nBefore you even have a chance to turn around, something is placed against the back of your head, and immediately explodes with excruciating pain. You begin to feel faint and...</span></div></div>",
+            "created":1584248400,
+            "id":2802151,
+            "title":"Uh oh..."
+        },
+        "1212113123333211311":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Abyssal",
+                "Casseopeia",
+                "Another ship name"
+            ],
+            "content":"<div class=\"\"><div> <span>When you wake up again, you realize that you can't see, feel, or hear anything. A moment later, your vision is filled with what seems like a large hangar bay from a camera high up. Moments later, you can feel again, and you feel... cold, and naked. You try to move, but still find you are unable to. Moments after that, you can hear again. In fact, it sounds like someone is talking?<br>\r\n<br>\r\n\"...at should do it. Let's go make sure all her systems are nominal before we introduce her to her crew for the next few months.\"<br>\r\n<br>\r\nYou see a small portly man walk into view along some catwalks in front of your vision before turning to face you.<br>\r\n<br>\r\n\"We are here to christen this new ship. Her name shall be the HMS _________. May she voyage long and far, and may she always find her way home.\"<br>\r\n<br>\r\nAs the man speaks, you realize that YOU have become the robot you were designing! What have you gotten yourself into...</span></div></div>",
+            "created":1584334800,
+            "id":2802154,
+            "title":"New experiences"
+        },
+        "12121131233332113111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "It's the crew",
+                "It's maintenance",
+                "Someone is trying to steal a ship! YOU!"
+            ],
+            "content":"<div class=\"\"><div> <span>Realizing that you are now the ship/robot (apparently named Abyssal) you also realize that something isn't right. That man is way too small compared to the size you're supposed to be... <br>\r\n<br>\r\nYou'd estimate that for him to look that small in your sight, you'd have to be... well... way bigger. Without being able to move, it's hard to really tell. Suddenly, you feel ticklish inside, like ants, but inside your arm? Maybe this is how the internal sensors feel... <br>\r\n<br>\r\nThen, does that mean the crew is onboard?</span></div></div>",
+            "created":1584334800,
+            "id":2802158,
+            "title":"Abyssal"
+        },
+        "122":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Age Changing Device",
+                "Transgender Watch",
+                "More Gadgets."
+            ],
+            "content":"<div class=\"\"><div> <span>Looking through the various types of technology, you got interested in the variety of gadgets that's all over the shelves.  It seems like a very interesting collections too.  Some are small, some are big, many more look really strange.  You have no idea on where to start or what to pick.  Looking through the options, you noticed one specified gadget that got your attention.  It is...</span></div></div>",
+            "created":1584939600,
+            "id":2806005,
+            "title":"Gadgets Galor"
+        },
+        "1221":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Buy the remote",
+                "Steal the remote",
+                "Find an attendant to see if the remote works."
+            ],
+            "content":"<div class=\"\"><div> <span>You picked up a unique looking remote with black screen in the front with plus and minus buttons and an enter icon below that and an antennae attached to the top.  You soon notice an on switch and flipped it on to see what it can do.  Flipping it on, there was a static on the screen and it showed a retro screen appeared with an hourglass on one corner and and a title in a wave that says, <i>'Age Changing Device'</i> with a subtitle that says, <i>'Hit enter to continue'</i>.  Curious, you hit enter on the remote and a message appeared on it.  It reads...<br>\r\n<br>\r\n<i>'Welcome to the Age Changing Device'<br>\r\n<br>\r\n'This remote can change the age of anyone, be that young or old, male or female.  If you want to live your age like fantasies, you need to follow before proceeding.'<br>\r\n<br>\r\n'1. Point your remote to scan someone into the the database, there will be data information of your target base on the name, current age, gender, occupation, sexual preference, and relationships.'<br>\r\n<br>\r\n'2. Choose the vareity of options before proceeding to change the target's age.  These options include Mental Changes, Clothing, Reality, and Awareness.  Just use the plus and minus signs to select yes and no underneath the options before proceeding.'<br>\r\n<br>\r\n'3. Once you choose your target and select the options, you can proceed.  Just push the plus or minus buttons underneath the screen and the target will regress or progress depending on how many hits you make.  Example: There's a 40-year-old man and you hit the minus sign 20 times, you regress him to twenty years.  Or if you target a little girl of five and you hit the plus sign 25 times, she will age into a thirty-year-old woman.  The posibilities are completely endless. One you done, hit the enter button and the changes will be finished.'<br>\r\n<br>\r\n'With this remote, you can relive your youth, see into your future, or fulfill your wildest fantasies. Just remember the one warning.  Don't regress or progress to the exceeded limit.  If you regress the target to -1, they will be unconvinced and will not be recovered. And if you age someone past a hundred, they target will die.  So be careful with your choices.'<br>\r\n<br>\r\n'Thank you for choosing the Age Changing Device.  Enjoy!'</i><br>\r\n<br>\r\nReading through the options, you were amazed at the fact that this remote and age or regress anyone you pick.  Though it might sound to good to be true, you still needs to be sure if it's legit or not.  You could buy it and try it out at home and if it doesn't work, you can return it.  You can simply steal it and use it right away.  Or you can ask for help to see if the device can actually do what it does.  What would you do?</span></div></div>",
+            "created":1585026000,
+            "id":2806715,
+            "title":"Age Changing Device"
+        },
+        "12213":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "You",
+                "Herself",
+                "A Random Custormer"
+            ],
+            "content":"<div class=\"\"><div> <span>Starring at the remote, you decided to play it safe and ask for some assistance to see if this Age Changing Device can actually work.  Looking around, you started to find someone who can help you.  That's when you saw an attendant close be taking stock.  It was a female attendant in her mid twenties with huge C cup breasts and a curvy figure underneath her uniform with a face that looks so beautiful and flowing black hair.  Looking at her, you decided to talk to her about this device.<br>\r\n<br>\r\nApproaching her, you cleared your throat and said, \"Um...  Excuse me.  Can you help me with something?\"<br>\r\n<br>\r\nAs you said that, she turned to you and you were mesmerized by her looks and asets.  With her crystal blue eyes peering to you, she smiled and said, \"Yes...?  How can I help you?\"<br>\r\n<br>\r\nYou quickly shook off the look and went on with talking to her.  \"Er...  Yes.  I was wondering about this device I have here.  It says that it is an Age Changing Device and I was wondering...\"<br>\r\n<br>\r\nThe attendant look down to the remote and knew what it was.<br>\r\n<br>\r\n\"Ah...  Yes...  The Age Changing Device.\" she said, \"Our most popular product.  Everyone uses it to live their dreams. What do you want to talk about?\"<br>\r\n<br>\r\nYou didn't think that this remote is really popular when she said it, but you brushed it aside and continued what you were saying. \"Well, they say that this Age Changing Device can alter someone's age and has these many options for it. But I find it hard to believe that it can actually do that.  So, do you think you can show me what it's capable of?\"  He soon stretched his arm and showed the remote to her.<br>\r\n<br>\r\nThe attendant looked to the remote and figured that it was the case.  Considering that he's one of those people that think that remotes like this don't exist, she got a hold of it and says, \"Of course.  You're not the first one that asked if this remote is legit.  Here, let me show you.\"<br>\r\n<br>\r\nShe soon turned on the device and begin searching for the target.  Who was the target she chose?</span></div></div>",
+            "created":1585112400,
+            "id":2807209,
+            "title":"Seeking Assistance"
+        },
+        "122131":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Male ",
+                "Female"
+            ],
+            "content":"<div class=\"\"><div> <span>The assistant pointed the remote to you as the stats started to appear.  It's obvious that she choose you because you doubted the fact that the Age Changing Device is real and would want to choose you to give you an example.  The Attendant looked to you and said, \"Don't worry.  I'll return you to normal when the demonstration is over.  But I do want to state that I will change you mentally, and alter your clohtes so you don't loose them.  Not to mention I have to set the awareness on so you don't forget about what happened.  Are you all right with that?\"<br>\r\n<br>\r\nYou looked on with a bit of nervousness and said, \"Sure...  As long as I see if it works or not.  Though I'm starting to have second thoughts in getting this thing.\"<br>\r\n<br>\r\nThe female attendant chuckled and told you, \"Trust me.  Once you experience the remotes capabilities first hand, you will enjoy it. Now let us begin!\"<br>\r\n<br>\r\nShe soon pointed the remote to you and begin the demonstration. But before we could begin, we don't know the gender of yourself.  So what are you?  And male or a female?</span></div></div>",
+            "created":1585112400,
+            "id":2807212,
+            "title":"Doubter Tester"
+        },
+        "1221311":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Pre-Teens to Teens (12 - 20)",
+                "Adult (21 - 40)",
+                "Middle Age (41 - 60)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Next is your age.  How old are you?</span></div></span></div>",
+            "created":1585112400,
+            "id":2807214,
+            "title":"Male "
+        },
+        "12213113":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "This one",
+                "Someone else "
+            ],
+            "content":"<div class=\"\"><div> <span>Who are you...<br>\r\n<br>\r\n40 year old, devorced guy, who has little money and no family, after he had an affair with his personal assistant, his ex wife's sister and plenty of one night stands when he was on business trips. <br>\r\n<br>\r\nAlthough he has no family he does have about six children he doesn't know about including one with his ex wife's sister. </span></div></div>",
+            "created":1587272400,
+            "id":2821009,
+            "title":"Middle Age (41 - 60)"
+        },
+        "122131131":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "A two week old baby ",
+                "Some other age"
+            ],
+            "content":"<div class=\"\"><div> <span>The girl in her early 20s pointed the device at you and pressed scan.<br>\r\n<br>\r\nYour whole bio came up as she speed read it through.<br>\r\n<br>\r\nEarly life<br>\r\nYou where born to a mother who didn't want children so she never showed emotion towards you, so you where always looking for approval from her and your father was non existent.<br>\r\n<br>\r\nTeen years<br>\r\nYou found small amounts of affection from bedding girls and it helped you played soccer and went to the gym everyday.<br>\r\n<br>\r\nUnknown to you, you bedded an exchange student and she became pregnant but didn't find out till she got back to her own country.<br>\r\n<br>\r\nIn your 20s<br>\r\nYou got a degree in business and had a lot of one night stands and out of the 30 girls you had 15 of them got pregnant but only four decided to keep the child. <br>\r\n<br>\r\nLater in life<br>\r\nYou got married and at first you where happy but old habits die hard and after 10 years of marriage you started having one night stands when you went on business trips and you started an affair with your sister in law and she became pregnant with your 6th child and your wife devorced you and took most of your money and you lost your highly paid job.<br>\r\n<br>\r\nThe girl at first was pissed at you but realised it was your mother's fault you are like this and she felt sorry for you.<br>\r\n<br>\r\nShe pressed a few buttons and zapped you with the device turning you into... </span></div></div>",
+            "created":1587292080,
+            "id":2821020,
+            "title":"This one"
+        },
+        "1221311311":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Blue baby car seat (you are her son) she wanted a son. ",
+                "Purple baby car seat (you are her daughter) she did this. "
+            ],
+            "content":"<div class=\"\"><div> <span>You land on the ground with a slight bump and you are laid on the floor and your muscles don't seem to work right.<br>\r\n<br>\r\nYou are picked up by the girl as she said \"I'll let you in to a little secret, I don't really work here\".<br>\r\n<br>\r\nI've also changed you into a two week old baby as I want to show you how a mother should treat their child with love and affection.<br>\r\n<br>\r\nYeah I've also changed reality so you are now my child \"don't worry I change you back eventually\" the best part is I changed  your bio so I'm your mother and you are your father... I was just another one night stand of yours.<br>\r\n<br>\r\nShe stated \"strange my bra feels weird\" she noticed her breast are bigger and then it clicked that they are filled with milk.<br>\r\n<br>\r\nShe heard your belly rumble slightly... She took you to her car and sat in the passenger seat at the front and started feeding you she even swapped you over to her other breast.<br>\r\n<br>\r\nThe baby clothes you are wearing are very neutral and hard to tell weather you are male or female. <br>\r\n<br>\r\nNo matter how hard you tried you couldn't stay awake she then put you in the... </span></div></div>",
+            "created":1587293280,
+            "id":2821025,
+            "title":"A two week old baby "
+        },
+        "1221311312":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Fetus inside her womb ",
+                "Someone else "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She finds another setting on the device and turned you into a?</span></div></span></div>",
+            "created":1587292260,
+            "id":2821021,
+            "title":"Some other age"
+        },
+        "1221312":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "Pre-Teens to Teens (12 - 20)",
+                "Adult (21 - 40)",
+                "Middle Age (41 - 60)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Next is your age. How old are you?</span></div></span></div>",
+            "created":1585112400,
+            "id":2807215,
+            "title":"Female"
+        },
+        "122133":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "A Young Boy",
+                "A Young Girl",
+                "More Customers"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The Attendant started to search for a customer to use it on as a means to show you if the remote works or not.  Continuing the search, she found someone suitable to test on.  Who's it going to be?</span></div></span></div>",
+            "created":1585112400,
+            "id":2807220,
+            "title":"Random Customer"
+        },
+        "1221333":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "A Teenage Boy",
+                "A Teenage Girl",
+                "More Customers"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Any more customers she can test the Age Changing Device on?</span></div></span></div>",
+            "created":1585112400,
+            "id":2807221,
+            "title":"More Customers"
+        },
+        "12213333":{
+            "author_id":"luisjm",
+            "author_name":"M",
+            "choices":[
+                "A Young Adult Male",
+                "A Young Adult Female",
+                "More Customers"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Anyone else to pick to try the device on?</span></div></span></div>",
+            "created":1585112400,
+            "id":2807223,
+            "title":"Even More Customers"
+        },
+        "13":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Talk to the woman",
+                "Take a look at the shelves",
+                "Start looking through the costumes",
+                "Check out the forge",
+                "Check out the weapons"
+            ],
+            "content":"<div class=\"\"><div> <span>Passing through a curtain that covers the wall to the right, you find that the building somehow does indeed extend further in this direction that it really should. You notice a rather bored looking woman leaning on the counter, but as soon as she notices you, she brightens and stands upright.<br>\r\n<br>\r\n\"Let me know if you need any help! I'd be glad to show you around this section of the store! So few people have been coming in here so far...,\" she explains.<br>\r\n<br>\r\nLooking around from where you're standing, you can see shelves packed with bottles, jewelry, and books. Further in, there also appears to be rows upon rows of clothing and... costumes? It seems they even go multiple levels high... curious.<br>\r\n<br>\r\nIn the section behind the woman, there appears to be a forge and weapons of all kinds... including guns for some reason?</span></div></div>",
+            "created":1584248400,
+            "id":2802106,
+            "title":"Check out the right curtain (Magic)"
+        },
+        "131":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Mr....",
+                "Miss...."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The woman looks surprised when you start to head towards her, but quickly regains her composure.<br>\r\n\"Welcome! My name is Marianne, and I'm in charge of the magic section,\" she explains. \"How may I help you...____?\"</span></div></span></div>",
+            "created":1584334800,
+            "id":2802551,
+            "title":"Talk to the woman"
+        },
+        "1311":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Nathan (35 year old male)",
+                "Amy (20 year old female)",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Oh, my name is _______,\" you reply. \"I was curious about what kind of stuff you've got going on here. Like, are you trying to tell me that magic is real?\"</span></div></span></div>",
+            "created":1584334800,
+            "id":2802552,
+            "title":"Mr...."
+        },
+        "13111":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "She handed you a single pill",
+                "Gave you a bra and knicker set",
+                "You looked around the small store ",
+                "You stole something ",
+                "Just went somewhere else"
+            ],
+            "content":"<div class=\"\"><div> <span>After some small talk you told her you are single, you live in an apartment you own by yourself, you made lots of money from selling a business and you are just here on vacation and you have no family or children.<br>\r\n<br>\r\nThe woman started talking about magic, but you didn't believe a word she was saying, she was getting angry and you are getting bored.<br>\r\n<br>\r\nShe turned to you and said OK Nathan if you don't believe me what's the harm in trying something.... </span></div></div>",
+            "created":1600960500,
+            "id":2909206,
+            "title":"Nathan (35 year old male)"
+        },
+        "131112":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Continue ",
+                "Continue ",
+                "Continue ",
+                "Continue "
+            ],
+            "content":"<div class=\"\"><div> <span>She said \"here and passed you a bag with <a rel=\"nofollow\" href=\"https://m.shein.co.uk/Full-Cup-Solid-Lingerie-Set-p-1241293-cat-2270.html?scici=sidecat_Women~~CLOTHING~~1_1_13~~real_2195~~SMCccWomenCategory~~0~~0\" target=\"_blank\">https://m.shein.co.uk/Full-Cup-Solid-Lin...</a> in it.<br>\r\n<br>\r\nI've already taken payment as you realise you are tapping your card on the machine.<br>\r\n<br>\r\nYou immediately left and went back to the hotel you are staying in and went straight to your room.<br>\r\n<br>\r\nYou looked in the bag and saw the plain and simple grey bra and knicker set, you just laughed and went to the hotel bar and got a little drunk before returning to your room.<br>\r\n<br>\r\nOnce back you managed to get a shower and sit on your bed still drunk and immediately get a feeling that you should try on the underwear in the bag.<br>\r\n<br>\r\nYou dry off and put the things on and then laid on the bed and fell asleep.<br>\r\n<br>\r\nAs you slept your body got younger till you are around 18 years old and then your body really started changing into that of a 18 year old girl. <br>\r\n<br>\r\nNext morning...</span></div></div>",
+            "created":1600961580,
+            "id":2909215,
+            "title":"Gave you a bra and knicker set"
+        },
+        "1311121":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Continue ",
+                "Continue ",
+                "Continue ",
+                "Continue ",
+                "Continue "
+            ],
+            "content":"<div class=\"\"><div> <span>You wake up to hear the phone ringing in the hotel room next to you're bed.<br>\r\n<br>\r\nYou feel hungover and don't talk \"Hello Miss Andreassen this is your wake up call\".<br>\r\n<br>\r\nYou put the phone down and said to yourself \"it feels way to early\" then you heard your voice and quickly sat up and looked in the mirror on the other side of the room and you immediately realised you are a girl.<br>\r\n<br>\r\nYou looked maybe 18 years old and you look really nice fit and healthy with blue eyes and light brunette hair.<br>\r\n<br>\r\nYou suddenly got out of bed quickly and ran to the toilet where you started been sick from the alcohol last night.<br>\r\n<br>\r\nYou eventually stopped renching and realised you had sick on your hair so you reluctantly got in the shower and stated washing your hair and your body.<br>\r\n<br>\r\nStrangely it felt normal you just washed and after you are clean you got out of the shower and walked back onto the bedroom with the towel wrapped around your chest.<br>\r\n<br>\r\nYou opened a drawer and got out a black bra and knicker set <a rel=\"nofollow\" href=\"https://m.shein.co.uk/Floral-Lace-Underwire-Lingerie-Set-p-1505565-cat-2270.html?scici=sidecat_Women~~CLOTHING~~1_1_13~~real_2195~~SMCccWomenCategory~~0~~0\" target=\"_blank\">https://m.shein.co.uk/Floral-Lace-Underw...</a> then you pulled the knickers up your legs and put on the bra and reached behind your back and put it on, it's nothing to you really.<br>\r\n<br>\r\nYou then walk to the mirror and comb your hair and pulled it into a ponytail and then put on some sock, jeans and a vest followed by a pair of black sneakers.<br>\r\n<br>\r\nIt wasn't till you finished the you realised to things, one) You managed to put the bra on with no issue and two) you remember the surname.<br>\r\n<br>\r\nThe surname was some Danish exchange student you had in school... You looked closer and realised the girl was a mix of you and the girl you had sex with when you where 17.<br>\r\n<br>\r\nYou found your passport and it stated you have triple Danish, Norwegian and American citizenship and your name is Natalie Christina Andreassen.<br>\r\n<br>\r\nYou look at the time and noticed your flight isn't due for six hours so you have to go back and talk to the women who did this to you.... </span></div></div>",
+            "created":1602192240,
+            "id":2917731,
+            "title":"Continue "
+        },
+        "13111211":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Continue ",
+                "Continue "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You went to see the woman to know why? </span></div></span></div>",
+            "created":1607872680,
+            "id":2956287,
+            "title":"Continue "
+        },
+        "131112111":{
+            "author_id":"megb83",
+            "author_name":"meg83",
+            "choices":[
+                "Continue ",
+                "Continue "
+            ],
+            "content":"<div class=\"\"><div> <span>You went to the store and immediately said to the woman, what have you done to me? \"the women look and said Nathan!..<br>\r\n<br>\r\nYes it's me... I didn't do anything to you, you did it to yourself!. <br>\r\n<br>\r\nWhat the fuck! \"you wanted a new life and now you've got one\".<br>\r\n<br>\r\nShe smiled and said \"I can look for you\".<br>\r\n<br>\r\nShe said \"follow me please\" you followed her and she reached a computer and typed in your name \"Natalie Christina Andreassen\".<br>\r\n<br>\r\nRight let look... It says here you a are the result of a accidental drunken coupling with a exchange student.<br>\r\n<br>\r\nYou are your own father but you were born in Norway... You are 18 years old and have recently moved to America to start university and to meet your american grandparents.<br>\r\n<br>\r\nLost month you where granted american citizenship after dna test confirmed your lineage.<br>\r\n<br>\r\nYou can speak and write 6 languages Norwegian, Danish, Italian, French, Welsh and English.<br>\r\n<br>\r\nIt stats that your mother married an Italian fashion photographer that explains the Italian part and your grandfather from your mother's side is Danish. <br>\r\n<br>\r\nYou had a nanny who was Welsh and you got taught English and French in school.<br>\r\n<br>\r\nSo what do I do now... Well your father had an estate that he left after he died and everything belongs to you now.<br>\r\n<br>\r\nYou mean me? \"yeah you\"...<br>\r\n<br>\r\nGood look and I'm sure you'll do fine... </span></div></div>",
+            "created":1607876040,
+            "id":2956297,
+            "title":"Continue "
+        },
+        "132":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "The bottles",
+                "The jewelry",
+                "The books"
+            ],
+            "content":"<div class=\"\"><div> <span>Heading over to the shelves, you can see that all of the bottles have liquids of varying colors and paper labels like, \"Lesser Luck,\" and, \"Lesser Polymorph (Chameleon).\" Interestingly, the prices seem pretty affordable, with the highest being about $5. Perhaps it has something to do with all of the bottles having \"Lesser\" in the name?<br>\r\n<br>\r\nPassing to the Jewelry shelves, you notice that there is a similar setup and situation on the prices and labels, though more of these appear to be focused on statuses and qualities like charm and intelligence. Most of the jewelry looks pretty cheaply made, but good enough to pass muster if you're not looking too closely.<br>\r\n<br>\r\nThe book section seems to be similar to what you'd expect for the most part out of a magic shop. There are a few, more expensive, leather bound books that cost upwards of $100. The subjects cover topics from curses and spells to alchemy and artificing.<br>\r\n<br>\r\nIn particular, the section that interests you the most is...</span></div></div>",
+            "created":1584507600,
+            "id":2803106,
+            "title":"Take a look at the shelves"
+        },
+        "1323":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Old Books",
+                "Newer books"
+            ],
+            "content":"<div class=\"\"><div> <span>As you scan the books, you read some of the titles. A lot of them seem to be written in Latin, or some other language. As you look, you realize that the books appear to be organized by when they were written/published. Thinking about it, it was rather obvious  when looking at the binding of some of them. <br>\r\n<br>\r\nYou decide to focus on the ...</span></div></div>",
+            "created":1586062800,
+            "id":2813660,
+            "title":"The books"
+        },
+        "13232":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Keep looking",
+                "Buy a book",
+                "Look at a different section"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A good number of the newer books seem to be from the \"___ for Dummies\" series of books. After looking for a while, you decide to...</span></div></span></div>",
+            "created":1586062800,
+            "id":2813661,
+            "title":"Newer books"
+        },
+        "132322":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Alchemy for Dummies",
+                "Sorcery for Dummies",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With the variety of books, it's kind of hard to decide. You end up buying the...</span></div></span></div>",
+            "created":1586062800,
+            "id":2813666,
+            "title":"Buy a book"
+        },
+        "1323221":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Sir",
+                "Ma'am"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As you exit the store with your purchase, you hear the clerk call out, \"Have a good day ____\"</span></div></span></div>",
+            "created":1586062800,
+            "id":2813669,
+            "title":"Alchemy for Dummies"
+        },
+        "13232211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "It's your girlfriend",
+                "It's your best friend",
+                "It's someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>When you get back to your apartment, you sit down and take a look at the book. It seems to have numerous recipes for all sorts of things; luck, beauty, and even strength.<br>\r\n<br>\r\nJust when you were thinking about trying one out to see if it worked, you heard a knock at the door.</span></div></div>",
+            "created":1586062800,
+            "id":2814025,
+            "title":"Sir"
+        },
+        "132322112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Sure, why not?",
+                "Nah, I still haven't had a chance to look at it yet...",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Hey man!\" Mike calls out as you open the door, \"You up for some video games?\"<br>\r\n<br>\r\n\"Sure, come on in!\", you motion into the apartment, book still in hand.<br>\r\n<br>\r\n\"What's that book?\"<br>\r\n<br>\r\n\"Ah, it's a book about potions or some-such. I got it as a joke...<font class=\"size1\" style=\"\">also the unlikely possibility that it works</font>...\"<br>\r\n<br>\r\n\"Mind if I borrow it when I head home then? I might get some ideas for the next D&amp;D game we play.\"<br>\r\n<br>\r\nMulling it over for a moment, you reply...</span></div></div>",
+            "created":1587377400,
+            "id":2821487,
+            "title":"It's your best friend"
+        },
+        "1323221121":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Mike",
+                "An unkown woman",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>After playing some games for a few hours, Mike heads home with the book.<br>\r\n<br>\r\nAfter a two weeks of work and late night gaming, you've all but forgotten about the book when you hear banging on the door.<br>\r\n<br>\r\nOpening the door, you find...</span></div></div>",
+            "created":1587377700,
+            "id":2821488,
+            "title":"In the hands of a friend"
+        },
+        "13232211211":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Help his relationship with his girlfriend",
+                "Make money",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"DUDE! THIS THING IS REAL!\" Mike blurts out as he runs inside your apartment as you are still opening the door.<br>\r\n<br>\r\nAs he sits down at your dining table, you close the door and join him.<br>\r\n<br>\r\n\"Uh, what are you talking about? Wait... is that the book I lent you?\"<br>\r\n<br>\r\n\"Yup! I tested it last weekend and IT IS REAL!\"<br>\r\n<br>\r\n\"Ok,\" you reply, \"how do you know that it's real?\"<br>\r\n<br>\r\n\"I tested one of the potions,\" he says as he starts to blush. \"You don't need to know which one, just know that it worked exactly as the book described!\"<br>\r\n<br>\r\n\"Alright, So now what?\" you ask.<br>\r\n<br>\r\n\"I have a plan! I need your help to do it though.\" <br>\r\n<br>\r\nMike pulls a bag out his pockets as he starts into his plan to...</span></div></div>",
+            "created":1587378120,
+            "id":2821490,
+            "title":"Mike"
+        },
+        "132322112111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Drink it",
+                "Refuse until he explains",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"So lately, my girlfriend has been getting upset with me more and more. She keeps saying I'm not doing enough with her, and that I don't listen to her about her hobbies and desires. This book gave me an idea on how to help my relationship!\" Mike explained.<br>\r\n<br>\r\n\"What? Did it tell you to just <i>actually </i>spend time with her instead of messing about online?\" you snark back.<br>\r\n<br>\r\nRolling his eyes, he responds, \"No... Here, just drink this first. I can fill you in on the plan afterwards. The potions take a little bit before they kick in. Digestion and all, ya know?\"<br>\r\n<br>\r\nHe passes you a cheap water bottle that's been refilled with some kind of murky fluid.</span></div></div>",
+            "created":1587378840,
+            "id":2821497,
+            "title":"Help his relationship with his girlfriend"
+        },
+        "1323221121111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "dragons",
+                "elves",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Y'see, she's a really into fantasy stuff.\" he starts as you try to chug the tasteless murky liquid. \"Out of all of fantasy though, the thing she is the hugest fan of is...\"</span></div></span></div>",
+            "created":1587379740,
+            "id":2821501,
+            "title":"Drink it"
+        },
+        "13232211211111":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "a chance to see a dragon",
+                "a pet dragon",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>You almost do a spit-take with the remaining liquid, before it drains into your mouth.<br>\r\n<br>\r\n\"She likes dragons? Is that what you're having me drink? A potion to turn into a dragon?\" you ask incredulously.<br>\r\n<br>\r\n\"Yup! I figure that if I can give her _____________ she'll be happier with me!\"</span></div></div>",
+            "created":1587380460,
+            "id":2821507,
+            "title":"Here there be dragons!"
+        },
+        "132322112111112":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Yeah! Sounds fun, right?",
+                "Nah, you're just helping with one of the steps towards that.",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"How is me turning into a dragon gonna help that? Wait...you're not going to make <i>ME</i> the pet, are you?\" you ask, increasingly unsure of your friend's motives.<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1587530280,
+            "id":2822469,
+            "title":"Pet Dragon"
+        },
+        "1323221121111122":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Dragons just need to have sex!",
+                "The eggs just come on their own. Fertilization is separate.",
+                "There is a type of dragon that can make fertilized dragon eggs on their own.",
+                "A special spell is needed to make dragon eggs.",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Honestly, the hassles of explaining what happened to you, along with dealing with a fully sentient and intelligent 'pet' would be truly awful. That's why you're gonna lay an egg!\" Mike explains.<br>\r\n<br>\r\nYou stare at him in dumbfounded silence...<br>\r\n<br>\r\nAfter a moment, you snap out of it, \"So, let me get this straight. Not only are you turning me into a dragon, you're also turning me into a girl?! You realize that even with that, I won't just be suddenly popping out an egg! How does that even work for dragons!? Is it like lizards? Is it different due it's mythological part?\"<br>\r\n<br>\r\n\"Ah, yeah... about that,\" Mike starts, \"the book didn't go that far into that part of things, so I had to research from other sources on how to work that part. Apparently...________\"</span></div></div>",
+            "created":1594696380,
+            "id":2868097,
+            "title":"Nah, you're just helping with one of the st..."
+        },
+        "13232211211111221":{
+            "author_id":"zionixion",
+            "author_name":"D-MentedOne",
+            "choices":[
+                "Try to fly away",
+                "Mike tackles you",
+                "Changes continue before anything else happens",
+                "Mike passes out (from bloodflow to his dick)",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I see... WHAT THE HELL MIKE! You expect me to just fuck someone while I'm a dragon!? I'm still gonna be a guy inside! Screw that! I'm out!\" you yell as you start stomping towards the front door. As you grab the doorknob, your grip crushes the mechanism, freezing the lock in place. \"FUCK!\" you exclaim as you rush towards the back door, only to find Mike standing in the way.<br>\r\n<br>\r\n\"Hold on now. From what I read, the stuff I added will make this workable, in fact, look!\" Mike shouts as he quickly tears his pants off, revealing that his dick was abnormally large, and still growing, but flaccid. It was reaching down to near his knees at the moment, and still going.<br>\r\n<br>\r\nAs confusion wracks your mind, you stutter, \"T-that's not...this i-isn't...I c-can't...\"<br>\r\n<br>\r\nYou feel a warmth building inside from the center of your being, \"W-what's h-happen-ning?\"<br>\r\n<br>\r\nYou begin to feel an odd, cooling sensation forming along your skin, and a slightly painful, slightly comfortable popping as you can feel your bones moving slightly as they shift. A pressure is felt as your shirt begins to strain, both from two new appendages protruding from your back, as well as two soft shapes pressing out from the front.<br>\r\n<br>\r\n\"I... I nee...I need... I...\" you plead, trying to hobble towards the backyard through the shifting feelings. Miraculously, Mike steps out of the way, to let you through.<br>\r\n<br>\r\nAs you pass through the door-frame, you trip and tumble down the short back stairs, losing your shoes in the process. They weren't fitting very well any more anyway. <br>\r\n<br>\r\nLaying on the ground, you realized that your twig and berries were missing already, which given how you landed ended up being a blessing in disguise. As you went to stand again, a cacophony of tearing sounds erupted from the entirety of your current wardrobe, leaving you standing in the backyard in little more than rags and shreds of fabric. Glancing at your back, you can tell that you've got wings now.</span></div></div>",
+            "created":1594699920,
+            "id":2868131,
+            "title":"Dragons just need to have sex!"
+        }
+    },
+    "info":{
+        "author_id":"zionixion",
+        "author_name":"D-MentedOne",
+        "brief_description":"A new store appears overnight! Who knows what kind of wonders are in store...",
+        "created":1583988960,
+        "description":"<td align=\"left\" class=\"norm\">An old shop sees new life when it is suddenly replaced by the Magi-Tech store overnight! How did they do it? Why do the dimensions inside not match the outside? <br>\r\n<br>\r\nProbably not important, but they do have some cool products! Perhaps you should check it out?<br>\r\n<br>\r\n<br>\r\nMost all kinds of alterations or transformations to the world of the story are allowed. This includes but is not limited to; Time travel, morphing or transforming any subject to something (or someone) else, history revision, etc.<br>\r\n<br>\r\nAnything goes!<br>\r\n<br>\r\n<span class=\"clred\">Note: I may edit some additions to correct grammar or spelling for ease of reading.</span></td>",
+        "id":2215589,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1607876040,
+        "modified":1607876040,
+        "pretty_title":"Magi-Tech Store"
+    }
+}

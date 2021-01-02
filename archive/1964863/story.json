@@ -1,0 +1,826 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First, are you Male or Female?</span></div></span></div>",
+            "created":1385787600,
+            "id":1701049,
+            "title":"Let's Begin"
+        },
+        "11":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "At home",
+                "In a zoo",
+                "In a pet store",
+                "In a forest",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where do you want to use the devise?</span></div></span></div>",
+            "created":1385787600,
+            "id":1701050,
+            "title":"Male"
+        },
+        "111":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "Dog",
+                "Cat",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use on your pet...</span></div></span></div>",
+            "created":1385787600,
+            "id":1701056,
+            "title":"At home"
+        },
+        "1111":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "ecstatic.",
+                "somewhat down in the dumps.",
+                "just plain lonely."
+            ],
+            "content":"<div class=\"\"><div> <span>You decided to use the machine on your blueish grey bull terrier dog pork chop and pressed the button firing a rainbow beam at him as he began transforming into that of an anthropomorphic dog until you stopped firing at him.<br>\r\n<br>\r\nSoon enough he looked right at you as his expression clearly told you that he was...</span></div></div>",
+            "created":1421557200,
+            "id":1919637,
+            "title":"Dog"
+        },
+        "11111":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "He could be understood by you.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why was Porkchop happy?</span></div></span></div>",
+            "created":1471496400,
+            "id":2197683,
+            "title":"One happy puppy."
+        },
+        "11113":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "His family.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does Pork Chop miss?</span></div></span></div>",
+            "created":1457586000,
+            "id":2115616,
+            "title":"I'm so lonely."
+        },
+        "111131":{
+            "author_id":"spunky",
+            "author_name":"Ace Jones",
+            "choices":[
+                "You begin Pork Chop's bodybuilding or sumo wrestling career.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><div> <span>It seems Pork Chop misses his family that he hasn't seen in many many years as he walked over to you.<br>\r\n<br>\r\n\"You really miss your family don't you?\" You asked your anthropomorphic pet dog.<br>\r\n<br>\r\n\"I really do and I told them before I moved out many many years ago, that I would pursue a career of some sort.\" Pork Chop told you.<br>\r\n<br>\r\n\"And what career would you have pursued?\" You asked your anthropomorphic pet dog.<br>\r\n<br>\r\n\"Well I could have been a bodybuilder or a great big fat sumo wrestler of course.\" Pork Chop answered.<br>\r\n<br>\r\n\"I see, perhaps I could help you become a bodybuilder or a great big fat sumo wrestler of some sort, so you can impress your family of course.\" You said.<br>\r\n</span></div></div>",
+            "created":1457586000,
+            "id":2115719,
+            "title":"His family."
+        },
+        "1112":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Persian Cat",
+                "Siamese Cat",
+                "Other Breed"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use the machine on your pet Cat Missy she is a...</span></div></span></div>",
+            "created":1385787600,
+            "id":1701158,
+            "title":"Cat"
+        },
+        "11122":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "Happy",
+                "Angry",
+                "Confused"
+            ],
+            "content":"<div class=\"\"><div> <span>Missy's lean Siamese body starts to change. Her hind legs adjust for bipedal movement. Her fore legs turn into arms with the paws becoming hand like. When it was all finished, she was an anthro. She was still the size of a cat, so you had to get down on the floor in order to get a good look at her. While Missy's head remained the same for the most part, her face could now express human emotions. From what you could tell, she feels...</span></div></div>",
+            "created":1421125200,
+            "id":1917607,
+            "title":"Siamese Cat"
+        },
+        "11123":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Tabby cat.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What breed was Missy?</span></div></span></div>",
+            "created":1466053200,
+            "id":2165093,
+            "title":"Other Breeds."
+        },
+        "111232":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Missy a calico cat?</span></div></span></div>",
+            "created":1502686800,
+            "id":2369066,
+            "title":"Missy the calico?"
+        },
+        "1113":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Bird.",
+                "Ferret.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What animal becomes an Anthro?</span></div></span></div>",
+            "created":1451278800,
+            "id":2080448,
+            "title":"Other pets."
+        },
+        "112":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "Tiger",
+                "Giraffe",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use it on a...</span></div></span></div>",
+            "created":1385787600,
+            "id":1701062,
+            "title":"In a zoo"
+        },
+        "1121":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Male.",
+                "Female.",
+                "Why not one of both genders?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the tiger you use it on male or female?</span></div></span></div>",
+            "created":1516024620,
+            "id":2441149,
+            "title":"Shere Khan, is that you?"
+        },
+        "1123":{
+            "choices":[
+                "Lion",
+                "Hippopotamus",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use it on a...</span></div></span></div>",
+            "created":1402722000,
+            "id":1812230,
+            "title":"Other"
+        },
+        "11231":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Male or Female</span></div></span></div>",
+            "created":1402894800,
+            "id":1813321,
+            "title":"Lion"
+        },
+        "11233":{
+            "author_id":"carlosanchez",
+            "author_name":"Hazari",
+            "choices":[
+                "On a mammal",
+                "On other creatures"
+            ],
+            "content":"<div class=\"\"><div> <span>You look your first options, but  something is not right in all this. Proof the  devise and see how works, but mammals look so common, they're to similar to humans, you're starting to considerate use it on other type of animals but you fear wat that could be dangerous.<br>\r\n<br>\r\nAt the end you decide use the devise on:</span></div></div>",
+            "created":1446094800,
+            "id":2054494,
+            "title":"Fur or not fur."
+        },
+        "113":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "Hamster",
+                "Iguana",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use the device on a...</span></div></span></div>",
+            "created":1385787600,
+            "id":1701066,
+            "title":"In a pet store"
+        },
+        "1133":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Cat.",
+                "Dog.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which animal was made anthropomorphic?</span></div></span></div>",
+            "created":1483246800,
+            "id":2257548,
+            "title":"Pet store pals."
+        },
+        "114":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "Bear",
+                "Deer",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use it on a...</span></div></span></div>",
+            "created":1385787600,
+            "id":1701069,
+            "title":"In a forest"
+        },
+        "1141":{
+            "author_id":"insanehatter",
+            "author_name":"InsaneHatter ",
+            "choices":[
+                "Male",
+                "Female"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Male? or Female?</span></div></span></div>",
+            "created":1495602000,
+            "id":2324850,
+            "title":"Gender?"
+        },
+        "1142":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Buck",
+                "Doe",
+                "Fawn"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You take the machine and come across a Deer it is a...</span></div></span></div>",
+            "created":1385874000,
+            "id":1701542,
+            "title":"Deer"
+        },
+        "1143":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Wolf",
+                "Bird",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else?</span></div></span></div>",
+            "created":1516027020,
+            "id":2441163,
+            "title":"Other"
+        },
+        "11431":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Male wolf",
+                "Female wolf"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Female wolf or male wolf?</span></div></span></div>",
+            "created":1564232340,
+            "id":2693021,
+            "title":"Wolf"
+        },
+        "11432":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Female bird",
+                "Male bird",
+                "Young bird/chick"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okey similar choice for this animal.<br>\r\nIs your choice female bird or male bird or baby/child bird (chick)</span></div></span></div>",
+            "created":1564232580,
+            "id":2693022,
+            "title":"Bird"
+        },
+        "11433":{
+            "author_id":"thesnake12",
+            "author_name":"ricky",
+            "choices":[
+                "Skunk",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe one of these?</span></div></span></div>",
+            "created":1593831660,
+            "id":2861067,
+            "title":"Other"
+        },
+        "115":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "The Aquarium",
+                "The Dog Show",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about at...</span></div></span></div>",
+            "created":1385787600,
+            "id":1701078,
+            "title":"Other"
+        },
+        "1153":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "A Farm",
+                "The Beach",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>OK, let's try...</span></div></span></div>",
+            "created":1410670800,
+            "id":1857009,
+            "title":"Other"
+        },
+        "11531":{
+            "author_id":"tntdmd",
+            "author_name":"TnTdmd",
+            "choices":[
+                "horse",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you use it on ...</span></div></span></div>",
+            "created":1411016400,
+            "id":1858486,
+            "title":"A Farm"
+        },
+        "115311":{
+            "author_id":"mike92586",
+            "author_name":"MikeC",
+            "choices":[
+                "Female draft horse",
+                "Male draft horse"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use the machine on a draft horse on the farm?</span></div></span></div>",
+            "created":1462424400,
+            "id":2143815,
+            "title":"horse"
+        },
+        "1153111":{
+            "author_id":"mike92586",
+            "author_name":"MikeC",
+            "choices":[
+                "Mare",
+                "Filly"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the horse an adult or a young horse?</span></div></span></div>",
+            "created":1462424400,
+            "id":2143816,
+            "title":"Female draft horse"
+        },
+        "1153112":{
+            "author_id":"mike92586",
+            "author_name":"MikeC",
+            "choices":[
+                "Colt",
+                "Stallion"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the horse young or old?</span></div></span></div>",
+            "created":1462424400,
+            "id":2143817,
+            "title":"Male draft horse"
+        },
+        "115312":{
+            "author_id":"tntdmd",
+            "author_name":"TnTdmd",
+            "choices":[
+                "Cow?",
+                "Other?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use it on a?</span></div></span></div>",
+            "created":1421557200,
+            "id":1919772,
+            "title":"other"
+        },
+        "1153122":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Bull",
+                "Hen/rooster",
+                "Other animal"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Bull or a hen/rooster or other animal</span></div></span></div>",
+            "created":1564232760,
+            "id":2693023,
+            "title":"Other?"
+        },
+        "11531223":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Cat",
+                "Dog",
+                "Other animal again"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Cat or dog?</span></div></span></div>",
+            "created":1564232820,
+            "id":2693024,
+            "title":"Other animal"
+        },
+        "115312233":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Sheep",
+                "Pig",
+                "Other animal again?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Still need some other animal. Picky aren't ya?<br>\r\nMaybe sheep or pig then?</span></div></span></div>",
+            "created":1564232940,
+            "id":2693025,
+            "title":"Other animal again"
+        },
+        "1153122333":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "I choose a fly!",
+                "I choose a spider! ",
+                "Reader's choice!"
+            ],
+            "content":"<div class=\"\"><div> <span>Let's see is there still other farm animals left? Maybe but I can't think any....<br>\r\nI look around and see a dung heap and flies flies around it. Heh hee \"flies\". :D <br>\r\nThere is also a spider web on corner of a fence<br>\r\nMaybe it's time for a insect anthro or  spider anthro or something else</span></div></div>",
+            "created":1564233420,
+            "id":2693026,
+            "title":"Other animal again?"
+        },
+        "11531223333":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "A fox",
+                "An ant",
+                "I'm still lookin for something!"
+            ],
+            "content":"<div class=\"\"><div> <span>And reader's choice is ______!<br>\r\nWhat? Is there a fox after my hens again?! Maybe I can train the fox if it is more human like?<br>\r\n<br>\r\nThere is also ants near my sneaker. Maybe I want an ant anthro? Oh boy  so many \"ant\"s in a row :D<br>\r\n<br>\r\nOr I'm still looking for something else?</span></div></div>",
+            "created":1564233780,
+            "id":2693027,
+            "title":"Reader's choice!"
+        },
+        "115312233332":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Worker ant (male)",
+                "Queen ant (Female)",
+                "Other insect"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I want the anthro ant! <br>\r\nDo I want male worker ant or do I go to ant hill and take queen ant for myself?<br>\r\n<br>\r\n</span></div></span></div>",
+            "created":1564233960,
+            "id":2693028,
+            "title":"An ant"
+        },
+        "1153122333323":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "A bumble bee",
+                "A Wasp",
+                "Other insect"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Other insect? What I am buzzing about?<br>\r\nWell I'm not buzzing but there is flower field next to me.<br>\r\nThere I see ____.<br>\r\n</span></div></span></div>",
+            "created":1564234140,
+            "id":2693029,
+            "title":"Other insect"
+        },
+        "11531223333233":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "A mosquito",
+                "A beetle",
+                "Other insect"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The insect is _____!<br>\r\n</span></div></span></div>",
+            "created":1564234200,
+            "id":2693030,
+            "title":"Other insect"
+        },
+        "115312233333":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "A mouse ",
+                "A rat",
+                "Surprise me!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe my farm's cat is lazy and I have a mouse or rat problem?</span></div></span></div>",
+            "created":1564236240,
+            "id":2693045,
+            "title":"I'm still lookin for something!"
+        },
+        "12":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "To the Pet Store",
+                "To the Zoo",
+                "To the Forest",
+                "To the Aquarium",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You are a young Human Female.<br>\r\n<br>\r\nYou want to test out your machine...Where will you go to test it out?</span></div></span></div>",
+            "created":1385787600,
+            "id":1701053,
+            "title":"Female"
+        },
+        "121":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "Mouse",
+                "Parrot",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use it on a...</span></div></span></div>",
+            "created":1385787600,
+            "id":1701073,
+            "title":"To the Pet Store"
+        },
+        "1211":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Male.",
+                "Female."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the mouse male or female?</span></div></span></div>",
+            "created":1488690000,
+            "id":2285262,
+            "title":"Squeak."
+        },
+        "1212":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "A young parrot.",
+                "An adult parrot.",
+                "An old parrot."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide to change a parrot. You test it on...</span></div></span></div>",
+            "created":1494738000,
+            "id":2319007,
+            "title":"Squawking friend."
+        },
+        "1213":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Cat.",
+                "Dog.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use the device on a...</span></div></span></div>",
+            "created":1468904400,
+            "id":2182915,
+            "title":"Other pets for Anthros."
+        },
+        "12133":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would you make a fish an anthro?</span></div></span></div>",
+            "created":1509280440,
+            "id":2408352,
+            "title":"Fish?"
+        },
+        "122":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "A Lion",
+                "A Zebra",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You take your machine to the zoo<br>\r\n<br>\r\nWhich Animal do you use it on?</span></div></span></div>",
+            "created":1385787600,
+            "id":1701055,
+            "title":"To the Zoo"
+        },
+        "1221":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Speak",
+                "Walk Upright",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>You decide to use your Machine on a big Lion named Simba, and in fact he looks a lot like Simba too...That's probobly why you picked him.<br>\r\n<br>\r\nYou turn on your machine and focus to beam of supernatural light on your subject, as the rainbow colored light touches Simba he starts to grow and change, first thing that changes are his fore paws, the digits start to lengthen and become more like fingers. <br>\r\n<br>\r\nThen his spine starts to straighten and he starts to stand upright.<br>\r\n<br>\r\nThen Simba starts to... </span></div></div>",
+            "created":1385787600,
+            "id":1701070,
+            "title":"A Lion"
+        },
+        "12211":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Use the Machine on a different Animal",
+                "Get to know Simba"
+            ],
+            "content":"<div class=\"\"><div> <span>\"What...What is happening to me?\" Simba asks<br>\r\n<br>\r\n\"I have used my new machine to make you an Anthropomorphic Lion.\" You say calmly \"Are you happy with your new form?\"<br>\r\n<br>\r\n\"I don't know yet.\" Simba says<br>\r\n<br>\r\nYou</span></div></div>",
+            "created":1385787600,
+            "id":1701156,
+            "title":"Speak"
+        },
+        "1223":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Crocodile",
+                "Eagle",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You choose to use it on a...</span></div></span></div>",
+            "created":1385787600,
+            "id":1701071,
+            "title":"Other Animals"
+        },
+        "123":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "Wolf",
+                "Chipmunk",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use it on a...</span></div></span></div>",
+            "created":1385787600,
+            "id":1701075,
+            "title":"To the Forest"
+        },
+        "1231":{
+            "author_id":"twiga",
+            "author_name":"Twiga",
+            "choices":[
+                "Male ",
+                "Female  "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is the Wolf Male or Female?</span></div></span></div>",
+            "created":1394946000,
+            "id":1761641,
+            "title":"Wolf"
+        },
+        "1233":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Owl.",
+                "Wild rabbit.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use the device on a...</span></div></span></div>",
+            "created":1476594000,
+            "id":2223989,
+            "title":"The first anthro."
+        },
+        "124":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "Shark",
+                "Seal",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use it on a...</span></div></span></div>",
+            "created":1385787600,
+            "id":1701076,
+            "title":"To the Aquarium"
+        },
+        "125":{
+            "author_id":"ehh789",
+            "author_name":"EHH",
+            "choices":[
+                "Home",
+                "The Aviary",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about at...</span></div></span></div>",
+            "created":1385787600,
+            "id":1701080,
+            "title":"Other"
+        },
+        "1251":{
+            "author_id":"renamonplayer",
+            "author_name":"eevee",
+            "choices":[
+                "dogs (German shepherd, Siberian husky, Rottweiler)",
+                "cats",
+                "other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decided to stay home and see what it does and you where in luck because when you turned around you saw your pet....</span></div></span></div>",
+            "created":1426654800,
+            "id":1949940,
+            "title":"Home"
+        },
+        "12511":{
+            "author_id":"renamonplayer",
+            "author_name":"eevee",
+            "choices":[
+                "German Shepherd or Siberian husky",
+                "Rottweiler or Doberman"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will it be?</span></div></span></div>",
+            "created":1426654800,
+            "id":1949953,
+            "title":"dogs (German shepherd, Siberian husky, Rottweiler)"
+        },
+        "125112":{
+            "author_id":"renamonplayer",
+            "author_name":"eevee",
+            "choices":[
+                "Rottweiler",
+                "Doberman"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one of these will it be?</span></div></span></div>",
+            "created":1426654800,
+            "id":1949954,
+            "title":"Rottweiler or Doberman"
+        },
+        "1252":{
+            "author_id":"sweetace2211",
+            "author_name":"AceSweet2211",
+            "choices":[
+                "Blackbird",
+                "Bluejay ",
+                "American Robin"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Ah, I hate doing these types of chapters, but I guess they are a necessary evil.</span></div></span></div>",
+            "created":1466398800,
+            "id":2167079,
+            "title":"The Aviary"
+        },
+        "12521":{
+            "author_id":"sweetace2211",
+            "author_name":"AceSweet2211",
+            "choices":[
+                "Male?",
+                "Female?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Last one (I hope). What Gender?</span></div></span></div>",
+            "created":1466398800,
+            "id":2167085,
+            "title":"Blackbird"
+        },
+        "1253":{
+            "author_id":"mike92586",
+            "author_name":"MikeC",
+            "choices":[
+                "Large animals",
+                "Small animals",
+                "Other animals"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Off to the farm.</span></div></span></div>",
+            "created":1410152400,
+            "id":1854432,
+            "title":"Other"
+        },
+        "12531":{
+            "author_id":"mike92586",
+            "author_name":"MikeC",
+            "choices":[
+                "One of the stallions or mares",
+                "One of the bulls or cows"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You use the device on one of the many animals in the barn</span></div></span></div>",
+            "created":1410152400,
+            "id":1854433,
+            "title":"Large animals"
+        }
+    },
+    "info":{
+        "author_id":"ehh789",
+        "author_name":"EHH",
+        "brief_description":"You have a machine that turns animals into anthros. How will you use it?",
+        "created":1385850900,
+        "description":"<td align=\"left\" class=\"norm\">You have received a gift from a scientist friend of yours. The devise looks like a remote with a big button. Apparently, it turns animals into anthropomorphic versions of themselves (it has no effect on humans, in case you were wondering). They walk on two legs, talk, have hands with opposable thumbs, etc. Also, they won't change size and their animal abilities and traits are kept. But you have use it carefully because once the animal is anthropomorphized, the effect is permanent.<br>\r\n<br>\r\nRules:<br>\r\n1. No sexual content.<br>\r\n2. No killing or gore.<br>\r\n3. Proper spelling and grammer.<br>\r\n4. Please have a basic understanding of the animal if you want to use it.<br>\r\n5. No TG.<br>\r\n6. No mammary glands on non-mammal anthros.<br>\r\n<br>\r\nOtherwise, have fun.</td>",
+        "id":1964863,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1593831660,
+        "modified":1593831660,
+        "pretty_title":"The Anthropomorphizer"
+    }
+}

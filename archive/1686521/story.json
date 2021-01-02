@@ -1,0 +1,2225 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Combination of Season 1&2"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which season of Digimon gets to play the game?</span></div></span></div>",
+            "created":1277787600,
+            "id":908865,
+            "title":"Select Your Season"
+        },
+        "11":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Humans",
+                "Digimon",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will the players be only the humans, digimon, or both?</span></div></span></div>",
+            "created":1277787600,
+            "id":908868,
+            "title":"Season 1"
+        },
+        "111":{
+            "choices":[
+                "Boys.",
+                "Girls.",
+                "Both."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So which gender do you want?</span></div></span></div>",
+            "created":1296363600,
+            "id":1044670,
+            "title":"Humans."
+        },
+        "1113":{
+            "choices":[
+                "Tai.",
+                "Matt.",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So who buys the game? It doesn't matter who buys it, really.</span></div></span></div>",
+            "created":1342155600,
+            "id":1377567,
+            "title":"I don't discriminate!"
+        },
+        "11131":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Tai first.",
+                "Agumon first."
+            ],
+            "content":"<div class=\"\"><div> <span>Tai buys a strange game from a shop and brings it home, and subsequently invites the whole group over. They set up the game, shuffle the cards, and are ready to start.<br>\r\n<br>\r\nHumans: Tai, Kari, Matt, T.K, Joe, Izzy, Sora, Mimi<br>\r\nDigimon: Agumon, Gatomon, Gabumon, Patamon, Gomamon, Tentomon, Biyomon, Palmon<br>\r\n<br>\r\nKari reads the rules, \"Roll the die and draw a card, but adapting to it will be hard. These cards will change you, now decide who's first among you.\"</span></div></div>",
+            "created":1363150800,
+            "id":1549474,
+            "title":"Tai."
+        },
+        "111311":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Games are kids are fun, now you get to feel young!",
+                "Try on a new skin, become the last thing you petted!"
+            ],
+            "content":"<div class=\"\"><div> <span>Tai bought it, so he faces the \"warning\" first. He rolls the die, and the top card flips itself over on it's own. \"Wha?\" Everyone backs away. Matt looks at Tai, \"This sure is strange, you sure we should play it?\" Tai rolls his eyes, \"Of course! What's the card say?\" He goes back over and reads it.</span></div></div>",
+            "created":1363150800,
+            "id":1549478,
+            "title":"Tai first."
+        },
+        "1113112":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Agumon goes.",
+                "Kari goes."
+            ],
+            "content":"<div class=\"\"><div> <span>After reading the card aloud, everyone's eyes are fixed on Tai. \"Err... okay, that's odd.\" Tai says, then he feels himself shrink. He can't remember petting Agumon, but Gatomon he's pet several times already today. He shrinks down, becoming a gatomon just like his sister's partner. Agumon teases him, \"Maybe if you pet me, you wouldn't get hairballs.\" Gatomon glares, \"Oh hush, he looks adorable!\" she giggles, and Tai looks at his body. \"What in the...?\" Kari picks her brother up, \"Wow, you feel just like her.\" Gatomon grins, \"Maybe he wouldn't mind being my replacement...\" She jokes, and making Tai a bit furious. \"I won't be like this for long... let's keep playing.\" Everyone is overwhelmed by this game, but some show it more.</span></div></div>",
+            "created":1363150800,
+            "id":1549486,
+            "title":"Try on a new skin, become the last thing you pe..."
+        },
+        "11131121":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "AP/AR.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Agumon went next; he wasn't eager to be changed, but he did want to get the game over with. He rolled a seven and drew a card. It was...</span></div></span></div>",
+            "created":1406437200,
+            "id":1834406,
+            "title":"Like person, like Digimon."
+        },
+        "111311211":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "AP.",
+                "AR."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which card did Agumon get?</span></div></span></div>",
+            "created":1408251600,
+            "id":1842944,
+            "title":"Which one?"
+        },
+        "111311212":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "TG.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What card did Agumon get?</span></div></span></div>",
+            "created":1416546000,
+            "id":1891074,
+            "title":"Other paths."
+        },
+        "1113112122":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Agumon changed species?</span></div></span></div>",
+            "created":1436418000,
+            "id":2005465,
+            "title":"Species Change?"
+        },
+        "11131121221":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "A human.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did Agumon become?</span></div></span></div>",
+            "created":1518325200,
+            "id":2451692,
+            "title":"No longer an Agumon."
+        },
+        "11131122":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Age progression/regression.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Kari went next, rolling the dice and scoring a nine (not bad). Her piece moved the required number of spaces and she took a card from the pile afterwards.<br>\r\n<br>\r\nThe card was...</span></div></span></div>",
+            "created":1403240400,
+            "id":1814896,
+            "title":"Eager to change."
+        },
+        "112":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Agumon",
+                "Gabumon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>At a bazaar in a forest village in the Digital World, Agumon was browsing and looking at the various stands and shops. His purpose of being here? Boredom. His partner Tai was away at school at the moment, and decided to come here to pass the time. After MaloMyotismon's defeat, the digimon were able to go back and forth between the Digi and Real world on their own. <br>\r\n<br>\r\nAfter about an hour of navigating through the maze of shops, he came across one stand in particular. It was run by a Tapirmon in a brown robe. He was selling a lot of magic items and stuff like spell books,  and the like. However, there was one thing that caught Agumon's attention. It was a board game simply called Modification. There was something about the game that compelled him into getting it. Problem is that he didn't really had any money on him since he didn't plan on buying anything. \"If you want the game, you can have it for free since it is my grand opening today, and first customer can get anything for free since you're the first one to stop by here.\" \"Okay, I'll take it!\" Agumon replied as he took the board game. The shopkeeper then said to him, \"Just to let you know that this board game is really something special, and just be careful alright?\" \"Um alright.\" said Agumon, a bit confused on what he meant. He then went back to the real world with board game in tow. <br>\r\n<br>\r\nHe went to one of the TVs that served as portals to the real world, and transported back to Tai's room. He looked at the alarm clock seeing that it was about 11:30AM, a bit earlier than expected. Gatomon who was sleeping on Kari's bed, awoke to the lizard's arrival. \"Hey, what do you got there?\" \"Oh I got this board game from a magic shop for free! Want to play?\" \"Well, maybe if we have more people to play with.\" \"I know! I'll invite the other Digimon to come and play!\" \"Sounds like a plan since there is really nothing to do here, and Tai and the others are going to be busy with after school stuff until late tonight.\" Then, Agumon made a couple of phone calls to the rest of the original 8 digidestineds' houses, and invited the rest of the digimon to come over. The others came about an hour later, and they all gathered in Tai's room.<br>\r\n<br>\r\nAgumon had set it up the game prior to their arrival. The others looked at it, and started to ask questions about it. \"So what is it about?\" Gomamon said. \"What kind of game is Modification anyway? It is quite an unusual name.\" Tentomon asked. \"Well, I don't know. I just got for free, and I thought we could play it since of course, we all have nothing better to do anyway. How about we just start the game anyway?\" Everyone agreed to this, and sat in a circle around the board game. Then, a voice came out of nowhere said, \"Who will go first?\" Everyone was in utter shock, and realized it came form the game itself. The game then asked again, \"Who will go first?\" Despite still being in awe and shock about this, they all complied and decided about who will start off this weird and mystical game.<br>\r\n<br>\r\nWho is the player to be first?</span></div></div>",
+            "created":1277960400,
+            "id":909533,
+            "title":"Digimon"
+        },
+        "1121":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Muscle Growth",
+                "Body Part Growth",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Agumon then volunteered to be the first. \"Since I'm the one who planned this, I'll go first.\" No one didn't object to this. He grabbed the dice, and rolled them and ended up with an 8. He was about to move his game piece, but suddenly, the piece moved all by itself! It startled everyone quite a bit. Then, the voice from the game spoke up again, \"Draw a card.\" Agumon then took a card from the tall deck.<br>\r\n<br>\r\nWhat kind of card was it?</span></div></div>",
+            "created":1277960400,
+            "id":909734,
+            "title":"Agumon"
+        },
+        "11211":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Minor growth.",
+                "Major growth."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How much did Agumon's muscles grow?</span></div></span></div>",
+            "created":1411102800,
+            "id":1858788,
+            "title":"A larger Agumon."
+        },
+        "11212":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Hands/Feet",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which part of the body grows?</span></div></span></div>",
+            "created":1277960400,
+            "id":909740,
+            "title":"Body Part Growth"
+        },
+        "112121":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Hands",
+                "Feet"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose between the two.</span></div></span></div>",
+            "created":1278219600,
+            "id":911493,
+            "title":"Hands/Feet"
+        },
+        "1121212":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Gomamon",
+                "Gatomon"
+            ],
+            "content":"<div class=\"\"><div> <span>Agumon then read the card aloud: \"Big feet are really neat? What does that mean?\" His answer came quick as his feet started to tingle and feel weird. Just then his clawed feet started to grow! His feet nearly tripled in size in size as they grew passed his head, and his clawed toes were now grew sharper and longer than before. <br>\r\n<br>\r\nEveryone gasped in surprise at what happened to Agumon. Gomamon was about to crack a joke on Agumon's feet belonging in clown shoes, but Gabumon and Tentomon managed to stopped him on time. The orange lizard tried to get up, but his feet were a bit too heavy and he needed some room so his feet didn't get in the way or knocked people down. Once he gotten up, he felt unbalanced and hard to maneuver due to his huge feet weight. Then just finally sat down. \"Hey, can I have my feet back to normal now.\" \"No can do. Transformations are irreversible until the end of the game.\" replied the voice. \"Can I go back to normal if I quit?\" \"If you quit in the middle of the game, the consequences will be dire even for those who haven't played yet.\"<br>\r\n<br>\r\nEvery digimon in the room began to worry and panic at the moment that they'll be changed like Agumon, but soonrealized that it is inevitable and just continued playing the game to their dismay.<br>\r\n<br>\r\nWho went next?</span></div></div>",
+            "created":1278565200,
+            "id":914081,
+            "title":"Feet"
+        },
+        "11212121":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "A Swap Card",
+                "An Inflation Card"
+            ],
+            "content":"<div class=\"\"><div> <span>It was now Gomamon's turn as he volunteered to go next, just wanting to get this game over with. He had been handed the dice, and rolled a 7. The game piece then moved by itself 7 spaces on the board. The voice came back up again to tell the white seal digimon to draw a card from the deck. Gomamon then did what he'd been told.<br>\r\n<br>\r\nWhat kind of card did he draw?</span></div></div>",
+            "created":1279515600,
+            "id":921034,
+            "title":"Gomamon"
+        },
+        "112121211":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Voice Swap",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of swapping?</span></div></span></div>",
+            "created":1279515600,
+            "id":921035,
+            "title":"A Swap Card"
+        },
+        "1121212111":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Palmon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Whose voice does he swap with?</span></div></span></div>",
+            "created":1279688400,
+            "id":921819,
+            "title":"Voice Swap"
+        },
+        "11212121111":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Gabumon",
+                "Gatomon"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Swap voices with who?\" Gomamon said aloud. \"It is at random.\" the board game voice replied. Soon, the game emitted a flash light that blinded everyone in the room, and quickly faded. \"What just hap-?\" Palmon said but covered her mouth in total shock. She sounded like Gomamon! Then realizing what was on the white seals card, everyone looked at Gomamon who was a bit terrified to speak. He then spoke, \"Um, huh?\" he covered his mouth soon after realizing that his voice sounds like Palmon's. \"Can we hurry up and get this game over with?!\" shouted Palmon who was angry and wanted her voice back more than ever, and Gomamon was on the same boat with her. Though fearing that the worst was yet to come.<br>\r\n<br>\r\nWho was next?</span></div></div>",
+            "created":1283749200,
+            "id":951304,
+            "title":"Palmon"
+        },
+        "112121211112":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "All over",
+                "On her feet."
+            ],
+            "content":"<div class=\"\"><div> <span>Gatomon giggles at hearing Gomamon speak in Palmon's voice, and he tosses the dice at her. \"It's not funny...\" he says, but Gatomon laughs more as she catches and rolls in one fluid movement. She gets a 9, her piece moving forward. \"Draw a card\", the voice says again. She obeys, taking the top card and laying it for everyone to see. \"Stepping on paws may be fun, but you'll be stepping in them!\" Tentomon wonders aloud, \"I wonder what that means...\" The others stare at Gatomon, and she feels a tingling sensation.</span></div></div>",
+            "created":1346562000,
+            "id":1419205,
+            "title":"Gatomon"
+        },
+        "11212121112":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Gatomon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Whose voice does he swaps with?</span></div></span></div>",
+            "created":1279688400,
+            "id":921824,
+            "title":"Other"
+        },
+        "112121211122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Patamon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Whose voice then?</span></div></span></div>",
+            "created":1279688400,
+            "id":921825,
+            "title":"Other"
+        },
+        "1121212112":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Body Part Swap",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other kind of swapping?</span></div></span></div>",
+            "created":1279515600,
+            "id":921036,
+            "title":"Other"
+        },
+        "11212121121":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Head.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What piece ends up swapped?</span></div></span></div>",
+            "created":1421038800,
+            "id":1916837,
+            "title":"Trade ya!"
+        },
+        "11212121122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Full Body Swap",
+                "Personality Swap"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other kind of swapping?</span></div></span></div>",
+            "created":1279515600,
+            "id":921038,
+            "title":"Other"
+        },
+        "112121211221":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "\"...Palmon.\"",
+                "\"...Agumon.\""
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Gomamon feels a strange sensation, as does someone else. He looks around, \"Wha...? How'd everyone move so fast?\" He says. The others look at him. \"We didn't move...\"</span></div></span></div>",
+            "created":1348808400,
+            "id":1436559,
+            "title":"Full Body Swap"
+        },
+        "1121212112212":{
+            "author_id":"onebigfan",
+            "author_name":"BodySwapLover",
+            "choices":[
+                "Muscle Growth Card",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>After hearing this odd reply, Gomamon looked around the room in a panic. As he glanced around, he noitced thar he was covered in orange scales and his feet were bigger then usual. He then noticed his body on the other side of his feet. He and Agumon really swapped bodies! \"We really did switch bodies?\" asked Agumon. Everyone then realized what happened and panicked. \"Guess it's my turn now.\" mumbled Gabumon. He rolled a 5 and drew a...</span></div></div>",
+            "created":1423285200,
+            "id":1929269,
+            "title":"\"...Agumon.\""
+        },
+        "11212121122122":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Takes away his fur?",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe the card...</span></div></span></div>",
+            "created":1423544400,
+            "id":1931062,
+            "title":"Other"
+        },
+        "112121211221222":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Gender change?</span></div></span></div>",
+            "created":1472274000,
+            "id":2202142,
+            "title":"Something else"
+        },
+        "112121211222":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "A boy",
+                "A lady."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who does the lovable seal trade personality with?</span></div></span></div>",
+            "created":1348808400,
+            "id":1436556,
+            "title":"Personality Swap"
+        },
+        "112122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Tail/Head",
+                "Penis and balls"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other part of the body grows?</span></div></span></div>",
+            "created":1277960400,
+            "id":909741,
+            "title":"Other"
+        },
+        "1121221":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Tail",
+                "Head"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Choose between the two.</span></div></span></div>",
+            "created":1278219600,
+            "id":911494,
+            "title":"Tail/Head"
+        },
+        "11212212":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Gatomon.",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><div> <span>The card said \"don't get a swelled head\".<br>\r\n<br>\r\n\"What's that supposed to mean?\" said Agumon.<br>\r\n<br>\r\nThe effects were almost immediate. His eyes suddenly bulged to a much larger size, as his skull (and the rest of his head's skin) began to expand. His teeth became much larger and sharper, as his jaw elongated and expanded much more. Even his tongue and nostrils had an unbelievable growth spurt. Agumon then fell face first following the transformation.<br>\r\n<br>\r\nEveryone was spooked now- who would dare to be the next player?</span></div></div>",
+            "created":1405227600,
+            "id":1826863,
+            "title":"Top-heavy takes on a new meaning."
+        },
+        "1121222":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Gabumon",
+                "Biyomon"
+            ],
+            "content":"<div class=\"\"><div> <span>Agumon read the card, \"Male Enhancement to the Max! Huh, what does that mean?\" Immediately afterward, he felt a strange sensation in crotch area. He was about to get his answer. He looked down to see balls beginning to swell very slowly which caused everyone began to be fixate on the orange lizard. Slowly, but surely his balls were growing into the size of soft balls then to bowling balls then to medium sized beach balls!  It caused him to spread his legs farther wide apart. However, it didn't stop there as Agumon felt another wave of sensation as his member started to protrude out of his sack, causing him to moan. His dick stiffen and lengthen, becoming also thick in the process. When his member was fully erect, it was about 4.5 ft tall/long an half a foot thick! <br>\r\n<br>\r\nEveryone was complete awestruck at the giant reptile member. The girls in the room were staring and licking their lips hungrily at the cock, but managed to control themselves. The rest were just wide eyed at the slightly veiny sex organ. Agumon was just as surprised too, but he felt that it was too heavy. He then slightly touched and rubbed it, which twitched and throbbed in response and caused him to moan a little while his tongue lolled out a bit. It was super sensitive. He stopped rubbing after a few seconds, not wanting to spread his seed all over the place. However, it caused a small eruption of precum that oozed and dribble down the long lizard shaft. After awhile, they started to focus on the game, which was difficult due to the big cock in the room yet they managed.<br>\r\n<br>\r\nWho goes next?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1283835600,
+            "id":951884,
+            "title":"Maximum Male Enhancement"
+        },
+        "11212222":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Breast Expansion",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, I'll go next.\" she said voluntarily while still in a trance on Agumon's gigantic cock. She took the dice and rolled them landing on a 7. Her game piece moved in accordance with the number rolled. The game piece then told her to draw a card form the deck. She then read the card...<br>\r\n<br>\r\nWhat card did she get?</span></div></div>",
+            "created":1285218000,
+            "id":962188,
+            "title":"Biyomon"
+        },
+        "112122221":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Tentomon",
+                "Gomamon"
+            ],
+            "content":"<div class=\"\"><div> <span>She read the card, \"Obtain bountiful breasts.\" After reading, she felt some pressure within her chest. Two red puffy nipples began to protrude from her feathery chest. Soon, two mounds were growing, starting from A cups to C cups to H cups to finally full sized N cups that actually covered her feet when sitting down. She was in total shock like with everyone else at the moment, and tried to lift up with heavy feathered breasts, leaking some milk in the process. The boys in the room blushed heavily at the big boobed bird as they sported a hard on and tried to hide it, excluding Agumon whose was too big to hide. <br>\r\n<br>\r\nAgumon started to think naughty thoughts at the moment involving both him and her, and how she would place his big dick in between her huge jugs and rub them together. His daydreaming was a bit too much as his long member throbbed at the thoughts, and Agumon lightly stroking it and lost in a trance. Everyone then caught on what the orange dinosaur was doing, and started to back away a bit and tried to snap Agumon out of it. However, it was too late as his member pulsated hard and uncontrollably, and blasted a load of cum straight up in the air. It almost hit the ceiling, but it didn't hit the others as most of them kept a safe distance from him, landed only in his general area and most of it landed back on his dick, dribbling down the shaft. Some of it landed on his chest. Now calmed downed, Agumon was now panting heavily and hard while grabbing the attention of everyone, some with angered looks for his actions and almost covering them in his seed. \"S-sorry...\" he managed to choke out, looking apologetic. Feeling sorry and wanting to comfort him, she then went over to him, as hard as it was for walking with huge weight on her chest. She sat down next to him and then lightly peck a kiss on his cheek, catching him and everyone else off guard, and licked the cum off his chest. Agumon's member was still stiff and throbbing a bit, but at least he managed to control it and himself for the time being. He felt much better with Biyomon on her side, more or less both being in the same boat having big reproductive organs.<br>\r\n<br>\r\nAfterward, the game continued... Who's next?</span></div></div>",
+            "created":1286254800,
+            "id":969076,
+            "title":"Boobs for the Bird"
+        },
+        "1121222212":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Blimp out! (Inflation)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, I'll go next.\" Gomamon said with a gulp afterward, not really wanting to go through this. He been handed the dice and rolled them, ending up with a 5. His game piece started to move 5 spaces, and the voice from the game boomed, \"Draw a card.\" Gomamon then, picked a card from the deck, and read it out loud.<br>\r\n<br>\r\nWhat did it say?</span></div></div>",
+            "created":1287464400,
+            "id":977678,
+            "title":"Gomamon"
+        },
+        "11212222122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Are you 'udderly' satisfied?",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did it say?</span></div></span></div>",
+            "created":1287464400,
+            "id":977679,
+            "title":"Other"
+        },
+        "112122221221":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Tentomon",
+                "Gatomon"
+            ],
+            "content":"<div class=\"\"><div> <span>\" Are you 'udderly' satisfied? What?\" Gomamon said puzzled. Then, he started to feel some pain in his abdomen. It suddenly got a bit intense as he laid on his back. What happened next was startling. His belly started to inflate a bit, but the white fur started for fall off, leaving only a pink area. Then, 4 nipples protruded from Gomamon's pink belly. He now had cow udders! <br>\r\n<br>\r\nEveryone stared in awe while some thought it was pretty funny, but stifled a laugh. Gomamon just looked down at his new organ and jiggled it, hearing some sloshing sounds. It was a bit sensitive as well. He then started to tug on a teat which squirted a small amount of milk. Gomamon then started to get himself right side up again, but laying his udders elevated his height a bit.<br>\r\n<br>\r\nSomeone else was next, who was it?</span></div></div>",
+            "created":1287637200,
+            "id":978964,
+            "title":"Are you 'udderly' satisfied?"
+        },
+        "1121222212212":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Anthropomorphization",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Well, I guess I'll go next.\" Gatomon said as she took the dice. She then rolled them, ending up with a 6. The game piece started to move 6 spaces by itself, and the voice from the game boomed in, \"Draw a card.\" Gatomon did what the voice said, and draw a card from the deck.<br>\r\n<br>\r\nWhat kind of card was it?</span></div></div>",
+            "created":1288760400,
+            "id":986491,
+            "title":"Gatomon"
+        },
+        "11212222122122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Pregnancy",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What card did she get?</span></div></span></div>",
+            "created":1288760400,
+            "id":986492,
+            "title":"Other"
+        },
+        "112122221221221":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "1",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She read the card, \"Congratulations! You'll now be a mother of ___\"<br>\r\n<br>\r\nHow many babies?</span></div></span></div>",
+            "created":1311570000,
+            "id":1154473,
+            "title":"Pregnancy"
+        },
+        "1121222212212212":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "2",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How many babies?<br>\r\n</span></div></span></div>",
+            "created":1313038800,
+            "id":1166176,
+            "title":"More"
+        },
+        "11212222122122122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "3",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How many babies?</span></div></span></div>",
+            "created":1335934800,
+            "id":1328402,
+            "title":"More"
+        },
+        "112122221221221222":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "4",
+                "More "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How many babies?</span></div></span></div>",
+            "created":1344834000,
+            "id":1403607,
+            "title":"More"
+        },
+        "1121222212212212222":{
+            "author_id":"themodifier",
+            "author_name":"Writer12",
+            "choices":[
+                "5",
+                "More"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How many babies?</span></div></span></div>",
+            "created":1492664400,
+            "id":2307766,
+            "title":"More "
+        },
+        "11212222122122122222":{
+            "author_id":"themodifier",
+            "author_name":"Writer12",
+            "choices":[
+                "6-10",
+                "10+"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How many more?</span></div></span></div>",
+            "created":1494306000,
+            "id":2317004,
+            "title":"More"
+        },
+        "112122221221222":{
+            "choices":[
+                "TG.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What card did Gatomon get?</span></div></span></div>",
+            "created":1317358800,
+            "id":1198063,
+            "title":"Still going..."
+        },
+        "1121222212212222":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "\"IQ points are overrated!\" (Bimbo)",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about...</span></div></span></div>",
+            "created":1458709200,
+            "id":2121799,
+            "title":"Something else."
+        },
+        "112122221222":{
+            "author_id":"puppyhell",
+            "author_name":"Demon spawn",
+            "choices":[
+                "'Choose an effect of another player'",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>comtinuing choices</span></div></span></div>",
+            "created":1287550800,
+            "id":978088,
+            "title":"Choose!"
+        },
+        "1121222212221":{
+            "author_id":"puppyhell",
+            "author_name":"Demon spawn",
+            "choices":[
+                "Agumon (a giant dick)",
+                "Luscious breasts"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one does our favorite seal choose?</span></div></span></div>",
+            "created":1287550800,
+            "id":978089,
+            "title":"Big boobs or a colossal cock"
+        },
+        "11212222122211":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "They take a break.",
+                "Keep going."
+            ],
+            "content":"<div class=\"\"><div> <span>Gomamon whimpers just looking at Agumon's cock, but decides he'd rather not become half-girl. \"I'll take the male enhancement...\" he says. His groin stings as his balls grow to match Agumon's. He spreads his little legs to accommodate it, showing everyone as the shaft starts to grow. His dick grows, thick and long to match Agumon's as well. He groans as it touches the floor, moving to put it somewhere. The group moves to give the 9 feet of penises some space.</span></div></div>",
+            "created":1348808400,
+            "id":1436680,
+            "title":"Agumon (a giant dick)"
+        },
+        "112122221222112":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Gatomon",
+                "Patamon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's next?</span></div></span></div>",
+            "created":1459659600,
+            "id":2126888,
+            "title":"Keep going."
+        },
+        "1121222212221121":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "IQ change",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Looking at the three before her Gatomon had every right to be worried as she rolled the die to get...two. \"OH COME ON!\" The now grouches feline did the hardest part while her piece moved: picking up the top card and reading it.</span></div></span></div>",
+            "created":1493010000,
+            "id":2309907,
+            "title":"Gatomon"
+        },
+        "11212222122211211":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Increase",
+                "Decrease"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How will it change?</span></div></span></div>",
+            "created":1493010000,
+            "id":2309908,
+            "title":"IQ change"
+        },
+        "11212222122212":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Palmon",
+                "Tentomon"
+            ],
+            "content":"<div class=\"\"><div> <span>Gomamon looks at his friends, not sure which is worse. \"Err....\" he says, imagining his cock stretching. He decides \"I'll take breasts...\" he says, just barely loud enough to hear. Suddenly his chest tightens, then is stretched to give him breasts as big as biyomon's. They balloon out, comically on his small body. They force him to lay on them, and he gets settled. Agumon's cock goes flaccid at the sight of gomamon's breasts, making Gomamon blush red. \"This hurts...\" he says, trying to get comfortable. Who next?</span></div></div>",
+            "created":1346562000,
+            "id":1419213,
+            "title":"Luscious breasts"
+        },
+        "1121222212222":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "\"Have some fun, everyone's effects in one!\"",
+                "Other."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The card says...</span></div></span></div>",
+            "created":1348808400,
+            "id":1436596,
+            "title":"Other"
+        },
+        "112122222":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Inflation",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of card was it?</span></div></span></div>",
+            "created":1286254800,
+            "id":969216,
+            "title":"Other"
+        },
+        "1121222222":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Swapping",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of card?</span></div></span></div>",
+            "created":1348981200,
+            "id":1437750,
+            "title":"Other"
+        },
+        "11212222221":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Gender",
+                "Body or parts"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What is she swapping?</span></div></span></div>",
+            "created":1348981200,
+            "id":1437751,
+            "title":"Swapping"
+        },
+        "112122222211":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Gomamon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Biyomon becomes a boy... but who becomes a girl in her place?</span></div></span></div>",
+            "created":1348981200,
+            "id":1437753,
+            "title":"Gender"
+        },
+        "1121222222111":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Continue adjusting.",
+                "Next player."
+            ],
+            "content":"<div class=\"\"><div> <span>Biyomon becomes more boyish, her feathers getting more purple and her head getting cut to make her look manly. Her voice deepens.<br>\r\nGomamon however, gets more pink and his claws suddenly grow. Gomamon's hair turns into a ponytail and his voice becomes higher pitched.<br>\r\n<br>\r\nThey stare at each other in shock, as does everyone else. \"Wow...\" Biyomon says, and Gomamon nods.</span></div></div>",
+            "created":1363150800,
+            "id":1549490,
+            "title":"Gomamon"
+        },
+        "11212222221112":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Gomamon",
+                "Patamon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is next?</span></div></span></div>",
+            "created":1459141200,
+            "id":2123998,
+            "title":"Next player."
+        },
+        "112122222211121":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Who needs brains? (Bimboization)",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I guess I'm next.\" Gonamon said with a squeak in her voice as her Adam's apple dissolved. The seal mom would roll a six as her piece moved, she was almost completely distracted from the game when she noticed Augmon in a new light in her eyes that made her lick her lips as she picked up her card.</span></div></div>",
+            "created":1459918800,
+            "id":2128446,
+            "title":"Gomamon"
+        },
+        "1121222222111211":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Patamon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Who needs brains? Oh that can't be-\" As the digimon read the card and was prepared to worry of it's effects she suddenly grabbed her head as it felt like a vacuum was turned on inside, after only a minute the seal stopped worrying as a smile formed on her face. \"Like that card was right! This girl just needs big boys!\" She would turn to wink at Augmon who blushed in response.<br>\r\nWho's next?</span></div></div>",
+            "created":1466571600,
+            "id":2168431,
+            "title":"Who needs brains? (Bimboization)"
+        },
+        "11212222221112111":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Gender Change",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What will be happening to Patamon?</span></div></span></div>",
+            "created":1473915600,
+            "id":2210550,
+            "title":"Patamon"
+        },
+        "112122222211121112":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about a body swap?</span></div></span></div>",
+            "created":1473915600,
+            "id":2210552,
+            "title":"Something else"
+        },
+        "1121222222111211121":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Has gone",
+                "Hasn't gone"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With someone who has gone or someone who has yet to go?</span></div></span></div>",
+            "created":1474434000,
+            "id":2212787,
+            "title":"Yes"
+        },
+        "11212222221112111211":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Agumon",
+                "Biyomon or Gomamon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Narrow your selection</span></div></span></div>",
+            "created":1493355600,
+            "id":2311926,
+            "title":"Has gone"
+        },
+        "112122222211121112112":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Biyomon",
+                "Gomamon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select one</span></div></span></div>",
+            "created":1493355600,
+            "id":2311927,
+            "title":"Biyomon or Gomamon"
+        },
+        "11212222221112111212":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Gatomon or Palmon",
+                "Gabumon or Tentomon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Narrow your selection</span></div></span></div>",
+            "created":1493355600,
+            "id":2311928,
+            "title":"Hasn't gone"
+        },
+        "112122222211121112121":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Gatomon",
+                "Palmon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select one</span></div></span></div>",
+            "created":1493355600,
+            "id":2311929,
+            "title":"Gatomon or Palmon"
+        },
+        "1121222222111211121211":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Party card! (Effects all players)",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Get familiar with the person next to you...\" Paganini looked to his right at Gatomon when the two suddenly we're covered in a glowing energy of two different colors that flew over to the opposite body and disappeared. \"What just...\" multiple Digimon said as the two started to feel their new bodies. \"Well I'm now in Gatomon's body...\" Patamon said as he got up and swapped seating spots with the former feline, as both we're doing so they looked over toward Augumon's large member and licked their lips: Patamon was beginning to feel attracted to him while Gatomon felt the same despite not having a female body anymore. We have established Gatomon is next so what will be happening to the currently winged Digimon?</span></div></div>",
+            "created":1494219600,
+            "id":2316524,
+            "title":"Gatomon"
+        },
+        "11212222221112111212111":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "\"Who needs to think?\" IQ loss",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>The nervousness in the former feline's voice as he picked up his card and read became apparent, \"Party: draw a second card with the next effect happening to all players...\" every player eyes widened upon hearing the statement as the next card was...</span></div></div>",
+            "created":1533618000,
+            "id":2530363,
+            "title":"Party card! (Effects all players)"
+        },
+        "112122222211121112121112":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Everyone gets their gender reversed?</span></div></span></div>",
+            "created":1554958800,
+            "id":2643408,
+            "title":"Something else"
+        },
+        "11212222221112111212112":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Perhaps a gender change?</span></div></span></div>",
+            "created":1497762000,
+            "id":2338024,
+            "title":"Something else"
+        },
+        "112122222211121112122":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Gabumon",
+                "Tentomon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Select one</span></div></span></div>",
+            "created":1493355600,
+            "id":2311931,
+            "title":"Gabumon or Tentomon"
+        },
+        "1121222222111211122":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>IQ change?</span></div></span></div>",
+            "created":1491541200,
+            "id":2301530,
+            "title":"No"
+        },
+        "11212222221112111221":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Increase",
+                "Decrease"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Increase or decrease?</span></div></span></div>",
+            "created":1563426000,
+            "id":2688991,
+            "title":"Yes"
+        },
+        "11212222221112111222":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Age regression/progression?</span></div></span></div>",
+            "created":1491886800,
+            "id":2303640,
+            "title":"No"
+        },
+        "112122222211121112221":{
+            "author_id":"rbm5",
+            "author_name":"RBM5",
+            "choices":[
+                "Regression",
+                "Progression"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one?</span></div></span></div>",
+            "created":1491886800,
+            "id":2303642,
+            "title":"Yes"
+        },
+        "1121222222112":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Agumon",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe it's even Agumon?</span></div></span></div>",
+            "created":1363150800,
+            "id":1549469,
+            "title":"Other"
+        },
+        "11213":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Inflation",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other category?</span></div></span></div>",
+            "created":1277960400,
+            "id":909735,
+            "title":"Other"
+        },
+        "112132":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Weight Gain",
+                "Wild Card/Random Transformation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other category?</span></div></span></div>",
+            "created":1277960400,
+            "id":909736,
+            "title":"Other"
+        },
+        "1121322":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Do it!",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would Agumon transform?</span></div></span></div>",
+            "created":1439528400,
+            "id":2021111,
+            "title":"Wild Card/Random Transformation"
+        },
+        "1122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Bigger is better! (Macroism)",
+                "Get in touch with your feminine side (Gender Bending)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"I'll go first.\" wolf-like digimon said. He took the dice and rolled a ten. A very high roll. Gabumon was about to move his piece, but to everyone's surprise, the piece moved on its own by ten spaces. \"Draw a card.\" the voice from the game calmly spoke. Gabumon then took a card from the stack and read it out loud.<br>\r\n<br>\r\nWhat did the card say?</span></div></div>",
+            "created":1278392400,
+            "id":912970,
+            "title":"Gabumon"
+        },
+        "11222":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Growing/Inflation",
+                "Swapping/Transformation"
+            ],
+            "content":"<div class=\"\"><div> <span>Gabumon looks at the card, not expecting what it says. \"It says... Get in touch with your feminine side.\" The girls look at him, \"Um... how?\" Gabumon starts to shrug, but suddenly feels as if something has gripped his crotch. \"Owww!\" he yelps, his voice becoming higher-pitched. His body squeezes into a more female form, his fur turns lighter, and his cock and balls disappear to leave a slit. His claws and horn change color, along with his markings.<br>\r\n<br>\r\nThe digimon are all shocked at what's happened to their friend. \"Wha...? I'm a girl?!\" Gabumon exclaims in his new feminine voice, and the other girls nod. Gabumon looks at himself, and tries not to whimper too much at his cock being gone. \"I see what the name comes from...\" he says, stroking his slit then stopping when he realizes. The voice says, \"You will be turned to normal after the game is over.\" assuringly, and Gabumon is clearly relieved. \"Thank goodness...\"<br>\r\n<br>\r\nGomamon looks Gabumon over, and jokingly says \"Aw, you look cuter this way.\" Gabumon smirks and says \"You go next, let's see if you look cuter too.\" Gomamon smiles. \"My pleasure, ma'am.\" he giggles and rolls the die. He rolls a 6 and watches the piece move accordingly. \"Draw a card.\" the voice says, and Gomamon does so.<br>\r\n<br>\r\nThe card involves:</span></div></div>",
+            "created":1346562000,
+            "id":1419179,
+            "title":"Get in touch with your feminine side (Gender Be..."
+        },
+        "112221":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Growth",
+                "Inflation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of the two?</span></div></span></div>",
+            "created":1351054800,
+            "id":1453075,
+            "title":"Growing/Inflation"
+        },
+        "112222":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Swap",
+                "Transform"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one?</span></div></span></div>",
+            "created":1348808400,
+            "id":1436547,
+            "title":"Swapping/Transformation"
+        },
+        "1122221":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Yes",
+                "No, something/someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe the card swaps Gomamon with the now female Gabumon?</span></div></span></div>",
+            "created":1349240400,
+            "id":1439813,
+            "title":"Swap with Gabumon?"
+        },
+        "11222211":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Palmon's turn.",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Gomamon reads, \"Have a new perspective.\" He blinks, \"What's that supposed to mean?\" he asks. Suddenly he and Gabumon feel strange, and suddenly Gomamon feels feet holding him up. Gabumon is laying like Gomamon on the floor. They look at each other, and Gabumon (in Gomamon's body) grins. \"How do you like it, huh?\" Gomamon frowns, feeling her body. \"I'm sorry...\" he says, putting his claw to Gabumon's new vagina. Palmon stops him, \"No! Sicko...\" Gomamon blushes. \"Sorry again... your turn Palmon.\" he says, smiling.</span></div></div>",
+            "created":1349326800,
+            "id":1440452,
+            "title":"Yes"
+        },
+        "1122222":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "a clone of the now feminine Gabumon?",
+                "something else?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Gomamon is going to transform into...</span></div></span></div>",
+            "created":1348808400,
+            "id":1436553,
+            "title":"Transform"
+        },
+        "11222222":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Reader's choice.",
+                "Reader's choice."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, what happens to Gomamon?</span></div></span></div>",
+            "created":1426827600,
+            "id":1950747,
+            "title":"A new form?"
+        },
+        "112222221":{
+            "author_id":"megafan7790",
+            "author_name":"MegaFan",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does the game also turn Gomamon into a girl?</span></div></span></div>",
+            "created":1491541200,
+            "id":2301480,
+            "title":"Irony?"
+        },
+        "11223":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Exchange parts with someone (Body Part Swap)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did it say?</span></div></span></div>",
+            "created":1278392400,
+            "id":912972,
+            "title":"Other"
+        },
+        "112231":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Claw Swap",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Gabumon trading claws?</span></div></span></div>",
+            "created":1348808400,
+            "id":1436546,
+            "title":"Exchange parts with someone (Body Part Swap)"
+        },
+        "112232":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Become somone you're not (Personality Swap)",
+                "Wild Card/Random Transformation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did the card say?</span></div></span></div>",
+            "created":1278392400,
+            "id":912986,
+            "title":"Other"
+        },
+        "1122321":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Agumon",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's personality changes with Gabumon's?</span></div></span></div>",
+            "created":1348808400,
+            "id":1436549,
+            "title":"Become somone you're not (Personality Swap)"
+        },
+        "1122322":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Wild Card",
+                "Something random."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which one?</span></div></span></div>",
+            "created":1346648400,
+            "id":1419876,
+            "title":"Wild Card/Random Transformation"
+        },
+        "11223221":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Gabumon chooses what happens to him.",
+                "The others choose."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Gabumon blinks. \"Wild Card...?\" the picture is of a colorful swirl, and Gabumon doesn't feel any different... yet.</span></div></span></div>",
+            "created":1346648400,
+            "id":1419878,
+            "title":"Wild Card"
+        },
+        "112232211":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Gabumon changes physically",
+                "The tingling stops."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Gabumon feels tingly as the card takes effect, though what is happening is a mystery. The others watch in suspense as...</span></div></span></div>",
+            "created":1348808400,
+            "id":1436548,
+            "title":"Gabumon chooses what happens to him."
+        },
+        "1122322112":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "His change isn't messed with.",
+                "Twisted words."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Gabumon smiles as his change takes effect, though not visible yet. Did the game twist what he said in his mind he wanted changed?</span></div></span></div>",
+            "created":1348808400,
+            "id":1436554,
+            "title":"The tingling stops."
+        },
+        "11223221122":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "\"I want a nice girlfriend that likes everything I like.\"",
+                "Other words."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What words did the game twist?</span></div></span></div>",
+            "created":1348808400,
+            "id":1436560,
+            "title":"Twisted words."
+        },
+        "112232211221":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Palmon",
+                "Biyomon/Gatomon"
+            ],
+            "content":"<div class=\"\"><div> <span>Gabumon's request has to change him, but maybe this is a bit too much...<br>\r\n<br>\r\nGabumon feels a pang in his head, as the game connects him with one of the girls. First, he has an undying love for her. Second, he strictly likes and dislikes everything she does. Gabumon realizes, but it's too late. His new girlfriend is...</span></div></div>",
+            "created":1348808400,
+            "id":1436568,
+            "title":"A girlfriend."
+        },
+        "1122322112211":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "\"Umm... I accidentally just became your perfect boyfriend...\"",
+                "\"Of course.\""
+            ],
+            "content":"<div class=\"\"><div> <span>Gabumon is horrified as he has a sudden liking for flowers. Not only does he love flowers and plants, his girlfriend is one! In an instant, he is now excited at the thought of picking flowers, romance, and other things Palmon likes. He's not sure himself if he likes the girlier things, but he keeps that out of his mind just in case. The others look at him, \"Are you okay?\" Palmon asks. Gabumon nervously replies.</span></div></div>",
+            "created":1348808400,
+            "id":1436573,
+            "title":"Palmon"
+        },
+        "11223221122111":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Another boy.",
+                "A girl."
+            ],
+            "content":"<div class=\"\"><div> <span>Gabumon answers,  \"Umm... I accidentally just became your perfect boyfriend...\" to Palmon's confusion. \"I'd be flattered... but accidentally?\" Gabumon nods. \"I wanted a girlfriend that liked everything I did...\" Palmon nods, and the others look at him. \"Can the game really do that...?\" Biyomon asks, and they trade spots so Gabumon can sit by Palmon. They continue talking about flowers and stuff, as the next player goes.</span></div></div>",
+            "created":1348808400,
+            "id":1436588,
+            "title":"\"Umm... I accidentally just became your per..."
+        },
+        "112232212":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Something quite minor.",
+                "Something fun."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The voice explains, \"The wild card allows the rest of the group to decide on how you change.\" Gabumon looks at the board and card, \"Well, that makes sense.\" The others smile and wonder what to do to Gabumon.</span></div></span></div>",
+            "created":1346648400,
+            "id":1419882,
+            "title":"The others choose."
+        },
+        "1122322122":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "They agree",
+                "They disagree"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>The group minus Gabumon get into a circle and discuss what they are thinking. Gatomon giggles, \"Let's have some fun, and turn his body pink!\"</span></div></span></div>",
+            "created":1346648400,
+            "id":1419887,
+            "title":"Something fun."
+        },
+        "1123":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Gatomon",
+                "Patamon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who went first?</span></div></span></div>",
+            "created":1277960400,
+            "id":909534,
+            "title":"Other"
+        },
+        "11233":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Gomamon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who went first?</span></div></span></div>",
+            "created":1277960400,
+            "id":909535,
+            "title":"Other"
+        },
+        "112332":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Tentomon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who went first?</span></div></span></div>",
+            "created":1277960400,
+            "id":909537,
+            "title":"Other"
+        },
+        "1123322":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Biyomon",
+                "Palmon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who went first?</span></div></span></div>",
+            "created":1277960400,
+            "id":909538,
+            "title":"Other"
+        },
+        "113":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "A human.",
+                "A Digimon.",
+                "Again- why not both?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who gets the game for everyone?</span></div></span></div>",
+            "created":1404622800,
+            "id":1823707,
+            "title":"Acquisition."
+        },
+        "12":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Humans",
+                "Digimon",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will the players be only the humans, digimon, or both?</span></div></span></div>",
+            "created":1277787600,
+            "id":908869,
+            "title":"Season 2"
+        },
+        "121":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "A boy.",
+                "A girl.",
+                "Why not both?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, who gets the game?</span></div></span></div>",
+            "created":1469077200,
+            "id":2183946,
+            "title":"Humanity alone!"
+        },
+        "1213":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "All boys.",
+                "All girls.",
+                "Both of each group."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay, we know which gender bought it, but who's gonna play?</span></div></span></div>",
+            "created":1480914000,
+            "id":2246106,
+            "title":"Gender equality."
+        },
+        "122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Veemon",
+                "Gatomon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>At the Motomiya's residence on a Wednesday morning, Veemon was on Davis's computer in his messy room. He was bored out of his mind due to his partner was at school along with the other digidestined. He continuously clicked away through many sites searching for anything to pique his interest. He finally did found something though. On one site, he saw an banner ad for a board game called Modification. It was for free! For some reason, it lured to him like some kind of enticing force was making him wanting to buy it. He shook his head. It could be a fraud and false product, but that strange feeling came back again. 'Maybe it wouldn't hurt. It is free and if it doesn't come, then at least I don't have to pay for anything.' thought Veemon, leaving skepticism to the wind.<br>\r\n<br>\r\nHe then clicked on the banner where another window popped up shortly afterward. It asked him about the place of residence, the address, and his name, which he typed in the boxes and pressed enter. Another window popped up saying, \"Your product will be at your home within an 30 minutes.\" \"30 minutes? How can that be possible? It isn't like I'm ordering pizza, is it?\" Veemon said puzzled about the arrival time of the board game. However, Veemon complied to wait that half an hour to see if it actually will come.<br>\r\n<br>\r\nVeemon still played on the computer a bit until he heard the doorbell ringing. It startled him a bit, and he looked at the time: 9:30. It finally came! He got off the computer and dash to the front door. He opened it expecting to see a deliveryman, but to his surprised no one was there except a brown package. He peeked outside looking down at both ends of the balcony hallway, and saw no one. How can this be? How can someone be able to walk that fast to one end and disappear? It puzzled him, but it didn't matter since his board game arrived. He took the package and set it on the kitchen table, opened it, and took the game out of the box. He then set up the game on the living room floor while moving some things to make more space. He thought of doing it in Davis's room, but it was too messy and cramped in there. He didn't want to clean it up at the moment. Of course, Veemon then began to call over the 2nd generation of digimon, hoping they'll agree to play with him. Fortunately, they all had nothing else better to do and agreed to join him. <br>\r\n<br>\r\nHe waited for about an hour before everyone arrived. Gatomon, Patamon, Hawkmon, Wormmon and Armadillomon settled in, and everyone was eager to play the game as they huddled in the living room floor around the game board. \"So what is this game all about?\" said Patamon curiously. \"I don't know. I just got it today, and thought it'll be fun if we all can try it together.\" \"Well, let's get started shall we?\" Hawkmon spoke up. All of them then choose their pieces and set them on the board as well as setting up the deck of cards. Then something unexpected happened. \"Who will go first?\" a voice came out of nowhere said. Everyone was startled and looked everywhere for the source. Then, the voice spoke up again, \"Who will go first?\" Everyone then just looked at each other, deciding who would be first.</span></div></div>",
+            "created":1283922000,
+            "id":952513,
+            "title":"Digimon"
+        },
+        "1221":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Muscle Growth",
+                "Inflation",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, I guess I'll go first since I was the one who got it anyways.\" said Veemon. He took the dice and rolled a 10, a good roll. He was about to move his game piece, but to everyone's surprise it moved on its own! After the piece stopped ten spaces, the voice from the game started to speak up. \"Draw a card.\" Veemon complied as picked a card from the deck.<br>\r\n<br>\r\nWhat kind of card was it?</span></div></div>",
+            "created":1283922000,
+            "id":952531,
+            "title":"Veemon"
+        },
+        "12213":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Body Part Growth",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What was the card's category?</span></div></span></div>",
+            "created":1283922000,
+            "id":952532,
+            "title":"Other"
+        },
+        "122131":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Arms/Feet",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which body part?</span></div></span></div>",
+            "created":1283922000,
+            "id":952538,
+            "title":"Body Part Growth"
+        },
+        "1221312":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Tail/Head",
+                "Penis and balls"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which other body part?</span></div></span></div>",
+            "created":1283922000,
+            "id":952539,
+            "title":"Other"
+        },
+        "12213122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Hawkmon",
+                "Gatomon"
+            ],
+            "content":"<div class=\"\"><div> <span>He then read the card aloud, \"A huge dick for the chicks? Huh?\". He scratched his head in total confusion at this. Then something strange was about to happen. Veemon then felt a tingling feeling in his crotch. He looked down in wide-eyed shock that his balls were slowly swelling up! This caught everyone's attention in the room as well and looked in awe. His testes went from the size of racket balls to basketballs to finally beach ball sized, causing him to spread his legs apart. However, it didn't end there. His member began to unsheathe as it started to grow, making him moan during the growth. His cock stiffened, lengthened, and thickened as the process continued. After it stopped growing, his member stood proudly at a height nearly 6ft and 1.5ft thick and wide!<br>\r\n<br>\r\nEveryone in the room was in utter amazement at Veemon's veiny penis. Gatomon stared at it, and licked her lips in hunger for the dragon's king-sized manhood. The rest of the mons were just stared at it in total silence. Veemon was surprised as well. He slowly took his hand and touched it, rubbing it a little too. It twitched and throbbed a bit in response, making him gasp and moan a little. It was extremely sensitive. He stopped caressing it after a moment, not wanting to get too excited from the sensations and ejaculate all over the place. Though due to feeling his cock, a small eruption of precum oozed down the shaft. After a while, they managed to get back into the game.<br>\r\n<br>\r\nWho is next?</span></div></div>",
+            "created":1288242000,
+            "id":982569,
+            "title":"Penis and balls"
+        },
+        "122131222":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Breast Expansion",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Gatomon then volunteered for being next as she took the dice. She then rolled an 8 and the game piece moved the number of spaces rolled. The voice from the game told her to draw a card from the deck, and so she did. <br>\r\n<br>\r\nWhat kind of card did she draw?</span></div></div>",
+            "created":1289970000,
+            "id":995330,
+            "title":"Gatomon"
+        },
+        "1221312221":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Armadillomon",
+                "Patamon"
+            ],
+            "content":"<div class=\"\"><div> <span>She read the card:\"Ginormous Jugs?\" She was a bit puzzled by this, but then felt a tingling sensation in her chest. Two nipples had started to protrude from her fur, and then two mounds started to develop under them. Her chest ballooned from growing into A cups to D cups to finally P cups. Gatomon was in quite a panic as her chest was immensely weighing her down, and that she can't see her feet and part of the floor. She then touched her breast with her gloved paw and purred at how sensitive they were, and suddenly, milk started to squirt out of the nips soon afterward.<br>\r\n<br>\r\nAll the boys were surprised as well, but also, blushed a deep red and tried to hide their hard-ons except for Veemon however of course, for already having a giant stiffen dick out already. In fact, Veemon was having a hard time trying keep his cool and his dick under control as it throbbed and twitched wildly. Soon, globs of cum started to erupt in small spurts and back onto his shaft and dribbled down onto the floor. The others moved a bit away from the blue dragon so they won't get covered by the white gunk. Gatomon then scooted over to Veemon, feeling some sympathy for him and that both were in similar situations.<br>\r\n<br>\r\nAfterward, the game continued. Who went next? </span></div></div>",
+            "created":1291611600,
+            "id":1009416,
+            "title":"Breast Expansion"
+        },
+        "12213122211":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Receive a tummy that weighs a ton",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Armadillomon then volunteered to go next while a bit in dismay. He rolled the dice and gotten a 7. The game piece moved the number of spaces rolled and he had been asked to draw a card. He read the card.....<br>\r\n<br>\r\nWhat did it say?</span></div></span></div>",
+            "created":1292907600,
+            "id":1019603,
+            "title":"Armadillomon"
+        },
+        "122131222111":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Hawkmon",
+                "Patamon"
+            ],
+            "content":"<div class=\"\"><div> <span>He read the card, \"'Receive a tummy that weighs a ton.' Huh?\" It kinda confused him. However, he then felt an extreme tingling in his stomach as he placed a claw over his mid-section. Then, he went in wide eyed shock as his belly started to grow and expand. It continued growing and expanding with fat, and he then started to develop moobs in his upper chest. Because of such growth, he had to half sit up and lay back, revealing the big belly to everyone in the room that was going further from him. Soon, it stopped gaining weight and it looked like he had swallowed a tire as his bloated body nearly touched the ground. \"Oh, man!\" Armadillomon said as he was surprised and disheartened at his new found girth and scratched his belly. He then slapped his blue belly a bit hard which made the blubber jiggled a bit.<br>\r\n<br>\r\nEveryone was equally as surprised as well and felt a bit sorry for him. Armadillomon wanted to get this game to be over and quick yet the experience did made him contemplate about his eating habits more because of how he snacks too often at Cody's. The game continued on from there.<br>\r\n<br>\r\nWho's next?  </span></div></div>",
+            "created":1294981200,
+            "id":1035636,
+            "title":"Receive a tummy that weighs a ton"
+        },
+        "1221312221111":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Species Change",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Okay, I'll go.\" Hawkmon said nervously while picking up the dice and rolled a 6. The game piece of course, moved on its own the number of spaces rolled. He was told to pick a card and took one from the deck.  He read the card...<br>\r\n<br>\r\nWhat kind of card was it?</span></div></div>",
+            "created":1295931600,
+            "id":1041936,
+            "title":"Hawkmon"
+        },
+        "12213122211111":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "A cat",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of animal will he turn into?</span></div></span></div>",
+            "created":1299128400,
+            "id":1063941,
+            "title":"Species Change"
+        },
+        "12213122211112":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Inflation",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of card was it?</span></div></span></div>",
+            "created":1295931600,
+            "id":1041937,
+            "title":"Other"
+        },
+        "122131222111122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Body Part Swap",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of card was it?</span></div></span></div>",
+            "created":1296450000,
+            "id":1045154,
+            "title":"Other"
+        },
+        "1221312221111222":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Voice Swapping",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of card was it?</span></div></span></div>",
+            "created":1296709200,
+            "id":1046994,
+            "title":"Other"
+        },
+        "12213122211112221":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Patamon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>He read the card, \"Get yourself a new voice. Huh?\" He was a bit puzzled by this.<br>\r\n<br>\r\nWhose voice did he swaps with?</span></div></span></div>",
+            "created":1296709200,
+            "id":1047185,
+            "title":"Voice Swapping"
+        },
+        "122131222111122211":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Patamon",
+                "Wormmon"
+            ],
+            "content":"<div class=\"\"><div> <span>He then started to speak again, \"Wha-?\" he suddenly held his wing to his beak. He now sounded like Patamon! \"What happened to my voice!\" he said in a higher pitch. Everyone were surprised at this and then looked at Patamon as he began to speak. \"Hey-!\" he said in a familiar voice as he covered his mouth. It was now apparent and obvious that both of their voices had been switched, and both were in utter dismay about it. The game continued on afterward.<br>\r\n<br>\r\nWho was next?<br>\r\n</span></div></div>",
+            "created":1299214800,
+            "id":1064563,
+            "title":"Patamon"
+        },
+        "1221312221111222111":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Inflation",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>Okay, I'll go next.\" Patamon said in Hawkmon's voice, still not getting used to it. He had been handed the dice and rolled them, getting a 6. The game piece moved as usual and the voice form the game board told him to pick a card from the deck. He did so and read the card...<br>\r\n<br>\r\nWhat kind of card was it? </span></div></div>",
+            "created":1301029200,
+            "id":1075917,
+            "title":"Patamon's Turn"
+        },
+        "12213122211112221111":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Macroism",
+                "Other"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Ballooning is the best!\" said Patamon as he read his card. He then felt something strange in his belly as he stood up. His whole body began to let out a hissing noise as it began to expand with air, literally ballooning out. He began to panic a bit as his torso went to the size of soccer ball to a huge watermelon in a matter of seconds and his limbs started to sink into his body and his cheeks became puffy. Patamon had his movement limited because of this and it made him really upset. <br>\r\n<br>\r\nNow it was Wormmon's turn before the second round would start. He picked up the dice and rolled them, landing on a three. The game piece moved the number spaces and the voice told him to draw a card. What kind of card was it?</span></div></div>",
+            "created":1305867600,
+            "id":1109333,
+            "title":"Inflation"
+        },
+        "122131222111122211112":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Species Change",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of card was it?<br>\r\n</span></div></span></div>",
+            "created":1305954000,
+            "id":1110119,
+            "title":"Other"
+        },
+        "1221312221111222111121":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Dog",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What species would he change into?</span></div></span></div>",
+            "created":1309410000,
+            "id":1137715,
+            "title":"Species Change"
+        },
+        "12213122211112221111212":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Cat",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What species would he change into?</span></div></span></div>",
+            "created":1320987600,
+            "id":1221666,
+            "title":"Other"
+        },
+        "1221312221111222111122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Inflation",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of card was it?</span></div></span></div>",
+            "created":1322110800,
+            "id":1228590,
+            "title":"Other"
+        },
+        "12213122211112221111221":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Water",
+                "Air"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of inflation?</span></div></span></div>",
+            "created":1322110800,
+            "id":1228592,
+            "title":"Inflation"
+        },
+        "12213122211112221111222":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Body Part Swap",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of card was it?</span></div></span></div>",
+            "created":1326517200,
+            "id":1258027,
+            "title":"Other"
+        },
+        "122131222111122211112221":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Gabumon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Limb Exchange Program?\" he read aloud the card's contents. This baffled him and everyone until he was startled from his thoughts by a strange sensation.<br>\r\n<br>\r\nWho does he switch parts with?</span></div></span></div>",
+            "created":1326517200,
+            "id":1258450,
+            "title":"Body Part Swap"
+        },
+        "1221312221111222111122211":{
+            "author_id":"onebigfan",
+            "author_name":"BodySwapLover",
+            "choices":[
+                "Legs",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What parts got swapped?</span></div></span></div>",
+            "created":1449205200,
+            "id":2070224,
+            "title":"Gabumon"
+        },
+        "12213122211112221112":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Weight Gain",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of card was it? </span></div></span></div>",
+            "created":1304485200,
+            "id":1099723,
+            "title":"Other"
+        },
+        "122131222111122212":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Armadillomon",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Whose voice did he swaps with?</span></div></span></div>",
+            "created":1299128400,
+            "id":1063945,
+            "title":"Other"
+        },
+        "122131222112":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Your filling up space (Macro)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did the card say?</span></div></span></div>",
+            "created":1293858000,
+            "id":1026866,
+            "title":"Other"
+        },
+        "1221312221122":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Become the same species as the person across from you (Species TF)",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What did the card say?</span></div></span></div>",
+            "created":1294981200,
+            "id":1035189,
+            "title":"Other"
+        },
+        "12213122211221":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "A boy",
+                "A girl."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who's sitting across from Armadillomon?</span></div></span></div>",
+            "created":1346562000,
+            "id":1419254,
+            "title":"Become the same species as the person across fr..."
+        },
+        "122131222112211":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Hawkmon/Patamon",
+                "Veemon/Wormon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who is it?</span></div></span></div>",
+            "created":1346562000,
+            "id":1419255,
+            "title":"A boy"
+        },
+        "1221312222":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Anthropomorphization",
+                "Other"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of card did she draw?</span></div></span></div>",
+            "created":1289970000,
+            "id":995411,
+            "title":"Other"
+        },
+        "12213122222":{
+            "author_id":"qaz1",
+            "author_name":"max1008",
+            "choices":[
+                "Yeah!",
+                "Eww..."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about some Vaginal Expansion to fit the largely expanded penis? A queen for a king, as it was?</span></div></span></div>",
+            "created":1303275600,
+            "id":1091678,
+            "title":"One good turn....?"
+        },
+        "122132":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Macroism/Giant",
+                "Wild Card/Random Transformation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other category was the card?</span></div></span></div>",
+            "created":1283922000,
+            "id":952537,
+            "title":"Other"
+        },
+        "1221322":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would Veemon shrink?</span></div></span></div>",
+            "created":1439528400,
+            "id":2021108,
+            "title":"Wild Card/Random Transformation"
+        },
+        "12213222":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Do it!",
+                "Don't Do It!"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would Veemon gain weight?</span></div></span></div>",
+            "created":1439528400,
+            "id":2021112,
+            "title":"No"
+        },
+        "122132222":{
+            "author_id":"debea",
+            "author_name":"debra",
+            "choices":[
+                "Growth",
+                "More Ideas"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would Veemon grow in height?</span></div></span></div>",
+            "created":1440738000,
+            "id":2026682,
+            "title":"Don't Do It!"
+        },
+        "1223":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Patamon",
+                "Armadillomon",
+                "Wormmon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who would go first?</span></div></span></div>",
+            "created":1283922000,
+            "id":952514,
+            "title":"Other"
+        },
+        "13":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Humans",
+                "Digimon",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will the players be only the humans, digimon, or both?</span></div></span></div>",
+            "created":1277787600,
+            "id":908872,
+            "title":"Season 3"
+        },
+        "131":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "A boy.",
+                "A girl.",
+                "Why not both?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, who buys the game?</span></div></span></div>",
+            "created":1405918800,
+            "id":1831506,
+            "title":"Humans only!"
+        },
+        "1311":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Takato.",
+                "Henry.",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, who bought the game?</span></div></span></div>",
+            "created":1407474000,
+            "id":1838923,
+            "title":"One of you guys is in big trouble!"
+        },
+        "132":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "One of the boys.",
+                "One of the girls.",
+                "Both."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, who gets the game?</span></div></span></div>",
+            "created":1433826000,
+            "id":1990020,
+            "title":"Not quite a digivolve, but..."
+        },
+        "1323":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Reader's choice.",
+                "Reader's choice.",
+                "Reader's choice."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, which two buy the game?</span></div></span></div>",
+            "created":1485493200,
+            "id":2269732,
+            "title":"Two buyers, one fate."
+        },
+        "133":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "A human.",
+                "A Digimon.",
+                "Both (they pool their resources)."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>With this in mind, who buys the game?</span></div></span></div>",
+            "created":1401771600,
+            "id":1806547,
+            "title":"And the buyer is..."
+        },
+        "1331":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Takato.",
+                "Rika.",
+                "Someone else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which human bought it?</span></div></span></div>",
+            "created":1511326800,
+            "id":2418621,
+            "title":"Tamer selected."
+        },
+        "14":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Humans",
+                "Digimon",
+                "Gender specific",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>This choice obviously indicates that all chars from seasons 1&amp;2 will participate. Will the players be only the humans, digimon, or both?</span></div></span></div>",
+            "created":1277787600,
+            "id":908876,
+            "title":"Combination of Season 1&2"
+        },
+        "141":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Boys only.",
+                "Girls only.",
+                "Why not both?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will only the boys or girls play, or both?</span></div></span></div>",
+            "created":1439269200,
+            "id":2019768,
+            "title":"Boys or girls?"
+        },
+        "142":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Boys only.",
+                "Girls only.",
+                "Both are allowed."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So, is there a gender preference here?</span></div></span></div>",
+            "created":1452574800,
+            "id":2088127,
+            "title":"Digimon only!"
+        },
+        "143":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "All girls (human and digimon)",
+                "All boys"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What would be the gender?</span></div></span></div>",
+            "created":1330923600,
+            "id":1289754,
+            "title":"Gender specific"
+        },
+        "1432":{
+            "author_id":"adventchild",
+            "author_name":"AdventChild",
+            "choices":[
+                "Human",
+                "Digimon",
+                "Both"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will it be all human or all digimon or both?</span></div></span></div>",
+            "created":1330923600,
+            "id":1289755,
+            "title":"All boys"
+        },
+        "14322":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Hawkmon goes first, he read the rules.",
+                "Veemon goes first, it's his game."
+            ],
+            "content":"<div class=\"\"><div> <span>The humans all went off to a vacation, leaving the digimon alone. Davis found a game in the Digital World before leaving, and gave it to Veemon for them to do while the digimon were alone. The entire team came over, and they now sit in their rookie forms.<br>\r\n<br>\r\nHawkmon eloquently reads the rules:<br>\r\n(excerpt)<br>\r\n\"All players will sit with the game between them.\"<br>\r\n\"Roll the dice and your piece will move, then draw a card from the deck\"<br>\r\n\"Quitting is heavily penalized.\"<br>\r\n<br>\r\nSeating Arrangement (Clockwise from door):<br>\r\nVeemon<br>\r\nAgumon<br>\r\nArmadillomon<br>\r\nWormon<br>\r\nHawkmon - opposite veemon<br>\r\nGabumon<br>\r\nPatamon<br>\r\nGomamon<br>\r\nTentomon - veemon's left<br>\r\n<br>\r\n</span></div></div>",
+            "created":1348808400,
+            "id":1436607,
+            "title":"All-Male Digimon Modification"
+        },
+        "143221":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "\"Bigger is better for a bird, have you not heard?\"",
+                "\"Talons and wings, why not bigger things?\""
+            ],
+            "content":"<div class=\"\"><div> <span>Veemon smiles. \"You go first, buddy.\" Hawkmon bows, rolling the dice and getting a 12. He chirps, \"Lucky me, and we've just begun.\" the group watches the piece move, wondering how it knows... Hawkmon draws a card from the deck, and is quite shocked at the phrase printed on it.</span></div></div>",
+            "created":1348808400,
+            "id":1436623,
+            "title":"Hawkmon goes first, he read the rules."
+        },
+        "1432211":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Inflation",
+                "Non-Inflation"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of growth is coming?</span></div></span></div>",
+            "created":1348808400,
+            "id":1436625,
+            "title":"\"Bigger is better for a bird, have you not ..."
+        },
+        "14322112":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Muscle growth.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What kind of growth is coming?</span></div></span></div>",
+            "created":1402549200,
+            "id":1810927,
+            "title":"Non-Inflation type growth."
+        },
+        "1432212":{
+            "author_id":"pinkbirdo",
+            "author_name":"Gatonom",
+            "choices":[
+                "Hawkmon's wings and talons stay double the normal size.",
+                "They keep growing."
+            ],
+            "content":"<div class=\"\"><div> <span>Hawkmon reads the card aloud, and clumsily drops it as his wing grows in size! His talons follow suit, and he sees what the game meant. He nearly hits wormon as he tries to stop the sudden growth. His talons come out, not quite fitting his feet anymore. He blushes at the stares from the other guys.</span></div></div>",
+            "created":1348808400,
+            "id":1436629,
+            "title":"\"Talons and wings, why not bigger things?\""
+        },
+        "14323":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "A human.",
+                "A Digimon."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First thing- who got the game?</span></div></span></div>",
+            "created":1403931600,
+            "id":1819129,
+            "title":"Let the game begin!"
+        },
+        "144":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Humans.",
+                "Digimons.",
+                "Perhaps a team effort?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Well, this is gonna take a long time; that much is certain. Now, which species goes first?</span></div></span></div>",
+            "created":1431320400,
+            "id":1976715,
+            "title":"This may be a long game..."
+        },
+        "1441":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Male.",
+                "Female.",
+                "Both (explain why)."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>One other thing- which gender goes first?</span></div></span></div>",
+            "created":1464411600,
+            "id":2155364,
+            "title":"Man before monsters."
+        },
+        "14413":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "Two players must be in a team.",
+                "Something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How does this work?</span></div></span></div>",
+            "created":1504414800,
+            "id":2379368,
+            "title":"Two players at once?"
+        },
+        "1442":{
+            "author_id":"maccar110",
+            "author_name":"Fanfic T-Mac",
+            "choices":[
+                "A male.",
+                "A female.",
+                "It's a team effort."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Digimon will go first?</span></div></span></div>",
+            "created":1471842000,
+            "id":2199755,
+            "title":"The monsters lead."
+        }
+    },
+    "info":{
+        "author_id":"adventchild",
+        "author_name":"AdventChild",
+        "brief_description":"The cast of Digimon get their turn to play the game.",
+        "created":1277867700,
+        "description":"<td align=\"left\" class=\"norm\">Like Modification, but with the cast of seasons of 1, 2, and 3 of Digimon of course.<br>\r\n<br>\r\nHere some rules:<br>\r\n<br>\r\n1. Anything goes or any body modification/transformation is allowed except for vore (unbirthing is an exception), scat and watersports.<br>\r\n2. Sex is allowed, but no gayism/lesbianism.<br>\r\n3. Once an order is established, the players must always continue in that order. <br>\r\n4. If anyone tries to quit, there will be severe consequences.<br>\r\n5. Transformations won't be reversed until the game is finished.</td>",
+        "id":1686521,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1563492600,
+        "modified":1563492600,
+        "pretty_title":"Digi-Modification"
+    }
+}

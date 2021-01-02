@@ -1,0 +1,396 @@
+{
+    "chapters":{
+        "1":{
+            "author_id":"zhiral",
+            "author_name":"Zhiral",
+            "choices":[
+                "Choose a body",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>The chamber was covered in dust, and the only light inside was that of the flickering fluorescent bulbs.   You must have tripped a motion sensor, as a panel of computer displays suddenly blinked to life.<br>\r\n\"CHOOSE DESIRED GENDER\" it blinked on one screen, and another asked for species.  A third monitor was for entering things like name, age, Hight and weight..<br>\r\n<br>\r\n   Looking around the room, you notice it was filled with Cryo-chambers, each containing a body.  Few of them had any discerning features, as these bodies were to be custom-made for the creator.  You would also notice jars of various shapes and sizes on the shelves, each filled with a single brain.  The main terminal had a space to put on of these, and would requre that to begin.</span></div></div>",
+            "created":1332219600,
+            "id":1298933,
+            "title":"The Chamber"
+        },
+        "11":{
+            "choices":[
+                "type and enter \"/male\"",
+                "type and enter \"/female\"",
+                "type and enter \"/herm\"",
+                "type and enter \"/asexual\"",
+                "Maybe you could do something else."
+            ],
+            "content":"<div class=\"\"><div> <span>You look over the gender option. You might as well play along with this whole thing. It might be interesting in the long run. But what gender should they be. The computer looks really old, but you have never seen one like it before. The only way you can tell if this first one is old, is that this one seems to be running on something like DOS. You will have to enter the desired gender with a simple command.</span></div></div>",
+            "created":1332824400,
+            "id":1303933,
+            "title":"Choose a body"
+        },
+        "111":{
+            "choices":[
+                "Go pick the body you want",
+                "Take a look around the place first",
+                "Think of something else you could do instead"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide that you might as well make it a male. You type in \"/male\" and hit the execute button. A little green checkmark appears on the screen. Now you should probably pick out the body you want.</span></div></span></div>",
+            "created":1335330000,
+            "id":1322596,
+            "title":"type and enter \"/male\""
+        },
+        "112":{
+            "choices":[
+                "Go pick the body you want",
+                "Take a look around the place first",
+                "Think of something else you could do instead"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide that you might as well make it a male. You type in \"/female\" and hit the execute button. A little green checkmark appears on the screen. Now you should probably pick out the body you want.</span></div></span></div>",
+            "created":1335386880,
+            "id":1322597,
+            "title":"type and enter \"/female\""
+        },
+        "113":{
+            "choices":[
+                "Go pick the body you want",
+                "Take a look around the place first",
+                "Think of something else you could do instead"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You decide that you might as well make it a male. You type in \"/herm\" and hit the execute button. A little green checkmark appears on the screen. Now you should probably pick out the body you want.</span></div></span></div>",
+            "created":1335386880,
+            "id":1322599,
+            "title":"type and enter \"/herm\""
+        },
+        "114":{
+            "choices":[
+                "Go pick the body you want",
+                "Take a look around the place first",
+                "Think of something else you could do instead"
+            ],
+            "content":"<div class=\"\"><div> <span>You figure that you don't have to make a decision right away. You could think about it later. The rest of the stuff look more interesting anyways. You type in \"/asexual\" and hit the execute button. At first you wonder if the computer will accept that command, but it does and a little green checkmark appears on the screen. Now you should probably pick out the body you want.</span></div></div>",
+            "created":1332824400,
+            "id":1304004,
+            "title":"type and enter \"/asexual\""
+        },
+        "1141":{
+            "choices":[
+                "Pick this body",
+                "Check the next chamber",
+                "Go back to the computer"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk up the the first chamber you see. It looks like a cryogenic storage chamber from a science fiction movie. After wiping the dust off the outside of the glass, you see a human inside. It was wearing no clothing, but it was still hard to tell what gender it was. It was bald and seemed to have no genitals whatsoever. </span></div></div>",
+            "created":1333256400,
+            "id":1307335,
+            "title":"Go pick the body you want"
+        },
+        "11412":{
+            "choices":[
+                "Choose this one",
+                "Check the next chamber"
+            ],
+            "content":"<div class=\"\"><div> <span>You walk over to the next chamber curiously. A layer of cobwebs coats the machine. Inside the chamber is a glass tube filled with liquid. It glows a brilliant shade of green as little bubbles float up in the fluid. Resting in the tube as if in a deep sleep is a a large bipedal canine. It is covering in thick grey fur. At the groin there is a particularly puffy section of fur. The limbs look tough and the head looks like one of a being of wisdom. Will you choose this one?</span></div></div>",
+            "created":1333774800,
+            "id":1310608,
+            "title":"Check the next chamber"
+        },
+        "114122":{
+            "choices":[
+                "Choose this one",
+                "Check the next chamber"
+            ],
+            "content":"<div class=\"\"><div> <span>Things were getting interesting so you decided to see what the next chamber had to offer. The same setup as the last is sitting just next to it. The spiders seem to have ignored this one. On the inside is a bipedal feline creature as big as an adult human. The long tail lies still between its legs. Atop the head are two pointed cat ears. The build makes it look like a very nimble creature. Will you choose this one?</span></div></div>",
+            "created":1333774800,
+            "id":1310609,
+            "title":"Check the next chamber"
+        },
+        "1141222":{
+            "choices":[
+                "Choose this one",
+                "Check the next chamber"
+            ],
+            "content":"<div class=\"\"><div> <span>The next chamber has a large bird creature inside of it. The shape looked very human. The body is covered and feathers and two wings rest at its sides. The face looks somewhat friendly despite the beak. Could this actually fly? It would certainly be something amazing to see. The body looks like it's... well made for flight. What else did you expect? Will you choose this one?</span></div></div>",
+            "created":1333774800,
+            "id":1310611,
+            "title":"Check the next chamber"
+        },
+        "11412222":{
+            "choices":[
+                "Choose this one",
+                "Check the next chamber"
+            ],
+            "content":"<div class=\"\"><div> <span>The next chamber contains and interesting reptilian body. It looks slender and smooth like a snake or a lizard. The scales are fine and run down then entire length of the body. It looked very aerodynamic to say the least. The surface seemed to shimmer in the light. The belly scales suggested a very strong set of muscles were beneath them. Will you choose this one?</span></div></div>",
+            "created":1333774800,
+            "id":1310613,
+            "title":"Check the next chamber"
+        },
+        "114122222":{
+            "choices":[
+                "Choose this one",
+                "Check the next chamber"
+            ],
+            "content":"<div class=\"\"><div> <span>The next chamber had a very large creature. Behind the glass was a bipedal horse. The strong legs had large hooves at the bottom while the arms had firm hands. The mane drifted a little as the bubbles pushed the hairs during their ascent. The long face was shorted than that of an actual horse and looked capable of thought and speech like a human. The crotch had a patch of smooth skin were something was or was supposed to be. Will you choose this one?</span></div></div>",
+            "created":1333774800,
+            "id":1310616,
+            "title":"Check the next chamber"
+        },
+        "12":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Undergo modularity process.",
+                "Construct a companion or two from the bodyparts in storage.",
+                "Create an army with the cloning tanks.",
+                "Use the inerfaces.",
+                "Extract your own brain."
+            ],
+            "content":"<div class=\"\"><div> <span>You blink a bit. This whole thing is a bit much to take in. You take a quick glance outside the hatch and find a ruined city in the middle of a dessert. You aren't sure why you felt the need to do this, since you already knew what was outside. You decide to head back inside.<br>\r\n<br>\r\nThings are much better in here. Aside from the cryo-chambers, brain jars, and control terminal, there are a variety of interesting machines and doors. You decide to look at the doors first. The first one appears to lead to an automated greenhouse. That's good, since it means you are unlikely to run low on food. Then are a few bathrooms, some sleeping quarters, and what appears to have once been the administrative offices. They all branch off the main laboratory, which is huge, and all appear to have been long abandoned. Finding nothing of note in any of them, you head back to the main lab where you find three more doors. They are labeled, respectively, STORAGE, FACTORY, and REACTOR. They all have much heavier, reinforced doors than the other rooms, and each of them appears to require a key-code before entering.<br>\r\n<br>\r\nHaving fully explored all parts of the complex that you can access, you decide to take a closer look at some of the more esoteric machinery. It all appears to follow the same sort of theme. There are cloning tanks ranging in size from big enough for an entire person, to ones that appear to be made for individual organs. Storage areas for all sorts of parts, brain extractors, computer/brain interfaces (non-invasive, meaning you wouldn't need drastic modification to use them.), DNA analyzers, auto docs, you name it. It appears to have been some sort of biological research lab. You take a sample of your own DNA and insert it into the analyzer. It says you are a female weasel, with green eyes and dark hair. You aren't really sure what the point of that was, you already knew that too. What next, are you going to be reminded that your name is Clara?<br>\r\n<br>\r\nAnyway, that appears to be everything in here. What do you do now?</span></div></div>",
+            "created":1333774800,
+            "id":1310721,
+            "title":"Examine your surroundings more closely."
+        },
+        "121":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Take your head off.",
+                "Find extra parts to attach to yourself.",
+                "Build a friend from the spare parts lying around."
+            ],
+            "content":"<div class=\"\"><div> <span>You make a closer inspection of one of the automated doctors, or auto docs for short. The station consists of a surgery table for patients, a storage cabinet for the robotic surgeon's tools and chemicals, and nacelles for it's various arms. All bog standard for this model of doctor, which you have seen many times throughout your travels. What's strange about this one is the sequence loaded into it's interface; modularity.<br>\r\n<br>\r\nYou aren't sure what that means, so you decide to see if the machine can provide a more detailed summary of what 'modularity' entails. It does, and the explanation runs thusly: Modularity; The patient will be anesthetized and and their body parts will all be separated. Quantum connectors will be applied to every surface that was previously attache to something else in order to maintain connection. Variable strength nano-paste will then be applied simultaneously adhering the body parts together, and disguising exposed areas with textures and colors matching their surroundings. The net affect is that the patient will be able to detach body parts without harm, and exchange parts with other subjects that have undergone the process.<br>\r\n<br>\r\nHuh. So that explains all the parts floating around in tubes. Anyway, this sounds really interesting, so you decide to give it a shot (You might be charitably described as 'somewhat lacking in common sense'. Uncharitably, you would be more along the lines of 'dense as a black hole'). You set the program to run, strip off your clothes, and lay down on the table. A needle armed appendage extends from its nacelle, and injects you with a mysterious fluid. You drift slowly off to sleep...<br>\r\n<br>\r\nWhen you awaken, you sit up groggily. You glance at the monitor of the auto doc, which reads 'SURGERY STATUS: COMPLETE. OUTCOME: SUCCESSFUL.' Well you guess you aren't in any position to question it. You certainly do feel... looser is the best word you can come up with. You examine yourself. You appear to be covered in dark colored 'seams' in your fur. You figure they must correspond to places where you can detach. They are all over your major joints, there's a few surrounding your breasts and nipples, there's a huge one encircling the front half of your torso, and although you can't see them, there's one on the base of your tails another two around your ears and finally, one encircling your skullcap.<br>\r\n<br>\r\nWhat next?</span></div></div>",
+            "created":1333774800,
+            "id":1310725,
+            "title":"Undergo modularity process."
+        },
+        "124":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Access the seccurity systems and unlock the reinforced doors.",
+                "Access the data library and find out more about this place.",
+                "Other."
+            ],
+            "content":"<div class=\"\"><div> <span>You step up to one of the interfaces. Unlike some of the other stuff here, you're fairly certain what this thing does. You just sit here, in this chair. Then, you pull the helmet looking bit down over your head, like so. Then you just press this switch, and presto! You are now interfacing with a computer!<br>\r\n<br>\r\n...<br>\r\n<br>\r\nTHE computer as it turns out. It appears that this particular interface at least, is hooked up to the mainframe. What do you do now?</span></div></div>",
+            "created":1333774800,
+            "id":1310728,
+            "title":"Use the inerfaces."
+        },
+        "1242":{
+            "choices":[
+                "Lets get building",
+                "'talk' with the computer some more",
+                "Do something else"
+            ],
+            "content":"<div class=\"\"><div> <span>Analyzing the information stored in the computer, it turns out that this facility was originally part of a hospital. plants rich in protein would be grown here, rendered down into a biological slurry, then processed by the factory to 'grow' all of the body parts you see around you. Every single one of them is a synthetic biological prosthetic, an artificial replica of a former patient's parts, stored in case they needed them. From here any patient, once given the appropriate modular joint or joints, can attach these prosthetics to replace their own 'unsuitable' part. The brains however, are different. Most of them are the former inhabitants of the city above, who put themselves into longterm storage as backup copies, while prosthetic duplicate brains loaded with exact copies of their minds operated their bodies. There's also a few of the prosthetic 'blanks' here as well.<br>\r\n<br>\r\nGiven the state of the city above that it's reading from your mind, the computer assumes that all of the individuals living there have perished. As per it's programming, it wants you to assemble bodies for it's patient's backups, explaining that at current resource levels it can convert the greenhouse to grow sufficient food for up to five individuals, without negatively impacting production. It would put them together itself, but apparently it's not allowed to assemble or disassemble bodies without outside input, as a safety precaution.<br>\r\n<br>\r\nHey... It's talking to you way more intelligently than you would expect a computer to, looks likes there's an AI in here.</span></div></div>",
+            "created":1336583160,
+            "id":1333137,
+            "title":"Access the data library and find out more about..."
+        },
+        "12422":{
+            "author_id":"tamelbrun",
+            "author_name":"Tam Elbrun",
+            "choices":[
+                "I do not believe so.",
+                "I... Had not considered that..."
+            ],
+            "content":"<div class=\"\"><div> <span>\"More of a Hive consciousness really,\" the program corrects you, picking up your suspicions. \"Even in long term storage, my patients require regular mental stimulation for optimal health, and efficient function of the facility was intended to be carried out with the aid of a maintenance team. I needed additional processing power to compensate...\"<br>\r\n<br>\r\nthat little tidbit has you alarmed though, and you feel the need to ask, \"Is rebuilding your patients bodies going to interfere with that?\"</span></div></div>",
+            "created":1477726740,
+            "id":2229914,
+            "title":"'talk' with the computer some more"
+        },
+        "1243":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Download Guide. Acquire assistance.",
+                "Upload self. Be the computer.",
+                "Play videogames."
+            ],
+            "content":"<div class=\"\"><div> <span>You think of all the options you have at your disposal. Due to the nature of the interface, they are virtually limitless! Fortunately for the sake of time, you are able to narrow down what you want to do to three possibilities.<br>\r\n<br>\r\nThe first thing you could do, is download a Guide into your brain. A Guide is basically a helpful little AI program that helps you do certain things. Or, you could upload yourself to serve as the systems AI. This would leave your body functionally brain-dead of course, but would place you in complete control of all the automated systems here, which is basically everything. Finally, you could just play around with the mainframe's extensive library of games. Why would this place even have such a thing? You have no idea, but it sure is huge.<br>\r\n<br>\r\nAnyway, after thinking about it, your course of action becomes obvious.</span></div></div>",
+            "created":1333774800,
+            "id":1310729,
+            "title":"Other."
+        },
+        "12432":{
+            "author_id":"lexigcrp",
+            "author_name":"Lexirose",
+            "choices":[
+                "Ignore it, I have a whole world of information at my disposal.",
+                "Take control of the auto sentries to see what it is."
+            ],
+            "content":"<div class=\"\"><div> <span>A whirring noise is heard as the helmet rises, only to be replaced by a clear tube encasing the top of your head. You feel an intense heat as a blast of energy painlessly disintegrates the top of your skull. In the reflection of the monitor you can see you fully exposed brain pulsating lightly within the tube. The silence of the chamber is suddenly broken by a loud sucking noise and the last thing you see before the world goes dark is your brain slowly rising from your skull, the brain stem stretching before it finally snaps and is pulled into the computer.<br>\r\n<br>\r\nThe first thing you notice when the world returns is your brainless body, slumped over in the chair drooling all over itself with a vacant look in its eyes. Digging through data you find that your brain has been stashed away in a hidden compartment where it was hard wired to the system, making you the new motherboard.<br>\r\n<br>\r\nIn the distance you can hear scurrying, what do you do?</span></div></div>",
+            "created":1481173200,
+            "id":2247164,
+            "title":"Upload self. Be the computer."
+        },
+        "124322":{
+            "author_id":"lexigcrp",
+            "author_name":"Lexirose",
+            "choices":[
+                "Show mercy",
+                "Submit her to debraining. "
+            ],
+            "content":"<div class=\"\"><div> <span>Taking control of the auto sentries you find a girl wandering around /your/ ruins, a scavenger to be sure. You're not sure why this suddenly upsets you, but you can't help but feel that her trespassing shouldn't go unpunished. You command the sentries to restrain her and bring her before you, can't risk her stealing any of your new toys.<br>\r\n<br>\r\nOnce she's dragged before you she screams at the sight of your hollowed out body slumped in the corner. \"Don't worry\" you tell her with a cold metallic voice \"I've ascended to a far higher existence. Now why have you digging around here?\".<br>\r\n<br>\r\nShe stares at you in disbelief while stammering through some story about looking for old power cores to keep her family's camp going. As she talks the wires digging into your brain feed you new information. There are several empty tanks under your own that could be used to house additional brains, giving you even more power. Of course, the girl would be erased in the reformatting, but some extra memory space might be nice.<br>\r\n<br>\r\nThen again, if you helped her people survive you may gain some loyal followers which a cyber goddess like you deserves.</span></div></div>",
+            "created":1481479860,
+            "id":2248615,
+            "title":"Take control of the auto sentries to see what i..."
+        },
+        "1243222":{
+            "author_id":"lexigcrp",
+            "author_name":"Lexirose",
+            "choices":[
+                "Install a puppet brain",
+                "Put it on ice."
+            ],
+            "content":"<div class=\"\"><div> <span>You already feel like your knowledge has no equal, but there's no point in passing up free parts! Aside from that you feel like that juicy organ between her ears is wasted on a scavenger, and that it would be much better as part of your already impressive cerebral mass! Despite her pleading you have you sentries strap her down to the nearest operating table and have your auto doc get to work. The sound of whirring saws overtake her begging until he skull pop drops to the floor. Her whimpering is cut silent as a wet popping noise fills the chamber, signaling the successful removal of her surprisingly plump grey matter.<br>\r\n<br>\r\nYou waste no time installing your new hard drive, placing it in one of the currently empty jars as wires descend and push themselves into the slightly pulsing brain. You feel a twisted sense of pleasure wash through you as you feel the girl being erased, her thoughts silencing as everything she once was gets uploaded to your memory banks.<br>\r\n<br>\r\nA sudden \"head rush\" hits you as her now empty brain is fully synced with you and you feel your mental capacity double. Once it fades you look down and realize you should do something with her body before it starts to smell. <br>\r\n</span></div></div>",
+            "created":1481600160,
+            "id":2249264,
+            "title":"Submit her to debraining. "
+        },
+        "12432221":{
+            "author_id":"lexigcrp",
+            "author_name":"Lexirose",
+            "choices":[
+                "Have some play time with your attractive new pet.",
+                "her body is yours, time to find some extra \"memory\""
+            ],
+            "content":"<div class=\"\"><div> <span>If you still had emotions you would feel bad about wasting such a nice young body, thankfully your archives just alerted you to a device you may find useful. Your screen fills up with pictures and texts describing \"project marionette\" a metallic sphere that can be plopped into an empty skull to control a body.<br>\r\n<br>\r\nYour console lets out a few beeps of delight as you command the auto doc to bring out the wonderful little device. As the silver orb is lowered into the brainless girls head small tendrils emerge from the bottom and start to lower themselves into her body, slowly coiling around her spinal column. Seconds after the robotic brain is installed her eyes refocus and her slack jaw closes shut. The girl slowly stands before coming to attention \"Marionette unit 001 active, what are your orders?\"<br>\r\n<br>\r\nYou begin to think of all the endless possibilities that come with having a gorgeous young robot slave at your disposal and struggle on deciding where to start. Just then a stream of fresh data soaks into your disembodied brain, if you really felt like it you could transmit your own conciousnes into that marionette and take over her body.....say, didn't she say her companions were near your ruins?</span></div></div>",
+            "created":1481774400,
+            "id":2250111,
+            "title":"Install a puppet brain"
+        },
+        "125":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "...put into a tranmitter jar.",
+                "...swapped into a new body.",
+                "...placed in long term storage."
+            ],
+            "content":"<div class=\"\"><div> <span>You wander over to a device labeled as a brain extractor. It seems easy enough to operate. You just press a button to activate it, then sit down in that chair at the front. Couldn't be simpler. For some reason, you are overcome with a desire to use this machine, even though it goes against all common sense. Yeah, you aren't very bright.<br>\r\n<br>\r\nYou press the button and sit down. A touchscreen lowers down in front of you and prompts you for a destination. Looks like it wants to know what to do with your brain once its been removed. Looks like you've got a few options. You can place it into what the machine calls a transmitter jar. This apparently allows you to function as normal, just with your brain physically separated from your body. Another option would be to swap it into one of the bodies in the cryo-chambers. Basically, just switch which body your using. The final option is long-term storage. You guess that means you'll be placed in a jar and stored with those other brains you saw near the front.<br>\r\n<br>\r\nYou make your selection and the machine set's to work extracting your brain. Your brain is then...</span></div></div>",
+            "created":1333774800,
+            "id":1310739,
+            "title":"Extract your own brain."
+        },
+        "1251":{
+            "author_id":"zhiral",
+            "author_name":"Zhiral",
+            "choices":[
+                "Take the jar with your brain and head somewhere else",
+                "Take your brain out of the jar and examine it more closely",
+                "Something else entirely."
+            ],
+            "content":"<div class=\"\"><div> <span>Your brain is deposited into a large, clear jar, filled with some of kind of strange fluid.  It was quite thick in consistency, but seemed to only serve the purpose of keeping your brain hydrated.  Nano-generated portals were created on your brain-stem and spinal cord, allowing your body to function flawlessly so long as both parts were within range of the transmitters.  The range was not specified, but it was assumed to be pretty long.  As you awake now, your first sight would be you brain, staring back at you in it's little jar.  It was averagely sized, and pulsated with your heart-beat.  It was a Greyish pink in color, but still looked very attractive.  <br>\r\n<br>\r\nGetting out of the chair, you...</span></div></div>",
+            "created":1333861200,
+            "id":1311754,
+            "title":"...put into a tranmitter jar."
+        },
+        "12512":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Nah. Everyone knows that fresh air is good for you!",
+                "Yeah. It looks like he really needs to take a bath."
+            ],
+            "content":"<div class=\"\"><div> <span>You pull your brain out of its protective jar, giggling a little at how squishy it feels. You pull it up to your face so that you can get a closer look at it. You're somewhat embarrassed, since it looks slightly smaller than what a normal weasel brain should be, but thankfully there isn't anyone around to see it. Actually though, according to the computer, its size is pretty average for your species, age, and gender, so you guess it isn't really a problem. The readout also says that it should be above average intelligence when in good condition, which actually makes you feel rather proud of yourself.<br>\r\n<br>\r\nAfter half an hour or so of examining your brain, you begin to feel a little woozy. Your thoughts are becoming somewhat sluggish. At the same time, it feels like your brain has pretty much dried out. A small part of you wonders if there might be a connection. You think maybe you might want to put your brain back in its jar to recuperate from his visit to the open air. It seems like he's getting pretty tired. Heh, look at you. Treating your brain like its a separate person, and a guy at that. I mean, that's just silly. Why would your brain be a guy, when you're a girl? Anyway, what were you thinking about?<br>\r\n<br>\r\nOh yeah! Mister brain was wondering if he should go back inside his jar! You consider putting him back.</span></div></div>",
+            "created":1334120400,
+            "id":1313441,
+            "title":"Take your brain out of the jar and examine it m..."
+        },
+        "1253":{
+            "choices":[
+                "Time passes and someone comes",
+                "You wake up",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><div> <span>A light flickers on somewhere in a separate room. The computer display reads \"Device ready. Please go to the lighted room and take a seat in the device.\" You do as the computer says and go do the dusty hallway. At the end you find the lit up room. The room looked like a dentist office. In the middle sat a large complex chair. It looked comfortable enough. You wiped the dust off of it and laid back into it. A monitor in the ceiling lit up, \"Please hold still and relax.\" Suddenly metal restraints clamped over your arms, legs, and chest. You heart races a little but you know the best thing is to stay calm. A blast of air from the walls and underside of the chair blows the dust off of everything. A breathing mask is lowered onto your face and seals. As you breath everything seems to feel numb. Your sense of up and down start to fade as it feels like you're floating away. The sensation is relaxing. The last thing you see before closing your eyes is a series of robotic arms. They come from the walls and underneath the chair. They are all armed with some sort of different device. Your eyes close and you relax. You can just barely hear a little buzzing noise and they feeling of little vibration in your skull. Everything disappears as your mind drifts off into a sea of relaxing black void.</span></div></div>",
+            "created":1333774800,
+            "id":1311186,
+            "title":"...placed in long term storage."
+        },
+        "12533":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Eh, who cares.",
+                "Temporarily switch to your body's viewpoint."
+            ],
+            "content":"<div class=\"\"><div> <span>The machine pulls you (that is, your brain) out of your old body, and plops you into a waiting jar, which is then pumped full of nutrients and preservatives to keep you alive. Although you are completely unaware of your surroundings, you find yourself oddly at peace. Despite being confined to this jar, being reduced to a disembodied brain feels strangely liberating. You relaize that it's probably because you no longer have to worry about taking care of your body. No more scavenging for food among the ruins, no more trying to sleep amidst the freezing skeletons of collapsing sky-scrapers, no more having to go to the bathroom... All in all, you think you made a pretty good choice leaving your body behind.<br>\r\n<br>\r\nStill, as your jar is placed in one of the facility's many storehouses alongside countless other brains, you can't help but wonder what's happening to it right now...</span></div></div>",
+            "created":1335864300,
+            "id":1326847,
+            "title":"Something else"
+        },
+        "125331":{
+            "choices":[
+                "Friend",
+                "Foe"
+            ],
+            "content":"<div class=\"\"><div> <span>As you (now just a brain in a jar) begin your journey down the a seemingly endless conveyor belt you are pleasantly surprised to find the facility is transmitting your vision to the nearest camera as you move along. It is quite amusing thing to be watching yourself be carried away to what will be a pleasant relaxing place till civilization is reestablished and someone discovers this place and starts giving out bodies to you and your fellow brains. <br>\r\n<br>\r\nSomething is amiss though. As you travel down the line you thought you saw something move just out of frame seeming to follow your jar. Your fears are realized as the figure comes into full view whatever it was it ran upright and was obviously after you! You tried to yell but it seemed only your sight was transferred and not your voice to the speakers. You silently pray that maybe the creature would trip or perhaps some kind of security would save you, but all hopes flee your mind as the figure grabs the edges of your jar and pull you off the conveyor belt as you helplessly watch. <br>\r\n<br>\r\nThe camera's continue to transfer your view following the jar that was your only protection from being an exposed brain and now in the hands of some strange figure still moving far to quickly to make out the nature of the thing. The only question you have now is... friend or foe?</span></div></div>",
+            "created":1358057460,
+            "id":1507538,
+            "title":"Eh, who cares."
+        },
+        "1253311":{
+            "choices":[
+                "a new brain\" she says exposing her empty skull.",
+                "a companion to help with something.\""
+            ],
+            "content":"<div class=\"\"><div> <span>Your vision follows the figure as it navigates the winding hallways of the facility before finally entering what became obviously the sight that it had made home. It was an old hospital room. One they would use for check ups. The examining table had been made into a makeshift bed and the counter had what seemed to be something of a humanoid figure but was covered in a tarp. \"Oh crap! this thing killed someone! What is it gonna do to me?\" You think as your mind produces millions of questions every second. You watch as the figure places your jar on the computer desk noting also it seems the computer has been gutted then the figure turns towards the only camera in the room that your sight now occupies.<br>\r\n<br>\r\nAs the figure turns it tosses off the heavy coat it had been wearing revealing a feline form. Also clearly noticeable was it was female.from the seeming exaggerated female form. From the large hips, thin waist, to the seemingly volleyball sized rack she supported. She begins waving her hand towards the camera. \"Hey! Names Lilly sorry for any scare I need a little help and finding someone who isn't out to make a meal out of me is hard to come by.\" your female captor states. \"Listen I'm not here to hurt you I just need...\"</span></div></div>",
+            "created":1358058540,
+            "id":1507558,
+            "title":"Friend"
+        },
+        "12533111":{
+            "choices":[
+                "Yes.",
+                "No."
+            ],
+            "content":"<div class=\"\"><div> <span>\"a new... uh... brain.\" she finished nervously. with her reaching up underneath her hair, you notice the top of her head seems to rotate a quarter turn to the right before she lifts it off. The inside of her skull is empty save for a chip along the back side that's quite clearly warped. It's not clear how it got damaged, but if that's all that's inside her head, it being broken is a very bad sign.<br>\r\n<br>\r\n\"My memory imprint from my old one is... not right. Broken. I'm... Forgetting.\" she explains, fumbling with her words a bit and sounding frightened. gesturing to the covered shape behind her she continues. \"I thought I could just move myself to another body, one of this place's spares, but that didn't work.\"<br>\r\n<br>\r\nPart of you actually feels sorry for Lilly. You can't imagine what it must be like to know your mind is slowly fading away.<br>\r\n<br>\r\n\"Even if it means sharing my body with someone else, I'd take that over just disappearing. So, Will you help me?\"</span></div></div>",
+            "created":1385631540,
+            "id":1699972,
+            "title":"a new brain\" she says exposing her empty sk..."
+        },
+        "12533112":{
+            "choices":[
+                "something goes wrong with the robot.",
+                "your vision returns as you are now a robot."
+            ],
+            "content":"<div class=\"\"><div> <span>I need someone to help me out! I will gladly help you back into storage where you were headed... well to inform you on that you actually have to have my help to do that. Not just because your a brain but because the warehouse door where you were going to be kept is now locked.\" Lilly continues to explain, \"It's a safety feature to keep out thieves or murderers. No way in and no way out unless you are an extracted on an <b>uninterrupted</b> journey or a worker of this facility. Which I am proud to say I am not only that but also the designer for the brain function in this place!\" She states proudly. That eases you a little know whoever has you knows something about your situation and won't accidentally kill you. \"I have been transferring my brain from body to body throughout this apocalypse making sure the facility stays functional and everyone remains alive. Unfortunately I now need your help with something very important to this facilities well being\"<br>\r\n<br>\r\nShe walks over to the counter pulling the tarp away reveals a small robotic body. It look barely like someone tried to make it remotely human. It was obviously thrown together after the catastrophe as the parts were mismatched and rather then normal legs it had treads. \"She can't expect me to use that thing!\" you think to yourself still just a brain watching from a camera.<br>\r\n<br>\r\n\"I know it isn't much but it is perfectly sound for a temporary body.\" Lilly says sitting it upright exposing an opened section for a brain... probably your brain when all is said and done. \"I know you probably thinking why don't I just go fetch your body. Well, there are a few scenarios. The facility may have stored your body in one piece, many pieces, the computer may have even put another persons brain or a robot brain in your body and they have left the facility all together. Worst of all not every body takes to the drugs we use to keep it alive and your body might have been disposed of all together.\" This is definitely a frightening thought you were hoping one day to return to your body and get back to a civilized world.<br>\r\n<br>\r\n\"But back to the problem I have\" Lilly states as she seems to pull the top of her head open revealing it was empty \"you see I keep transferring my brain to new bodies if one is mortally wounded, aged, or just unfit to fulfill my duties so I usually keep it in a transmitting jar when I am not moving into a new body. I left my brain here like always as I left to do my usual tasks but when I returned it was gone! Someone stole my brain!\" \"Irony...\" you thought to yourself. \"Whoever has it apparently hasn't removed me from the jar or else I would lose connection to this body so that means they want something else. In any case I have to get it back if something happens to me this facility may cease to function all together. I make sure all the machines are function everything may be automatic, but we didn't have anything for in case one of those machines broke. That's why I am not happily floating in a jar with everyone else.\" Lilly explains pacing the floor. \"So what I need from you is to assist me in locating my brain... and if I should collapse or worse you have to find my brain if it hasn't been destroyed and put me in a new body, but if I have been eradicated you have to make sure this facility keep running till there are others ready to inherit that task\" Lilly finally informs you of the goal.<br>\r\n<br>\r\nShe then walks over to your jar and opens the lid you see her grab your brain and begin to lift you up when everything goes black separating you from the sensors in the jar and the cameras watching eyes. You can only imagine your being put in the robot so nothing to do but wait for Lilly to activate it...</span></div></div>",
+            "created":1358060400,
+            "id":1507570,
+            "title":"a companion to help with something.\""
+        },
+        "125332":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "It fits you with a prosthetic replacement brain.",
+                "It slices's you up to be used for spare parts."
+            ],
+            "content":"<div class=\"\"><div> <span>You are now Clara the weasel's brainless body. You can't think at the moment, since your brain decided to leave you and move into a jar. If you were capable of thinking right now, you'd probably be a bit hurt by her, frankly callous, decision to abandon you. You'd also probably wonder what's going to happen to you, now that your brain has been taken out. But you can't think, so you don't have these thoughts.<br>\r\n<br>\r\nAnyway, that machine hovering over you looks like it's doing something again. You have no idea what though, since, not to put to fine a point on this, you are currently suffering from a critical lack in the grey matter department. Anyway, what does the machine do to you?</span></div></div>",
+            "created":1335864960,
+            "id":1326850,
+            "title":"Temporarily switch to your body's viewpoint."
+        },
+        "1253321":{
+            "author_id":"airship-king",
+            "author_name":"Airship-King",
+            "choices":[
+                "Might as well. You don't want to leave your new brain exposed after all.",
+                "Nah. You feel like showing your new brain off to the entire world!"
+            ],
+            "content":"<div class=\"\"><div> <span>The machine lowers a strange device into the opening in your head. If you had a brain, you'd say it was somewhat spherical, and had a couple of vacuum tubes ticking out of it. You don't notice though because, again, you're brainless. There is a weird feeling as it attaches the new device to you, which you'd describe as pretty weird if you could feel it, which of course you can't because- Wait a moment... It does feel pretty weird! The sensation of those mechanical appendages moving about in your head feels <i>extremely</i> weird! As they withdraw, you realize something very important.<br>\r\n<br>\r\nYou have a brain again! Well, a mechanical replacement anyway. Now you can think and feel and notice whatever you want, because you have a brain! And you are never going to give this one up! Unless you decide to of course, which you can also do again now that you have a brain! Remembering things is also a breeze with this new brain of yours, and you spend a whole fifteen minutes enjoying your ability to do so. A part of you thinks it's pretty amazing that you still have all of your old memories, before being distracted by the thought that you can be amazed.<br>\r\n<br>\r\nYou reach up to the top of your head (the ability to control your body is just another benefit of having a brain), and realize (another great use for a brain! Will the wonders never cease?) that the top of your head is still missing. You spot it on a table next to you. Well that's one mystery solved anyway. Do you put it back on?</span></div></div>",
+            "created":1335865860,
+            "id":1326853,
+            "title":"It fits you with a prosthetic replacement brain."
+        }
+    },
+    "info":{
+        "author_id":"zhiral",
+        "author_name":"Zhiral",
+        "brief_description":"You've found a lab where you can create the perfect Friend/Mate!",
+        "created":1332295860,
+        "description":"<td align=\"left\" class=\"norm\">You open the hatch to an ancient, abandoned Laboratory. The metal vault-type door swings open with a loud creak, revealing the untouched remains of a civilization far more advanced then our own. Unfortunately, there isn't much inside, but a few things to stick out. Firstly, there are several Cryo-Chambers, each containing a body.  These bodies are held together by a special glue-like component, meaning that they are all, to an extend, modular. A computer system stands ready to guide the finder through the process of reviving one of these, however, it is missing a key component. A brain. Looking around again, you'll find that there is no short supply of them, and they are in  completely unmarked jars.  They vary in size, shape, and color, and obviously were collected or grown to meet a variety of racial needs.  No name, no age, no species of origin or Gender. Lastly, it seems there are genetic modification programs that will allow you to customize the available bodies in any way you desire. All the tools are there, and the brain in jar seems quite eager to have a body again. What will you do?<br>\r\n<br>\r\nThere are no rules or limits, go wild! </td>",
+        "id":1856219,
+        "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
+        "last_full_update":1481774400,
+        "modified":1481774400,
+        "pretty_title":"Cut and Paste Science"
+    }
+}
