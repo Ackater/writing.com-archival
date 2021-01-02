@@ -38,7 +38,7 @@ outline_chapters_xpath = ".//*[@id='Content_Column_Inside']/div[6]/div[2]/pre//a
 refusal_text_substring = "or try again in just a few minutes".lower()
  
 #For a search page
-search_results_xp=".//*[@id='Content_Column_Inner']/div[6]/font/div/div"
+search_results_xp=".//*[@id='Content_Column_Inside']/div[6]/font/div/div"
 search_pages_dropdown_xp = ".//*[@id='pageVal1']"
 
 def assertNotServerRefusal(page):
@@ -216,7 +216,7 @@ def get_search_page_interactive_ids(search):
     items = []
     for l in listings.iterchildren():
         #I can only do interactive stories!
-        items.append(re.findall(r"interact/item_id/(.+?)'" , list(l.getchildren())[0].attrib['oncontextmenu'])[0])
+        items.append(re.findall(r"interactive-story/item_id/(.+?)'" , list(l.getchildren())[0].attrib['oncontextmenu'])[0])
     return items
 
 ''' returns a list of all interactive ids for every result in this search page and all subsequent ones. '''
