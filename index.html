@@ -13,6 +13,7 @@
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/cyborg/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-l7xaoY0cJM4h9xh1RfazbgJVUZvdtyLWPueWNtLAphf/UbBgOVzqbOTogxPwYLHM" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.js"></script>
     <style>
         body {
             font-size: 1.4em;
@@ -53,7 +54,7 @@
                           </svg>
                     </router-link>
 
-                    <router-link v-bind:to="{ name: 'chapter', params: {current_index: '1' } }" class="btn btn-warning">
+                    <router-link v-bind:to="{ name: 'chapter', params: {current_index: '1' } }" class="btn btn-danger">
                         <svg class="bi bi-skip-backward" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" d="M.5 3.5A.5.5 0 011 4v3.248l6.267-3.636c.52-.302 1.233.043 1.233.696v2.94l6.267-3.636c.52-.302 1.233.043 1.233.696v7.384c0 .653-.713.998-1.233.696L8.5 8.752v2.94c0 .653-.713.998-1.233.696L1 8.752V12a.5.5 0 01-1 0V4a.5.5 0 01.5-.5zm7 1.133L1.696 8 7.5 11.367V4.633zm7.5 0L9.196 8 15 11.367V4.633z" clip-rule="evenodd"/>
                         </svg>
@@ -66,12 +67,18 @@
                         </svg>
                     </router-link>
 
-                    <router-link v-bind:to="{ name: 'recent' }" class="btn btn-info">
+                    <router-link v-bind:to="{ name: 'recent' }" class="btn btn-warning">
                         <svg class="bi bi-clock-history" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" d="M8.515 1.019A7 7 0 008 1V0a8 8 0 01.589.022l-.074.997zm2.004.45a7.003 7.003 0 00-.985-.299l.219-.976c.383.086.76.2 1.126.342l-.36.933zm1.37.71a7.01 7.01 0 00-.439-.27l.493-.87a8.025 8.025 0 01.979.654l-.615.789a6.996 6.996 0 00-.418-.302zm1.834 1.79a6.99 6.99 0 00-.653-.796l.724-.69c.27.285.52.59.747.91l-.818.576zm.744 1.352a7.08 7.08 0 00-.214-.468l.893-.45a7.976 7.976 0 01.45 1.088l-.95.313a7.023 7.023 0 00-.179-.483zm.53 2.507a6.991 6.991 0 00-.1-1.025l.985-.17c.067.386.106.778.116 1.17l-1 .025zm-.131 1.538c.033-.17.06-.339.081-.51l.993.123a7.957 7.957 0 01-.23 1.155l-.964-.267c.046-.165.086-.332.12-.501zm-.952 2.379c.184-.29.346-.594.486-.908l.914.405c-.16.36-.345.706-.555 1.038l-.845-.535zm-.964 1.205c.122-.122.239-.248.35-.378l.758.653a8.073 8.073 0 01-.401.432l-.707-.707z" clip-rule="evenodd"/>
                             <path fill-rule="evenodd" d="M8 1a7 7 0 104.95 11.95l.707.707A8.001 8.001 0 118 0v1z" clip-rule="evenodd"/>
                             <path fill-rule="evenodd" d="M7.5 3a.5.5 0 01.5.5v5.21l3.248 1.856a.5.5 0 01-.496.868l-3.5-2A.5.5 0 017 9V3.5a.5.5 0 01.5-.5z" clip-rule="evenodd"/>
                         </svg>
+                    </router-link>
+                    
+                    <router-link v-bind:to="{ name: 'story_search' }" class="btn btn-info">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/>
+                          </svg>
                     </router-link>
                 </div>
             </div>
@@ -243,13 +250,45 @@
 
             <div class="list-group list-group-flush">
 
-                <router-link v-for="(choice, index) in chapter.choices" v-bind:key="choice"
+                <router-link v-for="(choice, index) in chapter.choices" v-bind:key="index"
                     v-bind:class="{ disabled: notExist(index), active: index == selected }" class="list-group-item list-group-item-action"
                     v-bind:to="{ name: 'chapter', params: {current_index: current_index + (index + 1) } }">
                     {{ choice }}
                 </router-link>
                 </ul>
             </div>
+        </section>
+    </script>
+
+    
+    <script type="text/x-template" id="search-template">
+        <div class="col mt-1 mb-3">
+            <div class="card">
+                <story-header></story-header>
+            </div>
+
+            <div class="card">
+                <div class="">
+                <input v-model.lazy="search_field" type="search" class="form-control" placeholder="Search">
+                </div>
+            </div>
+        
+
+            <div class="list-group list-group-flush">
+                <router-link v-for="result in search_results" class="py-1 text-truncate list-group-item list-group-item-action"
+                v-bind:to="{ name: 'chapter', params: { current_index: result['item'][0]}}">
+                
+                <small>
+                    {{ result['item'][0] }}
+                </small>
+                <br>
+                #{{ result['item'][0].length }}: {{ result['item'][1]['title'] }}
+                </router-link>
+
+                </ul>
+            </div>
+
+            
         </div>
     </script>
     
@@ -431,6 +470,48 @@
             }
         })
 
+        const search_view = Vue.component('search-view', {
+            template: '#search-template',
+            data: function() {
+                return {
+                    search_field: ""
+                }
+            },
+            computed: {
+                search_array: function() {
+                    return Object.entries(this.$story.chapters)
+                },
+                fuse: function() {
+                    const options= { 
+                        keys: [
+                            {
+                                name: "1.content",
+                                weight: 1,
+                            },
+                            {
+                                name: "1.choices",
+                                weight: 0.25,
+                            },
+                            {
+                                name: "1.title",
+                                weight: 2,
+                            }
+                        ],
+                        minMatchCharLength: 2,
+                        ignoreFieldNorm: true,
+                        ignoreLocation: true,
+                        includeScore: true
+                    }
+                    return fuse = new Fuse(this.search_array, options)
+                },
+                search_results: function() {
+                    console.log(this.fuse.search(this.search_field))
+                    return this.fuse.search(this.search_field)
+                }
+            }
+        })
+
+
         const header = Vue.component('story-header', {
             template: '#story-header-template',
             computed: {
@@ -574,6 +655,12 @@
                     current_index: route.params.current_index,
                     show_history: true
                 })
+            },
+            { 
+                path: '/:story/search/:search_query?', 
+                name: 'story_search',
+                component: search_view, 
+                props: true 
             },
             { 
                 path: '/:story/:current_index', 
