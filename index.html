@@ -13,7 +13,7 @@
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.4.1/cyborg/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-l7xaoY0cJM4h9xh1RfazbgJVUZvdtyLWPueWNtLAphf/UbBgOVzqbOTogxPwYLHM" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.js"></script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
     <style>
         body {
             font-size: 1.4em;
@@ -269,20 +269,20 @@
 
             <div class="card">
                 <div class="">
-                <input v-model.lazy="search_field" type="search" class="form-control" placeholder="Search">
+                <input v-model="search_field" type="search" class="form-control" placeholder="Search">
                 </div>
             </div>
         
 
             <div class="list-group list-group-flush">
                 <router-link v-for="result in search_results" class="py-1 text-truncate list-group-item list-group-item-action"
-                v-bind:to="{ name: 'chapter', params: { current_index: result['item'][0]}}">
+                v-bind:to="{ name: 'chapter', params: { current_index: result['ref']}}">
                 
                 <small>
-                    {{ result['item'][0] }}
+                    {{ result['ref'] }}
                 </small>
                 <br>
-                #{{ result['item'][0].length }}: {{ result['item'][1]['title'] }}
+                #{{ result['ref'].length }}: {{ $story.chapters[result['ref']].title }}
                 </router-link>
 
                 </ul>
@@ -478,35 +478,33 @@
                 }
             },
             computed: {
-                search_array: function() {
-                    return Object.entries(this.$story.chapters)
-                },
-                fuse: function() {
-                    const options= { 
-                        keys: [
-                            {
-                                name: "1.content",
-                                weight: 1,
-                            },
-                            {
-                                name: "1.choices",
-                                weight: 0.25,
-                            },
-                            {
-                                name: "1.title",
-                                weight: 2,
+                lunr: function() {
+                    idx = lunr(function() {
+                        this.field('id', {boost: 0})
+                        this.field('title', {boost: 2})
+                        this.field('content', {boost: 1})
+                        this.field('author', {boost: 1.5})
+                        this.field('choices', {boost: 0.75})
+
+                        Object.keys(Vue.prototype.$story.chapters).forEach(function (index) {
+                            choices = null
+                            if (Vue.prototype.$story.chapters[index].choices != null) {
+                                choices = Vue.prototype.$story.chapters[index].choices.join(" ") 
                             }
-                        ],
-                        minMatchCharLength: 2,
-                        ignoreFieldNorm: true,
-                        ignoreLocation: true,
-                        includeScore: true
-                    }
-                    return fuse = new Fuse(this.search_array, options)
+                            this.add({
+                                id: index,
+                                title: Vue.prototype.$story.chapters[index].title,
+                                content: Vue.prototype.$story.chapters[index].content,
+                                author: Vue.prototype.$story.chapters[index].author,
+                                choices: choices
+                            })
+                        }, this)
+                    })
+                    return idx;
+
                 },
                 search_results: function() {
-                    console.log(this.fuse.search(this.search_field))
-                    return this.fuse.search(this.search_field)
+                    return this.lunr.search(this.search_field)
                 }
             }
         })
