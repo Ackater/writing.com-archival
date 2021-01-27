@@ -380,6 +380,18 @@
             "id":1887900,
             "title":"Female"
         },
+        "12321":{
+            "author_id":"brony100",
+            "author_name":"Brony01",
+            "choices":[
+                "Massage her paws",
+                "Test your luck and refuse"
+            ],
+            "content":"<div class=\"\"><div> <span>     You stare in awe at the majestic black and yellow pok\u00e9mon as she sits in front of you. She looks kinda cute and you can't help but to sit on her paw. With a smile she introduces herself to you and you tell her your name. She tells you about your predicament and the role you need to play, she's not hostile or anything, but serious. She informs you that you will not be permanently hurt, but that if you refuse a request that you'll be spending the night inside her until you comply. She then asks you to massage her paws.</span></div></div>",
+            "created":1611634980,
+            "id":2982006,
+            "title":"Talk with her for awhile"
+        },
         "124":{
             "author_id":"swiftgale",
             "author_name":"The Swift Gale",
@@ -1749,6 +1761,149 @@
             "id":2657469,
             "title":"zoroark"
         },
+        "1553322214":{
+            "author_id":"cutiesnowpix",
+            "author_name":"Alice The Snowpix",
+            "choices":[
+                "other starter pokemon ",
+                "ditto",
+                "more??"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>you want something else? well then what about theses?</span></div></span></div>",
+            "created":1610348040,
+            "id":2973341,
+            "title":"more?"
+        },
+        "15533222141":{
+            "author_id":"cutiesnowpix",
+            "author_name":"Alice The Snowpix",
+            "choices":[
+                "gen 2 - 4",
+                "gen 6 - 7",
+                "gen 8"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>which generation do you want your starter from?</span></div></span></div>",
+            "created":1610348220,
+            "id":2973342,
+            "title":"other starter pokemon "
+        },
+        "155332221411":{
+            "author_id":"cutiesnowpix",
+            "author_name":"Alice The Snowpix",
+            "choices":[
+                "gen 2",
+                "gen 3",
+                "gen 4"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>which gen?</span></div></span></div>",
+            "created":1610348460,
+            "id":2973345,
+            "title":"gen 2 - 4"
+        },
+        "1553322214111":{
+            "author_id":"cutiesnowpix",
+            "author_name":"Alice The Snowpix",
+            "choices":[
+                "Chikorita",
+                "Cyndaquil ",
+                "Totodile"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chikorita, Cyndaquil or Totodile?</span></div></span></div>",
+            "created":1610348580,
+            "id":2973347,
+            "title":"gen 2"
+        },
+        "1553322214112":{
+            "author_id":"cutiesnowpix",
+            "author_name":"Alice The Snowpix",
+            "choices":[
+                "Treecko",
+                "Torchic",
+                "Mudkip"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Treecko, Torchic or Mudkip?</span></div></span></div>",
+            "created":1610348640,
+            "id":2973348,
+            "title":"gen 3"
+        },
+        "1553322214113":{
+            "author_id":"cutiesnowpix",
+            "author_name":"Alice The Snowpix",
+            "choices":[
+                "Turtwig",
+                "Chimchar ",
+                "Piplup"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Turtwig, Chimchar or Piplup?</span></div></span></div>",
+            "created":1610348760,
+            "id":2973350,
+            "title":"gen 4"
+        },
+        "155332221412":{
+            "author_id":"cutiesnowpix",
+            "author_name":"Alice The Snowpix",
+            "choices":[
+                "gen 5",
+                "gen 6",
+                "gen 7"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>which gen?</span></div></span></div>",
+            "created":1610348820,
+            "id":2973351,
+            "title":"gen 5 - 7"
+        },
+        "1553322214121":{
+            "author_id":"cutiesnowpix",
+            "author_name":"Alice The Snowpix",
+            "choices":[
+                "Snivy",
+                "Tepig ",
+                "Oshawott"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Snivy, Tepig or Oshawott?</span></div></span></div>",
+            "created":1610348880,
+            "id":2973353,
+            "title":"gen 5"
+        },
+        "1553322214122":{
+            "author_id":"cutiesnowpix",
+            "author_name":"Alice The Snowpix",
+            "choices":[
+                "Chespin",
+                "Fennekin ",
+                "Froakie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Chespin, Fennekin or Froakie?</span></div></span></div>",
+            "created":1610349000,
+            "id":2973354,
+            "title":"gen 6"
+        },
+        "1553322214123":{
+            "author_id":"cutiesnowpix",
+            "author_name":"Alice The Snowpix",
+            "choices":[
+                "Rowlet",
+                "Litten ",
+                "Popplio"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Rowlet, Litten or Popplio</span></div></span></div>",
+            "created":1610349120,
+            "id":2973355,
+            "title":"gen 7"
+        },
+        "155332221413":{
+            "author_id":"cutiesnowpix",
+            "author_name":"Alice The Snowpix",
+            "choices":[
+                "Grookey",
+                "Scorbunny ",
+                "Sobble"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Grookey, Scorbunny or Sobble?</span></div></span></div>",
+            "created":1610349180,
+            "id":2973356,
+            "title":"gen 8"
+        },
         "155332222":{
             "author_id":"hellodere",
             "author_name":"SilentWuffer",
@@ -1820,8 +1975,8 @@
         "description":"<td align=\"left\" class=\"norm\">You are shrunk in the home of a pokemon. You must service them to live. please add and i will give you 300 gift points to any who adds a chapter. Note that some pokemon already have a gender picked and will be in their base forms from the games.</td>",
         "id":1799294,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1587986760,
-        "modified":1587986760,
+        "last_full_update":1610349180,
+        "modified":1611634980,
         "pretty_title":"pokemon slave"
     }
 }

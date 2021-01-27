@@ -2508,6 +2508,58 @@
             "id":2942805,
             "title":"Your ex-girlfriend, Jessica"
         },
+        "13521111211211":{
+            "author_id":"sabrina-taur",
+            "author_name":"SabTaurDalton",
+            "choices":[
+                "Head or body",
+                "Limbs",
+                "Other options"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Considering how badly she screwed you over, how much do you want to get back at her?<br>\r\nDo you want to remove her head or body, her limbs, or another option?</span></div></span></div>",
+            "created":1611707940,
+            "id":2982514,
+            "title":"Purple (vanishing)"
+        },
+        "135211112112111":{
+            "author_id":"sabrina-taur",
+            "author_name":"SabTaurDalton",
+            "choices":[
+                "Headless",
+                "Bodiless",
+                "Mess with her face"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you remove her head, her body, or do you screw with that pretty little face of hers?</span></div></span></div>",
+            "created":1611708600,
+            "id":2982520,
+            "title":"Head or body"
+        },
+        "135211112112112":{
+            "author_id":"sabrina-taur",
+            "author_name":"SabTaurDalton",
+            "choices":[
+                "Limbs and head",
+                "Just limbs",
+                "Leave only limbs and head"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you remove her limbs and head, leaving her as a helpless torso, just her limbs, or do you Uno Reverse and remove her torso while <i>leaving</i> her limbs and head?</span></div></span></div>",
+            "created":1611708540,
+            "id":2982518,
+            "title":"Limbs"
+        },
+        "135211112112113":{
+            "author_id":"sabrina-taur",
+            "author_name":"SabTaurDalton",
+            "choices":[
+                "Cut in half",
+                "Other option ",
+                "Third option"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else can you do to her?<br>\r\nHow about cutting her in half, leaving just her top half or bottom half?</span></div></span></div>",
+            "created":1611708900,
+            "id":2982525,
+            "title":"Other options"
+        },
         "1352111121122":{
             "author_id":"nnnnn89",
             "author_name":"bom",
@@ -2520,6 +2572,31 @@
             "created":1605850380,
             "id":2942934,
             "title":"A friend of yours, Helen"
+        },
+        "13521111211222":{
+            "author_id":"nnnnn89",
+            "author_name":"bom",
+            "choices":[
+                "Just one cut along the waist or neck",
+                "Multiple cuts; on her limbs, waist, and neck",
+                "You stop time, but Helen keeps moving to your confusion"
+            ],
+            "content":"<div class=\"\"><div> <span>Out of the corner of your eye, you see a familiar blond head of hair through a restaurant window, recognizing it as your old friend, Helen. She was in her work uniform on her phone, so she was probably either on break or finished an early shift at work. Either way, you thought she would be a good test subject. Even if she somehow found out about whatever changes you made to her, she was always laid back and didn't mind any pranks you pulled on her, so she probably wouldn't mind whatever you do to her as long as she figures out that you can undo them. You point her out to Sarah from outside the restaurant <br>\r\n<br>\r\n\"Ooh, she's cute. A first good pick. So what are ya gonna do to her?\" Sarah asks you.<br>\r\n<br>\r\nYou switch the sword to the green mode, called \"sentience.\" \"I was thinking about trying out this mode,\" you tell Sarah as you stop time. She nods in approval and lets you make your move.</span></div></div>",
+            "created":1611632220,
+            "id":2981984,
+            "title":"Green"
+        },
+        "135211112112221":{
+            "author_id":"tpds",
+            "author_name":"TPDSMCH",
+            "choices":[
+                "Waist",
+                "Neck"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which place?</span></div></span></div>",
+            "created":1611638400,
+            "id":2982045,
+            "title":"Just one cut along the waist or neck"
         },
         "13521111212":{
             "author_id":"shortyboss",
@@ -3522,7 +3599,7 @@
         "id":1991048,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1605850380,
-        "modified":1605850380,
+        "modified":1611708900,
         "pretty_title":"Reality Altering Laser Katana"
     }
 }

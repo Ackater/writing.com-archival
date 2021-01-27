@@ -1147,6 +1147,19 @@
             "id":2703600,
             "title":"He has a bit more confidence."
         },
+        "1114":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Tommy Pickles",
+                "Chuckie Finster",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Could we follow one of these from \"Rugrats?\"</span></div></span></div>",
+            "created":1609987320,
+            "id":2971046,
+            "title":"Other."
+        },
         "112":{
             "author_id":"chrisern",
             "author_name":"ShadowBlade",
@@ -1283,6 +1296,82 @@
             "created":1604466000,
             "id":2934606,
             "title":"Reader's Choice 1"
+        },
+        "11242111111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Pee",
+                "Poop",
+                "Pee and Poop"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Luke have to pee, poop, or both?</span></div></span></div>",
+            "created":1609985160,
+            "id":2971020,
+            "title":"Luke Has to Pee and/or Poop"
+        },
+        "112421111112":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "Just go potty",
+                "Tell Winston to turn around",
+                "Use his diaper, he's uncomfortable potting around anyone except his mommy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Luke had to poop. He clutched his bare bum with both hands. What does he do?</span></div></span></div>",
+            "created":1609986300,
+            "id":2971027,
+            "title":"Poop"
+        },
+        "1124211111122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ask Winston to Bring Him some Toilet Paper",
+                "Look For Something to Wipe His Bottom With",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Winston, could you please turn around? I don't want you to see me while I go.\" said Luke.<br>\r\n\"Okay, Luke.\" said Winston. He turned around and closed his eyes.<br>\r\n<br>\r\n\"Thank you.\" said Luke. He sat down on his potty and grunted as he pooped in it. He soon sighed with relief. Now he needed to wipe his bottom, but he didn't have anything to wipe it with.<br>\r\n<br>\r\n<b>What does Luke do?</b></span></div></div>",
+            "created":1609987140,
+            "id":2971043,
+            "title":"Tell Winston to turn around"
+        },
+        "1124211111123":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, something else."
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Luke ask Winston to bring him one of his diapers?</span></div></span></div>",
+            "created":1609987680,
+            "id":2971049,
+            "title":"Use his diaper, he's uncomfortable potting ..."
+        },
+        "11242111111232":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "Yes",
+                "No",
+                "Too late"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Luke go get it himself?</span></div></span></div>",
+            "created":1609988040,
+            "id":2971056,
+            "title":"No, something else."
+        },
+        "112421111112323":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "In His Backyard",
+                "On the Floor of His House"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Luke end up pooping in his backyard or on the floor of his house?</span></div></span></div>",
+            "created":1609988460,
+            "id":2971063,
+            "title":"Too late"
         },
         "112421112":{
             "author_id":"diokno44",
@@ -2114,6 +2203,167 @@
             "id":2934974,
             "title":"Chris has to pee and poop"
         },
+        "112422223":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "A Store",
+                "The Beach",
+                "The Carnival",
+                "Farl E. Ferret's",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where else could Luke go?</span></div></span></div>",
+            "created":1609939680,
+            "id":2970629,
+            "title":"Other"
+        },
+        "1124222234":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "One of His Friends Was Spending Their Birthday There",
+                "He and His Friends Had a Play Date There",
+                "Another Reason"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why was Luke going to Farl E. Ferret's?</span></div></span></div>",
+            "created":1609940040,
+            "id":2970631,
+            "title":"Farl E. Ferret's"
+        },
+        "11242222341":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ryan",
+                "Brad",
+                "Alice",
+                "Winston",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of Luke's friends was spending their birthday at Farl E. Ferret's?</span></div></span></div>",
+            "created":1609940400,
+            "id":2970632,
+            "title":"One of His Friends Was Spending Their Birthday ..."
+        },
+        "11242222342":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Just One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "content":"<div class=\"\"><div> <span>As Luke was outside his house, trying to use his potty, Colleen was inside talking on the phone.<br>\r\n<br>\r\n\"Hello?\" She said as she picked up the phone.<br>\r\n<br>\r\n\"Colleen? It's Wendy. The other moms and I are going to take our children to Farl E. Ferret's for a play date, and you're welcome to come with Luke if you like.\" Wendy told Colleen.<br>\r\n<br>\r\n\"Thank you, Wendy. We'll be there soon.\" Colleen told Wendy, and she hung up the phone. She then went outside to talk to Luke.<br>\r\n<br>\r\n\"Luke, can Mommy talk to you for a minute?\" Colleen asked Luke.<br>\r\n<br>\r\n\"What is it, Mommy?\" Luke asked Colleen.<br>\r\n<br>\r\n\"Mommy just got off the phone with Mrs. McHiggins. She and the other moms are bringing their children to Farl E. Ferret's, and she invited us to come along. You can take a break and try using your potty later.\" Colleen told Luke.<br>\r\n<br>\r\n\"Okay, Mommy.\" said Luke. Luke liked going to Farl E. Ferret's because he liked to play in the ball pit with his friends, so he was happy to come along.<br>\r\n<br>\r\n\"Now, before we go, let's get your diaper on.\" Colleen told Luke. Luke pulled up his shirt and held still as Colleen taped a clean diaper onto his bottom.<br>\r\n<br>\r\n\"Good boy. Now we can go.\" said Colleen. She took him to her car and secured him in his car seat. A short time later, they arrived at Farl E. Ferret's. Colleen dropped Luke off in the ball pit so she could talk to the other moms.<br>\r\n<br>\r\n\"Have fun, Luke!\" Colleen told Luke.<br>\r\n<br>\r\n\"Thanks, Mommy, I will!\" said Luke.<br>\r\n<br>\r\n<b>How many of his friends did Luke come across as he played in the ball pit?</b></span></div></div>",
+            "created":1609943820,
+            "id":2970642,
+            "title":"He and His Friends Had a Play Date There"
+        },
+        "112422223424":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Climb to the Top of the Tubes and Slide Down",
+                "Go Out to Play Some of the Arcade Games",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Luke came across Ryan, Brad, Alice, and Winston, who were all having fun playing in the ball pit with each other.<br>\r\n<br>\r\n\"Luke!\" exclaimed Ryan.<br>\r\n<br>\r\n\"It's good to see you, Luke.\" said Winston.<br>\r\n<br>\r\n\"Glad you could join us, Luke!\" said Brad.<br>\r\n<br>\r\n\"We were hoping you could join us.\" said Allice.<br>\r\n<br>\r\n\"Oh, I'm happy to be here.\" Luke assured his friends.<br>\r\n<br>\r\n<b>In the ball pit, what did the toddlers decide to do?</b></span></div></div>",
+            "created":1609944300,
+            "id":2970645,
+            "title":"Four"
+        },
+        "1124222234242":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Luke's Diaper Came Undone and Fell Off in the Ball Pit",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Brad looked outside the ball pit. In the distance, he could see the older children playing all sorts of different games in the arcade. Some were playing skee-ball, some were playing basketball, some were playing <i>Mash-a-Mole</i>, some were playing <i>Super Marquez Kart Arcade GP</i>, some were playing the claw machines, some were playing the strength test game, and some were playing <i>Bounce Bounce Evolution</i>. Seeing all those games, Brad didn't know where to start, but he knew he and his friends would have a lot of fun if they played those games, especially since many of those games rewarded the players with tickets they could use to buy prizes with. Besides, Brad found it kind of dull having little to do in the ball pit.<br>\r\n<br>\r\n\"Hey, guys, I've got an idea! We could go to the arcade and play the games there. We can have fun and win some prizes!\" Brad told his friends. Luke, Winston, and Alice all found this a good idea, but Ryan wasn't so sure.<br>\r\n<br>\r\n\"I'm not sure we should do this, Brad. I think our mommies would want us to stay in the ball pit.\" Ryan told Brad.<br>\r\n<br>\r\n\"Oh, don't worry, Ryan. I'm sure we can get back before our moms notice we're gone.\" said Brad. He, Alice, and Winston all climbed out of the ball pit. Ryan sighed unhappily, as he knew that whenever Brad got an idea, it was no use trying to talk him out of it. He climbed out of the ball pit, and Luke followed behind him.<br>\r\n<br>\r\n<b>As Luke climbed out of the ball pit, what happened?</b></span></div></div>",
+            "created":1609946820,
+            "id":2970659,
+            "title":"Go Out to Play Some of the Arcade Games"
+        },
+        "11242222342421":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Luke Noticed That His Diaper Had Come Off",
+                "Some Other Kids Pointed to Luke and Laughed at Him",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>As Luke was climbing out of the ball pit, he was unaware that the tapes to his diaper had come undone and his diaper fell off as a result, leaving him naked from the waist down.<br>\r\n<br>\r\n<b>When Luke got out of the ball pit, what happened?</b></span></div></span></div>",
+            "created":1609947180,
+            "id":2970662,
+            "title":"Luke's Diaper Came Undone and Fell Off in t..."
+        },
+        "112422223424211":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "Call out for his mom",
+                "Try and look for it",
+                "Continue playing"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does Luke do in response?</span></div></span></div>",
+            "created":1609953780,
+            "id":2970711,
+            "title":"Luke Noticed That His Diaper Had Come Off"
+        },
+        "1124222234242112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Luke decided to look for his missing diaper in the ball pit, so he climbed back into it and began his search.<br>\r\n<br>\r\n<b>Was he able to find his diaper?</b></span></div></span></div>",
+            "created":1609970040,
+            "id":2970902,
+            "title":"Try and look for it"
+        },
+        "11242222342421122":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ryan",
+                "Brad",
+                "Alice",
+                "Winston"
+            ],
+            "content":"<div class=\"\"><div> <span>Luke searched the ball pit, but he couldn't find his missing diaper. He didn't want to come out of the ball pit until he found it, because he didn't want anyone to see him naked from the waist down. Meanwhile, Ryan, Brad, Alice, and Winston were all waiting in the arcade for Luke to catch up to them, but Luke didn't.<br>\r\n<br>\r\n\"What's taking Luke so long? It's not like him to leave us hanging.\" Brad told Ryan, Alice, and Winston.<br>\r\n<br>\r\n\"I think something bad might have happened to him.\" Ryan told Brad.<br>\r\n<br>\r\n\"I sure hope not.\" Winston told Ryan.<br>\r\n<br>\r\n\"I hope not, too.\" added Alice.<br>\r\n<br>\r\n\"I think one of us should go back and see if he's okay.\" Ryan told his friends.<br>\r\n<br>\r\n\"Good idea, Ryan.\" said Brad.<br>\r\n<br>\r\n<b>Who went back to check on Luke?</b></span></div></div>",
+            "created":1609984020,
+            "id":2971014,
+            "title":"No"
+        },
+        "112422223424211221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Ryan Finds Luke's Missing Diaper",
+                "Luke Finds His Missing Diaper",
+                "Neither Ryan Nor Luke Finds Luke's Missing Diaper"
+            ],
+            "content":"<div class=\"\"><div> <span>Ryan decided that he would go back to find Luke. After all, he didn't really want to go to the arcade with the rest of his friends, but he didn't dare tell them that because he wanted to stay friends with them.<br>\r\n<br>\r\n\"Guys, I'm gonna go find Luke. I'll be right back.\" Ryan told Brad, Alice, and Winston.<br>\r\n<br>\r\n\"Okay. Get back here as soon as you can.\" said Brad, and with that, Ryan ran back to the ball pit. Fortunately for him, Wendy was having a conversation with Colleen, Ashley, Helen, and Geraldine, none of whom noticed their kids, save for Luke, were not in the ball pit.<br>\r\n<br>\r\n\"Luke, what are you doing in the ball pit? We're all waiting for you in the arcade.\" Ryan told Luke.<br>\r\n<br>\r\n\"I know, but I'm afraid I can't come out right now.\" Luke told Ryan.<br>\r\n<br>\r\n\"Why not?\" Ryan asked Luke.<br>\r\n<br>\r\n\"I can't tell you. You'll laugh at me.\" Luke said worriedly.<br>\r\n<br>\r\n\"No, I won't. I'm your friend, you can tell me anything.\" Ryan assured Luke.<br>\r\n<br>\r\n\"Well, okay. Come closer.\" Luke told Ryan, who came closer to him.<br>\r\n<br>\r\n\"My diaper came off in the ball pit, and now I can't find it.\" Luke whispered to Ryan.<br>\r\n<br>\r\n\"Oh. Well, don't worry, I'll help you find it.\" Ryan told Luke.<br>\r\n<br>\r\n\"Really? Thanks, Ryan. You're a pal.\" Luke told Ryan as Ryan climbed into the ball pit. As the two toddlers looked for Luke's missing diaper, Ryan talked to Luke.<br>\r\n<br>\r\n\"You know, Luke, back before I started wearing big-boy underwear, this happened to me. My diaper came off in the ball pit, and I didn't realize it until everyone pointed and laughed at me. I was so embarrassed, I couldn't sleep for days.\" Ryan told Luke.<br>\r\n<br>\r\n\"Really? How'd you overcome it?\" Luke asked Ryan.<br>\r\n<br>\r\n\"I told Mike about my problem. He gave me a pair of baby suspenders. He attached them to the waistband of my diaper. Once they were on, even if my diaper came undone, it wouldn't fall off. Now that I don't wear diapers anymore, I could give them to you if you like.\" Ryan told Luke.<br>\r\n<br>\r\n\"Well, thanks, Ryan, but right now my Mommy's potty-training me diaperless in my backyard. I only wear my diaper when I'm going out.\" Luke told Ryan.<br>\r\n<br>\r\n<b>As the two toddlers continued talking to each other, what happened?</b></span></div></div>",
+            "created":1609985040,
+            "id":2971019,
+            "title":"Ryan"
+        },
+        "112422223424212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Butch",
+                "The Johnson Sisters",
+                "Richard Richfield Jr.",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who teased Luke for not wearing his diaper?</span></div></span></div>",
+            "created":1609970040,
+            "id":2970904,
+            "title":"Some Other Kids Pointed to Luke and Laughed at Him"
+        },
         "11243":{
             "author_id":"aquacube",
             "author_name":"A_C",
@@ -2578,6 +2828,31 @@
             "id":2702168,
             "title":"Other"
         },
+        "1141":{
+            "author_id":"jbknox2",
+            "author_name":"BufordJr",
+            "choices":[
+                "Tommy Pickles from \"Rugrats\"",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who shall we focus on in this story?</span></div></span></div>",
+            "created":1610767440,
+            "id":2976232,
+            "title":"1 1/2"
+        },
+        "11412":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "The Simpson's",
+                "Family guy",
+                "Rugrats"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is it Maggie Simpson from the Simpson's?<br>\r\nIs it Stewie Griffin or Susie Swanson from family guy?<br>\r\nIs it one of the other babies from Rugrats?</span></div></span></div>",
+            "created":1610767980,
+            "id":2976237,
+            "title":"Someone else"
+        },
         "1142":{
             "author_id":"chrisern",
             "author_name":"ShadowBlade",
@@ -2591,6 +2866,19 @@
             "created":1565758800,
             "id":2702170,
             "title":"5"
+        },
+        "1144":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Bart Simpson",
+                "Ralph wiggum",
+                "Milhouse Van Houten"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're from the Simpson's.<br>\r\nAre you Bart Simpson? <br>\r\nAre you Ralph Wiggum?<br>\r\nAre you Milhouse Van Houten?</span></div></span></div>",
+            "created":1610770680,
+            "id":2976261,
+            "title":"10"
         },
         "12":{
             "author_id":"diokno44",
@@ -2620,6 +2908,19 @@
             "id":2702167,
             "title":"2"
         },
+        "1211":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "(a)",
+                "(b)",
+                "(c)"
+            ],
+            "content":"<div class=\"\"><div> <span>Her parents told her either after or before her birthday party that since she's now two, that she'll be going to preschool. So they feel like She should at least get ahead start on using the potty before her first day of preschool. She very happy and excited to try the potty out, but does she actually continue to use the potty once she starts preschool and sees some of her classmates refusing to use the potty and going anywhere but on the potty.  What happens on her first day of preschool?<br>\r\n<br>\r\n(a) she makes friends with some of her classmates that like using the potty. In which makes her feel more comfortable about using the potty at preschool.<br>\r\n(b) she makes friends with some of her classmates that hate using the potty. So she tries being that one friend who is really good at convincing others to follow what she's doing.<br>\r\n(c) she makes friends with some of her classmates that like hate using the potty. In which makes her feel uncomfortable about using the potty at preschool.</span></div></div>",
+            "created":1610125200,
+            "id":2971833,
+            "title":"Diana, inquisitive and curious, excited about t..."
+        },
         "1212":{
             "author_id":"diokno44",
             "author_name":"Filipino4-ever",
@@ -2632,6 +2933,343 @@
             "created":1565931600,
             "id":2703611,
             "title":"Maya, shy and stubborn, dislikes change."
+        },
+        "1214":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Kimi Finster from Rugrats",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who else could we follow?</span></div></span></div>",
+            "created":1609986720,
+            "id":2971034,
+            "title":"Other"
+        },
+        "12141":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would Kimi want to be potty trained?</span></div></span></div>",
+            "created":1609988580,
+            "id":2971064,
+            "title":"Kimi Finster from Rugrats"
+        },
+        "121411":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Kira",
+                "Chuckie or Chaz and she starts thinking that she's a boy",
+                "Chuckie or Chaz are just her role model for reassurance "
+            ],
+            "content":"<div class=\"\"><div> <span>Who did Kimi pick as a role model for her to look up to as she went through potty training? If it's Chuckie or Chaz does she start to stand up whenever she has to only pee or does she just look up to them for reassurance about using the toilet or potty instead of her diaper?</span></div></div>",
+            "created":1610126700,
+            "id":2971838,
+            "title":"Yes"
+        },
+        "1214112":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "(a)",
+                "(b)",
+                "(c)"
+            ],
+            "content":"<div class=\"\"><div> <span>So Chaz and Kira tell Chuckie to show Kimi where to potty is and to give her some privacy just in case she has to go potty.  So Chuckie does what he's told to do, and says follow me to the bathroom Kimi. So once inside the bathroom Chuckie says I'll be right outside the door if you need help. Who catches Kimi either already peeing like a boy or getting ready to pee like a boy?<br>\r\n<br>\r\n(a) Kira catches her and as she sits Kimi down on the potty she tells Kimi that only boys stand up to pee.<br>\r\n(b) Chaz catches her but does he correct her now or later because he's to busy focusing on making sure it at least goes in the potty.<br>\r\n(c) she asks Chuckie to help her get her pull up off, and Chuckie comes in and says as he pulls the pull up down but not off. Kimi you're a girl and girls don't have the same pee pee that boys have and so you need to sit on it just like how your mom does on the toilet. Does Kimi agree with Chuckie's reasons as to why she has to sit on the potty?<br>\r\n<br>\r\n</span></div></div>",
+            "created":1610129520,
+            "id":2971848,
+            "title":"Chuckie or Chaz and she starts thinking that sh..."
+        },
+        "121412":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Yes",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Kimi love wearing diapers too much to want to start potty-training?</span></div></span></div>",
+            "created":1610149320,
+            "id":2971975,
+            "title":"No"
+        },
+        "1214121":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do her parents know about Kimi not wanting to give up her diaper?</span></div></span></div>",
+            "created":1610150820,
+            "id":2971989,
+            "title":"Yes"
+        },
+        "12141211":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Were they supportive of Kimi's feelings in the matter?</span></div></span></div>",
+            "created":1610152320,
+            "id":2971998,
+            "title":"Yes"
+        },
+        "121412111":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Yes",
+                "No some other reason",
+                "Maybe just one of many reasons"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What was reason why they were supportive?<br>\r\n<br>\r\nWas it the fact that Chuckie was accidentally sending out mixed messages on how he felt about using the potty instead of his diaper?<br>\r\n</span></div></span></div>",
+            "created":1610152740,
+            "id":2972002,
+            "title":"Yes"
+        },
+        "1214121111":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do they hold off on potty-training Kimi until she lets them know <br>\r\nshe's really ready?</span></div></span></div>",
+            "created":1610159040,
+            "id":2972029,
+            "title":"Yes"
+        },
+        "12141211112":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Yes",
+                "No",
+                "Yes but only either Chuckie or Kimi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They decided to put Chuckie and Kimi on a strict no buts potty schedule. Did it do the trick?</span></div></span></div>",
+            "created":1610159400,
+            "id":2972037,
+            "title":"No"
+        },
+        "12141212":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Kira",
+                "Chaz",
+                "Chuckie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>They're having a hard enough time with getting Chuckie to ditch his diapers for good to notice that Kimi is just like Chuckie. Who eventually finds out about it though?</span></div></span></div>",
+            "created":1610152020,
+            "id":2971995,
+            "title":"No"
+        },
+        "1214122":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "(a)",
+                "(b)",
+                "(c)"
+            ],
+            "content":"<div class=\"\"><div> <span>Chuckie accidentally caused her to not want to learn the potty. How did he do it?<br>\r\n<br>\r\n(a) he would get so upset over his potty accidents that he would start saying I would rather go in my diaper than the potty.<br>\r\n(b) he kept reminiscing about how much he liked his diapers.<br>\r\n(c) he was her role model and if her role model prefers using their diaper over using the potty. Then that exactly what she'll want as well.</span></div></div>",
+            "created":1610150460,
+            "id":2971984,
+            "title":"Something else"
+        },
+        "124":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "1 1/2",
+                "8",
+                "12"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you 1 1/2 years old, 8 years old, 12 years old.</span></div></span></div>",
+            "created":1610769900,
+            "id":2976253,
+            "title":"Other"
+        },
+        "1241":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "The Simpson's",
+                "Family guy",
+                "Rugrats"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you?<br>\r\n<br>\r\nFrom the Simpson's<br>\r\nFrom family guy<br>\r\nFrom Rugrats</span></div></span></div>",
+            "created":1610770020,
+            "id":2976256,
+            "title":"1 & 1/2"
+        },
+        "12411":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Maggie",
+                "Ling"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you Maggie Simpson?<br>\r\nAre you Ling?</span></div></span></div>",
+            "created":1610771700,
+            "id":2976266,
+            "title":"The Simpson's"
+        },
+        "124111":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Yes so Bart and Lisa are reminded that they might need to help Maggie",
+                "No her preschool is down the road",
+                "Her preschool is behind the school, Maggie may need help from Bart and Lisa"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>First is Maggie's preschool attached to Springfield elementary.</span></div></span></div>",
+            "created":1611069660,
+            "id":2978041,
+            "title":"Maggie"
+        },
+        "1241113":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "The teachers at his old preschool have had it with him refusing to share the toy",
+                "He interrupts the teacher and asks to be taken to go potty but goes on the floor",
+                "Reader's choice"
+            ],
+            "content":"<div class=\"\"><div> <span>After Bart, Lisa, and Maggie get off the bus in front of Springfield elementary. Bart and Lisa take Maggie to her preschool. When they walk through the doors to the preschool, all of a sudden they're all shocked to see Stewie Griffin there. What did Stewie do at his last preschool that forced Lois and Peter to send him to this preschool? ( what he did is within the rating of this story)</span></div></div>",
+            "created":1611070440,
+            "id":2978046,
+            "title":"Her preschool is behind the school, Maggie may ..."
+        },
+        "12412":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Yes",
+                "Another one"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You're Susie Swanson baby girl that Stewie Griffin had a crush on.</span></div></span></div>",
+            "created":1610777280,
+            "id":2976302,
+            "title":"Family guy"
+        },
+        "12413":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Kimi",
+                "Lil"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Are you either?<br>\r\n<br>\r\nKimi or Lil</span></div></span></div>",
+            "created":1610777400,
+            "id":2976303,
+            "title":"Rugrats"
+        },
+        "124131":{
+            "author_id":"bluejaybishop",
+            "author_name":"BufordJr",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Would Kimi want to be potty-trained?</span></div></span></div>",
+            "created":1611038580,
+            "id":2977849,
+            "title":"Kimi"
+        },
+        "1241311":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "At home and getting ready for preschool",
+                "At Tommy's house getting ready to go to daycare with Tommy and their friends",
+                "At preschool/daycare does she meet Maggie Simpson or Susie Swanson first"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where is Kimi when she agreed to learning how to use the potty? If at a preschool/daycare center does she meet any girls here age from other cartoons?</span></div></span></div>",
+            "created":1611060540,
+            "id":2977979,
+            "title":"Yes"
+        },
+        "12413113":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Susie Swanson",
+                "Maggie Simpson",
+                "Both walk up to Kimi"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So as Kimi walks into the preschool with her mom Kira. One of the girls in her preschool walks up to her and her mom. Was it Maggie Simpson or Susie Swanson or did they both walk up to Kimi?</span></div></span></div>",
+            "created":1611064980,
+            "id":2978010,
+            "title":"At preschool/daycare does she meet Maggie Simps..."
+        },
+        "124131131":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Kira introduces herself and daughter to Susie Swanson",
+                "Kimi introduces herself and mom to Susie Swanson"
+            ],
+            "content":"<div class=\"\"><div> <span>Susie Swanson says. \"Hi I'm Susie Swanson and my dad is a police officer and I have and an older brother.\" Susie Swanson says. \"Well that's enough about me and so what's your and your mom's name.\" Does Kimi or Kira answer Susie Swanson's question?</span></div></div>",
+            "created":1611368760,
+            "id":2979929,
+            "title":"Susie Swanson"
+        },
+        "124131132":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Kira introduces herself and daughter to Maggie",
+                "Kimi introduces herself and mom to Maggie"
+            ],
+            "content":"<div class=\"\"><div> <span>Maggie Simpson says. \"Hi I'm Maggie Simpson and my dad works in a nuclear power plant and I have and an older brother and sister.\" Maggie then says. \"Me and my sister both have the same hair style.\" Maggie then says. \"Well that's enough about me and so what's your and your mom's name.\" Does Kimi or Kira answer Maggie's question?</span></div></div>",
+            "created":1611368520,
+            "id":2979927,
+            "title":"Maggie Simpson"
+        },
+        "124131133":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Maggie Simpson",
+                "Susie Swanson"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Who introduces themself first?</span></div></span></div>",
+            "created":1611368100,
+            "id":2979926,
+            "title":"Both walk up to Kimi"
+        },
+        "1241312":{
+            "author_id":"bluejaybishop",
+            "author_name":"BufordJr",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Kimi unwilling to give up her diapers?</span></div></span></div>",
+            "created":1611060660,
+            "id":2977980,
+            "title":"No"
+        },
+        "1242":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "(a)",
+                "(b)",
+                "(c)"
+            ],
+            "content":"<div class=\"\"><div> <span>You are Lisa Simpson and so how did the smart middle child of the Simpson household end up needing to be potty trained.<br>\r\n<br>\r\n(a) She tried to teach her self the potty but obviously did finish her training.<br>\r\n(b) Marge and Homer thought that since Lisa's so smart that she would learn the potty on her own.<br>\r\n(c) Marge and Homer let her learn everything on her own and whenever she wanted to learn it.</span></div></div>",
+            "created":1610771280,
+            "id":2976264,
+            "title":"8"
         },
         "13":{
             "author_id":"diokno44",
@@ -2725,8 +3363,8 @@
         "description":"<td align=\"left\" class=\"norm\">Bare Bottom Potty Training, an unconventional, though not entirely uncommon form of toilet training. Whether they be au naturel from the waist down (shoes and socks being an exception) or commando ubder their shorts/pants/skirts, follow these lads and lasses through their potty training adventures. </td>",
         "id":2198144,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1608171180,
-        "modified":1608171180,
+        "last_full_update":1611368760,
+        "modified":1611368760,
         "pretty_title":"Going Commando"
     }
 }

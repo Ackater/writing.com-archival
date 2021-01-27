@@ -436,6 +436,19 @@
             "id":2956056,
             "title":"Witch power"
         },
+        "11533411111":{
+            "author_id":"lordaizen",
+            "author_name":"Grimmjow",
+            "choices":[
+                "Scenario 1",
+                "Scenario 2",
+                "Scenario 3"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Why do they swap bodies?</span></div></span></div>",
+            "created":1610304660,
+            "id":2972942,
+            "title":"After"
+        },
         "115334112":{
             "author_id":"lordaizen",
             "author_name":"Grimmjow",
@@ -484,6 +497,158 @@
             "id":2956060,
             "title":"Witch power"
         },
+        "1153341132":{
+            "author_id":"lordaizen",
+            "author_name":"Grimmjow",
+            "choices":[
+                "Miyabi It\u00f4 ",
+                "Noa Takigawa",
+                "Haruko Nijino (Nancy)"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want Miyabi It\u00f4 or other characters?</span></div></span></div>",
+            "created":1610073180,
+            "id":2971603,
+            "title":"Reader\u2019s choice"
+        },
+        "11533411323":{
+            "author_id":"lordaizen",
+            "author_name":"Grimmjow",
+            "choices":[
+                "Haruko Nijino (Nancy) ",
+                "Saeko Fukazawa",
+                "Other characters "
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Do you want Haruko Nijino (Nancy) or other characters?</span></div></span></div>",
+            "created":1610073900,
+            "id":2971609,
+            "title":"Haruko Nijino (Nancy)"
+        },
+        "115334113233":{
+            "author_id":"lordaizen",
+            "author_name":"Grimmjow",
+            "choices":[
+                "Midori Arisugawa",
+                "Rika Saionji"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which character will it be</span></div></span></div>",
+            "created":1610073960,
+            "id":2971611,
+            "title":"Other characters "
+        },
+        "1153342":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Pok\u00e9mon",
+                "Digimon",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about one of these classic, yet still popular, anim\u00e8 series?</span></div></span></div>",
+            "created":1610692140,
+            "id":2975699,
+            "title":"A Couple of Classics"
+        },
+        "11533421":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A human",
+                "A Pok\u00e9mon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay; so you want characters from the Pok\u00e9mon anim\u00e9 to swap bodies, but will this character be a human, or a Pok\u00e9mon?</span></div></span></div>",
+            "created":1610692260,
+            "id":2975700,
+            "title":"Pok\u00e9mon"
+        },
+        "115334211":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Ash",
+                "Misty",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which human character will swap bodies?</span></div></span></div>",
+            "created":1610692380,
+            "id":2975701,
+            "title":"A human"
+        },
+        "1153342111":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Kanto",
+                "Johto",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which Region is Ash in when the swap happens?</span></div></span></div>",
+            "created":1610692440,
+            "id":2975703,
+            "title":"Ash"
+        },
+        "11533421113":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Hoenn",
+                "Sinnoh",
+                "Somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which other Region is he in?</span></div></span></div>",
+            "created":1610692500,
+            "id":2975705,
+            "title":"Other choices"
+        },
+        "115334211132":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A human",
+                "A Pok\u00e9mon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Okay; so you want Ash to swap bodies while he's in the Sinnoh Region, but does he swap bodies with a human, or (if you want to make things awkward) a Pok\u00e9mon?</span></div></span></div>",
+            "created":1610692620,
+            "id":2975706,
+            "title":"Sinnoh"
+        },
+        "1153342111322":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "A wild Pok\u00e9mon",
+                "A Trainer-owned Pok\u00e9mon"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will he swap bodies with a wild Pok\u00e9mon from the Region, or with a Pok\u00e9mon owned by a Trainer?</span></div></span></div>",
+            "created":1610692740,
+            "id":2975709,
+            "title":"A Pok\u00e9mon"
+        },
+        "11533421113222":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "One of his own Pok\u00e9mon",
+                "One of Dawn's Pok\u00e9mon",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Whose Pok\u00e9mon will he swap bodies with?</span></div></span></div>",
+            "created":1610692860,
+            "id":2975711,
+            "title":"A Trainer-owned Pok\u00e9mon"
+        },
+        "115334211132221":{
+            "author_id":"mrmasterplan",
+            "author_name":"MrMasterplan",
+            "choices":[
+                "Pikachu",
+                "Buizel",
+                "Other choices"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of his own Pok\u00e9mon on his Sinnoh team will Ash swap bodies with?</span></div></span></div>",
+            "created":1610692920,
+            "id":2975712,
+            "title":"One of his own Pok\u00e9mon"
+        },
         "13":{
             "author_id":"supreme123",
             "author_name":"Cardinal Priest",
@@ -496,6 +661,19 @@
             "created":1604206800,
             "id":2932675,
             "title":"Cartoon"
+        },
+        "131":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Tommy and Kimi",
+                "Phil and Lil",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which two will swap bodies?</span></div></span></div>",
+            "created":1610679180,
+            "id":2975617,
+            "title":"Rugrats."
         },
         "132":{
             "author_id":"yejdbdinsknsk8",
@@ -648,6 +826,18 @@
             "created":1604206800,
             "id":2932679,
             "title":"Movies"
+        },
+        "145":{
+            "author_id":"likelybigfoot",
+            "author_name":"LikelyBigfoot22",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How about star wars</span></div></span></div>",
+            "created":1609865940,
+            "id":2970161,
+            "title":"Another movie"
         },
         "15":{
             "author_id":"supreme123",
@@ -912,6 +1102,35 @@
             "created":1604638800,
             "id":2935750,
             "title":"Video games, or other ideas."
+        },
+        "15331":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Super Mario Bros.",
+                "Sonic the Hedgehog",
+                "Kirby",
+                "Rocket Knight Adventures",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What video game shall we go with?</span></div></span></div>",
+            "created":1610761620,
+            "id":2976156,
+            "title":"Video Games"
+        },
+        "153314":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Sparkster",
+                "Princess Sherry",
+                "Axel Gear",
+                "Someone Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You have chosen <i>Rocket Knight Adventures</i>. Now, which character swaps bodies with another character?</span></div></span></div>",
+            "created":1610761680,
+            "id":2976157,
+            "title":"Rocket Knight Adventures"
         }
     },
     "info":{
@@ -922,8 +1141,8 @@
         "description":"<td align=\"left\" class=\"norm\">This story is about our main character swapping bodies with other people because of various conditions.<br>\r\nMultiple main characters will be available and will be described in the character selection, feel free to suggest any additional characters.<br>\r\nSide characters can be added as you wish as long as their inclusion fits the character and story, some side characters (like girlfriends or family members) could be predetermined within descriptions as well.<br>\r\n<br>\r\nHave fun with the story without many limitations, just the usual stuff like no unnecessary deaths or gore, keep it fun for everyone (above 18 at least).<br>\r\nMake sure you keep the swaps descriptive and interesting, sex is fine, but don't overuse it as it is not the main focus of the story.<br>\r\nAs well as this, try to make sure the chapters stay interesting and different, chapter which contradict previous chapters may be deleted if it creates too much confusion.<br>\r\n<br>\r\nTry to write decently sized chapters, after the first few branches do not create chapters containing only a few sentences , these will be deleted if they get out of hand.<br>\r\nThe style of writing will be in third person, please keep this theme throughout the story.</td>",
         "id":2236717,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1607824680,
-        "modified":1607824680,
+        "last_full_update":1610761680,
+        "modified":1610761680,
         "pretty_title":"Fictional body swap stories "
     }
 }

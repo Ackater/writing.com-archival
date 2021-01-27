@@ -888,6 +888,30 @@
             "id":2961797,
             "title":"Synth reclamation"
         },
+        "14132311":{
+            "author_id":"carrier",
+            "author_name":"carrier",
+            "choices":[
+                "press on to Innocence Station",
+                "pay the Brotherhood a visit"
+            ],
+            "content":"<div class=\"\"><div> <span>You teleport the surface, wincing at the bright sun as your eyes adjust, taking in the sight of Boston's shattered streets. You can already hear the distant roar of combat, faint sounds of gunshots and energy weapons, the occasional thunder of explosions. Others might've been troubled but, you? You've long enough on the surface that the sounds seemed like the Commonwealth welcoming you back to the world.<br>\r\n<br>\r\nYou quickly set off, dodging groups of feral ghouls, super mutants, gunners, and raiders alike as you push to the Police Station. You could take them, probably, but drawing undue attention yourself was never a good idea, nor was the risk of damage worth the admittedly pleasant adrenaline rush you got when cleaning up a group of hostiles. <br>\r\n<br>\r\nOn the way, you check out a number of the old Railway shelters and safe houses, checking for any sight for N7 or any hint of her presence, but no dice. You even take a detour to Kendall Hospital but find nothing of note. That's when it hits you, N7-49 was incontinent, and you doubted she had more than a single diaper when she made her escape. You knew that there was an old diaper factory, <i>Innocence Station</i>, located not far from the Corvega Assembly Plant, just a bit north of the big road that led to Bunker Hill.<br>\r\n<br>\r\nIt wasn't much, but it was a lead, a valuable one.<br>\r\n********<br>\r\n<br>\r\nAs you come within sight of the Police station, you notice something different from the last time you were here. People were occupying the station, and not just petty raiders or scavengers, looking through your rifle's sights, it takes you a moment to remember one of your briefs.<br>\r\n<br>\r\nBrotherhood of Steel.<br>\r\n<br>\r\nYou had heard that were creeping their way to the Commonwealth, but you hadn't had the pleasure of meeting them, yet. You could pay them a visit, take them out, ask them about N7, or even try and gather what information you could, but you knew that if you did that, N7 would get closer to Bunker Hill, and you shuddered at the thought of her skills being placed at the Railroads disposal.<br>\r\n<br>\r\nYou mull it over for a few more minutes before you make your choice, and decide to</span></div></div>",
+            "created":1609748700,
+            "id":2969327,
+            "title":"The Police Station, she can't be that darin..."
+        },
+        "141323111":{
+            "author_id":"carrier",
+            "author_name":"carrier",
+            "choices":[
+                "sweep the building",
+                "head for Bunker Hill, but not before gathering some supplies."
+            ],
+            "content":"<div class=\"\"><div> <span>Ultimately, it was hardly a choice at all. Deftly skirting the edges of the Police Station, you pressed on past the Brotherhood and towards Innocence Station.  <br>\r\n<br>\r\nIt doesn't long before you skirt you're way past the road and around the raiders, ghouls, and other scum. Making your way past the town of Lexington, walking along forgotten trails and ill-used all-ways, you come within sight of your destination. <br>\r\n<br>\r\nNot much has changed since you last visited Innocence Station, its bright, if worn, exterior seeming as ever-present as ever. The structures' domineering presence and unique product line having attracted many would-be scavengers and ambitious bandits. The last time you were here, you even had to expel a group of all-female raiders who had taken to wearing the building's product line as their symbol. Shooting their leader and convincing the rest of them to beat feet elsewhere, their diapers sagging between their legs.<br>\r\n<br>\r\nThat reminded you, pressing your hand between your legs in an impromptu diaper check; dry, for now. Removing your hand and taking one last glance at the diaper factory, you pressed on inside.<br>\r\n<br>\r\n**********************<br>\r\n<br>\r\nYou haven't been gone from here long, after all, your last mission was only a few days ago, but as you made your way through to building, you could already see the signs of a trespasser. Hacked doors, tampered terminals, missing meds, all done too cleanly to be simple scavengers or wanderers. If you didn't know any better, you'd think another Courser would've been here, which meant that N7 was a former, if not a current resident of the building.<br>\r\n<br>\r\nAs you made your way to the top floor, your informal office, you wondered about your next course of action. N7 had been here, the question on your mind was whether or not she was gone. You weighed the two options in your head, either you could either presume N7 was already gone, grab some supplies and try to cut her off at Bunker Hill, or assume she was still in Innocence Station and methodically sweep the building. <br>\r\n<br>\r\nSweeping would take time but would clear out Innocence Station as a possible hideout. The other would help you catch up with N7, assuming she was gone but might leave her right under your nose. But, your mind interrupted, Bunker Hill was her ultimate destination, right? So whether she was here or not didn't matter as long as you could cut her off at her objective. <br>\r\n<br>\r\nDeciding to...<br>\r\n<br>\r\n</span></div></div>",
+            "created":1610872980,
+            "id":2976864,
+            "title":"press on to Innocence Station"
+        },
         "142":{
             "author_id":"tripleb6",
             "author_name":"StarWars13",
@@ -1168,6 +1192,71 @@
             "created":1514955600,
             "id":2436410,
             "title":"Someone from a DLC"
+        },
+        "1513":{
+            "author_id":"tripleb6",
+            "author_name":"StarWars13",
+            "choices":[
+                "One of the raiders",
+                "Someone else in the parks",
+                "Someone else entirely"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>And who in nuka-world is getting this special treatment?</span></div></span></div>",
+            "created":1609616880,
+            "id":2968393,
+            "title":"Nuka-World"
+        },
+        "15131":{
+            "author_id":"tripleb6",
+            "author_name":"StarWars13",
+            "choices":[
+                "The disciples",
+                "The operators",
+                "The pack"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A raider, but from which gang?</span></div></span></div>",
+            "created":1609616940,
+            "id":2968394,
+            "title":"One of the raiders"
+        },
+        "151313":{
+            "author_id":"tripleb6",
+            "author_name":"StarWars13",
+            "choices":[
+                "A named raider",
+                "A new female raider",
+                "A new male raider"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So a member of the pack is getting diapered? Who will it be?</span></div></span></div>",
+            "created":1609632420,
+            "id":2968492,
+            "title":"The pack"
+        },
+        "1513132":{
+            "author_id":"tripleb6",
+            "author_name":"StarWars13",
+            "choices":[
+                "Kate",
+                "Lena",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><div> <span>So, now that we know generally whats going on, what is this raider's story?<br>\r\n<br>\r\n<br>\r\nThe story follows:<br>\r\n<br>\r\nKate: A high ranking pack member who found an interesting cache in kiddy kingdom<br>\r\n<br>\r\nLena: A young pack member going through punishment<br>\r\n<br>\r\nSomeone else</span></div></div>",
+            "created":1609632480,
+            "id":2968495,
+            "title":"A new female raider"
+        },
+        "15131322":{
+            "author_id":"tripleb6",
+            "author_name":"StarWars13",
+            "choices":[
+                "Have to go on patrol in what you're wearing",
+                "Are gonna have to fight to prove yourself in the cage",
+                "Are going to be 'dancing' for the others"
+            ],
+            "content":"<div class=\"\"><div> <span>\"Please don't do this, I'm dedicated!\" You plead to the near naked raider standing in front of you who's name you never caught.<br>\r\n<br>\r\n\"Sorry sweetheart, this puppy still needs her house training!\" She says with a vindictive laugh as she walks away, leaving you with nothing on your person but a diaper covered in paint.<br>\r\n<br>\r\nIt all started about a week ago, only a week after you joined the pack in the first place, you were on a raid of a caravan when your team came across a woman, not fighting back. At first you decided to let her go, but the pack didn't seem to agree with that as they disposed of her as she ran away from you. Even more humiliating was how absolutely soaked your pants were after your body went through the shock of it all. Letting prey get away was one thing, but embarrassing yourself in front of the pack like that? Something else entirely. <br>\r\n<br>\r\nWhich leads you here, a diaper so thick you're waddling, and a cage in the middle of the Zoo such that anyone can see you. This isn't even the half of it, your real punishment starts tonight when you...</span></div></div>",
+            "created":1609632840,
+            "id":2968507,
+            "title":"Lena"
         },
         "152":{
             "author_id":"tripleb6",
@@ -2556,8 +2645,8 @@
         "description":"<td align=\"left\" class=\"norm\">Take the roll of someone in Fallout and diaper them<br>\r\n<br>\r\nThe Rules:<br>\r\n-No Killing<br>\r\n-Sex is permitted<br>\r\n-Please write at least a paragraph, unless you need to get more information about something before proceeding<br>\r\n-Have fun!</td>",
         "id":2067449,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1608668100,
-        "modified":1608668100,
+        "last_full_update":1610872980,
+        "modified":1610872980,
         "pretty_title":"Fallout 4 in Diapers"
     }
 }

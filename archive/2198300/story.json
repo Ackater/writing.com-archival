@@ -551,6 +551,282 @@
             "id":2912891,
             "title":"Mrs. Winters"
         },
+        "11113":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "His Mom",
+                "His Dad"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Which of Nathan's parents was picking him up from daycare?</span></div></span></div>",
+            "created":1610246640,
+            "id":2972630,
+            "title":"Being picked up from daycare."
+        },
+        "111131":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Their House",
+                "A Store",
+                "The Park",
+                "Somewhere Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mrs. Douglas had picked Nathan up from daycare. She had secured him into his car seat.<br>\r\n<br>\r\n<b>Where were Nathan and his mom going?</b></span></div></span></div>",
+            "created":1610332680,
+            "id":2973231,
+            "title":"His Mom"
+        },
+        "1111311":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Awake",
+                "Asleep"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mrs. Douglas didn't have anywhere else she needed to go today, so she decided to take herself and Nathan home.<br>\r\n<br>\r\n<b>When they got home, was Nathan awake or asleep?</b></span></div></span></div>",
+            "created":1610398320,
+            "id":2973660,
+            "title":"Their House"
+        },
+        "11113112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Clean",
+                "Dirty",
+                "Wet",
+                "Dirty and Wet"
+            ],
+            "content":"<div class=\"\"><div> <span>By the time Mrs. Douglas had gotten home, Nathan had fallen asleep. The soft, rocking motion of the car, combined with the purring engine had made Nathan feel tired.<br>\r\n<br>\r\n\"Come on, sleepyhead.\" Mrs. Douglas said as she unbuckled Nathan from his car seat. After she took him out, she decided to check his diaper to see if it needed to be changed.<br>\r\n<br>\r\n<b>Was Nathan's diaper clean, or did it need to be changed?</b></span></div></div>",
+            "created":1610398500,
+            "id":2973663,
+            "title":"Asleep"
+        },
+        "111131123":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Mrs. Douglas Changes Nathan's Diaper Now",
+                "Mrs. Douglas Waits Until Nathan Wakes Up"
+            ],
+            "content":"<div class=\"\"><div> <span>When Mrs. Douglas checked Nathan's diaper, she found it was wet. It wasn't soaking wet, but it was just wet enough to have been absorbed by the diaper's padding.<br>\r\n<br>\r\n\"Should I change you?\" Mrs. Douglas wondered.<br>\r\n<br>\r\n<b>Does Mrs. Douglas decide to change Nathan's diaper now, or after he wakes up from his nap?</b></span></div></div>",
+            "created":1610398620,
+            "id":2973665,
+            "title":"Wet"
+        },
+        "1111311232":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Nathan Has a Dream",
+                "Nathan Wakes Up a Short Time Later",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Mrs. Douglas didn't want to wake up Nathan, as he was sleeping so peacefully. She figured he should be okay until he woke up from his nap, so she decided to change his diaper afterwards. She carried him into her house, and took him into his bedroom. She lay him down in his big boy bed and tucked him in.<br>\r\n<br>\r\n\"Sweet dreams, Nathan.\" she said after she kissed him. She then left to let him sleep.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1610398740,
+            "id":2973666,
+            "title":"Mrs. Douglas Waits Until Nathan Wakes Up"
+        },
+        "11113112322":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, Only Wet"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>A short time later, Nathan woke up from his nap. He noticed that his diaper was wet and needed to be changed.<br>\r\n<br>\r\n<b>Was it dirty as well?</b></span></div></span></div>",
+            "created":1610413380,
+            "id":2973771,
+            "title":"Nathan Wakes Up a Short Time Later"
+        },
+        "111131123222":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Merely Damp",
+                "Soaked"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was Nathan's diaper merely damp like before, or was it soaked?</span></div></span></div>",
+            "created":1610492340,
+            "id":2974308,
+            "title":"No, Only Wet"
+        },
+        "1111311232221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Nathan's Mom Comes in To Change His Diaper",
+                "Nathan Has to Go Potty",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Fortunately for Nathan, his diaper was still merely damp like it was when he and his mom got home.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></span></div>",
+            "created":1610851260,
+            "id":2976755,
+            "title":"Merely Damp"
+        },
+        "11113112322211":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Mrs. Douglas Tries to Put a Clean Diaper on Nathan",
+                "Nathan Tells His Mom He Needs to Go Potty",
+                "Something Else"
+            ],
+            "content":"<div class=\"\"><div> <span>Just then, Mrs. Douglas came up.<br>\r\n<br>\r\n\"Rise and shine, sleepyhead.\" she told Nathan. Now that he was awake, she was going to change his wet diaper so he wouldn't get a rash.<br>\r\n<br>\r\n\"Okay, Nathan, let's get that wet diaper off.\" said Mrs. Douglas. She picked him up out of his big boy bed and lay him down on his changing table. She pulled up his shirt, untaped his wet diaper, slipped it off, and tossed it in the diaper pail.<br>\r\n<br>\r\n<b>What happens next?</b></span></div></div>",
+            "created":1611024720,
+            "id":2977776,
+            "title":"Nathan's Mom Comes in To Change His Diaper"
+        },
+        "111131123222111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Nathan hold still as his mom put a clean diaper on him?</span></div></span></div>",
+            "created":1611502740,
+            "id":2980937,
+            "title":"Mrs. Douglas Tries to Put a Clean Diaper on Nathan"
+        },
+        "111131123222112":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Pee",
+                "Poop",
+                "Pee and Poop"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Nathan have to pee, poop, or both?</span></div></span></div>",
+            "created":1611517320,
+            "id":2981057,
+            "title":"Nathan Tells His Mom He Needs to Go Potty"
+        },
+        "1111311232221121":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Take Nathan to the Bathroom",
+                "Put a Clean Diaper On Nathan's Bottom",
+                "Tell Nathan to Hold It"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>\"Uh-oh, Mommy, I gotta pee!\" Nathan told his mom.<br>\r\n<br>\r\n<b>What does Mrs. Douglas do?</b></span></div></span></div>",
+            "created":1611539520,
+            "id":2981228,
+            "title":"Pee"
+        },
+        "1111311232221122":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "Set him on his training potty",
+                "Put his used diaper under his bum",
+                "Tell him to hold it"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What does she do?</span></div></span></div>",
+            "created":1611531840,
+            "id":2981176,
+            "title":"Poop"
+        },
+        "11113112322211221":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Mrs. Douglas took Nathan to the bathroom and sat him down on his training potty.<br>\r\n<br>\r\n<b>Did she give him some privacy?</b></span></div></span></div>",
+            "created":1611532380,
+            "id":2981180,
+            "title":"Set him on his training potty"
+        },
+        "111131123222112211":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "Yes",
+                "No",
+                "Yee, just not on the potty"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>She exited the bathroom. Did he poop?</span></div></span></div>",
+            "created":1611533160,
+            "id":2981184,
+            "title":"Yes"
+        },
+        "1111311232221122111":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "He Wiped His Own Bottom",
+                "He Called For His Mom to Wipe His Bottom"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Nathan grunted as he pooped in his potty, then he sighed with relief.<br>\r\n<br>\r\n<b>When he was all done pooping, did Nathan wipe his own bottom, or did he call for his mom to wipe his bottom?</b></span></div></span></div>",
+            "created":1611539940,
+            "id":2981233,
+            "title":"Yes"
+        },
+        "1111311232221122113":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Yes",
+                "No, somewhere else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Nathan accidentally poop on the floor?</span></div></span></div>",
+            "created":1611533880,
+            "id":2981189,
+            "title":"Yes, just not on the potty"
+        },
+        "11113112322211221132":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "On, but not in his potty",
+                "In his new PullUp"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where then?</span></div></span></div>",
+            "created":1611534000,
+            "id":2981191,
+            "title":"No, somewhere else"
+        },
+        "111131123222113":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Got peed on",
+                "Mrs. Douglas was prepared and quickly covered his pee pee"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>All of a sudden Nathan says uh-oh mommy as he feels his bladder emptying while he's get his diaper changed. Does Mrs. Douglas get peed on or did she have a baby wipe ready just in case she needed to cover his pee pee and avoid getting peed on?</span></div></span></div>",
+            "created":1611025200,
+            "id":2977780,
+            "title":"Something Else"
+        },
+        "11113112322212":{
+            "author_id":"bryanmchunter",
+            "author_name":"FlyingDuckManGenesis",
+            "choices":[
+                "Pee",
+                "Poop",
+                "Pee and Poop"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Does Nathan have to pee, poop, or both?</span></div></span></div>",
+            "created":1610851320,
+            "id":2976756,
+            "title":"Nathan Has to Go Potty"
+        },
+        "1111311232222":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But was it soaked enough that it started to leak?</span></div></span></div>",
+            "created":1610493600,
+            "id":2974313,
+            "title":"Soaked"
+        },
         "112":{
             "author_id":"chrisern",
             "author_name":"ShadowBlade",
@@ -861,6 +1137,19 @@
             "created":1569128400,
             "id":2722021,
             "title":"Sitting on the potty."
+        },
+        "11224113":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Immediately upon standing up",
+                "On the way to the car. Does he have his pull up pulled up?",
+                "On the ride to preschool. Does he keep his pull up pulled up?"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>When does Cole have his potty accident?</span></div></span></div>",
+            "created":1610133600,
+            "id":2971879,
+            "title":"Gets up"
         },
         "112243":{
             "author_id":"chrisern",
@@ -1538,6 +1827,19 @@
             "id":2912809,
             "title":"Yes"
         },
+        "121112111":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Hated the potty",
+                "Loved the potty",
+                "Neither hated or loved the potty"
+            ],
+            "content":"<div class=\"\"><div> <span>She noticed some of her classmates were doing the pee pee themselves. So she immediately decided to ask if they could help her go potty.  Were these classmates the type that hated the potty?  Were these classmates the type that loved the potty? Were these classmates the type that neither hated or loved the potty? </span></div></div>",
+            "created":1610131620,
+            "id":2971857,
+            "title":"Pupil"
+        },
         "12111212":{
             "author_id":"bryanmchunter",
             "author_name":"FlyingDuckManGenesis",
@@ -1832,6 +2134,19 @@
             "id":2916124,
             "title":"Mrs. Summers, strict with potty training"
         },
+        "12111222":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "(a)",
+                "(b)",
+                "(c)"
+            ],
+            "content":"<div class=\"\"><div> <span>She sees three really great hiding spots to go potty. What are the potty spots and does someone see her or is someone already using that spot?<br>\r\n<br>\r\n(a) the coat closet and so she waits till her mom leaves before going potty. Who catches her going potty?<br>\r\n(b) the toy chest and so she runs over to the toy chest. When she gets there is someone already inside the toy chest? If not does someone walk over to the toy chest while she's inside it?<br>\r\n(c) she can't seem to find somewhere to hide in, and so she decided to stand behind a classmate and poop. Did she keep her shorts and pull up on?</span></div></div>",
+            "created":1610131080,
+            "id":2971854,
+            "title":"Go potty somewhere"
+        },
         "12112":{
             "author_id":"mouse108",
             "author_name":"Dark Queen",
@@ -1845,6 +2160,32 @@
             "id":2912807,
             "title":"Alex"
         },
+        "121121":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Yes",
+                "No finishes going potty on the floor",
+                "No finishes on the floor while playing with either classmates or toys"
+            ],
+            "content":"<div class=\"\"><div> <span>Does she stay on the potty until she's completely done using it? If not does she just stand up and continue going on the floor or does she run off to play, but ends up finishing going potty while she's playing with either some toys or some classmates.</span></div></div>",
+            "created":1610132700,
+            "id":2971869,
+            "title":"In the middle of using the potty"
+        },
+        "121122":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "(a)",
+                "(b)",
+                "(c)"
+            ],
+            "content":"<div class=\"\"><div> <span>In being tomboy-ish and hating diaper changes. Did she retaliate during the diaper change?  If so how did she retaliate?<br>\r\n<br>\r\n(a) no but she did immediately remove her diaper and ran off to go potty but where.<br>\r\n(b) yes she kicked, hit, and screamed at the person changing her.<br>\r\n(c) yes as her diaper was being changed she got an immediately urge to pee, and so she did just that. It started out as a few squirts of urine on the person who was changing her diaper, but it soon became a powerful stream of urine.</span></div></div>",
+            "created":1610132400,
+            "id":2971866,
+            "title":"In the middle of a diaper change"
+        },
         "12114":{
             "author_id":"johnny2",
             "author_name":"littlejohn",
@@ -1856,6 +2197,67 @@
             "created":1601614800,
             "id":2913879,
             "title":"Other"
+        },
+        "121142":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Yes",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe Kimi Finster from \"Rugrats?\"</span></div></span></div>",
+            "created":1610248140,
+            "id":2972639,
+            "title":"Someone else"
+        },
+        "1211421":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Chuckie",
+                "Either Tommy, Phil, or Lil",
+                "Angelica or Susie"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>But is she the only character from Rugrats? Who also is there with her?</span></div></span></div>",
+            "created":1610248320,
+            "id":2972640,
+            "title":"Yes"
+        },
+        "12114211":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is Chuckie here as support for Kimi?</span></div></span></div>",
+            "created":1610252220,
+            "id":2972667,
+            "title":"Chuckie"
+        },
+        "121142111":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Kimi want to be potty-trained?</span></div></span></div>",
+            "created":1610252880,
+            "id":2972673,
+            "title":"Yes"
+        },
+        "1211421112":{
+            "author_id":"bluejaybishop",
+            "author_name":"BufordJr",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Is anyone else aware of Kimi not wanting to give up diapers?</span></div></span></div>",
+            "created":1610851620,
+            "id":2976763,
+            "title":"No"
         },
         "1212":{
             "author_id":"mouse108",
@@ -2126,6 +2528,31 @@
             "id":2703620,
             "title":"Pre-Training: Diapers and learning the ropes"
         },
+        "13111":{
+            "author_id":"salsache",
+            "author_name":"SalsaCheesecake",
+            "choices":[
+                "Reading a \"baby book\"",
+                "Stuck in line for the potty, desperately holding it"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Trevor was a big bull boy, he aspired so much to be like his big sister who had recently gotten potty trained, but hes still stuck in diapers, at daycare Trevor was </span></div></span></div>",
+            "created":1610427900,
+            "id":2973914,
+            "title":"Trevor, a bull who's desire for independenc..."
+        },
+        "131112":{
+            "author_id":"diokno44",
+            "author_name":"Filipino4-ever",
+            "choices":[
+                "Pee heavily",
+                "Poop heavily",
+                "Pee and Poop Heavily"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Trevor was desperate to...</span></div></span></div>",
+            "created":1610440020,
+            "id":2973988,
+            "title":"Stuck in line for the potty, desperately holdin..."
+        },
         "13112":{
             "author_id":"rm6932",
             "author_name":"Danshi",
@@ -2207,6 +2634,19 @@
             "created":1584334800,
             "id":2802426,
             "title":"Other option?"
+        },
+        "13112132":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Sasha",
+                "The lamb girl",
+                "Someone else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>While he was peeing behind the bookshelf. Who came over and also went potty?</span></div></span></div>",
+            "created":1610463540,
+            "id":2974139,
+            "title":"\u2026decided to pee behind the bookshelf."
         },
         "13112134":{
             "author_id":"diokno44",
@@ -2352,6 +2792,19 @@
             "id":2811651,
             "title":"Agrees"
         },
+        "131121342211":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Yes",
+                "No",
+                "Maybe just one of them does"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>I always wondered why the stuffies smelled like potty.  Do Sasha and Noah go potty while inside the pile of stuffies?</span></div></span></div>",
+            "created":1610463840,
+            "id":2974140,
+            "title":"Stuffie Pile"
+        },
         "131121342213":{
             "author_id":"diokno44",
             "author_name":"Filipino4-ever",
@@ -2415,6 +2868,44 @@
             "created":1584421200,
             "id":2802779,
             "title":"Try and ignore Ryan."
+        },
+        "131121352":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Randall saw him and told the teacher",
+                "Sasha also had to pee and so she showed him her best spots to pee where",
+                "Sammy a little lamb girl needed to pee and so she walked over to Noah by a tree"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Where did Noah go potty once outside and did anyone either see him or join him while he went potty?</span></div></span></div>",
+            "created":1610464440,
+            "id":2974143,
+            "title":"Go outside to pee."
+        },
+        "131123":{
+            "author_id":"salsache",
+            "author_name":"SalsaCheesecake",
+            "choices":[
+                "BOO! A little lamb girl, who is it, finds him, and this causes him to pee himsel",
+                "The lamb girl misses him, but he still has to pee"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Noah and friends were playing hide and seek in the castle, he was runnimg around, his diaper crinkling under him, a little scared and excited, he hides behind a corner when..</span></div></span></div>",
+            "created":1610428140,
+            "id":2973915,
+            "title":"\u2026hiding from his classmates in the top room o..."
+        },
+        "1311231":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Yes",
+                "No but he only got himself and the floor wet",
+                "No and so Noah peed himself and it not only got on the floor but also Sammy"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Did Noah still have his diaper on when Sammy the lamb girl found him. Who got peed on?</span></div></span></div>",
+            "created":1610465220,
+            "id":2974148,
+            "title":"BOO! A little lamb girl, who is it, finds him, ..."
         },
         "13113":{
             "author_id":"diokno44",
@@ -2543,6 +3034,19 @@
             "created":1571115600,
             "id":2733088,
             "title":"At Sunny Skies"
+        },
+        "1312121":{
+            "author_id":"cartoonfanfic",
+            "author_name":"Fanfics",
+            "choices":[
+                "Pee",
+                "Poop",
+                "Pee and poop"
+            ],
+            "content":"<div class=\"\"><div> <span>His teacher had changed him into a pull up. After he had a pull up he went off to play with his friends. So after awhile one by one his friends said that they had to go potty, and so Joshua watched his friends all run off to use the potty. When all of a sudden just as his friends returned from using the potty, Joshua on the other hand had what kind of potty accident in his pull up as his friends ask him if he had to go potty. What was the potty accident in Joshua's pull up?</span></div></div>",
+            "created":1610465760,
+            "id":2974150,
+            "title":"Pull-Ups."
         },
         "132":{
             "author_id":"diokno44",
@@ -2971,8 +3475,8 @@
         "description":"<td align=\"left\" class=\"norm\">Welcome to Sunny Skies! Here at this prestigious institution they aim to help boys and girls ditch the diapers and move on to the toilet ane big kid underwear. Follow the ups snd downs of training with the staff and students.</td>",
         "id":2198300,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1608179220,
-        "modified":1608179220,
+        "last_full_update":1611025200,
+        "modified":1611539940,
         "pretty_title":"Sunny Skies Potty Training Academy"
     }
 }

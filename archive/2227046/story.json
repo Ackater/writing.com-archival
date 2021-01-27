@@ -97,7 +97,7 @@
         },
         "11255":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "\"The party I'm with could use another spellcaster. You interested?\"",
                 "\"I plan to visit my grandson. Seems he's a Fighter that uses Magic.\"",
@@ -123,6 +123,34 @@
             "id":2964270,
             "title":"Taverns and Temptations"
         },
+        "1125553":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF",
+            "choices":[
+                "You make it to Arnin's.",
+                "You get attacked by someone",
+                "Arnin's not home.",
+                "Someone already got to Arnin",
+                "You encounter Arnin"
+            ],
+            "content":"<div class=\"\"><div> <span>That was when there was a knocking on your door.<br>\r\n<br>\r\nYou walked up to it, opened it just a crack, and looked out. There was Wabu.<br>\r\n<br>\r\n\"Mind if I come in?\" the tortle asked.<br>\r\n<br>\r\n\"Come right in,\" you said. \"I want to talk to you about something anyways.\"<br>\r\n<br>\r\nThe tortle came in, and sat in a chair. \"Really?\"<br>\r\n<br>\r\n\"Yes, something strange happened when you were talking to the dwarf,\" you said. \"Some woman stopped time, and offered me an interesting job, of taking Arnin to the temple of Beliha. Offered me whatever I wanted.\"<br>\r\n<br>\r\nWabu's eyes widened. \"Why didn't you tell me this earlier? Beliha is a Demoness! The Corruptor is what she's called. Come on!\" He stood up.<br>\r\n<br>\r\n\"What?\" you asked.<br>\r\n<br>\r\n\"One of Arnin's first jobs was taking out one of her cults,\" said Wabu. \"One of the things he supposedly took as loot was a necklace belonging to the High Priestess. I think I have just the spell to reveal the truth of the matter.\"<br>\r\n<br>\r\n\"What do you mean?\" you asked.<br>\r\n<br>\r\n\"Pass me something that belonged to someone else,\" said Wabu.<br>\r\n<br>\r\nYou took out the dagger your father had given you, and passed it to the tortle.<br>\r\n<br>\r\nIn an instant, the room changed, and you found yourself, and Wabu, back at your place of birth, up on a hill overlooking your home.<br>\r\n<br>\r\n\"What is this?\" you asked.<br>\r\n<br>\r\n\"Items have a memory of sorts,\" said Wabu. \"Watch.\"<br>\r\n<br>\r\nYou watched as a version of you walked out the door, along with your parents. You watched as your mother handed you a packet that memory reminded you to be one of traveler's food, and you watched as your father handed you his dagger, the very one Wabu was holding.<br>\r\n<br>\r\n\"This is the day I left home,\" you said.<br>\r\n<br>\r\n\"Yes,\" Wabu said. \"You ought to visit them. Never forget where you came from.\" He handed the dagger back to you, and the scene changed back to the room. \"That was the Moment of Transfer spell. With this spell, and the High Priestess's necklace, we can see just how the transfer occurred. Did he take it from her dead body as he has claimed for decades, or did she seduce him, and give it freely?\"<br>\r\n<br>\r\nFor a moment, you stared at your dagger, somewhat stuck in the memory of when you'd left home.<br>\r\n<br>\r\n\"You hear me?\"<br>\r\n<br>\r\nYou looked up at Wabu. \"Oh, sorry.\" You sheathed your dagger. \"I was thinking about things.\"<br>\r\n<br>\r\nWabu smiled. \"I understand. Now, let's go and face Arnin. We might be able to save his life.\"<br>\r\n<br>\r\n\"I thought that you wanted to expose him for corruption?\" you asked.<br>\r\n<br>\r\n\"Live fools can repent,\" said Wabu. \"Dead ones can't.\"</span></div></div>",
+            "created":1609714860,
+            "id":2968976,
+            "title":"An Alternative Option"
+        },
+        "11255531":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Confess",
+                "Attack you and Wabu",
+                "Run "
+            ],
+            "content":"<div class=\"\"><div> <span>Teleporting back to the Inn, the two of you ask the innkeeper if he's heard anything about where Arnin might be. Luckily, he has, and tells you he's most likely still in town somewhere. You and Want split up and scour the city for hours, finally finding him by pure chance in the city square. He had his back turned to you, examining the local quest board.<br>\r\n<br>\r\nYou call out to him, and he turns to see who it is, a smile on his face. \"Ah, hello again, my friend! How are things? Take on your first quest yet?\" You nod. \"In a sense, I am on a quest now, just not an official one. A quest to save you.\" <br>\r\n<br>\r\nThis only confuses Arnin. \"Save me? From what?\" <br>\r\n<br>\r\n\"From the consequences of foolish decisions of your past.\" Wabu spoke up. Until now, Armin had not noticed him. \"Wabu? Is that you?\" The tortle nodded. \"Why, it's been ages since I've seen you, my old friend! I still remember our first quest together!\" Wabu scowled grimly \"Funny you should say that. I remember our first quest too, except for one very important thing. How it ended.\" <br>\r\n<br>\r\nAt this, Armin became visibly nervous. \"What do you mean?\" He asked, trying his best to not stutter. \"I can't remember what happened at the end of our first quest.\" Wabu repeated. \"I remember you, I and the other members of our party had a High Priestess of the Cult of Beliha at our mercy, then everything is just blank from there.\" \"No offense, my friend, bit I think your age is starting to get the better of you.\" <br>\r\n<br>\r\n\"Actually, I have spoken with several former party members of yours, and they all said the same thing. They couldn't remember how their adventures ended either. It's the strangest thing, isn't it?\" Says Wabu with more than a bit of sarcasm. \"But, perhaps you can explain why that is?\" At these words, Armin suddenly decided to...</span></div></div>",
+            "created":1609724340,
+            "id":2969095,
+            "title":"Confrontation"
+        },
         "113":{
             "author_id":"jfoxx",
             "author_name":"Johnny Foxx",
@@ -140,7 +168,7 @@
         },
         "1133":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Oath of Death",
                 "Oath of Light",
@@ -155,7 +183,7 @@
         },
         "11331":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Stayed True to Oath of Death",
                 "Switched to another Oath",
@@ -170,7 +198,7 @@
         },
         "113311":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Decided to move, and let the half-orc barbarian pass",
                 "Summoned Jim, Jeb, and Juanita",
@@ -185,7 +213,7 @@
         },
         "1133111":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "She accepts",
                 "She declines",
@@ -200,7 +228,7 @@
         },
         "11331113":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Cloud was standing in a doorway on the opposite side of the street",
                 "Cloud was tied up on the ground next to you, a mischievous look in her eyes",
@@ -215,7 +243,7 @@
         },
         "113311133":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Later, at a shop.",
                 "Later, at the Tavern",
@@ -245,7 +273,7 @@
         },
         "11331113323":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "You sleep soundly.",
                 "You get a visitor, in the form of a female human-sized dragon",
@@ -275,7 +303,7 @@
         },
         "113311133241":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Getting Supplies.",
                 "On the Journey",
@@ -290,7 +318,7 @@
         },
         "1133111332412":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "A couple of months.",
                 "A couple of years.",
@@ -305,7 +333,7 @@
         },
         "11331113324124":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "\"Just a nice night view. Perfect for star watching.\"",
                 "\"Something moving in those trees. Might be friend, or foe.\"",
@@ -320,7 +348,7 @@
         },
         "113311133241241":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Keeping watch with Baka",
                 "Heading back down the hill",
@@ -335,7 +363,7 @@
         },
         "1133111332412414":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "A few days later",
                 "There's an issue with Birel",
@@ -365,7 +393,7 @@
         },
         "1133111332433":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "\"I followed you from the tavern.\"",
                 "\"I was already checking the place anyways.\"",
@@ -380,7 +408,7 @@
         },
         "11331113324332":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "\"I'm naturally immune to spells that manipulate emotions.\"",
                 "\"I prefer my own kind as a lover.\"",
@@ -395,7 +423,7 @@
         },
         "113311133243321":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Later, at a shop.",
                 "Later, at the Tavern",
@@ -410,7 +438,7 @@
         },
         "1133111332433214":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "You agree",
                 "You want to take things slow",
@@ -425,7 +453,7 @@
         },
         "11331113324332141":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "You wake up, only to find that Cloud had left something",
                 "You get a visitor, in the form of a female human-sized dragon",
@@ -440,7 +468,7 @@
         },
         "113311133243321412":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Rewarding You of course!",
                 "Treasure",
@@ -483,7 +511,7 @@
         },
         "11331113352":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Have you ever flown on a dragon's back?",
                 "Ever have sex with a dragon?",
@@ -498,7 +526,7 @@
         },
         "113311133523":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Nothing. (Askeera gives you some items that mimic dragon abilities.)",
                 "Dragon Scales. (Be inside Askeera for a week.)",
@@ -543,7 +571,7 @@
         },
         "113311133533":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Later, at a shop.",
                 "Later, at the Tavern",
@@ -621,6 +649,32 @@
             "created":1599109200,
             "id":2896859,
             "title":"Illusionist"
+        },
+        "1222":{
+            "author_id":"sabrinadiamond",
+            "author_name":"safire_diaz",
+            "choices":[
+                "You two decide to go on a quest",
+                "Olapen seems confused about your objective",
+                "Check your current level"
+            ],
+            "content":"<div class=\"\"><div> <span>You have chosen the Wizard class, so you now have a growing set of magic-tier power and a spellbook. Rather unfortunately the database had chosen a rather unusual mage to accompany your journey... Lightning flashes as she enters the room<br>\r\n<br>\r\n\"Yatta~! I am Olapen, the Lightning mage! Here to brighten everyone's day!\" says the cheerful and ditzy purple-haired female mage with lightning powers and a blue and orange mage-robes and a darkness-staff. You sigh, this was going to be an incredibly long day indeed...</span></div></div>",
+            "created":1609650300,
+            "id":2968605,
+            "title":"The Wizard"
+        },
+        "12221":{
+            "author_id":"jfoxx",
+            "author_name":"Johnny Foxx",
+            "choices":[
+                "Meeting the mysterious client",
+                "The client never shows",
+                "Reader's Choice"
+            ],
+            "content":"<div class=\"\"><div> <span>As you exit the Guild and head towards the tavern, you do your best to ignore your partner's ceaseless rambling, until it eventually fades into background noise. You step into the tavern and ask the barkeep for any work leads. He says there just so happens to be someone in the tavern right now looking to hire. He points to a corner of the room, where a cloaked figure is sitting alone.<br>\r\n<br>\r\nThe two of you approach the hooded figure and ask about a job. The figure chuckles. By the sound of their voice, they had to be a woman. \"Indeed, I am looking to hire someone to help me collect a debt I am owed.\" You scowl \"We're not some hired street thugs. Sounds like a job for tax collectors, not heroes.\" <br>\r\n<br>\r\n\"Oh no, you misunderstand. It is not money I am owed, but something much more valuable. It just so happens it's another of you're build that owes me, matter of fact. The one called Arnin the Ageless.\" At this both your and your companion's jaws drop. You'd never met Arnin, but you had heard countless stories of him and his incredible deeds of heroism. Even more legendary was his apparent eternal youth, a blessing from a goddess for saving one of her temples, or so he says. \"Think it over. Meet me tonight at midnight by the crossroads to the north of the capital if you want the job. If not, I'll find someone else.\" With that, the cloaked figure stood up and left.<br>\r\n<br>\r\nYou and Olapen rent a room for the night and debate on whether or not to take the job. \"I'm telling you, this doesn't feel right!\" Olapen says \"Something is seriously wrong about this!\" You however, figured that work was work and decide if would be foolish to not at least hear the client out. So you teleport to the meeting place, with Olapen reluctantly following.</span></div></div>",
+            "created":1609652580,
+            "id":2968624,
+            "title":"You two decide to go on a quest"
         },
         "1223":{
             "author_id":"deverx",
@@ -710,7 +764,7 @@
         },
         "12232211222":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Just the two of us.",
                 "Got a slightly smaller male friend waiting in town.",
@@ -725,7 +779,7 @@
         },
         "122322112225":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Later, after Rabgud's bath",
                 "Later, at supper",
@@ -740,7 +794,7 @@
         },
         "1223221122253":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Food soon arrives.",
                 "You get to talking.",
@@ -755,7 +809,7 @@
         },
         "12232211222534":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Food soon arrives.",
                 "You get to talking.",
@@ -770,7 +824,7 @@
         },
         "122322112225343":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "You soon set off",
                 "The group goes shopping",
@@ -785,7 +839,7 @@
         },
         "1223221122253431":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Turns out, Eztli wants to join up.",
                 "Turns out, Eztli has come to warn them about a possible ambush",
@@ -800,7 +854,7 @@
         },
         "12232211222534312":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "The plan is a complete success",
                 "The plan is a complete failure, and the party is captured",
@@ -827,7 +881,7 @@
         },
         "122331":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Eric's a Paladin",
                 "Eric's a Fighter",
@@ -842,7 +896,7 @@
         },
         "1223311":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Swift Grass was in a room at the Inn, same as Eric's group",
                 "Swift Grass had a camp nearby",
@@ -857,7 +911,7 @@
         },
         "12233115":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "The three of you make it to town",
                 "You get attacked by bandits",
@@ -954,7 +1008,7 @@
         },
         "123321":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Treasure is a lot of gold",
                 "Treasure is a lost weapon's cache",
@@ -969,7 +1023,7 @@
         },
         "1233214":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "You manage to Resist very easily.",
                 "You Gave In rather quickly.",
@@ -984,7 +1038,7 @@
         },
         "12332144":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Large amount of gold",
                 "Lost cache of weapons",
@@ -999,7 +1053,7 @@
         },
         "123321441":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "You all get a Good Night's Rest",
                 "You find yourself sharing a room with Teoz",
@@ -1014,7 +1068,7 @@
         },
         "1233214414":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "You get a Good Night's Rest",
                 "You're curious about Zeed",
@@ -1029,7 +1083,7 @@
         },
         "12332144143":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "You wake up, seeing Teoz's front.",
                 "You wake up, seeing Zeed's front.",
@@ -1044,7 +1098,7 @@
         },
         "123321441431":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Was killed in an Ambush",
                 "Settled Down and married",
@@ -1059,7 +1113,7 @@
         },
         "1233214414315":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Downstairs",
                 "Getting Dressed",
@@ -1074,7 +1128,7 @@
         },
         "12332144143154":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "Teoz jumps you.",
                 "Owag starts swinging at you with his quarterstaff.",
@@ -1089,7 +1143,7 @@
         },
         "123321441431541":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "The bath was nice and peaceful.",
                 "Something happens in the camp.",
@@ -1104,7 +1158,7 @@
         },
         "1233214414315411":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "You start talking to the rest of the group.",
                 "It's soon time for bed",
@@ -1119,7 +1173,7 @@
         },
         "12332144143154114":{
             "author_id":"alockwood1",
-            "author_name":"BIG BAD WOLF Is Merry",
+            "author_name":"BIG BAD WOLF",
             "choices":[
                 "You end up having to keep Watch",
                 "It's soon time for bed",
@@ -1131,6 +1185,21 @@
             "created":1605056520,
             "id":2938127,
             "title":"The Blood Hunter"
+        },
+        "123321441431541142":{
+            "author_id":"alockwood1",
+            "author_name":"BIG BAD WOLF",
+            "choices":[
+                "Teoz got the other 4",
+                "It was Zilis",
+                "It was Stripes",
+                "It was Owag",
+                "It was one of the others."
+            ],
+            "content":"<div class=\"\"><div> <span>Soon enough, you start to yawn.<br>\r\n<br>\r\n\"Tired?\" Owag asked.<br>\r\n<br>\r\n\"More or less,\" you said.<br>\r\n<br>\r\n\"It is getting late,\" said Zilis. \"Best set up a Watch rotation.\"<br>\r\n<br>\r\n\"Alright,\" said Owag. The Tortle muttered something, and fourteen daggers appeared, stuck in the dirt, by everyone.<br>\r\n<br>\r\n\"Um, how does this work?\" you asked.<br>\r\n<br>\r\n\"Pull a dagger, and anyone with the same number etched into the blade is part of your watch group,\" said Teoz, as he pulled his dagger. \"We like having at least two people on watch at all times. Watches last three hours, and there's three Watch Shifts per night. If tonight isn't your shift, it will be tomorrow, or the next day, or the day after, or so however long it takes.\"<br>\r\n<br>\r\n\"Alright,\" you said. You then pulled the dagger in front of you. There was a 4 on it. \"Um, who got the other 4?\"</span></div></div>",
+            "created":1610747220,
+            "id":2976045,
+            "title":"It's soon time for bed"
         },
         "12333":{
             "author_id":"deverx",
@@ -1167,8 +1236,8 @@
         "description":"<td align=\"left\" class=\"norm\">You were born a nobody, a measly farmer living in poverty with your parents. But even from a young age, you always dreamed of becoming a Hero. Heroes and Heroines are like the celebrities of this world, admired and loved by the public, raking in the gold and swooned over by fanboys\\girls. You swore that the day you came of age, you would join the Hero's Academy and make a name for yourself. Well, that day has arrived. Biding your parents farewell, you set out with only the clothes on your back, a small pouch of gold coins and a dagger for protection. You journey to the capital to begin your new life. <br>\r\n<br>\r\nHow This Works<br>\r\n<br>\r\nAt the end of the first chapter, you shall select your character's gender, followed by your class type and your sub-class. From there, it's all up to you where your adventures will lead you. Will you climb the ranks of the Guild and become the greatest Hero who ever lived? Or will you fail and fall into obscurity, your name forever lost to history?<br>\r\n<br>\r\nRules:<br>\r\n<br>\r\n1. This is meant to be a sort of parody of old school role-playing games like D&amp;D and things like that. Try to add some humor here and there . <br>\r\n2. If you're going to kill the main character, don't make it overly gory or descriptive. Also, let the story get to a decent length first.<br>\r\n3. All chapters are to be a minimum of 3 to 5 paragraphs long. <br>\r\n<br>\r\nI reserve the right to add or edit rules as needed. Hope you enjoy the story!</td>",
         "id":2227046,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1609042740,
-        "modified":1609042740,
+        "last_full_update":1610747220,
+        "modified":1610747220,
         "pretty_title":"So You Want To Be a Hero?"
     }
 }

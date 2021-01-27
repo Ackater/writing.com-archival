@@ -2048,6 +2048,30 @@
             "created":1589008800,
             "id":2832859,
             "title":"Marvin"
+        },
+        "15413":{
+            "author_id":"bluejaybishop",
+            "author_name":"BufordJr",
+            "choices":[
+                "Unbirth",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What else could happen to Marvin?</span></div></span></div>",
+            "created":1611562980,
+            "id":2981398,
+            "title":"Something else"
+        },
+        "154131":{
+            "author_id":"bluejaybishop",
+            "author_name":"BufordJr",
+            "choices":[
+                "A wish",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>How could Marvin become unborn again?</span></div></span></div>",
+            "created":1611586800,
+            "id":2981563,
+            "title":"Unbirth"
         }
     },
     "info":{
@@ -2059,7 +2083,7 @@
         "id":1144374,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
         "last_full_update":1605113400,
-        "modified":1605113400,
+        "modified":1611586800,
         "pretty_title":"Cartoon Inflation/shrinking/etc"
     }
 }

@@ -389,6 +389,19 @@
             "id":2143816,
             "title":"Female draft horse"
         },
+        "11531112":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Filly",
+                "A young  female horse",
+                "An adult female horse"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So will you choose Filly or other young or an adult female horse?</span></div></span></div>",
+            "created":1611146820,
+            "id":2978557,
+            "title":"Filly"
+        },
         "1153112":{
             "author_id":"mike92586",
             "author_name":"MikeC",
@@ -517,6 +530,32 @@
             "id":2693030,
             "title":"Other insect"
         },
+        "115312233332333":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "A butterfly",
+                "A flea",
+                "Other insect"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Maybe you want use the device that looks like a remote to a butterfly or a flea. You can turn theminto anthropomorphic and beautiful versions of themselves.</span></div></span></div>",
+            "created":1611147360,
+            "id":2978562,
+            "title":"Other insect"
+        },
+        "1153122333323331":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "A caterpillar",
+                "A cocoon ",
+                "A butterfly"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>You look around farm looking for insects and find butterfly.....<br>\r\nOr wait is it a caterpillar or a cocoon or a butterfly?</span></div></span></div>",
+            "created":1611147660,
+            "id":2978565,
+            "title":"A butterfly"
+        },
         "115312233333":{
             "author_id":"sizewatcher",
             "author_name":"SizeWatcher",
@@ -529,6 +568,31 @@
             "created":1564236240,
             "id":2693045,
             "title":"I'm still lookin for something!"
+        },
+        "1153122333333":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Owl",
+                "Frog or lizard",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here is a surprise! How about an owl or frog or lizard </span></div></span></div>",
+            "created":1611147060,
+            "id":2978559,
+            "title":"Surprise me!"
+        },
+        "11531223333332":{
+            "author_id":"sizewatcher",
+            "author_name":"SizeWatcher",
+            "choices":[
+                "Frog ",
+                "Lizard"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>So choose  which you use the device that looks like a remote. Apparently, it turns animals into anthropomorphic versions of themselves </span></div></span></div>",
+            "created":1611147180,
+            "id":2978560,
+            "title":"Frog or lizard"
         },
         "12":{
             "author_id":"twiga",
@@ -819,8 +883,8 @@
         "description":"<td align=\"left\" class=\"norm\">You have received a gift from a scientist friend of yours. The devise looks like a remote with a big button. Apparently, it turns animals into anthropomorphic versions of themselves (it has no effect on humans, in case you were wondering). They walk on two legs, talk, have hands with opposable thumbs, etc. Also, they won't change size and their animal abilities and traits are kept. But you have use it carefully because once the animal is anthropomorphized, the effect is permanent.<br>\r\n<br>\r\nRules:<br>\r\n1. No sexual content.<br>\r\n2. No killing or gore.<br>\r\n3. Proper spelling and grammer.<br>\r\n4. Please have a basic understanding of the animal if you want to use it.<br>\r\n5. No TG.<br>\r\n6. No mammary glands on non-mammal anthros.<br>\r\n<br>\r\nOtherwise, have fun.</td>",
         "id":1964863,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1593831660,
-        "modified":1593831660,
+        "last_full_update":1611147660,
+        "modified":1611147660,
         "pretty_title":"The Anthropomorphizer"
     }
 }

@@ -339,6 +339,18 @@
             "id":1326295,
             "title":"Golden retreiver"
         },
+        "12121":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Will this transformation be voluntary?</span></div></span></div>",
+            "created":1609919160,
+            "id":2970535,
+            "title":"Male"
+        },
         "12122":{
             "choices":[
                 "The Park",
@@ -425,6 +437,45 @@
             "created":1570654200,
             "id":2730582,
             "title":"Something else, either cat or otherwise."
+        },
+        "122332":{
+            "author_id":"jobobo19",
+            "author_name":"carl.a.pruuitt",
+            "choices":[
+                "Kangaroo",
+                "Wolf",
+                "Monkey",
+                "cow",
+                "more"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What type of animal did you become?</span></div></span></div>",
+            "created":1609930680,
+            "id":2970598,
+            "title":"Choose another type of animal"
+        },
+        "1223325":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Lion",
+                "Something else"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other animal did you transform into?</span></div></span></div>",
+            "created":1609930920,
+            "id":2970599,
+            "title":"more"
+        },
+        "12233251":{
+            "author_id":"jbrockytop",
+            "author_name":"kopsman124",
+            "choices":[
+                "Yes",
+                "No"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Was the transformation voluntary?</span></div></span></div>",
+            "created":1610339160,
+            "id":2973295,
+            "title":"Lion"
         }
     },
     "info":{
@@ -435,8 +486,8 @@
         "description":"<td align=\"left\" class=\"norm\">I'm bored right now and I figured I would start up an animal transformation story and see if anyone cares to take part in this. Anyone that happens to come across this here are some rules.<br>\r\n<br>\r\n1. No gay plotlines<br>\r\n<br>\r\n2. Keep it toward a teenage content<br>\r\n<br>\r\n3. It can be a real life change or an anthro change.<br>\r\n<br>\r\n4. Try to keep a storyline going<br>\r\n<br>\r\n5. There will be many choices so have fun with it</td>",
         "id":1649319,
         "image_url":"https://images.Writing.Com/imgs/writing.com/writers/listing-header-5000.gif",
-        "last_full_update":1606246740,
-        "modified":1606246740,
+        "last_full_update":1610339160,
+        "modified":1610339160,
         "pretty_title":"Animal Transform"
     }
 }

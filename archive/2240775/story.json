@@ -403,7 +403,10 @@
             "author_name":"Nick98",
             "choices":[
                 "Dolphin Watch",
-                "Oasis"
+                "Oasis",
+                "Your Own Dinotopia story",
+                "More Options",
+                "Other Stories"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>Here are the last two books!</span></div></span></div>",
             "created":1609371060,
@@ -535,12 +538,30 @@
             "author_name":"Nick98",
             "choices":[
                 "Crossover with another book or franchise",
-                "An original adventure with your own characters or existing ones"
+                "An original adventure with your own characters or existing ones",
+                "A Mega Crossover of all 4 Dinotopian books & franchises",
+                "More Options",
+                "More Reader's options"
             ],
             "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What other Options do you have in mind for Dinotopian adventures?</span></div></span></div>",
             "created":1609370340,
             "id":2966725,
             "title":"Other options "
+        },
+        "151":{
+            "author_id":"nicholas1998",
+            "author_name":"Nick98",
+            "choices":[
+                "How To Train Your Dragon",
+                "Lord of The Rings & Hobbit",
+                "The Chronicles of Narnia",
+                "The Land Before Time",
+                "More Crossovers"
+            ],
+            "content":"<div class=\"\"><span style=\"font-size:1.47em;\"><div> <span>What Crossovers do you have in mind for Dinotopia?</span></div></span></div>",
+            "created":1609612080,
+            "id":2968360,
+            "title":"Crossover with another book or franchise"
         }
     },
     "info":{
@@ -550,9 +571,9 @@
         "created":1609369920,
         "description":"<td align=\"left\" class=\"norm\">Enter the world of Dinotopia.  Where Dinosaurs and Humans live as equals.<br>\r\nDinotopia is a series of illustrated fantasy books, created by author and illustrator James Gurney. It is set in the titular \"Dinotopia\", an isolated island inhabited by shipwrecked humans and sapient dinosaurs who have learned to coexist peacefully as a single symbiotic society. The first book was published in 1992 and has \"appeared in 18 languages in more than 30 countries and sold two million copies. Dinotopia: A Land Apart from Time and Dinotopia: The World Beneath both won Hugo awards for best original artwork.<br>\r\n<br>\r\nSince its original publication, over twenty Dinotopia books have been published by various authors to expand the series. A live-action television miniseries, a short-lived live-action TV series, a 2005 animated film, and several video games have also been released.<br>\r\n<br>\r\n<br>\r\nDinotopia! An interactive story for all ages! Dinotopia! Let The Adventure Begin!</td>",
         "id":2240775,
-        "image_url":"https://www.writing.com/main/images/action/display/ver/1609547657/item_id/2240775.jpeg",
-        "last_full_update":1609519440,
-        "modified":1609547640,
+        "image_url":"https://www.writing.com/main/images/action/display/ver/1609612134/item_id/2240775.jpeg",
+        "last_full_update":1609612080,
+        "modified":1609612080,
         "pretty_title":"Dinotopia"
     }
 }
