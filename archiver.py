@@ -1,130 +1,258 @@
-from scraper import get_chapter_list, get_search_ids
-from scraper import get_search_page_interactive_ids, all_search_urls
-from aggregator import get_chapters,get_story_info_safe
-from htmlformat import formatChapter, formatIntro, formatOutline
+from scraper import get_story_info, get_outline, get_chapter, get_all_interactives_list, get_recent_chapters
+from json import dumps, loads
+from defs import ServerRefusal, StoryInfo, Chapter
+from htmlformat import formatIndex
+
 import os
-import re
+import threading
+import requests
+import time
+import traceback
+import session 
 
-def barf(filepath, text):
-    with open(filepath,'w',encoding='utf-8') as o:
-        o.write(text)
+def archive_list(filename):
+    with open(filename, 'r') as o:
+        for line in o:
+            #Make sure to clear newlines
+            archive(line.rstrip())
 
-def is_item_id(string):
-    if re.match('(\d)+-(.)+',string): #Returns None or match object
-        return True
-    else:
-        return False
+def archive_all(pages = -1, oldest_first = False, force_update = False, full_update = False, premium = False, threads_per_batch = 10, start_page = 1, search_string = None):
+    #2 interactive with broken outlines that do not play well with a membership's outline preview feature
+    #TODO option for normal account to grab the outlines
+    bad_list = ['1393778-Comic-Book-Womens-Feet', '1575204-Fantasy-Foot-Fetish-Mansion', '1832687-The-Alternate-Dimension-Wish']
+    #1832687-The-Alternate-Dimension-Wish is there because of this fucking guy https://www.writing.com/main/interactive-story/item_id/1832687-The-Alternate-Dimension-Wish/map/15533221
 
-''' Returns a list of descent strings [str1 str2 ... stri] s.t. the local archive is missing those chapters from the remote story.
-    Will not return strictly the missing chapters. Will also return each's predecessor, because that one's choices will have to be updated.
-    To accomplish that I have chosen the naive way of just removing and redownloading the chapters with newly existing choices. '''
-def get_missing_chapters(canon_descents,directory,story_id):
-    canon_chapters = [x + ".html" for x in canon_descents]
+    #TODO modify this to pass a date instead so can check the date before scraping chapter?
+    interactives = get_all_interactives_list(start_page = start_page, pages = pages, oldest_first = oldest_first, search_string = search_string)
+    for interactive in interactives:
+        if premium and interactive in bad_list:
+            continue
+        complete = archive(interactive, force_update = force_update, full_update = full_update, threads_per_batch = threads_per_batch) 
+        if complete is False:
+            break
 
-    os.chdir(directory)
-
-    existing_chapters = os.listdir()
-    existing_chapters = set(existing_chapters) - set(['intro.html','outline.html'])
-
-    missing_chapters_all = list(set(canon_chapters) - existing_chapters)
-
-    #We also need to list the chapters previous each missing chapter to update links naively lol
-    missing_chapters_connections = set(list(missing_chapters_all))
-    for ch in missing_chapters_all:
-        c = ch[:-6] + '.html'
-        if c != '.html':
-            try:
-                os.remove(c)
-            except FileNotFoundError:
-                pass
-            missing_chapters_connections.add(c)
-
-    os.chdir('../../')
-
-    if len(canon_chapters) == len(missing_chapters_all):
-        print('# {}: Downloading for the first time.'.format(story_id))
-    else:
-        print('# {}: Updating with {} chapters.'.format(story_id,len(missing_chapters_connections)))
-
-    return [ x[:-5] for x in missing_chapters_connections ]
-
-''' A list of all currently existing things in ./archive/ '''
-def get_existing_archives():
-    os.chdir('archive')
-    ls = os.listdir()
-    os.chdir('..')
-
-    return filter(lambda x: is_item_id(x),ls)
-
-''' Archives the story designated by its id (the 'item_id' in urls) and downloads missing chapters.
-    Returns a map {descent : string -> error : Exception} describing any errors it encountered while downloading chapters.'''
-def archive(story_id):
-    #Directory
-    #Hard coded because the stylesheet in ./templates/style.css is referenced with a relative path
-    archive_dir="archive"
-    story_root = archive_dir+"/"+story_id+"/"
-    
-    if not os.path.exists(story_root):
-        os.makedirs(story_root)
+def archive(story_id, force_update = False, full_update = False, threads_per_batch = 10):
+    archive_dir = "archive"
 
     print('# {}: Gathering info.'.format(story_id))
 
     #Basic info
-    info = get_story_info_safe(story_id)
-    barf(story_root + "intro.html",formatIntro(info))
+    info = get_story_info(story_id)
+    if info == -1:
+        print('# {}: Private story. Cant scrape'.format(story_id))
 
-    #Outline
-    canon_descents, canon_names = get_chapter_list(story_id)
-    barf(story_root + "outline.html",formatOutline(info.pretty_title,canon_descents,canon_names))
+    if info is False:
+        print('# {}: Deleted story. Cant scrape'.format(story_id))
+        return True
 
-    #Missing chapters
+    story_root = archive_dir+"/"+ str(info.id) +"/"
 
-    #Barf chapters
+    if session.name_in_archive:
+        story_root = archive_dir+"/"+ str(info.id) + " " + str(info.pretty_title) +"/"
+
+    chapters = {}
     error_chapters = {}
-    missing_chapters = get_missing_chapters(canon_descents,story_root,story_id)
-    for descent, chapter in get_chapters(story_id, missing_chapters, threads_per_batch=10):
+    new_recent_chapters = []
+    recents = False
+
+
+    #Existing archive already
+    if (os.path.exists(story_root + "story.json")):
+        #these are already all dicts
+        old_archive = loads(open(story_root + "story.json").read())
+
+        #save the date seperately in case we need it for the recent check
+        last_modified = old_archive['info']['modified']
+
+        #Has not been modified since last date
+        if info.modified <= old_archive['info']['modified'] and force_update == False and full_update == False:
+            print('# {}: No updates - has not been modified'.format(story_id))
+            return True
+
+        #import old chapters
+        chapters = old_archive['chapters']
+
+        #update info with new info
+        temp_old_archive = info.to_dict()
+        old_archive['info'].update(temp_old_archive)
+        #Hack for missing field, maybe dlete in the future
+        if 'last_full_update' not in old_archive['info']:
+            old_archive['info']['last_full_update'] = 0
+
+        #full update check
+        if info.modified <= old_archive['info']['last_full_update']:
+            print('# {}: No updates - has not been modified'.format(story_id))
+            return True
+
+        info = StoryInfo(**old_archive['info'])
+
+        print('# {}: Getting recent chapters.'.format(story_id))
+        recents = get_recent_chapters(story_id)
+
+        #Count how many recent chapters we've had since the last update
+        for descent, recent in recents.items():
+            if not descent in chapters:
+                new_recent_chapters.append(descent)
+                #TODO compare dates as a way to check chapters that have been deleted and re-used
+
+        #No modified dates, so probably something else change. Needs a full update
+        #It could be a modified chapter, deleted chapter, or just info updated
+        if len(new_recent_chapters) == 0 and full_update == False and force_update == False:
+            print('# {}: No updates - no new recent chapter'.format(story_id))
+
+            #save anyways to update date or info
+            story = {
+                'info': info._asdict(),
+                'chapters': chapters
+            }
+            with open(story_root + 'story.json','w',encoding='utf-8') as o:
+                o.write(dumps(story, indent=4, sort_keys=True, separators=(',',':')))
+
+            return True
+        elif not( len(new_recent_chapters) < len(recents) ) or force_update == True:
+            # Skip the outline and use the recent chapters list if there is at least 1 recent chapter that is already grabbed
+            # Clean the list otherwise
+            new_recent_chapters = []
+
+    #Grab recents if it has not been set
+    if recents is False:
+        print('# {}: Getting recent chapters.'.format(story_id))
+        recents = get_recent_chapters(story_id)
+
+    #Grab outline if recent chapters was not enough
+    if len (new_recent_chapters ) == 0 or force_update is True or full_update is True:
+        #Outline
+        print('# {}: Getting outline.'.format(story_id))
+        canon_descents = get_outline(story_id)
+
+        #Filter out all the already scraped chapters unless we doing a full update
+        if full_update is True :
+            missing_chapters = canon_descents
+        else:
+            missing_chapters = list( set(canon_descents) - set(chapters.keys()) )
+    else:
+        #Use the list of recent chapters instead
+        missing_chapters = new_recent_chapters
+
+    #Actually scrape the chapters
+    for descent, chapter in get_chapters(story_id, missing_chapters, threads_per_batch=threads_per_batch):
         if issubclass(type(chapter),Exception):
             error_chapters[descent] = chapter
+            print('# {}: Warning - error with chapter {}'.format(story_id, descent))
         else:
-            barf(story_root + descent + ".html", formatChapter(chapter,descent,canon_descents))
+            #update or create if not exists
+            #TODO actually compare dates to use the one with the most recent date since that should be accurate (since the auto date does 12:00am)
+            if descent in chapters: 
+                chapters[descent].update( chapter.to_dict(skip = ['created']) )
+            else: 
+                chapters[descent] = chapter.to_dict()
+
+    #Update dates from the recent items
+    for descent, recent in recents.items():
+        if (descent in chapters):
+            chapters[descent]['created'] = recent
+
+    #update the last_full_update field
+    #if not already exist OR we're doing full update
+    #Also if theres no errors
+    if not os.path.exists(story_root + "story.json") or full_update is True:
+        if len(error_chapters) == 0:
+            temp_info = info._asdict()
+            temp_info['last_full_update'] = info.modified
+            info = StoryInfo(**temp_info)
+
+    #TODO run a sanity check that each chapter has a matching choice above it, in case of edits (happens)
+
+    story = {
+        'info': info._asdict(),
+        #chapters end up being not sorted
+        'chapters': chapters
+    }
+
+    if not os.path.exists(story_root):
+        os.makedirs(story_root)
+
+    with open(story_root + 'story.json','w',encoding='utf-8') as o:
+        o.write(dumps(story, indent=4, sort_keys=True, separators=(',',':')))
+
+    if session.index_html_generation is True:
+        with open(story_root + 'index.html','w',encoding='utf-8') as o:
+            o.write(formatIndex(dumps(story, indent=0, sort_keys=True, separators=(',',':'))))
 
     if len(error_chapters) > 0:
         print('# {}: Finished with {} errors. Try again. If problem persists contact the developer.'.format(story_id,len(error_chapters)))
+        return False
     else:
         print('# {}: Finished!'.format(story_id))
+        return True
 
-    return error_chapters
+def get_chapters(story_id,chapter_suffixes,threads_per_batch=10):
+    start_time = time.time()
 
-''' calls archive on every interactive listed in this search page and all subsequent pages. Does not thread each story b/c that would overload the server. 
-   !! NOTE!!: THIS ONLY WORKS IF YOU GIVE A URL WHERE THE PAGE NO. IS SPECIFIED IN THE URL.
-              NORMALLY THE PAGE IS SPECIFIED IN POST, OR SOMETHING.
-              TO ENSURE A USEABLE URL, GO TO A SEARCH PAGE, AND CLICK THE MAGNIFYING GLASS ICON ABOVE THE RESULT LIST, AND USE THE NEW URL
-    returns a mapping of item_id to error chapters map as described in the output of archive.
-'''
-def archive_search(search_url):
-    if search_url.find('&page=') < 0:
-        raise ValueError('Incorrect URL given to archive_search. Please see note in its source code.')
-
-    print('# Gathering item_ids of the search...')
-    ids = list(get_search_ids(search_url))
-
-    error_chapters = {}
+    if len(chapter_suffixes) == 0:
+        return
+    total_num_chapterse = len(chapter_suffixes)
+    chapter_prefix = "https://www.writing.com/main/interact/item_id/" + story_id + "/map/"
     
-    for idx, id in enumerate(ids):
-        print('### Archiving item_id {}/{}'.format(idx+1,len(ids)))
-        error_chapters[id] = archive(id)
+    chapters = {} # map of {chapter descent : string -> ChapterInfo} for chapters we've downloaded.
 
-    return error_chapters
+    #  while some chapters are not yet acquired,
+    #  run a batch of threads for X of missing chapters and wait for them all to either get or fail.
+    #  you will need a way of discriminating between landing on the "UNAVAILABLE" page and encountering
+    #  a real error.
+    #  for fun print num of successes for each batch.
 
+    # TODO lower the number of chapters and speed when failing a lot, there seems to be times when the entire batch fails for 10 minutes straight
         
-''' Updates every existing archive 
-    returns a mapping of item_id to error chapters map as described in the output of archive.
-'''
-def update_archive():
-    ids = list(get_existing_archives())
-    error_chapters = {}
-    for i,id in enumerate(ids):
-        print('### Updating archive {}/{}'.format(i,len(ids)))
-        error_chapters[id] = archive(id)
+    class ChapterScraper(threading.Thread):
+        def __init__(self,chapter_suffix):
+            self.chapter_suffix = chapter_suffix
+            threading.Thread.__init__(self)
 
-    return error_chapters
+        def run(self):
+            try:
+                chapter = get_chapter(chapter_prefix + str(self.chapter_suffix))
+            except (requests.exceptions.ConnectionError, ServerRefusal) as e:
+                return
+            except Exception as e:
+                print(traceback.format_exc())
+                # Unknown error. Let the caller deal with it.
+                chapter = e
+               
+            self.chapter = chapter
+
+    threads = []
+    fails = 0
+    while chapter_suffixes != [] or threads != []:
+        to_add = threads_per_batch - len(threads) 
+        next_suffixes = chapter_suffixes[:to_add]
+        chapter_suffixes = chapter_suffixes[to_add:]
+        
+        for chapter_suffix in next_suffixes:
+            thread = ChapterScraper(chapter_suffix)
+            threads.append(thread)
+            thread.start()
+
+        for thread in threads:
+            if not thread.is_alive():
+                if hasattr(thread, 'chapter'):
+                    chapters[thread.chapter_suffix] = thread.chapter
+                else:
+                    chapter_suffixes.append(thread.chapter_suffix)
+                    fails = fails + 1
+                threads.remove(thread)
+
+        for descent, chapter in chapters.items():
+            yield descent, chapter
+        chapters.clear()
+
+        time.sleep(1)
+
+        print('# {}: {}/{} @ {:.2f} chpt/s, fail {:.2f} chpts/s '.format(
+            story_id,
+            total_num_chapterse - len(chapter_suffixes) - len(threads),
+            total_num_chapterse,
+            (total_num_chapterse - len(chapter_suffixes) - len(threads)) / (time.time() - start_time),
+            fails / (time.time() - start_time)
+
+        ))

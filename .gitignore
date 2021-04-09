@@ -90,6 +90,6 @@ ENV/
 .ropeproject
 
 # Archiver things
-archive
+archive/*
 credentials
 session

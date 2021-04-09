@@ -15,6 +15,7 @@ $ ./run.py get_search "<url1>" "<url2>"... # Downloads every interactive in thes
 $ ./run.py update                          # Update existing archives
 ```
 
+
 ### Item_id?
 
 The item_id for a story is in its url: `http://www.writing.com/main/interact/item_id/$(THIS_IS_THE_ITEM_ID)/map/14411122`
@@ -25,7 +26,7 @@ To get the proper URL, first enter in your search term into the text box in the 
 
 ### Your first use
 
-You will be asked to enter your login credentials to writing.com on your first use. This is because writing.com requires a logged-in session to access interactive chapters. This won't save your password, but session cookies will be saved in a file called `session`. 
+Edit config.yaml first with your username and password for login
 
 ### Dependencies
 

@@ -1,0 +1,13 @@
+username: 
+password: 
+
+#Puts the name of the story in the folder name for easier browsing
+#TODO not properly tested because I don't use it for the archive
+#May have issues if the name changes, leading to multiple copies
+name_in_archive: True
+
+#Generates an index.html for each story
+#Also not used in the proper archive because browers can load additional data easily
+#But needed if you want to read locally without requiring a webserver
+#See issue #34
+index_html_generation : True

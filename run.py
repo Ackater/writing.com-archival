@@ -1,25 +1,31 @@
-#! /usr/bin/env python3
-from archiver import archive, archive_search, update_archive, is_item_id
+#! /usr/bin/env python
+
+from archiver import archive, archive_all
 import argparse
+import json
+import os
 
 def update(args):
     update_archive()
 
-def get_search(args):
-    for url in args.urls:
-        #unquote it
-        url = url.replace('"','')
-        archive_search(url)
-
 def get(args):
     for id in args.ids:
-        if is_item_id(id):
-            print('### Now archiving {}'.format(id))
-            archive(id)
-        else:
-            print('#!# MALFORMED ITEM_ID: {}'.format(id))
+        archive(id)
+        
+def get_search(args):
+    for text in args.text:
+        #unquote it
+        url = url.replace('"','')
+        archive_all(url)
 
-parser = argparse.ArgumentParser()
+def update(args):
+    for root, dirs, files in os.walk("./archive"):
+        if ('story.json' in files):
+            archive_info = json.loads(open(root + "/story.json").read())
+            if 'deleted' not in archive_info['info']:
+                archive(archive_info['info'].id)
+
+parser = argparse.ArgumentParser(description='Scrapes Writing.com')
 subparsers = parser.add_subparsers()
 
 update_help = 'updates all existing archives.'
@@ -31,7 +37,7 @@ parser_get = subparsers.add_parser('get', help=get_help)
 parser_get.add_argument('ids', nargs='+',help=get_help)
 parser_get.set_defaults(func=get)
 
-get_search_help='download/update every item_id in the search urls. Quote the URLs with "". See note in archiver.py/archive_search on proper URLs.'
+get_search_help='download/update every item_id with this text. Quote the text with ""'
 parser_search = subparsers.add_parser('get_search', help=get_search_help)
 parser_search.add_argument('urls',nargs='+',help=get_search_help)
 parser_search.set_defaults(func=get_search)

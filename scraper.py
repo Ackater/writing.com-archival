@@ -1,14 +1,14 @@
-from urllib import request
+from urllib import request, parse
 import json, re, os, mechanicalsoup
-from datetime import datetime
-from defs import ChapterInfo, StoryInfo, ServerRefusal
+from datetime import datetime, timezone, timedelta
+from defs import Chapter, StoryInfo, ServerRefusal
 import time
 
 import lxml
 from lxml import html
 
 #logs in or reloads cookies upon import
-from session import get_page
+from session import get_page, get_page_search
 from session import browser
 
 ###   XPATHS AND REGEXPS   ###
@@ -19,212 +19,271 @@ from session import browser
 #   This is because the first chapter doesn't have the additional div element before all content announcing which choice you just took.
 
 chapter_title_xp                = "//span[starts-with(@title, 'Created')]/h2/text()"
-chapter_content_xp              = ".//div[@style='padding:25px 6px 20px 11px;min-width:482px;']/div"
-chapter_member_name_xp          = "//a[starts-with(@title, 'Username:')]"
-chapter_choices_xp              = ".//div[@id='end_choices']/parent::*//a"
+chapter_content_xp              = "//div[@style='padding:25px 6px 20px 11px;min-width:482px;']/div"
+chapter_author_name_xp          = "(//a[starts-with(@title, 'Username:')])[2]/text()"
+chapter_author_name_xp_2        = '//i[starts-with(text(), "by")]/text()' #deleted authors?
+chapter_author_link_xp          = '(//a[@class="imgLink imgPortLink"])[2]/@href' 
+chapter_choices_xp              = "//div[@id='end_choices']/parent::*//a"
+chapter_id_xp                   = '//*[text()="ID #"]/b/text()' #https://www.writing.com/main/interact/cid/#### it's a link on member accounts
+chapter_created_date_xp         = "//span[starts-with(@title, 'Created')]/@title"
 
 #For a story page
-#....Note: if the story has an award banner, format with '1'. else, format with '0'.
-story_title_xp             = "//a[contains(@class, 'proll')]/text()"
-story_author_name_xp       = "//a[starts-with(@title, 'Username:')]/text()"
-story_author_id_xp         = ".//*[@id='Content_Column_Inside']/div[4]/table/tr/td[2]/div[4+{}]/a[1]"
-story_description_xp       = ".//*[@id='Content_Column_Inside']/div[6]/div[2]//td"
-story_brief_description_xp = "//big/text()"
+story_title_xp              =   "//a[contains(@class, 'proll')]/text()"
+story_author_name_xp        =   "(//a[starts-with(@title, 'Username:')])[1]/text()"
+story_author_link_xp        =   '(//a[@class="imgLink imgPortLink"])[1]/@href'
+story_description_xp        =   "//*[@id='Content_Column_Inside']/div[6]/div[2]//td"
+story_brief_description_xp  =   "//big/text()"
+story_image_url_xp          =   "//meta[@property='og:image']/@content"
+story_id_xp                 =   "//span[@class='selectAll']/text()"
+story_created_date          =   '//div[starts-with(text(),"Created")]/descendant-or-self::*/text()'
+story_modified_date         =   '//div[starts-with(text(),"Modified")]/descendant-or-self::*/text()'
+story_size                  =   '//div[starts-with(text(),"Size")]/descendant-or-self::*/text()'
+
+recent_elements_xp          =   "//div[@class='mainLineBorderBottom'][@style='relative;padding:10px;']"
+recent_date_xp              =   ".//div[@style='float:right;padding:0px 0px 0px 5px;']/text()"
+recent_link_xp              =   ".//div[@align='left']/b/a/@href"
 
 #For an outline
-outline_chapters_xpath = ".//*[@id='Content_Column_Inside']/div[6]/div[2]/pre//a"
+outline_chapters_xpath = "//*[@id='Content_Column_Inside']/div[6]/div[2]/pre//a"
+
+redirect_links_xpath = "//a[starts-with(@href, 'https://www.Writing.Com/main/redirect')]"
 
 #For the heavy server message
 refusal_text_substring = "or try again in just a few minutes".lower()
- 
-#For a search page
-search_results_xp=".//*[@id='Content_Column_Inside']/div[6]/font/div/div"
-search_pages_dropdown_xp = ".//*[@id='pageVal1']"
 
-def assertNotServerRefusal(page):
-    try:
-        if page.text_content().lower().find("was not found within Writing.Com's system.") >= 0:
-            raise Exception("broke")
-        if page.text_content().lower().find(refusal_text_substring) >= 0:
-            raise ServerRefusal('Heavy Server Volume')
-    except UnicodeDecodeError:
-        #If we have a unicode decoding error assume it's not a refusal page :P
-        return False
-        
+#A different error message that shows up once in a while
+temporary_unavailable_substring = "The site is temporarily unavailable.".lower()
+temporary_unavailable2_substring = "Database Temporarily Too Busy".lower()
 #A less nuclear option than above. Not sure if the UnicodeDecodeError was necessary
 def hasServerRefusal(page):
     if page.text_content().lower().find(refusal_text_substring) >= 0:
         return True
+    if page.text_content().lower().find(temporary_unavailable_substring) >= 0:
+        return True
+    if page.text_content().lower().find(temporary_unavailable2_substring) >= 0:
+        return True
     return False
 
-# Example of the terrible encoding writing.com does
-# https://www.writing.com/main/interact/item_id/1924673-Acquiring-Powers-2/map/114331111
-# Who did this
-def encodingBruteForce(text):
-    #Check if it's a byte string instead of byte string, assume it's latin-1 and decode if it is
-    try:
-        if isinstance(text, str):
-            text = text.encode('latin-1')
-    except UnicodeEncodeError:
-        #It's somehow already not latin-1????
-        return text
-    try:
-        return text.decode('utf-8')
-    except UnicodeDecodeError:
-        #Not UTF-8, go Next
-        pass
-    try:
-        return text.decode('windows-1252')
-    except UnicodeDecodeError:
-        #Not UTF-8, go Next
-        pass
-    return text.decode('latin-1')
-    #If this errors, we have a real problem
+#Parse full date stamps like Created: February 30th, 2011 at 6:00am
+#Used in details of the whole interactive
+def parse_date_time(date):
+    date = re.sub(r"(Modified:|Created:) ", "", date)
+    date = re.sub(r"(st|nd|rd|th),", ",", date)
 
-''' takes a chapter page url and returns a ChapterInfo. '''
+    timedate = datetime.strptime(date, "%B %d, %Y at %I:%M%p")
+
+    #Set timezone to be UTC-5 for eastern. TODO Wait for DST to see how that is handled
+    timedate = timedate.replace(tzinfo=timezone(timedelta(hours = -5)))
+
+    return int(timedate.timestamp())
+
+#Parse shorthand dates like Oct 21, 2020 8:03 pm
+def parse_short_date_time(date):
+    timedate = datetime.strptime(date, "%b %d, %Y %I:%M %p")
+
+    #Set timezone to be UTC-5 for eastern. TODO Wait for DST to see how that is handled
+    timedate = timedate.replace(tzinfo=timezone(timedelta(hours = -5)))
+
+    return int(timedate.timestamp())
+
+def parse_date(date):
+    timedate = datetime.strptime(date, "Created: %m-%d-%Y")
+
+    #Set timezone to be UTC-5 for eastern. TODO Wait for DST to see how that is handled
+    timedate = timedate.replace(tzinfo=timezone(timedelta(hours = -5)))
+
+    return int(timedate.timestamp())
+
+''' takes a link to a story landing page and returns a StoryInfo. '''
+def get_story_info(story_id):
+    url = "https://www.writing.com/main/interact/item_id/" + story_id
+    page = get_page(url)
+    
+    while hasServerRefusal(page):
+        page = get_page(url)
+
+    #Private item can't access, can not scrape
+    if page.text_content().lower().find('is a private item.') >= 0:
+        return -1
+
+    #Deleted item can't acccess, can not scrape
+    if page.text_content().lower().find("wasn't found within writing.com") >= 0:
+        return False
+
+    try:
+        story_info = StoryInfo(
+            id = int(page.xpath(story_id_xp)[0]),
+            pretty_title = page.xpath(story_title_xp)[0],
+            author_id = page.xpath(story_author_link_xp)[0][len("https://www.Writing.Com/main/portfolio/view/"):],
+            author_name = page.xpath(story_author_name_xp)[0],
+            description = html.tostring(page.xpath(story_description_xp)[0], encoding="unicode", with_tail=False),
+            brief_description = page.xpath(story_brief_description_xp)[0],
+            created = parse_date_time(page.xpath(story_created_date)[0] + page.xpath(story_created_date)[1]),
+            modified = parse_date_time(page.xpath(story_modified_date)[0] + page.xpath(story_modified_date)[1]),
+            image_url = page.xpath(story_image_url_xp)[0],
+            last_full_update = None
+        )
+
+    except Exception as e:
+        raise e
+
+    return story_info
+
 def get_chapter(url):
-    chapter = get_page(url)
+    page = get_page(url)
     
-    #Did we hit a "heavy server volume" error?
-    assertNotServerRefusal(chapter)
+    if hasServerRefusal(page):
+        raise ServerRefusal('Heavy Server Volume')
 
-    data = ChapterInfo()
+    #Error premium mode to inline chapters is on. Disable it and try again
+    if len(page.xpath(chapter_content_xp)) == 0:
+        get_page("https://www.writing.com/main/my_account?action=set_q_i2&ajax=setDynaOffOn&val=-1")
+        page = get_page(url)
+        if hasServerRefusal(page):
+            raise ServerRefusal('Heavy Server Volume')
 
-    suff = url[url.rfind('/')+1:]
-    if suff == '1' or suff == '0':
-        xpathformat='1'
-    else:
-        xpathformat='0'
+    try:
+        choices = []
+        choice_elements = page.xpath(chapter_choices_xp)
+        for choice in choice_elements:
+            choices.append(choice.text_content())
+        if len(choice_elements) == 0:
+            choices = None
+
+        if len(page.xpath(chapter_author_link_xp)) != 0:
+            author_id = page.xpath(chapter_author_link_xp)[0][len("https://www.Writing.Com/main/portfolio/view/"):]
+        else:
+            author_id = None
+
+        if len(page.xpath(chapter_author_name_xp)) != 0:
+            author_name = page.xpath(chapter_author_name_xp)[0]
+        else: 
+            if len(page.xpath(chapter_author_name_xp_2)) != 0:
+                author_name = page.xpath(chapter_author_name_xp_2)[0][3:].strip()
+
+                if author_name == "":
+                    author_name = None
+            else:
+                author_name = None
+
+        if len(page.xpath(chapter_title_xp)) != 0:
+            title = page.xpath(chapter_title_xp)[0]
+        else:
+            title = None
+
+        chapter = Chapter(
+            title = title,
+            id = int(page.xpath(chapter_id_xp)[0]),
+            content = html.tostring(page.xpath(chapter_content_xp)[0], encoding="unicode"),
+            author_id = author_id,
+            author_name = author_name,
+            choices = choices,
+            created = parse_date(page.xpath(chapter_created_date_xp)[0])
+        )
+    except Exception as e:
+        print ("Scraping error at " + url)
+        with open('scrapingerror.html','w',encoding='utf-8') as o:
+            o.write(html.tostring(page))
+        raise e
+
+    return chapter
+
+def get_recent_chapters(story_id):
+    url = "https://www.writing.com/main/interactive-story/item_id/" + story_id + "/action/recent_chapters"
+    page = get_page(url)
     
-    def xpath(path):
-        return chapter.xpath(path.format(xpathformat))
+    while hasServerRefusal(page):
+        page = get_page(url)
 
-    #Title
-    data.title = encodingBruteForce(xpath(chapter_title_xp)[0])
 
-    #Chapter content
+    output = {}
+    recents = page.xpath(recent_elements_xp)
+
+    url_cutoff = page.xpath(recent_link_xp)[0].rfind("/") + 1
+    for recent in recents:
+        #the descent
+        link = recent.xpath(recent_link_xp)[0][url_cutoff:]
+        date = parse_short_date_time(" ".join(recent.xpath(recent_date_xp)))
+        output[link] = date
     
-    #Example chapter https://www.writing.com/main/interact/item_id/1924673-Acquiring-Powers-2/map/114331111
-    #Hack to convert take the latin-1 string, convert it back to bytes, and decode it as unicode
-    chapterText = html.tostring(xpath(chapter_content_xp)[0], encoding="unicode")
-    chapterText = encodingBruteForce(chapterText)
+    return output
 
-    data.content = chapterText
-
-
-    #Gives 3 results if member isn't deleted, else 1
-    #First one is interactive's creator
-    #Second is the chapter's author
-    #3rd is the chapter's author again but in the copyright link
-    author_name = xpath(chapter_member_name_xp)
+def get_outline(story_id):
+    """Gets a list of all possible chapters for scraping"""
+    url = "https://www.writing.com/main/interact/item_id/" + story_id + "/action/outline"
+    page = get_page(url)
     
-    if (len(author_name) is 1):
-        data.is_author_past = True
-    else:
-        data.author_name = author_name[1].text_content()
-        #Grab the title, split by new line, and cut off 'Username: ' which is 10 characters
-        data.author_id = author_name[1].attrib['title'].split("\n")[0][10:]
+    while hasServerRefusal(page):
+        page = get_page(url)
 
-    #Choices
-    choices = xpath(chapter_choices_xp)
-    for choice in choices:
-        data.choices.append(encodingBruteForce(choice.text_content()))
-    return data
-
-''' takes a story id and returns two lists [str1 str2 ...] where stri of the first list is an existing chapter descent in the story and stri of the second list is that chapter's title. sorry this is inconsistent with the other funcs...'''
-def get_chapter_list(story_id):
-    url = "http://www.writing.com/main/interact/item_id/" + story_id + "/action/outline"
-    while True:
-        outline = get_page(url)
-
-        #Did we hit a "heavy server volume" error?
-        if hasServerRefusal(outline) is False:
-            break
-
-    #Decided to re-write this because I had no clue what it was doing before.
     descents = []
-    names = []
-    outline_links = outline.xpath(outline_chapters_xpath)
+    outline_links = page.xpath(outline_chapters_xpath)
 
-    #Links default to https now, but I'm too lazy to change it everywhere, so gonna pull the URL and find the last / to cut off the
+    #Pull the URL and find the last / to cut off the preceeding URL
     url_cutoff = outline_links[0].attrib['href'].rfind("/") + 1
     
     for a_element in outline_links:
         link = a_element.attrib['href'][url_cutoff:]
         descents.append(link)
-        names.append(encodingBruteForce(a_element.text_content()))
 
-    return descents, names
-
-''' takes a link to a story landing page and returns a StoryInfo. '''
-def get_story_info(url,award_banner=False):
-    story = get_page(url)
-    data = StoryInfo()
-
-    assertNotServerRefusal(story)
-
-    formatter = ""
-    if award_banner:
-        formatter = "1"
-    else:
-        formatter = "0"
-        
-    def xpath(path):
-        return story.xpath(path.format(formatter))
-
-    try:
-        #pretty title
-        data.pretty_title = xpath(story_title_xp)[0]
-
-        #author id
-        authorlink = xpath(story_author_id_xp)[0].attrib['href']
-        data.author_id = authorlink[authorlink.rfind('/')+1:]
-
-        data.author_name = xpath(story_author_name_xp)[0]
-
-        #description
-        data.description = html.tostring(xpath(story_description_xp)[0], encoding="unicode", with_tail=False)
-
-        #brief description
-        data.brief_description = xpath(story_brief_description_xp)[0]
-
-        #image url
-        data.image_url = xpath('//meta[@property="og:image"]')[0].attrib["content"]
-
-    except Exception as e:
-        if award_banner:
-            raise e
-        else:
-            return get_story_info(url,True)
-
-    return data
+    return descents
 
 
-''' generator that yields the url of every page of the search, given the url for the first (or ith) page. '''
-def all_search_urls(search_url):
-    search = get_page(search_url)
-    dropdown = search.xpath(search_pages_dropdown_xp)[0]
-    for o in dropdown.value_options:
-        u = re.sub(r'&page=(\d+)','&page=' + o, search_url)
-        u= re.sub(r'&resort_page=(\d+)','&resort_page=' + str(int(o)-1),u)
-        yield u
+#TODO return dates too, so we can more easily get last modified dates to compare
+def get_all_interactives_list(pages = -1, start_page = 1, oldest_first = False, search_string = None):
+    search_results_xp = "//div[@id='Content_Column_Inside']/div[@class='norm']//a[starts-with(@href, 'https://www.Writing.Com/main/interactive-story/')]"
+    #search_dates = "//div[@id='Content_Column_Inner']/div[@class='norm']//div[starts-with(text(), 'Updated')]"
 
-''' takes a search page element tree and returns all INTERACTIVE item_ids listed '''
-def get_search_page_interactive_ids(search):
-    assertNotServerRefusal(search)
-    listings = search.xpath(search_results_xp)[0]
-    items = []
-    for l in listings.iterchildren():
-        #I can only do interactive stories!
-        items.append(re.findall(r"interactive-story/item_id/(.+?)'" , list(l.getchildren())[0].attrib['oncontextmenu'])[0])
-    return items
+    search_url = "https://www.writing.com/main/search.php?"
+    search_variables = {
+        "action": "change_page",
+        "ps_type": "5000",
+        "ps" : 1,
+        "sort_by": "item_modified_time+DESC",
+        "sort_by_last": "item_modified_time+DESC",
+        "page": 1
+    }
 
-''' returns a list of all interactive ids for every result in this search page and all subsequent ones. '''
-def get_search_ids(search_url):
-    urls = list(all_search_urls(search_url))
-    for idx,u in enumerate(urls):
-        print('# Gathering ids from page {}/{}'.format(idx+1,len(urls)))
-        ids = get_search_page_interactive_ids(get_page(u))
-        for id in ids:
-            yield id
+    if search_string is not None:
+        search_variables['search_for'] = search_string
     
+    if oldest_first:
+        search_variables['sort_by'] = 'item_modified_time'
+        search_variables['sort_by_last'] = 'item_modified_time'
+
+    current_page = start_page
+
+    results = -1
+    interactives = []
+    dates = []
+    url_cutoff = None
+    while results != 0:
+        print ("Getting page " + str(current_page))
+
+        search_variables['page'] = current_page
+        url = search_url + parse.urlencode(search_variables)
+        page = get_page_search(url)
+
+        search_results = page.xpath(search_results_xp)
+        if url_cutoff is None:
+            #Pull the URL and find the last / to cut off the preceeding URL
+            url_cutoff = search_results[0].attrib['href'].rfind("/") + 1
+
+        for interactive_link in search_results:
+            interactives.append(
+                interactive_link.attrib['href'][url_cutoff:]
+            )
+
+        #date_results = page.xpath(search_dates)
+        #TODO
+
+        results = len(search_results)
+        current_page += 1
+
+        if (pages != -1 and (current_page - start_page) >= pages):
+            break
+
+    return interactives
+    #with open('everything.txt','w',encoding='utf-8') as o:
+    #    for interactive in interactives:
+    #        o.write(interactive + "\n")
