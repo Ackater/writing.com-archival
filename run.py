@@ -23,7 +23,7 @@ def update(args):
         if ('story.json' in files):
             archive_info = json.loads(open(root + "/story.json").read())
             if 'deleted' not in archive_info['info']:
-                archive(archive_info['info'].id)
+                archive(str(archive_info['info']['id']))
 
 parser = argparse.ArgumentParser(description='Scrapes Writing.com')
 subparsers = parser.add_subparsers()
