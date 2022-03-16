@@ -2,6 +2,8 @@ from urllib import request, parse
 import json, re, os, mechanicalsoup
 from datetime import datetime, timezone, timedelta
 from defs import Chapter, StoryInfo, ServerRefusal
+from dateutil import tz
+
 import time
 
 import lxml
@@ -35,6 +37,7 @@ story_description_xp        =   "//*[@id='Content_Column_Inside']/div[6]/div[2]/
 story_brief_description_xp  =   "//big/text()"
 story_image_url_xp          =   "//meta[@property='og:image']/@content"
 story_id_xp                 =   "//span[@class='selectAll']/text()"
+story_rating_xp             =   '//div[starts-with(text(),"Rated: ")]/descendant-or-self::*/text()'
 story_created_date          =   '//div[starts-with(text(),"Created")]/descendant-or-self::*/text()'
 story_modified_date         =   '//div[starts-with(text(),"Modified")]/descendant-or-self::*/text()'
 story_size                  =   '//div[starts-with(text(),"Size")]/descendant-or-self::*/text()'
@@ -49,13 +52,15 @@ outline_chapters_xpath = "//*[@id='Content_Column_Inside']/div[6]/div[2]/pre//a"
 redirect_links_xpath = "//a[starts-with(@href, 'https://www.Writing.Com/main/redirect')]"
 
 #For the heavy server message
-refusal_text_substring = "or try again in just a few minutes".lower()
+refusal_text_substring = "or try again soon".lower()
 
 #A different error message that shows up once in a while
 temporary_unavailable_substring = "The site is temporarily unavailable.".lower()
 temporary_unavailable2_substring = "Database Temporarily Too Busy".lower()
 #A less nuclear option than above. Not sure if the UnicodeDecodeError was necessary
 def hasServerRefusal(page):
+    if len(page.text_content()) == 0:
+        return True
     if page.text_content().lower().find(refusal_text_substring) >= 0:
         return True
     if page.text_content().lower().find(temporary_unavailable_substring) >= 0:
@@ -69,29 +74,22 @@ def hasServerRefusal(page):
 def parse_date_time(date):
     date = re.sub(r"(Modified:|Created:) ", "", date)
     date = re.sub(r"(st|nd|rd|th),", ",", date)
-
     timedate = datetime.strptime(date, "%B %d, %Y at %I:%M%p")
 
-    #Set timezone to be UTC-5 for eastern. TODO Wait for DST to see how that is handled
-    timedate = timedate.replace(tzinfo=timezone(timedelta(hours = -5)))
-
+    timedate = timedate.replace(tzinfo=tz.gettz('America/New_York'))
     return int(timedate.timestamp())
 
 #Parse shorthand dates like Oct 21, 2020 8:03 pm
 def parse_short_date_time(date):
     timedate = datetime.strptime(date, "%b %d, %Y %I:%M %p")
 
-    #Set timezone to be UTC-5 for eastern. TODO Wait for DST to see how that is handled
-    timedate = timedate.replace(tzinfo=timezone(timedelta(hours = -5)))
-
+    timedate = timedate.replace(tzinfo=tz.gettz('America/New_York'))
     return int(timedate.timestamp())
 
 def parse_date(date):
     timedate = datetime.strptime(date, "Created: %m-%d-%Y")
 
-    #Set timezone to be UTC-5 for eastern. TODO Wait for DST to see how that is handled
-    timedate = timedate.replace(tzinfo=timezone(timedelta(hours = -5)))
-
+    timedate = timedate.replace(tzinfo=tz.gettz('America/New_York'))
     return int(timedate.timestamp())
 
 ''' takes a link to a story landing page and returns a StoryInfo. '''
@@ -109,6 +107,10 @@ def get_story_info(story_id):
     #Deleted item can't acccess, can not scrape
     if page.text_content().lower().find("wasn't found within writing.com") >= 0:
         return False
+
+    #Not an interactive
+    if page.text_content().lower().find("list_items/item_type/interactive-stories") == 0:
+        return -2
 
     try:
         story_info = StoryInfo(
@@ -178,7 +180,7 @@ def get_chapter(url):
             author_id = author_id,
             author_name = author_name,
             choices = choices,
-            created = parse_date(page.xpath(chapter_created_date_xp)[0])
+            created = parse_date(page.xpath(chapter_created_date_xp)[0]),
         )
     except Exception as e:
         print ("Scraping error at " + url)
@@ -239,8 +241,8 @@ def get_all_interactives_list(pages = -1, start_page = 1, oldest_first = False, 
         "action": "change_page",
         "ps_type": "5000",
         "ps" : 1,
-        "sort_by": "item_modified_time+DESC",
-        "sort_by_last": "item_modified_time+DESC",
+        "sort_by": "item_modified_time DESC",
+        "sort_by_last": "item_modified_time DESC",
         "page": 1
     }
 
