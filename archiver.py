@@ -13,8 +13,10 @@ import session
 def archive_list(filename):
     with open(filename, 'r') as o:
         for line in o:
-            #Make sure to clear newlines
-            archive(line.rstrip())
+            print ("Checking " + line.rstrip())
+            info = get_story_info(line.rstrip())
+            if info is False:
+                print (line.rstrip() + " deleted?")
 
 def archive_all(pages = -1, oldest_first = False, force_update = False, full_update = False, premium = False, threads_per_batch = 10, start_page = 1, search_string = None):
     #2 interactive with broken outlines that do not play well with a membership's outline preview feature
