@@ -76,7 +76,7 @@ def archive(story_id, force_update = False, full_update = False, threads_per_bat
         temp_old_archive = info.to_dict()
         old_archive['info'].update(temp_old_archive)
         #Hack for missing field, maybe dlete in the future
-        if 'last_full_update' not in old_archive['info']:
+        if old_archive['info'].get('last_full_update') is None:
             old_archive['info']['last_full_update'] = 0
 
         #full update check
