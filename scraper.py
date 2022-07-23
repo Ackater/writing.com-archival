@@ -20,14 +20,14 @@ from session import browser
 #   Really important note here. If the chapter's descent is '1' or '0' (it is the first chapter), you must format these chapter xpaths with '1'. else, format them with '0'.
 #   This is because the first chapter doesn't have the additional div element before all content announcing which choice you just took.
 
-chapter_title_xp                = "//span[starts-with(@title, 'Created')]/h2/text()"
-chapter_content_xp              = "//div[@style='padding:25px 6px 20px 11px;min-width:482px;']/div"
+chapter_title_xp                = "//h2[starts-with(@title, 'Created')]/text()"
+chapter_content_xp              = "//div[contains(@style,'min-width:482px;')]/div"
 chapter_author_name_xp          = "(//a[starts-with(@title, 'Username:')])[2]/text()"
 chapter_author_name_xp_2        = '//i[starts-with(text(), "by")]/text()' #deleted authors?
 chapter_author_link_xp          = '(//a[@class="imgLink imgPortLink"])[2]/@href' 
-chapter_choices_xp              = "//div[@id='end_choices']/parent::*//a"
+chapter_choices_xp              = '//*[starts-with(@id,"choices_")]//a'
 chapter_id_xp                   = '//*[text()="ID #"]/b/text()' #https://www.writing.com/main/interact/cid/#### it's a link on member accounts
-chapter_created_date_xp         = "//span[starts-with(@title, 'Created')]/@title"
+chapter_created_date_xp         = "//*[@id='showDetailsArea']/div/div[1]/div[3]"
 
 #For a story page
 story_title_xp              =   "//a[contains(@class, 'proll')]/text()"
@@ -91,6 +91,10 @@ def parse_date(date):
 
     timedate = timedate.replace(tzinfo=tz.gettz('America/New_York'))
     return int(timedate.timestamp())
+
+def parse_date_element(ele):
+    # new format where the 'am/pm' designation is in a sub-element
+    return parse_date_time(ele.text + ele[0].text)
 
 ''' takes a link to a story landing page and returns a StoryInfo. '''
 def get_story_info(story_id):
@@ -180,7 +184,7 @@ def get_chapter(url):
             author_id = author_id,
             author_name = author_name,
             choices = choices,
-            created = parse_date(page.xpath(chapter_created_date_xp)[0]),
+            created = parse_date_element(page.xpath(chapter_created_date_xp)[0]),
         )
     except Exception as e:
         print ("Scraping error at " + url)
