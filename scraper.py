@@ -41,6 +41,7 @@ story_rating_xp             =   '//div[starts-with(text(),"Rated: ")]/descendant
 story_created_date          =   '//div[starts-with(text(),"Created")]/descendant-or-self::*/text()'
 story_modified_date         =   '//div[starts-with(text(),"Modified")]/descendant-or-self::*/text()'
 story_size                  =   '//div[starts-with(text(),"Size")]/descendant-or-self::*/text()'
+story_keywords              =   '//meta[@name="keywords"]/@content'
 
 recent_elements_xp          =   "//div[@class='mainLineBorderBottom'][@style='relative;padding:10px;']"
 recent_date_xp              =   ".//div[@style='float:right;padding:0px 0px 0px 5px;']/text()"
@@ -116,6 +117,10 @@ def get_story_info(story_id):
     if page.text_content().lower().find("list_items/item_type/interactive-stories") == 0:
         return -2
 
+    keywords = page.xpath(story_keywords)
+    if len(keywords):
+        keywords = keywords[0].split()
+
     try:
         story_info = StoryInfo(
             id = int(page.xpath(story_id_xp)[0]),
@@ -127,7 +132,8 @@ def get_story_info(story_id):
             created = parse_date_time(page.xpath(story_created_date)[0] + page.xpath(story_created_date)[1]),
             modified = parse_date_time(page.xpath(story_modified_date)[0] + page.xpath(story_modified_date)[1]),
             image_url = page.xpath(story_image_url_xp)[0],
-            last_full_update = None
+            last_full_update = None,
+            keywords=keywords
         )
 
     except Exception as e:
