@@ -1,7 +1,7 @@
 from collections import namedtuple
 from typing import Dict, Any
 
-class StoryInfo(namedtuple('StoryInfo', ['id', 'author_id', 'author_name', 'description', 'pretty_title', 'brief_description', 'image_url', 'created', 'modified', 'last_full_update'])):
+class StoryInfo(namedtuple('StoryInfo', ['id', 'author_id', 'author_name', 'description', 'pretty_title', 'brief_description', 'image_url', 'created', 'modified', 'last_full_update', 'keywords'])):
     def to_dict(self) -> Dict[str, Any]:
         temp = self._asdict()
         for key in self._fields:
