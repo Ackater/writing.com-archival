@@ -1,5 +1,5 @@
 from urllib import request, parse
-import json, re, os, mechanicalsoup
+import json, re, os, mechanicalsoup, string
 from datetime import datetime, timezone, timedelta
 from defs import Chapter, StoryInfo, ServerRefusal
 from dateutil import tz
@@ -117,9 +117,11 @@ def get_story_info(story_id):
     if page.text_content().lower().find("list_items/item_type/interactive-stories") == 0:
         return -2
 
-    keywords = page.xpath(story_keywords)
-    if len(keywords):
-        keywords = keywords[0].split()
+    story_kw = page.xpath(story_keywords)
+    if len(story_kw):
+        story_kw = story_kw[0] # collapse xpath result to string
+        story_kw = story_kw.translate(str.maketrans('', '', string.punctuation)) # strip punctuation
+        story_kw = story_kw.split() # make into array of keywords
 
     try:
         story_info = StoryInfo(
@@ -133,7 +135,7 @@ def get_story_info(story_id):
             modified = parse_date_time(page.xpath(story_modified_date)[0] + page.xpath(story_modified_date)[1]),
             image_url = page.xpath(story_image_url_xp)[0],
             last_full_update = None,
-            keywords=keywords
+            keywords=story_kw
         )
 
     except Exception as e:
