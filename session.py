@@ -16,19 +16,19 @@ name_in_archive = False
 index_html_generation = False
 premium = False
 
+
 browser = mechanicalsoup.Browser(
     #soup_config={"features":"html.parser"}, Maybe don't use the soup TODO try this with those bad outlines
-    user_agent="Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0"
+    user_agent="Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0"
 )
 
 with open(r'config.yaml') as file:
     config_yaml = yaml.load(file, Loader=yaml.FullLoader)
     username = config_yaml['username']
     password = config_yaml['password']
+    premium = config_yaml['premium']
     name_in_archive = config_yaml['name_in_archive']
     index_html_generation = config_yaml['index_html_generation']
-    #premium = config_yaml['premium']
-
 
 '''Saves session cookies (run once you have a logged-in account)'''
 def __save_session():
@@ -52,7 +52,8 @@ def __reload_session():
 
         #TODO can maybe check if this comes with a login form
         #Disable the dynamic interactives just in case
-        browser.get("https://www.writing.com/main/my_account?action=set_q_i2&ajax=setDynaOffOn&val=-1")
+        if premium:
+            browser.get("https://www.writing.com/main/my_account?action=set_q_i3&ajax=setDynaOffOn&val=-1")
     else:
         __log_in()
 
@@ -63,7 +64,7 @@ def __log_in():
 
     #clear browser
     browser = mechanicalsoup.Browser(
-        user_agent="Mozilla/5.0 (Windows NT 6.1; rv:31.0) Gecko/20100101 Firefox/31.0"
+        user_agent="Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0"
     )
 
     login_p = browser.get('https://www.writing.com/main/login.php')
@@ -82,7 +83,8 @@ def __log_in():
     print("Submitted login form.")
 
     #Disable the dynamic interactives just in case
-    browser.get("https://www.writing.com/main/my_account?action=set_q_i2&ajax=setDynaOffOn&val=-1")
+    if premium:
+        browser.get("https://www.writing.com/main/my_account?action=set_q_i3&ajax=setDynaOffOn&val=-1")
 
     #Assume login successful.
     __save_session()
@@ -104,7 +106,7 @@ def get_page(url, encoding="utf-8"):
             response = browser.get(url)
 
             #If not logged in
-            
+
             #TODO Lock this? Multiple scrapers will trigger this at a time, and all try to login
             if response.soup.find("form",method="post",action="https://www.Writing.Com/main/login.php") is not None:
                 #Prompt for login and try again
@@ -114,18 +116,12 @@ def get_page(url, encoding="utf-8"):
             break
         except requests.exceptions.ConnectionError as e:
             pass
-    
+
     if (tries == 4):
         raise ServerRefusal('Could not connect to server after 5 attempts')
 
-    #with open('chapter.html','wb') as o:
-    #    o.write(response.content)
-
-    if encoding == "utf-8":
-        new_doc = detwingle(response.content)
-        tree = html.fromstring(new_doc.decode("utf-8"))
-    else: 
-        tree = html.fromstring(new_doc.decode(encoding))
+    #html.fromstring will not output unicode if the entire repsonse isn't unicode
+    tree = html.fromstring(detwingle(response.content))
 
     #Handle all of writing.com's redirect links here
     links = tree.xpath("//a[starts-with(@href, 'https://www.Writing.Com/main/redirect')]")

@@ -11,3 +11,7 @@ name_in_archive: True
 #But needed if you want to read locally without requiring a webserver
 #See issue #34
 index_html_generation : True
+
+#Turns off the premium chapter loading just in case
+#Not updated anymore as I don't use it
+premium: False

@@ -18,22 +18,15 @@ def archive_list(filename):
             if info is False:
                 print (line.rstrip() + " deleted?")
 
-def archive_all(pages = -1, oldest_first = False, force_update = False, full_update = False, premium = False, threads_per_batch = 10, start_page = 1, search_string = None):
-    #2 interactive with broken outlines that do not play well with a membership's outline preview feature
-    #TODO option for normal account to grab the outlines
-    bad_list = ['1393778-Comic-Book-Womens-Feet', '1575204-Fantasy-Foot-Fetish-Mansion', '1832687-The-Alternate-Dimension-Wish']
-    #1832687-The-Alternate-Dimension-Wish is there because of this fucking guy https://www.writing.com/main/interactive-story/item_id/1832687-The-Alternate-Dimension-Wish/map/15533221
-
+def archive_all(pages = -1, oldest_first = False, force_update = False, full_update = False, premium = False, threads_per_batch = 3, start_page = 1, search_string = None, recents_only = False, ignore_date = False):
     #TODO modify this to pass a date instead so can check the date before scraping chapter?
     interactives = get_all_interactives_list(start_page = start_page, pages = pages, oldest_first = oldest_first, search_string = search_string)
     for interactive in interactives:
-        if premium and interactive in bad_list:
-            continue
-        complete = archive(interactive, force_update = force_update, full_update = full_update, threads_per_batch = threads_per_batch) 
+        complete = archive(interactive, force_update = force_update, full_update = full_update, threads_per_batch = threads_per_batch, recents_only = recents_only, ignore_date = ignore_date ) 
         if complete is False:
             break
 
-def archive(story_id, force_update = False, full_update = False, threads_per_batch = 10):
+def archive(story_id, force_update = False, full_update = False, threads_per_batch = 5, recents_only = False, ignore_date = False):
     archive_dir = "archive"
 
     print('# {}: Gathering info.'.format(story_id))
@@ -42,6 +35,8 @@ def archive(story_id, force_update = False, full_update = False, threads_per_bat
     info = get_story_info(story_id)
     if info == -1:
         print('# {}: Private story. Cant scrape'.format(story_id))
+        return True
+        #TODO
 
     if info is False:
         print('# {}: Deleted story. Cant scrape'.format(story_id))
@@ -51,6 +46,9 @@ def archive(story_id, force_update = False, full_update = False, threads_per_bat
 
     if session.name_in_archive:
         story_root = archive_dir+"/"+ str(info.id) + " " + str(info.pretty_title) +"/"
+
+    if not os.path.exists(story_root):
+        os.makedirs(story_root)
 
     chapters = {}
     error_chapters = {}
@@ -67,7 +65,7 @@ def archive(story_id, force_update = False, full_update = False, threads_per_bat
         last_modified = old_archive['info']['modified']
 
         #Has not been modified since last date
-        if info.modified <= old_archive['info']['modified'] and force_update == False and full_update == False:
+        if info.modified <= old_archive['info']['modified'] and force_update == False and full_update == False and ignore_date == False:
             print('# {}: No updates - has not been modified'.format(story_id))
             return True
 
@@ -75,10 +73,12 @@ def archive(story_id, force_update = False, full_update = False, threads_per_bat
         chapters = old_archive['chapters']
 
         #update info with new info
-        temp_old_archive = info.to_dict()
+        temp_old_archive = info._asdict()
+        del temp_old_archive['last_full_update']
+        
         old_archive['info'].update(temp_old_archive)
         #Hack for missing field, maybe dlete in the future
-        if old_archive['info'].get('last_full_update') is None:
+        if 'last_full_update' not in old_archive['info'] or old_archive['info']['last_full_update'] is None:
             old_archive['info']['last_full_update'] = 0
 
         #full update check
@@ -93,7 +93,7 @@ def archive(story_id, force_update = False, full_update = False, threads_per_bat
 
         #Count how many recent chapters we've had since the last update
         for descent, recent in recents.items():
-            if not descent in chapters:
+            if not descent in chapters or 'deleted' in chapters[descent] or int(chapters[descent]['created']) != int(recent):
                 new_recent_chapters.append(descent)
                 #TODO compare dates as a way to check chapters that have been deleted and re-used
 
@@ -111,10 +111,11 @@ def archive(story_id, force_update = False, full_update = False, threads_per_bat
                 o.write(dumps(story, indent=4, sort_keys=True, separators=(',',':')))
 
             return True
-        elif not( len(new_recent_chapters) < len(recents) ) or force_update == True:
+        elif not( len(new_recent_chapters) < len(recents) ):
             # Skip the outline and use the recent chapters list if there is at least 1 recent chapter that is already grabbed
             # Clean the list otherwise
             new_recent_chapters = []
+
 
     #Grab recents if it has not been set
     if recents is False:
@@ -122,16 +123,28 @@ def archive(story_id, force_update = False, full_update = False, threads_per_bat
         recents = get_recent_chapters(story_id)
 
     #Grab outline if recent chapters was not enough
-    if len (new_recent_chapters ) == 0 or force_update is True or full_update is True:
+    if recents_only is False and ( len (new_recent_chapters ) == 0 or force_update is True or full_update is True ):
         #Outline
         print('# {}: Getting outline.'.format(story_id))
         canon_descents = get_outline(story_id)
 
+        #Mark deleted chapters, cuz they're deleted
+        deleted_chapters = list( set(chapters.keys()) - set(canon_descents) )
+        for deleted_chapter in deleted_chapters:
+            chapters[deleted_chapter]['deleted'] = True
+        
+        #TODO move this to the end
+        for chapter in canon_descents:
+            if chapter in chapters and 'deleted' in chapters[chapter]:
+                del chapters[chapter]['deleted']
+
         #Filter out all the already scraped chapters unless we doing a full update
+        #TODO handle deleted chapters
         if full_update is True :
             missing_chapters = canon_descents
         else:
-            missing_chapters = list( set(canon_descents) - set(chapters.keys()) )
+            #new_recent_chapters might contain deleted chapters
+            missing_chapters = list( set(canon_descents) - set(chapters.keys()) ) + new_recent_chapters
     else:
         #Use the list of recent chapters instead
         missing_chapters = new_recent_chapters
@@ -161,6 +174,12 @@ def archive(story_id, force_update = False, full_update = False, threads_per_bat
         if len(error_chapters) == 0:
             temp_info = info._asdict()
             temp_info['last_full_update'] = info.modified
+            info = StoryInfo(**temp_info)
+
+    #set the modified date if we have any errors to prevent it from thinking theres no updates in the future
+    if len(error_chapters) > 0:
+            temp_info = info._asdict()
+            temp_info['modified'] = info.modified - 100;
             info = StoryInfo(**temp_info)
 
     #TODO run a sanity check that each chapter has a matching choice above it, in case of edits (happens)

@@ -1,5 +1,5 @@
 from urllib import request, parse
-import json, re, os, mechanicalsoup, string
+import json, re, os, mechanicalsoup
 from datetime import datetime, timezone, timedelta
 from defs import Chapter, StoryInfo, ServerRefusal
 from dateutil import tz
@@ -38,6 +38,7 @@ story_brief_description_xp  =   "//big/text()"
 story_image_url_xp          =   "//meta[@property='og:image']/@content"
 story_id_xp                 =   "//span[@class='selectAll']/text()"
 story_rating_xp             =   '//div[starts-with(text(),"Rated: ")]/descendant-or-self::*/text()'
+story_access_xp             =   '//div[starts-with(text(),"Access:")]/descendant-or-self::*/text()'
 story_created_date          =   '//div[starts-with(text(),"Created")]/descendant-or-self::*/text()'
 story_modified_date         =   '//div[starts-with(text(),"Modified")]/descendant-or-self::*/text()'
 story_size                  =   '//div[starts-with(text(),"Size")]/descendant-or-self::*/text()'
@@ -53,20 +54,24 @@ outline_chapters_xpath = "//*[@id='Content_Column_Inside']/div[6]/div[2]/pre//a"
 redirect_links_xpath = "//a[starts-with(@href, 'https://www.Writing.Com/main/redirect')]"
 
 #For the heavy server message
-refusal_text_substring = "or try again soon".lower()
+refusal_text_substring = b"or try again soon"
 
 #A different error message that shows up once in a while
-temporary_unavailable_substring = "The site is temporarily unavailable.".lower()
-temporary_unavailable2_substring = "Database Temporarily Too Busy".lower()
+temporary_unavailable_substring = b"The site is temporarily unavailable."
+temporary_unavailable2_substring = b"Database Temporarily Too Busy"
 #A less nuclear option than above. Not sure if the UnicodeDecodeError was necessary
+
 def hasServerRefusal(page):
-    if len(page.text_content()) == 0:
+    #Raw byte string check because some elements are not valid unicode
+    check = html.tostring(page)
+
+    if len(check) == 0:
         return True
-    if page.text_content().lower().find(refusal_text_substring) >= 0:
+    if refusal_text_substring in check:
         return True
-    if page.text_content().lower().find(temporary_unavailable_substring) >= 0:
+    if temporary_unavailable_substring in check:
         return True
-    if page.text_content().lower().find(temporary_unavailable2_substring) >= 0:
+    if temporary_unavailable2_substring in check:
         return True
     return False
 
@@ -93,10 +98,6 @@ def parse_date(date):
     timedate = timedate.replace(tzinfo=tz.gettz('America/New_York'))
     return int(timedate.timestamp())
 
-def parse_date_element(ele):
-    # new format where the 'am/pm' designation is in a sub-element
-    return parse_date_time(ele.text + ele[0].text)
-
 ''' takes a link to a story landing page and returns a StoryInfo. '''
 def get_story_info(story_id):
     url = "https://www.writing.com/main/interact/item_id/" + story_id
@@ -120,8 +121,13 @@ def get_story_info(story_id):
     story_kw = page.xpath(story_keywords)
     if len(story_kw):
         story_kw = story_kw[0] # collapse xpath result to string
-        story_kw = story_kw.translate(str.maketrans('', '', string.punctuation)) # strip punctuation
-        story_kw = story_kw.split() # make into array of keywords
+        story_kw = story_kw.split(",") # make into array of keywords
+        story_kw = [kw.strip() for kw in story_kw] #Strip whitespaces
+
+    access = None
+    #Temporary registered users checker
+    if page.text_content().lower().find("registered users and higher only") >= 0:
+        access = True
 
     try:
         story_info = StoryInfo(
@@ -134,8 +140,10 @@ def get_story_info(story_id):
             created = parse_date_time(page.xpath(story_created_date)[0] + page.xpath(story_created_date)[1]),
             modified = parse_date_time(page.xpath(story_modified_date)[0] + page.xpath(story_modified_date)[1]),
             image_url = page.xpath(story_image_url_xp)[0],
+            rating = page.xpath(story_rating_xp)[1],
             last_full_update = None,
-            keywords=story_kw
+            keywords=story_kw,
+            access = access
         )
 
     except Exception as e:
@@ -149,12 +157,6 @@ def get_chapter(url):
     if hasServerRefusal(page):
         raise ServerRefusal('Heavy Server Volume')
 
-    #Error premium mode to inline chapters is on. Disable it and try again
-    if len(page.xpath(chapter_content_xp)) == 0:
-        get_page("https://www.writing.com/main/my_account?action=set_q_i2&ajax=setDynaOffOn&val=-1")
-        page = get_page(url)
-        if hasServerRefusal(page):
-            raise ServerRefusal('Heavy Server Volume')
 
     try:
         choices = []
@@ -185,6 +187,11 @@ def get_chapter(url):
         else:
             title = None
 
+        if len(page.xpath(chapter_id_xp)) != 0:
+            chapter_id = page.xpath(chapter_id_xp)[0]
+        else:
+            chapter_id = None
+
         chapter = Chapter(
             title = title,
             id = int(page.xpath(chapter_id_xp)[0]),
@@ -193,10 +200,11 @@ def get_chapter(url):
             author_name = author_name,
             choices = choices,
             created = parse_date(page.xpath(chapter_created_date_xp)[0]),
+            deleted = None
         )
     except Exception as e:
         print ("Scraping error at " + url)
-        with open('scrapingerror.html','w',encoding='utf-8') as o:
+        with open('scrapingerror.html','wb') as o:
             o.write(html.tostring(page))
         raise e
 
