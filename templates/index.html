@@ -428,6 +428,10 @@
                     }
                     //Change whatever needs to be changed
                     params[change] = value;
+                    
+                    //Reset page if search query or sort by changes
+                    if (change != "page") 
+                        params.page = 1;
                     return params;
                 }
             },
