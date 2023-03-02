@@ -132,6 +132,11 @@
                     </h6>
                 </div>
             </div>
+            
+            <div class="mb-3 d-flex justify-content-between" v-if="total_pages">
+                <router-link class="btn btn-secondary" v-bind:class="[(page == 1) ? 'disabled' : '']" v-bind:to="{ name: 'search', params: buildParams('page', page - 1) }">Previous page</router-link>
+                <router-link class="btn btn-primary" v-bind:class="[(page >= total_pages) ? 'disabled' : '']" v-bind:to="{ name: 'search', params: buildParams('page', page + 1)}">Next page</router-link>
+            </div>
         </div>
     </script>
 
