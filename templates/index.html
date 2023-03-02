@@ -246,14 +246,18 @@
                 </p>
             </div>
 
-            <div class="list-group list-group-flush">
-
-                <router-link v-for="(choice, index) in chapter.choices" v-bind:key="index"
-                    v-bind:class="{ disabled: notExist(index), active: index == selected }" class="list-group-item list-group-item-action"
-                    v-bind:to="{ name: 'chapter', params: {current_index: current_index + (index + 1) } }">
-                    {{ choice }}
+            <div class="list-group list-group-flush" v-for="(choice, index) in chapter.choices">
+                <router-link  v-bind:key="index"
+                v-if="!notExist(index)"
+                v-bind:class="{ disabled: notExist(index), active: index == selected }" class="list-group-item list-group-item-action"
+                v-bind:to="{ name: 'chapter', params: {current_index: current_index + (index + 1) } }">
+                {{ choice }} 
                 </router-link>
-                </ul>
+                <li
+                class="list-group-item list-group-item-action disabled" 
+                v-else>
+                {{ choice }}
+                </li>
             </div>
         </section>
     </script>
